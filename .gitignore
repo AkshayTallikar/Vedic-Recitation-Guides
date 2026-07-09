@@ -1,0 +1,16 @@
+# Large source files — not needed for the published site
+source/
+source2/
+source3/
+build/
+
+# OS / editor cruft
+.DS_Store
+*.log
+
+# Local deployment packaging
+dist/
+.openai/
+site/audio/_orig_backup/
+sadachara-website/audio/_excluded/
+sadachara-website/audio/_stale/

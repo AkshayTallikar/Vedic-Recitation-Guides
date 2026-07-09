@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vedic Recitation Guides</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:#fbf6ec; --card:#fffdf8; --ink:#2c2418; --muted:#8a7a5c;
+    --accent:#9a3412; --accent2:#b5471f; --line:#e7dcc6; --gold:#b98a2e;
+    --shadow:0 1px 3px rgba(80,50,20,.08), 0 8px 24px rgba(80,50,20,.06);
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+         background:var(--bg); color:var(--ink); line-height:1.55; }
+  header.hero { background:linear-gradient(160deg,#7a2e12,#b5471f 70%); color:#fff8ef;
+                padding:52px 20px 40px; text-align:center; border-bottom:3px solid var(--gold); }
+  .om { font-size:38px; opacity:.9; margin-bottom:8px; }
+  h1 { font-family:'Noto Serif',serif; font-size:2rem; margin:0 0 8px; font-weight:600; }
+  header.hero p { margin:0; opacity:.9; font-size:1.02rem; max-width:620px; margin:0 auto; }
+  main { max-width:880px; margin:0 auto; padding:38px 20px 70px; }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:22px; }
+  @media (max-width:680px) { .grid { grid-template-columns:1fr; } }
+  a.tile { display:block; background:var(--card); border:1px solid var(--line); border-radius:18px;
+           padding:26px 24px; text-decoration:none; color:inherit; box-shadow:var(--shadow);
+           transition:transform .12s ease, border-color .12s ease; }
+  a.tile:hover { transform:translateY(-2px); border-color:var(--accent2); }
+  .tile .icon { font-size:1.6rem; margin-bottom:10px; }
+  .tile h2 { font-family:'Noto Serif',serif; font-size:1.3rem; margin:0 0 6px; color:var(--accent); }
+  .tile .kicker { font-size:.78rem; text-transform:uppercase; letter-spacing:.6px; color:var(--muted);
+                  font-weight:600; margin-bottom:4px; }
+  .tile p.desc { font-size:.94rem; color:#4a4030; margin:8px 0 14px; }
+  .stats { display:flex; gap:8px; flex-wrap:wrap; }
+  .stat { font-size:.72rem; border:1px solid var(--line); border-radius:20px; padding:3px 10px;
+          color:var(--muted); background:#fff; }
+  .cta { margin-top:14px; font-size:.86rem; font-weight:600; color:var(--accent2); }
+  .loaded { margin:0 0 20px; text-align:center; color:var(--muted); font-size:.86rem; }
+  .loaded strong { color:var(--accent); font-weight:700; }
+  footer { text-align:center; color:var(--muted); font-size:.78rem; padding:20px; }
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="om">ॐ</div>
+  <h1>Vedic Recitation Guides</h1>
+  <p>Sanskrit ritual texts, English meaning, and audio — fully loaded for daily sādhana, sandhyāvandana, stotra practice, and pūjā.</p>
+</header>
+<main>
+  <p class="loaded"><strong>438</strong> total entries across <strong>8</strong> loaded collections, with <strong>248</strong> local audio clips where available.</p>
+  <div class="grid">
+    <a class="tile" href="sadachara-website/index.html">
+      <div class="icon">📖</div>
+      <div class="kicker">Reference collection</div>
+      <h2>Sadāchāra Saṅgrahaḥ · Shlokas</h2>
+      <p class="desc">131 shlokas from the Sadāchāra Saṅgrahaḥ manual — daily Sandhyāvandanam, japa, the full Lakṣmīnārāyaṇa deity-pūjā, and festival verses. Devanagari, IAST, English meaning, and ritual action for each, with audio and a browsable category index.</p>
+      <div class="stats">
+        <span class="stat">131 shlokas</span>
+        <span class="stat">112 with audio</span>
+        <span class="stat">19 text-only</span>
+        <span class="stat">7 categories</span>
+        <span class="stat">searchable</span>
+      </div>
+      <div class="cta">Browse the collection &rarr;</div>
+    </a>
+    <a class="tile" href="site/index.html">
+      <div class="icon">🛕</div>
+      <div class="kicker">Step-by-step walkthrough</div>
+      <h2>Recitation & Pūjā Guides</h2>
+      <p class="desc">A loaded guide hub with Detailed, Concise, and Sung Deva Pūjā audio walkthroughs; the complete Uttarādi Maṭha text; Śrī Sūkta Lakṣmī Pūjā; Ṛgvedīya Sandhyāvandana; and Hari Vāyu Stuti. Search, switch tabs, slow playback, and print clean study copies.</p>
+      <div class="stats">
+        <span class="stat">7 guides</span>
+        <span class="stat">307 sections</span>
+        <span class="stat">136 playable clips</span>
+        <span class="stat">Detailed · 56 min</span>
+        <span class="stat">Concise · 35 min</span>
+        <span class="stat">Sung · 67 min</span>
+        <span class="stat">Uttarādi Maṭha · 99 steps</span>
+        <span class="stat">Hari Vāyu Stuti</span>
+      </div>
+      <div class="cta">Start the walkthrough &rarr;</div>
+    </a>
+  </div>
+</main>
+<footer>Personal recitation project &middot; texts drawn from the Sadāchāra Saṅgrahaḥ (Raghavendra Trust, Udupi) and a narrated Deva Pūjā Paddhati recitation</footer>
+</body>
+</html>
