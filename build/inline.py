@@ -12,7 +12,7 @@ import os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 tpl = open(os.path.join(ROOT, "build", "index.template.html"), encoding="utf-8").read()
 
-SCRIPTS = ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js", "data7.js", "app.js"]
+SCRIPTS = ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js", "data7.js", "data8.js", "app.js"]
 tags = "\n".join('<script src="%s"></script>' % s for s in SCRIPTS)
 inlined = "\n".join(
     "<script>\n" + open(os.path.join(ROOT, "site", s), encoding="utf-8").read() + "\n</script>"
