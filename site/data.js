@@ -576,7 +576,7 @@
   {
     id:"34", slug:"vastra-abharana", group:"The Pūjā",
     contemplate:"Srihari Himself is in the form of the cakra and weapons, and Ramā Devī in them; presiding deities dwell in the ornaments. Tulasī is supreme — pūjā without it is unacceptable; archana with tulasī, leaf by leaf with His names, yields immeasurable benefit.",
-    action:"Dry and dress the idol; offer garments, the Kaustubha and ornaments, the weapons, the sacred thread, gandha, akṣata, and fragrant flowers with tulasī (one daḷa at a time).",
+    action:"Dry and dress the idol; offer garments, the Kaustubha and ornaments, the weapons, the sacred thread, gandha, akṣata, and fragrant flowers with tulasī (one daḷa at a time). During puṣpārcana, recite the Viṣṇu Sahasranāma or another Viṣṇu stotra.",
     start:"40:45", end:"41:48", type:"mantra",
     title:"Garments, Ornaments & Flowers",
     sanskrit:"Vastra · Ābharaṇa · Puṣpa",
@@ -588,8 +588,9 @@
 "oṃ namo nārāyaṇāya — gandhān samarpayāmi |\n"+
 "oṃ namo nārāyaṇāya — akṣatān samarpayāmi |\n"+
 "oṃ namo nārāyaṇāya — tulasī-daḷa-sahita dūrvādi nānā-vidha\n"+
-"parimaḷa-puṣpāṇi samarpayāmi ||",
-    meaning:"After the bath, dry and dress the icons. Offer (each with 'oṃ namo nārāyaṇāya', placing tulasī): a pair of garments, the Kaustubha and other ornaments, the cakra and other weapons, the sacred thread (yajñopavīta), sandal-paste (gandha), unbroken rice (akṣata), and fragrant flowers with tulasī. During the flower-worship, also recite the Viṣṇu Sahasranāma and remember the 24 forms (Keśava etc.) and the 10 avatāras (Matsya etc.); then salute all the surrounding āvaraṇa-devatās."
+"parimaḷa-puṣpāṇi samarpayāmi ||\n"+
+"samasta-āvaraṇa-devatābhyo namaḥ ||",
+    meaning:"After the bath, dry and dress the icons. Offer (each with 'oṃ namo nārāyaṇāya', placing tulasī): a pair of garments, the Kaustubha and other ornaments, the cakra and other weapons, the sacred thread (yajñopavīta), sandal-paste (gandha), unbroken rice (akṣata), and fragrant flowers with tulasī. During the flower-worship, recite the Viṣṇu Sahasranāma or another Viṣṇu stotra, and remember the 24 forms (Keśava etc.) and the 10 avatāras (Matsya etc.); then salute all the surrounding āvaraṇa-devatās."
   },
   {
     id:"35", slug:"dhupa-dipa", group:"The Pūjā",
