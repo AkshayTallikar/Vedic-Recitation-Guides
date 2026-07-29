@@ -6,7 +6,7 @@
 <title>Deva Pūjā Paddhati — Recitation Guide</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;600&family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
     --bg:#fbf6ee; --card:#fffdf9; --ink:#2b2118; --muted:#8a7a66;
@@ -116,6 +116,14 @@
     background:linear-gradient(#fffaf2,#fdf4e7);border-left:3px solid var(--gold);
     border-radius:8px;
   }
+  .mantra .lbl{font-family:'Inter',sans-serif}
+  .devanagari{
+    font-family:'Noto Serif Devanagari','Noto Serif',serif;color:#302820;
+    font-size:18px;line-height:1.9;white-space:pre-wrap;margin:10px 0 4px;
+    padding:14px 18px;background:#f7f5ef;border-left:3px solid #7d6a50;
+    border-radius:8px;
+  }
+  .devanagari .lbl{font-family:'Inter',sans-serif}
   .explain{margin:14px 0 2px}
   .explain.has-rahasya{display:flex;gap:16px;align-items:stretch}
   .meaning{font-size:15px;color:#3c2f23}
@@ -176,23 +184,39 @@
   .seek input[type=range]{flex:1;accent-color:var(--accent);height:4px}
   .seek .tt{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
   .nav{flex:none;display:flex;gap:6px}
-  .nav button,.speed{
+  .nav button{
     border:1px solid var(--line);background:var(--card);color:var(--ink);
     border-radius:9px;cursor:pointer;font-family:inherit;font-size:13px;padding:8px 10px;
   }
-  .nav button:hover,.speed:hover{border-color:var(--accent);color:var(--accent)}
-  .speed{font-weight:600;min-width:48px}
+  .nav button:hover{border-color:var(--accent);color:var(--accent)}
+  .speeds{
+    flex:none;display:flex;border:1px solid var(--line);border-radius:9px;
+    overflow:hidden;background:var(--card);
+  }
+  .speeds .spd{
+    border:0;border-left:1px solid var(--line);background:transparent;color:var(--muted);
+    font-family:inherit;font-size:12px;font-weight:600;line-height:1;padding:9px 8px;
+    cursor:pointer;font-variant-numeric:tabular-nums;
+  }
+  .speeds .spd:first-child{border-left:0}
+  .speeds .spd:hover{color:var(--accent);background:var(--accent-soft)}
+  .speeds .spd.is-on{background:var(--accent);color:#fff}
 
   footer{text-align:center;color:var(--muted);font-size:12.5px;padding:30px 0 10px}
 
   @media(max-width:640px){
     .hero h1{font-size:24px}
     .mantra{font-size:16.5px;padding:12px 14px}
+    .devanagari{font-size:17px;padding:12px 14px}
     .explain.has-rahasya{flex-direction:column;gap:12px}
-    .player .inner{gap:9px;padding:9px 12px}
+    .player .inner{flex-wrap:wrap;gap:9px 10px;padding:9px 12px}
+    .player .nav{order:2}
+    .player .speeds{order:3;flex:1 0 100%}
+    .speeds .spd{flex:1;padding:9px 4px}
     .pmeta .pt{font-size:13px}
     .nav .lbl-txt{display:none}
     .seek .tt{display:none}
+    body{padding-bottom:132px}
   }
 
   /* Print → clean PDF */
@@ -203,6 +227,7 @@
     .hero .om,.hero a{color:#000}
     .card{break-inside:avoid;box-shadow:none;border:1px solid #ccc}
     .mantra{background:#f7f7f7;color:#000}
+    .devanagari{background:#fff;color:#000}
     .group-head{color:#000}
   }
 </style>
@@ -221,7 +246,7 @@
 
   <div class="periodbar" id="periodbar" hidden></div>
 
-  <div class="notice">
+    <div class="notice" id="guide-notice">
     <b>Please note:</b> the romanised (IAST) text and English meanings below follow the standard Mādhva
     deva-pūjā paddhati as recited in the video or transcribed from the source text for each guide. Steps
     marked <span class="badge">verify</span> were reconstructed from audio. Treat this as a practice and
@@ -252,9 +277,15 @@
         <span class="tt" id="tt">0:00 / 0:00</span>
       </div>
     </div>
+    <div class="speeds" id="speeds" role="group" aria-label="Playback speed">
+      <button class="spd" data-rate="0.5" title="Half speed">0.5×</button>
+      <button class="spd" data-rate="0.75" title="Three-quarter speed">0.75×</button>
+      <button class="spd is-on" data-rate="1" title="Normal speed">1×</button>
+      <button class="spd" data-rate="1.25" title="1.25× speed">1.25×</button>
+      <button class="spd" data-rate="1.5" title="1.5× speed">1.5×</button>
+    </div>
     <div class="nav">
       <button id="prev" title="Previous step">◀<span class="lbl-txt"> Prev</span></button>
-      <button class="speed" id="speed" title="Playback speed">1×</button>
       <button id="next" title="Next step">Next<span class="lbl-txt"> </span>▶</button>
     </div>
   </div>

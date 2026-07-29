@@ -8,6 +8,7 @@
   var list = document.getElementById('list');
   var search = document.getElementById('search');
   var countEl = document.getElementById('count');
+  var noticeEl = document.getElementById('guide-notice');
   var titleEl = document.getElementById('h-title');
   var srcA = document.getElementById('h-src');
   var subEl = document.getElementById('h-sub');
@@ -19,7 +20,7 @@
   var pt = document.getElementById('pt');
   var seek = document.getElementById('seek');
   var tt = document.getElementById('tt');
-  var speedBtn = document.getElementById('speed');
+  var speedsEl = document.getElementById('speeds');
 
   // ---- helpers ----
   function toSec(mmss) { var p = mmss.split(':'); return (+p[0]) * 60 + (+p[1]); }
@@ -69,8 +70,7 @@
   // ---- per-guide state ----
   var guide, secs, cards, current = -1;
   var curP = null; // current time-of-day period (for guides with s.periods)
-  var speeds = [1, 0.75, 0.5, 1.25, 1.5];
-  var si = 0;
+  var rate = 1;
   var seeking = false;
 
   // ---- tabs ----
@@ -103,6 +103,8 @@
     srcA.href = guide.source;
     srcA.textContent = guide.sourceLabel || 'YouTube';
     search.value = '';
+    search.placeholder = guide.searchPlaceholder || 'Search a step (e.g. Śaṅkha, abhiṣeka, naivedya)…';
+    noticeEl.hidden = !!guide.hideNotice;
     buildPeriodBar();
     buildList();
   }
@@ -122,7 +124,8 @@
       var rs = resolve(s);
       var mantra = subst(rs.mantra), meaning = subst(rs.meaning),
           action = subst(rs.action), contemplate = subst(rs.contemplate),
-          skt = subst(rs.sanskrit), title = subst(rs.title);
+          skt = subst(rs.sanskrit), devanagari = subst(rs.devanagari),
+          title = subst(rs.title);
       var hasAudio = s.audio ? true : !guide.noAudio;
       var ytLink = (hasAudio && s.start) ? guide.source + '&t=' + toSec(s.start) + 's' : '';
       var timeHtml = s.start ? ('<div class="time">⏱ ' + s.start + '–' + s.end + '</div>')
@@ -130,7 +133,7 @@
       var card = document.createElement('article');
       card.className = 'card';
       card.id = 'sec-' + s.id;
-      card.dataset.search = (title + ' ' + (skt || '') + ' ' + meaning + ' ' +
+      card.dataset.search = (title + ' ' + (skt || '') + ' ' + mantra + ' ' + devanagari + ' ' + meaning + ' ' +
         (contemplate || '') + ' ' + (action || '')).toLowerCase();
       card.innerHTML =
         '<div class="top">' +
@@ -145,16 +148,21 @@
           '</div>' +
           (hasAudio ? '<button class="playbtn" data-idx="' + i + '"><span class="ico">▶</span> Play</button>' : '') +
         '</div>' +
-        (mantra ? '<div class="mantra">' + esc(mantra) + '</div>' : '') +
-        '<div class="explain' + ((contemplate || action) ? ' has-rahasya' : '') + '">' +
-          '<div class="meaning"><span class="lbl">Meaning</span>' + esc(meaning) + '</div>' +
-          ((contemplate || action)
-            ? '<div class="rahasya">' +
-                (contemplate ? '<div class="blk"><span class="lbl lbl-c">Contemplate</span>' + esc(contemplate) + '</div>' : '') +
-                (action ? '<div class="blk"><span class="lbl lbl-a">Action</span>' + esc(action) + '</div>' : '') +
-              '</div>'
-            : '') +
-        '</div>' +
+        (mantra ? '<div class="mantra">' +
+          (guide.mantraLabel ? '<span class="lbl">' + esc(guide.mantraLabel) + '</span>' : '') +
+          esc(mantra) + '</div>' : '') +
+        (devanagari ? '<div class="devanagari"><span class="lbl">Sanskrit</span>' + esc(devanagari) + '</div>' : '') +
+        ((meaning || contemplate || action)
+          ? '<div class="explain' + ((contemplate || action) ? ' has-rahasya' : '') + '">' +
+              (meaning ? '<div class="meaning"><span class="lbl">Meaning</span>' + esc(meaning) + '</div>' : '') +
+              ((contemplate || action)
+                ? '<div class="rahasya">' +
+                    (contemplate ? '<div class="blk"><span class="lbl lbl-c">Contemplate</span>' + esc(contemplate) + '</div>' : '') +
+                    (action ? '<div class="blk"><span class="lbl lbl-a">Action</span>' + esc(action) + '</div>' : '') +
+                  '</div>'
+                : '') +
+            '</div>'
+          : '') +
         (s.html || '') +
         (ytLink ? '<div class="yt"><a href="' + ytLink + '" target="_blank" rel="noopener">▶ Watch this step on YouTube ↗</a></div>' : '');
       if (hasAudio) card.__audio = guide.audioDir + '/' + s.id + '-' + s.slug + '.mp3';
@@ -193,7 +201,7 @@
     current = idx;
     var c = cards[idx], s = secs[idx];
     audio.src = c.__audio;
-    audio.playbackRate = speeds[si];
+    audio.playbackRate = rate;
     pt.textContent = s.id + ' · ' + s.title;
     player.classList.add('show');
     cards.forEach(function (x) { x.classList.remove('playing'); });
@@ -220,10 +228,14 @@
   pp.addEventListener('click', toggle);
   document.getElementById('prev').addEventListener('click', function () { load(current - 1); });
   document.getElementById('next').addEventListener('click', function () { load(current + 1); });
-  speedBtn.addEventListener('click', function () {
-    si = (si + 1) % speeds.length;
-    audio.playbackRate = speeds[si];
-    speedBtn.textContent = speeds[si] + '×';
+  speedsEl.addEventListener('click', function (e) {
+    var b = e.target.closest('.spd');
+    if (!b) return;
+    rate = parseFloat(b.dataset.rate);
+    audio.playbackRate = rate;
+    Array.prototype.forEach.call(speedsEl.children, function (x) {
+      x.classList.toggle('is-on', x === b);
+    });
   });
 
   audio.addEventListener('play', syncBtns);

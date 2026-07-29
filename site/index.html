@@ -6,7 +6,7 @@
 <title>Deva Pūjā Paddhati — Recitation Guide</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;600&family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
     --bg:#fbf6ee; --card:#fffdf9; --ink:#2b2118; --muted:#8a7a66;
@@ -116,6 +116,14 @@
     background:linear-gradient(#fffaf2,#fdf4e7);border-left:3px solid var(--gold);
     border-radius:8px;
   }
+  .mantra .lbl{font-family:'Inter',sans-serif}
+  .devanagari{
+    font-family:'Noto Serif Devanagari','Noto Serif',serif;color:#302820;
+    font-size:18px;line-height:1.9;white-space:pre-wrap;margin:10px 0 4px;
+    padding:14px 18px;background:#f7f5ef;border-left:3px solid #7d6a50;
+    border-radius:8px;
+  }
+  .devanagari .lbl{font-family:'Inter',sans-serif}
   .explain{margin:14px 0 2px}
   .explain.has-rahasya{display:flex;gap:16px;align-items:stretch}
   .meaning{font-size:15px;color:#3c2f23}
@@ -176,23 +184,39 @@
   .seek input[type=range]{flex:1;accent-color:var(--accent);height:4px}
   .seek .tt{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
   .nav{flex:none;display:flex;gap:6px}
-  .nav button,.speed{
+  .nav button{
     border:1px solid var(--line);background:var(--card);color:var(--ink);
     border-radius:9px;cursor:pointer;font-family:inherit;font-size:13px;padding:8px 10px;
   }
-  .nav button:hover,.speed:hover{border-color:var(--accent);color:var(--accent)}
-  .speed{font-weight:600;min-width:48px}
+  .nav button:hover{border-color:var(--accent);color:var(--accent)}
+  .speeds{
+    flex:none;display:flex;border:1px solid var(--line);border-radius:9px;
+    overflow:hidden;background:var(--card);
+  }
+  .speeds .spd{
+    border:0;border-left:1px solid var(--line);background:transparent;color:var(--muted);
+    font-family:inherit;font-size:12px;font-weight:600;line-height:1;padding:9px 8px;
+    cursor:pointer;font-variant-numeric:tabular-nums;
+  }
+  .speeds .spd:first-child{border-left:0}
+  .speeds .spd:hover{color:var(--accent);background:var(--accent-soft)}
+  .speeds .spd.is-on{background:var(--accent);color:#fff}
 
   footer{text-align:center;color:var(--muted);font-size:12.5px;padding:30px 0 10px}
 
   @media(max-width:640px){
     .hero h1{font-size:24px}
     .mantra{font-size:16.5px;padding:12px 14px}
+    .devanagari{font-size:17px;padding:12px 14px}
     .explain.has-rahasya{flex-direction:column;gap:12px}
-    .player .inner{gap:9px;padding:9px 12px}
+    .player .inner{flex-wrap:wrap;gap:9px 10px;padding:9px 12px}
+    .player .nav{order:2}
+    .player .speeds{order:3;flex:1 0 100%}
+    .speeds .spd{flex:1;padding:9px 4px}
     .pmeta .pt{font-size:13px}
     .nav .lbl-txt{display:none}
     .seek .tt{display:none}
+    body{padding-bottom:132px}
   }
 
   /* Print → clean PDF */
@@ -203,6 +227,7 @@
     .hero .om,.hero a{color:#000}
     .card{break-inside:avoid;box-shadow:none;border:1px solid #ccc}
     .mantra{background:#f7f7f7;color:#000}
+    .devanagari{background:#fff;color:#000}
     .group-head{color:#000}
   }
 </style>
@@ -221,7 +246,7 @@
 
   <div class="periodbar" id="periodbar" hidden></div>
 
-  <div class="notice">
+    <div class="notice" id="guide-notice">
     <b>Please note:</b> the romanised (IAST) text and English meanings below follow the standard Mādhva
     deva-pūjā paddhati as recited in the video or transcribed from the source text for each guide. Steps
     marked <span class="badge">verify</span> were reconstructed from audio. Treat this as a practice and
@@ -252,9 +277,15 @@
         <span class="tt" id="tt">0:00 / 0:00</span>
       </div>
     </div>
+    <div class="speeds" id="speeds" role="group" aria-label="Playback speed">
+      <button class="spd" data-rate="0.5" title="Half speed">0.5×</button>
+      <button class="spd" data-rate="0.75" title="Three-quarter speed">0.75×</button>
+      <button class="spd is-on" data-rate="1" title="Normal speed">1×</button>
+      <button class="spd" data-rate="1.25" title="1.25× speed">1.25×</button>
+      <button class="spd" data-rate="1.5" title="1.5× speed">1.5×</button>
+    </div>
     <div class="nav">
       <button id="prev" title="Previous step">◀<span class="lbl-txt"> Prev</span></button>
-      <button class="speed" id="speed" title="Playback speed">1×</button>
       <button id="next" title="Next step">Next<span class="lbl-txt"> </span>▶</button>
     </div>
   </div>
@@ -3184,994 +3215,1122 @@
 
 </script>
 <script>
-// Ṛgvedīya Sandhyāvandana — Mādhva Rig-Veda protocol.
-// Text-only (no recordings). Several steps change with the time of day:
-// use the Prātaḥ / Mādhyāhnika / Sāyaṃ selector above the list. Sections
-// that vary carry a "changes by sandhyā" tag; the {p}/{pe} tokens in the
-// saṅkalpa lines are swapped for the selected sandhyā's word by app.js.
+// Rig Veda Pratha Sandhya Vandhanam.
+// Rebuilt from the user's photographed book pages 47-66 (IMG_0161-IMG_0179).
 (window.GUIDES = window.GUIDES || []).push({
   key: "rvsandhya",
-  tabLabel: "Ṛgvedīya Sandhyāvandana",
+  tabLabel: "Rig Veda Sandhya Vandhanam",
   noAudio: true,
-  title: "Ṛgvedīya Sandhyāvandana",
-  subtitle: "The Mādhva Rig-Veda Sandhyāvandana — pick Prātaḥ / Mādhyāhnika / Sāyaṃ above to switch the mantras that change with the time of day",
-  source: "https://bhaktideets.org",
-  sourceLabel: "source e-book",
-  sourceCredit: "Māadhva Sandhyāvandana Paddhati — Prājña Paṭṭada Hari Kumāra Varma (Achyuta Bhakti Deets, 2026) · Ṛgvedīya Sandhyāvandana, pp. 16–33",
-  periodLabel: "Sandhyā",
-  periods: [
-    { key: "pratah", label: "Prātaḥ · morning", word: "prātaḥ", en: "morning" },
-    { key: "madhyahnika", label: "Mādhyāhnika · midday", word: "mādhyāhnika", en: "midday" },
-    { key: "sayam", label: "Sāyaṃ · evening", word: "sāyaṃ", en: "evening" }
-  ],
+  hideNotice: true,
+  mantraLabel: "Roman mantra",
+  title: "Rig Veda Sandhya Vandhanam",
+  subtitle: "Pratha Sandhya - numbered procedure, Roman-script mantras, Devanagari, and English directions from the photographed book",
+  source: "https://www.scribd.com/document/548694421/Dokumen-tips-Trikala-Sandhyavandhanam-Madhva-Sampradaya",
+  sourceLabel: "same printed edition",
+  sourceCredit: "Trikala Sandhyavandhanam - Madhva Sampradaya, Rig Veda Pratha Sandhya Vandhanam, photographed pp. 47-66",
+  searchPlaceholder: "Search a step or mantra...",
   sections: [
-
-    // ===================== OPENING =====================
     {
-      id: "01", slug: "apavitrah", group: "Opening", page: "16",
-      title: "Apavitraḥ — purification shloka",
+      id: "01", slug: "achamanam", group: "Purification and preparation", page: "47",
+      title: "1. Achamanam",
       mantra:
-        "oṃ apavitraḥ pavitro vā sarvāvasthāṃ gato'pi vā |\n" +
-        "yassmaret puṇḍarīkākṣaṃ sa bāhyābhyantaraśśuciḥ ||",
-      meaning:
-        "Whether one is impure or pure, or in whatsoever condition one may be, whoever remembers the lotus-eyed Lord (Puṇḍarīkākṣa, Viṣṇu) becomes pure both within and without. (Padma Purāṇa, Pātāla Khaṇḍa, Adhyāya 80, Shloka 12.)",
+        "Om Kesavaya Swaha / Om Narayanaya Swaha / Om Madhavaya Swaha /\n\n" +
+        "Govindaya Namaha / Vishnave Namaha / Madhusudhanaya Namaha / Thrivikramaya Namaha / Vamanaya Namaha / Sridharaya Namaha / Hrishikesaya Namaha / Padmanabhaya Namaha / Damodharaya Namaha / Sankarshanaya Namaha / Vasudevaya Namaha / Pradyumnaya Namaha / Anirudhaya Namaha / Purushothamaya Namaha / Adhokshajaya Namaha / Narasimhaya Namaha / Achyuthaya Namaha / Janardhanaya Namaha / Upendraya Namaha / Haraye Namaha / Sri Krishnaya Namaha /",
+      devanagari:
+        "ॐ केशवाय स्वाहा । ॐ नारायणाय स्वाहा । ॐ माधवाय स्वाहा ।\n\n" +
+        "गोविन्दाय नमः । विष्णवे नमः । मधुसूदनाय नमः । त्रिविक्रमाय नमः । वामनाय नमः । श्रीधराय नमः । हृषीकेशाय नमः । पद्मनाभाय नमः । दामोदराय नमः । सङ्कर्षणाय नमः । वासुदेवाय नमः । प्रद्युम्नाय नमः । अनिरुद्धाय नमः । पुरुषोत्तमाय नमः । अधोक्षजाय नमः । नारसिंहाय नमः । अच्युताय नमः । जनार्दनाय नमः । उपेन्द्राय नमः । हरये नमः । श्रीकृष्णाय नमः ।",
       action:
-        "Sit down facing the East or North in the morning, and the North during the midday and evening. Chant this shloka first, and then the Guru mantra that follows."
+        "Take a little quantity of water in the hollow of the palm of your right hand. Sip three times as you utter the first three mantras. Then recite the remaining names with the gestures described for Achamanam. The photographed Rig Veda section directs the reader to the full instructions at the beginning of the Yajur Veda Pratha Sandhya."
     },
     {
-      id: "02", slug: "guru-mantra", group: "Opening", page: "16",
-      title: "Guru-vandana (Guru Mantra)",
+      id: "02", slug: "pranayamam", group: "Purification and preparation", page: "47-48",
+      title: "2. Pranayamam",
       mantra:
-        "oṃ śrī gurubhyo namaḥ | oṃ paramagurubhyo namaḥ | oṃ ādigurubhyo namaḥ | oṃ mūlagurubhyo namaḥ | oṃ śrīmadānandatīrthabhagavatpādācāryebhyo namaḥ | oṃ vedavyāsāya namaḥ | oṃ bhāratyai namaḥ | oṃ sarasvatyai namaḥ | oṃ vāyave namaḥ | oṃ brahmaṇe namaḥ | oṃ mahālakṣmyai namaḥ | oṃ nārāyaṇāya namaḥ | oṃ haraye namaḥ | mokṣapradaśrīvāsudevāya namaḥ |",
-      meaning:
-        "Salutations to the Śrī Gurus; to the Parama-guru; to the Ādi-guru; to the Mūla-guru; to Śrīmad Ānandatīrtha Bhagavatpādācārya (Madhvācārya); to Vedavyāsa; to Bhāratī; to Sarasvatī; to Vāyu; to Brahmā; to Mahālakṣmī; to Nārāyaṇa; to Hari; and to Śrī Vāsudeva, the giver of mokṣa.",
+        "Pranavasya Parabramha Rishihi / Paramathma Devatha / Deivi Gayathri Chandhaha / Pranayame Viniyoga /\n\n" +
+        "Om Buhu / Om Bhuvaha / Om Suvaha / Om Maha / Om Janaha / Om Thapaha / Om Sathyam /\n" +
+        "Om Thathsavithur Varenyam / Bargo Devasya Dhimayi / Dhiyo Yonaha Prachodhayath /\n" +
+        "Om Apo Jyothi Raso Amrutham Brahma Bhurbhuvasvarom /",
+      devanagari:
+        "प्रणवस्य परब्रह्म ऋषिः । परमात्मा देवता । देवी गायत्री छन्दः । प्राणायामे विनियोगः ॥\n\n" +
+        "ॐ भूः । ॐ भुवः । ॐ सुवः । ॐ महः । ॐ जनः । ॐ तपः । ॐ सत्यम् ।\n" +
+        "ॐ तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि । धियो यो नः प्रचोदयात् ।\n" +
+        "ॐ आपो ज्योती रसोऽमृतं ब्रह्म भूर्भुवस्स्वरोम् ॥",
       action:
-        "Recite the Guru mantra after the purification shloka. If ūrdhvapuṇḍra tilaka has not yet been applied, apply it at least on the forehead (with gopī-candana or another suitable material), as per the instructions given in the Tattvavādi Vaiṣṇava handbook."
+        "The following operations performed as you recite the mantras constitute one Pranayamam: close your right nostril and breathe out through your left nostril (period ratio 2); close your left nostril and breathe in through your right nostril (period ratio 1); close both nostrils and retain the breath (period ratio 4); then reverse the process. Touch your head for the Rishi, your heart for the Devatha, and your mouth for the Chandhaha. Do Pranayamam twice."
     },
-
-    // ===================== ĀCAMANA & PRĀṆĀYĀMA =====================
     {
-      id: "03", slug: "acamana", group: "Ācamana & prāṇāyāma", page: "16–17",
-      title: "1 · Ācamana",
+      id: "03", slug: "sankalpam", group: "Purification and preparation", page: "48",
+      title: "3. Sankalpam",
       mantra:
-        "oṃ keśavāya svāhā |\n" +
-        "oṃ nārāyaṇāya svāhā |\n" +
-        "oṃ mādhavāya svāhā |\n" +
-        "(take a little water from the right hand and spill it)\n\n" +
-        "oṃ govindāya namaḥ | (wash the right palm with the left palm)\n" +
-        "oṃ viṣṇave namaḥ | (wash the left palm with the right palm)\n" +
-        "oṃ madhusūdanāya namaḥ | (touch the upper lip)\n" +
-        "oṃ trivikramāya namaḥ | (touch the lower lip)\n" +
-        "oṃ vāmanāya namaḥ | (touch the right cheek)\n" +
-        "oṃ śrīdharāya namaḥ | (touch the left cheek)\n" +
-        "oṃ hṛṣīkeśāya namaḥ | (wash both the hands)\n" +
-        "oṃ padmanābhāya namaḥ | (touch the feet)\n" +
-        "oṃ dāmodarāya namaḥ | (touch the centre of the head with the middle finger of the right hand)\n" +
-        "oṃ saṅkarṣaṇāya namaḥ | (touch the tip of the nose with the middle finger of the right hand)\n" +
-        "oṃ vāsudevāya namaḥ | (touch the right side of the nose with the index finger and thumb)\n" +
-        "oṃ pradyumnāya namaḥ | (touch the left side of the nose with the index finger and thumb)\n" +
-        "oṃ aniruddhāya namaḥ | (touch the right eye with the index and middle fingers)\n" +
-        "oṃ puruṣottamāya namaḥ | (touch the left eye with the index and middle fingers)\n" +
-        "oṃ adhokṣajāya namaḥ | (touch the right ear with the index and ring fingers)\n" +
-        "oṃ nārasiṃhāya namaḥ | (touch the left ear with the index and ring fingers)\n" +
-        "oṃ acyutāya namaḥ | (touch the navel with the index and little fingers)\n" +
-        "oṃ janārdanāya namaḥ | (touch the chest, at the heart, with the palm of the right hand)\n" +
-        "oṃ upendrāya namaḥ | (touch the head with the right hand)\n" +
-        "oṃ haraye namaḥ | (touch the right shoulder with all fingers of the right hand)\n" +
-        "oṃ kṛṣṇāya namaḥ | (touch the left shoulder with all fingers of the right hand)",
-      meaning:
-        "While sipping water after the first three lines, and while touching the parts of the body during the twenty-four names, one contemplates the respective forms of Viṣṇu — Keśava, Nārāyaṇa, Mādhava, Govinda, Viṣṇu, Madhusūdana, Trivikrama, Vāmana, Śrīdhara, Hṛṣīkeśa, Padmanābha, Dāmodara, Saṅkarṣaṇa, Vāsudeva, Pradyumna, Aniruddha, Puruṣottama, Adhokṣaja, Nārasiṃha, Acyuta, Janārdana, Upendra, Hari and Kṛṣṇa — remembering the Devatās presiding over each organ (Agni at the mouth, Vāyu at the nose, Sūrya at the eyes, Indra at the ears, Nārāyaṇa at the chest and navel, Prajāpati at the shoulders, and Paramātmā at the head).",
+        "Subhe Sobane Muhurthe / Adhya Brahmanaha Dvitiya Parardhe / Sri Swetha Varaha Kalpe / Vaivaswatha Manvanthare / Kaliyuge Prathama Pade / Jambudvipe Bharathavarshe Bharathakande / Dhandakaranye / Godhavaryaha Dakshine Parswe / Salivahana Sake / Bouddhavathare / Ramakshethre / Asmin Varthamane Vyavaharike Chandramanena ______ Nama Samvathsare / ______ Ayane / ______ Rithow / ______ Maase / ______ Pakshe / ______ Thithow / ______ Vasare / Subha Nakshathre / Subha Yoge / Subha Karane / Evam Guna Viseshana Visishtayam Subha Thithow / Bharathi Ramana Mukhyaprananthargatha Savithrunamaka Sri Lakshminarayana Preranaya / Savithrunamaka Sri Lakshminarayana Preethyartham / Prathaha Sandhyam Upase /",
+      devanagari:
+        "शुभे शोभने मुहूर्ते । अद्य ब्रह्मणः द्वितीयपरार्धे । श्रीश्वेतवराहकल्पे । वैवस्वतमन्वन्तरे । कलियुगे प्रथमपादे । जम्बूद्वीपे भारतवर्षे भरतखण्डे । दण्डकारण्ये । गोदावर्याः दक्षिणे पार्श्वे । शालिवाहनशके । बौद्धावतारे । रामक्षेत्रे । अस्मिन् वर्तमाने व्यावहारिके चान्द्रमानेन ______ नाम संवत्सरे । ______ अयने । ______ ऋतौ । ______ मासे । ______ पक्षे । ______ तिथौ । ______ वासरे । शुभनक्षत्रे । शुभयोगे । शुभकरणे । एवं गुणविशेषणविशिष्टायां शुभतिथौ । भारतीरमणमुख्यप्राणान्तर्गत सवितृनामक श्रीलक्ष्मीनारायण प्रेरणया । सवितृनामक श्रीलक्ष्मीनारायण प्रीत्यर्थं प्रातः सन्ध्याम् उपासे ॥",
       action:
-        "Ācamana is always performed twice. Pour a small quantity of water into the 'Brahma-tīrtha' part of the right palm and sip it after each of the first three lines; then take a little water and spill it. Keep the arms and hands within the span of the legs while seated; do not lift the water poured on the palm, and make no noise while sipping — the force of sipping must come from the muscles of the abdomen. Then, reciting the twenty-four names, touch each named part of the body with the fingers of the right hand exactly as indicated (this is the Aṅga-nyāsa)."
+        "State the Sankalpam, supplying the current samvathsara, ayana, rithu, month, paksha, thithi, weekday, nakshathra, yoga and karana. Take a little water in your right palm and let it flow to the ground."
     },
     {
-      id: "04", slug: "vighna-apaharana", group: "Ācamana & prāṇāyāma", page: "17",
-      title: "2 · Vighna-Apaharaṇa",
+      id: "04", slug: "marjanam", group: "Marjanam and Punarmarjanam", page: "49",
+      title: "4. Marjanam (Purification)",
       mantra:
-        "śuklāmbaradharaṃ viṣṇuṃ śaśivarṇaṃ caturbhujaṃ |\n" +
-        "prasannavadanaṃ dhyāyet sarvavighnopaśāntaye ||",
-      meaning:
-        "For the removal of all obstacles, one should meditate upon Viṣṇu, who is clad in white garments, moon-hued, four-armed, and of a gracious countenance.",
+        "Aapohishtethi Navarchasya Sukthasya Ambarisha Sindhudwipa Rishihi / Aapo Devatha / Gayathri Chandhaha / Marjane Viniyoga /\n\n" +
+        "Om Aapo Hishta Mayo Bhuvaha / Thana Urje Dhadhathana / Maheranaya Chakshase / Yovaha Sivathamo Rasaha / Thasya Bajayathe Hanaha / Ushathariva Matharaha / Thasma Aranga Mamavaha / Yasya Kshayaye Jinvatha / Aapo Janayatha Chanaha /",
+      devanagari:
+        "आपोहिष्ठेति नवर्चस्य सूक्तस्य अम्बरीषः सिन्धुद्वीप ऋषिः । आपो देवता । गायत्री छन्दः । मार्जने विनियोगः ॥\n\n" +
+        "ॐ आपो हिष्ठा मयो भुवः । ता न ऊर्जे दधातन । महे रणाय चक्षसे । यो वः शिवतमो रसः । तस्य भाजयतेह नः । उशतीरिव मातरः । तस्मा अरङ्गमामवः । यस्य क्षयाय जिन्वथ । आपो जनयथा च नः ॥",
       action:
-        "With the fists, tap the temples near the forehead about five times while reciting this shloka, with the thought that the spiritual energy from there is dissipating throughout the body."
+        "Take a little amount of water in the uddharani (spoon). As you recite this mantra, dip the middle finger of your right hand in the water and spray a little over your head seven times, over your legs on the eighth time, and again over your head on the ninth time."
     },
     {
-      id: "05", slug: "pranayama", group: "Ācamana & prāṇāyāma", page: "17",
-      title: "3 · Prāṇāyāma",
+      id: "05", slug: "jalabi-mantranam", group: "Marjanam and Punarmarjanam", page: "49-50",
+      title: "5. Jalabi Mantranam",
       mantra:
-        "[Nyāsa]\n" +
-        "oṃ praṇavasya parabrahma ṛṣiḥ | paramātmā devatā | daivī gāyatrī chandaḥ | saptānāṃ vyāhṛtīnāṃ viśvāmitra-jamadagni-bharadvāja-gautama-atri-vasiṣṭha-kaśyapā ṛṣayaḥ | agni-vāyu-āditya-bṛhaspati-varuṇa-indra-viśvedevā devatāḥ | gāyatrī-uṣṇik-anuṣṭup-bṛhatī-paṅkti-triṣṭup-jagatyaḥ chandāꣳsi | gāyatrī śirasaḥ prajāpatiḥ ṛṣiḥ | brahma-agni-vāyu-ādityā devatāḥ | yajuḥ chandaḥ | prāṇāyāme viniyogaḥ ||\n\n" +
-        "[Prāṇāyāma with the Gāyatrī]\n" +
-        "oṃ bhūḥ | oṃ bhuvaḥ | oṃ svaḥ | oṃ mahaḥ | oṃ janaḥ | oṃ tapaḥ | oṃ satyam | oṃ tatsaviturvareṇyam | bhargo devasya dhīmahi dhīyo yo naḥ pracodayāt |\n" +
-        "oṃ āpojyotīraso'mṛtaṃ brahma bhūrbhuvaḥssvarom ||",
-      meaning:
-        "In the Nyāsa, the Ṛṣi, Chandas and Devatā of the praṇava and of the seven vyāhṛtis are declared, so that the mantra bears fruit. The prāṇāyāma mantra then invokes the seven vyāhṛtis — bhūḥ, bhuvaḥ, svaḥ, mahaḥ, janaḥ, tapaḥ, satyam (the seven worlds) — followed by the Gāyatrī: 'We meditate upon the adorable effulgence of the Deva Savitṛ; may He impel our intellects.' The closing line affirms that the waters, light, essence, nectar and Brahman pervade the three worlds (bhūḥ, bhuvaḥ, svaḥ) and beyond — Om. (Taittirīya Āraṇyaka, Prapāṭhaka 10, Anuvāka 35, Mantra 2.)",
+        "Suryashchetyasya Mantrasya Hiranya Garbha Rishihi / Surya Manyu Manyupathi Ratrayo Devataha / Prakrithihi Chandhaha / Jalabi Mantrane Viniyogaha /\n\n" +
+        "Om Suryascha Mamanyuscha Manyu Patayascha Manyu Kritebyaha / Papebhyo Rakshantham / Yadratraya Papamakarsham / Manasa Vacha Hastabyam / Padbyam Udarena Shishna / Ratris Tadavalumpatu / Yad Kincha Duritam Mayi / Idam Aham Mam Amrityonow Surye Jyotishi Juhomi Svaha /",
+      devanagari:
+        "सूर्यश्चेत्यस्य मन्त्रस्य हिरण्यगर्भ ऋषिः । सूर्यमन्यु मन्युपतयो रात्रयो देवताः । प्रकृतिः छन्दः । जलाभिमन्त्रणे विनियोगः ॥\n\n" +
+        "ॐ सूर्यश्च मामन्युश्च मन्युपतयश्च मन्युकृतेभ्यः । पापेभ्यो रक्षन्ताम् । यद्रात्र्या पापमकार्षम् । मनसा वाचा हस्ताभ्याम् । पद्भ्यामुदरेण शिश्ना । रात्रिस्तदवलुम्पतु । यत्किञ्च दुरितं मयि । इदमहं माममृतयोनौ सूर्ये ज्योतिषि जुहोमि स्वाहा ॥",
       action:
-        "Prāṇāyāma is done thrice. First perform the Nyāsa — placing the right hand on the head while mentioning the Ṛṣi, on the mouth while mentioning the Chandas, on the heart while mentioning the Devatā, and rotating the hands at the chest for the viniyoga. Then perform rechaka (block the left nostril and exhale through the right), pūraka (block the right nostril and inhale through the left, for twice the duration of rechaka), and kumbhaka (hold the breath for the combined duration of both, while contemplating Paramātmā and chanting the mantra). Brahmacārīs, Sanyāsīs and anyone unmarried use only three fingers — the little finger on the left nostril and the index finger and thumb on the right, with the middle and ring fingers curled into the palm; gṛhasthas use all five fingers. After three rounds, exhale through the right nostril, place the right hand on the right ear remembering Gaṅgā (śrotrācamana), then place the right palm over the left palm on the right thigh (brahmāñjali), and state the saṅkalpa."
+        "Take a little quantity of water in the hollow of the right palm, utter the mantra, and then sip the water."
     },
-
-    // ===================== SAṄKALPA & MĀRJANA =====================
     {
-      id: "06", slug: "sankalpa", group: "Saṅkalpa & mārjana", page: "18–19",
-      title: "4 · Saṅkalpa",
+      id: "06", slug: "punarmarjanam", group: "Marjanam and Punarmarjanam", page: "50-52",
+      title: "6. Punarmarjanam",
       mantra:
-        "śrī śubhe śobhane muhūrte viṣṇorājñayā pravartamānasya ādya brahmaṇaḥ dvitīye parārdhe śrī śvetavarāha kalpe vaivasvata manvantare aṣṭāviṃśatitame kaliyuge prathamapāde jambūdvīpe bharatavarṣe bharatakhaṇḍe daṇḍakāraṇye godāvaryāḥ dakṣiṇe pārśve śālīvāhanaśake bauddhāvatāre rāmakṣetre asminvartamānena cāndramānena asya śrī ____ saṃvatsare ____ ayane ____ ṛtau ____ māse ____ pakṣe ____ tithau ____ vāsare ____ nakṣatre śubhayoga śubhakaraṇa evaṅguṇa viśeṣaṇa viśiṣṭāyāṃ śubhatithau |\n" +
-        "asmadādigurūṇāṃ śrīmanmadhvācāryāṇāṃ hṛtkamalamadhyanivāsī savitṛnāmaka śrī lakṣmīnārāyaṇa preraṇayā śrī lakṣmīnārāyaṇa prītyarthaṃ {p} sandhyāmupāśiṣye ||",
-      meaning:
-        "During this auspicious muhūrta, as destined by Śrī Viṣṇu's will, during the second half of Brahmā's lifespan, in the Śvetavarāha kalpa, Vaivasvata manvantara, in the first quarter of the 28th Kali Yuga, at Jambūdvīpa, Bhāratavarṣa, Bhāratakhaṇḍa, at the south of the Godāvarī, towards the coast, during the time of Buddha's avatāra, at the region of Rāma, in this present moment in relation to the lunar movements, in the saṃvatsara (year) called ____, during the ____ ayana, ____ ṛtu, ____ māsa, ____ pakṣa, ____ tithi and ____ vāsara (day), with the ____ nakṣatra (star), may there be an auspicious yoga and karaṇa, with auspicious qualities and everything being specially auspicious. Through us, for the purpose of pleasing Śrī Lakṣmī-Nārāyaṇa who is residing with the name 'Savitṛ' as the Indweller in the heart of our Ādi Guru, Śrī Madhvācārya, I am performing the {pe} sandhyā.",
+        "Apohishtethi Navarchasya Suktasya Ambareeshaha Sindhu Dwipa Rishihi / Apo Devata / Gayathri Chandha / Panchami Vardhamana / Sapthami Prathistha / Ante Dve Anushtubow / Punar Marjane Viniyogaha /\n\n" +
+        "Om Aapo Hishta Mayo Bhuvaha / Thana Urje Dhadhathana / Maheranaya Chakshase / Yovaha Sivathamo Rasaha / Thasya Bajayathe Hanaha / Ushatheeri Matharaha / Thasma Aranga Mamavaha / Yasya Kshayaye Jinvatha / Aapo Janayatha Chanaha /\n\n" +
+        "Om Samno Devirabhishtaye Aapo Bavanthu Bhithaye / Samyo Rabisravanthu Naha / Eesana Varyanam Kshayanthis Charshaninam / Aapo Ya Sami Beshajam / Apsume Somo Abraveed / Anthar Viswani Beshajam / Agnim Cha Viswasambhuvam / Aapascha Viswa Beshajeehi / Varutham Thanve Mama / Jyokscha Suryam Druse / Idamapa Pravahatha Yathkincha Dhuritham Mayi / Yadhvaham Abhidudroha Yadva Sepa Uthanrutham / Aapo Adhyanvacharisam Rasena Samagasmayi / Payaswanagna Aagahi / Tham Maa Samsruja Varchasa / Sasrushihi Tathapaso Diva Naktham Cha Sasrushihi / Varenya Krathu Rahama Devi Huve /\n\n" +
+        "Om Rithamcha Sathyam Cha Abhiddhath Thapaso Adhyajayatha / Thatho Rathryajayatha / Thathas Samudro Arnavaha / Samudhrath Arnavath Athi Samvathsaro Ajayatha / Ahoratrani Vidhadhath / Vishvasya Mishatho Vashi / Surya Chandramasou Dhatha / Yathapurvam Akalpayath / Dhivamcha Prathivim Cha / Anthariksha Matho Swaha /",
+      devanagari:
+        "आपोहिष्ठेति नवर्चस्य सूक्तस्य अम्बरीषः सिन्धुद्वीप ऋषिः । आपो देवता । गायत्री छन्दः । पञ्चमी वर्धमाना । सप्तमी प्रतिष्ठा । अन्ते द्वे अनुष्टुभौ । पुनर्मार्जने विनियोगः ॥\n\n" +
+        "ॐ आपो हिष्ठा मयो भुवः । ता न ऊर्जे दधातन । महे रणाय चक्षसे । यो वः शिवतमो रसः । तस्य भाजयतेह नः । उशतीरिव मातरः । तस्मा अरङ्गमामवः । यस्य क्षयाय जिन्वथ । आपो जनयथा च नः ॥\n\n" +
+        "ॐ शं नो देवीरभिष्टये आपो भवन्तु पीतये । शं योरभिस्रवन्तु नः ॥ ईशाना वार्याणां क्षयन्तीश्चर्षणीनाम् । आपो याचामि भेषजम् । अप्सु मे सोमो अब्रवीदन्तर्विश्वानि भेषजा । अग्निं च विश्वशम्भुवमापश्च विश्वभेषजीः । वरूथं तन्वे मम । ज्योक् च सूर्यं दृशे । इदमापः प्रवहत यत्किञ्च दुरितं मयि । यद्वाहमभिदुद्रोह यद्वा शेप उतानृतम् । आपो अद्यान्वचारिषं रसेन समगस्महि । पयस्वानग्न आ गहि तं मा संसृज वर्चसा । संसृजिष्ठास्तदपसो दिवा नक्तं च संसृषीः । वरेण्यक्रतुरहमा देवीरहं हुवे ॥\n\n" +
+        "ॐ ऋतं च सत्यं चाभीद्धात्तपसोऽध्यजायत । ततो रात्र्यजायत । ततः समुद्रो अर्णवः । समुद्रादर्णवादधि संवत्सरो अजायत । अहोरात्राणि विदधद्विश्वस्य मिषतो वशी । सूर्याचन्द्रमसौ धाता यथापूर्वमकल्पयत् । दिवं च पृथिवीं चान्तरिक्षमथो स्वः ॥",
       action:
-        "Seated in brahmāñjali, chant the saṅkalpa, filling in the names of the saṃvatsara (year), ayana, ṛtu (season), māsa (month), pakṣa, tithi, vāsara (day) and nakṣatra as per the pañcāṅga. If in North India, say 'godāvaryāḥ uttare' in place of 'dakṣiṇe pārśve'; near the Western Ghats, say 'paraśurāmakṣetre'. Once this main saṅkalpa has been stated, the additional saṅkalpas mentioned for the later steps are not mandatory."
+        "Take water in the uddharani, dip the middle finger in water, and spray over the head while uttering the mantras. At the end, smell the balance of the water, pour it on your left side, and do Achamanam."
     },
     {
-      id: "07", slug: "marjana", group: "Saṅkalpa & mārjana", page: "19–20",
-      title: "5 · Mārjana",
+      id: "07", slug: "argyapradhanam", group: "Argyapradhanam and Tharpanam", page: "52-54",
+      title: "7. Argyapradhanam",
       mantra:
-        "āpohiṣṭhetyasya ambarīṣaḥ sindhudvīpa ṛṣiḥ | āpo devatā | gāyatrī chandaḥ | mārjane viniyogaḥ |\n\n" +
-        "oṃ āpo hi ṣṭhā mayo bhuvaḥ | tā na ūrje dadhātana | (sprinkle water over the head)\n" +
-        "mahe raṇāya cakṣase | yo vaśśivatamo rasaḥ |\n" +
-        "tasya bhājayate ha naḥ | uśatīriva mātaraḥ |\n" +
-        "tasmā araṅ gamāma vaḥ |\n" +
-        "yasya kṣayāya jinvatha | (sprinkle water on the feet)\n" +
-        "āpo janayathā ca naḥ | (sprinkle water again on the head)",
-      meaning:
-        "O water, bestow us bliss by causing this water to flow, bless us with nourishment, like our mothers. We gladly approach you, so that you may guide us to His abode (Śrī Viṣṇu's). Make us pure through the wisdom which grants bhakti.",
+        "[Sankalpam]\nAdhya Poorvoktha Evam Guna Viseshana Visishtayam Subathithou / Bharathi Ramana Mukya Prananthargatha Savithrunamaka Sri Lakshmi Narayana Preranaya / Savithrunamaka Sri Lakshmi Narayana Prethyartham / Prathas Sandhya Argyapradhanam Karishye /\n\n" +
+        "[First Argyam]\nOm Bhurbhuvassuvaha / Thathsavithur Varenyam / Bargo Devasya Dhimahi / Dhiyo Yonaha Prachodhayath /\n\n" +
+        "Prathichakshwa Vasishta Indra Somau Anushtupa / Punar Argyadhikaararthe Aathma Samrakshanarthe Jape Viniyoga /\n" +
+        "Prathichakshwa Visakshvendrascha / Soma Jagrutham / Rakshobhyo Vadhanasyaatham / Achanim Yathu Madhya /\n\n" +
+        "[If Sandhya time was missed]\nPrathas Sandhya Kaladhikrama Dosha Prayaschithartham Chathurtha Argya Pradhanam Karishye /\n\n" +
+        "Hridhyasthathu Gayathri Hruthkuhamukha Nissrutha / Hathwa Hayadhithya Sathrumcha Viswasya Hridhyam Mama /\n" +
+        "Asow Aadhithyo Brahma /",
+      devanagari:
+        "अद्य पूर्वोक्त एवं गुणविशेषणविशिष्टायां शुभतिथौ भारतीरमणमुख्यप्राणान्तर्गत सवितृनामक श्रीलक्ष्मीनारायण प्रेरणया सवितृनामक श्रीलक्ष्मीनारायण प्रीत्यर्थं प्रातःसन्ध्या अर्घ्यप्रदानं करिष्ये ॥\n\n" +
+        "ॐ भूर्भुवस्सुवः । तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि । धियो यो नः प्रचोदयात् ॥\n\n" +
+        "प्रतिचक्ष्व वसिष्ठ इन्द्रसोमौ अनुष्टुप् । पुनरर्घ्याधिकारार्थे आत्मसंरक्षणार्थे जपे विनियोगः ॥ प्रतिचक्ष्व विशक्ष्वेन्द्रश्च सोम जागृतम् । रक्षोभ्यो वधनस्यताम् । अशनिं यातु मध्यतः ॥\n\n" +
+        "प्रातःसन्ध्या कालातिक्रमदोषप्रायश्चित्तार्थं चतुर्थम् अर्घ्यप्रदानं करिष्ये ॥\n\n" +
+        "हृदयस्था तु गायत्री हृत्कुहमुखनिस्सृता । हत्वा ह्यादित्यशत्रूंश्च विशस्व हृदयं मम ॥\n" +
+        "असावादित्यो ब्रह्म ॥",
       action:
-        "Take water in the uddharaṇī with the left hand and, using the ring finger of the right hand, sprinkle water while chanting. Sprinkle over the head while reciting the first seven mantras (down to 'tasmā araṅ gamāma vaḥ'), sprinkle on the feet at 'yasya kṣayāya jinvatha', and sprinkle again on the head at 'āpo janayathā ca naḥ'. The water must reach each body part exactly as the last syllable of each line is completed — neither early nor late."
+        "Do Pranayamam and state the Sankalpam. With your little finger draw the yantra shown in the book in the water. Take water into the joined palms, hold the hands in line with the centre of the eyebrows, stand erect, and pour the water while uttering the Gayathri mantra. Offer the second and third Argyam with the same Gayathri. If the proper Sandhya time was missed, state the Prayaschitta Sankalpam and perform a fourth Argyam. Pray to Gayathri, spray water around yourself as you go round, and then sit down."
     },
     {
-      id: "08", slug: "mantracamana", group: "Saṅkalpa & mārjana", page: "20–21",
-      title: "6 · Mantrācamana",
-      meaning: "The mantra for this step changes with the sandhyā — select the time of day above.",
-      action:
-        "Pour an uddharaṇī full of water into the palm of the right hand, recite the mantra shown for the present sandhyā, and then sip it.",
-      periods: {
-        pratah: {
-          sanskrit: "Prātaḥ · Sūryaśca (night's sins)",
-          mantra:
-            "sūryaścetyasya mantrasya | nārāyaṇa ṛṣiḥ | sūryamāmanyu manyupatayo rātrirdevatā | prakṛtiśchandaḥ | jalābhimantraṇe viniyogaḥ ||\n\n" +
-            "oṃ | sūryaścamāmanyuścamanyupatayaśca manyukṛtebhyaḥ | pāpebhyo rakṣantām | yadrātryā pāpamakārṣam | manasā vācā hastābhyām | padbhyāmudareṇa śiśnā | rātristadavalumpatu | yatkiñca duritaṃ mayi | idamahaṃ māmamṛtayonau | sūrye jyotiṣi juhomi svāhā ||",
-          meaning:
-            "You are the Master of Sūrya, who is very bright. You are the one who controls Rudra, who is known for his wildness. Protect us from the pāpas which are caused by the ferocity and the initiatives of the Devatās, the pāpas which occurred during the night, be it through the mind, speech, hands, feet, belly or genitals. May any sins in me committed during the night be forgiven by the abhimāni of rātri (night). I offer all these to You, residing in Sūrya, as an oblation, for the welfare of all."
-        },
-        madhyahnika: {
-          sanskrit: "Mādhyāhnika · Āpaḥ punantu (purification)",
-          mantra:
-            "āpaḥ punantviti mantrasya pūtanāmako nārāyaṇaḥ ṛṣiḥ | āpo devatā | aṣṭī chandaḥ | prāśane viniyogaḥ ||\n\n" +
-            "āpaḥ punantu pṛthivīṃ pṛthivī pūtā punātu mām | punantu brahmaṇaspatirbrahma pūtā punātu mām | yaducchiṣṭham abhojyam yad vā duścaritam mama | sarvaṃ punantu mām āpo'satāṃ ca pratigṛhaꣳ svāhā ||",
-          meaning:
-            "May the waters purify the Earth and may the Earth purify me. May Brahmaṇaspati also be purified and may Brahman purify me. May I be purified from all the demerits of consuming the remnants of others' food and other forbidden articles, or receiving from the wrong people. I offer myself into the fire of enlightenment."
-        },
-        sayam: {
-          sanskrit: "Sāyaṃ · Agniśca (day's sins)",
-          mantra:
-            "agniśceti mantrasya hiraṇyagarbha ṛṣiḥ | agni-manyu-manyupatyahāni devatāḥ | prakṛtiśchandaḥ | mantrācamane viniyogaḥ |\n\n" +
-            "agniścamā manyuśca manyu patayaśca manyukṛtebhyaḥ | pāpebhyo rakṣantām | yadahnā pāpamakārṣam | manasā vācā hastābhyām | padbhyāmudareṇa śiśnā | ahastadavaluṃpatu | yatkiñca duritaṃ mayi | idamahaṃ māmamṛtayonau | satye jyotiṣi juhomi svāhā ||",
-          meaning:
-            "You are the Master of Agni, who is very bright. You are the one who controls Rudra, who is known for his wildness. Protect us from the pāpas which are caused by the ferocity and the initiatives of the Devatās, the pāpas which occurred during the day, be it through the mind, speech, hands, feet, belly or genitals. May any sins in me committed during the day be forgiven by the abhimāni of daytime. I offer all these to You, residing in Satya, as an oblation, for the welfare of all."
-        }
-      }
-    },
-    {
-      id: "09", slug: "punarmarjana", group: "Saṅkalpa & mārjana", page: "21–22",
-      title: "7 · Punarmārjana",
+      id: "08", slug: "deva-tharpanam", group: "Argyapradhanam and Tharpanam", page: "54-56",
+      title: "8. Deva (Kesavadhi) Tharpanam",
       mantra:
-        "dadhikrāvṇa ityasya vāmadeva ṛṣiḥ | viśvedevā devatāḥ | anuṣṭup chandaḥ | punarmārjane viniyogaḥ ||\n\n" +
-        "dadhi krāviṇṇo ākāriṣaṃ jiṣṇoraśvasya vājinaḥ |\n" +
-        "surabhi no mukhākaratpraṇa āyūꣳṣi tāriṣat ||",
-      meaning:
-        "May He — the Foundation, the Master and the conqueror of the universe, the repository of all knowledge in the form of a horse (Hayagrīva), and to whom I offer my salutations — free us from all hindrances to the performance of righteous deeds. (Ṛgveda, Śākala Saṃhitā, Maṇḍala 4, Sūkta 39, Mantra 6; Kṛṣṇa-Yajurveda, Taittirīya Saṃhitā, Kāṇḍa 1, Prapāṭhaka 5, Anuvāka 11, Mantra 4.)",
+        "[Sukla Paksha]\nKesavam Tharpayami / Narayanam Tharpayami / Madhavam Tharpayami / Govindam Tharpayami / Vishnum Tharpayami / Madhusudhanam Tharpayami / Thrivikramam Tharpayami / Vamanam Tharpayami / Sridharam Tharpayami / Hrishikesam Tharpayami / Padmanabham Tharpayami / Damodharam Tharpayami /\n\n" +
+        "[Krishna Paksha]\nSankarshanam Tharpayami / Vasudevam Tharpayami / Pradhyumnam Tharpayami / Aniruddham Tharpayami / Purushothamam Tharpayami / Adhokshajam Tharpayami / Naarasimham Tharpayami / Achutham Tharpayami / Janardhanam Tharpayami / Upendram Tharpayami / Harim Tharpayami / Sri Krishnam Tharpayami /\n\n" +
+        "[Navagrahas - omit on Ekadasi]\nAadithyam Tharpayami / Somam Tharpayami / Angarakam Tharpayami / Budham Tharpayami / Gurum Tharpayami / Sukram Tharpayami / Sanim Tharpayami / Rahum Tharpayami / Kethum Tharpayami /",
+      devanagari:
+        "केशवं तर्पयामि । नारायणं तर्पयामि । माधवं तर्पयामि । गोविन्दं तर्पयामि । विष्णुं तर्पयामि । मधुसूदनं तर्पयामि । त्रिविक्रमं तर्पयामि । वामनं तर्पयामि । श्रीधरं तर्पयामि । हृषीकेशं तर्पयामि । पद्मनाभं तर्पयामि । दामोदरं तर्पयामि ।\n\n" +
+        "सङ्कर्षणं तर्पयामि । वासुदेवं तर्पयामि । प्रद्युम्नं तर्पयामि । अनिरुद्धं तर्पयामि । पुरुषोत्तमं तर्पयामि । अधोक्षजं तर्पयामि । नारसिंहं तर्पयामि । अच्युतं तर्पयामि । जनार्दनं तर्पयामि । उपेन्द्रं तर्पयामि । हरिं तर्पयामि । श्रीकृष्णं तर्पयामि ।\n\n" +
+        "आदित्यं तर्पयामि । सोमं तर्पयामि । अङ्गारकं तर्पयामि । बुधं तर्पयामि । गुरुं तर्पयामि । शुक्रं तर्पयामि । शनिं तर्पयामि । राहुं तर्पयामि । केतुं तर्पयामि ।",
       action:
-        "Repeat the process of mārjana — sprinkling water with the ring finger of the right hand over the head and feet, as before — but begin with this mantra."
+        "Take water with the uddharani and offer Argyam through the four fingers of the right hand other than the thumb. In Sukla Paksha offer to the first twelve Kesavadhi Devathas; in Krishna Paksha offer to the second twelve. Then offer to the Navagrahas; omit the Navagraha Tharpanam on Ekadasi. Do Achamanam."
     },
-
-    // ===================== ARGHYA-PRADĀNA =====================
     {
-      id: "10", slug: "arghya-pradana", group: "Arghya-pradāna", page: "22",
-      title: "8 · Arghya-Pradāna",
+      id: "09", slug: "bhoothochadanam", group: "Gayathri preparation", page: "56",
+      title: "9. Bhoothochadanam",
       mantra:
-        "[Saṅkalpa]\n" +
-        "pūrvokta evaṅguṇaviśeṣaṇaviśiṣṭāyāṃ śubhatithau savitṛnāmaka sūryāntargatabhāratīramaṇamukhyaprāṇāntargata śrīlakṣmīnārāyaṇapreraṇayā śrīlakṣmīnārāyaṇaprītyarthaṃ {p} sandhyāṅga arghyapradānamahaṃ kariṣye ||\n\n" +
-        "[Gāyatrī, split into five parts]\n" +
-        "oṃ | bhūḥ bhuvaḥ svaḥ | tat savituḥ vareṇyaṃ | bhargo devasya dhīmahi | dhiyo yo naḥ pracodayāt ||\n" +
-        "oṃ sūryāya namaḥ idam arghyam ||",
-      meaning:
-        "Saṅkalpa: at the auspicious time already specified, impelled by Śrī Lakṣmī-Nārāyaṇa — who abides within Savitṛ (the Sun) and within Bhāratīramaṇa Mukhyaprāṇa — and for His pleasure, I shall perform the offering of arghya as a limb of the {pe} sandhyā. Gāyatrī: We meditate upon the adorable effulgence of the Deva Savitṛ; may He impel our intellects. 'Om, salutations to Sūrya; this arghya is offered.'",
-      periods: {
-        pratah: {
-          action:
-            "Perform prāṇāyāma, śrotrācamana and brahmāñjali, and chant the saṅkalpa. Take an uddharaṇī full of water in the right palm (or hold a small cup between the thumb and index finger, keeping the thumbs away from the other fingers), chant the Gāyatrī split into the five parts shown, and pour the water on the ground — or into the arghya-pātra — through the tips of the fingers. If standing in a river or tank, offer the libations with cupped palms. Make three such offerings, making sure the water does not touch the thumbs. Face East while offering the arghyas; if the morning sandhyā has been delayed and the Sun is overhead or in the west, face North or West respectively."
-        },
-        madhyahnika: {
-          action:
-            "Perform prāṇāyāma, śrotrācamana and brahmāñjali, and chant the saṅkalpa. Take an uddharaṇī full of water in the right palm (or hold a small cup between the thumb and index finger, keeping the thumbs away from the other fingers), chant the Gāyatrī split into the five parts shown, and pour the water on the ground — or into the arghya-pātra — through the tips of the fingers. If standing in a river or tank, offer the libations with cupped palms. Make three such offerings, making sure the water does not touch the thumbs. Face North while offering the arghyas."
-        },
-        sayam: {
-          action:
-            "Perform prāṇāyāma, śrotrācamana and brahmāñjali, and chant the saṅkalpa. Take an uddharaṇī full of water in the right palm (or hold a small cup between the thumb and index finger, keeping the thumbs away from the other fingers), chant the Gāyatrī split into the five parts shown, and pour the water on the ground — or into the arghya-pātra — through the tips of the fingers. If standing in a river or tank, offer the libations with cupped palms. Make three such offerings, making sure the water does not touch the thumbs. Face West while offering the arghyas."
-        }
-      }
+        "Apasarpanthu Ithyasya Manthrasya Vamadeva Rishihi / Bhoothani Devathaha / Anushtupa Chandhaha / Bhoothochadane Viniyogaha /\n\n" +
+        "Apasarpanthu Ye Bhoothaha / Ye Bhoothaha Bhuvisamsthithaha / Ye Bhoothaha Vignakartharaha / They Nasyanthu Sivagnyaha / Apakramanthu Ye Bhoothaha / Kruras Chaivathu Rakshasaha / Ye Chathra Nivasanthyeva Devatha Bhuvi Santhatham / Theshamapi Avirodhena / Bramha Karma Samarabe /",
+      devanagari:
+        "अपसर्पन्त्वित्यस्य मन्त्रस्य वामदेव ऋषिः । भूतानि देवता । अनुष्टुप् छन्दः । भूतोच्चाटने विनियोगः ॥\n\n" +
+        "अपसर्पन्तु ये भूताः ये भूताः भुवि संस्थिताः । ये भूताः विघ्नकर्तारस्ते नश्यन्तु शिवाज्ञया । अपक्रामन्तु ये भूताः क्रूराश्चैव तु राक्षसाः । ये चात्र निवसन्त्येव देवता भुवि सन्ततम् । तेषामप्यविरोधेन ब्रह्मकर्म समारभे ॥",
+      action:
+        "Snap your fingers on your left side to drive away spirits."
     },
     {
-      id: "11", slug: "prayaschitta-arghya", group: "Arghya-pradāna", page: "22–23",
-      title: "Prāyaścitta Arghya-Pradāna",
+      id: "10", slug: "aasanam", group: "Gayathri preparation", page: "56-57",
+      title: "10. Aasanam",
       mantra:
-        "arghyatrayānte {p} sandhyākālātīta kramadoṣaparihārārthaṃ caturthārghyapradānam kariṣye |\n\n" +
-        "oṃ | bhūḥ bhuvaḥ svaḥ | tat savituḥ vareṇyaṃ | bhargo devasya dhīmahi | dhiyo yo naḥ pracodayāt ||\n" +
-        "oṃ sūryāya namaḥ idam arghyam ||",
-      meaning:
-        "This is an atonement in case one has missed the precise time period for offering arghyas — such as the Sun already having risen in the morning, or already having set in the evening. Saṅkalpa: after the three arghyas, to remove the fault of the sequence (kramadoṣa) caused by exceeding the time of the {pe} sandhyā, I shall offer a fourth arghya.",
+        "Prathivi Manthrasya Meruprushtha Rishihi / Koormo Devathaha / Suthalam Chandhaha / Aasane Viniyoga /\n\n" +
+        "Prathivi Thwaya Dhrutha Lokaha / Devithwam Vishnuna Dhrutha / Thwam Cha Dharaya Mam Devi Pavithram Kuruchasanam / Mam Cha Phootham Kuru Dhare Nathosmi Thwam Sureswari / Aasane Soma Mandale Koormas Kandhe Upavishtosmi / Om Bhurbhuvasvarom Ananthasanaya Namaha /",
+      devanagari:
+        "पृथिवी मन्त्रस्य मेरुपृष्ठ ऋषिः । कूर्मो देवता । सुतलं छन्दः । आसने विनियोगः ॥\n\n" +
+        "ॐ पृथ्वी त्वया धृता लोकाः देवि त्वं विष्णुना धृता । त्वं च धारय मां देवि पवित्रं कुरु चासनम् ॥ मां च पूतं कुरु धरे नतोऽस्मि त्वां सुरेश्वरि । आसने सोममण्डले कूर्मस्कन्धे उपविष्टोऽस्मि ॥ ॐ भूर्भुवस्स्वरोम् अनन्तासनाय नमः ॥",
       action:
-        "Perform prāṇāyāma, śrotrācamana and brahmāñjali. Say the saṅkalpa, then chant the Gāyatrī mantra again and offer another arghya in the same manner as before. (Perform this only if the correct time was exceeded.)"
+        "Recite the mantra for the seat, sit as directed, and then do Pranayamam."
     },
     {
-      id: "12", slug: "devata-tarpana", group: "Arghya-pradāna", page: "23",
-      title: "Devatā Tarpaṇa",
+      id: "11", slug: "angannyasam", group: "Gayathri preparation", page: "57-58",
+      title: "11. Angannyasam",
       mantra:
-        "[During Śukla-pakṣa — the first twelve names, from Keśava]\n" +
-        "oṃ keśavaṃ tarpayāmi | oṃ nārāyaṇaṃ tarpayāmi | oṃ mādhavaṃ tarpayāmi | oṃ govindaṃ tarpayāmi | oṃ viṣṇuṃ tarpayāmi | oṃ madhusūdanaṃ tarpayāmi | oṃ trivikramaṃ tarpayāmi | oṃ vāmanaṃ tarpayāmi | oṃ śrīdharaṃ tarpayāmi | oṃ hṛṣīkeśaṃ tarpayāmi | oṃ padmanābhaṃ tarpayāmi | oṃ dāmodaraṃ tarpayāmi |\n\n" +
-        "[During Kṛṣṇa-pakṣa — the twelve names from Saṅkarṣaṇa]\n" +
-        "oṃ saṅkarṣaṇaṃ tarpayāmi | oṃ vāsudevaṃ tarpayāmi | oṃ pradyumnaṃ tarpayāmi | oṃ aniruddhaṃ tarpayāmi | oṃ puruṣottamaṃ tarpayāmi | oṃ adhokṣajaṃ tarpayāmi | oṃ nārasiṃhaṃ tarpayāmi | oṃ acyutaṃ tarpayāmi | oṃ janārdanaṃ tarpayāmi | oṃ upendraṃ tarpayāmi | oṃ hariṃ tarpayāmi | oṃ śrī kṛṣṇaṃ tarpayāmi |",
-      meaning:
-        "This is the final step of arghya-pradāna — the tarpaṇa ('satiating') of the Lord in His twelve forms: 'Oṃ, I satiate Keśava… I satiate Nārāyaṇa…' and so on. During Śukla-pakṣa (the waxing fortnight) recite the first twelve of the twenty-four names, starting from Keśava; during Kṛṣṇa-pakṣa (the waning fortnight) recite the twelve starting from Saṅkarṣaṇa.",
+        "Thathsavithu - Angushtabhyam Namaha / Varenyam - Tharjaneebhyam Namaha / Bargodevasya - Madhyamabhyam Namaha / Dhimayi - Anamikabhyam Namaha / Dhiyo Yonaha - Kanishtakabhyam Namaha / Prachodhayath - Karathala Karaprashtabhyam Namaha /\n\n" +
+        "Thathsavithu - Hridhayaya Namaha / Varenyam - Sirase Swaha / Bargodevasya - Sikayei Vaushata / Dhimayi - Kavachaya Hum / Dhiyo Yonaha - Nethrabhyam Vaushata / Prachodhayath - Asthrayapat / Bhurbhuvasvarom - Ithidik Bandhaha /",
+      devanagari:
+        "ॐ तत्सवितुः अङ्गुष्ठाभ्यां नमः । वरेण्यं तर्जनीभ्यां नमः । भर्गो देवस्य मध्यमाभ्यां नमः । धीमहि अनामिकाभ्यां नमः । धियो यो नः कनिष्ठिकाभ्यां नमः । प्रचोदयात् करतलकरपृष्ठाभ्यां नमः ॥\n\n" +
+        "ॐ तत्सवितुः हृदयाय नमः । वरेण्यं शिरसे स्वाहा । भर्गो देवस्य शिखायै वौषट् । धीमहि कवचाय हुम् । धियो यो नः नेत्राभ्यां वौषट् । प्रचोदयात् अस्त्राय फट् । भूर्भुवस्स्वरोम् इति दिग्बन्धः ॥",
       action:
-        "First perform ācamana and aṅga-nyāsa again. Then hold cupped palms, chant each of the twelve lines, and pour some water into the arghya-pātra or on the ground after mentioning each name. If necessary one may complete sandhyāvandana up to here, attend to other work, and return for the remaining steps later — though interrupting sandhyāvandana should be strictly avoided as far as possible."
+        "Do Pranayamam. Perform the hand gestures printed beside each phrase: rub the forefingers against the backs of the thumbs; rub each thumb against the front of the corresponding finger; rub each hand from opposite elbow to wrist; touch the heart, head and tuft; fold the hands across the chest; touch the eyes and snap; then snap the fingers aloft around the head for Digbandha."
     },
-
-    // ===================== GĀYATRĪ JAPA =====================
     {
-      id: "13", slug: "asana", group: "Gāyatrī japa", page: "23–24",
-      title: "9 · Gāyatrī Japa — Āsana",
+      id: "12", slug: "gayathri-japam", group: "Gayathri Japam", page: "58-60",
+      title: "12. Gayathri Japam",
       mantra:
-        "pṛthvīti mantrasya merupṛṣṭha ṛṣiḥ | kūrmo devatā | sutalaṃ chandaḥ | āsane viniyogaḥ ||\n\n" +
-        "pṛthvi tvayā dhṛtā lokā devi tvaṃ viṣṇunā dhṛtā |\n" +
-        "tvaṃ ca dhāraya māṃ devi pavitraṃ kuru cā'sanam ||\n" +
-        "māṃ ca pūtaṃ kuru dhare nato'smi tvāṃ sureśvari |\n" +
-        "āsane somamaṇḍale kūrmaskandhe upaviṣṭo'smi ||",
-      meaning:
-        "Pṛthvī, you hold the world, O Devī, and you yourself are held by Viṣṇu. For the purpose of bearing me, please purify my seat. For bearing me, I offer my salutations to you, Sureśvarī. I am seated here, with your seat being Kūrma.",
+        "Aagacha Varade Devi Jape Me Sannidhou Bhava / Gayantham Thrayase Yasmath Gayathri Thwam Thathas Smrutha /\n\n" +
+        "Asya Sri Gayathri Manthrasya Viswamithra Rishihi / Savitha Devatha / Gayathri Chandhaha / Jape Viniyogaha /\n\n" +
+        "Savithru Namaka Sri Lakshmi Narayana Preranaya / Savithru Namaka Sri Lakshmi Narayana Preethyartham / Yatha Sakthi Pratha Sandhya Gayathri Manthra Japam Karishye /\n\n" +
+        "Om Bhurbhuvasvaha / Thathsavithur Vareniyam / Bhargo Devasya Dhimayi / Dhiyo Yo Naha Prachodayath /",
+      devanagari:
+        "आगच्छ वरदे देवि जपे मे सन्निधौ भव । गायन्तं त्रायसे यस्माद्गायत्री त्वं ततः स्मृता ॥\n\n" +
+        "अस्य श्रीगायत्रीमन्त्रस्य विश्वामित्र ऋषिः । सविता देवता । गायत्री छन्दः । जपे विनियोगः ॥\n\n" +
+        "सवितृनामक श्रीलक्ष्मीनारायण प्रेरणया सवितृनामक श्रीलक्ष्मीनारायण प्रीत्यर्थं यथाशक्ति प्रातःसन्ध्या गायत्रीमन्त्रजपं करिष्ये ॥\n\n" +
+        "ॐ भूर्भुवस्सुवः । तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि । धियो यो नः प्रचोदयात् ॥",
       action:
-        "Perform ācamana and aṅga-nyāsa. Touch the ground, chant these mantras, and sit down. Then perform prāṇāyāma before proceeding to the Nyāsa and Dhyāna."
+        "Invite Gayathri and declare the Rishi, Devatha, Chandhaha and Viniyoga, touching the head, heart and mouth as printed. State the Japa Sankalpam. Meditate on the Gayathri mantra 108 times or at least 30 times."
     },
     {
-      id: "14", slug: "gayatri-nyasa", group: "Gāyatrī japa", page: "24–25",
-      title: "9 · Gāyatrī Japa — Nyāsa",
+      id: "12A", slug: "dhyanam", group: "Gayathri Japam", page: "59",
+      title: "12a. Dhyanam",
       mantra:
-        "[Viniyoga]\n" +
-        "oṃ asya śrī gāyatri mahā mantrasya viśvamitraḥ ṛṣiḥ | nicṛd-gāyatri chandaḥ | savitā devatā | sandhya vandane jape viniyogaḥ ||\n\n" +
-        "[Kara-nyāsa]\n" +
-        "oṃ tatsavituḥ aṅguṣṭhābhyāṃ namaḥ | (stroke the thumbs with the index fingers)\n" +
-        "oṃ vareṇyaṃ tarjanībhyāṃ namaḥ | (stroke the index fingers from palm to tip with the thumbs)\n" +
-        "oṃ bhargo devasya madhyamābhyāṃ namaḥ | (stroke the middle fingers from palm to tip with the thumbs)\n" +
-        "oṃ dhīmahi anāmikābhyāṃ namaḥ | (stroke the ring fingers with the thumbs)\n" +
-        "oṃ dhiyo yo naḥ kaniṣṭhikābhyāṃ namaḥ | (stroke the little fingers with the thumbs)\n" +
-        "oṃ pracodayāt kara-tala-kara-prṣṭhābhyāṃ namaḥ | (touch each palm and then the back of the hands)\n\n" +
-        "[Aṅga-nyāsa]\n" +
-        "oṃ tatsavituḥ hrdayāya namaḥ | (chest, at the heart)\n" +
-        "oṃ vareṇyaṃ śirase svāhā | (top of the head)\n" +
-        "oṃ bhargo devasya śikhāyai vaṣaṭ | (the śikhā, at the crown of the back of the head)\n" +
-        "oṃ dhīmahi kavacāya huṃ | (cross the arms over the chest, touching the shoulders)\n" +
-        "oṃ dhiyo yo naḥ netratrayāya vauṣaṭ | (touch the right and left eyes with the thumb and middle finger, placing the index finger on the centre of the forehead)\n" +
-        "oṃ pracodayāt astrāya phaṭ | (clap the hands three times)\n" +
-        "oṃ bhūr-bhuvas-suvar-om iti digbandhaḥ | (snap the fingers at the 8 cardinal directions around the head)",
-      meaning:
-        "The viniyoga declares the Ṛṣi (Viśvāmitra), Chandas (Nicṛd-Gāyatrī) and Devatā (Savitṛ) of the great Gāyatrī mantra and its application in the sandhyā-vandana japa. The kara-nyāsa installs the mantra, syllable by syllable, upon the fingers, and the aṅga-nyāsa upon the limbs, so that the reciter's hands and body are consecrated and the Devatā is invoked before the japa.",
+        "Dhyeyas Sadha Savithru Mandala Madhyavarthee / Narayanas Sarasijasanasannivishtaha / Keyuravan Makarakundalavan Kiriti Haari Hiranmaya Vapuhu Dhrutha Sanka Chakraha / Prodhyath Aadithyavarnascha Suryamandala Madhyakaha / Chakra Sanka Dharongastha Dhordhvayo Dyeyevacha /\n\n" +
+        "Rakthovarnaha / Agnir Mukam / Brahma Siraha / Vishnu Hridhayam / Rudra Lalatam / Pruthivi Kukshihi / Thrailokyam Saranaha / Pranopana Vyanodhana Samana Saprana / Sankyanasam Gothram / Gayathri Savithri Saraswathi / Chathurvimchathyaksharaha / Thripathaha / Shadkukshihi / Panchasirsha / Upanayane Viniyogaha /",
+      devanagari:
+        "ध्येयः सदा सवितृमण्डलमध्यवर्ती नारायणः सरसिजासनसन्निविष्टः । केयूरवान् मकरकुण्डलवान् किरीटी हारी हिरण्मयवपुः धृतशङ्खचक्रः ॥ प्रोद्यदादित्यवर्णश्च सूर्यमण्डलमध्यगः । चक्रशङ्खधराङ्गस्थो दोर्द्वयो ध्येय एव च ॥\n\n" +
+        "रक्तवर्णा । अग्निर्मुखम् । ब्रह्म शिरः । विष्णुर्हृदयम् । रुद्रो ललाटम् । पृथिवी कुक्षिः । त्रैलोक्यं चरणाः । प्राणापानव्यानोदानसमानाः सप्राणाः । साङ्ख्यायनसं गोत्रम् । गायत्री सावित्री सरस्वती । चतुर्विंशत्यक्षरा । त्रिपदा । षट्कुक्षिः । पञ्चशीर्षा । उपनयने विनियोगः ॥",
       action:
-        "Perform the kara-nyāsa and then the aṅga-nyāsa, touching each finger and each part of the body with the right hand exactly as indicated while chanting each phrase."
+        "Meditate on Narayana in the centre of the solar orb. Touch the mouth, head, heart, forehead and other places as printed while reciting the descriptive Nyasa."
     },
     {
-      id: "15", slug: "dhyanam", group: "Gāyatrī japa", page: "25",
-      title: "9 · Gāyatrī Japa — Dhyānam",
+      id: "13", slug: "anganyasa-conclusion", group: "Gayathri Japam", page: "60",
+      title: "13. Anganyasa (repeat)",
       mantra:
-        "dhyeyaḥ sadā savitṛmaṇḍalamadhyavartī nārāyaṇaḥ sarasijāsanasanniviṣṭaḥ |\n" +
-        "keyūravān makarakuṇḍalavān kirīṭī hārī hiraṇmayavapuḥ dhṛtaśaṅkhacakraḥ ||\n\n" +
-        "oṃ | yo devaḥ savitā'smākaṃ dhiyo dharmādi gocaraḥ |\n" +
-        "prerayet tasya yadbhargaḥ tadvareṇyam upāsmahe ||",
-      meaning:
-        "Ever to be meditated upon is Nārāyaṇa, who dwells in the centre of the orb of the Sun, seated upon a lotus, adorned with armlets, makara ear-rings and a crown, garlanded, of golden form, bearing the śaṅkha and cakra. — The Deva Savitā, who propels our intellect towards dharma and the rest; that most adorable effulgence of His, we worship.",
+        "Asya Sri Gayathri Manthrasya Viswamithra Rishihi / Savitha Devatha / Gayathri Chandaha / Jape Upasamhare Viniyoga /\n\n" +
+        "Savithru Namaka Sri Lakshmi Narayana Preranaya / Savithru Namaka Sri Lakshmi Narayana Preethyartham / Yatha Sakthi Pratha Sandhya Gayathri Manthra Japa Sampoornam /",
+      devanagari:
+        "अस्य श्रीगायत्रीमन्त्रस्य विश्वामित्र ऋषिः । सविता देवता । गायत्री छन्दः । जप उपसंहारे विनियोगः ॥\n\n" +
+        "सवितृनामक श्रीलक्ष्मीनारायण प्रेरणया सवितृनामक श्रीलक्ष्मीनारायण प्रीत्यर्थं यथाशक्ति प्रातःसन्ध्या गायत्रीमन्त्रजपः सम्पूर्णः ॥",
       action:
-        "Remembering the form of Sūrya-Nārāyaṇa (as depicted on the cover of the source book), chant the dhyāna śloka."
+        "Repeat Anganyasam as in step 11. Declare the Rishi, Devatha, Chandaha and concluding Viniyoga. Repeat the Dhyana mantra from step 12a, then recite the Japa completion."
     },
     {
-      id: "16", slug: "gayatri-japa", group: "Gāyatrī japa", page: "25",
-      title: "9 · Gāyatrī Mantra Japa",
+      id: "14", slug: "upasthanam", group: "Upasthanam and Pradhikshanam", page: "60-61",
+      title: "14. Upasthanam",
       mantra:
-        "oṃ | bhūḥ bhuvaḥ svaḥ | tat savituḥ vareṇyaṃ | bhargo devasya dhīmahi | dhiyo yo naḥ pracodayāt ||\n\n" +
-        "[Closing dedication]\n" +
-        "anena {p} sandhyāṅgagāyatrimantrajapena gāyatrīmantrapratipādyaḥ śrībhāratīramaṇamukhyaprāṇāntargataḥ savitṛnāmaka śrīlakṣmīnārāyaṇaḥ priyatāṃ suprīto varado bhavatu | śrīkṛṣṇārpaṇamastu ||",
-      meaning:
-        "'We meditate upon the adorable effulgence (vareṇya bhargas) of the Deva Savitṛ; may He impel our intellects (dhiyaḥ).' Closing dedication: 'May Śrī Lakṣmī-Nārāyaṇa — who bears the name Savitṛ, who abides within Bhāratīramaṇa Mukhyaprāṇa, and who is denoted by the Gāyatrī mantra — be pleased by this japa of the Gāyatrī as a limb of the {pe} sandhyā, and, well-pleased, grant boons. May this be an offering to Śrī Kṛṣṇa.'",
+        "Jathavedase Ithyasya Manthrasya Kasyapa Rishihi / Durga Jathavedagni Devatha / Thrishtupa Chandhaha / Sandhya Upasthane Viniyogaha /\n\n" +
+        "Om Jathavedase Sunavam Somamaha / Arathiyatho Nidahathi Vedaha / Sa Naha Parshad Athi Durgani Viswa / Naveva Sindhum Dhurithathyagni /\n\n" +
+        "Thachamayo Samyur Viswe Devathaha Sakvari / Upasthane Viniyogaha /\n" +
+        "Thachamyo Ravrunimahe / Gathum Yagnyaya / Gathum Yagnyapathaye / Daivi Swasthirasthu Naha / Swasthir Maanushebhya / Urdhvam Jigathu Beshajam / Sam No Asthu Dwipathe / Sam Chathushpathe /",
+      devanagari:
+        "जातवेदसे इत्यस्य मन्त्रस्य कश्यप ऋषिः । दुर्गा जातवेदाग्निर्देवता । त्रिष्टुप् छन्दः । सन्ध्योपस्थाने विनियोगः ॥\n\n" +
+        "ॐ जातवेदसे सुनवाम सोममरातीयतो निदहाति वेदः । स नः पर्षदति दुर्गाणि विश्वा नावेव सिन्धुं दुरितात्यग्निः ॥\n\n" +
+        "तच्छंयोरावृणीमहे गातुं यज्ञाय गातुं यज्ञपतये । दैवी स्वस्तिरस्तु नः स्वस्तिर्मानुषेभ्यः । ऊर्ध्वं जिगातु भेषजं शं नो अस्तु द्विपदे शं चतुष्पदे ॥",
       action:
-        "Chant the Gāyatrī mantra at least 10 times — or 21, 28, 108 or 1,008 times — splitting it into the parts shown. At the end, perform one tarpaṇa for every 10 counts, then chant the closing dedication, and perform kara-nyāsa again followed by aṅga-nyāsa. (After this, one may perform japa of any other mantra for which one has received upadeśa from a suitable Guru.)"
+        "Stand up facing East. Touch the head for the Rishi, the heart for the Devatha, and the mouth for the Chandhaha, then recite the Rig Veda morning Upasthanam."
     },
-
-    // ===================== AṢṬĀKṢARA JAPA =====================
     {
-      id: "17", slug: "ashtakshara-nyasa", group: "Aṣṭākṣara japa", page: "25–26",
-      title: "10 · Aṣṭākṣara Japa — Saṅkalpa & Nyāsa",
+      id: "15", slug: "pradhikshanam", group: "Upasthanam and Pradhikshanam", page: "60-63",
+      title: "15. Pradhikshanam",
       mantra:
-        "[Saṅkalpa]\n" +
-        "śrī bhāratīramaṇa mukhyaprāṇāntargata savitṛnāmaka śrī lakṣmīnārāyaṇa preraṇayā savitṛnāmaka śrī lakṣmīnārāyaṇa prītyarthaṃ yathāśakti nārāyaṇa aṣṭākṣaramantrajapaṃ kariṣye ||\n\n" +
-        "[Nyāsa]\n" +
-        "asya śrī nārāyaṇa aṣṭākṣara mahāmantrasya śrī antaryāmī ṛṣiḥ | daivī gāyatrī chandaḥ | śrī nārāyaṇo devatā | nārāyaṇa aṣṭākṣaramantrajape viniyogaḥ ||\n\n" +
-        "oṃ kruddholkāya hṛdayāya namaḥ |\n" +
-        "oṃ maholkāya śirase svāhā |\n" +
-        "oṃ vīrolkāya śikhāyai vaṣaṭ |\n" +
-        "oṃ dyūlkāya kavacāya hum |\n" +
-        "oṃ sahasrolkāya astrāya phaṭ |\n" +
-        "iti digbandhaḥ |",
-      meaning:
-        "Saṅkalpa: 'Impelled by Śrī Lakṣmī-Nārāyaṇa (named Savitṛ, abiding within Bhāratīramaṇa Mukhyaprāṇa), and for His pleasure, I shall perform japa of the Nārāyaṇa Aṣṭākṣara mantra to the best of my ability.' The Nyāsa declares the Ṛṣi (Śrī Antaryāmī), Chandas (Daivī Gāyatrī) and Devatā (Śrī Nārāyaṇa) of the eight-syllabled great mantra, and installs its aṅgas, ending with the digbandha (binding of the directions).",
+        "Om Namo Brahmane Ithyasya Prajapathihi Viswedeveha / Jagathi Pradhakshane Viniyogaha /\n\n" +
+        "Om Namo Brahmane / Namosthu Vagnaye / Namaha Prithivyay / Namaha Oushadheebhyaha / Namo Vache / Namo Vachespathaye / Namo Vishnave Mahathe Karomi /\n\n" +
+        "Namaha Pracheyai Dhisey Yascha Devatha Yethasyam Prathivasanthi Ethabhyascha Namo Namaha /\n" +
+        "Namaha Dakshinayai Dhisey Yascha Devatha Yethasyam Prathivasanthi Ethabhyascha Namo Namaha /\n" +
+        "Namaha Pradeechyai Dhisey Yascha Devatha Yethasyam Prathivasanthi Ethabhyascha Namo Namaha /\n" +
+        "Namaha Udheechyai Dhisey Yascha Devatha Yethasyam Prathivasanthi Ethabhyascha Namo Namaha /\n" +
+        "Namaha Oordhvayai Dhisey Yascha Devatha Yethasyam Prathivasanthi Ethabhyascha Namo Namaha /\n" +
+        "Namaha Adharayai Dhisey Yascha Devatha Yethasyam Prathivasanthi Ethabhyascha Namo Namaha /\n" +
+        "Namaha Avaantharayai Dhisey Yascha Devatha Yethasyam Prathivasanthi Ethabhyascha Namo Namaha /\n\n" +
+        "Sandhyayei Namaha / Savithriyei Namaha / Gayathriyei Namaha / Saraswathyei Namaha / Sarvabhyo Devathabhyo Namaha / Rishibhyo Namaha / Gurubhyo Namaha / Aacharyebhyo Namaha / Mathrubhyo Namaha / Pithrubhyo Namaha / Kamokarishith Manyukarishith Namo Namaha /",
+      devanagari:
+        "ॐ नमो ब्रह्मणे इत्यस्य प्रजापतिः विश्वेदेवाः । जगती प्रदक्षिणे विनियोगः ॥\n\n" +
+        "ॐ नमो ब्रह्मणे । नमोऽस्त्वग्नये । नमः पृथिव्यै । नम ओषधीभ्यः । नमो वाचे । नमो वाचस्पतये । नमो विष्णवे महते करोमि ॥\n\n" +
+        "नमः प्राच्यै दिशे याश्च देवताः एतस्यां प्रतिवसन्ति एताभ्यश्च नमो नमः ।\n" +
+        "नमः दक्षिणायै दिशे याश्च देवताः एतस्यां प्रतिवसन्ति एताभ्यश्च नमो नमः ।\n" +
+        "नमः प्रतीच्यै दिशे याश्च देवताः एतस्यां प्रतिवसन्ति एताभ्यश्च नमो नमः ।\n" +
+        "नमः उदीच्यै दिशे याश्च देवताः एतस्यां प्रतिवसन्ति एताभ्यश्च नमो नमः ।\n" +
+        "नमः ऊर्ध्वायै दिशे याश्च देवताः एतस्यां प्रतिवसन्ति एताभ्यश्च नमो नमः ।\n" +
+        "नमः अधरायै दिशे याश्च देवताः एतस्यां प्रतिवसन्ति एताभ्यश्च नमो नमः ।\n" +
+        "नमः अवान्तरायै दिशे याश्च देवताः एतस्यां प्रतिवसन्ति एताभ्यश्च नमो नमः ।\n\n" +
+        "सन्ध्यायै नमः । सावित्र्यै नमः । गायत्र्यै नमः । सरस्वत्यै नमः । सर्वाभ्यो देवताभ्यो नमः । ऋषिभ्यो नमः । गुरुभ्यो नमः । आचार्येभ्यो नमः । मातृभ्यो नमः । पितृभ्यो नमः । कामोऽकार्षीत् मन्युरकार्षीत् नमो नमः ॥",
       action:
-        "This japa is done only if you have received upadeśa of the Aṣṭākṣara mantra. Chant the saṅkalpa, then perform the Nyāsa — touching the heart, head, śikhā and shoulders, clapping for the astra, and binding the directions."
+        "Do Pradhakshinam three times while reciting the opening prayer. Then pray to the Eastern direction (Indra), Southern direction (Yama), Western direction (Varuna), Northern direction (Kubera), upper direction (Garuda), lower or nether direction (Sesha), and the middle direction (other deities)."
     },
     {
-      id: "18", slug: "ashtakshara-japa", group: "Aṣṭākṣara japa", page: "26–27",
-      title: "10 · Aṣṭākṣara Japa — Dhyāna & Japa",
+      id: "16", slug: "sandhya-abhiraksha", group: "Concluding prayers", page: "63",
+      title: "16. Sandhya Abhiraksha",
       mantra:
-        "[Dhyāna]\n" +
-        "udyadbhāsvatsamābhāsaścidānandaika dehavān | cakraśaṅkhagadāpadmadharo dhyeyo'hamīśvaraḥ ||\n" +
-        "lakṣmīdharābhyāmāśliṣṭaḥ svamūrtigaṇamadhyagaḥ | brahmavāyuśivāhīśavipaiśśakrādikairapi ||\n" +
-        "sevyamāno'dhikaṃ bhaktyā nityaniśśeṣaśaktimān | mūrtayo'ṣṭāvapi dhyeyāḥ cakraśaṅkhavarābhayaiḥ ||\n" +
-        "yuktāḥ pradīpavarṇāśca sarvābharaṇabhūṣitāḥ | śaṅkhacakravarābhītihastānyetāni sarvaśaḥ | mūlarūpasavarṇāni kṛṣṇavarṇā śikhocyate ||\n\n" +
-        "[Saṅkalpa]\n" +
-        "mayi vaiṣṇavatva abhivṛddharthaṃ nārāyaṇāṣṭākṣara mahāmantra japatarpaṇākhyaṃ karma kariṣye |\n\n" +
-        "[Closing]\n" +
-        "bhagavān savitṛnāmaka śrī lakṣmī nārāyaṇapreraṇayā savitṛnāmaka śrīlakṣmīnārāyaṇa prītyarthaṃ {p} sandhyāṅga śrī nārāyaṇa aṣṭākṣaramantraṃ sampūrṇam | śrī kṛṣṇārpaṇamastu ||",
-      meaning:
-        "'I meditate on Īśvara, Nārāyaṇa, whose body consists of sat, chit and ānanda, and appears like the rising Sun, and who bears the śaṅkha, cakra, gadā and padma. He is the bearer of Lakṣmī Devī and is surrounded by Brahmā, Vāyu, Garuḍa, Śeṣa, Rudra and the Devatās headed by Indra. He is the Master of all energies, who is to be worshipped with intense bhakti, and who is in the centre of Viśva, Taijasa and the other eight rūpas, with a bright effulgence, adorned by all sorts of ornaments.' Saṅkalpa: 'For the purpose of increasing the Vaiṣṇavatva in me, I shall perform the task of japa and tarpaṇa of the Nārāyaṇa Aṣṭākṣara.'",
-      action:
-        "Chant the Mūlamantra three times the number of times you chanted the Gāyatrī (for example, if the Gāyatrī was chanted 10 times, chant the Mūlamantra 30 times). After completing the japa, perform one tarpaṇa for every 10 counts, saying 'śrī nārāyaṇaṃ tarpayāmi'. Finally, chant the closing dedication."
-    },
-
-    // ===================== UPASTHĀNA & CONCLUSION =====================
-    {
-      id: "19", slug: "suryopasthana", group: "Upasthāna & conclusion", page: "27–30",
-      title: "11 · Sūryopasthāna",
-      meaning: "The upasthāna prayer changes with the sandhyā — select the time of day above.",
-      action:
-        "Rise and face the direction of the Sun (East in the morning, North at midday, West in the evening) and chant the prayer shown for the present sandhyā.",
-      periods: {
-        pratah: {
-          sanskrit: "Prātaḥ · Mitra sūkta",
-          mantra:
-            "mitrasya mitro janān prasamitra ityeteṣāṃ gāyatrī-triṣṭubhau viśvedevā ṛṣayaḥ | mitro devatā | sūryopasthāne viniyogaḥ ||\n\n" +
-            "mitrasya carṣaṇī dhṛta śśravo devasya sānasim | satyam citra śravastamam ||\n" +
-            "mitro janāna yātayati prajānan mitro dādhāra pṛthivīm uta dyām | mitraḥ kṛṣṭhīranimiṣā'bhicaṣṭe satyāya havyam dhṛtavad-vidhema ||\n" +
-            "prasa mitra marto astu prayasvāna yasta āditya śikṣati vratena | na hanyate na jīyate tvoto nainamaguṃ ho aśnotyantito na dūrāt ||",
-          meaning:
-            "I praise the name of Sūrya, who is the One supporter of the Earth and Svarga. His name is Satya, easily attained and wonderful to hear. Sūrya, who is the friend of the universe, is omniscient and dispenses the fruits of actions to all mankind. He looks with unclosing eyes on all humans. We offer oblations to Him, for obtaining health. O Mitra and Sūrya, the cause of everything, your worshipper will be protected and will not succumb to diseases or enemies. More sins will not approach them, from far away or near."
-        },
-        madhyahnika: {
-          sanskrit: "Mādhyāhnika · Āsatyena & Sūrya mantras",
-          mantra:
-            "āsatyenetasya hiraṇya ṛṣiḥ | triṣṭup chandaḥ | udvayamityasya viśvāmitra ṛṣiḥ | aniṣṭup chandaḥ | citraṃ devānāmityādeḥ kutsa ṛṣiḥ | triṣṭup chandaḥ | taccakṣuḥ ityādeḥ vasiṣṭha ṛṣiḥ | anuṣṭup chandaḥ | savitā devatā | sūryopasthāne viniyogaḥ ||\n\n" +
-            "oṃ āsatyena rajasā vartamāno niveśayannamṛtaṃ martyaṃ ca | hiraṇyena savitā rathenā'devo yāti bhuvanā vi paśyan ||\n" +
-            "udvayaṃ tamasaspari paśyanto jyotiruttaram | devaṃ devatrā sūryamaganma jyotiruttamam ||\n" +
-            "udutyaṃ jātavedasaṃ devaṃ vahanti ketavaḥ | dṛśe viśvāya sūryam ||\n" +
-            "citraṃ devānām udagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ | ā prā dyāvā pṛthivī antarikṣaꣳ sūrya ātmā jagatastastuṣaśca ||\n" +
-            "taccakṣurdevahitaṃ purastācchukramuccarat || paśyema śaradaśśataṃ jīvema śaradaśśataṃ nandāma śaradaśśataṃ modāma śaradaśśataṃ bhavāma śaradaśśataṃ śṛṇvāma śaradaśśataṃ prabravāma śaradaśśataṃ ajītāsyāma śaradaśśataṃ jyok cā sūryaṃ dṛśe ||",
-          meaning:
-            "Sūrya, the light of the eyes, oversees all the Devas and mortals as well as all lokas, impelling them to their duties, travelling in a golden chariot. We see the effulgence of Sūrya, who rises and swallows the darkness and protects the Devas. May we attain perfect knowledge. He is the knower of all beings and is borne aloft by the seven rays which are his horses. May Sūrya, who is the eye of Mitra, Varuṇa and Agni, and the embodiment of all Devas, rise high. Sūrya, the very Ātmā of the universe, of all the motile and immotile, pervades the realms of Pṛthivī as well as outer space. Sūrya, who rises in the east, ensures the wellbeing of the gods. May we continue to see for a hundred Śarads (autumns). May we live for a hundred Śarads. May we rejoice for a hundred Śarads. May we enjoy for a hundred Śarads. May we radiate with glory for a hundred Śarads. May we listen for a hundred Śarads. May we speak properly for a hundred Śarads. May we remain undefeated for a hundred Śarads. Thus, may we continue to pursue the path to enlightenment."
-        },
-        sayam: {
-          sanskrit: "Sāyaṃ · Varuṇa sūkta",
-          mantra:
-            "imaṃ me varuṇa ityasya śunaśmegha ṛṣiḥ | varuṇo devatā | gāyatrī chandaḥ | tattvāyāmi ityasya śunaśmegha ṛṣiḥ | varuṇo devatā | triṣṭup chandaḥ | yacchiddhite ityasya śunaśmegha ṛṣiḥ | varuṇo devatā | gāyatrī chandaḥ | yatkiñcedaṃ ityasya vasiṣṭha ṛṣiḥ | varuṇo devatā | jagatī chandaḥ | kitavāsa ityasya atriḥ ṛṣiḥ | varuṇo devatā | triṣṭup chandaḥ | sāyaṃ sūryopasthāne viniyogaḥ ||\n\n" +
-            "imaṃ me varuṇa śrudhī havam adyāca mṛḍaya | tvām avasyurācake ||\n" +
-            "tat tvā yāmi brahmaṇā vanda mānas tadā śāste yajamāno havirbhiḥ | aheḍamāno varuṇeha bodhyuruśaguṃsa mā na āyuḥ pramoṣīḥ ||\n" +
-            "yacciddhi te viśo yathā pra deva varuṇa vratam | minīmasi dyavidyavi ||\n" +
-            "yatkiñcedaṃ varuṇa daivye janebhidrohaṃ manuṣyāṣcaramasi | acittī yat tava dharmā yuyopimā mā nas tasmād enaso deva rīriṣaḥ ||\n" +
-            "kitavāso yadri'ripurṇa dīvi yadvāghā satyam uta yanna vidma | sarvā tā viṣya śithireva devāthā te syāma varuṇa priyāsaḥ ||",
-          meaning:
-            "Varuṇa, listen to my prayers. Be gracious now. I am approaching you, seeking your protection. O Varuṇa, praised by the Vedas, may I take refuge in you, which I aspire, through these oblations. I am offering abundant praises to you. Abstain from your anger now and guide us. Varuṇa, who are highly renowned, answer my prayers even now and do not decrease the duration of our lives. O Varuṇa, as undiscriminating people, we may have neglected the regular daily worship, but such deceit might have been done unwittingly. O Varuṇa, protect us from, and do not punish us for, all that we have done and all the dharmas that we have violated. The blame that is attributed to me unjustly, or the sins which I have intentionally and unintentionally committed — may all these be absolved by you, Varuṇa, and may we all earn your grace."
-        }
-      }
+        "Yam Sadha Sarva Bhoothani Sthavarani Charani Cha / Sayam Prathar Namasandhi Sama Sandhya Abhirakshathu / Sri Sama Sandhya Abhirakshathwom Namo Namaha /",
+      devanagari:
+        "यां सदा सर्वभूतानि स्थावराणि चराणि च । सायं प्रातर्नमस्यन्ति सा मा सन्ध्याभिरक्षतु ॥ श्री सा मा सन्ध्याभिरक्षत्वो नमो नमः ॥",
+      action: "Recite this prayer for the protection of Sandhya."
     },
     {
-      id: "20", slug: "samashthyabhivadana", group: "Upasthāna & conclusion", page: "30–31",
-      title: "12 · Samaṣṭhyabhivādana",
+      id: "17", slug: "brahmanya-devaya", group: "Concluding prayers", page: "63",
+      title: "17. Brahmanya Devaya",
       mantra:
-        "oṃ indrāya namaḥ | (East)\n" +
-        "oṃ agnaye namaḥ | (South-East)\n" +
-        "oṃ yamāya namaḥ | (South)\n" +
-        "oṃ niṛtaye namaḥ | (South-West)\n" +
-        "oṃ varuṇāya namaḥ | (West)\n" +
-        "oṃ vāyave namaḥ | (North-West)\n" +
-        "oṃ kuberāya namaḥ | (North)\n" +
-        "oṃ īśānāya namaḥ | (North-East)\n" +
-        "oṃ śeṣāya namaḥ | (join the palms and point them downwards)\n" +
-        "oṃ brahmaṇe namaḥ | (join the palms and point them upwards)\n\n" +
-        "oṃ sarvābhyodevatābhyo namaḥ |\n" +
-        "oṃ mātṛbhyo namaḥ |\n" +
-        "oṃ pitṛbhyo namaḥ |\n" +
-        "oṃ śrī gurubhyo namaḥ |\n\n" +
-        "ākāśāt patitaṃ toyaṃ yathā gacchati sāgaram |\n" +
-        "sarvadevanamaskāraḥ keśavaṃ pratigacchati ||",
-      meaning:
-        "Salutations to Indra (East), Agni (South-East), Yama (South), Nirṛti (South-West), Varuṇa (West), Vāyu (North-West), Kubera (North) and Īśāna (North-East); to Śeṣa (below) and to Brahmā (above). Salutations to all the Devatās; to the mothers; to the fathers; to the Gurus. 'Just as raindrops falling from the sky go to the sea, salutations offered to all the Devas go completely to Keśava.'",
-      action:
-        "Chant the names of the Devatās while facing the respective directions, then join the palms and point them down for Śeṣa and up for Brahmā. Recite the remaining salutations, then chant your pravara, and proceed to the concluding prayers."
+        "Brahmanyo Devakiputhro Brahmanyo Madhusudhanaha / Brahmanya Pundarikaksho Brahmanyo Vishnurachyuthaha /\n" +
+        "Namo Brahmanya Devaya Go Brahmana Hithayacha / Jagath Hithaya Krishnaya Govindaya Namo Namaha /",
+      devanagari:
+        "ब्रह्मण्यो देवकीपुत्रो ब्रह्मण्यो मधुसूदनः । ब्रह्मण्यः पुण्डरीकाक्षो ब्रह्मण्यो विष्णुरच्युतः ॥\n" +
+        "नमो ब्रह्मण्यदेवाय गोब्राह्मणहिताय च । जगद्धिताय कृष्णाय गोविन्दाय नमो नमः ॥",
+      action: "Recite the two Brahmanya verses."
     },
     {
-      id: "21", slug: "concluding-prayers", group: "Upasthāna & conclusion", page: "31–32",
-      title: "Concluding prayers (Sandhyā-abhirakṣā)",
+      id: "18", slug: "durga-saranagatha", group: "Concluding prayers", page: "63-64",
+      title: "18. Durga Saranagatha",
       mantra:
-        "yāṃ sadā sarvabhūtāni sthāvarāṇi carāṇi ca |\n" +
-        "sāyaṃ prātarnamasyanti sā mā sandhyā'bhirakṣatu ||\n\n" +
-        "namo'stvanantāya sahasramūrtaye sahasrapādākṣi śiroru bāhave |\n" +
-        "sahasranāmne puruṣāya śāśvate sahasrakoṭiyugadhāriṇe namaḥ ||\n\n" +
-        "yasya smṛtyā ca nāmoktyā tapassandhyākriyādiṣu |\n" +
-        "nyūnaṃ sampūrṇatāṃ yāti sadyo vande tamacyutam ||\n\n" +
-        "mantrahīnaṃ kriyāhīnaṃ bhaktihīnaṃ janārdana |\n" +
-        "yatkṛtaṃ tu mayā deva paripūrṇaṃ tadastu me ||",
-      meaning:
-        "'May the One who is saluted by all living entities, movable and immovable, at dusk and dawn, protect us.' 'Salutations to Ananta, the One with thousands of forms, thousands of feet, eyes, heads and arms, the eternal Puruṣa with thousands of names, who is eternal and bears the thousands of crores of yugas.' 'By remembering whom, or by chanting whose name, during tapas, sandhyā and other activities, any defects are completely annihilated instantly — I propitiate Him, Acyuta.' 'Lacking proper mantras, lacking proper protocol, lacking bhakti, O Janārdana — may that which has been performed by me become complete, O Deva.' (Viṣṇu Saṃhitā, Paṭala 28, Shlokas 87–88.)",
-      action:
-        "Recite these four shlokas, seeking the protection of Sandhyā Devī and offering the whole rite, with its defects, to the Lord."
+        "Ksheerena Snapithe Devi Chandanena Vilepithe / Bilva Pathrarchithe Devi Durgeham Saranagathaha / Sri Durgeham Saranagatha Om Namo Namaha /",
+      devanagari:
+        "क्षीरेण स्नापिते देवि चन्दनेन विलेपिते । बिल्वपत्रार्चिते देवि दुर्गेऽहं शरणागतः ॥ श्री दुर्गेऽहं शरणागतः ॐ नमो नमः ॥",
+      action: "Recite this prayer of surrender to Durga."
     },
     {
-      id: "22", slug: "samarpana", group: "Upasthāna & conclusion", page: "31–32",
-      title: "Samarpaṇa & conclusion",
+      id: "19", slug: "aakasath-pathitham", group: "Concluding prayers", page: "64",
+      title: "19. Aakasath Pathitham",
       mantra:
-        "[Pour arghya water onto the right palm, chant, then pour it out]\n" +
-        "anena {p} sandhyāvandanena bhagavān śrīmanmadhvācāryāṇaṃ hṛtkamalamadhyanivāsī anantakalyāṇaguṇaparipūrṇaḥ kṣīrābdhiśāyī nirdoṣānandātmakaḥ bhāratīramaṇamukhyaprāṇāntargata savitṛnāmaka śrī lakṣmīnārāyaṇaḥ prīyatām | prīto varado bhavatu |\n\n" +
-        "kāyena vācā manasendriyarvā buddhyātmanā vānusṛtasvabhāvāt |\n" +
-        "karomi yadyat sakalaṃ parasmai nārāyaṇāyeti samarpayāmi ||\n\n" +
-        "|| śrīkṛṣṇārpaṇamastu ||\n" +
-        "oṃ acyutāya namaḥ | oṃ anantāya namaḥ | oṃ govindāya namaḥ |\n" +
-        "accyutānantagovindebhyonamaḥ ||",
-      meaning:
-        "'Through the {pe} sandhyāvandana, may Bhagavān — who resides in the heart of Śrīmat Madhvācārya, is filled with infinite auspicious guṇas, lies down on the ocean of milk, whose Self is defectless and blissful, and who dwells as the Indweller of Bhāratī Devī's husband Mukhya Prāṇa by the name 'Savitṛ' — be pleased, and, well-pleased, grant boons to me.' 'Whatever I do through body, speech, mind, senses, intellect or Ātma, under the influence of my nature, I offer it, in its entirety, to Nārāyaṇa.' (Addendum of the Viṣṇu Sahasranāma; Bhāgavata Purāṇa, Skandha 11, Adhyāya 2, Shloka 36 — quoted by Śrī Madhvācārya in Sadācāra Smṛti, Shloka 16.) 'May this be an offering to Śrī Kṛṣṇa.'",
+        "Aakasath Pathitham Thoyam Yatha Gachchathi Sagaram / Sarva Deva Namaskaraha Kesavam Prathigachchathi / Sri Kesavam Prathigachchathwom Namo Namaha /",
+      devanagari:
+        "आकाशात् पतितं तोयं यथा गच्छति सागरम् । सर्वदेवनमस्कारः केशवं प्रतिगच्छति ॥ श्री केशवं प्रतिगच्छत्वो नमो नमः ॥",
+      action: "Recite this prayer that all salutations reach Kesava."
+    },
+    {
+      id: "20", slug: "uthame-sikare", group: "Concluding prayers", page: "64",
+      title: "20. Uthame Sikare",
+      mantra:
+        "Uthame Sikare Jathe Bhoomyam Parvatha Moordhani / Brahmanebhyo Abhyanugnyatha Gachcha Devi Yatha Sukam / Sri Gachcha Devi Yathasukam Om Namo Namaha /",
+      devanagari:
+        "उत्तमे शिखरे जाते भूम्यां पर्वतमूर्धनि । ब्राह्मणेभ्योऽभ्यनुज्ञाता गच्छ देवि यथासुखम् ॥ श्री गच्छ देवि यथासुखम् ॐ नमो नमः ॥",
+      action: "Bid Gayathri Devi depart with permission and return comfortably."
+    },
+    {
+      id: "21", slug: "sarvavedeshu", group: "Concluding prayers", page: "64",
+      title: "21. Sarvavedeshu",
+      mantra:
+        "Sarvavedeshu Yathpunyam Sarvathirtheshu Yath Phalam / Thath Phalam Samavapnothi Sthuthwa Devam Janardhanam /",
+      devanagari:
+        "सर्ववेदेषु यत्पुण्यं सर्वतीर्थेषु यत्फलम् । तत्फलं समवाप्नोति स्तुत्वा देवं जनार्दनम् ॥",
+      action: "Recite this praise of Janardhana."
+    },
+    {
+      id: "22", slug: "vaasanath-vasudevasya", group: "Concluding prayers", page: "64",
+      title: "22. Vaasanath Vasudevasya",
+      mantra:
+        "Vaasanath Vasudevasyaha / Vasitham They Jagath Thrayam / Sarvabhootha Nivasosi Vasudeva Namosthuthe /",
+      devanagari:
+        "वासनाद् वासुदेवस्य वासितं ते जगत्त्रयम् । सर्वभूतनिवासोऽसि वासुदेव नमोऽस्तु ते ॥",
+      action: "Offer salutations to Vasudeva, the indweller of all beings."
+    },
+    {
+      id: "23", slug: "namosthyananthaya", group: "Concluding prayers", page: "64",
+      title: "23. Namosthyananthaya",
+      mantra:
+        "Namosthyananthaya Sahasramurthaye / Sahasra Padakshi Sirorubahave / Sahasranamne Purushaya Saswathe / Sahasra Koti Yuga Dharine Namaha /",
+      devanagari:
+        "नमोऽस्त्वनन्ताय सहस्रमूर्तये सहस्रपादाक्षिशिरोरुबाहवे । सहस्रनाम्ने पुरुषाय शाश्वते सहस्रकोटियुगधारिणे नमः ॥",
+      action: "Recite the salutation to Anantha."
+    },
+    {
+      id: "24", slug: "shanti", group: "Concluding prayers", page: "65",
+      title: "24. Shanthi",
+      mantra:
+        "Om Shanthi / Shanthi / Shanthi / Sarvarishta Shanthirasthu / Samastha Mangalanavapthirasthu /",
+      devanagari:
+        "ॐ शान्तिः शान्तिः शान्तिः ॥ सर्वारिष्टशान्तिरस्तु । समस्तमङ्गलावाप्तिरस्तु ॥",
       action:
-        "Pour some arghya water onto the right palm, chant the dedication, and then pour it on the ground or into the arghya-pātra. Recite the kāyena vācā verse and the śrī-kṛṣṇārpaṇa. Finally, perform ācamana and aṅga-nyāsa once more to conclude the sandhyāvandana."
+        "Touch your two ears with your two hands while reciting the three Shanthihs, then recite the blessing."
+    },
+    {
+      id: "25", slug: "abhivadhanam", group: "Conclusion", page: "65",
+      title: "25. Abhivadhanam",
+      mantra:
+        "Chathusagara Paryantham Go Brahmanebhyaha Subham Bhavathu / ______ Pravaranvitha ______ Gothra / Aasvalayana Suthraha / ______ Sarma Aham Bho Abhivadhaye /",
+      devanagari:
+        "चतुःसागरपर्यन्तं गोब्राह्मणेभ्यः शुभं भवतु । ______ प्रवरान्वित ______ गोत्रोत्पन्नः आश्वलायनसूत्रः ______ शर्मा अहं भो अभिवादये ॥",
+      action:
+        "State your Pravara, Gothra and name. Do Namaskaram and sit down."
+    },
+    {
+      id: "26", slug: "samarpanam", group: "Conclusion", page: "65-66",
+      title: "26. Samarpanam",
+      mantra:
+        "Yasya Smrithyacha Naamokthya Thapas Sandhya Kriyathishu / Nyunam Sampoornatham Yathi Sathyo Vande Tham Achyutham /\n\n" +
+        "Manthraheenam Kriya Heenam Bakthi Heenam Ramapathe / Yadkruthamthu Maya Deva Paripoornam Thathasthu Mey /\n\n" +
+        "Anena Prathas Sandhya Vandhanena Bhagavan Sriman Madhwacharyanam Hrithkamala Madhyanivasi Ananthakalyana Gunaparipoorna Ksheerabdhisayi Nirdosha Gnyananandathma Vishnurme Swami Bharathi Ramana Mukhya Prananthargatha Savithru Namaka Sri Lakshmi Narayanaha Supritho Varado Bhavathu / Sri Krishnarpanamasthu /",
+      devanagari:
+        "यस्य स्मृत्या च नामोक्त्या तपःसन्ध्याक्रियादिषु । न्यूनं सम्पूर्णतां याति सद्यो वन्दे तमच्युतम् ॥\n\n" +
+        "मन्त्रहीनं क्रियाहीनं भक्तिहीनं रमापते । यत्कृतं तु मया देव परिपूर्णं तदस्तु मे ॥\n\n" +
+        "अनेन प्रातःसन्ध्यावन्दनेन भगवान् श्रीमन्मध्वाचार्याणां हृत्कमलमध्यनिवासी अनन्तकल्याणगुणपरिपूर्णः क्षीराब्धिशायी निर्दोषज्ञानानन्दात्मा विष्णुर्मे स्वामी भारतीरमणमुख्यप्राणान्तर्गत सवितृनामक श्रीलक्ष्मीनारायणः सुप्रीतो वरदो भवतु । श्रीकृष्णार्पणमस्तु ॥",
+      action:
+        "Offer the completed Pratha Sandhya Vandhanam to the Lord. Then do Achamanam twice, as in step 1."
+    },
+    {
+      id: "27", slug: "japasthala-prokshanam", group: "Conclusion", page: "66",
+      title: "27. Japasthala Prokshanam",
+      mantra:
+        "Adhyano Ithi Manthrasya Chyavasvaha Aathreya Savitha / Gayathri Japasthala Prokshane Viniyogaha /\n\n" +
+        "Adhyano Deva Savithaha / Prajavathsavis Sowbakam / Para Dhush Swapneeyam Suva / Viswani Deva Savitha / Dhurithani Parasuva / Yadbadram Thanma Aasuva / Subham /",
+      devanagari:
+        "अद्यानो इति मन्त्रस्य श्यावाश्वः आत्रेयः सविता । गायत्री जपस्थलप्रोक्षणे विनियोगः ॥\n\n" +
+        "अद्या नो देव सवितः प्रजावत्सावीः सौभगम् । परा दुःस्वप्न्यं सुव । विश्वानि देव सवितर्दुरितानि परासुव । यद्भद्रं तन्न आसुव । शुभम् ॥",
+      action:
+        "Sprinkle water on the seat and touch your heart."
     }
-
   ]
 });
 
 </script>
 <script>
-// Hari Vāyu Stuti — Trivikrama Paṇḍitācārya's 41-verse stotra with
-// Madhvācārya's Nakha Stuti (2 verses) prefixed (and recited again at the end).
-// IAST is word-split (compounds hyphenated, sandhi broken only where the
-// sound is unchanged) so the verses are easier to learn.
-// Sections 01-20 have home-recorded audio clips in audio7/ (audio:true);
-// the remaining verses are text-only until their clips are recorded.
+// Rebuilt from the on-screen Roman-script lyrics and matching recitation in
+// https://www.youtube.com/watch?v=rYcJjMcSQ_c
+// Each card is one complete displayed verse and one matching audio cut.
 (window.GUIDES = window.GUIDES || []).push({
   key: "harivayustuti",
   tabLabel: "Hari Vāyu Stuti",
-  noAudio: true,
   audioDir: "audio7",
   title: "Hari Vāyu Stuti",
-  subtitle: "Trivikrama Paṇḍitācārya's Vāyu Stuti with Śrī Madhvācārya's Nakha Stuti — word-split IAST with the meaning of every verse",
-  source: "https://harivayu.wordpress.com/wp-content/uploads/2011/03/hari-vayustuti-stotra-in-eng-with-meaning.pdf",
-  sourceLabel: "source booklet",
-  sourceCredit: "Śrī Hari Vāyu Stuti — Trivikrama Paṇḍitācārya · text collated with the madhwasakha.com edition · meanings after the harivayu.wordpress.com English edition",
+  subtitle: "Śrī Trivikrama Paṇḍitācārya’s Vāyu Stuti, preceded by Śrī Madhvācārya’s Narasiṃha Nakha Stuti",
+  source: "https://www.youtube.com/watch?v=rYcJjMcSQ_c",
+  sourceLabel: "source video",
+  sourceCredit: "Text transcribed exactly as displayed in the video; verse audio from the matching parāyaṇa by Vid. N. Venkatesha Acharya · JnanaGamya Prasarana",
+  hideNotice: true,
+  searchPlaceholder: "Search a verse or word…",
   sections: [
-
-    // ===================== NAKHA STUTI =====================
     {
-      id: "01", slug: "nakha-1", group: "Nakha Stuti (Madhvācārya)",
-      title: "Nakha Stuti 1 · pāntv asmān",
-      audio: true,
-      mantra:
-        "pāntu — asmān — puruhūta — vairi — balavat — mātaṅga — mādyat — ghaṭā —\n" +
-        "kumbha — ucca — adri — vipāṭana — adhika — paṭu — pratyeka — vajrāyitāḥ\n" +
-        "śrīmat — kaṇṭhīrava — āsya — pratata — su — nakharāḥ — dārita — ārāti — dūra —\n" +
-        "pradhvasta — dhvānta — śānta — pravitata — manasā — bhāvitāḥ — bhūri — bhāgaiḥ || 1 ||",
-      meaning:
-        "May the outstretched excellent nails of the lion-faced Lord (Narasiṃha) protect us — each nail like Indra's vajra, sharper still at tearing open the mountain-high temples of the mighty rutting elephants that are the Lord's foes (Hiraṇyakaśipu and his clan). Those nails, which tore apart the enemy, dispel the far-spread darkness (of ignorance), and are meditated upon by the greatly fortunate with calm, expansive minds. — Just as Your fingernails alone had power enough to destroy demons of mountainous might, we pray that they destroy the darkness and oceans of ignorance in our minds and fill them with pure, radiant Hari-bhakti."
+      id: "01", slug: "nakha-1", group: "Śrī Narasiṃha Nakha Stuti",
+      title: "Nakha Stuti · Verse 1",
+      start: "0:26.2", end: "1:08.04",
+      mantra: "pantvasman puruhuta-vairi-balavan\n" +
+        "matanga-madyad-ghata\n" +
+        "kumbhochchadri-vipatanadhika-patu\n" +
+        "pratyeka-vajrayitah |\n" +
+        "shrimat-kantiravasya\n" +
+        "pratata su-nakhara\n" +
+        "daritarati-dura-\n" +
+        "praddhvasta-dhvanta-shanta\n" +
+        "pravitata-manasa\n" +
+        "bhavita-nakivrindaih\n" +
+        "(buribagaih) || 1 ||"
     },
     {
-      id: "02", slug: "nakha-2", group: "Nakha Stuti (Madhvācārya)",
-      title: "Nakha Stuti 2 · lakṣmī-kānta",
-      audio: true,
-      mantra:
-        "lakṣmī — kānta — samantataḥ — api — kalayan — na — eva — īśituḥ — te — samam\n" +
-        "paśyāmi — uttama — vastu — dūratarataḥ — apāstam — rasaḥ — yaḥ — aṣṭamaḥ\n" +
-        "yat — roṣa — utkara — dakṣa — netra — kuṭila — prānta — utthita — agni — sphurat —\n" +
-        "khadyota — upama — visphuliṅga — bhasitāḥ — brahma — īśa — śakra — utkarāḥ || 2 ||",
-      meaning:
-        "O Lakṣmīkānta (Narasiṃha)! Though I search in every direction, I see no higher entity that is even equal to You, the Ruler — the very idea is as far-fetched as an 'eighth rasa' beyond the seven known ones, cast far away. From the fierce corners of Your wrathful eyes leaps a blazing fire, and in its flying sparks — mere fireflies by comparison — the hosts of Brahmā, Śiva and Indra seem as if reduced to ashes. Of all the avatāras of Śrī Hari, Narasiṃha is the most powerful and fierce; in the entire pantheon there is none greater than or equal to Him, hence this śloka is dedicated solely to Lakṣmīkānta."
-    },
-
-    // ===================== MAṄGALĀCARAṆA (1–6) =====================
-    {
-      id: "03", slug: "verse-1", group: "Maṅgalācaraṇa · verses 1–6",
-      title: "Verse 1 · śrīmad-viṣṇv-aṅghri",
-      audio: true,
-      mantra:
-        "śrīmat — viṣṇu — aṅghri — niṣṭha — atiguṇa — gurutama — śrīmat — ānandatīrtha —\n" +
-        "trailokya — ācārya — pāda — ujjvala — jalaja — lasat — pāṃsavaḥ — asmān — punantu\n" +
-        "vācām — yatra — praṇetrī — tribhuvana — mahitā — śāradā — śārada — indu —\n" +
-        "jyotsnā — bhadra — smita — śrī — dhavalita — kakubhā — prema — bhāram — babhāra || 1 ||",
-      meaning:
-        "May the shining dust from the lotus feet of Śrīmad Ānandatīrtha (Madhvācārya) — firmly devoted to the feet of Śrīmān Viṣṇu, greatest of the greatly virtuous, the Ācārya of the three worlds — purify us. Śāradā (Bhāratī Devī), the guide of all speech, honoured in the three worlds, whose gracious smile whitens all directions like the moonlight of an autumn full-moon, bears deep love for him. — Ācārya, Bhāratī Devī herself, the custodian of the Vedas, worships you; may the dust raised from your footsteps cleanse me, a mortal."
+      id: "02", slug: "nakha-2", group: "Śrī Narasiṃha Nakha Stuti",
+      title: "Nakha Stuti · Verse 2",
+      start: "1:08.04", end: "1:47.24",
+      mantra: "LakshmIkanta samantato..pi kalayan\n" +
+        "naiveshituste samam\n" +
+        "pashyamyuttama-vastu\n" +
+        "duratarato..a\n" +
+        "pastam rasoyo..ashtamah |\n" +
+        "yad-roshotkara-\n" +
+        "daksha-netra-kutila\n" +
+        "prantotthitagni-sphurat\n" +
+        "khadyotopama\n" +
+        "visphulinga-bhasita\n" +
+        "brahmesha-shakrotkarah || 2 ||"
     },
     {
-      id: "04", slug: "verse-2", group: "Maṅgalācaraṇa · verses 1–6",
-      title: "Verse 2 · utkaṇṭhā-kuṇṭha",
-      audio: true,
-      mantra:
-        "utkaṇṭhā — akuṇṭha — kolāhala — java — vijita — ajasra — sevā — anuvṛddha —\n" +
-        "prājña — ātma — jñāna — dhūta — andhatamasa — sumanaḥ — mauli — ratna — āvalīnām\n" +
-        "bhakti — udreka — avagāḍha — praghaṭana — sa — dhaṭātkāra — saṅghṛṣyamāṇa —\n" +
-        "prānta — prāgrya — aṅghri — pīṭha — utthita — kanaka — rajaḥ — piñjara — ārañjita — āśāḥ || 2 ||",
-      meaning:
-        "The devas, racing to you with eager, clamouring haste for your unceasing service, have their blinding inner darkness shaken off by the knowledge of the Supreme that you teach. As they bow, the rows of jewels on their crowns press and rub, in the surge of their overflowing devotion, against the edge of your excellent foot-stool — and the golden dust rising from it tinges all the directions yellow-gold. — Ācārya, even the gods run anxiously to you to receive Tattva-jñāna from your mouth, for they know that what you teach is the very knowledge of Śrīman Nārāyaṇa Himself. When they place their crowns at your feet, the dust of your feet purifies their crowns — may those washings purify us as well."
+      id: "03", slug: "verse-1", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 1",
+      start: "1:47.24", end: "2:28.08",
+      mantra: "Shrimad-vishnvanghri-nishthaa\n" +
+        "ti-guna-gurutama\n" +
+        "shrimadanandatirtha-\n" +
+        "trailokyacharya-pado-\n" +
+        "jjvala-jalaja-lasat\n" +
+        "pamsavo..asman punantu |\n" +
+        "vacham yatra pranetri\n" +
+        "tri-bhuvana-mahita\n" +
+        "sharada sharadenduh\n" +
+        "jyotsna-bhadra-smita-shri\n" +
+        "dhavalita-kakubha\n" +
+        "prema-bharam babhara || 1 ||"
     },
     {
-      id: "05", slug: "verse-3", group: "Maṅgalācaraṇa · verses 1–6",
-      title: "Verse 3 · janmādhi-vyādhi",
-      audio: true,
-      mantra:
-        "janma — ādhi — vyādhi — upādhi — pratihati — viraha — prāpakāṇām — guṇānām\n" +
-        "agryāṇām — arpakāṇām — ciram — udita — cit — ānanda — sandoha — dānām\n" +
-        "eteṣām — eṣaḥ — doṣa — pramuṣita — manasām — dveṣiṇām — dūṣakāṇām\n" +
-        "daityānām — ārtim — andhe — tamasi — vidadhatām — saṃstave — na — asmi — śaktaḥ || 3 ||",
-      meaning:
-        "You bestow the foremost virtues that carry one beyond the blows of birth, mental anguish, disease and every limiting condition, and you grant the everlasting flood of rising consciousness-bliss (cid-ānanda). You likewise consign to agony, in blinding darkness (andhatamas), those hateful revilers — the daityas whose minds are robbed by their own vices. To praise such deeds of yours adequately, I have no power at all. — Ācārya, you deliver the devotees of Viṣṇu from the cycle of birth and death, from ignorance to the pure joy of Hari-bhakti; and you justly sentence the enemies of Viṣṇu and His devotees to misery and Andhantamas. Who am I to praise you?"
+      id: "04", slug: "verse-2", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 2",
+      start: "2:28.08", end: "3:10.48",
+      mantra: "Utkanthakuntha-kola\n" +
+        "Hala-java-vidita\n" +
+        "Jasra-sevanu-vriddha\n" +
+        "Prajnatma-jnana-dhutam\n" +
+        "Dhatamasa-sumano\n" +
+        "mauli-ratnavalinam |\n" +
+        "bhaktyudrekavagadha-\n" +
+        "praghatana-saghatat\n" +
+        "kara-samghrrishyamana\n" +
+        "prantapragryamghri- pitho\n" +
+        "tthita-kanaka-rajah\n" +
+        "pimjararamjitashah || 2 ||"
     },
     {
-      id: "06", slug: "verse-4", group: "Maṅgalācaraṇa · verses 1–6",
-      title: "Verse 4 · asyāviṣkartu-kāmaṃ",
-      audio: true,
-      mantra:
-        "asya — āviṣkartu — kāmam — kali — mala — kaluṣe — asmin — jane — jñāna — mārgam\n" +
-        "vandyam — candra — indra — rudra — dyumaṇi — phaṇi — vayaḥ — nāyaka — ādyaiḥ — iha — adya\n" +
-        "madhva — ākhyam — mantra — siddham — kim — uta — kṛtavataḥ — mārutasya — avatāram\n" +
-        "pātāram — pārameṣṭhyam — padam — apavipadaḥ — prāptuḥ — āpanna — puṃsām || 4 ||",
-      meaning:
-        "How much less capable am I, then, of praising the avatāra of Māruta (Vāyu) named Madhva — perfected through mantra, worthy of worship by Candra, Indra, Rudra, Sūrya, Śeṣa, Garuḍa and the other chiefs of the devas — who came to reveal the path of true knowledge to a people muddied by the stains of Kali; the protector of men who take refuge in him, himself destined to attain the seat of Brahmā (pārameṣṭhya-pada), which is beyond all misfortune. — Ānandatīrtha, even the mighty Garuḍa, Śeṣa, Rudra and Indra worship you as the Jagadguru of this entire universe. You, the authority on the Vedas, impart the supreme knowledge of Śrī Viṣṇu to the righteous. How can I, Trivikrama, praise you enough? (Phala-śruti: this śloka gives success in the chanting of mantras and japa.)"
+      id: "05", slug: "verse-3", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 3",
+      start: "3:10.48", end: "3:52.72",
+      mantra: "Janmadhi-vyadhyupadhi\n" +
+        "Pratihati-viraha\n" +
+        "prapakanam gunanam\n" +
+        "agryanamarpakanam\n" +
+        "chiramudita-chida\n" +
+        "nanda-samdoha-danam |\n" +
+        "eteshamesha-dosha\n" +
+        "pramushita-manasam\n" +
+        "dveshinam dushakanam\n" +
+        "daityanamarthimandhe\n" +
+        "tamasi vidadhatam\n" +
+        "samstave nasmi shaktah || 3 ||"
     },
     {
-      id: "07", slug: "verse-5", group: "Maṅgalācaraṇa · verses 1–6",
-      title: "Verse 5 · udyad-vidyut",
-      audio: true,
-      mantra:
-        "udyat — vidyut — pracaṇḍām — nija — ruci — nikara — vyāpta — loka — avakāśaḥ\n" +
-        "bibhrat — bhīmaḥ — bhuje — yaḥ — abhyudita — dinakara — ābha — aṅgada — āḍhya — prakāṇḍe\n" +
-        "vīrya — uddhāryām — gadā — agryām — ayam — iha — sumatim — vāyu — devaḥ — vidadhyāt\n" +
-        "adhyātma — jñāna — netā — yati — vara — mahitaḥ — bhūmi — bhūṣā — maṇiḥ — me || 5 ||",
-      meaning:
-        "May that Vāyu-deva grant me right understanding — he who as Bhīma, his own radiance filling all the space of the world, bore on his mighty upper arm, adorned with armlets bright as the risen sun, the foremost mace, terrible as flashing lightning, liftable only by true valour; he who is the leader to the knowledge of the Self (adhyātma-jñāna), honoured by the best of ascetics, the ornament-jewel of the earth. — Ācārya, you are the avatāra of Bhīmasena, the invincible son of Pāṇḍu, whose shoulder- and arm-ornaments sparkle like bright sunshine and whose gadā shines like silver lightning. As the avatāra of Śrī Vāyu, lead us to salvation. (Phala-śruti: this śloka gives the realisation of one's efforts in any Hari-related endeavour.)"
+      id: "06", slug: "verse-4", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 4",
+      start: "3:52.72", end: "4:32.16",
+      mantra: "Asyavishkartukamam\n" +
+        "Kali-mala-kalushe..\n" +
+        "asmin- jane jnana-margam\n" +
+        "vandyam chandrendra-rudra\n" +
+        "dyumani-phani-vayoh\n" +
+        "nayakadyairihadya |\n" +
+        "madhvakhyam mantra-siddham\n" +
+        "kimuta krutavato\n" +
+        "marutasyavataram\n" +
+        "pataram parameshtyam\n" +
+        "padamapa-vipadah\n" +
+        "prapturapanna pumsam || 4 ||"
     },
     {
-      id: "08", slug: "verse-6", group: "Maṅgalācaraṇa · verses 1–6",
-      title: "Verse 6 · saṃsārottāpa",
-      audio: true,
-      mantra:
-        "saṃsāra — uttāpa — nitya — upaśama — da — sadaya — sneha — hāsa — ambu — pūra —\n" +
-        "prodyat — vidyā — anavadya — dyuti — maṇi — kiraṇa — śreṇi — sampūrita — āśaḥ\n" +
-        "śrīvatsa — aṅka — adhivāsa — ucitatara — sarala — śrīmat — ānandatīrtha —\n" +
-        "kṣīra — ambhodhiḥ — vibhindyāt — bhavat — anabhimatam — bhūri — me — bhūti — hetuḥ || 6 ||",
-      meaning:
-        "Śrīmad Ānandatīrtha is an ocean of milk: his compassionate affection and gentle smile are its flooding waters, ever cooling the burning heat of saṃsāra; the flawless splendour of the knowledge rising from him fills all directions like the rays of luminous gems; and, upright and pure, he is the fittest dwelling for the Lord who bears the Śrīvatsa mark (as the milk-ocean is Viṣṇu's abode). May that ocean of milk shatter whatever is displeasing to you (Lord), and be the abundant cause of my prosperity. — Ācārya, you are the path that leads us from mundane misery to the sanctum of Śrī Nārāyaṇa, and the flag-bearer of the destinies of the gods; we plead with you to release us from attachment to this mundane world and lead us to Mokṣa."
-    },
-
-    // ===================== MŪLA VĀYU STUTI (7–16) =====================
-    {
-      id: "09", slug: "verse-7", group: "Mūla Vāyu Stuti · verses 7–16",
-      title: "Verse 7 · mūrdhany eṣo 'ñjalir me — the japa verse",
-      audio: true,
-      mantra:
-        "mūrdhani — eṣaḥ — añjaliḥ — me — dṛḍhataram — iha — te — badhyate — bandha — pāśa —\n" +
-        "chettre — dātre — sukhānām — bhajati — bhuvi — bhaviṣyat — vidhātre — dyu — bhartre\n" +
-        "atyantam — santatam — tvam — pradiśa — pada — yuge — hanta — santāpa — bhājām\n" +
-        "asmākam — bhaktim — ekām — bhagavataḥ — uta — te — mādhavasya — atha — vāyoḥ || 7 ||",
-      meaning:
-        "This añjali of mine is bound most firmly upon my head for you — the cutter of the noose of bondage, the giver of joys, the future Brahmā (vidhātā) of this world, the lord of heaven. Alas, we are burnt by the torments of saṃsāra: grant us, forever and without limit, one-pointed bhakti at the two feet — of Bhagavān Mādhava, and of you, Vāyu. — Ācārya, we plead with you, and with Śrī Hari as well, to release us from the bonds of this mundane world and lead us to the path and destination of Mokṣa. (Phala-śruti: this śloka frees one from mundane attachments and sentiments and strengthens the body and mind. This is the japa-verse of the Vāyu Stuti, traditionally repeated with special emphasis.)"
+      id: "07", slug: "verse-5", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 5",
+      start: "4:32.16", end: "5:11.88",
+      mantra: "Udyad-vidyut-prachandam\n" +
+        "nija-ruchi-nikara\n" +
+        "vyapta-lokavakasho\n" +
+        "bibhrad bhimo bhuje yo..\n" +
+        "abhyudita-dinakara..\n" +
+        "bhangadadhya-prakande |\n" +
+        "viryoddharyam gadagrya\n" +
+        "mayamiha su-matim\n" +
+        "vayu-devo vidadhyat\n" +
+        "adhyatma-jnana-neta\n" +
+        "yati-vara-mahito\n" +
+        "bhumi-bhusha-manirme || 5 ||"
     },
     {
-      id: "10", slug: "verse-8", group: "Mūla Vāyu Stuti · verses 7–16",
-      title: "Verse 8 · sābhroṣṇābhīśu — the 'bha' verse",
-      audio: true,
-      mantra:
-        "sa — abhra — uṣṇa — abhīśu — śubhra — prabham — abhaya — nabhaḥ — bhūri — bhūbhṛt — vibhūti —\n" +
-        "bhrājiṣṇuḥ — bhūḥ — ṛbhūṇām — bhavanam — api — vibho — abhedi — babhre — babhūve\n" +
-        "yena — bhrū — vibhramaḥ — te — bhramayatu — su — bhṛśam — babhru — vat — durbhṛta — āśān\n" +
-        "bhrāntiḥ — bheda — avabhāsaḥ — tu — iti — bhayam — abhibhūḥ — bhokṣyataḥ — māyi — bhikṣūn || 8 ||",
-      meaning:
-        "O fearless Lord (abhaya)! O all-pervading one (vibho)! The sky gleaming white with the sun's cloud-fringed rays, the earth resplendent with the wealth of many mountains, and even the abode of the gods — all these were created, borne and dissolved by the mere play of your eyebrow. May that flick of your brow utterly rout, like so many mongooses, the deceitful mendicants (māyi-bhikṣūs — the illusionists) of evil intent who preach that all difference is illusion (bhrānti) and that the world of distinctions is mere appearance — and who will yet be seized and consumed by the terror of the Lord they deny. — Vāyudeva, you are the life-giving force whose kingdom extends over the earthly world, the planets and heaven; you who gave birth to these kingdoms, sustain and rule them, can destroy them as well, while yourself remaining indestructible. We plead with you to destroy the charlatans and lead us to Mokṣa."
+      id: "08", slug: "verse-6", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 6",
+      start: "5:11.88", end: "5:48.84",
+      mantra: "Samsarottapa-nityo\n" +
+        "pashamada-sadaya\n" +
+        "sneha-hasambupura\n" +
+        "prodyad-vidyanavadya\n" +
+        "dyuti-mani-kirana-\n" +
+        "shreni-sam-puritashah |\n" +
+        "shrivatsamkadhi vaso-\n" +
+        "chitatara-sarala-\n" +
+        "shrimadananda-tirtha-\n" +
+        "kshirambhodhirvibhindyad\n" +
+        "bhavadanabhimatam\n" +
+        "bhuri me bhuti hetuh || 6 ||"
     },
     {
-      id: "11", slug: "verse-9", group: "Mūla Vāyu Stuti · verses 7–16",
-      title: "Verse 9 · ye 'muṃ bhāvaṃ bhajante",
-      audio: true,
-      mantra:
-        "ye — amum — bhāvam — bhajante — sura — mukha — sujana — ārādhitam — te — tṛtīyam\n" +
-        "bhāsante — bhāsuraiḥ — te — sahacara — calitaiḥ — cāmaraiḥ — cāru — veṣāḥ\n" +
-        "vaikuṇṭhe — kaṇṭha — lagna — sthira — śuci — vilasat — kānti — tāruṇya — līlā —\n" +
-        "lāvaṇya — āpūrṇa — kāntā — kuca — bhara — sulabha — āśleṣa — sammoda — sāndrāḥ || 9 ||",
-      meaning:
-        "Those who worship this your third avatāra (Madhva), adored by the gods and the righteous, will themselves shine in Vaikuṇṭha in beautiful garb, fanned by gleaming cāmaras waved by attendants, dense with the joy of the easy embrace of beloved consorts clinging to their necks — consorts full of steady, pure, radiant beauty, youth, playfulness and grace. — The sāttvika righteous, having served their elders and gurus, lead a wondrous life in Vaikuṇṭha, served by attendants, enjoying the company of beautiful damsels and the frequent darśana of Śrī Hari. (Phala-śruti: this śloka helps one realise the comforts of married life.)"
+      id: "09", slug: "verse-7", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 7",
+      start: "5:48.84", end: "6:23.68",
+      mantra: "Murdhanyesho..anjalirme\n" +
+        "drudha-taramiha te\n" +
+        "badhyate bandha-pasha\n" +
+        "chhetre dhatre sukhanam\n" +
+        "bhajati bhuvi bhavishyad\n" +
+        "vidhatre dyu-bhartre |\n" +
+        "atyantam sam-tatam tvam\n" +
+        "pradisha pada-yuge\n" +
+        "hanta santapa-bhajam\n" +
+        "asmakam bhaktimekam\n" +
+        "bhagavata uta te\n" +
+        "madhavasyatha vayoh || 7 ||"
     },
     {
-      id: "12", slug: "verse-10", group: "Mūla Vāyu Stuti · verses 7–16",
-      title: "Verse 10 · ānandān manda-mandā",
-      audio: true,
-      mantra:
-        "ānandāt — manda — mandāḥ — dadati — hi — marutaḥ — kunda — mandāra — nandyāvarta —\n" +
-        "āmodān — dadhānāḥ — mṛdu — padam — udita — udgītakaiḥ — sundarīṇām\n" +
-        "vṛndaiḥ — āvandya — mukta — indu — ahimagu — madana — ahīndra — devendra — sevye\n" +
-        "maukunde — mandire — asmin — aviratam — udayat — modinām — deva — deva || 10 ||",
-      meaning:
-        "O God of gods! In this mansion of Mukunda (Vaikuṇṭha) — worthy of service by the assemblies of the venerable liberated souls, by Candra and Sūrya, by Madana (Kāma), Śeṣa the lord of serpents and Devendra — soft, gentle breezes bear the fragrances of kunda, mandāra and nandyāvarta blossoms and give ever-fresh delight to those whose joy rises without end, accompanied by the sweetly rising songs of beautiful damsels moving with soft steps. — Such is the bliss into which you lead the righteous. (Phala-śruti: this śloka gives joy from one's children and general happiness.)"
+      id: "10", slug: "verse-8", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 8",
+      start: "6:23.68", end: "7:00.92",
+      mantra: "Sabhroshnabhishu-shubhra\n" +
+        "prabhamabhaya nabho\n" +
+        "bhuri- bhubhrrid-vibhutih\n" +
+        "bhrajishnurbhurrribhunam\n" +
+        "bhavanamapi vibho..a\n" +
+        "bhedi-babhre-babhuve |\n" +
+        "yena bhro-vibhramaste\n" +
+        "bhramayatu subhrusham\n" +
+        "babhruvad durbhrritashan\n" +
+        "bhrantirbhedava bhasa\n" +
+        "stviti bhayamabhi bhor-\n" +
+        "bhukshyato mayibhikshun || 8 ||"
     },
     {
-      id: "13", slug: "verse-11", group: "Mūla Vāyu Stuti · verses 7–16",
-      title: "Verse 11 · uttaptātyutkaṭa-tviṭ",
-      audio: true,
-      mantra:
-        "uttapta — ati — utkaṭa — tviṭ — prakaṭa — kaṭakaṭa — dhvāna — saṅghaṭṭana — udyat —\n" +
-        "vidyut — vyūḍha — sphuliṅga — prakara — vikiraṇa — utkvāthite — bādhita — aṅgān\n" +
-        "udgāḍham — pātyamānā — tamasi — tataḥ — itaḥ — kiṅkaraiḥ — paṅkile — te\n" +
-        "paṅktiḥ — grāvṇām — garimṇā — glapayati — hi — bhavat — dveṣiṇaḥ — vidvat — ādya || 11 ||",
-      meaning:
-        "O first among the wise (vidvad-ādya)! Your haters are hurled headlong into the mire-filled darkness (of hell) — boiling with white-hot, fiercely blazing masses of sparks that fly like lightning amid the loud crackling 'kaṭa-kaṭa' din — their limbs already tormented; and there, flung this way and that by your servants (kiṅkaras), rows of massive boulders grind them down by sheer weight. — The tāmasic enemies of Śrī Hari and Vāyu are pushed into the boiling, muddy waters of hell with great boulders thrown upon them by the loyal servants of Hari and Vāyu; even the smallest creatures there do not spare such enemies."
+      id: "11", slug: "verse-9", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 9",
+      start: "7:00.92", end: "7:36.04",
+      mantra: "Ye..amum bhavam bhajante\n" +
+        "sura-mukha-su-jana\n" +
+        "radhitam te trutiyam\n" +
+        "bhasamte bhasuraiste\n" +
+        "sahachara-chalitai\n" +
+        "shchamaraishcharu-veshah |\n" +
+        "vaikunthe kantha-lagna\n" +
+        "sthira-shuchi-vilasat\n" +
+        "kanti-tarunya-lila\n" +
+        "lavanya purna-kanta\n" +
+        "kucha-bhara-sulabha...\n" +
+        "shlesha-sammoda-sandrah || 9 ||"
     },
     {
-      id: "14", slug: "verse-12", group: "Mūla Vāyu Stuti · verses 7–16",
-      title: "Verse 12 · asminn asmad-gurūṇāṃ",
-      audio: true,
-      mantra:
-        "asmin — asmat — gurūṇām — hari — caraṇa — cira — dhyāna — sat — maṅgalānām\n" +
-        "yuṣmākam — pārśva — bhūmim — dhṛta — raṇaraṇika — svargi — sevyām — prapannaḥ\n" +
-        "yaḥ — tu — udāste — saḥ — āste — adhibhavam — asulabha — kleśa — nirmūkam — asta —\n" +
-        "prāya — ānandam — kathañcit — na — vasati — satatam — pañca — kaṣṭe — atikaṣṭe || 12 ||",
-      meaning:
-        "He who takes refuge at the side of you, our gurus — made truly auspicious by long meditation on Hari's feet, a place the very gods of heaven long eagerly to serve — is saved. But he who remains indifferent (udāste) stays sunk in saṃsāra, from whose afflictions escape is so hard, its joy almost entirely stripped away; somehow he never ceases dwelling in the five-fold torment (pañca-kaṣṭa), the worst of miseries. — Those who understand but care little for the teachings of Śrī Ācārya gain no release; only those who take refuge beside him and his three avatāras find their troubles dissolve. (Phala-śruti: this śloka removes lethargy and listlessness and leads one directly to Hari-bhakti.)"
+      id: "12", slug: "verse-10", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 10",
+      start: "7:36.04", end: "8:08.84",
+      mantra: "Anandan manda-manda\n" +
+        "dadati hi marutah\n" +
+        "kunda-mandara-nandya\n" +
+        "varta.amodan dadhanam\n" +
+        "mrudu-pada muditod\n" +
+        "gitakaih sundarinam |\n" +
+        "vrundairavandya mukten\n" +
+        "dvahimagu -madana\n" +
+        "himdra-devendra-sevye\n" +
+        "maukunde mandare..asmi\n" +
+        "nnaviratamudayan\n" +
+        "modinam deva deva || 10 ||"
     },
     {
-      id: "15", slug: "verse-13", group: "Mūla Vāyu Stuti · verses 7–16",
-      title: "Verse 13 · kṣut-kṣāmān",
-      audio: true,
-      mantra:
-        "kṣut — kṣāmān — rūkṣa — rakṣaḥ — rada — khara — nakhara — kṣuṇṇa — vikṣobhita — akṣān\n" +
-        "āmagnān — andha — kūpe — kṣura — mukha — mukharaiḥ — pakṣibhiḥ — vikṣata — aṅgān\n" +
-        "pūya — asṛk — mūtra — viṣṭhā — kṛmi — kula — kalile — tat — kṣaṇa — kṣipta — śakti —\n" +
-        "ādi — astra — vrāta — arditān — tvat — dviṣaḥ — upajihate — vajra — kalpāḥ — jalūkāḥ || 13 ||",
-      meaning:
-        "Your enemies — emaciated with hunger, their eyes gouged and churned by the harsh teeth and sharp claws of fierce rākṣasas, plunged into a blind well, their limbs torn by birds whose razor-sharp beaks screech, wallowing in a slime of pus, blood, urine and excrement teeming with swarms of worms, and tormented by volleys of śakti and other weapons hurled at them each instant — even there, leeches hard as adamant (vajra-kalpā jalūkāḥ) rush upon them. — Vāyudeva, such is the fate of the tāmasic haters: perpetually famished, covered in filth, drowning in the boiling deeps of hell, attacked by vicious birds and creatures, while your loyal servants strike them mercilessly. (Phala-śruti: this śloka removes poverty and want and destroys enemies.)"
+      id: "13", slug: "verse-11", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 11",
+      start: "8:08.84", end: "8:43.76",
+      mantra: "Uttaptatyutkata-tvit\n" +
+        "Prakata-katakata\n" +
+        "Dhvana-sanghattanodyad-\n" +
+        "vidyud-vyudha-sphulinga\n" +
+        "prakara-vikiranot\n" +
+        "kvathite badhitangan |\n" +
+        "ud-gadham patyamana\n" +
+        "tamasi tata-itah\n" +
+        "kinkaraih pamkilete\n" +
+        "pamktirgravnam garimnam\n" +
+        "glapayati hi bhavad\n" +
+        "dveshino vidvadadya || 11 ||"
     },
     {
-      id: "16", slug: "verse-14", group: "Mūla Vāyu Stuti · verses 7–16",
-      title: "Verse 14 · mātar me mātariśvan",
-      audio: true,
-      mantra:
-        "mātaḥ — me — mātariśvan — pitaḥ — atula — guro — bhrātaḥ — iṣṭa — āpta — bandho\n" +
-        "svāmin — sarva — antarātman — ajara — jarayitaḥ — janma — mṛti — āmayānām\n" +
-        "govinde — dehi — bhaktim — bhavati — ca — bhagavan — ūrjitām — nirnimittām\n" +
-        "nirvyājām — niścalām — sat — guṇa — gaṇa — bṛhatīm — śāśvatīm — āśu — deva || 14 ||",
-      meaning:
-        "O Mātariśvan (Vāyu)! You are my mother, my father, my incomparable guru, my brother, my dearest and truest kinsman, my master, the inner Self of all, yourself unaging yet the one who wears away birth, death and disease. O Bhagavān, O Deva — grant me quickly bhakti in Govinda, and in you: bhakti that is mighty, unconditioned by any motive, free of all pretence, unwavering, grown vast with the whole host of good qualities, and everlasting. — Śrī Vāyudeva, you are everything to me, and I turn to you to remove my sorrows; we plead with you to grant us everlasting and unshakable bhakti. (Phala-śruti: this śloka develops respect and obedience towards one's parents, elders and guru, and respect among people in society.)"
+      id: "14", slug: "verse-12", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 12",
+      start: "8:43.76", end: "9:19.36",
+      mantra: "Asminnasmad-gurunam\n" +
+        "hari-charana-chira\n" +
+        "dhyana-sanmangalanam\n" +
+        "yushmakam parshva-bhumim\n" +
+        "dhuta-ranaranikah\n" +
+        "svargi-sevyam-prapannah |\n" +
+        "yastudaste sa aste..a-\n" +
+        "dhi-bhavamasulabha-\n" +
+        "klesha nirmukamasta\n" +
+        "prayanandam katham chin\n" +
+        "na vasati satatam\n" +
+        "pancha-kashte..atikashte || 12 ||"
     },
     {
-      id: "17", slug: "verse-15", group: "Mūla Vāyu Stuti · verses 7–16",
-      title: "Verse 15 · viṣṇor atyuttamatvād",
-      audio: true,
-      mantra:
-        "viṣṇoḥ — ati — uttamatvāt — akhila — guṇa — gaṇaiḥ — tatra — bhaktim — gariṣṭhām\n" +
-        "āśliṣṭe — śrī — dharābhyām — amum — atha — parivāra — ātmanā — sevakeṣu\n" +
-        "yaḥ — sandhatte — viriñci — śvasana — vihagapa — ananta — rudra — indra — pūrveṣu\n" +
-        "ādhyāyan — tāratamyam — sphuṭam — avati — sadā — vāyuḥ — asmat — guruḥ — tam || 15 ||",
-      meaning:
-        "Vāyu, our guru, ever clearly protects the one who — knowing Viṣṇu, embraced by Śrī and Bhū, to be supremely highest (sarvottama) by the totality of all perfections — places in Him the greatest bhakti, and who then meditates upon the correct gradation (tāratamya) among His retinue of servants: Viriñci (Brahmā), Śvasana (Vāyu), Vihagapa (Garuḍa), Ananta (Śeṣa), Rudra, Indra and the rest, each in due order. — Vāyudeva, you recognise Śrī Hari as Sarvottama, and as flag-bearer of their destinies you ensure that all the gods observe the rules of gradation and difference (tāratamya). (Phala-śruti: this śloka develops awareness of the greatness of God.)"
+      id: "15", slug: "verse-13", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 13",
+      start: "9:19.36", end: "9:53.6",
+      mantra: "Kshut-kshaman ruksha-raksho\n" +
+        "rada-khara-nakhara\n" +
+        "kshunna-vikshobhitakshan\n" +
+        "amagnanamdha-kupe\n" +
+        "kshura-mukha-mukharaih\n" +
+        "pakshibhirvikshatangan |\n" +
+        "puyasrrin-mutra-vishtha\n" +
+        "krumi-kula-kalile\n" +
+        "tat-kshana-kshipta-shaktya-\n" +
+        "dyastra-vratarditanstva-\n" +
+        "dvisha upajihate\n" +
+        "vajrakalpa jalukah || 13 ||"
     },
     {
-      id: "18", slug: "verse-16", group: "Mūla Vāyu Stuti · verses 7–16",
-      title: "Verse 16 · tattva-jñān mukti-bhājaḥ",
-      audio: true,
-      mantra:
-        "tattva — jñān — mukti — bhājaḥ — sukhayasi — hi — guro — yogyatā — tāratamyāt\n" +
-        "ādhatse — miśra — buddhīn — tridiva — niraya — bhū — gocarān — nitya — baddhān\n" +
-        "tāmisra — andha — ādika — ākhye — tamasi — su — bahulam — duḥkhayasi — anyathā — jñān\n" +
-        "viṣṇoḥ — ājñābhiḥ — ittham — śruti — śatam — itihāsa — ādi — ca — ākarṇayāmaḥ || 16 ||",
-      meaning:
-        "O Guru! Those who know the truth (tattva-jñās) you gladden with mukti, each according to the gradation of his fitness (yogyatā-tāratamya); those of mixed disposition (miśra-buddhis), the eternally bound, you keep circling through heaven, hell and earth; and those of perverse knowledge (anyathā-jñās) you plunge into abundant misery in the darkness called Tāmisra, Andha and the rest — all by the commands of Viṣṇu. Thus do we hear from hundreds of śrutis, from the itihāsas and the other sacred texts. — Ācārya, having received the mukti-jñāna from Śrī Hari Himself, you administer, under His instruction and by the rules of gradation, who ascends to Vaikuṇṭha and who wanders on."
-    },
-
-    // ===================== HANUMAD-AVATĀRA (17–21) =====================
-    {
-      id: "19", slug: "verse-17", group: "Hanumad-avatāra · verses 17–21",
-      title: "Verse 17 · vande 'haṃ taṃ hanūmān",
-      audio: true,
-      mantra:
-        "vande — aham — tam — hanūmān — iti — mahita — mahā — pauruṣaḥ — bāhu — śālī\n" +
-        "khyātaḥ — te — agryaḥ — avatāraḥ — sahitaḥ — iha — bahu — brahmacarya — ādi — dharmaiḥ\n" +
-        "sasnehānām — sahasvān — ahar — ahaḥ — ahitam — nirdahan — deha — bhājām\n" +
-        "aṃhaḥ — moha — apahaḥ — yaḥ — spṛhayati — mahatīm — bhaktim — adya — api — rāme || 17 ||",
-      meaning:
-        "I bow to that first avatāra of yours, renowned as 'Hanumān' — of celebrated, mighty valour, strong of arm, endowed here with brahmacarya and its many attendant dharmas; the mighty one who, day after day, burns away whatever harms the embodied beings who love him; the destroyer of sin and delusion, who even today longs for ever-greater bhakti in Rāma. — Vāyudeva, of your three avatāras the first is Hanumanta: the ciranjīvi, the knower of the highest knowledge, the perfect brahmacārī, the highest of the jīvas (Mukhya Prāṇa, Jīvottama), who accomplished the most difficult of tasks at Śrī Hari's word and conquered the six inner enemies — lust, anger, greed, attachment, intoxication and envy. We pay obeisance to you. (Phala-śruti: this śloka helps in accomplishing seemingly impossible tasks.)"
+      id: "16", slug: "verse-14", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 14",
+      start: "9:53.6", end: "10:27.16",
+      mantra: "Matarme matarishvan\n" +
+        "Pitaratula-guro\n" +
+        "bhratarishtapta-bandho\n" +
+        "Svamin sarvantaratman\n" +
+        "najara jarayitah\n" +
+        "janma-mrrityamayanam |\n" +
+        "Govinde dehi bhaktim\n" +
+        "Bhavati cha bhagava\n" +
+        "nnurjitam nirnimittam\n" +
+        "nirvyajam nishchalam\n" +
+        "sad-guna-gana-bruhatim\n" +
+        "shashvatimashu deva || 14 ||"
     },
     {
-      id: "20", slug: "verse-18", group: "Hanumad-avatāra · verses 17–21",
-      title: "Verse 18 · prāk pañcāśat-sahasrair",
-      audio: true,
-      mantra:
-        "prāk — pañcāśat — sahasraiḥ — vyavahita — mahitam — yojanaiḥ — parvatam — tvam\n" +
-        "yāvat — sañjīvana — ādi — auṣadha — nidhim — adhika — prāṇa — laṅkām — anaiṣīḥ\n" +
-        "adrākṣīt — utpatantam — tataḥ — uta — girim — utpāṭayantam — gṛhītvā\n" +
-        "yāntam — khe — rāghava — aṅghrau — praṇatam — api — tadā — eka — kṣaṇe — tvām — hi — lokaḥ || 18 ||",
-      meaning:
-        "O Adhika-prāṇa (you of surpassing strength)! You carried to Laṅkā the celebrated mountain that lay fifty thousand yojanas away — the treasury of Sañjīvanī and the other healing herbs. And in that one single instant, the world beheld you leaping up, uprooting the mountain and seizing it, coursing through the sky, and bowing at Rāghava's feet — all at once. — Mukhya Prāṇa, when Lakṣmaṇa was felled by Indrajit's weapons in the fierce war of Laṅkā, you flew across the ocean and brought the Gandhamādana mountain itself, bearing the antidote against death, and presented it to Śrī Rāma. Hanumanta, we pay obeisance to you. (Phala-śruti: this śloka acts as an antidote against many dreaded diseases.)"
+      id: "17", slug: "verse-15", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 15",
+      start: "10:27.16", end: "11:01.64",
+      mantra: "Vishnorattyuttamatva\n" +
+        "dakhila-guna-ganai\n" +
+        "statra bhaktim garishtham\n" +
+        "ashlishte shri-dharabhyam\n" +
+        "amumatha pariva-\n" +
+        "ratmana sevakeshu |\n" +
+        "yah sandhatte virimchi\n" +
+        "shvasana vihagapa-\n" +
+        "nanta-rudrendra-purve\n" +
+        "shvadhyayamstaratamyam\n" +
+        "sphutamavati sada\n" +
+        "vayurasmad-gurustam || 15 ||"
     },
     {
-      id: "21", slug: "verse-19", group: "Hanumad-avatāra · verses 17–21",
-      title: "Verse 19 · kṣiptaḥ paścāt sa-līlaṃ",
-      mantra:
-        "kṣiptaḥ — paścāt — sa — līlam — śatam — atula — mate — yojanānām — saḥ — uccaḥ\n" +
-        "tāvat — vistāravān — ca — api — upala — lavaḥ — iva — vyagra — buddhyā — tvayā — ataḥ\n" +
-        "sva — sva — sthāna — sthita — ati — sthira — śakala — śilā — jāla — saṃśleṣa — naṣṭa —\n" +
-        "cheda — aṅkaḥ — prāk — iva — abhūt — kapi — vara — vapuṣaḥ — te — namaḥ — kauśalāya || 19 ||",
-      meaning:
-        "O you of incomparable intellect! Afterwards, that mountain — a hundred yojanas high and as many wide — was tossed back by you playfully, like a mere chip of stone, your mind already intent (on Rāma's service). Every fragment and every rock settled so firmly back into its own place, joining without seam, that all mark of breakage vanished and it stood exactly as before. Salutations to the skill (kauśala) of your supreme monkey-form! — Sañjīvi, after Lakṣmaṇa and the fallen vānaras were revived, you threw the Gandhamādana mountain back from Laṅkā to its original place at Śrī Rāma's word — as easily as a child tosses a pebble, without disturbing a single boulder. We marvel at your aim and strength. (Phala-śruti: this śloka gives success in standing on one's principles, helps overcome losses, and overcomes weaknesses of body and mind.)"
+      id: "18", slug: "verse-16", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 16",
+      start: "11:01.64", end: "11:37.2",
+      mantra: "Tattva-jnan mukti-bhajah\n" +
+        "sukhayisi hi guro\n" +
+        "yogyata-taratamyat\n" +
+        "adhatse Mishra-buddhim\n" +
+        "tridiva-niraya-bhu\n" +
+        "gocharannitya-baddhan |\n" +
+        "tamisramdhadikakhye\n" +
+        "tamasi su-bahulam\n" +
+        "duhkhayasyanyatha-jnan\n" +
+        "vishnorajnabhirittham\n" +
+        "shruti-shatamitiha-\n" +
+        "sadi chakarnayamah || 16 ||"
     },
     {
-      id: "22", slug: "verse-20", group: "Hanumad-avatāra · verses 17–21",
-      title: "Verse 20 · dṛṣṭvā duṣṭādhiporaḥ",
-      mantra:
-        "dṛṣṭvā — duṣṭa — adhipa — uraḥ — sphuṭita — kanaka — sat — varma — ghṛṣṭa — asthi — kūṭam\n" +
-        "niṣpiṣṭam — hāṭaka — adri — prakaṭa — taṭa — taṭāka — atiśaṅkaḥ — janaḥ — abhūt\n" +
-        "yena — ājau — rāvaṇa — ari — priya — naṭana — paṭuḥ — muṣṭiḥ — iṣṭam — pradeṣṭum\n" +
-        "kim — na — īṣṭe — me — saḥ — te — aṣṭāpada — kaṭaka — taṭit — koṭi — bhā — mṛṣṭa — kāṣṭhaḥ || 20 ||",
-      meaning:
-        "Seeing the wicked king's (Rāvaṇa's) chest — its fine golden armour burst open, its mass of bones ground to powder, utterly crushed — people wondered whether it was really the exposed cliff-face of the golden mountain (Meru) split open. That fist of yours, which in battle danced so skilfully the dance dear to Rāvaṇa's foe (Rāma), and which polishes the very directions with the crore-lightning gleam of its gold bracelet — can it not bestow on me my heart's desire? — Gadādhari, when Rāvaṇa tried to drag the fallen Lakṣmaṇa away to his camp, you stopped him with a blow of your fist to his chest so mighty that blood burst from all his ten mouths and ears and he fell senseless. May those power-packed fists, moving like lightning in Śrī Rāma's service, protect us also. (Phala-śruti: this śloka gives victory over one's enemies.)"
+      id: "19", slug: "verse-17", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 17",
+      start: "11:37.2", end: "12:11.6",
+      mantra: "Vande..aham tam hanuman\n" +
+        "iti mahita-maha\n" +
+        "paurusho bahushali\n" +
+        "khyataste.agryo.avatarah\n" +
+        "sahita iha bahu-\n" +
+        "brahma-charyadi-dharmaih |\n" +
+        "sasnehanam sahasva-\n" +
+        "naharaharahitam\n" +
+        "nirdahan dehabhajam\n" +
+        "amho-mohapaho yah\n" +
+        "sprrihayati mahatim\n" +
+        "bhaktimadyapi rame || 17 ||"
     },
     {
-      id: "23", slug: "verse-21", group: "Hanumad-avatāra · verses 17–21",
-      title: "Verse 21 · devy-ādeśa-praṇīti",
-      mantra:
-        "devī — ādeśa — praṇīti — druhiṇa — hara — vara — avadhya — rakṣaḥ — vighāta —\n" +
-        "ādya — sevā — udyat — dayā — ārdraḥ — saha — bhujam — akarot — rāma — nāmā — mukundaḥ\n" +
-        "duṣprāpe — pārameṣṭhye — kara — talam — atulam — mūrdhni — vinyasya — dhanyam\n" +
-        "tanvan — bhūyaḥ — prabhūta — praṇaya — vikasita — abja — īkṣaṇaḥ — tvā — īkṣamāṇaḥ || 21 ||",
-      meaning:
-        "Mukunda, bearing the name Rāma — His heart melting with rising compassion at your service: carrying out Sītā Devī's bidding and slaying the rākṣasas whom the boons of Brahmā and Hara had made unslayable by others — placed His own incomparable palm upon your head, blessing you; and gazing upon you with lotus eyes blossoming wide with overflowing love, He conferred on you the blessed seat of Brahmā (pārameṣṭhya), so hard to attain. — Hanumān, it was by Śrī Rāma's grace that you destroyed the rākṣasas cloaked in invincibility, and for your selfless service Śrī Rāma, who is Śrī Hari Himself, blessed you with the position of the Creator (Brahmā) in the next cycle of creation. (Phala-śruti: this śloka fulfils one's desires.)"
-    },
-
-    // ===================== BHĪMASENA-AVATĀRA (22–28) =====================
-    {
-      id: "24", slug: "verse-22", group: "Bhīmasena-avatāra · verses 22–28",
-      title: "Verse 22 · jaghne nighnena vighno",
-      mantra:
-        "jaghne — nighnena — vighnaḥ — bahula — bala — baka — dhvaṃsana — ādyena — śocat —\n" +
-        "vipra — anukrośa — pāśaiḥ — asu — vidhṛti — sukhasya — ekacakrā — janānām\n" +
-        "tasmai — te — deva — kurmaḥ — kuru — kula — pataye — karmaṇā — ca — praṇāmān\n" +
-        "kirmīram — durmatīnām — prathamam — atha — ca — yaḥ — narmaṇā — nirmamātha || 22 ||",
-      meaning:
-        "By you, bound by the cords of compassion for the grieving brāhmaṇa, the obstacle to the people of Ekacakrā keeping the simple joy of staying alive was destroyed — through the slaying of the hugely powerful Baka and like deeds; and you likewise crushed, almost in play (narmaṇā), Kirmīra, first among the evil-minded. To you, O Deva, lord of the Kuru clan, we offer our praṇāmas in both word and deed. — Bhīmasena, during the years of exile you sheltered in a brāhmaṇa's house in Ekacakrāpura; taking pity on your poor host, you offered yourself for the sacrifice to the demon Baka and killed him, and soon after his brother Kirmīra in the forest. We stand in awe of your deeds and bow to you with body and mind. (Phala-śruti: this śloka destroys obstacles to one's progress.)"
+      id: "20", slug: "verse-18", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 18",
+      start: "12:11.6", end: "12:48.48",
+      mantra: "Prak pamchashat-sahasrair\n" +
+        "vyavahita-mamitam\n" +
+        "yojanaih parvatam tvam\n" +
+        "yavat sanjivanadyau-\n" +
+        "shadha-nidhimadhika\n" +
+        "prana lankamanaishih |\n" +
+        "adrakshidut-patamtam\n" +
+        "tata uta girimut\n" +
+        "patayamtam grrihitva\n" +
+        "yamtam khe raghavanghrau\n" +
+        "pranatamapi tadai\n" +
+        "ka-kshane tvam hi lokah || 18 ||"
     },
     {
-      id: "25", slug: "verse-23", group: "Bhīmasena-avatāra · verses 22–28",
-      title: "Verse 23 · nirmṛdnann atyayatnaṃ",
-      mantra:
-        "nirmṛdnan — ati — ayatnam — vijara — vara — jarāsandha — kāya — asthi — sandhīn\n" +
-        "yuddhe — tvam — sva — dhvare — vā — paśum — iva — damayan — viṣṇu — pakṣa — dviṭ — īśam\n" +
-        "yāvat — pratyakṣa — bhūtam — nikhila — makha — bhujam — tarpayāmāsitha — asau\n" +
-        "tāvatyā — ayoji — tṛptyā — kim — u — vada — bhagavan — rājasūya — aśvamedhe || 23 ||",
-      meaning:
-        "O unaging best of beings (vijara-vara)! Crushing without the least effort the bone-joints of Jarāsandha's body, you subdued in battle — as a beast is subdued at your own sacrifice — that king of the haters of Viṣṇu's side. Tell us, O Bhagavān: was Kṛṣṇa, the enjoyer of all sacrifices standing there before your very eyes, satisfied as much even by the Rājasūya and Aśvamedha as by the satisfaction you offered Him then? — Bhīma, at Śrī Kṛṣṇa's word you tirelessly fought Jarāsandha and tore his body in two. Śrī Kṛṣṇa's greatest delight is the destruction of His enemies by kṣatriyas doing their foremost duty — He values it above the yajñas themselves. (Phala-śruti: this śloka makes one victorious over enemies.)"
+      id: "21", slug: "verse-19", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 19",
+      start: "12:48.48", end: "13:21.28",
+      mantra: "Kshiptah pashchat salilam\n" +
+        "shatamatula-mate\n" +
+        "yojananam sa uchcha-\n" +
+        "staved vistaravamshch\n" +
+        "piupala lava-iva\n" +
+        "vyagra-buddhya tvayatah |\n" +
+        "sva-sva-sthana-sthitati\n" +
+        "sthira-shakala-shila-\n" +
+        "jala-samshlesha-nashta\n" +
+        "chhedankah pragivabhut\n" +
+        "kapi-vara-vapushaste\n" +
+        "namah kaushalaya || 19 ||"
     },
     {
-      id: "26", slug: "verse-24", group: "Bhīmasena-avatāra · verses 22–28",
-      title: "Verse 24 · kṣvelākṣīṇāṭṭahāsaṃ",
-      mantra:
-        "kṣvelā — akṣīṇa — aṭṭahāsam — tava — raṇam — arihan — udgada — uddāma — bāhoḥ\n" +
-        "bahu — akṣauhiṇī — anīka — kṣapaṇa — su — nipuṇam — yasya — sarvottamasya\n" +
-        "śuśrūṣā — artham — cakartha — svayam — ayam — atha — saṃvaktum — ānandatīrtha —\n" +
-        "śrīmat — nāman — samarthaḥ — tvam — api — hi — yuvayoḥ — pāda — padmam — prapadye || 24 ||",
-      meaning:
-        "O slayer of foes! Your battle — with its undiminished thunderous laughter ringing above the fray, your unrestrained arms with mace upraised, so skilled in annihilating many akṣauhiṇī armies — all this you wrought for the service of the Sarvottama (Kṛṣṇa/Vyāsa); and then, bearing the glorious name Ānandatīrtha, you yourself became the one able to expound Him fully. I take refuge at the lotus feet of you both (yuvayoḥ — of Vāyu and of the Lord). — Bhīmasena, armed with your magnificent gadā, you tore across the Kaurava armies and single-handedly destroyed several akṣauhiṇīs, exactly as Sage Veda Vyāsa, who is Śrī Hari Himself, had set the epic in motion and desired its ending. We pay obeisance to you both. (Phala-śruti: this śloka rewards loyalty to legitimate authority.)"
+      id: "22", slug: "verse-20", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 20",
+      start: "13:21.28", end: "13:53.96",
+      mantra: "Drushtva dushtadhiporah\n" +
+        "sphutita-kanaka-sad\n" +
+        "varma-ghrushtasthi-kutam\n" +
+        "nishpishtam hatakadri\n" +
+        "prakata-tata-tata\n" +
+        "kati-shanko jano..abhut |\n" +
+        "yenajau ravanari-\n" +
+        "priya-natana-patur\n" +
+        "mushtirishtam pradeshtum\n" +
+        "kim neshte me sa te..ashta\n" +
+        "pada-kataka-tatit\n" +
+        "koti-bhamrushta-kashthah || 20 ||"
     },
     {
-      id: "27", slug: "verse-25", group: "Bhīmasena-avatāra · verses 22–28",
-      title: "Verse 25 · druhyantīṃ hṛd-druhaṃ",
-      mantra:
-        "druhyantīm — hṛt — druham — mām — drutam — anila — balāt — drāvayantīm — avidyā —\n" +
-        "nidrām — vidrāvya — sadyaḥ — racana — paṭum — atha — āpādya — vidyā — samudra\n" +
-        "vāk — devī — sā — su — vidyā — draviṇa — da — viditā — draupadī — rudra — patnyāt —\n" +
-        "udriktā — drāk — abhadrāt — rahayatu — dayitā — pūrva — bhīma — ājñayā — te || 25 ||",
-      meaning:
-        "O Anila (Vāyu), ocean of knowledge, giver of the wealth (of wisdom)! Swiftly driving off by your strength the sleep of ignorance (avidyā-nidrā) that assails me and wounds my heart, and making me at once skilled in composition — may she, the goddess of speech (Vāg-devī), renowned for her perfect knowledge, known as Draupadī, who surpasses even Rudra's wife (Pārvatī) and the other consorts, your beloved of old, O former Bhīma, by your command quickly free me from all misfortune. — Vāyudeva, in your avatāra as Bhīmasena your wife Draupadī was the incarnation of Bhāratī Devī, and hence supremely knowledgeable. The lack of knowledge makes us listless and sluggish — we plead with you both to grant us the knowledge that lifts these fogs. (Phala-śruti: this śloka dispels ignorance and grants learning.)"
+      id: "23", slug: "verse-21", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 21",
+      start: "13:53.96", end: "14:27.48",
+      mantra: "Devyadesha-praniti\n" +
+        "druhina-hara-vara\n" +
+        "vadya-raksho-vighata.a\n" +
+        "dyasevodyad-dayardrah\n" +
+        "saha-bhujamakarod\n" +
+        "rama-nama mukundah |\n" +
+        "dushprape parameshthye\n" +
+        "kara-talamatulam\n" +
+        "murdhni vinyasya dhanyam\n" +
+        "tanvan bhuyah prabhuta-\n" +
+        "pranaya-vikasitabje\n" +
+        "kshanastvekshamanah || 21 ||"
     },
     {
-      id: "28", slug: "verse-26", group: "Bhīmasena-avatāra · verses 22–28",
-      title: "Verse 26 · yābhyāṃ śuśrūṣur āsīḥ",
-      mantra:
-        "yābhyām — śuśrūṣuḥ — āsīḥ — kuru — kula — janane — kṣatra — vipra — uditābhyām\n" +
-        "brahmabhyām — bṛṃhitābhyām — cita — sukha — vapuṣā — kṛṣṇa — nāma — āspadābhyām\n" +
-        "nirbhedābhyām — viśeṣāt — vivacana — viṣayābhyām — amūbhyām — ubhābhyām\n" +
-        "tubhyam — ca — kṣema — debhyaḥ — sarisija — vilasat — locanebhyaḥ — namaḥ — astu || 26 ||",
-      meaning:
-        "When you were born in the Kuru line, you had the joy of serving those two Brahman-forms — one arisen among kṣatriyas (Śrī Kṛṣṇa) and one among brāhmaṇas (Veda Vyāsa) — both grown full, both with bodies of massed consciousness-bliss (cit-sukha), both bearing the name 'Kṛṣṇa', in essence without any difference between them though spoken of distinctly. To those two, and to you as well — all three bestowers of welfare, with eyes shining like lotuses — let there be salutation. — Bhīmasena, in the Kuru family you had the wondrous opportunity of worshipping Śrī Hari in both His forms: as Śrī Kṛṣṇa the Yādava king and as Sage Veda Vyāsa who directed the whole course of the Mahābhārata. We pay obeisance to Śrī Kṛṣṇa, to Veda Vyāsa, and to you. (Phala-śruti: this śloka rewards service rendered to one's teachers — guru-bhakti.)"
+      id: "24", slug: "verse-22", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 22",
+      start: "14:27.48", end: "14:59.68",
+      mantra: "Jaghne nighnena vighno\n" +
+        "bahula-bala-baka\n" +
+        "dhvamsanad yena shochat\n" +
+        "vipranu-krosha-pashai\n" +
+        "rasu-vidhruti-sukha\n" +
+        "syaikachakra-jananam |\n" +
+        "tasmaite deva kurmah\n" +
+        "kuru-kula-pataye\n" +
+        "karmana cha pranaman\n" +
+        "kirmiram durmatinam\n" +
+        "prathamamatha cha yo\n" +
+        "narmana nirmamatha || 22 ||"
     },
     {
-      id: "29", slug: "verse-27", group: "Bhīmasena-avatāra · verses 22–28",
-      title: "Verse 27 · gacchan saugandhikārthaṃ",
-      mantra:
-        "gacchan — saugandhika — artham — pathi — saḥ — hanumataḥ — puccham — acchasya — bhīmaḥ\n" +
-        "proddhartum — na — aśakat — saḥ — tvam — amum — uru — vapuṣā — bhīṣayāmāsa — ca — iti\n" +
-        "pūrṇa — jñāna — ojasoḥ — te — gurutama — vapuṣoḥ — śrīmat — ānandatīrtha\n" +
-        "krīḍā — mātram — tat — etat — pramada — da — sudhiyām — mohaka — dveṣa — bhājām || 27 ||",
-      meaning:
-        "That Bhīma, going along the path for the Saugandhika flower, 'could not lift' the tail of the radiant Hanumān; and 'you frightened him' with your vast form — so runs the tale. But since both those bodies of yours, O greatest of gurus, Śrīmad Ānandatīrtha, are complete in knowledge and in strength, all of that was mere play (krīḍā-mātra) — a delight to the wise, a bewilderment to those given to hatred. — Bhīmasena, on the trek to Gandhamādana you met a huge old monkey whose tail lay across your path, and in that famous exchange you 'lost' — to none other than your own earlier avatāra, Hanumanta. In losing to yourself, you also won against yourself: it was all divine sport. (Phala-śruti: this śloka gives success in one's undertakings and endeavours.)"
+      id: "25", slug: "verse-23", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 23",
+      start: "14:59.68", end: "15:33.24",
+      mantra: "Nirmrridnannatya yatnam\n" +
+        "vijara-vara jara-\n" +
+        "sandha-kayasthi-sandhin\n" +
+        "yuddhe tvam svadhvare vaa\n" +
+        "pashumiva damayan\n" +
+        "vishnu-paksha-dvidisham |\n" +
+        "yavat pratyaksha-bhutam\n" +
+        "nikhila-makha-bhujam\n" +
+        "tarpayamasithasau\n" +
+        "tavatya..yoji trriptya\n" +
+        "kimu vada bhaghavan\n" +
+        "rajasuyashvamedhe || 23 ||"
     },
     {
-      id: "30", slug: "verse-28", group: "Bhīmasena-avatāra · verses 22–28",
-      title: "Verse 28 · bahvīḥ koṭīr aṭīkaḥ",
-      mantra:
-        "bahvīḥ — koṭīḥ — aṭīkaḥ — kuṭila — kaṭu — matīn — utkaṭa — āṭopa — kopān\n" +
-        "drāk — ca — tvam — satvaratvāt — caraṇa — da — gadayā — pothayāmāsitha — arīn\n" +
-        "unmathya — atathya — mithyātva — vacana — vacanān — utpatha — sthān — tathā — anyān\n" +
-        "prāyacchaḥ — sva — priyāyai — priyatama — kusumam — prāṇa — tasmai — namaḥ — te || 28 ||",
-      meaning:
-        "O giver of refuge (caraṇa-da)! Ranging swiftly, you pounded with your mace many crores of enemies — crooked and bitter-minded, swollen with arrogant fury — and likewise crushed those others standing on the wrong path, who declared the untrue doctrine that the world is false (mithyātva); and then you gave your beloved the flower most dear to her. O Prāṇa, to you salutation! — Bhīmasena, at Gandhamādana and again on Mount Meru you defeated and destroyed the hosts of demons — the latter three hundred crores led by the cunning, evil Maṇimanta — and brought the Saugandhika blossoms to your beloved Draupadī. We admire your prowess and pay obeisance to you. (Phala-śruti: this śloka overcomes lies and deceit.)"
-    },
-
-    // ===================== MADHVA-AVATĀRA (29–40) =====================
-    {
-      id: "31", slug: "verse-29", group: "Madhva-avatāra · verses 29–40",
-      title: "Verse 29 · dehād utkrāmitānām",
-      mantra:
-        "dehāt — utkrāmitānām — adhipatiḥ — asatām — akramāt — vakra — buddhiḥ\n" +
-        "kruddhaḥ — krodha — eka — vaśyaḥ — krimiḥ — iva — maṇimān — duṣkṛtī — niṣkriya — artham\n" +
-        "cakre — bhū — cakram — etya — krakacam — iva — satām — cetasaḥ — kaṣṭa — śāstram\n" +
-        "dustarkam — cakra — pāṇeḥ — guṇa — gaṇa — viraham — jīvatām — ca — adhikṛtya || 29 ||",
-      meaning:
-        "The overlord of the wicked who had been driven from their bodies (by Bhīma), the crooked-minded, wrathful Maṇimān — wholly in the grip of anger, a mere worm, an evil-doer — came to the circle of the earth out of due order, and, to render (dharma) void, composed a tormenting śāstra: a saw (krakaca) to the hearts of the good, full of false reasoning (dustarka), denying the host of perfections of the Discus-bearer (Viṣṇu) and directed against the souls (jīvas). — Vāyudeva, the demon Maṇimanta whom you slew as Bhīmasena was born again, grew strong, and began a systematic distortion of the śāstras and Vedas; unable to defeat you in battle, he sought to strike at what is dearest — true knowledge itself. We plead with you to protect the righteous."
+      id: "26", slug: "verse-24", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 24",
+      start: "15:33.24", end: "16:07.44",
+      mantra: "Kshvelakshinattahasaham\n" +
+        "Tava ranamari han-\n" +
+        "nudgadoddama-bahoh\n" +
+        "bahvakshauhinya nika-\n" +
+        "kshapana-su-nipunam\n" +
+        "yasya sarvottamasya |\n" +
+        "shushrushartham chakartha\n" +
+        "svayamayamatha sam-\n" +
+        "vaktumanamda-tirtha\n" +
+        "shrimannaman samartha-\n" +
+        "stvamapi hi yuvayoh\n" +
+        "pada-padmam pra-padye || 24 ||"
     },
     {
-      id: "32", slug: "verse-30", group: "Madhva-avatāra · verses 29–40",
-      title: "Verse 30 · tad-duṣprekṣānusārāt",
-      mantra:
-        "tat — duṣprekṣā — anusārāt — katipaya — kunaraiḥ — ādṛtaḥ — anyaiḥ — visṛṣṭaḥ\n" +
-        "brahmā — aham — nirguṇaḥ — aham — vitatham — idam — iti — hi — eṣaḥ — pāṣaṇḍa — vādaḥ\n" +
-        "tat — yukti — ābhāsa — jāla — prasara — viṣa — taru — uddāha — dakṣa — pramāṇa —\n" +
-        "jvālā — mālā — dhara — agniḥ — pavana — vijayate — te — avatāraḥ — tṛtīyaḥ || 30 ||",
-      meaning:
-        "Following that perverse vision, a few debased men embraced — though others rejected — this heretic doctrine (pāṣaṇḍa-vāda): 'I am Brahman', 'I am attributeless', 'this world is unreal'. O Pavana (Vāyu)! Victorious is your third avatāra (Madhva) — a fire wreathed in garlands of flame, its pramāṇas (means of true knowledge) expert at burning down the spreading poison-tree of that web of specious reasoning (yukty-ābhāsa). — Śrī Hari and Vāyudeva, Maṇimanta's writings — claiming 'I am Brahman' and that everything is illusion — confounded the righteous; those poisonous works were destroyed by you in the avatāras of Sage Veda Vyāsa and Śrī Madhvācārya. We pay our obeisance to you. (Phala-śruti: this śloka gives success in debates.)"
+      id: "27", slug: "verse-25", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 25",
+      start: "16:07.44", end: "16:42.6",
+      mantra: "Druhyamtim hrud ruham mam\n" +
+        "druta-manila balaad\n" +
+        "dravayantimavidya-\n" +
+        "nidram vidravya sadyo-\n" +
+        "rachana-patumatha-\n" +
+        "padya vidya-samudra |\n" +
+        "vag-devi sa suvidya-\n" +
+        "dravina-da vidita\n" +
+        "draupadi-rudra-patnyat\n" +
+        "drudrikta dragabhadrad\n" +
+        "rahayatu dayita\n" +
+        "purvabhimajnayate || 25 ||"
     },
     {
-      id: "33", slug: "verse-31", group: "Madhva-avatāra · verses 29–40",
-      title: "Verse 31 · ākrośanto nirāśā",
-      mantra:
-        "ākrośantaḥ — nirāśāḥ — bhaya — bhara — vivaśa — sva — āśayāḥ — chinna — darpāḥ\n" +
-        "vāśantaḥ — deśa — nāśaḥ — tu — iti — bata — kudhiyām — nāśam — āśā — daśā — āśu\n" +
-        "dhāvantaḥ — aślīla — śīlāḥ — vitatha — śapatha — śāpa — aśivāḥ — śānta — śauryāḥ\n" +
-        "tvat — vyākhyā — siṃha — nāde — sapadi — dadṛśire — māyi — gomāyavaḥ — te || 31 ||",
-      meaning:
-        "At the lion-roar of your exposition (vyākhyā-siṃha-nāda), those jackals — the māyāvādins — were seen at once: wailing aloud, hopeless, their inner resolve overpowered by the weight of fear, their pride cut down, howling 'the land is ruined!'; alas, the hopes of the evil-minded ran swiftly in every direction to destruction; fleeing, foul in conduct, inauspicious with their empty oaths and curses, their courage utterly stilled. — Sage Veda Vyāsa and Ācārya, your efforts destroyed the poisonous words and works of Maṇimanta and his followers; the śāstras and Vedas were restored to their rightful place, and those who followed his works stood defeated. (Phala-śruti: this śloka disheartens and defeats one's enemies.)"
+      id: "28", slug: "verse-26", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 26",
+      start: "16:42.6", end: "17:15.52",
+      mantra: "Yabhyam shushrushurasih\n" +
+        "kuru-kula-janane\n" +
+        "kshatra-viproditabhyam\n" +
+        "brahmabhyam brrimhitabhyam\n" +
+        "chiti-sukha vapusha\n" +
+        "krishna-namaspadabhyam |\n" +
+        "nirbhedabhyam visheshad\n" +
+        "dvi-vachana-vishaya-\n" +
+        "bhyamubhabhyamamubhyam\n" +
+        "tubhyam cha kshemadebhyah\n" +
+        "sarisija-vilasa-\n" +
+        "llochanebhyo namo..astu || 26 ||"
     },
     {
-      id: "34", slug: "verse-32", group: "Madhva-avatāra · verses 29–40",
-      title: "Verse 32 · triṣv apy evāvatāreṣv",
-      mantra:
-        "triṣu — api — eva — avatāreṣu — aribhiḥ — apaghṛṇam — hiṃsitaḥ — nirvikāraḥ\n" +
-        "sarva — jñaḥ — sarva — śaktiḥ — sakala — guṇa — gaṇa — āpūrṇa — rūpa — pragalbhaḥ\n" +
-        "svacchaḥ — svacchanda — mṛtyuḥ — sukhayasi — sujanam — deva — kim — citram — atra\n" +
-        "trātā — yasya — tridhāmā — jagat — uta — vaśagam — kiṅkarāḥ — śaṅkara — ādyāḥ || 32 ||",
-      meaning:
-        "In all three of your avatāras you were assailed pitilessly by enemies, yet remained unaltered (nirvikāra) — omniscient, omnipotent, bold in a form complete with the whole host of perfections, stainless, with death itself subject to your own will (svacchanda-mṛtyu) — and still you bring joy to the good. O Deva, what wonder is there in this, when your protector is Tridhāmā (Hari of the three abodes), the world itself moves at your command, and Śaṅkara and the rest are your servants? — Vāyudeva, as Hanumān, Bhīma and Madhva you destroyed Rāvaṇāsura's hordes, Duryodhana, and impostors like Maṇimanta, while remaining the most knowledgeable yet humble master of all arts. Even Yama, the god of death, follows your instructions. (Phala-śruti: this śloka prevents untimely death and helps achieve fame.)"
+      id: "29", slug: "verse-27", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 27",
+      start: "17:15.52", end: "17:48.04",
+      mantra: "Gachchan saugamdhikartham\n" +
+        "pathi sa hanumatah\n" +
+        "puchchamachchasya bhimah\n" +
+        "proddhartum nashakat sa\n" +
+        "tvamumuru-vapusha\n" +
+        "bhishayamasa cheti |\n" +
+        "purna-jnanaujasoste\n" +
+        "guru-tama vapushoh\n" +
+        "shrimadananda tirtha-\n" +
+        "krida matram tadetat\n" +
+        "pramada-da sudhiyam\n" +
+        "mohaka dveshabhajam || 27 ||"
     },
     {
-      id: "35", slug: "verse-33", group: "Madhva-avatāra · verses 29–40",
-      title: "Verse 33 · udyan-manda-smita",
-      mantra:
-        "udyat — manda — smita — śrī — mṛdu — madhu — madhura — ālāpa — pīyūṣa — dhārā —\n" +
-        "pūra — āseka — upaśānta — asukha — sujana — manaḥ — locana — āpīyamānam\n" +
-        "sandrakṣye — sundaram — sanduhat — iha — mahat — ānandam — ānandatīrtha —\n" +
-        "śrīmat — vaktra — indu — bimbam — durita — nut — uditam — nityadā — aham — kadā — nu || 33 ||",
-      meaning:
-        "When, oh when, shall I forever behold the beautiful, risen moon-disc that is the face of Śrīmad Ānandatīrtha — from which streams a flood of nectar: speech soft, honeyed and sweet, graced by a gently dawning smile — a flood whose sprinkling extinguishes all sorrow; a face drunk in by the eyes and minds of the good, milking forth great bliss here itself, and driving away all sin? — Ācārya, your presence is overpowering: with a radiant smile and speech sweet as honey, it becomes difficult — nay, impossible — for those under your spell to commit sin. We gaze at you in awe. (Phala-śruti: this śloka helps develop a powerful and charming personality.)"
+      id: "30", slug: "verse-28", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 28",
+      start: "17:48.04", end: "18:22.72",
+      mantra: "Bahvih kotiratikah\n" +
+        "kutila-katu-mati-\n" +
+        "nutkatatopa-kopan\n" +
+        "drak cha tvam satvaratva-\n" +
+        "chcharana-da gadaya\n" +
+        "pothayamasitharin |\n" +
+        "unmathyatatthya-mithya-\n" +
+        "tva-vachana-vachanan\n" +
+        "utpatha-sthamstatha..anyan\n" +
+        "prayachchah sva-priyayai\n" +
+        "priyatama-kusumam\n" +
+        "prana tasmai namaste || 28 ||"
     },
     {
-      id: "36", slug: "verse-34", group: "Madhva-avatāra · verses 29–40",
-      title: "Verse 34 · prācīnācīrṇa-puṇya",
-      mantra:
-        "prācīna — ācīrṇa — puṇya — uccaya — caturatara — ācārataḥ — cāru — cittān\n" +
-        "ati — uccām — rocayantīm — śruti — cita — vacanām — śrāvakān — codya — cuñcūn\n" +
-        "vyākhyām — utkhāta — duḥkhām — ciram — ucita — mahā — ācārya — cintā — ratān — te\n" +
-        "citrām — sat — śāstra — kartāḥ — caraṇa — paricarān — śrāvaya — asmān — ca — kiñcit || 34 ||",
-      meaning:
-        "O rightly-titled Mahācārya, author of the true śāstras! Your wondrous exposition (vyākhyā) — lofty beyond measure, its every word gathered from the śrutis, uprooting sorrow itself — delights those of beautiful mind whose conduct has been refined by stores of merit earned in former lives, listeners eager with questions, long devoted to contemplation of you. To us also, servants at your feet, let a little of it be heard! — Ācārya, as Jagadguru you alone comprehend the complex śāstras and Vedas and can teach them in the simplest language; yet to grasp your commentaries one needs the merit of good deeds performed in the past. The righteous pray to you and to Sage Vedavyāsa to impart some of that knowledge. (Phala-śruti: this śloka fulfils one's desires and grants the ability to convey one's thoughts effectively.)"
+      id: "31", slug: "verse-29", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 29",
+      start: "18:22.72", end: "18:55.64",
+      mantra: "Dehadutkramitana\n" +
+        "madhipati-rasata-\n" +
+        "makramad vakra-buddhih\n" +
+        "kruddhah krodhaika-vashyah\n" +
+        "krimiriva maniman\n" +
+        "dushkruti nishkriyartham |\n" +
+        "chakre bhu-chakrametya\n" +
+        "krakachamiva satam\n" +
+        "chetasah kashta-shastram\n" +
+        "dustarkam chakrapaner-\n" +
+        "guna-gana-viraham\n" +
+        "jivatam chadhikrritya || 29 ||"
     },
     {
-      id: "37", slug: "verse-35", group: "Madhva-avatāra · verses 29–40",
-      title: "Verse 35 · pīṭhe ratnopakḷpte",
-      mantra:
-        "pīṭhe — ratna — upakḷpte — rucira — ruci — maṇi — jyotiṣā — sanniṣaṇṇam\n" +
-        "brahmāṇam — bhāvinam — tvām — jvalati — nija — pade — vaidika — ādyāḥ — hi — vidyāḥ\n" +
-        "sevante — mūrtimatyaḥ — sucarita — caritam — bhāti — gandharva — gītam\n" +
-        "pratyekam — deva — saṃsatsu — api — tava — bhagavan — nartita — dyo — vadhūṣu || 35 ||",
-      meaning:
-        "O Bhagavān! You, the Brahmā-to-be, are seated on a throne inlaid with gems, blazing with the light of lovely lustrous jewels, in your own resplendent seat; and the vidyās — the Vedic and all other sacred sciences — wait upon you there in embodied form (mūrtimatyaḥ). Your saga of noble deeds shines forth, sung by the Gandharvas, in each assembly of the gods, while the maidens of heaven dance to it. — Vāyudeva, in this cycle of creation you are seated on the throne as the King-in-waiting of the next creation; in all the celestial courts your story is sung by the Gandharvas and danced by the Apsaras. (Phala-śruti: this śloka helps one achieve name and fame.)"
+      id: "32", slug: "verse-30", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 30",
+      start: "18:55.64", end: "19:25.92",
+      mantra: "Tad-dutprekshanusarat\n" +
+        "katipaya-kunarai-\n" +
+        "radrrito..anyairvisrrishto\n" +
+        "brahmaham nirguno..aham\n" +
+        "vitathamidamiti\n" +
+        "hyesha pashanda-vadah |\n" +
+        "tad-yuktyabhasa-jala-\n" +
+        "prasara-visha-taru\n" +
+        "ddaha-daksha-pramana\n" +
+        "jvala-mala-dharo.agnih\n" +
+        "pavana vijayate te.\n" +
+        "avatarastrritiyah || 30 ||"
     },
     {
-      id: "38", slug: "verse-36", group: "Madhva-avatāra · verses 29–40",
-      title: "Verse 36 · sānukrośair ajasraṃ",
-      mantra:
-        "sa — anukrośaiḥ — ajasram — jani — mṛti — niraya — ādi — ūrmi — mālā — āvile — asmin\n" +
-        "saṃsāra — abdhau — nimagnān — śaraṇam — aśaraṇān — icchataḥ — vīkṣya — jantūn\n" +
-        "yuṣmābhiḥ — prārthitaḥ — san — jala — nidhi — śayanaḥ — satyavatyām — maharṣeḥ\n" +
-        "vyaktaḥ — cit — mātra — mūrtiḥ — na — khalu — bhagavataḥ — prākṛtaḥ — jātu — dehaḥ || 36 ||",
-      meaning:
-        "Beholding the helpless beings sunk in this ocean of saṃsāra, churned by the unending garland of waves — birth, death, hell and the rest — and longing for a refuge, you (the compassionate gods) prayed; and He who reclines on the ocean of milk became manifest in Satyavatī, through the great ṛṣi (Parāśara), as Veda Vyāsa. His form is pure consciousness alone (cin-mātra-mūrti): the body of Bhagavān is never, ever, material (prākṛta). — Vāyudeva, when the righteous wallowed in the endless cycle of life, death, ignorance and misery, you prayed to Śrī Hari to rescue them; He answered and took form as Sage Vedavyāsa from Satyavatī and Parāśara Ṛṣi. We pay obeisance to you. (Phala-śruti: this śloka helps in giving up mundane attachments and in begetting good children.)"
+      id: "33", slug: "verse-31", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 31",
+      start: "19:25.92", end: "19:56",
+      mantra: "Akroshanto nirasha\n" +
+        "bhaya-bhara-vivasha-\n" +
+        "svashayachchinna-darpa\n" +
+        "vashanto desha-nasha\n" +
+        "sviti bata ku-dhiyam\n" +
+        "nashamasha dasha.ashu |\n" +
+        "dhavanto..ashlila-shila\n" +
+        "vitatha-shapatha-sha\n" +
+        "pashivah shantashauryah\n" +
+        "tvad-vyakhya-simha-nade\n" +
+        "sapadi dadrushire\n" +
+        "mayi-gomayavaste || 31 ||"
     },
     {
-      id: "39", slug: "verse-37", group: "Madhva-avatāra · verses 29–40",
-      title: "Verse 37 · asta-vyastaṃ samasta",
-      mantra:
-        "asta — vyastam — samasta — śruti — gatam — adhamaiḥ — ratna — pūgam — yathā — andhaiḥ\n" +
-        "artham — loka — upakṛtyai — guṇa — gaṇa — nilayaḥ — sūtrayāmāsa — kṛtsnam\n" +
-        "yaḥ — asau — vyāsa — abhidhānaḥ — tam — aham — ahar — ahaḥ — bhaktitaḥ — tvat — prasādāt\n" +
-        "sadyaḥ — vidyā — upalabdhyai — gurutamam — agurum — deva — devam — namāmi || 37 ||",
-      meaning:
-        "The meaning contained in all the śrutis had been strewn about and scattered by the unworthy, as a heap of gems is scattered by the blind. He, the abode of all perfections, bearing the name Vyāsa, threaded it whole into the Sūtras (the Brahmasūtras) for the benefit of the world. To Him — the greatest of gurus who Himself has no guru (aguru), the God of gods — I bow day after day with devotion, by your grace, O Vāyu, for the swift attainment of true knowledge. — Just as the blind cannot tell jewels from stones, the righteous had been led astray by works hostile to Śrī Hari; so Śrī Hari as Sage Vedavyāsa gave us the supreme knowledge. As He resides in you, the highest of souls (Jīvottama), and is your only Guru, we bow daily to obtain that knowledge. (Phala-śruti: this śloka helps one recover from losses.)"
+      id: "34", slug: "verse-32", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 32",
+      start: "19:56", end: "20:26.4",
+      mantra: "Trishvapyevavatare-\n" +
+        "shvaribhirapa-ghrrinam\n" +
+        "himsito nirvikarah\n" +
+        "sarva-jnah sarva-shaktih\n" +
+        "sakala-guna-gana\n" +
+        "purna rupa-pragalbhah |\n" +
+        "svachchah svachchanda mrutyuh\n" +
+        "sukhayasi sujanam\n" +
+        "deva kim chitramatra\n" +
+        "trata yasya tri-dhama\n" +
+        "jagaduta vasha-gam\n" +
+        "kinkarah shankaradyah || 32 ||"
     },
     {
-      id: "40", slug: "verse-38", group: "Madhva-avatāra · verses 29–40",
-      title: "Verse 38 · ājñām anyair adhāryāṃ",
-      mantra:
-        "ājñām — anyaiḥ — adhāryām — śirasi — parisarat — raśmi — koṭīra — koṭau\n" +
-        "kṛṣṇasya — akliṣṭa — karmā — dadhat — anusaraṇāt — arthitaḥ — deva — saṅghaiḥ\n" +
-        "bhūmau — āgatya — bhūman — asukaram — akaroḥ — brahma — sūtrasya — bhāṣyam\n" +
-        "durbhāṣyam — vyasya — dasyoḥ — maṇimataḥ — uditam — veda — sat — yuktibhiḥ — tvam || 38 ||",
-      meaning:
-        "O mighty one (bhūman)! Bearing upon your head — on the crest of your crown with its spreading rays — the command of Kṛṣṇa (Vyāsa) which none other could carry, you of unwearied action, entreated by the hosts of gods who followed you, came to the earth and accomplished what is so hard to do: you composed the Bhāṣya on the Brahmasūtra, demolishing with the Vedas' own sound arguments the corrupt commentary (durbhāṣya) put forth by the bandit Maṇimat. — Ācārya, you are the fountainhead of knowledge, able to carry out any task however difficult; at the prayers of all the gods and under Śrī Hari's instruction you came to this world, destroyed the blasphemous works of Maṇimanta, and wrote the true Brahmasūtra-bhāṣya. (Phala-śruti: this śloka helps one earn wealth.)"
+      id: "35", slug: "verse-33", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 33",
+      start: "20:26.4", end: "20:57.48",
+      mantra: "Udyanmanda-smita shri-\n" +
+        "mrudu madhu-madhura-\n" +
+        "lapa-piyusha-dhara-\n" +
+        "purasekopashanta-\n" +
+        "sukha-sujana mano-\n" +
+        "lochana piyamanam |\n" +
+        "sandrakshye sundaram\n" +
+        "sanduhadiha mahada-\n" +
+        "nanda mananda-tirtha\n" +
+        "shrimad-vaktendru bimbam\n" +
+        "durita-nududitam\n" +
+        "nityadaham kadanu || 33 ||"
     },
     {
-      id: "41", slug: "verse-39", group: "Madhva-avatāra · verses 29–40",
-      title: "Verse 39 · bhūtvā kṣetre viśuddhe",
-      mantra:
-        "bhūtvā — kṣetre — viśuddhe — dvija — gaṇa — nilaye — raupya — pīṭha — abhidhāne\n" +
-        "tatra — api — brahma — jātiḥ — tribhuvana — viśade — madhyageha — ākhya — gehe\n" +
-        "pārivrājya — adhirājaḥ — punaḥ — api — badarīm — prāpya — kṛṣṇam — ca — natvā\n" +
-        "kṛtvā — bhāṣyāṇi — samyak — vyatanuta — ca — bhavān — bhārata — artha — prakāśam || 39 ||",
-      meaning:
-        "Taking birth in the pure kṣetra called Raupya-pīṭha (the Udupi region), home of hosts of brāhmaṇas — and there too as a brāhmaṇa, in the house famed through the three worlds as Madhyageha — you, the sovereign king of sannyāsins (pārivrājyādhirāja), went again to Badarī, bowed to Kṛṣṇa (Veda Vyāsa), composed the Bhāṣyas rightly, and spread abroad the light of the true meaning of the Bhārata. — Ācārya, you came to this world as a brāhmaṇa in the Madhyageha family at Rajatapīṭha (Pājaka, near Udupi); at a young age you visited Badarikāśrama, gained knowledge from Sage Veda Vyāsa, took sannyāsa, wrote the commentaries on the Brahmasūtra and Upaniṣads, and composed the correct analysis of the Mahābhārata (Tātparya-nirṇaya). (Phala-śruti: this śloka brings gains through one's children.)"
+      id: "36", slug: "verse-34", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 34",
+      start: "20:57.48", end: "21:32.24",
+      mantra: "Prachinachirna-punyo-\n" +
+        "Chchaya-chatura-tara\n" +
+        "Charatashcharu-chittan\n" +
+        "atyuchcham rochayamtim\n" +
+        "shruti-chita-vachanam-\n" +
+        "shravakamshchodya-chumchun |\n" +
+        "vyakhyamut-khata-duhkham\n" +
+        "chiramuchita-maha-\n" +
+        "charya chinta-ratamste\n" +
+        "chitram sachchastra-karta-\n" +
+        "shcharana-paricharam\n" +
+        "chravayasmamshcha kinchit || 34 ||"
     },
     {
-      id: "42", slug: "verse-40", group: "Madhva-avatāra · verses 29–40",
-      title: "Verse 40 · vande taṃ tvāṃ",
-      mantra:
-        "vande — tam — tvām — su — pūrṇa — pramatim — anudina — āsevitam — deva — vṛndaiḥ\n" +
-        "vande — vandārum — īśe — śriyaḥ — uta — niyatam — śrīmat — ānandatīrtham\n" +
-        "vande — mandākinī — sat — sarit — amala — jala — āseka — sa — ādhikya — saṅgam\n" +
-        "vande — aham — deva — bhaktyā — bhava — bhaya — dahanam — sajjanān — modayantam || 40 ||",
-      meaning:
-        "I bow to you, whose wisdom is completely full (supūrṇa-pramati), served day after day by the hosts of gods. I bow to Śrīmad Ānandatīrtha, who himself bows constantly to the Lord (Īśa) and to Śrī (Lakṣmī). I bow to him whose association surpasses even the sprinkling of the pure waters of the Mandākinī, best of rivers (in its power to purify). I bow, O Deva, with devotion, to him who burns away the fear of saṃsāra and fills the good with joy. — Vāyudeva, all the gods pray to you in your avatāras of Hanumān, Bhīma and Ānandatīrtha. Fountainhead of knowledge, release us from the bondage of life and death, ignorance and blasphemy; we pray also to your consort, the venerable Bhāratī Devī, custodian of the Vedas — may association with you and your thought set us on the path to Mokṣa. (Phala-śruti: this śloka overcomes the ill effects of planets in one's horoscope and overcomes harassment.)"
+      id: "37", slug: "verse-35", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 35",
+      start: "21:32.24", end: "22:02.2",
+      mantra: "Pithe ratnokapaklrripte\n" +
+        "Ruchira-ruchi-mani-\n" +
+        "jyotisha sannishannam\n" +
+        "brahmanam bhavinam tvam\n" +
+        "jvalati nijapade\n" +
+        "vaidikadya hi vidyah |\n" +
+        "sevante murtimatyah\n" +
+        "sucharita charitam\n" +
+        "bhati gandharva-gitam\n" +
+        "pratyekam deva-samsat-\n" +
+        "svapi tava bhaghavan\n" +
+        "nartita-ddyo-vadhushu || 35 ||"
     },
-
-    // ===================== PHALA ŚRUTI =====================
     {
-      id: "43", slug: "verse-41", group: "Phala Śruti · verse 41",
-      title: "Verse 41 · subrahmaṇyākhya-sūreḥ (Phala Śruti)",
-      mantra:
-        "subrahmaṇya — ākhya — sūreḥ — sutaḥ — iti — su — bhṛśam — keśava — ānandatīrtha —\n" +
-        "śrīmat — pāda — abja — bhaktaḥ — stutim — akṛta — hareḥ — vāyu — devasya — ca — asya\n" +
-        "tat — pāda — arcā — ādareṇa — grathita — pada — lasat — mālayā — tu — etayā — ye\n" +
-        "saṃrādhya — amū — namanti — pratatam — ati — guṇāḥ — muktim — ete — vrajanti || 41 ||\n" +
-        "\n" +
-        "[Then the Nakha Stuti is recited once more:]\n" +
-        "\n" +
-        "pāntu — asmān — puruhūta — vairi — balavat — mātaṅga — mādyat — ghaṭā —\n" +
-        "kumbha — ucca — adri — vipāṭana — adhika — paṭu — pratyeka — vajrāyitāḥ\n" +
-        "śrīmat — kaṇṭhīrava — āsya — pratata — su — nakharāḥ — dārita — ārāti — dūra —\n" +
-        "pradhvasta — dhvānta — śānta — pravitata — manasā — bhāvitāḥ — nāki — vṛndaiḥ\n" +
-        "\n" +
-        "lakṣmī — kānta — samantataḥ — api — kalayan — na — eva — īśituḥ — te — samam\n" +
-        "paśyāmi — uttama — vastu — dūratarataḥ — apāstam — rasaḥ — yaḥ — aṣṭamaḥ\n" +
-        "yat — roṣa — utkara — dakṣa — netra — kuṭila — prānta — utthita — agni — sphurat —\n" +
-        "khadyota — upama — visphuliṅga — bhasitāḥ — brahma — īśa — śakra — utkarāḥ\n" +
-        "\n" +
-        "|| iti kavi-kula-tilaka-śrī-trivikrama-paṇḍitācārya-viracitā vāyu-stutiḥ sampūrṇā ||",
-      meaning:
-        "He who is known as the son of the sage Subrahmaṇya (Trivikrama Paṇḍita), an intense devotee of the glorious lotus feet of Keśava and of Ānandatīrtha, composed this stuti of Hari and of this Vāyu-deva. Those who, out of reverence for the worship of their feet, constantly bow to those two adorable ones with this shining garland woven of words, become endowed with great virtues and go to Mukti. — The son of Subrahmaṇya Paṇḍita, Śrī Trivikrama Paṇḍita, addressed this lyrical poem to Śrī Hari in His forms of Rāma, Kṛṣṇa and Veda Vyāsa, and to Śrī Vāyu in his three avatāras — Hanumanta, Bhīmasena and Ānandatīrtha. Those who read it daily, praising both Hari and Vāyu, are freed from mundane attachments and quickly take the path towards Mokṣa.",
-      action:
-        "After this verse the two Nakha Stuti verses are traditionally recited once more to close the stotra — in the closing recitation the first verse ends 'bhāvitā nāki-vṛndaiḥ' ('meditated upon by the hosts of the gods') in place of 'bhāvitā bhūri-bhāgaiḥ'."
-    }
-
+      id: "38", slug: "verse-36", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 36",
+      start: "22:02.2", end: "22:34",
+      mantra: "Sanukroshairajasram\n" +
+        "Jani-mrriti-niraya-\n" +
+        "dyurmi-malavile..asmin\n" +
+        "samsarabdhau nimagnam-\n" +
+        "chcharana-masharanan\n" +
+        "ichchato vikshya jantun |\n" +
+        "yushmabhih prrathitah san\n" +
+        "jalanidhi-shayanah\n" +
+        "satyavatyam maharsheh\n" +
+        "vyaktashchinmatra-murti-\n" +
+        "na khalu bhagavatah\n" +
+        "prakrrito jatu dehah || 36 ||"
+    },
+    {
+      id: "39", slug: "verse-37", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 37",
+      start: "22:34", end: "23:06.92",
+      mantra: "Asta-vyastam samasta-\n" +
+        "Shruti-gatamadhamaih\n" +
+        "Ratna-pugam yathamdhaih-\n" +
+        "artham lokopakrutyaih\n" +
+        "guna-gana-nilayah\n" +
+        "sutrayamasa krutsnam |\n" +
+        "yo...asau vyasabhidhana-\n" +
+        "stamahamaharahah\n" +
+        "bhaktitastvat-prasadat\n" +
+        "sadyo vidyopalabdhyai\n" +
+        "oJnanaGa\n" +
+        "deva-devam namami || 37 ||"
+    },
+    {
+      id: "40", slug: "verse-38", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 38",
+      start: "23:06.92", end: "23:36.64",
+      mantra: "Ajnyamanyairadharyam\n" +
+        "shirasi pari-sarad-\n" +
+        "rashmi-kotira-kotau |\n" +
+        "krishnasyaklishta-karma\n" +
+        "dadhadanu-sarana-\n" +
+        "darthito deva-sanghaih |\n" +
+        "bhumavagatya bhuman-\n" +
+        "nasukaramakaror-\n" +
+        "brahma-sutrasya bhashyam\n" +
+        "durbhashyam vyasya dasyor-\n" +
+        "manimata uditam\n" +
+        "veda-sad-yuktibhistvam || 38 ||"
+    },
+    {
+      id: "41", slug: "verse-39", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 39",
+      start: "23:36.64", end: "24:07.08",
+      mantra: "Bhutvakshetre vishuddhe\n" +
+        "dvija-gana-nilaye\n" +
+        "rupya-pithabhidhane\n" +
+        "tatrapi brahmajati-\n" +
+        "stri-bhuvana-vishade\n" +
+        "madhyagehakhya-gehe |\n" +
+        "pari-vrajyadhi rajah\n" +
+        "punarapi badarim\n" +
+        "prapya krishnam cha natva\n" +
+        "krutva bhashyani samyak\n" +
+        "vyatanuta cha bhavan\n" +
+        "bharatarthaprakasham || 39 ||"
+    },
+    {
+      id: "42", slug: "verse-40", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 40",
+      start: "24:07.08", end: "24:35.04",
+      mantra: "Vande tam tvam supurna-\n" +
+        "Pramati-manudina-\n" +
+        "sevitam deva-vrundaih\n" +
+        "vande vandarumishe\n" +
+        "shriya uta niyatam\n" +
+        "shrimadananda-tirtham |\n" +
+        "vande mandakini-sat\n" +
+        "saridamala-jala-\n" +
+        "seka-sadhikya-sangam\n" +
+        "vande..aham deva bhaktya\n" +
+        "bhava-bhaya-dahanam\n" +
+        "sajjananmodayantam || 40 ||"
+    },
+    {
+      id: "43", slug: "verse-41", group: "Śrī Hari Vāyu Stuti",
+      title: "Hari Vāyu Stuti · Verse 41",
+      start: "24:35.04", end: "25:05.16",
+      mantra: "Subrahmanyakhya-sureh\n" +
+        "suta iti subhrrisham\n" +
+        "keshavananda-tirtha\n" +
+        "shrimat-padabja-bhaktah\n" +
+        "stutimakruta harer-\n" +
+        "vayudevasya chasya |\n" +
+        "tvatpadarchadarena\n" +
+        "grathita-pada-lasan-\n" +
+        "malaya tvetaya ye\n" +
+        "samradhyamu namanti\n" +
+        "pratata-mati-guna\n" +
+        "mukti mete vrajamti || 41 ||"
+    },
   ]
 });
 
@@ -4410,6 +4569,7 @@
   var list = document.getElementById('list');
   var search = document.getElementById('search');
   var countEl = document.getElementById('count');
+  var noticeEl = document.getElementById('guide-notice');
   var titleEl = document.getElementById('h-title');
   var srcA = document.getElementById('h-src');
   var subEl = document.getElementById('h-sub');
@@ -4421,7 +4581,7 @@
   var pt = document.getElementById('pt');
   var seek = document.getElementById('seek');
   var tt = document.getElementById('tt');
-  var speedBtn = document.getElementById('speed');
+  var speedsEl = document.getElementById('speeds');
 
   // ---- helpers ----
   function toSec(mmss) { var p = mmss.split(':'); return (+p[0]) * 60 + (+p[1]); }
@@ -4471,8 +4631,7 @@
   // ---- per-guide state ----
   var guide, secs, cards, current = -1;
   var curP = null; // current time-of-day period (for guides with s.periods)
-  var speeds = [1, 0.75, 0.5, 1.25, 1.5];
-  var si = 0;
+  var rate = 1;
   var seeking = false;
 
   // ---- tabs ----
@@ -4505,6 +4664,8 @@
     srcA.href = guide.source;
     srcA.textContent = guide.sourceLabel || 'YouTube';
     search.value = '';
+    search.placeholder = guide.searchPlaceholder || 'Search a step (e.g. Śaṅkha, abhiṣeka, naivedya)…';
+    noticeEl.hidden = !!guide.hideNotice;
     buildPeriodBar();
     buildList();
   }
@@ -4524,7 +4685,8 @@
       var rs = resolve(s);
       var mantra = subst(rs.mantra), meaning = subst(rs.meaning),
           action = subst(rs.action), contemplate = subst(rs.contemplate),
-          skt = subst(rs.sanskrit), title = subst(rs.title);
+          skt = subst(rs.sanskrit), devanagari = subst(rs.devanagari),
+          title = subst(rs.title);
       var hasAudio = s.audio ? true : !guide.noAudio;
       var ytLink = (hasAudio && s.start) ? guide.source + '&t=' + toSec(s.start) + 's' : '';
       var timeHtml = s.start ? ('<div class="time">⏱ ' + s.start + '–' + s.end + '</div>')
@@ -4532,7 +4694,7 @@
       var card = document.createElement('article');
       card.className = 'card';
       card.id = 'sec-' + s.id;
-      card.dataset.search = (title + ' ' + (skt || '') + ' ' + meaning + ' ' +
+      card.dataset.search = (title + ' ' + (skt || '') + ' ' + mantra + ' ' + devanagari + ' ' + meaning + ' ' +
         (contemplate || '') + ' ' + (action || '')).toLowerCase();
       card.innerHTML =
         '<div class="top">' +
@@ -4547,16 +4709,21 @@
           '</div>' +
           (hasAudio ? '<button class="playbtn" data-idx="' + i + '"><span class="ico">▶</span> Play</button>' : '') +
         '</div>' +
-        (mantra ? '<div class="mantra">' + esc(mantra) + '</div>' : '') +
-        '<div class="explain' + ((contemplate || action) ? ' has-rahasya' : '') + '">' +
-          '<div class="meaning"><span class="lbl">Meaning</span>' + esc(meaning) + '</div>' +
-          ((contemplate || action)
-            ? '<div class="rahasya">' +
-                (contemplate ? '<div class="blk"><span class="lbl lbl-c">Contemplate</span>' + esc(contemplate) + '</div>' : '') +
-                (action ? '<div class="blk"><span class="lbl lbl-a">Action</span>' + esc(action) + '</div>' : '') +
-              '</div>'
-            : '') +
-        '</div>' +
+        (mantra ? '<div class="mantra">' +
+          (guide.mantraLabel ? '<span class="lbl">' + esc(guide.mantraLabel) + '</span>' : '') +
+          esc(mantra) + '</div>' : '') +
+        (devanagari ? '<div class="devanagari"><span class="lbl">Sanskrit</span>' + esc(devanagari) + '</div>' : '') +
+        ((meaning || contemplate || action)
+          ? '<div class="explain' + ((contemplate || action) ? ' has-rahasya' : '') + '">' +
+              (meaning ? '<div class="meaning"><span class="lbl">Meaning</span>' + esc(meaning) + '</div>' : '') +
+              ((contemplate || action)
+                ? '<div class="rahasya">' +
+                    (contemplate ? '<div class="blk"><span class="lbl lbl-c">Contemplate</span>' + esc(contemplate) + '</div>' : '') +
+                    (action ? '<div class="blk"><span class="lbl lbl-a">Action</span>' + esc(action) + '</div>' : '') +
+                  '</div>'
+                : '') +
+            '</div>'
+          : '') +
         (s.html || '') +
         (ytLink ? '<div class="yt"><a href="' + ytLink + '" target="_blank" rel="noopener">▶ Watch this step on YouTube ↗</a></div>' : '');
       if (hasAudio) card.__audio = guide.audioDir + '/' + s.id + '-' + s.slug + '.mp3';
@@ -4595,7 +4762,7 @@
     current = idx;
     var c = cards[idx], s = secs[idx];
     audio.src = c.__audio;
-    audio.playbackRate = speeds[si];
+    audio.playbackRate = rate;
     pt.textContent = s.id + ' · ' + s.title;
     player.classList.add('show');
     cards.forEach(function (x) { x.classList.remove('playing'); });
@@ -4622,10 +4789,14 @@
   pp.addEventListener('click', toggle);
   document.getElementById('prev').addEventListener('click', function () { load(current - 1); });
   document.getElementById('next').addEventListener('click', function () { load(current + 1); });
-  speedBtn.addEventListener('click', function () {
-    si = (si + 1) % speeds.length;
-    audio.playbackRate = speeds[si];
-    speedBtn.textContent = speeds[si] + '×';
+  speedsEl.addEventListener('click', function (e) {
+    var b = e.target.closest('.spd');
+    if (!b) return;
+    rate = parseFloat(b.dataset.rate);
+    audio.playbackRate = rate;
+    Array.prototype.forEach.call(speedsEl.children, function (x) {
+      x.classList.toggle('is-on', x === b);
+    });
   });
 
   audio.addEventListener('play', syncBtns);
