@@ -124,6 +124,19 @@
     border-radius:8px;
   }
   .devanagari .lbl{font-family:'Inter',sans-serif}
+  .caption-ref{
+    margin:10px 0 4px;border:1px solid #d9cfbf;border-radius:8px;
+    background:#f7f5ef;overflow:hidden;
+  }
+  .caption-ref summary{
+    cursor:pointer;padding:11px 14px;color:#655744;font-size:12px;
+    font-weight:650;letter-spacing:.04em;
+  }
+  .caption-ref[open] summary{border-bottom:1px solid #d9cfbf}
+  .caption-ref .devanagari{
+    margin:0;border:0;border-radius:0;background:#fffdf8;
+    font-size:16px;line-height:1.75;
+  }
   .explain{margin:14px 0 2px}
   .explain.has-rahasya{display:flex;gap:16px;align-items:stretch}
   .meaning{font-size:15px;color:#3c2f23}
@@ -299,7 +312,6 @@
 <script src="data5.js"></script>
 <script src="data6.js"></script>
 <script src="data7.js"></script>
-<script src="data8.js"></script>
 <script src="data10.js"></script>
 <script src="app.js"></script>
 </body>
