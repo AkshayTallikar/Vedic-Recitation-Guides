@@ -151,7 +151,15 @@
         (mantra ? '<div class="mantra">' +
           (guide.mantraLabel ? '<span class="lbl">' + esc(guide.mantraLabel) + '</span>' : '') +
           esc(mantra) + '</div>' : '') +
-        (devanagari ? '<div class="devanagari"><span class="lbl">Sanskrit</span>' + esc(devanagari) + '</div>' : '') +
+        (devanagari
+          ? (guide.collapseDevanagari
+              ? '<details class="caption-ref"><summary>' +
+                  esc(guide.devanagariLabel || 'Secondary transcription') +
+                '</summary><div class="devanagari">' + esc(devanagari) + '</div></details>'
+              : '<div class="devanagari"><span class="lbl">' +
+                  esc(guide.devanagariLabel || 'Sanskrit') +
+                '</span>' + esc(devanagari) + '</div>')
+          : '') +
         ((meaning || contemplate || action)
           ? '<div class="explain' + ((contemplate || action) ? ' has-rahasya' : '') + '">' +
               (meaning ? '<div class="meaning"><span class="lbl">Meaning</span>' + esc(meaning) + '</div>' : '') +
