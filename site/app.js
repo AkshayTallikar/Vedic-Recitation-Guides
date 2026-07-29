@@ -165,7 +165,7 @@
           : '') +
         (s.html || '') +
         (ytLink ? '<div class="yt"><a href="' + ytLink + '" target="_blank" rel="noopener">▶ Watch this step on YouTube ↗</a></div>' : '');
-      if (hasAudio) card.__audio = guide.audioDir + '/' + s.id + '-' + s.slug + '.mp3';
+      if (hasAudio) card.__audio = s.audioFile || (guide.audioDir + '/' + s.id + '-' + s.slug + '.mp3');
       list.appendChild(card);
       cards.push(card);
     });
