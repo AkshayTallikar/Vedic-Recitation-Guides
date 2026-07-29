@@ -125,6 +125,8 @@
       var mantra = subst(rs.mantra), meaning = subst(rs.meaning),
           action = subst(rs.action), contemplate = subst(rs.contemplate),
           skt = subst(rs.sanskrit), devanagari = subst(rs.devanagari),
+          originalScript = subst(rs.originalScript),
+          captionOriginal = subst(rs.captionOriginal),
           title = subst(rs.title);
       var hasAudio = s.audio ? true : !guide.noAudio;
       var ytLink = (hasAudio && s.start) ? guide.source + '&t=' + toSec(s.start) + 's' : '';
@@ -133,7 +135,8 @@
       var card = document.createElement('article');
       card.className = 'card';
       card.id = 'sec-' + s.id;
-      card.dataset.search = (title + ' ' + (skt || '') + ' ' + mantra + ' ' + devanagari + ' ' + meaning + ' ' +
+      card.dataset.search = (title + ' ' + (skt || '') + ' ' + mantra + ' ' +
+        originalScript + ' ' + devanagari + ' ' + captionOriginal + ' ' + meaning + ' ' +
         (contemplate || '') + ' ' + (action || '')).toLowerCase();
       card.innerHTML =
         '<div class="top">' +
@@ -151,6 +154,11 @@
         (mantra ? '<div class="mantra">' +
           (guide.mantraLabel ? '<span class="lbl">' + esc(guide.mantraLabel) + '</span>' : '') +
           esc(mantra) + '</div>' : '') +
+        (originalScript
+          ? '<details class="caption-ref script-ref"><summary>' +
+              esc(guide.originalScriptLabel || 'Exact original transcription') +
+            '</summary><div class="devanagari">' + esc(originalScript) + '</div></details>'
+          : '') +
         (devanagari
           ? (guide.collapseDevanagari
               ? '<details class="caption-ref"><summary>' +
@@ -159,6 +167,11 @@
               : '<div class="devanagari"><span class="lbl">' +
                   esc(guide.devanagariLabel || 'Sanskrit') +
                 '</span>' + esc(devanagari) + '</div>')
+          : '') +
+        (captionOriginal
+          ? '<details class="caption-ref"><summary>' +
+              esc(guide.captionOriginalLabel || 'Exact original captions') +
+            '</summary><div class="devanagari">' + esc(captionOriginal) + '</div></details>'
           : '') +
         ((meaning || contemplate || action)
           ? '<div class="explain' + ((contemplate || action) ? ' has-rahasya' : '') + '">' +
