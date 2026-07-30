@@ -37,6 +37,29 @@
     if (!curP) return t;
     return t.replace(/\{p\}/g, curP.word).replace(/\{pe\}/g, curP.en);
   }
+  function structuredTranscriptHtml(blocks, guide) {
+    if (!blocks || !blocks.length) return '';
+    var html = '<div class="guided-flow">';
+    blocks.forEach(function (block) {
+      if (block.kind === 'action') {
+        html += '<div class="guided-block action-block">' +
+          '<span class="lbl">' + esc(guide.structuredActionLabel || 'Action · English') + '</span>' +
+          '<div class="action-english">' + esc(block.english || '') + '</div>' +
+          (block.sourceRoman
+            ? '<details class="spoken-source"><summary>' +
+                esc(guide.structuredSourceLabel || 'Original spoken source') +
+              '</summary><div>' + esc(block.sourceRoman) + '</div></details>'
+            : '') +
+          '</div>';
+      } else {
+        html += '<div class="guided-block recitation-block">' +
+          '<span class="lbl">' + esc(guide.structuredMantraLabel || 'Sanskrit recitation') + '</span>' +
+          '<div>' + esc(block.text || '') + '</div>' +
+          '</div>';
+      }
+    });
+    return html + '</div>';
+  }
   // Overlay the current period's overrides onto a section, then run token subst.
   function resolve(s) {
     var r = s, k;
@@ -127,7 +150,12 @@
           skt = subst(rs.sanskrit), devanagari = subst(rs.devanagari),
           originalScript = subst(rs.originalScript),
           captionOriginal = subst(rs.captionOriginal),
+          structuredBlocks = rs.structuredBlocks || [],
           title = subst(rs.title);
+      var structuredSearch = structuredBlocks.map(function (block) {
+        return (block.text || '') + ' ' + (block.english || '') + ' ' +
+          (block.sourceRoman || '') + ' ' + (block.sourceOriginal || '');
+      }).join(' ');
       var hasAudio = s.audio ? true : !guide.noAudio;
       var ytLink = (hasAudio && s.start) ? guide.source + '&t=' + toSec(s.start) + 's' : '';
       var timeHtml = s.start ? ('<div class="time">⏱ ' + s.start + '–' + s.end + '</div>')
@@ -136,7 +164,8 @@
       card.className = 'card';
       card.id = 'sec-' + s.id;
       card.dataset.search = (title + ' ' + (skt || '') + ' ' + mantra + ' ' +
-        originalScript + ' ' + devanagari + ' ' + captionOriginal + ' ' + meaning + ' ' +
+        originalScript + ' ' + devanagari + ' ' + captionOriginal + ' ' +
+        structuredSearch + ' ' + meaning + ' ' +
         (contemplate || '') + ' ' + (action || '')).toLowerCase();
       card.innerHTML =
         '<div class="top">' +
@@ -151,9 +180,16 @@
           '</div>' +
           (hasAudio ? '<button class="playbtn" data-idx="' + i + '"><span class="ico">▶</span> Play</button>' : '') +
         '</div>' +
-        (mantra ? '<div class="mantra">' +
-          (guide.mantraLabel ? '<span class="lbl">' + esc(guide.mantraLabel) + '</span>' : '') +
-          esc(mantra) + '</div>' : '') +
+        structuredTranscriptHtml(structuredBlocks, guide) +
+        (mantra
+          ? (structuredBlocks.length
+              ? '<details class="caption-ref lossless-roman"><summary>' +
+                  esc(guide.mantraLabel || 'Complete untouched Roman transcript') +
+                '</summary><div class="mantra">' + esc(mantra) + '</div></details>'
+              : '<div class="mantra">' +
+                  (guide.mantraLabel ? '<span class="lbl">' + esc(guide.mantraLabel) + '</span>' : '') +
+                  esc(mantra) + '</div>')
+          : '') +
         (originalScript
           ? '<details class="caption-ref script-ref"><summary>' +
               esc(guide.originalScriptLabel || 'Exact original transcription') +

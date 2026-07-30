@@ -137,6 +137,39 @@
     margin:0;border:0;border-radius:0;background:#fffdf8;
     font-size:16px;line-height:1.75;
   }
+  .guided-flow{
+    display:flex;flex-direction:column;gap:14px;margin:18px 0 8px;
+  }
+  .guided-block{
+    padding:15px 18px;border-radius:9px;
+  }
+  .recitation-block{
+    font-family:'Noto Serif',serif;color:var(--mantra);font-size:18px;
+    line-height:1.9;white-space:pre-wrap;
+    background:linear-gradient(#fffaf2,#fdf4e7);
+    border-left:3px solid var(--gold);
+  }
+  .recitation-block .lbl{font-family:'Inter',sans-serif}
+  .action-block{
+    color:#302820;font-size:15px;line-height:1.65;
+    background:#f7f5ef;border-left:3px solid #7d6a50;
+  }
+  .action-english{font-weight:520}
+  .spoken-source{
+    margin-top:9px;padding-top:8px;border-top:1px solid #d9cfbf;
+    color:#6b5b48;font-size:13px;
+  }
+  .spoken-source summary{
+    cursor:pointer;font-size:11px;font-weight:650;letter-spacing:.06em;
+    text-transform:uppercase;
+  }
+  .spoken-source div{
+    margin-top:7px;font-family:'Noto Serif',serif;line-height:1.65;
+  }
+  .lossless-roman .mantra{
+    margin:0;border:0;border-radius:0;background:#fffaf2;
+    font-size:16px;
+  }
   .explain{margin:14px 0 2px}
   .explain.has-rahasya{display:flex;gap:16px;align-items:stretch}
   .meaning{font-size:15px;color:#3c2f23}
@@ -221,6 +254,8 @@
     .hero h1{font-size:24px}
     .mantra{font-size:16.5px;padding:12px 14px}
     .devanagari{font-size:17px;padding:12px 14px}
+    .guided-block{padding:13px 14px}
+    .recitation-block{font-size:16.5px}
     .explain.has-rahasya{flex-direction:column;gap:12px}
     .player .inner{flex-wrap:wrap;gap:9px 10px;padding:9px 12px}
     .player .nav{order:2}
