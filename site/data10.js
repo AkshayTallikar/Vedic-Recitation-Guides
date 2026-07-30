@@ -67,33 +67,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ॐ नारायणाय परिपूर्णगुणार्णवाय विश्वोदयस्थितिलयान् यतिप्रदाय । ",
-          "text": "ōṁ nārāyaṇāya paripūrṇaguṇārṇavāya viśvōdayasthitilayān yatipradāya |"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ज्ञानप्रदाय विभुधासुरसौख्यदुःखसत्कारणाय वितताय नमो नमस्ते ॥ ",
-          "text": "jñānapradāya vibhudhāsurasaukhyaduḥkhasatkāraṇāya vitatāya namō namastē ||"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "यो विप्रलम्ब विपरीतमतिप्रभूतान् वादान् निरस्य कृतवान् भुवि तत्त्ववादम् । ",
-          "text": "yō vipralamba viparītamatiprabhūtān vādān nirasya kr̥tavān bhuvi tattvavādam |"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "सर्वेश्वरो हरिरिति प्रतिपादयंस्तम् आनन्दतीर्थमुनिवर्यमहं नमामि ॥ ",
-          "text": "sarvēśvarō haririti pratipādayaṁstam ānandatīrthamunivaryamahaṁ namāmi ||"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "तदेव लक्ष्मीं सुदिनं तदेव ताराबलं चन्द्रबलं तदेव । ",
-          "text": "tadēva lakṣmīṁ sudinaṁ tadēva tārābalaṁ candrabalaṁ tadēva |"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "विद्याबलं ದೈವಬಲಂ ತದೇವ ಲಕ್ಷ್ಮೀಪತೇ ತ್ವಂ ಗೃಹೇ ಸ್ಮರಾಮಿ ॥ ",
-          "text": "vidyābalaṁ daivabalaṁ tadēva lakṣmīpatē tvaṁ gr̥hē smarāmi ||"
+          "sourceOriginal": "ॐ नारायणाय परिपूर्णगुणार्णवाय विश्वोदयस्थितिलयान् यतिप्रदाय । ज्ञानप्रदाय विभुधासुरसौख्यदुःखसत्कारणाय वितताय नमो नमस्ते ॥ यो विप्रलम्ब विपरीतमतिप्रभूतान् वादान् निरस्य कृतवान् भुवि तत्त्ववादम् । सर्वेश्वरो हरिरिति प्रतिपादयंस्तम् आनन्दतीर्थमुनिवर्यमहं नमामि ॥ तदेव लक्ष्मीं सुदिनं तदेव ताराबलं चन्द्रबलं तदेव । विद्याबलं ದೈವಬಲಂ ತದೇವ ಲಕ್ಷ್ಮೀಪತೇ ತ್ವಂ ಗೃಹೇ ಸ್ಮರಾಮಿ ॥ ",
+          "text": "ōṁ nārāyaṇāya paripūrṇaguṇārṇavāya viśvōdayasthitilayān yatipradāya | jñānapradāya vibhudhāsurasaukhyaduḥkhasatkāraṇāya vitatāya namō namastē || yō vipralamba viparītamatiprabhūtān vādān nirasya kr̥tavān bhuvi tattvavādam | sarvēśvarō haririti pratipādayaṁstam ānandatīrthamunivaryamahaṁ namāmi || tadēva lakṣmīṁ sudinaṁ tadēva tārābalaṁ candrabalaṁ tadēva | vidyābalaṁ daivabalaṁ tadēva lakṣmīpatē tvaṁ gr̥hē smarāmi ||"
         },
         {
           "kind": "action",
@@ -165,13 +140,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಭೂಃ, ಓಂ ಭುವಃ, ಓಂ ಮಹಃ, ಓಂ ಸ್ವಃ, ಓಂ ಜನಃ, ಓಂ ತಪಃ, ಓಂ ಸತ್ಯಂ, ಓಂ ತತ್ಸವಿತುರ್ವರೇಣ್ಯಂ ಭರ್ಗೋ ದೇವಸ್ಯ ಧೀಮಹಿ ಧಿಯೋ ಯೋ ನಃ ಪ್ರಚೋದಯಾತ್. ",
-          "text": "ōṁ bhūḥ, ōṁ bhuvaḥ, ōṁ mahaḥ, ōṁ svaḥ, ōṁ janaḥ, ōṁ tapaḥ, ōṁ satyaṁ, ōṁ tatsaviturvarēṇyaṁ bhargō dēvasya dhīmahi dhiyō yō naḥ pracōdayāt."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಆಪೋಜ್ಯೋತಿರಸೋ ಅಮೃತಂ ಬ್ರಹ್ಮ ಭೂರ್ಭುವಸ್ಸ್ವರೋಂ. ",
-          "text": "ōṁ āpōjyōtirasō amr̥taṁ brahma bhūrbhuvassvarōṁ."
+          "sourceOriginal": "ಓಂ ಭೂಃ, ಓಂ ಭುವಃ, ಓಂ ಮಹಃ, ಓಂ ಸ್ವಃ, ಓಂ ಜನಃ, ಓಂ ತಪಃ, ಓಂ ಸತ್ಯಂ, ಓಂ ತತ್ಸವಿತುರ್ವರೇಣ್ಯಂ ಭರ್ಗೋ ದೇವಸ್ಯ ಧೀಮಹಿ ಧಿಯೋ ಯೋ ನಃ ಪ್ರಚೋದಯಾತ್. ಓಂ ಆಪೋಜ್ಯೋತಿರಸೋ ಅಮೃತಂ ಬ್ರಹ್ಮ ಭೂರ್ಭುವಸ್ಸ್ವರೋಂ. ",
+          "text": "ōṁ bhūḥ, ōṁ bhuvaḥ, ōṁ mahaḥ, ōṁ svaḥ, ōṁ janaḥ, ōṁ tapaḥ, ōṁ satyaṁ, ōṁ tatsaviturvarēṇyaṁ bhargō dēvasya dhīmahi dhiyō yō naḥ pracōdayāt. ōṁ āpōjyōtirasō amr̥taṁ brahma bhūrbhuvassvarōṁ."
         },
         {
           "kind": "action",
@@ -205,13 +175,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಶುಭೇ ಶೋಭನೇ ಮುಹೂರ್ತೇ ಆದ್ಯ ಬ್ರಹ್ಮಣಃ ದ್ವಿತೀಯ ಪರಾರ್ಧೇ, ಶ್ರೀಶ್ವೇತವರಾಹಕಲ್ಪೇ ವೈವಸ್ವತ ಮನ್ವಂತರೇ, ಕಲಿಯುಗೇ ಪ್ರಥಮಪಾದೇ ಭರತವರ್ಷೇ ಭರತಖಂಡೇ. ",
-          "text": "śubhē śōbhanē muhūrtē ādya brahmaṇaḥ dvitīya parārdhē, śrīśvētavarāhakalpē vaivasvata manvaṁtarē, kaliyugē prathamapādē bharatavarṣē bharatakhaṁḍē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಜಂಬೂದ್ವೀಪೇ ದಂಡಕಾರಣ್ಯ ಗೋದಾವರ್ಯಾಃ ದಕ್ಷಿಣೇ ತೀರೇ ಶಾಲೀವಾಹನ ಶಕೇ ಬೌದ್ಧಾವತಾರೇ ರಾಮಕ್ಷೇತ್ರೇ ಅಸ್ಮಿನ್ ವರ್ತಮಾನೇ ಪ್ರಭವಾದಿ ಷಷ್ಟಿ ಸಂವತ್ಸರಾಣಾಂ ಮಧ್ಯೇ. ",
-          "text": "jaṁbūdvīpē daṁḍakāraṇya gōdāvaryāḥ dakṣiṇē tīrē śālīvāhana śakē bauddhāvatārē rāmakṣētrē asmin vartamānē prabhavādi ṣaṣṭi saṁvatsarāṇāṁ madhyē."
+          "sourceOriginal": "ಶುಭೇ ಶೋಭನೇ ಮುಹೂರ್ತೇ ಆದ್ಯ ಬ್ರಹ್ಮಣಃ ದ್ವಿತೀಯ ಪರಾರ್ಧೇ, ಶ್ರೀಶ್ವೇತವರಾಹಕಲ್ಪೇ ವೈವಸ್ವತ ಮನ್ವಂತರೇ, ಕಲಿಯುಗೇ ಪ್ರಥಮಪಾದೇ ಭರತವರ್ಷೇ ಭರತಖಂಡೇ. ಜಂಬೂದ್ವೀಪೇ ದಂಡಕಾರಣ್ಯ ಗೋದಾವರ್ಯಾಃ ದಕ್ಷಿಣೇ ತೀರೇ ಶಾಲೀವಾಹನ ಶಕೇ ಬೌದ್ಧಾವತಾರೇ ರಾಮಕ್ಷೇತ್ರೇ ಅಸ್ಮಿನ್ ವರ್ತಮಾನೇ ಪ್ರಭವಾದಿ ಷಷ್ಟಿ ಸಂವತ್ಸರಾಣಾಂ ಮಧ್ಯೇ. ",
+          "text": "śubhē śōbhanē muhūrtē ādya brahmaṇaḥ dvitīya parārdhē, śrīśvētavarāhakalpē vaivasvata manvaṁtarē, kaliyugē prathamapādē bharatavarṣē bharatakhaṁḍē. jaṁbūdvīpē daṁḍakāraṇya gōdāvaryāḥ dakṣiṇē tīrē śālīvāhana śakē bauddhāvatārē rāmakṣētrē asmin vartamānē prabhavādi ṣaṣṭi saṁvatsarāṇāṁ madhyē."
         },
         {
           "kind": "action",
@@ -313,13 +278,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಅಸ್ಯ ಶ್ರೀ ಪ್ರಾಣಪ್ರತಿಷ್ಠಾ ಮಂತ್ರಸ್ಯ ಬ್ರಹ್ಮಾ ವಿಷ್ಣು ಮಹೇಶ್ವರಾ ಋಷಯಃ, ಋಗ್ಯಜುಸ್ಸಾಮ ಅಥರ್ವಾಣಿ ಛಂದಾಂಸಿ, ಕ್ರಿಯಾವಯವಃ ಪ್ರಾಣಾಖ್ಯ ದೇವತಾ, ಆಂ ಬೀಜಂ ಹ್ರೀಂ ಶಕ್ತಿಃ, ಕ್ರೀಂ ಕ್ರೌಂ ಕೀಲಕಂ, ಅಸ್ಮಿನ್ ಕಲಶೇ ಪ್ರಾಣಪ್ರತಿಷ್ಠಾಪನೇ ವಿನಿಯೋಗಃ. ",
-          "text": "asya śrī prāṇapratiṣṭhā maṁtrasya brahmā viṣṇu mahēśvarā r̥ṣayaḥ, r̥gyajussāma atharvāṇi chaṁdāṁsi, kriyāvayavaḥ prāṇākhya dēvatā, āṁ bījaṁ hrīṁ śaktiḥ, krīṁ krauṁ kīlakaṁ, asmin kalaśē prāṇapratiṣṭhāpanē viniyōgaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಹ್ರಾಂ ಅಂಗುಷ್ಠಾಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೀಂ ತರ್ಜನೀಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೂಂ ಮಧ್ಯಮಾಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೈಂ ಅನಾಮಿಕಾಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೌಂ ಕನಿಷ್ಠಿಕಾಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರಃ ಕರತಲಕರಪೃಷ್ಠಾಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರಾಂ ಹೃದಯಾಯ ನಮಃ, ಓಂ ಹ್ರೀಂ ಶಿರಸೇ ಸ್ವಾಹಾ, ಓಂ ಹ್ರೂಂ ಶಿಖಾಯೈ ವಷಟ್, ಓಂ ಹ್ರೈಂ ಕವಚಾಯ ಹುಂ, ಓಂ ಹ್ರೌಂ ನೇತ್ರಾಭ್ಯಾಂ ಔಷಟ್, ಓಂ ಹ್ರಃ ಅಸ್ತ್ರಾಯ ಫಟ್, ಓಂ ಭೂರ್ಭುವಸ್ಸ್ವರೋಮಿತಿ ದಿಗ್ಬಂಧಃ. ",
-          "text": "ōṁ hrāṁ aṁguṣṭhābhyāṁ namaḥ, ōṁ hrīṁ tarjanībhyāṁ namaḥ, ōṁ hrūṁ madhyamābhyāṁ namaḥ, ōṁ hraiṁ anāmikābhyāṁ namaḥ, ōṁ hrauṁ kaniṣṭhikābhyāṁ namaḥ, ōṁ hraḥ karatalakarapr̥ṣṭhābhyāṁ namaḥ, ōṁ hrāṁ hr̥dayāya namaḥ, ōṁ hrīṁ śirasē svāhā, ōṁ hrūṁ śikhāyai vaṣaṭ, ōṁ hraiṁ kavacāya huṁ, ōṁ hrauṁ nētrābhyāṁ auṣaṭ, ōṁ hraḥ astrāya phaṭ, ōṁ bhūrbhuvassvarōmiti digbaṁdhaḥ."
+          "sourceOriginal": "ಅಸ್ಯ ಶ್ರೀ ಪ್ರಾಣಪ್ರತಿಷ್ಠಾ ಮಂತ್ರಸ್ಯ ಬ್ರಹ್ಮಾ ವಿಷ್ಣು ಮಹೇಶ್ವರಾ ಋಷಯಃ, ಋಗ್ಯಜುಸ್ಸಾಮ ಅಥರ್ವಾಣಿ ಛಂದಾಂಸಿ, ಕ್ರಿಯಾವಯವಃ ಪ್ರಾಣಾಖ್ಯ ದೇವತಾ, ಆಂ ಬೀಜಂ ಹ್ರೀಂ ಶಕ್ತಿಃ, ಕ್ರೀಂ ಕ್ರೌಂ ಕೀಲಕಂ, ಅಸ್ಮಿನ್ ಕಲಶೇ ಪ್ರಾಣಪ್ರತಿಷ್ಠಾಪನೇ ವಿನಿಯೋಗಃ. ಓಂ ಹ್ರಾಂ ಅಂಗುಷ್ಠಾಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೀಂ ತರ್ಜನೀಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೂಂ ಮಧ್ಯಮಾಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೈಂ ಅನಾಮಿಕಾಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೌಂ ಕನಿಷ್ಠಿಕಾಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರಃ ಕರತಲಕರಪೃಷ್ಠಾಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರಾಂ ಹೃದಯಾಯ ನಮಃ, ಓಂ ಹ್ರೀಂ ಶಿರಸೇ ಸ್ವಾಹಾ, ಓಂ ಹ್ರೂಂ ಶಿಖಾಯೈ ವಷಟ್, ಓಂ ಹ್ರೈಂ ಕವಚಾಯ ಹುಂ, ಓಂ ಹ್ರೌಂ ನೇತ್ರಾಭ್ಯಾಂ ಔಷಟ್, ಓಂ ಹ್ರಃ ಅಸ್ತ್ರಾಯ ಫಟ್, ಓಂ ಭೂರ್ಭುವಸ್ಸ್ವರೋಮಿತಿ ದಿಗ್ಬಂಧಃ. ",
+          "text": "asya śrī prāṇapratiṣṭhā maṁtrasya brahmā viṣṇu mahēśvarā r̥ṣayaḥ, r̥gyajussāma atharvāṇi chaṁdāṁsi, kriyāvayavaḥ prāṇākhya dēvatā, āṁ bījaṁ hrīṁ śaktiḥ, krīṁ krauṁ kīlakaṁ, asmin kalaśē prāṇapratiṣṭhāpanē viniyōgaḥ. ōṁ hrāṁ aṁguṣṭhābhyāṁ namaḥ, ōṁ hrīṁ tarjanībhyāṁ namaḥ, ōṁ hrūṁ madhyamābhyāṁ namaḥ, ōṁ hraiṁ anāmikābhyāṁ namaḥ, ōṁ hrauṁ kaniṣṭhikābhyāṁ namaḥ, ōṁ hraḥ karatalakarapr̥ṣṭhābhyāṁ namaḥ, ōṁ hrāṁ hr̥dayāya namaḥ, ōṁ hrīṁ śirasē svāhā, ōṁ hrūṁ śikhāyai vaṣaṭ, ōṁ hraiṁ kavacāya huṁ, ōṁ hrauṁ nētrābhyāṁ auṣaṭ, ōṁ hraḥ astrāya phaṭ, ōṁ bhūrbhuvassvarōmiti digbaṁdhaḥ."
         },
         {
           "kind": "action",
@@ -329,108 +289,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ರಕ್ತಾಂಭೋಧಿಸ್ತವದೋಲ್ಲಸದರುಣಸರೋಜಾಧಿರೂಢಾ ಕರಾಬ್ಜೈಃ, ಪಾಶಂ ಕೋದಂಡಮಿಕ್ಷುದ್ಭವಮಲಿಗಣಮಪ್ಯಂಕುಶಂ ಪಂಚಬಾಣಾನ್, ಭಿಭ್ರಾಣಾಸೃಕ್ಕಪಾಲಂ ತ್ರಿಣಯನವಿಲಸತ್ಪೀತಪೀನವಕ್ಷೋರುಹಾಢ್ಯಾ... ",
-          "text": "raktāṁbhōdhistavadōllasadaruṇasarōjādhirūḍhā karābjaiḥ, pāśaṁ kōdaṁḍamikṣudbhavamaligaṇamapyaṁkuśaṁ paṁcabāṇān, bhibhrāṇāsr̥kkapālaṁ triṇayanavilasatpītapīnavakṣōruhāḍhyā..."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "देवी बालार्कवर्णा भवतु सुखकरी प्राणशक्तिः परा नः। ",
-          "text": "dēvī bālārkavarṇā bhavatu sukhakarī prāṇaśaktiḥ parā naḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ॐ आं ह्रीं क्रौं यं रं वं वं शं सं हं क्षं हं सः सोहं। ",
-          "text": "ōṁ āṁ hrīṁ krauṁ yaṁ raṁ vaṁ vaṁ śaṁ saṁ haṁ kṣaṁ haṁ saḥ sōhaṁ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "अस्या मूर्तौ प्राणाः तिष्ठन्तु। ",
-          "text": "asyā mūrtau prāṇāḥ tiṣṭhantu|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "अस्या मूर्तौ जीव इह स्थितः। ",
-          "text": "asyā mūrtau jīva iha sthitaḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "अस्या मूर्तौ सर्वेन्द्रियाणि, श्रोत्रत्वक् चक्षुर्जिह्वा घ्राणवाक्पाणि पादपायूपस्थानि, इहैव आगत्य सुखं चिरं तिष्ठन्तु स्वाहा। ",
-          "text": "asyā mūrtau sarvēndriyāṇi, śrōtratvak cakṣurjihvā ghrāṇavākpāṇi pādapāyūpasthāni, ihaiva āgatya sukhaṁ ciraṁ tiṣṭhantu svāhā|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ॐ आसो देते पुनरस्मासु चक्षुः पुनः प्राणम् बिहतो देहभोगम्। ",
-          "text": "ōṁ āsō dētē punarasmāsu cakṣuḥ punaḥ prāṇam bihatō dēhabhōgam|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "जोक्पश्चेव सूर्यमुच्चरोऽत पुनर्वते मृडया नः स्वस्ति। ",
-          "text": "jōkpaścēva sūryamuccarō'ta punarvatē mr̥ḍayā naḥ svasti|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ॐ। ",
-          "text": "ōṁ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ॐ पुनर्नो असुं पृथिवी ददातु, पुनर्द्यौर्देवी पुनरन्तरिक्षम्। ",
-          "text": "ōṁ punarnō asuṁ pr̥thivī dadātu, punardyaurdēvī punarantarikṣam|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "पुनः त्वं स्वमस्तन्नो ददातु पुनः पूषा पथ्या आगात् स्वस्ति। ",
-          "text": "punaḥ tvaṁ svamastannō dadātu punaḥ pūṣā pathyā āgāt svasti|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ॐ। ",
-          "text": "ōṁ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ॐ नमो भगवते सकलगुणात्मने सकलसंविताय महायोगपीठस्थिताय, यमुना-अन्तर्गत, यमुनादि सर्वनद्यन्तर्गत वरुणान्तर्गत भारती रमण मुख्यप्राणान्तर्गत जयापते संकर्षणाय नमः। ",
-          "text": "ōṁ namō bhagavatē sakalaguṇātmanē sakalasaṁvitāya mahāyōgapīṭhasthitāya, yamunā-antargata, yamunādi sarvanadyantargata varuṇāntargata bhāratī ramaṇa mukhyaprāṇāntargata jayāpatē saṁkarṣaṇāya namaḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ॐ भूः। ",
-          "text": "ōṁ bhūḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "यमुनादि सर्वनद्यन्तर्यामि वरुणान्तर्गत भारती रमण मुख्यप्राणान्तर्गत संकर्षणम् आवाहयामि। ",
-          "text": "yamunādi sarvanadyantaryāmi varuṇāntargata bhāratī ramaṇa mukhyaprāṇāntargata saṁkarṣaṇam āvāhayāmi|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ॐ भुवः। ",
-          "text": "ōṁ bhuvaḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "यमुनादि सर्वनद्यन्तर्यामि वरुणान्तर्गत भारती रमण मुख्यप्राणान्तर्गत जयापते संकर्षणम् आवाहयामि। ",
-          "text": "yamunādi sarvanadyantaryāmi varuṇāntargata bhāratī ramaṇa mukhyaprāṇāntargata jayāpatē saṁkarṣaṇam āvāhayāmi|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಸ್ವಃ. ",
-          "text": "ōṁ svaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾದಿ ಸರ್ವನದ್ಯಂತರ್ಯಾಮಿ, ವರುಣಾಂತರ್ಗತ ಭಾರತೀರವಣಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾಮೃತಿ ಸಂಕರ್ಷಣಮಾವಾಹಯಾಮಿ. ",
-          "text": "yamunādi sarvanadyaṁtaryāmi, varuṇāṁtargata bhāratīravaṇamukhya prāṇāṁtargata jayāmr̥ti saṁkarṣaṇamāvāhayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಭೂರ್ಭುವಃ ಸ್ವಃ. ",
-          "text": "ōṁ bhūrbhuvaḥ svaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾದಿ ಸರ್ವನದ್ಯಂತರ್ಗತ, ವರುಣಾಂತರ್ಗತ ಭಾರತೀರವಣಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾಪದೆ ಸಂಕರ್ಷಣಮಾವಾಹಯಾಮಿ, ಸ್ಥಾಪಯಾಮಿ, ಪೂಜಯಾಮಿ, ನಮಸ್ಕರೋಮಿ. ",
-          "text": "yamunādi sarvanadyaṁtargata, varuṇāṁtargata bhāratīravaṇamukhya prāṇāṁtargata jayāpade saṁkarṣaṇamāvāhayāmi, sthāpayāmi, pūjayāmi, namaskarōmi."
+          "sourceOriginal": "ರಕ್ತಾಂಭೋಧಿಸ್ತವದೋಲ್ಲಸದರುಣಸರೋಜಾಧಿರೂಢಾ ಕರಾಬ್ಜೈಃ, ಪಾಶಂ ಕೋದಂಡಮಿಕ್ಷುದ್ಭವಮಲಿಗಣಮಪ್ಯಂಕುಶಂ ಪಂಚಬಾಣಾನ್, ಭಿಭ್ರಾಣಾಸೃಕ್ಕಪಾಲಂ ತ್ರಿಣಯನವಿಲಸತ್ಪೀತಪೀನವಕ್ಷೋರುಹಾಢ್ಯಾ... देवी बालार्कवर्णा भवतु सुखकरी प्राणशक्तिः परा नः। ॐ आं ह्रीं क्रौं यं रं वं वं शं सं हं क्षं हं सः सोहं। अस्या मूर्तौ प्राणाः तिष्ठन्तु। अस्या मूर्तौ जीव इह स्थितः। अस्या मूर्तौ सर्वेन्द्रियाणि, श्रोत्रत्वक् चक्षुर्जिह्वा घ्राणवाक्पाणि पादपायूपस्थानि, इहैव आगत्य सुखं चिरं तिष्ठन्तु स्वाहा। ॐ आसो देते पुनरस्मासु चक्षुः पुनः प्राणम् बिहतो देहभोगम्। जोक्पश्चेव सूर्यमुच्चरोऽत पुनर्वते मृडया नः स्वस्ति। ॐ। ॐ पुनर्नो असुं पृथिवी ददातु, पुनर्द्यौर्देवी पुनरन्तरिक्षम्। पुनः त्वं स्वमस्तन्नो ददातु पुनः पूषा पथ्या आगात् स्वस्ति। ॐ। ॐ नमो भगवते सकलगुणात्मने सकलसंविताय महायोगपीठस्थिताय, यमुना-अन्तर्गत, यमुनादि सर्वनद्यन्तर्गत वरुणान्तर्गत भारती रमण मुख्यप्राणान्तर्गत जयापते संकर्षणाय नमः। ॐ भूः। यमुनादि सर्वनद्यन्तर्यामि वरुणान्तर्गत भारती रमण मुख्यप्राणान्तर्गत संकर्षणम् आवाहयामि। ॐ भुवः। यमुनादि सर्वनद्यन्तर्यामि वरुणान्तर्गत भारती रमण मुख्यप्राणान्तर्गत जयापते संकर्षणम् आवाहयामि। ಓಂ ಸ್ವಃ. ಯಮುನಾದಿ ಸರ್ವನದ್ಯಂತರ್ಯಾಮಿ, ವರುಣಾಂತರ್ಗತ ಭಾರತೀರವಣಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾಮೃತಿ ಸಂಕರ್ಷಣಮಾವಾಹಯಾಮಿ. ಓಂ ಭೂರ್ಭುವಃ ಸ್ವಃ. ಯಮುನಾದಿ ಸರ್ವನದ್ಯಂತರ್ಗತ, ವರುಣಾಂತರ್ಗತ ಭಾರತೀರವಣಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾಪದೆ ಸಂಕರ್ಷಣಮಾವಾಹಯಾಮಿ, ಸ್ಥಾಪಯಾಮಿ, ಪೂಜಯಾಮಿ, ನಮಸ್ಕರೋಮಿ. ",
+          "text": "raktāṁbhōdhistavadōllasadaruṇasarōjādhirūḍhā karābjaiḥ, pāśaṁ kōdaṁḍamikṣudbhavamaligaṇamapyaṁkuśaṁ paṁcabāṇān, bhibhrāṇāsr̥kkapālaṁ triṇayanavilasatpītapīnavakṣōruhāḍhyā... dēvī bālārkavarṇā bhavatu sukhakarī prāṇaśaktiḥ parā naḥ| ōṁ āṁ hrīṁ krauṁ yaṁ raṁ vaṁ vaṁ śaṁ saṁ haṁ kṣaṁ haṁ saḥ sōhaṁ| asyā mūrtau prāṇāḥ tiṣṭhantu| asyā mūrtau jīva iha sthitaḥ| asyā mūrtau sarvēndriyāṇi, śrōtratvak cakṣurjihvā ghrāṇavākpāṇi pādapāyūpasthāni, ihaiva āgatya sukhaṁ ciraṁ tiṣṭhantu svāhā| ōṁ āsō dētē punarasmāsu cakṣuḥ punaḥ prāṇam bihatō dēhabhōgam| jōkpaścēva sūryamuccarō'ta punarvatē mr̥ḍayā naḥ svasti| ōṁ| ōṁ punarnō asuṁ pr̥thivī dadātu, punardyaurdēvī punarantarikṣam| punaḥ tvaṁ svamastannō dadātu punaḥ pūṣā pathyā āgāt svasti| ōṁ| ōṁ namō bhagavatē sakalaguṇātmanē sakalasaṁvitāya mahāyōgapīṭhasthitāya, yamunā-antargata, yamunādi sarvanadyantargata varuṇāntargata bhāratī ramaṇa mukhyaprāṇāntargata jayāpatē saṁkarṣaṇāya namaḥ| ōṁ bhūḥ| yamunādi sarvanadyantaryāmi varuṇāntargata bhāratī ramaṇa mukhyaprāṇāntargata saṁkarṣaṇam āvāhayāmi| ōṁ bhuvaḥ| yamunādi sarvanadyantaryāmi varuṇāntargata bhāratī ramaṇa mukhyaprāṇāntargata jayāpatē saṁkarṣaṇam āvāhayāmi| ōṁ svaḥ. yamunādi sarvanadyaṁtaryāmi, varuṇāṁtargata bhāratīravaṇamukhya prāṇāṁtargata jayāmr̥ti saṁkarṣaṇamāvāhayāmi. ōṁ bhūrbhuvaḥ svaḥ. yamunādi sarvanadyaṁtargata, varuṇāṁtargata bhāratīravaṇamukhya prāṇāṁtargata jayāpade saṁkarṣaṇamāvāhayāmi, sthāpayāmi, pūjayāmi, namaskarōmi."
         },
         {
           "kind": "action",
@@ -491,13 +351,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಯಮುನತೇ ನಮಸ್ತುಭ್ಯಂ ಸರ್ವಕಾಮಪ್ರದಾಯಿನಿ ರಕ್ತಸಿಂಹಾಸನಂ ದೇವಿ ಸ್ವೀಕೃತ್ಯ ಮಯಾರ್ಪಿತಂ. ",
-          "text": "yamunatē namastubhyaṁ sarvakāmapradāyini raktasiṁhāsanaṁ dēvi svīkr̥tya mayārpitaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರವಣಮುಖ್ಯ ಪ್ರಾಣಾಂತರದ ಸಂಕರ್ಷಣಾಯ ನಮಃ ಆಸನಂ ಸಮರ್ಪಯಾಮಿ, ",
-          "text": "yamunāṁtargata bhāratī ravaṇamukhya prāṇāṁtarada saṁkarṣaṇāya namaḥ āsanaṁ samarpayāmi,"
+          "sourceOriginal": "ಯಮುನತೇ ನಮಸ್ತುಭ್ಯಂ ಸರ್ವಕಾಮಪ್ರದಾಯಿನಿ ರಕ್ತಸಿಂಹಾಸನಂ ದೇವಿ ಸ್ವೀಕೃತ್ಯ ಮಯಾರ್ಪಿತಂ. ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರವಣಮುಖ್ಯ ಪ್ರಾಣಾಂತರದ ಸಂಕರ್ಷಣಾಯ ನಮಃ ಆಸನಂ ಸಮರ್ಪಯಾಮಿ, ",
+          "text": "yamunatē namastubhyaṁ sarvakāmapradāyini raktasiṁhāsanaṁ dēvi svīkr̥tya mayārpitaṁ. yamunāṁtargata bhāratī ravaṇamukhya prāṇāṁtarada saṁkarṣaṇāya namaḥ āsanaṁ samarpayāmi,"
         },
         {
           "kind": "action",
@@ -507,13 +362,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಯಮುನತೇ ನಮಸ್ತುಭ್ಯಂ ಸರ್ವಕಾಮಪ್ರದಾಯಿನಿ ಆವಾಹಯಾಮಿ ಭಕ್ತ್ಯಾತ್ವಾಂ ಸಾನ್ನಿಧ್ಯಂ ಕುರು ಸುವ್ರತೇ. ",
-          "text": "yamunatē namastubhyaṁ sarvakāmapradāyini āvāhayāmi bhaktyātvāṁ sānnidhyaṁ kuru suvratē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರವಣಮುಖ್ಯ ಪ್ರಾಣಾಂತರದ ಸಂಕರ್ಷಣಾಯ ನಮಃ ಆವಾಹನಂ ಸಮರ್ಪಯಾಮಿ.",
-          "text": "yamunāṁtargata bhāratī ravaṇamukhya prāṇāṁtarada saṁkarṣaṇāya namaḥ āvāhanaṁ samarpayāmi."
+          "sourceOriginal": "ಯಮುನತೇ ನಮಸ್ತುಭ್ಯಂ ಸರ್ವಕಾಮಪ್ರದಾಯಿನಿ ಆವಾಹಯಾಮಿ ಭಕ್ತ್ಯಾತ್ವಾಂ ಸಾನ್ನಿಧ್ಯಂ ಕುರು ಸುವ್ರತೇ. ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರವಣಮುಖ್ಯ ಪ್ರಾಣಾಂತರದ ಸಂಕರ್ಷಣಾಯ ನಮಃ ಆವಾಹನಂ ಸಮರ್ಪಯಾಮಿ.",
+          "text": "yamunatē namastubhyaṁ sarvakāmapradāyini āvāhayāmi bhaktyātvāṁ sānnidhyaṁ kuru suvratē. yamunāṁtargata bhāratī ravaṇamukhya prāṇāṁtarada saṁkarṣaṇāya namaḥ āvāhanaṁ samarpayāmi."
         }
       ]
     },
@@ -535,13 +385,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ಸರ್ವೇ ಸಮುದ್ರಾಃ ಸರಿತಃ ತೀರ್ಥಾನಿ ಜಲದಾನದಾಃ ಸಿಂಹಾಸನ ಸಮಾರೂಢೇ ದೇವಶಕ್ತಿ ಸಮನ್ವಿತೇ. ",
-          "text": "sarvē samudrāḥ saritaḥ tīrthāni jaladānadāḥ siṁhāsana samārūḍhē dēvaśakti samanvitē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಪಾದ್ಯಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "pādyaṁ samarpayāmi."
+          "sourceOriginal": "ಸರ್ವೇ ಸಮುದ್ರಾಃ ಸರಿತಃ ತೀರ್ಥಾನಿ ಜಲದಾನದಾಃ ಸಿಂಹಾಸನ ಸಮಾರೂಢೇ ದೇವಶಕ್ತಿ ಸಮನ್ವಿತೇ. ಪಾದ್ಯಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "sarvē samudrāḥ saritaḥ tīrthāni jaladānadāḥ siṁhāsana samārūḍhē dēvaśakti samanvitē. pādyaṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -551,13 +396,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ವೈಢೂರ್ಯಹಾರಸಂಯುಕ್ತೇ ಸರ್ವಲೋಕಹಿತೈಷಿಣಿ ಗೃಹಾಣಾಚಮನೀಯಂ ದೇವಿ ಶಂಕರಾರ್ಧಶರೀರಿಣಿ. ",
-          "text": "vaiḍhūryahārasaṁyuktē sarvalōkahitaiṣiṇi gr̥hāṇācamanīyaṁ dēvi śaṁkarārdhaśarīriṇi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರವಣಮುಖ್ಯ ಪ್ರಾಣಾಂತರದ ಸಂಕರ್ಷಣಾಯ ನಮಃ ಪಾದ್ಯಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "yamunāṁtargata bhāratī ravaṇamukhya prāṇāṁtarada saṁkarṣaṇāya namaḥ pādyaṁ samarpayāmi."
+          "sourceOriginal": "ವೈಢೂರ್ಯಹಾರಸಂಯುಕ್ತೇ ಸರ್ವಲೋಕಹಿತೈಷಿಣಿ ಗೃಹಾಣಾಚಮನೀಯಂ ದೇವಿ ಶಂಕರಾರ್ಧಶರೀರಿಣಿ. ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರವಣಮುಖ್ಯ ಪ್ರಾಣಾಂತರದ ಸಂಕರ್ಷಣಾಯ ನಮಃ ಪಾದ್ಯಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "vaiḍhūryahārasaṁyuktē sarvalōkahitaiṣiṇi gr̥hāṇācamanīyaṁ dēvi śaṁkarārdhaśarīriṇi. yamunāṁtargata bhāratī ravaṇamukhya prāṇāṁtarada saṁkarṣaṇāya namaḥ pādyaṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -567,13 +407,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ದೇವಪಾದೇ ನಮಸ್ತುಭ್ಯಂ ಸರ್ವಲೋಕಹಿತೇ ಪ್ರಿಯೇ ಸರ್ವಪಾಪಪ್ರಶಮನಿ ತುಂಗಭದ್ರೆ ನಮೋಸ್ತುತೇ. ",
-          "text": "dēvapādē namastubhyaṁ sarvalōkahitē priyē sarvapāpapraśamani tuṁgabhadre namōstutē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರವಣಮುಖ್ಯ ಪ್ರಾಣಾಂತರದ ಸಂಕರ್ಷಣಾಯ ನಮಃ ಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ, ಶುದ್ಧೋದಕ ಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "yamunāṁtargata bhāratī ravaṇamukhya prāṇāṁtarada saṁkarṣaṇāya namaḥ snānaṁ samarpayāmi, śuddhōdaka snānaṁ samarpayāmi."
+          "sourceOriginal": "ದೇವಪಾದೇ ನಮಸ್ತುಭ್ಯಂ ಸರ್ವಲೋಕಹಿತೇ ಪ್ರಿಯೇ ಸರ್ವಪಾಪಪ್ರಶಮನಿ ತುಂಗಭದ್ರೆ ನಮೋಸ್ತುತೇ. ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರವಣಮುಖ್ಯ ಪ್ರಾಣಾಂತರದ ಸಂಕರ್ಷಣಾಯ ನಮಃ ಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ, ಶುದ್ಧೋದಕ ಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "dēvapādē namastubhyaṁ sarvalōkahitē priyē sarvapāpapraśamani tuṁgabhadre namōstutē. yamunāṁtargata bhāratī ravaṇamukhya prāṇāṁtarada saṁkarṣaṇāya namaḥ snānaṁ samarpayāmi, śuddhōdaka snānaṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -583,13 +418,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಕೃಷ್ಣವೇಣಿ ನಮಸ್ತುಭ್ಯಂ ಕೃಷ್ಣವೇಣಿ ಸುಲಕ್ಷಣೇ. ",
-          "text": "kr̥ṣṇavēṇi namastubhyaṁ kr̥ṣṇavēṇi sulakṣaṇē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾ ಅಂತರ್ಗತ ಭಾರತಿ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ಮಧುಪರ್ಕಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "yamunā aṁtargata bhārati ramaṇa mukhya prāṇāṁtara saṁkarṣaṇāya namaḥ, madhuparkaṁ samarpayāmi."
+          "sourceOriginal": "ಕೃಷ್ಣವೇಣಿ ನಮಸ್ತುಭ್ಯಂ ಕೃಷ್ಣವೇಣಿ ಸುಲಕ್ಷಣೇ. ಯಮುನಾ ಅಂತರ್ಗತ ಭಾರತಿ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ಮಧುಪರ್ಕಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "kr̥ṣṇavēṇi namastubhyaṁ kr̥ṣṇavēṇi sulakṣaṇē. yamunā aṁtargata bhārati ramaṇa mukhya prāṇāṁtara saṁkarṣaṇāya namaḥ, madhuparkaṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -610,23 +440,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ನಂದಿಪಾದೇ ನಮಸ್ತುಭ್ಯಂ ಶಂಕರಾರ್ಧ ಶರೀರಿಣಿ, ಸರ್ವಲೋಕ ಹಿತೇತುಭ್ಯಂ ಭೀಮರತ್ಯೈ ನಮೋಸ್ತು ತೆ, ಯಮುನಾ ಅಂತರ್ಗತ ಭಾರತಿ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾವದೆ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ಆಭರಣೀಯಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "naṁdipādē namastubhyaṁ śaṁkarārdha śarīriṇi, sarvalōka hitētubhyaṁ bhīmaratyai namōstu te, yamunā aṁtargata bhārati ramaṇa mukhya prāṇāṁtargata jayāvade saṁkarṣaṇāya namaḥ, ābharaṇīyaṁ samarpayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಆಭರಣಾರ್ಥೇ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "ābharaṇārthē akṣatān samarpayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸಹ್ಯಪಾದ ಸಮುದ್ಭೂತೇ ಸರ್ವಕಾಮಫಲಪ್ರದೇ, ಸರ್ವಲಕ್ಷಣಸಂಯುಕ್ತೇ ಭವನಾಶಿತೇ ನಮಃ. ",
-          "text": "sahyapāda samudbhūtē sarvakāmaphalapradē, sarvalakṣaṇasaṁyuktē bhavanāśitē namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾ ಅಂತರ್ಗತ ಭಾರತಿ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ಉತ್ತರೀಯಾರ್ಥೇ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "yamunā aṁtargata bhārati ramaṇa mukhya prāṇāṁtargata saṁkarṣaṇāya namaḥ, uttarīyārthē akṣatān samarpayāmi."
+          "sourceOriginal": "ನಂದಿಪಾದೇ ನಮಸ್ತುಭ್ಯಂ ಶಂಕರಾರ್ಧ ಶರೀರಿಣಿ, ಸರ್ವಲೋಕ ಹಿತೇತುಭ್ಯಂ ಭೀಮರತ್ಯೈ ನಮೋಸ್ತು ತೆ, ಯಮುನಾ ಅಂತರ್ಗತ ಭಾರತಿ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾವದೆ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ಆಭರಣೀಯಂ ಸಮರ್ಪಯಾಮಿ. ಆಭರಣಾರ್ಥೇ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ಸಹ್ಯಪಾದ ಸಮುದ್ಭೂತೇ ಸರ್ವಕಾಮಫಲಪ್ರದೇ, ಸರ್ವಲಕ್ಷಣಸಂಯುಕ್ತೇ ಭವನಾಶಿತೇ ನಮಃ. ಯಮುನಾ ಅಂತರ್ಗತ ಭಾರತಿ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ಉತ್ತರೀಯಾರ್ಥೇ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "naṁdipādē namastubhyaṁ śaṁkarārdha śarīriṇi, sarvalōka hitētubhyaṁ bhīmaratyai namōstu te, yamunā aṁtargata bhārati ramaṇa mukhya prāṇāṁtargata jayāvade saṁkarṣaṇāya namaḥ, ābharaṇīyaṁ samarpayāmi. ābharaṇārthē akṣatān samarpayāmi. sahyapāda samudbhūtē sarvakāmaphalapradē, sarvalakṣaṇasaṁyuktē bhavanāśitē namaḥ. yamunā aṁtargata bhārati ramaṇa mukhya prāṇāṁtargata saṁkarṣaṇāya namaḥ, uttarīyārthē akṣatān samarpayāmi."
         },
         {
           "kind": "action",
@@ -636,28 +451,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಕೃಷ್ಣಪಾದ ಸಮುದ್ಭೂತೇ ಗಂಗೇ ತ್ರಿಪಥಗಾಮಿನಿ, ಜಟಾಜೂಟ ಸಮುದ್ಭೂತೇ ಸರ್ವಕಾಮಫಲಪ್ರದೇ. ",
-          "text": "kr̥ṣṇapāda samudbhūtē gaṁgē tripathagāmini, jaṭājūṭa samudbhūtē sarvakāmaphalapradē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾ ದೇವ್ಯೈ ನಮಃ, ಗಂಧಾರ್ಥೇ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "yamunā dēvyai namaḥ, gaṁdhārthē akṣatān samarpayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಗೋದಾವರಿ ನಮಸ್ತುಭ್ಯಂ ಸರ್ವಾಭೀಷ್ಟಪ್ರದಾಯಿನಿ, ಶ್ರೀಕೃಷ್ಣ ಜಗದ್ವಂದ್ಯೇ ಅಕ್ಷತಾನ್ ಅವಲಾಂ ಶುಭಾನ್. ",
-          "text": "gōdāvari namastubhyaṁ sarvābhīṣṭapradāyini, śrīkr̥ṣṇa jagadvaṁdyē akṣatān avalāṁ śubhān."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾ ಅಂತರ್ಗತ ಭಾರತಿ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾವದಿ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "yamunā aṁtargata bhārati ramaṇa mukhya prāṇāṁtargata jayāvadi saṁkarṣaṇāya namaḥ, akṣatān samarpayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಮಂದಾರೈಃ ಪಾರಿಜಾತೈಶ್ಚ ಪಾಟಲಾ ಶೋಕಚಂಪಕೈಃ, ಪೂಜಯಾಮಿ ತವ ಪ್ರೀತ್ಯೈ ವರದೇ ಭಕ್ತವತ್ಸಲೆ.",
-          "text": "maṁdāraiḥ pārijātaiśca pāṭalā śōkacaṁpakaiḥ, pūjayāmi tava prītyai varadē bhaktavatsale."
+          "sourceOriginal": "ಕೃಷ್ಣಪಾದ ಸಮುದ್ಭೂತೇ ಗಂಗೇ ತ್ರಿಪಥಗಾಮಿನಿ, ಜಟಾಜೂಟ ಸಮುದ್ಭೂತೇ ಸರ್ವಕಾಮಫಲಪ್ರದೇ. ಯಮುನಾ ದೇವ್ಯೈ ನಮಃ, ಗಂಧಾರ್ಥೇ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ಗೋದಾವರಿ ನಮಸ್ತುಭ್ಯಂ ಸರ್ವಾಭೀಷ್ಟಪ್ರದಾಯಿನಿ, ಶ್ರೀಕೃಷ್ಣ ಜಗದ್ವಂದ್ಯೇ ಅಕ್ಷತಾನ್ ಅವಲಾಂ ಶುಭಾನ್. ಯಮುನಾ ಅಂತರ್ಗತ ಭಾರತಿ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾವದಿ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ಮಂದಾರೈಃ ಪಾರಿಜಾತೈಶ್ಚ ಪಾಟಲಾ ಶೋಕಚಂಪಕೈಃ, ಪೂಜಯಾಮಿ ತವ ಪ್ರೀತ್ಯೈ ವರದೇ ಭಕ್ತವತ್ಸಲೆ.",
+          "text": "kr̥ṣṇapāda samudbhūtē gaṁgē tripathagāmini, jaṭājūṭa samudbhūtē sarvakāmaphalapradē. yamunā dēvyai namaḥ, gaṁdhārthē akṣatān samarpayāmi. gōdāvari namastubhyaṁ sarvābhīṣṭapradāyini, śrīkr̥ṣṇa jagadvaṁdyē akṣatān avalāṁ śubhān. yamunā aṁtargata bhārati ramaṇa mukhya prāṇāṁtargata jayāvadi saṁkarṣaṇāya namaḥ, akṣatān samarpayāmi. maṁdāraiḥ pārijātaiśca pāṭalā śōkacaṁpakaiḥ, pūjayāmi tava prītyai varadē bhaktavatsale."
         }
       ]
     },
@@ -725,18 +520,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಯಮುನಾಯೈ ನಮಃ, ಓಂ ಸೀತಾಯೈ ನಮಃ, ವಿಮಲಾಯೈ ನಮಃ, ಓಂ ಉತ್ಪಲಾಯೈ ನಮಃ, ಓಂ ಅವಿಷ್ಟಾಯೈ ನಮಃ, ಓಂ ಧಾತ್ರೇ ನಮಃ, ಓಂ ಹರಿಹರ ರೂಪಿಣ್ಯೈ ನಮಃ, ಓಂ ಗಂಗಾಯೈ ನಮಃ, ಓಂ ನರ್ಮದಾಯೈ ನಮಃ, ಓಂ ಗೌರ್ಯೈ ನಮಃ, ಓಂ ಭಾಗೀರಥ್ಯೈ ನಮಃ, ಓಂ ತುಂಗಾಯೈ ನಮಃ, ಓಂ ಭದ್ರಾಯೈ ನಮಃ, ಓಂ ಕೃಷ್ಣವೇಣ್ಯೈ ನಮಃ, ಓಂ ಭವನಾಶಿನ್ಯೈ ನಮಃ, ಓಂ ಸರಸ್ವತ್ಯೈ ನಮಃ, ಓಂ ಕಾವೇರ್ಯೈ ನಮಃ, ಓಂ ಸಿಂಧವೇ ನಮಃ, ಓಂ ಗೌತಮ್ಯೈ ನಮಃ, ಓಂ ಗೋಮತ್ಯೈ ನಮಃ, ಓಂ ಗಾಯತ್ರ್ಯೈ ನಮಃ, ಓಂ ಗಾರುಡ್ಯೈ ನಮಃ, ಓಂ ಗಿರಿಜಾಯೈ ನಮಃ, ಓಂ ಚಂದ್ರಚೂಡಾಯೈ ನಮಃ, ಓಂ ಸರ್ವೇಶ್ವರಾಯೈ ನಮಃ, ಓಂ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ಓಂ ಸರ್ವಪಾಪಹರೇ ದೇವಿ, ಸರ್ವೋಪದ್ರವನಾಶಿನಿ, ಸರ್ವಸಂಪತ್ಪ್ರದೇ ದೇವಿ, ಯಮುನೇ ನಮೋಸ್ತುತೇ. ",
-          "text": "ōṁ yamunāyai namaḥ, ōṁ sītāyai namaḥ, vimalāyai namaḥ, ōṁ utpalāyai namaḥ, ōṁ aviṣṭāyai namaḥ, ōṁ dhātrē namaḥ, ōṁ harihara rūpiṇyai namaḥ, ōṁ gaṁgāyai namaḥ, ōṁ narmadāyai namaḥ, ōṁ gauryai namaḥ, ōṁ bhāgīrathyai namaḥ, ōṁ tuṁgāyai namaḥ, ōṁ bhadrāyai namaḥ, ōṁ kr̥ṣṇavēṇyai namaḥ, ōṁ bhavanāśinyai namaḥ, ōṁ sarasvatyai namaḥ, ōṁ kāvēryai namaḥ, ōṁ siṁdhavē namaḥ, ōṁ gautamyai namaḥ, ōṁ gōmatyai namaḥ, ōṁ gāyatryai namaḥ, ōṁ gāruḍyai namaḥ, ōṁ girijāyai namaḥ, ōṁ caṁdracūḍāyai namaḥ, ōṁ sarvēśvarāyai namaḥ, ōṁ mahālakṣmyai namaḥ, ōṁ sarvapāpaharē dēvi, sarvōpadravanāśini, sarvasaṁpatpradē dēvi, yamunē namōstutē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾ ಅಂತರ್ಗತ ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣ ಅಂತರ್ಗತ ಜಯಾಪತೇ ಸಂಕರ್ಷಣಾಯ ನಮಃ. ",
-          "text": "yamunā aṁtargata bhāratī ramaṇa mukhya prāṇa aṁtargata jayāpatē saṁkarṣaṇāya namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ನಾಮಪೂಜಾಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "nāmapūjāṁ samarpayāmi."
+          "sourceOriginal": "ಓಂ ಯಮುನಾಯೈ ನಮಃ, ಓಂ ಸೀತಾಯೈ ನಮಃ, ವಿಮಲಾಯೈ ನಮಃ, ಓಂ ಉತ್ಪಲಾಯೈ ನಮಃ, ಓಂ ಅವಿಷ್ಟಾಯೈ ನಮಃ, ಓಂ ಧಾತ್ರೇ ನಮಃ, ಓಂ ಹರಿಹರ ರೂಪಿಣ್ಯೈ ನಮಃ, ಓಂ ಗಂಗಾಯೈ ನಮಃ, ಓಂ ನರ್ಮದಾಯೈ ನಮಃ, ಓಂ ಗೌರ್ಯೈ ನಮಃ, ಓಂ ಭಾಗೀರಥ್ಯೈ ನಮಃ, ಓಂ ತುಂಗಾಯೈ ನಮಃ, ಓಂ ಭದ್ರಾಯೈ ನಮಃ, ಓಂ ಕೃಷ್ಣವೇಣ್ಯೈ ನಮಃ, ಓಂ ಭವನಾಶಿನ್ಯೈ ನಮಃ, ಓಂ ಸರಸ್ವತ್ಯೈ ನಮಃ, ಓಂ ಕಾವೇರ್ಯೈ ನಮಃ, ಓಂ ಸಿಂಧವೇ ನಮಃ, ಓಂ ಗೌತಮ್ಯೈ ನಮಃ, ಓಂ ಗೋಮತ್ಯೈ ನಮಃ, ಓಂ ಗಾಯತ್ರ್ಯೈ ನಮಃ, ಓಂ ಗಾರುಡ್ಯೈ ನಮಃ, ಓಂ ಗಿರಿಜಾಯೈ ನಮಃ, ಓಂ ಚಂದ್ರಚೂಡಾಯೈ ನಮಃ, ಓಂ ಸರ್ವೇಶ್ವರಾಯೈ ನಮಃ, ಓಂ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ಓಂ ಸರ್ವಪಾಪಹರೇ ದೇವಿ, ಸರ್ವೋಪದ್ರವನಾಶಿನಿ, ಸರ್ವಸಂಪತ್ಪ್ರದೇ ದೇವಿ, ಯಮುನೇ ನಮೋಸ್ತುತೇ. ಯಮುನಾ ಅಂತರ್ಗತ ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣ ಅಂತರ್ಗತ ಜಯಾಪತೇ ಸಂಕರ್ಷಣಾಯ ನಮಃ. ನಾಮಪೂಜಾಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "ōṁ yamunāyai namaḥ, ōṁ sītāyai namaḥ, vimalāyai namaḥ, ōṁ utpalāyai namaḥ, ōṁ aviṣṭāyai namaḥ, ōṁ dhātrē namaḥ, ōṁ harihara rūpiṇyai namaḥ, ōṁ gaṁgāyai namaḥ, ōṁ narmadāyai namaḥ, ōṁ gauryai namaḥ, ōṁ bhāgīrathyai namaḥ, ōṁ tuṁgāyai namaḥ, ōṁ bhadrāyai namaḥ, ōṁ kr̥ṣṇavēṇyai namaḥ, ōṁ bhavanāśinyai namaḥ, ōṁ sarasvatyai namaḥ, ōṁ kāvēryai namaḥ, ōṁ siṁdhavē namaḥ, ōṁ gautamyai namaḥ, ōṁ gōmatyai namaḥ, ōṁ gāyatryai namaḥ, ōṁ gāruḍyai namaḥ, ōṁ girijāyai namaḥ, ōṁ caṁdracūḍāyai namaḥ, ōṁ sarvēśvarāyai namaḥ, ōṁ mahālakṣmyai namaḥ, ōṁ sarvapāpaharē dēvi, sarvōpadravanāśini, sarvasaṁpatpradē dēvi, yamunē namōstutē. yamunā aṁtargata bhāratī ramaṇa mukhya prāṇa aṁtargata jayāpatē saṁkarṣaṇāya namaḥ. nāmapūjāṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -775,13 +560,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ದಶಾಂಗಂ ಗುಗ್ಗುಲೋಪೇತಂ ಚಂದನಾಗರು ಸಂಯುತಂ, ಯಮುನಾಯೈ ನಮಸ್ತುಭ್ಯಂ ಧೂಪೋ'ಯಂ ಪ್ರತಿಗೃಹ್ಯತಾಂ. ",
-          "text": "daśāṁgaṁ guggulōpētaṁ caṁdanāgaru saṁyutaṁ, yamunāyai namastubhyaṁ dhūpō'yaṁ pratigr̥hyatāṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ಧೂಪಮಾಘ್ರಾಪಯಾಮಿ. ",
-          "text": "yamunāṁtargata bhāratī ramaṇa mukhya prāṇa saṁkarṣaṇāya namaḥ, dhūpamāghrāpayāmi."
+          "sourceOriginal": "ದಶಾಂಗಂ ಗುಗ್ಗುಲೋಪೇತಂ ಚಂದನಾಗರು ಸಂಯುತಂ, ಯಮುನಾಯೈ ನಮಸ್ತುಭ್ಯಂ ಧೂಪೋ'ಯಂ ಪ್ರತಿಗೃಹ್ಯತಾಂ. ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ಧೂಪಮಾಘ್ರಾಪಯಾಮಿ. ",
+          "text": "daśāṁgaṁ guggulōpētaṁ caṁdanāgaru saṁyutaṁ, yamunāyai namastubhyaṁ dhūpō'yaṁ pratigr̥hyatāṁ. yamunāṁtargata bhāratī ramaṇa mukhya prāṇa saṁkarṣaṇāya namaḥ, dhūpamāghrāpayāmi."
         },
         {
           "kind": "action",
@@ -791,13 +571,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಘೃತವರ್ತಿಯುತಂ ದೀಪಂ ತ್ರೈಲೋಕ್ಯಂ ತಿಮಿರಾಪಹಂ, ಗೃಹಾಣ ಮಂಗಳಂ ದೇವಿ ಸರ್ವೇಶ್ವರಿ ನಮೋಸ್ತುತೇ. ",
-          "text": "ghr̥tavartiyutaṁ dīpaṁ trailōkyaṁ timirāpahaṁ, gr̥hāṇa maṁgaḷaṁ dēvi sarvēśvari namōstutē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾಪತೇ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ದೀಪಂ ದರ್ಶಯಾಮಿ. ",
-          "text": "yamunāṁtargata bhāratī ramaṇa mukhya prāṇāṁtargata jayāpatē saṁkarṣaṇāya namaḥ, dīpaṁ darśayāmi."
+          "sourceOriginal": "ಘೃತವರ್ತಿಯುತಂ ದೀಪಂ ತ್ರೈಲೋಕ್ಯಂ ತಿಮಿರಾಪಹಂ, ಗೃಹಾಣ ಮಂಗಳಂ ದೇವಿ ಸರ್ವೇಶ್ವರಿ ನಮೋಸ್ತುತೇ. ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾಪತೇ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ದೀಪಂ ದರ್ಶಯಾಮಿ. ",
+          "text": "ghr̥tavartiyutaṁ dīpaṁ trailōkyaṁ timirāpahaṁ, gr̥hāṇa maṁgaḷaṁ dēvi sarvēśvari namōstutē. yamunāṁtargata bhāratī ramaṇa mukhya prāṇāṁtargata jayāpatē saṁkarṣaṇāya namaḥ, dīpaṁ darśayāmi."
         },
         {
           "kind": "action",
@@ -835,13 +610,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಪಾನೀಯಂ ಪಾವನಂ ಶ್ರೇಷ್ಠಾ ಗಂಗಾದಿ ಸರಿದ್ಭವಂ, ಹಸ್ತಪ್ರಕ್ಷಾಳನಾರ್ಥಂ ವೈ ಗೃಹಾಣ ಸುರಪೂಜಿತೇ. ",
-          "text": "pānīyaṁ pāvanaṁ śrēṣṭhā gaṁgādi saridbhavaṁ, hastaprakṣāḷanārthaṁ vai gr̥hāṇa surapūjitē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ಹಸ್ತಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "yamunāṁtargata bhāratī ramaṇa mukhya prāṇāṁtargata saṁkarṣaṇāya namaḥ, hastaprakṣāḷanaṁ samarpayāmi."
+          "sourceOriginal": "ಪಾನೀಯಂ ಪಾವನಂ ಶ್ರೇಷ್ಠಾ ಗಂಗಾದಿ ಸರಿದ್ಭವಂ, ಹಸ್ತಪ್ರಕ್ಷಾಳನಾರ್ಥಂ ವೈ ಗೃಹಾಣ ಸುರಪೂಜಿತೇ. ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ಹಸ್ತಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "pānīyaṁ pāvanaṁ śrēṣṭhā gaṁgādi saridbhavaṁ, hastaprakṣāḷanārthaṁ vai gr̥hāṇa surapūjitē. yamunāṁtargata bhāratī ramaṇa mukhya prāṇāṁtargata saṁkarṣaṇāya namaḥ, hastaprakṣāḷanaṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -851,13 +621,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಕರ್ಪೂರವಾಸಿತಂ ಚೂರ್ಣಂ ಕ್ರಮುಕಾದ್ದಿಹೇ ಸಮನ್ವಿತಂ, ತಾಂಬೂಲಂ ಗೃಹ್ಯತಾಂ ದೇವಿ ಯಮುನಾಯೈ ನಮೋಸ್ತುತೇ. ",
-          "text": "karpūravāsitaṁ cūrṇaṁ kramukāddihē samanvitaṁ, tāṁbūlaṁ gr̥hyatāṁ dēvi yamunāyai namōstutē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಮುನಾ ಅಂತರ್ಗತ ಭಾರತೀ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ತಾಂಬೂಲಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "yamunā aṁtargata bhāratī mukhya prāṇāṁtargata saṁkarṣaṇāya namaḥ, tāṁbūlaṁ samarpayāmi."
+          "sourceOriginal": "ಕರ್ಪೂರವಾಸಿತಂ ಚೂರ್ಣಂ ಕ್ರಮುಕಾದ್ದಿಹೇ ಸಮನ್ವಿತಂ, ತಾಂಬೂಲಂ ಗೃಹ್ಯತಾಂ ದೇವಿ ಯಮುನಾಯೈ ನಮೋಸ್ತುತೇ. ಯಮುನಾ ಅಂತರ್ಗತ ಭಾರತೀ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಸಂಕರ್ಷಣಾಯ ನಮಃ, ತಾಂಬೂಲಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "karpūravāsitaṁ cūrṇaṁ kramukāddihē samanvitaṁ, tāṁbūlaṁ gr̥hyatāṁ dēvi yamunāyai namōstutē. yamunā aṁtargata bhāratī mukhya prāṇāṁtargata saṁkarṣaṇāya namaḥ, tāṁbūlaṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -889,13 +654,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಯಸ್ಯ ಸ್ಮೃತ್ಯಾ ಚ ನಾಮೋಕ್ತ್ಯಾ ತಪಃ ಪೂಜಾ ಕ್ರಿಯಾಶು ನ್ಯೂನಂ ಸಂಪೂರ್ಣತಾಂ ಯಾತಿ ಸದ್ಯೋ ವಂದೇ ತಮಚ್ಯುತಂ. ",
-          "text": "yasya smr̥tyā ca nāmōktyā tapaḥ pūjā kriyāśu nyūnaṁ saṁpūrṇatāṁ yāti sadyō vaṁdē tamacyutaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಮಂತ್ರಹೀನಂ ಕ್ರಿಯಾಹೀನಂ ಭಕ್ತಿಹೀನಂ ರಮಾಪತೇ, ಅನೇನ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀ ವ್ರತಾಂಗತ್ವೇನ ಯಶಃ ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾಪತೇ ಸಂಕರ್ಷಣ ಪೂಜನೇನ, ಭಗವಾನ್ ಭಾರತೀರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾಪತಿ ಸಂಕರ್ಷಣ ಪ್ರಿಯತಾಂ ಸುಪ್ರೀತೋ ವರದೋ ಭವತು",
-          "text": "maṁtrahīnaṁ kriyāhīnaṁ bhaktihīnaṁ ramāpatē, anēna śrī varada mahālakṣmī vratāṁgatvēna yaśaḥ yamunāṁtargata bhāratī mukhya prāṇāṁtargata jayāpatē saṁkarṣaṇa pūjanēna, bhagavān bhāratīramaṇa mukhya prāṇāṁtargata jayāpati saṁkarṣaṇa priyatāṁ suprītō varadō bhavatu"
+          "sourceOriginal": "ಯಸ್ಯ ಸ್ಮೃತ್ಯಾ ಚ ನಾಮೋಕ್ತ್ಯಾ ತಪಃ ಪೂಜಾ ಕ್ರಿಯಾಶು ನ್ಯೂನಂ ಸಂಪೂರ್ಣತಾಂ ಯಾತಿ ಸದ್ಯೋ ವಂದೇ ತಮಚ್ಯುತಂ. ಮಂತ್ರಹೀನಂ ಕ್ರಿಯಾಹೀನಂ ಭಕ್ತಿಹೀನಂ ರಮಾಪತೇ, ಅನೇನ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀ ವ್ರತಾಂಗತ್ವೇನ ಯಶಃ ಯಮುನಾಂತರ್ಗತ ಭಾರತೀ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾಪತೇ ಸಂಕರ್ಷಣ ಪೂಜನೇನ, ಭಗವಾನ್ ಭಾರತೀರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಜಯಾಪತಿ ಸಂಕರ್ಷಣ ಪ್ರಿಯತಾಂ ಸುಪ್ರೀತೋ ವರದೋ ಭವತು",
+          "text": "yasya smr̥tyā ca nāmōktyā tapaḥ pūjā kriyāśu nyūnaṁ saṁpūrṇatāṁ yāti sadyō vaṁdē tamacyutaṁ. maṁtrahīnaṁ kriyāhīnaṁ bhaktihīnaṁ ramāpatē, anēna śrī varada mahālakṣmī vratāṁgatvēna yaśaḥ yamunāṁtargata bhāratī mukhya prāṇāṁtargata jayāpatē saṁkarṣaṇa pūjanēna, bhagavān bhāratīramaṇa mukhya prāṇāṁtargata jayāpati saṁkarṣaṇa priyatāṁ suprītō varadō bhavatu"
         },
         {
           "kind": "action",
@@ -957,53 +717,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಗಣಾನಾಂ ತ್ವಾ ಗಣಪತಿಂ ಹವಾಮಹೇ ಕವಿಂ ಕವೀನಾಮುಪಮಶ್ರವಸ್ತಮಂ । ",
-          "text": "ōṁ gaṇānāṁ tvā gaṇapatiṁ havāmahē kaviṁ kavīnāmupamaśravastamaṁ |"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಜ್ಯೇಷ್ಠರಾಜಂ ಬ್ರಹ್ಮಣಾಂ ಬ್ರಹ್ಮಣಸ್ಪತ ಆ ನಃ ಶೃಣ್ವನ್ನೂತಿಭಿಃ ಸೀದ ಸಾದನಮ್ । ",
-          "text": "jyēṣṭharājaṁ brahmaṇāṁ brahmaṇaspata ā naḥ śr̥ṇvannūtibhiḥ sīda sādanam |"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಭೂಃ. ",
-          "text": "ōṁ bhūḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಗಣಪತ್ಯಂತರ್ದ ಭಾರತೀ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ ವಿಷ್ಣು ಬ್ರಹ್ಮಾವಾಹಯಾಮಿ. ",
-          "text": "gaṇapatyaṁtarda bhāratī mukhya prāṇāṁtara viṣṇu brahmāvāhayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಭುವಃ. ",
-          "text": "ōṁ bhuvaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಗಣಪತ್ಯಂತರ್ದ ಭಾರತೀ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ ವಿಷ್ಣು ಬ್ರಹ್ಮಾವಾಹಯಾಮಿ. ",
-          "text": "gaṇapatyaṁtarda bhāratī mukhya prāṇāṁtara viṣṇu brahmāvāhayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಸ್ವಃ. ",
-          "text": "ōṁ svaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಗಣಪತ್ಯಂತರ್ದ ಭಾರತೀ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ ವಿಷ್ಣು ಬ್ರಹ್ಮಾವಾಹಯಾಮಿ. ",
-          "text": "gaṇapatyaṁtarda bhāratī mukhya prāṇāṁtara viṣṇu brahmāvāhayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಭೂರ್ಭುವಃ ಸ್ವಃ. ",
-          "text": "ōṁ bhūrbhuvaḥ svaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಗಣಪತ್ಯಂತರ್ದ ಭಾರತೀ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ ವಿಷ್ಣು ಬ್ರಹ್ಮಾವಾಹಯಾಮಿ. ",
-          "text": "gaṇapatyaṁtarda bhāratī mukhya prāṇāṁtara viṣṇu brahmāvāhayāmi."
+          "sourceOriginal": "ಓಂ ಗಣಾನಾಂ ತ್ವಾ ಗಣಪತಿಂ ಹವಾಮಹೇ ಕವಿಂ ಕವೀನಾಮುಪಮಶ್ರವಸ್ತಮಂ । ಜ್ಯೇಷ್ಠರಾಜಂ ಬ್ರಹ್ಮಣಾಂ ಬ್ರಹ್ಮಣಸ್ಪತ ಆ ನಃ ಶೃಣ್ವನ್ನೂತಿಭಿಃ ಸೀದ ಸಾದನಮ್ । ಓಂ ಭೂಃ. ಗಣಪತ್ಯಂತರ್ದ ಭಾರತೀ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ ವಿಷ್ಣು ಬ್ರಹ್ಮಾವಾಹಯಾಮಿ. ಓಂ ಭುವಃ. ಗಣಪತ್ಯಂತರ್ದ ಭಾರತೀ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ ವಿಷ್ಣು ಬ್ರಹ್ಮಾವಾಹಯಾಮಿ. ಓಂ ಸ್ವಃ. ಗಣಪತ್ಯಂತರ್ದ ಭಾರತೀ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ ವಿಷ್ಣು ಬ್ರಹ್ಮಾವಾಹಯಾಮಿ. ಓಂ ಭೂರ್ಭುವಃ ಸ್ವಃ. ಗಣಪತ್ಯಂತರ್ದ ಭಾರತೀ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ ವಿಷ್ಣು ಬ್ರಹ್ಮಾವಾಹಯಾಮಿ. ",
+          "text": "ōṁ gaṇānāṁ tvā gaṇapatiṁ havāmahē kaviṁ kavīnāmupamaśravastamaṁ | jyēṣṭharājaṁ brahmaṇāṁ brahmaṇaspata ā naḥ śr̥ṇvannūtibhiḥ sīda sādanam | ōṁ bhūḥ. gaṇapatyaṁtarda bhāratī mukhya prāṇāṁtara viṣṇu brahmāvāhayāmi. ōṁ bhuvaḥ. gaṇapatyaṁtarda bhāratī mukhya prāṇāṁtara viṣṇu brahmāvāhayāmi. ōṁ svaḥ. gaṇapatyaṁtarda bhāratī mukhya prāṇāṁtara viṣṇu brahmāvāhayāmi. ōṁ bhūrbhuvaḥ svaḥ. gaṇapatyaṁtarda bhāratī mukhya prāṇāṁtara viṣṇu brahmāvāhayāmi."
         },
         {
           "kind": "action",
@@ -1013,13 +728,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಆವಾಹಿತ ಗಣಪತ್ಯಂತರ್ಗತ ವಿಷ್ಣುಬ್ರಹ್ಮಾಯ ನಮಃ. ",
-          "text": "āvāhita gaṇapatyaṁtargata viṣṇubrahmāya namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಧ್ಯಾಯಾಮಿ, ಧ್ಯಾನಂ ಸಮರ್ಪಯಾಮಿ, ಆಸನಂ ಸಮರ್ಪಯಾಮಿ, ಪಾದ್ಯಂ ಸಮರ್ಪಯಾಮಿ, ಅರ್ಘ್ಯಂ ಸಮರ್ಪಯಾಮಿ, ಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ, ವಸ್ತ್ರಂ ಸಮರ್ಪಯಾಮಿ, ಗಂಧಂ ಸಮರ್ಪಯಾಮಿ, ಮಧುಪರ್ಕಂ ಸಮರ್ಪಯಾಮಿ, ಪುಷ್ಪಂ ಸಮರ್ಪಯಾಮಿ, ಧೂಪಂ ಸಮರ್ಪಯಾಮಿ, ದೀಪಂ ಸಮರ್ಪಯಾಮಿ, ನೈವೇದ್ಯಂ ಸಮರ್ಪಯಾಮಿ, ತಾಂಬೂಲಂ ಸಮರ್ಪಯಾಮಿ, ಸಕಲ ಪೂಜಾರ್ಥೇ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ",
-          "text": "dhyāyāmi, dhyānaṁ samarpayāmi, āsanaṁ samarpayāmi, pādyaṁ samarpayāmi, arghyaṁ samarpayāmi, snānaṁ samarpayāmi, vastraṁ samarpayāmi, gaṁdhaṁ samarpayāmi, madhuparkaṁ samarpayāmi, puṣpaṁ samarpayāmi, dhūpaṁ samarpayāmi, dīpaṁ samarpayāmi, naivēdyaṁ samarpayāmi, tāṁbūlaṁ samarpayāmi, sakala pūjārthē akṣatān samarpayāmi"
+          "sourceOriginal": "ಆವಾಹಿತ ಗಣಪತ್ಯಂತರ್ಗತ ವಿಷ್ಣುಬ್ರಹ್ಮಾಯ ನಮಃ. ಧ್ಯಾಯಾಮಿ, ಧ್ಯಾನಂ ಸಮರ್ಪಯಾಮಿ, ಆಸನಂ ಸಮರ್ಪಯಾಮಿ, ಪಾದ್ಯಂ ಸಮರ್ಪಯಾಮಿ, ಅರ್ಘ್ಯಂ ಸಮರ್ಪಯಾಮಿ, ಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ, ವಸ್ತ್ರಂ ಸಮರ್ಪಯಾಮಿ, ಗಂಧಂ ಸಮರ್ಪಯಾಮಿ, ಮಧುಪರ್ಕಂ ಸಮರ್ಪಯಾಮಿ, ಪುಷ್ಪಂ ಸಮರ್ಪಯಾಮಿ, ಧೂಪಂ ಸಮರ್ಪಯಾಮಿ, ದೀಪಂ ಸಮರ್ಪಯಾಮಿ, ನೈವೇದ್ಯಂ ಸಮರ್ಪಯಾಮಿ, ತಾಂಬೂಲಂ ಸಮರ್ಪಯಾಮಿ, ಸಕಲ ಪೂಜಾರ್ಥೇ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ",
+          "text": "āvāhita gaṇapatyaṁtargata viṣṇubrahmāya namaḥ. dhyāyāmi, dhyānaṁ samarpayāmi, āsanaṁ samarpayāmi, pādyaṁ samarpayāmi, arghyaṁ samarpayāmi, snānaṁ samarpayāmi, vastraṁ samarpayāmi, gaṁdhaṁ samarpayāmi, madhuparkaṁ samarpayāmi, puṣpaṁ samarpayāmi, dhūpaṁ samarpayāmi, dīpaṁ samarpayāmi, naivēdyaṁ samarpayāmi, tāṁbūlaṁ samarpayāmi, sakala pūjārthē akṣatān samarpayāmi"
         },
         {
           "kind": "action",
@@ -1029,18 +739,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ವಕ್ರತುಂಡ ಮಹಾಕಾಯ ಸೂರ್ಯಕೋಟಿ ಸಮಪ್ರಭ । ",
-          "text": "vakratuṁḍa mahākāya sūryakōṭi samaprabha |"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ನಿರ್ವಿಘ್ನಂ ಕುರು ಮೇ ದೇವ ಸರ್ವಕಾರ್ಯೇಷು ಸರ್ವದಾ । ",
-          "text": "nirvighnaṁ kuru mē dēva sarvakāryēṣu sarvadā |"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ವೇದೋಕ್ತ ಮಂತ್ರ ಪುಷ್ಪಾಂಜಲಿಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "vēdōkta maṁtra puṣpāṁjaliṁ samarpayāmi."
+          "sourceOriginal": "ವಕ್ರತುಂಡ ಮಹಾಕಾಯ ಸೂರ್ಯಕೋಟಿ ಸಮಪ್ರಭ । ನಿರ್ವಿಘ್ನಂ ಕುರು ಮೇ ದೇವ ಸರ್ವಕಾರ್ಯೇಷು ಸರ್ವದಾ । ವೇದೋಕ್ತ ಮಂತ್ರ ಪುಷ್ಪಾಂಜಲಿಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "vakratuṁḍa mahākāya sūryakōṭi samaprabha | nirvighnaṁ kuru mē dēva sarvakāryēṣu sarvadā | vēdōkta maṁtra puṣpāṁjaliṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -1080,28 +780,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ಪೂರ್ವದ್ವಾರೇ ದ್ವಾರಶ್ರಿಯೈ ನಮಃ, ಧಾತ್ರೇ ನಮಃ, ವಿಧಾತ್ರೇ ನಮಃ. ",
-          "text": "pūrvadvārē dvāraśriyai namaḥ, dhātrē namaḥ, vidhātrē namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ದಕ್ಷಿಣದ್ವಾರೇ ಚಂಡಾಯೈ ನಮಃ, ಪ್ರಚಂಡಾಯೈ ನಮಃ. ",
-          "text": "dakṣiṇadvārē caṁḍāyai namaḥ, pracaṁḍāyai namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಪಶ್ಚಿಮದ್ವಾರೇ ಜಯಾಯೈ ನಮಃ, ವಿಜಯಾಯೈ ನಮಃ. ",
-          "text": "paścimadvārē jayāyai namaḥ, vijayāyai namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಉತ್ತರದ್ವಾರೇ ಗಂಗಾಯೈ ನಮಃ, ಯಮುನಾಯೈ ನಮಃ. ",
-          "text": "uttaradvārē gaṁgāyai namaḥ, yamunāyai namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ದ್ವಾರಪಾಲಕ ಪೂಜಾಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "dvārapālaka pūjāṁ samarpayāmi."
+          "sourceOriginal": "ಪೂರ್ವದ್ವಾರೇ ದ್ವಾರಶ್ರಿಯೈ ನಮಃ, ಧಾತ್ರೇ ನಮಃ, ವಿಧಾತ್ರೇ ನಮಃ. ದಕ್ಷಿಣದ್ವಾರೇ ಚಂಡಾಯೈ ನಮಃ, ಪ್ರಚಂಡಾಯೈ ನಮಃ. ಪಶ್ಚಿಮದ್ವಾರೇ ಜಯಾಯೈ ನಮಃ, ವಿಜಯಾಯೈ ನಮಃ. ಉತ್ತರದ್ವಾರೇ ಗಂಗಾಯೈ ನಮಃ, ಯಮುನಾಯೈ ನಮಃ. ದ್ವಾರಪಾಲಕ ಪೂಜಾಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "pūrvadvārē dvāraśriyai namaḥ, dhātrē namaḥ, vidhātrē namaḥ. dakṣiṇadvārē caṁḍāyai namaḥ, pracaṁḍāyai namaḥ. paścimadvārē jayāyai namaḥ, vijayāyai namaḥ. uttaradvārē gaṁgāyai namaḥ, yamunāyai namaḥ. dvārapālaka pūjāṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -1128,28 +808,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀಯೈ ನಮಃ, ಭೂಮ್ಯೈ ನಮಃ, ದೇವಪೃಷ್ಠಕೋಣೇ ಉಪಬರ್ಹಣಾರೂಪೈ ತಮೋಭಿಮಾನಿನ್ಯೈ ದುರ್ಗಾಯ ನಮಃ, ಆತ್ಮನೇ ನಮಃ, ಅಂತರಾತ್ಮನೇ ನಮಃ, ಪರಮಾತ್ಮನೇ ನಮಃ, ಜ್ಞಾನಾತ್ಮನೇ ನಮಃ, ವಿಮಲಾಯ ನಮಃ, ಉತ್ಕರ್ಷಿಣ್ಯೈ ನಮಃ, ಜ್ಞಾನಾಯ ನಮಃ, ಕ್ರಿಯಾಯೈ ನಮಃ, ಯೋಗಾಯ ನಮಃ, ಪ್ರಕ್ರಿಯೇ ನಮಃ, ಸತ್ಯಾಯ ನಮಃ, ಈಶಾನಾಯ ನಮಃ, ಮಧ್ಯೇ ಅನುಗ್ರಹಾಯ ನಮಃ. ",
-          "text": "śrīyai namaḥ, bhūmyai namaḥ, dēvapr̥ṣṭhakōṇē upabarhaṇārūpai tamōbhimāninyai durgāya namaḥ, ātmanē namaḥ, aṁtarātmanē namaḥ, paramātmanē namaḥ, jñānātmanē namaḥ, vimalāya namaḥ, utkarṣiṇyai namaḥ, jñānāya namaḥ, kriyāyai namaḥ, yōgāya namaḥ, prakriyē namaḥ, satyāya namaḥ, īśānāya namaḥ, madhyē anugrahāya namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಅನುಗ್ರಹಾಕ್ಯಶಕ್ತೌ ಸಹಸ್ರಫಣಮಂಡಲಮಂಡಿತಾಯ ತಲ್ಪಕಾರಾಯ ಹರೇ ಯೋಗಾಸನರೂಪಾಯ ಶ್ರೀಮದನಂತಾಯ ನಮಃ. ",
-          "text": "anugrahākyaśaktau sahasraphaṇamaṁḍalamaṁḍitāya talpakārāya harē yōgāsanarūpāya śrīmadanaṁtāya namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ತದುಪರಿ ರಮಾರೂಪ ಚಿತ್ರಾಸನಾಯ ನಮಃ. ",
-          "text": "tadupari ramārūpa citrāsanāya namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ತನ್ಮಧ್ಯೇ ಶ್ರೀವರದಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ",
-          "text": "tanmadhyē śrīvaradamahālakṣmyai namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಪೀಠಪೂಜಾಂ ಸಮರ್ಪಯಾಮಿ.",
-          "text": "pīṭhapūjāṁ samarpayāmi."
+          "sourceOriginal": "ಶ್ರೀಯೈ ನಮಃ, ಭೂಮ್ಯೈ ನಮಃ, ದೇವಪೃಷ್ಠಕೋಣೇ ಉಪಬರ್ಹಣಾರೂಪೈ ತಮೋಭಿಮಾನಿನ್ಯೈ ದುರ್ಗಾಯ ನಮಃ, ಆತ್ಮನೇ ನಮಃ, ಅಂತರಾತ್ಮನೇ ನಮಃ, ಪರಮಾತ್ಮನೇ ನಮಃ, ಜ್ಞಾನಾತ್ಮನೇ ನಮಃ, ವಿಮಲಾಯ ನಮಃ, ಉತ್ಕರ್ಷಿಣ್ಯೈ ನಮಃ, ಜ್ಞಾನಾಯ ನಮಃ, ಕ್ರಿಯಾಯೈ ನಮಃ, ಯೋಗಾಯ ನಮಃ, ಪ್ರಕ್ರಿಯೇ ನಮಃ, ಸತ್ಯಾಯ ನಮಃ, ಈಶಾನಾಯ ನಮಃ, ಮಧ್ಯೇ ಅನುಗ್ರಹಾಯ ನಮಃ. ಅನುಗ್ರಹಾಕ್ಯಶಕ್ತೌ ಸಹಸ್ರಫಣಮಂಡಲಮಂಡಿತಾಯ ತಲ್ಪಕಾರಾಯ ಹರೇ ಯೋಗಾಸನರೂಪಾಯ ಶ್ರೀಮದನಂತಾಯ ನಮಃ. ತದುಪರಿ ರಮಾರೂಪ ಚಿತ್ರಾಸನಾಯ ನಮಃ. ತನ್ಮಧ್ಯೇ ಶ್ರೀವರದಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ಪೀಠಪೂಜಾಂ ಸಮರ್ಪಯಾಮಿ.",
+          "text": "śrīyai namaḥ, bhūmyai namaḥ, dēvapr̥ṣṭhakōṇē upabarhaṇārūpai tamōbhimāninyai durgāya namaḥ, ātmanē namaḥ, aṁtarātmanē namaḥ, paramātmanē namaḥ, jñānātmanē namaḥ, vimalāya namaḥ, utkarṣiṇyai namaḥ, jñānāya namaḥ, kriyāyai namaḥ, yōgāya namaḥ, prakriyē namaḥ, satyāya namaḥ, īśānāya namaḥ, madhyē anugrahāya namaḥ. anugrahākyaśaktau sahasraphaṇamaṁḍalamaṁḍitāya talpakārāya harē yōgāsanarūpāya śrīmadanaṁtāya namaḥ. tadupari ramārūpa citrāsanāya namaḥ. tanmadhyē śrīvaradamahālakṣmyai namaḥ. pīṭhapūjāṁ samarpayāmi."
         }
       ]
     },
@@ -1171,78 +831,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ತನ್ಮಧ್ಯೇ ಉದ್ಯದ್ಭಾಸತ್ ಸವಾಭಾಸತ್ ಸಚ್ಚಿದಾನಂದೈಕದೇಹವಾನ್। ",
-          "text": "tanmadhyē udyadbhāsat savābhāsat saccidānaṁdaikadēhavān|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಚಕ್ರಶಂಖಗದಾಪದ್ಮಧರೋ ಧೇಯೋಽಮೀಶ್ವರಃ। ",
-          "text": "cakraśaṁkhagadāpadmadharō dhēyō'mīśvaraḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಲಕ್ಷ್ಮೀಧರಾಭ್ಯಾಮಾಸ್ತಿಷ್ಠಃ ಸಮೂರ್ತಿರ್ಗಣಮಧ್ಯಗಃ। ",
-          "text": "lakṣmīdharābhyāmāstiṣṭhaḥ samūrtirgaṇamadhyagaḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಬ್ರಹ್ಮವಾಯುಶಿವಾಹೀಶ ವಿಪ್ರೈಃ ಚಕ್ರಾದಿಕೈರಪಿ। ",
-          "text": "brahmavāyuśivāhīśa vipraiḥ cakrādikairapi|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸೇವ್ಯಮಾನೋಽಧಿಕಂ ಭಕ್ತ್ಯಾ ನಿತ್ಯನಿಶ್ಶೇಷಶಕ್ತಿಮಾನ್॥ ",
-          "text": "sēvyamānō'dhikaṁ bhaktyā nityaniśśēṣaśaktimān||"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಉದ್ಯದ್ಭಾನು ಸಹಸ್ರಕೋಟಿ ವಿಳಸತ್ ಪದ್ಮದ್ವಯತ್ ಕರ್ಣಿಕಾ-ಮಾಣಿಕ್ಯಾದಿ ಮಣಿಪ್ರವಾಲ ಖಚಿತೇ ಸಿಂಹಾಸನೇ ಸಂಸ್ಥಿತಂ। ",
-          "text": "ōṁ udyadbhānu sahasrakōṭi viḷasat padmadvayat karṇikā-māṇikyādi maṇipravāla khacitē siṁhāsanē saṁsthitaṁ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಕೇಯೂರಾಂಗದಹಾರನುಪುರ ಯುತಂ ಸ್ವರ್ಣಾಭಪೀತಾಂಬರಂ। ",
-          "text": "kēyūrāṁgadahāranupura yutaṁ svarṇābhapītāṁbaraṁ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಮಂದಸ್ಮೇರ ಮುಪಾಸ್ವಹೇ ಸಮುಕುಟಂ ನಿತ್ಯಂ ರಮೇಶಂ ಹರಿಂ॥ ",
-          "text": "maṁdasmēra mupāsvahē samukuṭaṁ nityaṁ ramēśaṁ hariṁ||"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಸಹಸ್ರಶೀರ್ಷಾ ಪುರುಷಃ ಸಹಸ್ರಾಕ್ಷಃ ಸಹಸ್ರಪಾತ್। ",
-          "text": "ōṁ sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸ ಭೂಮಿಂ ವಿಶ್ವತೋ ವೃತ್ವಾ ಅತ್ಯತಿಷ್ಠದ್ದಶಾಂಗುಲಂ॥ ",
-          "text": "sa bhūmiṁ viśvatō vr̥tvā atyatiṣṭhaddaśāṁgulaṁ||"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಏಹಿ ಏಹಿ ರಾಮಕೃಷ್ಣ ವೇದವ್ಯಾಸಾದ್ಯನಂತಾವತಾರರೂಪ ಅವಯವಗುಣ ಕ್ರಿಯಾತ್ಮಕ ಭಗವಂತಂ ಶ್ರೀಲಕ್ಷ್ಮೀನಾರಾಯಣಂ। ",
-          "text": "ēhi ēhi rāmakr̥ṣṇa vēdavyāsādyanaṁtāvatārarūpa avayavaguṇa kriyātmaka bhagavaṁtaṁ śrīlakṣmīnārāyaṇaṁ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಪೀಠಸ್ಥಿತಃ। ",
-          "text": "pīṭhasthitaḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಏ ತದ್ಧಾತುವ್ಯಸ್ಥಿತಃ, ಪ್ರತಿಮಾಂತಸ್ಥಿತಃ, ತೇಜಸಾರವಯಃ ಪ್ರತಿಮಾಂತಸ್ಥಿತಃ। ",
-          "text": "ē taddhātuvyasthitaḥ, pratimāṁtasthitaḥ, tējasāravayaḥ pratimāṁtasthitaḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀಮುಖ್ಯಪ್ರಾಣ ಪ್ರತಿಮಾಯಾ ಮಧ್ಯೇ ರಮಯಾ ಸಹ, ಕ್ಷೀರನೀರವದಾಸೀನ ಸ್ವಪ್ರತಿಮಾಯಾಮ್ ಅವಾಹಯಾಮಿ। ",
-          "text": "śrīmukhyaprāṇa pratimāyā madhyē ramayā saha, kṣīranīravadāsīna svapratimāyām avāhayāmi|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ, ಓಂ ನಾರಾಯಣಾಯ ಓಂ. ",
-          "text": "ōṁ, ōṁ nārāyaṇāya ōṁ."
+          "sourceOriginal": "ತನ್ಮಧ್ಯೇ ಉದ್ಯದ್ಭಾಸತ್ ಸವಾಭಾಸತ್ ಸಚ್ಚಿದಾನಂದೈಕದೇಹವಾನ್। ಚಕ್ರಶಂಖಗದಾಪದ್ಮಧರೋ ಧೇಯೋಽಮೀಶ್ವರಃ। ಲಕ್ಷ್ಮೀಧರಾಭ್ಯಾಮಾಸ್ತಿಷ್ಠಃ ಸಮೂರ್ತಿರ್ಗಣಮಧ್ಯಗಃ। ಬ್ರಹ್ಮವಾಯುಶಿವಾಹೀಶ ವಿಪ್ರೈಃ ಚಕ್ರಾದಿಕೈರಪಿ। ಸೇವ್ಯಮಾನೋಽಧಿಕಂ ಭಕ್ತ್ಯಾ ನಿತ್ಯನಿಶ್ಶೇಷಶಕ್ತಿಮಾನ್॥ ಓಂ ಉದ್ಯದ್ಭಾನು ಸಹಸ್ರಕೋಟಿ ವಿಳಸತ್ ಪದ್ಮದ್ವಯತ್ ಕರ್ಣಿಕಾ-ಮಾಣಿಕ್ಯಾದಿ ಮಣಿಪ್ರವಾಲ ಖಚಿತೇ ಸಿಂಹಾಸನೇ ಸಂಸ್ಥಿತಂ। ಕೇಯೂರಾಂಗದಹಾರನುಪುರ ಯುತಂ ಸ್ವರ್ಣಾಭಪೀತಾಂಬರಂ। ಮಂದಸ್ಮೇರ ಮುಪಾಸ್ವಹೇ ಸಮುಕುಟಂ ನಿತ್ಯಂ ರಮೇಶಂ ಹರಿಂ॥ ಓಂ ಸಹಸ್ರಶೀರ್ಷಾ ಪುರುಷಃ ಸಹಸ್ರಾಕ್ಷಃ ಸಹಸ್ರಪಾತ್। ಸ ಭೂಮಿಂ ವಿಶ್ವತೋ ವೃತ್ವಾ ಅತ್ಯತಿಷ್ಠದ್ದಶಾಂಗುಲಂ॥ ಏಹಿ ಏಹಿ ರಾಮಕೃಷ್ಣ ವೇದವ್ಯಾಸಾದ್ಯನಂತಾವತಾರರೂಪ ಅವಯವಗುಣ ಕ್ರಿಯಾತ್ಮಕ ಭಗವಂತಂ ಶ್ರೀಲಕ್ಷ್ಮೀನಾರಾಯಣಂ। ಪೀಠಸ್ಥಿತಃ। ಏ ತದ್ಧಾತುವ್ಯಸ್ಥಿತಃ, ಪ್ರತಿಮಾಂತಸ್ಥಿತಃ, ತೇಜಸಾರವಯಃ ಪ್ರತಿಮಾಂತಸ್ಥಿತಃ। ಶ್ರೀಮುಖ್ಯಪ್ರಾಣ ಪ್ರತಿಮಾಯಾ ಮಧ್ಯೇ ರಮಯಾ ಸಹ, ಕ್ಷೀರನೀರವದಾಸೀನ ಸ್ವಪ್ರತಿಮಾಯಾಮ್ ಅವಾಹಯಾಮಿ। ಓಂ, ಓಂ ನಾರಾಯಣಾಯ ಓಂ. ",
+          "text": "tanmadhyē udyadbhāsat savābhāsat saccidānaṁdaikadēhavān| cakraśaṁkhagadāpadmadharō dhēyō'mīśvaraḥ| lakṣmīdharābhyāmāstiṣṭhaḥ samūrtirgaṇamadhyagaḥ| brahmavāyuśivāhīśa vipraiḥ cakrādikairapi| sēvyamānō'dhikaṁ bhaktyā nityaniśśēṣaśaktimān|| ōṁ udyadbhānu sahasrakōṭi viḷasat padmadvayat karṇikā-māṇikyādi maṇipravāla khacitē siṁhāsanē saṁsthitaṁ| kēyūrāṁgadahāranupura yutaṁ svarṇābhapītāṁbaraṁ| maṁdasmēra mupāsvahē samukuṭaṁ nityaṁ ramēśaṁ hariṁ|| ōṁ sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt| sa bhūmiṁ viśvatō vr̥tvā atyatiṣṭhaddaśāṁgulaṁ|| ēhi ēhi rāmakr̥ṣṇa vēdavyāsādyanaṁtāvatārarūpa avayavaguṇa kriyātmaka bhagavaṁtaṁ śrīlakṣmīnārāyaṇaṁ| pīṭhasthitaḥ| ē taddhātuvyasthitaḥ, pratimāṁtasthitaḥ, tējasāravayaḥ pratimāṁtasthitaḥ| śrīmukhyaprāṇa pratimāyā madhyē ramayā saha, kṣīranīravadāsīna svapratimāyām avāhayāmi| ōṁ, ōṁ nārāyaṇāya ōṁ."
         },
         {
           "kind": "action",
@@ -1282,13 +872,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಅಸ್ಯ ಶ್ರೀ ವರ ಮಹಾಲಕ್ಷ್ಮೀ ದೇವತಾ ಪ್ರಾಣ ಪ್ರತಿಷ್ಠಾಪನ ಮಹಾಮಂತ್ರಸ್ಯ ಬ್ರಹ್ಮಾ ವಿಷ್ಣು ಮಹೇಶ್ವರಾ ಋಷಯಃ, ಋಗ್ ಯಜುಃ ಸಾಮ ಅಥರ್ವಾಣಿ ಛಂದಾಂಸಿ, ಮಹಾಶಕ್ತಿಃ ಪರಾ ದೇವತಾ, ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀ ಪ್ರಾಣ ಪ್ರತಿಷ್ಠಾಪನೆ ವಿನಿಯೋಗಃ. ",
-          "text": "asya śrī vara mahālakṣmī dēvatā prāṇa pratiṣṭhāpana mahāmaṁtrasya brahmā viṣṇu mahēśvarā r̥ṣayaḥ, r̥g yajuḥ sāma atharvāṇi chaṁdāṁsi, mahāśaktiḥ parā dēvatā, śrī varada mahālakṣmī prāṇa pratiṣṭhāpane viniyōgaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಹ್ರಾಂ ಅಂಗುಷ್ಠಕಾಯ ಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೀಂ ತರ್ಜನೀ ಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೂಂ ಮಧ್ಯಮಾ ಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೈಂ ಅನಾಮಿಕಾ ಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೌಂ ಕನಿಷ್ಠಿಕಾ ಭ್ಯಾಂ ನಮಃ, ಹ್ರಃ ಕರತಲಕರಪೃಷ್ಠಾಭ್ಯಾಂ ನಮಃ, ಹ್ರಾಂ ಹೃದಯಾಯ ನಮಃ, ಹ್ರೀಂ ಶಿರಸೇ ಸ್ವಾಹಾ, ಹ್ರೂಂ ಶಿಖಾಯೈ ವಷಟ್, ಹ್ರೈಂ ಕವಚಾಯ ಹುಂ, ಹ್ರೌಂ ನೇತ್ರತ್ರಯಾಯ ಔಷಟ್, ಹ್ರಃ ಅಸ್ತ್ರಾಯ ಫಟ್, ಇತಿ ದಿಗ್ಬಂಧಃ. ",
-          "text": "ōṁ hrāṁ aṁguṣṭhakāya bhyāṁ namaḥ, ōṁ hrīṁ tarjanī bhyāṁ namaḥ, ōṁ hrūṁ madhyamā bhyāṁ namaḥ, ōṁ hraiṁ anāmikā bhyāṁ namaḥ, ōṁ hrauṁ kaniṣṭhikā bhyāṁ namaḥ, hraḥ karatalakarapr̥ṣṭhābhyāṁ namaḥ, hrāṁ hr̥dayāya namaḥ, hrīṁ śirasē svāhā, hrūṁ śikhāyai vaṣaṭ, hraiṁ kavacāya huṁ, hrauṁ nētratrayāya auṣaṭ, hraḥ astrāya phaṭ, iti digbaṁdhaḥ."
+          "sourceOriginal": "ಅಸ್ಯ ಶ್ರೀ ವರ ಮಹಾಲಕ್ಷ್ಮೀ ದೇವತಾ ಪ್ರಾಣ ಪ್ರತಿಷ್ಠಾಪನ ಮಹಾಮಂತ್ರಸ್ಯ ಬ್ರಹ್ಮಾ ವಿಷ್ಣು ಮಹೇಶ್ವರಾ ಋಷಯಃ, ಋಗ್ ಯಜುಃ ಸಾಮ ಅಥರ್ವಾಣಿ ಛಂದಾಂಸಿ, ಮಹಾಶಕ್ತಿಃ ಪರಾ ದೇವತಾ, ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀ ಪ್ರಾಣ ಪ್ರತಿಷ್ಠಾಪನೆ ವಿನಿಯೋಗಃ. ಓಂ ಹ್ರಾಂ ಅಂಗುಷ್ಠಕಾಯ ಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೀಂ ತರ್ಜನೀ ಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೂಂ ಮಧ್ಯಮಾ ಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೈಂ ಅನಾಮಿಕಾ ಭ್ಯಾಂ ನಮಃ, ಓಂ ಹ್ರೌಂ ಕನಿಷ್ಠಿಕಾ ಭ್ಯಾಂ ನಮಃ, ಹ್ರಃ ಕರತಲಕರಪೃಷ್ಠಾಭ್ಯಾಂ ನಮಃ, ಹ್ರಾಂ ಹೃದಯಾಯ ನಮಃ, ಹ್ರೀಂ ಶಿರಸೇ ಸ್ವಾಹಾ, ಹ್ರೂಂ ಶಿಖಾಯೈ ವಷಟ್, ಹ್ರೈಂ ಕವಚಾಯ ಹುಂ, ಹ್ರೌಂ ನೇತ್ರತ್ರಯಾಯ ಔಷಟ್, ಹ್ರಃ ಅಸ್ತ್ರಾಯ ಫಟ್, ಇತಿ ದಿಗ್ಬಂಧಃ. ",
+          "text": "asya śrī vara mahālakṣmī dēvatā prāṇa pratiṣṭhāpana mahāmaṁtrasya brahmā viṣṇu mahēśvarā r̥ṣayaḥ, r̥g yajuḥ sāma atharvāṇi chaṁdāṁsi, mahāśaktiḥ parā dēvatā, śrī varada mahālakṣmī prāṇa pratiṣṭhāpane viniyōgaḥ. ōṁ hrāṁ aṁguṣṭhakāya bhyāṁ namaḥ, ōṁ hrīṁ tarjanī bhyāṁ namaḥ, ōṁ hrūṁ madhyamā bhyāṁ namaḥ, ōṁ hraiṁ anāmikā bhyāṁ namaḥ, ōṁ hrauṁ kaniṣṭhikā bhyāṁ namaḥ, hraḥ karatalakarapr̥ṣṭhābhyāṁ namaḥ, hrāṁ hr̥dayāya namaḥ, hrīṁ śirasē svāhā, hrūṁ śikhāyai vaṣaṭ, hraiṁ kavacāya huṁ, hrauṁ nētratrayāya auṣaṭ, hraḥ astrāya phaṭ, iti digbaṁdhaḥ."
         },
         {
           "kind": "action",
@@ -1304,23 +889,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "रक्ताम्भोधिस्थवदोल्लसदरुण सरोजाधिरूढा करैः पाशं कोदण्डमिक्षुद्भवमलिगणमप्यङ्कुशं पञ्चबाणान् । ",
-          "text": "raktāmbhōdhisthavadōllasadaruṇa sarōjādhirūḍhā karaiḥ pāśaṁ kōdaṇḍamikṣudbhavamaligaṇamapyaṅkuśaṁ pañcabāṇān |"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "बिभ्राणा सृक्कपालं त्रिनयनं विलसत्पीरवक्षोरुहाढ्या देवी बालार्कवर्णा भवतु सुखकरी प्राणशक्तिः परा नः ॥ ",
-          "text": "bibhrāṇā sr̥kkapālaṁ trinayanaṁ vilasatpīravakṣōruhāḍhyā dēvī bālārkavarṇā bhavatu sukhakarī prāṇaśaktiḥ parā naḥ ||"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ॐ ऐं ह्रीं क्रौं यं रं लं वं शं षं सं हं सः सोहं । ",
-          "text": "ōṁ aiṁ hrīṁ krauṁ yaṁ raṁ laṁ vaṁ śaṁ ṣaṁ saṁ haṁ saḥ sōhaṁ |"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಅಸ್ಮಿನ್ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀ ಕಲಶೇ ಪ್ರಾಣಾಃ ತಿಷ್ಠಂತು, ಅಸ್ಮಿನ್ ಕಲಶೇ ಜೀವ ಇಹ ಸ್ಥಿತಃ, ಅಸ್ಮಿನ್ ಕಲಶೇ ಸರ್ವೇಂದ್ರಿಯಾಣಿ ಮನಃ ಶ್ರೋತ್ರತ್ವಕ್ ಚಕ್ಷುರ್ಜಿಹ್ವಾ ಘ್ರಾಣ ವಾಕ್ ಪಾಣಿ ಪಾದ ಪಾಯೂಪಸ್ಥಾನಿ ಇಹೈವಾಗತ್ಯ ಸುಖಂ ಚಿರಂ ತಿಷ್ಠಂತು ಸ್ವಾಹಾ. ",
-          "text": "asmin śrī varada mahālakṣmī kalaśē prāṇāḥ tiṣṭhaṁtu, asmin kalaśē jīva iha sthitaḥ, asmin kalaśē sarvēṁdriyāṇi manaḥ śrōtratvak cakṣurjihvā ghrāṇa vāk pāṇi pāda pāyūpasthāni ihaivāgatya sukhaṁ ciraṁ tiṣṭhaṁtu svāhā."
+          "sourceOriginal": "रक्ताम्भोधिस्थवदोल्लसदरुण सरोजाधिरूढा करैः पाशं कोदण्डमिक्षुद्भवमलिगणमप्यङ्कुशं पञ्चबाणान् । बिभ्राणा सृक्कपालं त्रिनयनं विलसत्पीरवक्षोरुहाढ्या देवी बालार्कवर्णा भवतु सुखकरी प्राणशक्तिः परा नः ॥ ॐ ऐं ह्रीं क्रौं यं रं लं वं शं षं सं हं सः सोहं । ಅಸ್ಮಿನ್ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀ ಕಲಶೇ ಪ್ರಾಣಾಃ ತಿಷ್ಠಂತು, ಅಸ್ಮಿನ್ ಕಲಶೇ ಜೀವ ಇಹ ಸ್ಥಿತಃ, ಅಸ್ಮಿನ್ ಕಲಶೇ ಸರ್ವೇಂದ್ರಿಯಾಣಿ ಮನಃ ಶ್ರೋತ್ರತ್ವಕ್ ಚಕ್ಷುರ್ಜಿಹ್ವಾ ಘ್ರಾಣ ವಾಕ್ ಪಾಣಿ ಪಾದ ಪಾಯೂಪಸ್ಥಾನಿ ಇಹೈವಾಗತ್ಯ ಸುಖಂ ಚಿರಂ ತಿಷ್ಠಂತು ಸ್ವಾಹಾ. ",
+          "text": "raktāmbhōdhisthavadōllasadaruṇa sarōjādhirūḍhā karaiḥ pāśaṁ kōdaṇḍamikṣudbhavamaligaṇamapyaṅkuśaṁ pañcabāṇān | bibhrāṇā sr̥kkapālaṁ trinayanaṁ vilasatpīravakṣōruhāḍhyā dēvī bālārkavarṇā bhavatu sukhakarī prāṇaśaktiḥ parā naḥ || ōṁ aiṁ hrīṁ krauṁ yaṁ raṁ laṁ vaṁ śaṁ ṣaṁ saṁ haṁ saḥ sōhaṁ | asmin śrī varada mahālakṣmī kalaśē prāṇāḥ tiṣṭhaṁtu, asmin kalaśē jīva iha sthitaḥ, asmin kalaśē sarvēṁdriyāṇi manaḥ śrōtratvak cakṣurjihvā ghrāṇa vāk pāṇi pāda pāyūpasthāni ihaivāgatya sukhaṁ ciraṁ tiṣṭhaṁtu svāhā."
         },
         {
           "kind": "action",
@@ -1336,33 +906,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಅಸುನೀತೇ ಪುನರಸ್ಮಾಸು ಚಕ್ಷುಃ ಪ್ರಾಣಮ್ ಪ್ರಾಣಮಭಿ ನೋ ದೇಹಿ ಭೋಗಂ, ಜೋಕ್ಪಶ್ಯೇಮ ಸೂರ್ಯಮುಚ್ಚರಂತಂ, ಅನುದೇಹಿ ಭೋಗಂ. ",
-          "text": "ōṁ asunītē punarasmāsu cakṣuḥ prāṇam prāṇamabhi nō dēhi bhōgaṁ, jōkpaśyēma sūryamuccaraṁtaṁ, anudēhi bhōgaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಭೂಃ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀಂ ಮಮ ಆವಾಹಯಾಮಿ. ",
-          "text": "ōṁ bhūḥ śrī varada mahālakṣmīṁ mama āvāhayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಭುವಃ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀಂ ಮಮ ಆವಾಹಯಾಮಿ. ",
-          "text": "ōṁ bhuvaḥ śrī varada mahālakṣmīṁ mama āvāhayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಸ್ವಃ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀಂ ಮಮ ಆವಾಹಯಾಮಿ. ",
-          "text": "ōṁ svaḥ śrī varada mahālakṣmīṁ mama āvāhayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಭೂರ್ಭುವಃ ಸ್ವಃ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀಂ ಆವಾಹಯಾಮಿ, ಆವಾಹಯಾಮಿ, ಸ್ಥಾಪಯಾಮಿ, ಪೂಜಯಾಮಿ, ನಮಸ್ಕರೋಮಿ. ",
-          "text": "ōṁ bhūrbhuvaḥ svaḥ śrī varada mahālakṣmīṁ āvāhayāmi, āvāhayāmi, sthāpayāmi, pūjayāmi, namaskarōmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ನಮೋ ನಾರಾಯಣಾಯ ಓಂ",
-          "text": "ōṁ namō nārāyaṇāya ōṁ"
+          "sourceOriginal": "ಓಂ ಅಸುನೀತೇ ಪುನರಸ್ಮಾಸು ಚಕ್ಷುಃ ಪ್ರಾಣಮ್ ಪ್ರಾಣಮಭಿ ನೋ ದೇಹಿ ಭೋಗಂ, ಜೋಕ್ಪಶ್ಯೇಮ ಸೂರ್ಯಮುಚ್ಚರಂತಂ, ಅನುದೇಹಿ ಭೋಗಂ. ಓಂ ಭೂಃ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀಂ ಮಮ ಆವಾಹಯಾಮಿ. ಓಂ ಭುವಃ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀಂ ಮಮ ಆವಾಹಯಾಮಿ. ಓಂ ಸ್ವಃ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀಂ ಮಮ ಆವಾಹಯಾಮಿ. ಓಂ ಭೂರ್ಭುವಃ ಸ್ವಃ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀಂ ಆವಾಹಯಾಮಿ, ಆವಾಹಯಾಮಿ, ಸ್ಥಾಪಯಾಮಿ, ಪೂಜಯಾಮಿ, ನಮಸ್ಕರೋಮಿ. ಓಂ ನಮೋ ನಾರಾಯಣಾಯ ಓಂ",
+          "text": "ōṁ asunītē punarasmāsu cakṣuḥ prāṇam prāṇamabhi nō dēhi bhōgaṁ, jōkpaśyēma sūryamuccaraṁtaṁ, anudēhi bhōgaṁ. ōṁ bhūḥ śrī varada mahālakṣmīṁ mama āvāhayāmi. ōṁ bhuvaḥ śrī varada mahālakṣmīṁ mama āvāhayāmi. ōṁ svaḥ śrī varada mahālakṣmīṁ mama āvāhayāmi. ōṁ bhūrbhuvaḥ svaḥ śrī varada mahālakṣmīṁ āvāhayāmi, āvāhayāmi, sthāpayāmi, pūjayāmi, namaskarōmi. ōṁ namō nārāyaṇāya ōṁ"
         },
         {
           "kind": "action",
@@ -1412,28 +957,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಸ್ವಾಮಿನ್ ಸರ್ವಜಗನ್ನಾಥ, ಯಾವತ್ ಪೂಜಾವಸಾನಕಂ, ತಾವತ್ ಸಂಪ್ರೀತಿಭಾವೇನ ಕಲಶೇ ಅಸ್ಮಿನ್ ಸನ್ನಿಧಿಂ ಕುರು. ",
-          "text": "svāmin sarvajagannātha, yāvat pūjāvasānakaṁ, tāvat saṁprītibhāvēna kalaśē asmin sannidhiṁ kuru."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಕೌಶೇಯ ಪೀತವಸನಾ ಅರವಿಂದನೇತ್ರಾ, ಪದ್ಮದ್ವಯಾಭರಾ ವರೋದ್ಯತ ಪದ್ಮಹಸ್ತಾ, ಉದ್ಯಚ್ಚತಾರ್ಕ ಸದೃಶೀಂ ಪರಮಾಂಕ ಸಂಸ್ಥಾಂ, ಧ್ಯಾಯೇದ್ ವಿದೀಶ ತನುತ ಪಾದಯುಗಾಂ ಜನಿತ್ರೀಂ. ",
-          "text": "kauśēya pītavasanā araviṁdanētrā, padmadvayābharā varōdyata padmahastā, udyaccatārka sadr̥śīṁ paramāṁka saṁsthāṁ, dhyāyēd vidīśa tanuta pādayugāṁ janitrīṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಶ್ರೀಂ ಓಂ. ",
-          "text": "ōṁ śrīṁ ōṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಕೌಶೇಯ ರಕ್ತವಸನಾಂ ಅರವಿಂದನೇತ್ರಾಂ, ತಾಂಬೂಲನೀಲಕುಸುಮಾಭಯಸದ್ದರೇತಾಂ, ಶ್ಯಾಮಾಂಗಕಾಂತಿಸಹಿತಾಂ ಪರಮಾಂಕಸಂಸ್ಥಾಂ, ಧ್ಯಾಯೇದ್ ವಿಧೀಶನುತಪಾದಯುಗಾಂ ಜನಿತ್ರೀಂ. ",
-          "text": "kauśēya raktavasanāṁ araviṁdanētrāṁ, tāṁbūlanīlakusumābhayasaddarētāṁ, śyāmāṁgakāṁtisahitāṁ paramāṁkasaṁsthāṁ, dhyāyēd vidhīśanutapādayugāṁ janitrīṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಭೂಂ ಭುವೇ ನಮಃ. ",
-          "text": "ōṁ bhūṁ bhuvē namaḥ."
+          "sourceOriginal": "ಸ್ವಾಮಿನ್ ಸರ್ವಜಗನ್ನಾಥ, ಯಾವತ್ ಪೂಜಾವಸಾನಕಂ, ತಾವತ್ ಸಂಪ್ರೀತಿಭಾವೇನ ಕಲಶೇ ಅಸ್ಮಿನ್ ಸನ್ನಿಧಿಂ ಕುರು. ಕೌಶೇಯ ಪೀತವಸನಾ ಅರವಿಂದನೇತ್ರಾ, ಪದ್ಮದ್ವಯಾಭರಾ ವರೋದ್ಯತ ಪದ್ಮಹಸ್ತಾ, ಉದ್ಯಚ್ಚತಾರ್ಕ ಸದೃಶೀಂ ಪರಮಾಂಕ ಸಂಸ್ಥಾಂ, ಧ್ಯಾಯೇದ್ ವಿದೀಶ ತನುತ ಪಾದಯುಗಾಂ ಜನಿತ್ರೀಂ. ಓಂ ಶ್ರೀಂ ಓಂ. ಕೌಶೇಯ ರಕ್ತವಸನಾಂ ಅರವಿಂದನೇತ್ರಾಂ, ತಾಂಬೂಲನೀಲಕುಸುಮಾಭಯಸದ್ದರೇತಾಂ, ಶ್ಯಾಮಾಂಗಕಾಂತಿಸಹಿತಾಂ ಪರಮಾಂಕಸಂಸ್ಥಾಂ, ಧ್ಯಾಯೇದ್ ವಿಧೀಶನುತಪಾದಯುಗಾಂ ಜನಿತ್ರೀಂ. ಓಂ ಭೂಂ ಭುವೇ ನಮಃ. ",
+          "text": "svāmin sarvajagannātha, yāvat pūjāvasānakaṁ, tāvat saṁprītibhāvēna kalaśē asmin sannidhiṁ kuru. kauśēya pītavasanā araviṁdanētrā, padmadvayābharā varōdyata padmahastā, udyaccatārka sadr̥śīṁ paramāṁka saṁsthāṁ, dhyāyēd vidīśa tanuta pādayugāṁ janitrīṁ. ōṁ śrīṁ ōṁ. kauśēya raktavasanāṁ araviṁdanētrāṁ, tāṁbūlanīlakusumābhayasaddarētāṁ, śyāmāṁgakāṁtisahitāṁ paramāṁkasaṁsthāṁ, dhyāyēd vidhīśanutapādayugāṁ janitrīṁ. ōṁ bhūṁ bhuvē namaḥ."
         },
         {
           "kind": "action",
@@ -1443,18 +968,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಕೌಶೇಯ ರಕ್ತವಸನಾಂ ಕಮಲಾತ್ರಿನೇತ್ರಾಂ, ಚಕ್ರಾಬ್ಜತರ್ಜನ, ಸುಶೂಲ ಯುತಾಬ್ಜಹಸ್ತಾಂ. ",
-          "text": "kauśēya raktavasanāṁ kamalātrinētrāṁ, cakrābjatarjana, suśūla yutābjahastāṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಓಂ ದುಂ ದುರ್ಗಾಯೈ ನಮಃ. ",
-          "text": "ōṁ duṁ durgāyai namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀಭೂ ದುರ್ಗಾಂಬ್ರಣಿ, ಶ್ರೀಮಾಯಾ ಜಯಾ ಕೃತಿ ಶಾಂತಿ ಲಕ್ಷ್ಮೀ, ಜಯಂತೀ ಜಾನಕೀ ಸತ್ಯಾರ್ಕಿಣಿ, ಸ್ವಯಂ ಪ್ರೀತಾಖ್ಯ ಲಕ್ಷ್ಮೀ ರೂಪಾನ್ ಆವಾಹಯಾಮಿ. ",
-          "text": "śrībhū durgāṁbraṇi, śrīmāyā jayā kr̥ti śāṁti lakṣmī, jayaṁtī jānakī satyārkiṇi, svayaṁ prītākhya lakṣmī rūpān āvāhayāmi."
+          "sourceOriginal": "ಕೌಶೇಯ ರಕ್ತವಸನಾಂ ಕಮಲಾತ್ರಿನೇತ್ರಾಂ, ಚಕ್ರಾಬ್ಜತರ್ಜನ, ಸುಶೂಲ ಯುತಾಬ್ಜಹಸ್ತಾಂ. ಓಂ ದುಂ ದುರ್ಗಾಯೈ ನಮಃ. ಶ್ರೀಭೂ ದುರ್ಗಾಂಬ್ರಣಿ, ಶ್ರೀಮಾಯಾ ಜಯಾ ಕೃತಿ ಶಾಂತಿ ಲಕ್ಷ್ಮೀ, ಜಯಂತೀ ಜಾನಕೀ ಸತ್ಯಾರ್ಕಿಣಿ, ಸ್ವಯಂ ಪ್ರೀತಾಖ್ಯ ಲಕ್ಷ್ಮೀ ರೂಪಾನ್ ಆವಾಹಯಾಮಿ. ",
+          "text": "kauśēya raktavasanāṁ kamalātrinētrāṁ, cakrābjatarjana, suśūla yutābjahastāṁ. ōṁ duṁ durgāyai namaḥ. śrībhū durgāṁbraṇi, śrīmāyā jayā kr̥ti śāṁti lakṣmī, jayaṁtī jānakī satyārkiṇi, svayaṁ prītākhya lakṣmī rūpān āvāhayāmi."
         },
         {
           "kind": "action",
@@ -1504,28 +1019,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ಓಂ ಸಹಸ್ರಶೀರ್ಷಾ ಪುರುಷಃ ಸಹಸ್ರಾಕ್ಷಃ ಸಹಸ್ರಪಾತ್, ಸಭೂಮಿಂ ವಿಶ್ವತೋ ವೃತ್ವಾತ್ಯತಿಷ್ಠದ್ದಶಾಂಗುಲಂ. ",
-          "text": "ōṁ sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt, sabhūmiṁ viśvatō vr̥tvātyatiṣṭhaddaśāṁgulaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಹಿರಣ್ಯವರ್ಣಾಂ ಹರಿಣೀಂ ಸುವರ್ಣರಜತಸ್ರಜಾಂ, ಚಂದ್ರಾಂ ಹಿರಣ್ಮಯೀಂ ಲಕ್ಷ್ಮೀಂ ಜಾತವೇದೋ ಮ ಆವಹ. ",
-          "text": "hiraṇyavarṇāṁ hariṇīṁ suvarṇarajatasrajāṁ, caṁdrāṁ hiraṇmayīṁ lakṣmīṁ jātavēdō ma āvaha."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಪದ್ಮಾಸನೇ ಪದ್ಮಕರೇ ಸರ್ವಲೋಕೈಕ ಪೂಜಿತೇ, ನಾರಾಯಣಪ್ರಿಯೇ ದೇವಿ ಸುಪ್ರೀತಾ ಭವ ಸರ್ವದಾ. ",
-          "text": "padmāsanē padmakarē sarvalōkaika pūjitē, nārāyaṇapriyē dēvi suprītā bhava sarvadā."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ಶ್ರೀವರ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ",
-          "text": "śrī śrīvara mahālakṣmyai namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಧ್ಯಾಯಾಮಿ, ಧ್ಯಾನಂ ಸಮರ್ಪಯಾಮಿ, ಮಂತ್ರಾಕ್ಷತೇನ್ನಃ.",
-          "text": "dhyāyāmi, dhyānaṁ samarpayāmi, maṁtrākṣatēnnaḥ."
+          "sourceOriginal": "ಓಂ ಸಹಸ್ರಶೀರ್ಷಾ ಪುರುಷಃ ಸಹಸ್ರಾಕ್ಷಃ ಸಹಸ್ರಪಾತ್, ಸಭೂಮಿಂ ವಿಶ್ವತೋ ವೃತ್ವಾತ್ಯತಿಷ್ಠದ್ದಶಾಂಗುಲಂ. ಹಿರಣ್ಯವರ್ಣಾಂ ಹರಿಣೀಂ ಸುವರ್ಣರಜತಸ್ರಜಾಂ, ಚಂದ್ರಾಂ ಹಿರಣ್ಮಯೀಂ ಲಕ್ಷ್ಮೀಂ ಜಾತವೇದೋ ಮ ಆವಹ. ಪದ್ಮಾಸನೇ ಪದ್ಮಕರೇ ಸರ್ವಲೋಕೈಕ ಪೂಜಿತೇ, ನಾರಾಯಣಪ್ರಿಯೇ ದೇವಿ ಸುಪ್ರೀತಾ ಭವ ಸರ್ವದಾ. ಶ್ರೀ ಶ್ರೀವರ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ಧ್ಯಾಯಾಮಿ, ಧ್ಯಾನಂ ಸಮರ್ಪಯಾಮಿ, ಮಂತ್ರಾಕ್ಷತೇನ್ನಃ.",
+          "text": "ōṁ sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt, sabhūmiṁ viśvatō vr̥tvātyatiṣṭhaddaśāṁgulaṁ. hiraṇyavarṇāṁ hariṇīṁ suvarṇarajatasrajāṁ, caṁdrāṁ hiraṇmayīṁ lakṣmīṁ jātavēdō ma āvaha. padmāsanē padmakarē sarvalōkaika pūjitē, nārāyaṇapriyē dēvi suprītā bhava sarvadā. śrī śrīvara mahālakṣmyai namaḥ. dhyāyāmi, dhyānaṁ samarpayāmi, maṁtrākṣatēnnaḥ."
         }
       ]
     },
@@ -1547,28 +1042,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ಪುರುಷ ಏವೇದಂ ಸರ್ವಂ ಯದ್ಭೂತಂ ಯಚ್ಚ ಭವ್ಯಂ, ಉತಾಮೃತತ್ವಸ್ಯೇಶಾನೋ ಯದನ್ನೇನಾತಿರೋಹತಿ. ",
-          "text": "puruṣa ēvēdaṁ sarvaṁ yadbhūtaṁ yacca bhavyaṁ, utāmr̥tatvasyēśānō yadannēnātirōhati."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ತಾವಾವಹ ಜಾತವೇದೋ ಲಕ್ಷ್ಮೀಮನಪಗಾಮಿನೀಂ, ಯಸ್ಯಾಂ ಹಿರಣ್ಯಂ ವಿಂದೇಯಂ ಗಾಮಶ್ವಂ ಪುರುಷಾನಹಂ. ",
-          "text": "tāvāvaha jātavēdō lakṣmīmanapagāminīṁ, yasyāṁ hiraṇyaṁ viṁdēyaṁ gāmaśvaṁ puruṣānahaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸರ್ವಮಂಗಲ ಮಾಂಗಲ್ಯೇ, ವಿಷ್ಣುವಕ್ಷಃಸ್ಥಲಾಲಯೇ, ಅವಾಹಯಾಮಿ ದೇವಿತ್ವಾಂ, ಸುಪ್ರೀತಾ ಭವ ಸರ್ವದಾ. ",
-          "text": "sarvamaṁgala māṁgalyē, viṣṇuvakṣaḥsthalālayē, avāhayāmi dēvitvāṁ, suprītā bhava sarvadā."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ಶ್ರೀವರ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ",
-          "text": "śrī śrīvara mahālakṣmyai namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಅವಾಹಯಾಮಿ, ಆವಾಹನಂ ಸಮರ್ಪಯಾಮಿ.",
-          "text": "avāhayāmi, āvāhanaṁ samarpayāmi."
+          "sourceOriginal": "ಪುರುಷ ಏವೇದಂ ಸರ್ವಂ ಯದ್ಭೂತಂ ಯಚ್ಚ ಭವ್ಯಂ, ಉತಾಮೃತತ್ವಸ್ಯೇಶಾನೋ ಯದನ್ನೇನಾತಿರೋಹತಿ. ತಾವಾವಹ ಜಾತವೇದೋ ಲಕ್ಷ್ಮೀಮನಪಗಾಮಿನೀಂ, ಯಸ್ಯಾಂ ಹಿರಣ್ಯಂ ವಿಂದೇಯಂ ಗಾಮಶ್ವಂ ಪುರುಷಾನಹಂ. ಸರ್ವಮಂಗಲ ಮಾಂಗಲ್ಯೇ, ವಿಷ್ಣುವಕ್ಷಃಸ್ಥಲಾಲಯೇ, ಅವಾಹಯಾಮಿ ದೇವಿತ್ವಾಂ, ಸುಪ್ರೀತಾ ಭವ ಸರ್ವದಾ. ಶ್ರೀ ಶ್ರೀವರ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ಅವಾಹಯಾಮಿ, ಆವಾಹನಂ ಸಮರ್ಪಯಾಮಿ.",
+          "text": "puruṣa ēvēdaṁ sarvaṁ yadbhūtaṁ yacca bhavyaṁ, utāmr̥tatvasyēśānō yadannēnātirōhati. tāvāvaha jātavēdō lakṣmīmanapagāminīṁ, yasyāṁ hiraṇyaṁ viṁdēyaṁ gāmaśvaṁ puruṣānahaṁ. sarvamaṁgala māṁgalyē, viṣṇuvakṣaḥsthalālayē, avāhayāmi dēvitvāṁ, suprītā bhava sarvadā. śrī śrīvara mahālakṣmyai namaḥ. avāhayāmi, āvāhanaṁ samarpayāmi."
         }
       ]
     },
@@ -1590,28 +1065,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ಏತಾವानಸ್ಯ ಮಹಿಮಾತೋ ಜ್ಯಾಯಾಂಶ್ಚ ಪೂರುಷಃ, ಪಾದೋಽಸ್ಯ ವಿಶ್ವಾ ಭೂತಾನಿ, ತ್ರಿಪಾದಸ್ಯಾಮೃತಂ ದಿವಿ. ",
-          "text": "ētāvaānasya mahimātō jyāyāṁśca pūruṣaḥ, pādō'sya viśvā bhūtāni, tripādasyāmr̥taṁ divi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಅಶ್ವಪೂರ್ವಾಂ ರಥಮಧ್ಯಾಂ ಹಸ್ತಿನಾದಪ್ರಬೋಧಿನೀಂ, ಶ್ರಿಯಂ ದೇವೀಮുപಹ್ವಯೇ ಶ್ರೀರ್ಮಾ ದೇವೀ ಜುಷತಾಂ. ",
-          "text": "aśvapūrvāṁ rathamadhyāṁ hastinādaprabōdhinīṁ, śriyaṁ dēvīmaുപhvayē śrīrmā dēvī juṣatāṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸೂರ್ಯಾಂ ಯುತನಿಭಸ್ಪೃಷ್ಟೇಃ, ಪುರದ್ರವ್ತವಿಭೂಷಿತಾಂ, ಸಿಂಹಾಸನವಿದಿಂ ದೇವೀಂ, ಗೃಹಾಣ ಹರಿವಲ್ಲಭೇ. ",
-          "text": "sūryāṁ yutanibhaspr̥ṣṭēḥ, puradravtavibhūṣitāṁ, siṁhāsanavidiṁ dēvīṁ, gr̥hāṇa harivallabhē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ಶ್ರೀವರ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ಆಸನಂ ಸಮರ್ಪಯಾಮಿ, ಮಂತ್ರಾಕ್ಷತೇನ್ನಃ. ",
-          "text": "śrī śrīvara mahālakṣmyai namaḥ, āsanaṁ samarpayāmi, maṁtrākṣatēnnaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ತ್ರಿಪಾದೂರ್ಧ್ವ…",
-          "text": "tripādūrdhva…"
+          "sourceOriginal": "ಏತಾವानಸ್ಯ ಮಹಿಮಾತೋ ಜ್ಯಾಯಾಂಶ್ಚ ಪೂರುಷಃ, ಪಾದೋಽಸ್ಯ ವಿಶ್ವಾ ಭೂತಾನಿ, ತ್ರಿಪಾದಸ್ಯಾಮೃತಂ ದಿವಿ. ಅಶ್ವಪೂರ್ವಾಂ ರಥಮಧ್ಯಾಂ ಹಸ್ತಿನಾದಪ್ರಬೋಧಿನೀಂ, ಶ್ರಿಯಂ ದೇವೀಮുപಹ್ವಯೇ ಶ್ರೀರ್ಮಾ ದೇವೀ ಜುಷತಾಂ. ಸೂರ್ಯಾಂ ಯುತನಿಭಸ್ಪೃಷ್ಟೇಃ, ಪುರದ್ರವ್ತವಿಭೂಷಿತಾಂ, ಸಿಂಹಾಸನವಿದಿಂ ದೇವೀಂ, ಗೃಹಾಣ ಹರಿವಲ್ಲಭೇ. ಶ್ರೀ ಶ್ರೀವರ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ಆಸನಂ ಸಮರ್ಪಯಾಮಿ, ಮಂತ್ರಾಕ್ಷತೇನ್ನಃ. ತ್ರಿಪಾದೂರ್ಧ್ವ…",
+          "text": "ētāvaānasya mahimātō jyāyāṁśca pūruṣaḥ, pādō'sya viśvā bhūtāni, tripādasyāmr̥taṁ divi. aśvapūrvāṁ rathamadhyāṁ hastinādaprabōdhinīṁ, śriyaṁ dēvīmaുപhvayē śrīrmā dēvī juṣatāṁ. sūryāṁ yutanibhaspr̥ṣṭēḥ, puradravtavibhūṣitāṁ, siṁhāsanavidiṁ dēvīṁ, gr̥hāṇa harivallabhē. śrī śrīvara mahālakṣmyai namaḥ, āsanaṁ samarpayāmi, maṁtrākṣatēnnaḥ. tripādūrdhva…"
         }
       ]
     },
@@ -1633,38 +1088,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ಪಿತ್ಪುರುಷಪಾದೋ ಸ್ನೇಹಾಭಾವತ್ಪುನಾಗಃ ತತೋ ವಿಶ್ವಂ ವಕ್ರಮತಃ ಶಾಶನಾರಶನೇ ಅಭಿ. ",
-          "text": "pitpuruṣapādō snēhābhāvatpunāgaḥ tatō viśvaṁ vakramataḥ śāśanāraśanē abhi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಕಾಂಸೋ ಸ್ಮಿತಾಂ ಹಿರಣ್ಯಪ್ರಾಕಾರಾಮಾರ್ದ್ರಾಂ ಜ್ವಲಂತೀಂ ತೃಪ್ತಾಂ ತರ್ಪಯಂತೀಂ. ",
-          "text": "kāṁsō smitāṁ hiraṇyaprākārāmārdrāṁ jvalaṁtīṁ tr̥ptāṁ tarpayaṁtīṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಪದ್ಮೇ ಸ್ಥಿತಾಂ ಪದ್ಮವರ್ಣಾಂ ತಾಮಿಹೋಪಹ್ವಯೇ ಶ್ರೀಯಂ. ",
-          "text": "padmē sthitāṁ padmavarṇāṁ tāmihōpahvayē śrīyaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸುವಾಸಿತಂ ಜಲಂ ಬ್ರಹ್ಮ್ಯಂ ಸರ್ವತೀರ್ಥಸಮುದ್ಭವಂ. ",
-          "text": "suvāsitaṁ jalaṁ brahmyaṁ sarvatīrthasamudbhavaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಪಾದ್ಯಂ ಗೃಹಾಣ ದೇವಿತ್ವಂ ಸರ್ವದೇವ ನಮಸ್ಕೃತೇ. ",
-          "text": "pādyaṁ gr̥hāṇa dēvitvaṁ sarvadēva namaskr̥tē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ಶ್ರೀವರ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ",
-          "text": "śrī śrīvara mahālakṣmyai namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಪಾದಯೋಃ ಪಾದ್ಯಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "pādayōḥ pādyaṁ samarpayāmi."
+          "sourceOriginal": "ಪಿತ್ಪುರುಷಪಾದೋ ಸ್ನೇಹಾಭಾವತ್ಪುನಾಗಃ ತತೋ ವಿಶ್ವಂ ವಕ್ರಮತಃ ಶಾಶನಾರಶನೇ ಅಭಿ. ಕಾಂಸೋ ಸ್ಮಿತಾಂ ಹಿರಣ್ಯಪ್ರಾಕಾರಾಮಾರ್ದ್ರಾಂ ಜ್ವಲಂತೀಂ ತೃಪ್ತಾಂ ತರ್ಪಯಂತೀಂ. ಪದ್ಮೇ ಸ್ಥಿತಾಂ ಪದ್ಮವರ್ಣಾಂ ತಾಮಿಹೋಪಹ್ವಯೇ ಶ್ರೀಯಂ. ಸುವಾಸಿತಂ ಜಲಂ ಬ್ರಹ್ಮ್ಯಂ ಸರ್ವತೀರ್ಥಸಮುದ್ಭವಂ. ಪಾದ್ಯಂ ಗೃಹಾಣ ದೇವಿತ್ವಂ ಸರ್ವದೇವ ನಮಸ್ಕೃತೇ. ಶ್ರೀ ಶ್ರೀವರ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ಪಾದಯೋಃ ಪಾದ್ಯಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "pitpuruṣapādō snēhābhāvatpunāgaḥ tatō viśvaṁ vakramataḥ śāśanāraśanē abhi. kāṁsō smitāṁ hiraṇyaprākārāmārdrāṁ jvalaṁtīṁ tr̥ptāṁ tarpayaṁtīṁ. padmē sthitāṁ padmavarṇāṁ tāmihōpahvayē śrīyaṁ. suvāsitaṁ jalaṁ brahmyaṁ sarvatīrthasamudbhavaṁ. pādyaṁ gr̥hāṇa dēvitvaṁ sarvadēva namaskr̥tē. śrī śrīvara mahālakṣmyai namaḥ. pādayōḥ pādyaṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -1692,53 +1117,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ತಸ್ಮಾದ್ ವಿರಾಡಜಾಯತ ವಿರಾಜೋ ಅಧಿ ಪೂರುಷಃ. ",
-          "text": "tasmād virāḍajāyata virājō adhi pūruṣaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸ ಜಾತೋ ಅತ್ಯರಿಚ್ಯತ ಪಶ್ಚಾದ್ಭೂಮಿಮಥೋ ಪುರಃ. ",
-          "text": "sa jātō atyaricyata paścādbhūmimathō puraḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಚಂದ್ರಮಾ ಮನಸೋ ಜಾತಃ ಚಕ್ಷೋಃ ಸೂರ್ಯೋ ಅಜಾಯತ. ",
-          "text": "caṁdramā manasō jātaḥ cakṣōḥ sūryō ajāyata."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೋತ್ರಾದ್ ವಾಯುಶ್ಚ ಪ್ರಾಣಶ್ಚ. ",
-          "text": "śrōtrād vāyuśca prāṇaśca."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀಂ ಲೋಕೇ ದೇವ ಜುಷ್ಟಾ ಮುದಾರಾ. ",
-          "text": "śrīṁ lōkē dēva juṣṭā mudārā."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ತಾಂ ಪದ್ಮಿನೀಂ ಶರಣಮಹಂ ಪ್ರಪದ್ಯೇ ಅಲಕ್ಷ್ಮೀರ್ಮೇ ನಶ್ಯತಾಂ ತ್ವಾಂ ವೃಣೇ. ",
-          "text": "tāṁ padminīṁ śaraṇamahaṁ prapadyē alakṣmīrmē naśyatāṁ tvāṁ vr̥ṇē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶುದ್ಧೋದಕಂಚ ಪಾತ್ರಸ್ಥಂ ಗಂಧಪುಷ್ಪಾದಿ ಮಿಶ್ರಿತಂ. ",
-          "text": "śuddhōdakaṁca pātrasthaṁ gaṁdhapuṣpādi miśritaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಅರ್ಘ್ಯಂ ದಾಸ್ಯಾಮಿ ದೇವಿ ಗೃಹಾಣ ಸುರಪೂಜಿತೇ. ",
-          "text": "arghyaṁ dāsyāmi dēvi gr̥hāṇa surapūjitē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ",
-          "text": "śrī varada mahālakṣmyai namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಹಸ್ತಯೋಃ ಅರ್ಘ್ಯಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "hastayōḥ arghyaṁ samarpayāmi."
+          "sourceOriginal": "ತಸ್ಮಾದ್ ವಿರಾಡಜಾಯತ ವಿರಾಜೋ ಅಧಿ ಪೂರುಷಃ. ಸ ಜಾತೋ ಅತ್ಯರಿಚ್ಯತ ಪಶ್ಚಾದ್ಭೂಮಿಮಥೋ ಪುರಃ. ಚಂದ್ರಮಾ ಮನಸೋ ಜಾತಃ ಚಕ್ಷೋಃ ಸೂರ್ಯೋ ಅಜಾಯತ. ಶ್ರೋತ್ರಾದ್ ವಾಯುಶ್ಚ ಪ್ರಾಣಶ್ಚ. ಶ್ರೀಂ ಲೋಕೇ ದೇವ ಜುಷ್ಟಾ ಮುದಾರಾ. ತಾಂ ಪದ್ಮಿನೀಂ ಶರಣಮಹಂ ಪ್ರಪದ್ಯೇ ಅಲಕ್ಷ್ಮೀರ್ಮೇ ನಶ್ಯತಾಂ ತ್ವಾಂ ವೃಣೇ. ಶುದ್ಧೋದಕಂಚ ಪಾತ್ರಸ್ಥಂ ಗಂಧಪುಷ್ಪಾದಿ ಮಿಶ್ರಿತಂ. ಅರ್ಘ್ಯಂ ದಾಸ್ಯಾಮಿ ದೇವಿ ಗೃಹಾಣ ಸುರಪೂಜಿತೇ. ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ಹಸ್ತಯೋಃ ಅರ್ಘ್ಯಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "tasmād virāḍajāyata virājō adhi pūruṣaḥ. sa jātō atyaricyata paścādbhūmimathō puraḥ. caṁdramā manasō jātaḥ cakṣōḥ sūryō ajāyata. śrōtrād vāyuśca prāṇaśca. śrīṁ lōkē dēva juṣṭā mudārā. tāṁ padminīṁ śaraṇamahaṁ prapadyē alakṣmīrmē naśyatāṁ tvāṁ vr̥ṇē. śuddhōdakaṁca pātrasthaṁ gaṁdhapuṣpādi miśritaṁ. arghyaṁ dāsyāmi dēvi gr̥hāṇa surapūjitē. śrī varada mahālakṣmyai namaḥ. hastayōḥ arghyaṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -1766,33 +1146,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ಯತ್ಪುರುಷೇಣ ಹವಿಷಾ ದೇವಾ ಯಜ್ಞಮತನ್ವತ. ",
-          "text": "yatpuruṣēṇa haviṣā dēvā yajñamatanvata."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ವಸಂತೋ ಅಸ್ಯಾಸೀದಾಜ್ಯಂ ಗ್ರೀಷ್ಮ ಇಧ್ಮಃ ಶರದ್ಧವಿಃ. ",
-          "text": "vasaṁtō asyāsīdājyaṁ grīṣma idhmaḥ śaraddhaviḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಆದಿತ್ಯವರ್ಣೇ ತಪಸೋಧಿಜಾತೋ ವನಸ್ಪತಿಸ್ತವ ವೃಕ್ಷೋಥ ಬಿಲ್ವಃ. ",
-          "text": "ādityavarṇē tapasōdhijātō vanaspatistava vr̥kṣōtha bilvaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "तस्य फलानि तपसानुदन्तु भाग्यांत राग्याश्च बाह्या अलक्ष्मीः। ",
-          "text": "tasya phalāni tapasānudantu bhāgyāṁta rāgyāśca bāhyā alakṣmīḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "सुपर्ण कलशानीतं चन्द्रनागरुसंयुतं, गृहाणाचमनं देवी मया दत्तं शुभप्रदे। ",
-          "text": "suparṇa kalaśānītaṁ candranāgarusaṁyutaṁ, gr̥hāṇācamanaṁ dēvī mayā dattaṁ śubhapradē|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "श्रीश्री वरद महालक्ष्मै नमः, आचमनीयार्थे जलं समर्पयामि। ",
-          "text": "śrīśrī varada mahālakṣmai namaḥ, ācamanīyārthē jalaṁ samarpayāmi|"
+          "sourceOriginal": "ಯತ್ಪುರುಷೇಣ ಹವಿಷಾ ದೇವಾ ಯಜ್ಞಮತನ್ವತ. ವಸಂತೋ ಅಸ್ಯಾಸೀದಾಜ್ಯಂ ಗ್ರೀಷ್ಮ ಇಧ್ಮಃ ಶರದ್ಧವಿಃ. ಆದಿತ್ಯವರ್ಣೇ ತಪಸೋಧಿಜಾತೋ ವನಸ್ಪತಿಸ್ತವ ವೃಕ್ಷೋಥ ಬಿಲ್ವಃ. तस्य फलानि तपसानुदन्तु भाग्यांत राग्याश्च बाह्या अलक्ष्मीः। सुपर्ण कलशानीतं चन्द्रनागरुसंयुतं, गृहाणाचमनं देवी मया दत्तं शुभप्रदे। श्रीश्री वरद महालक्ष्मै नमः, आचमनीयार्थे जलं समर्पयामि। ",
+          "text": "yatpuruṣēṇa haviṣā dēvā yajñamatanvata. vasaṁtō asyāsīdājyaṁ grīṣma idhmaḥ śaraddhaviḥ. ādityavarṇē tapasōdhijātō vanaspatistava vr̥kṣōtha bilvaḥ. tasya phalāni tapasānudantu bhāgyāṁta rāgyāśca bāhyā alakṣmīḥ| suparṇa kalaśānītaṁ candranāgarusaṁyutaṁ, gr̥hāṇācamanaṁ dēvī mayā dattaṁ śubhapradē| śrīśrī varada mahālakṣmai namaḥ, ācamanīyārthē jalaṁ samarpayāmi|"
         },
         {
           "kind": "action",
@@ -1820,33 +1175,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "तं यज्ञं वरघिषि प्रौक्षन् पुरुषं जातमग्रतः। ",
-          "text": "taṁ yajñaṁ varaghiṣi praukṣan puruṣaṁ jātamagrataḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "तेन देवा अयजन्त साध्या ऋषयश्च ये। ",
-          "text": "tēna dēvā ayajanta sādhyā r̥ṣayaśca yē|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "उपैतु मां देवसखः कीर्तिश्च मणिना सह। ",
-          "text": "upaitu māṁ dēvasakhaḥ kīrtiśca maṇinā saha|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "प्रादुर्भूतोऽस्मि राष्ट्रेऽस्मिन् कीर्तिमृद्धिं ददातु मे। ",
-          "text": "prādurbhūtō'smi rāṣṭrē'smin kīrtimr̥ddhiṁ dadātu mē|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "दद्याज्जलमदुसंयुक्तं मधुपर्कं मयाऽहृतम्, गृहाण वरदे देवी नमस्ते हरिवल्लभे। ",
-          "text": "dadyājjalamadusaṁyuktaṁ madhuparkaṁ mayā'hr̥tam, gr̥hāṇa varadē dēvī namastē harivallabhē|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "श्रीश्री वरद महालक्ष्मै नमः, मधुपर्कं समर्पयामि। ",
-          "text": "śrīśrī varada mahālakṣmai namaḥ, madhuparkaṁ samarpayāmi|"
+          "sourceOriginal": "तं यज्ञं वरघिषि प्रौक्षन् पुरुषं जातमग्रतः। तेन देवा अयजन्त साध्या ऋषयश्च ये। उपैतु मां देवसखः कीर्तिश्च मणिना सह। प्रादुर्भूतोऽस्मि राष्ट्रेऽस्मिन् कीर्तिमृद्धिं ददातु मे। दद्याज्जलमदुसंयुक्तं मधुपर्कं मयाऽहृतम्, गृहाण वरदे देवी नमस्ते हरिवल्लभे। श्रीश्री वरद महालक्ष्मै नमः, मधुपर्कं समर्पयामि। ",
+          "text": "taṁ yajñaṁ varaghiṣi praukṣan puruṣaṁ jātamagrataḥ| tēna dēvā ayajanta sādhyā r̥ṣayaśca yē| upaitu māṁ dēvasakhaḥ kīrtiśca maṇinā saha| prādurbhūtō'smi rāṣṭrē'smin kīrtimr̥ddhiṁ dadātu mē| dadyājjalamadusaṁyuktaṁ madhuparkaṁ mayā'hr̥tam, gr̥hāṇa varadē dēvī namastē harivallabhē| śrīśrī varada mahālakṣmai namaḥ, madhuparkaṁ samarpayāmi|"
         },
         {
           "kind": "action",
@@ -1874,28 +1204,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "तस्माद्यज्ञान् सर्वहुतः संभृतं पृषदाज्यम्, पशूँस्तांश्चक्रे वायव्यान् आरण्यान् ग्राम्याश्च ये। ",
-          "text": "tasmādyajñān sarvahutaḥ saṁbhr̥taṁ pr̥ṣadājyam, paśūm̐stāṁścakrē vāyavyān āraṇyān grāmyāśca yē|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "क्षुत्पिपासामलां ज्येष्ठामलक्ष्मीं नाशयाम्यहम्, अभूतिं समृद्धिं च सर्वां निर्दुदामे गृहात्। ",
-          "text": "kṣutpipāsāmalāṁ jyēṣṭhāmalakṣmīṁ nāśayāmyaham, abhūtiṁ samr̥ddhiṁ ca sarvāṁ nirdudāmē gr̥hāt|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "पयो दधि घृतं चैव शर्करा मधुसंयुतम्। ",
-          "text": "payō dadhi ghr̥taṁ caiva śarkarā madhusaṁyutam|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "पंचामृतस्नानविधिं गृहाण कमलालये। ",
-          "text": "paṁcāmr̥tasnānavidhiṁ gr̥hāṇa kamalālayē|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "पंचामृत अभिषेक, पंचामृत अभिषेकवु. ",
-          "text": "paṁcāmr̥ta abhiṣēka, paṁcāmr̥ta abhiṣēkavu."
+          "sourceOriginal": "तस्माद्यज्ञान् सर्वहुतः संभृतं पृषदाज्यम्, पशूँस्तांश्चक्रे वायव्यान् आरण्यान् ग्राम्याश्च ये। क्षुत्पिपासामलां ज्येष्ठामलक्ष्मीं नाशयाम्यहम्, अभूतिं समृद्धिं च सर्वां निर्दुदामे गृहात्। पयो दधि घृतं चैव शर्करा मधुसंयुतम्। पंचामृतस्नानविधिं गृहाण कमलालये। पंचामृत अभिषेक, पंचामृत अभिषेकवु. ",
+          "text": "tasmādyajñān sarvahutaḥ saṁbhr̥taṁ pr̥ṣadājyam, paśūm̐stāṁścakrē vāyavyān āraṇyān grāmyāśca yē| kṣutpipāsāmalāṁ jyēṣṭhāmalakṣmīṁ nāśayāmyaham, abhūtiṁ samr̥ddhiṁ ca sarvāṁ nirdudāmē gr̥hāt| payō dadhi ghr̥taṁ caiva śarkarā madhusaṁyutam| paṁcāmr̥tasnānavidhiṁ gr̥hāṇa kamalālayē| paṁcāmr̥ta abhiṣēka, paṁcāmr̥ta abhiṣēkavu."
         },
         {
           "kind": "action",
@@ -1917,93 +1227,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಪಂಚಾಮೃತ ಸೂಕ್ತ, ಮೊದಲು ಹಾಲಿನ ಅಭಿಷೇಕ. ",
-          "text": "paṁcāmr̥ta sūkta, modalu hālina abhiṣēka."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "आप्यायस्व समेतु ते विश्वतः सोम वृष्ण्यं भवावाजस्य संगते। ",
-          "text": "āpyāyasva samētu tē viśvataḥ sōma vr̥ṣṇyaṁ bhavāvājasya saṁgatē|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "क्षीरस्थानं समर्पयामि। ",
-          "text": "kṣīrasthānaṁ samarpayāmi|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "दधिक्राव्णो अकारिषं जिष्णोरश्वस्य वाजिनः। ",
-          "text": "dadhikrāvṇō akāriṣaṁ jiṣṇōraśvasya vājinaḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "सुरभि नो मुखाकरत् प्रण आयूंषि तारिषत्। ",
-          "text": "surabhi nō mukhākarat praṇa āyūṁṣi tāriṣat|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "दधिस्थानं समर्पयामಿ। ",
-          "text": "dadhisthānaṁ samarpayāmai|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "घृतं मि मिक्षे घृतमस्य योनिर्�घृते श्रितो घृतं वस्य धाम। ",
-          "text": "ghr̥taṁ mi mikṣē ghr̥tamasya yōnir�ghr̥tē śritō ghr̥taṁ vasya dhāma|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "अनुष्वधमा वह मादयस्व स्वाहा कृतं वृषभ वक्षि हव्यम्। ",
-          "text": "anuṣvadhamā vaha mādayasva svāhā kr̥taṁ vr̥ṣabha vakṣi havyam|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "श्री वर महಾಲಕ್ಷ್ಮೇ ನಮಃ, ಘೃತಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ। ",
-          "text": "śrī vara mahaālakṣmē namaḥ, ghr̥tasnānaṁ samarpayāmi|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ॐ मधुमाता ऋतायते मधु क्षरन्ति सिन्धवः। ",
-          "text": "ōṁ madhumātā r̥tāyatē madhu kṣaranti sindhavaḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "मार्द्वीर्नः सन्त्वोषधीः। ",
-          "text": "mārdvīrnaḥ santvōṣadhīḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀವರಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ",
-          "text": "śrīvaramahālakṣmyai namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಮಧುಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "madhusnānaṁ samarpayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸ್ವಾಹುತ್ಪಾವಸ್ವ ದಿವ್ಯಾಗೆ ಜನ್ಮನೇ ಸ್ವಾದು ರಿಂದ್ರಾಯ ಸುಖವೀತು ನಾಮ್ನೇ. ",
-          "text": "svāhutpāvasva divyāge janmanē svādu riṁdrāya sukhavītu nāmnē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸ್ವಾಧರ ವಿಪ್ನಾಗ್ಯ ವರೂಣಾಗ್ಯ ವಾಗ್ಯವೇ ಬೃಹಸ್ಪತಗೆ ಮಧುಮಾಂಗದಾ ಆಭ್ಯಃ. ",
-          "text": "svādhara vipnāgya varūṇāgya vāgyavē br̥haspatage madhumāṁgadā ābhyaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀವರಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ ಶರ್ಕರಾಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "śrīvaramahālakṣmyai namaḥ śarkarāsnānaṁ samarpayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಾಃ ಫಲಿನೀರ್ಯಾ ಫಲಾ ಪುಷ್ಪಾ ಯಾಶ್ಚಾಪುಷ್ಪಿಣೀಃ, ಬೃಹಸ್ಪತಿಃ ಪ್ರಸೂತಾಸ್ತಾನೋ ಮುಂಚಂತ್ವಂಹಸಃ. ",
-          "text": "yāḥ phalinīryā phalā puṣpā yāścāpuṣpiṇīḥ, br̥haspatiḥ prasūtāstānō muṁcaṁtvaṁhasaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಇತಿ ಫಲೋದಕಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "iti phalōdakasnānaṁ samarpayāmi."
+          "sourceOriginal": "ಪಂಚಾಮೃತ ಸೂಕ್ತ, ಮೊದಲು ಹಾಲಿನ ಅಭಿಷೇಕ. आप्यायस्व समेतु ते विश्वतः सोम वृष्ण्यं भवावाजस्य संगते। क्षीरस्थानं समर्पयामि। दधिक्राव्णो अकारिषं जिष्णोरश्वस्य वाजिनः। सुरभि नो मुखाकरत् प्रण आयूंषि तारिषत्। दधिस्थानं समर्पयामಿ। घृतं मि मिक्षे घृतमस्य योनिर्�घृते श्रितो घृतं वस्य धाम। अनुष्वधमा वह मादयस्व स्वाहा कृतं वृषभ वक्षि हव्यम्। श्री वर महಾಲಕ್ಷ್ಮೇ ನಮಃ, ಘೃತಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ। ॐ मधुमाता ऋतायते मधु क्षरन्ति सिन्धवः। मार्द्वीर्नः सन्त्वोषधीः। ಶ್ರೀವರಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ಮಧುಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ. ಸ್ವಾಹುತ್ಪಾವಸ್ವ ದಿವ್ಯಾಗೆ ಜನ್ಮನೇ ಸ್ವಾದು ರಿಂದ್ರಾಯ ಸುಖವೀತು ನಾಮ್ನೇ. ಸ್ವಾಧರ ವಿಪ್ನಾಗ್ಯ ವರೂಣಾಗ್ಯ ವಾಗ್ಯವೇ ಬೃಹಸ್ಪತಗೆ ಮಧುಮಾಂಗದಾ ಆಭ್ಯಃ. ಶ್ರೀವರಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ ಶರ್ಕರಾಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ. ಯಾಃ ಫಲಿನೀರ್ಯಾ ಫಲಾ ಪುಷ್ಪಾ ಯಾಶ್ಚಾಪುಷ್ಪಿಣೀಃ, ಬೃಹಸ್ಪತಿಃ ಪ್ರಸೂತಾಸ್ತಾನೋ ಮುಂಚಂತ್ವಂಹಸಃ. ಇತಿ ಫಲೋದಕಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "paṁcāmr̥ta sūkta, modalu hālina abhiṣēka. āpyāyasva samētu tē viśvataḥ sōma vr̥ṣṇyaṁ bhavāvājasya saṁgatē| kṣīrasthānaṁ samarpayāmi| dadhikrāvṇō akāriṣaṁ jiṣṇōraśvasya vājinaḥ| surabhi nō mukhākarat praṇa āyūṁṣi tāriṣat| dadhisthānaṁ samarpayāmai| ghr̥taṁ mi mikṣē ghr̥tamasya yōnir�ghr̥tē śritō ghr̥taṁ vasya dhāma| anuṣvadhamā vaha mādayasva svāhā kr̥taṁ vr̥ṣabha vakṣi havyam| śrī vara mahaālakṣmē namaḥ, ghr̥tasnānaṁ samarpayāmi| ōṁ madhumātā r̥tāyatē madhu kṣaranti sindhavaḥ| mārdvīrnaḥ santvōṣadhīḥ| śrīvaramahālakṣmyai namaḥ. madhusnānaṁ samarpayāmi. svāhutpāvasva divyāge janmanē svādu riṁdrāya sukhavītu nāmnē. svādhara vipnāgya varūṇāgya vāgyavē br̥haspatage madhumāṁgadā ābhyaḥ. śrīvaramahālakṣmyai namaḥ śarkarāsnānaṁ samarpayāmi. yāḥ phalinīryā phalā puṣpā yāścāpuṣpiṇīḥ, br̥haspatiḥ prasūtāstānō muṁcaṁtvaṁhasaḥ. iti phalōdakasnānaṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -2037,63 +1262,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ತಸ್ಮಾದ್ ಯಜ್ಞಾನಾತ್ ಸರ್ವಹುತ ಋಚಃ ಸಾಮಾನಿ ಜಜ್ಞಿರೇ, ಛಂದಾಂಸಿ ಜಜ್ಞಿರೇ ತಸ್ಮಾದ್ ಯಜುಸ್ತಸ್ಮಾದಜಾಯತ. ",
-          "text": "tasmād yajñānāt sarvahuta r̥caḥ sāmāni jajñirē, chaṁdāṁsi jajñirē tasmād yajustasmādajāyata."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಗಂಧದ್ವಾರಾಂ ದುರಾಧರ್ಷಾಂ ನಿತ್ಯಪುಷ್ಟಾಂ ಕರೀಷಿಣೀಂ, ಈಶ್ವರೀಂ ಸರ್ವಭೂತಾನಾಂ ತಾಮಿಹೋಪಹ್ವಯೇ ಶ್ರೀಂ. ",
-          "text": "gaṁdhadvārāṁ durādharṣāṁ nityapuṣṭāṁ karīṣiṇīṁ, īśvarīṁ sarvabhūtānāṁ tāmihōpahvayē śrīṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಗಂಗಾ ಗೋದಾವರೀ ಕೃಷ್ಣಾ ಗೌತಮೀ ನರ್ಮದಾ ಜಲೈಃ, ಸ್ನಾನಾರ್ಥಮಾಹೃತಂ ಮಾತಃ ಸ್ವೀಕುರುಷ್ವ ಹರಿಪ್ರಿಯೇ. ",
-          "text": "gaṁgā gōdāvarī kr̥ṣṇā gautamī narmadā jalaiḥ, snānārthamāhr̥taṁ mātaḥ svīkuruṣva haripriyē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀವರಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ",
-          "text": "śrīvaramahālakṣmyai namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಗಂಗೋದಕ ಸ್ನಾನೇನ ಸ್ನಾಪಯಾಮಿ. ",
-          "text": "gaṁgōdaka snānēna snāpayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯತ್ಪುರುಷಂ ವೇದ ದುಃಖದಿಧಾವ್ಯಾಕಲ್ಪಯನ್, ಮುಖಂ ಕಿಮಸ್ಯ ಕೌ ಬಾಹೂ ಕಾ ಊರೂ ಪಾದಾ ಉಚ್ಯೇತೇ. ",
-          "text": "yatpuruṣaṁ vēda duḥkhadidhāvyākalpayan, mukhaṁ kimasya kau bāhū kā ūrū pādā ucyētē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಕರ್ದಮೇನ ಪ್ರಜಾಭೂತಾ ಬಹಿಸಂಭವ ಕರ್ದಮ, ಶ್ರೀಂ ವಾಸಯ ಮೇ ಕುಲೇ ಮಾತರಂ ಪದ್ಮಮಾಲಿನೀಂ. ",
-          "text": "kardamēna prajābhūtā bahisaṁbhava kardama, śrīṁ vāsaya mē kulē mātaraṁ padmamālinīṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ರಜತಾದ್ರಿಸಮಂ ದಿವ್ಯಂ ದಿವ್ಯಸಾಗರಸನ್ನಿಭಂ. ",
-          "text": "rajatādrisamaṁ divyaṁ divyasāgarasannibhaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಚಂದ್ರಪ್ರಭಾಸಮಂ ದೇವಿ ವಸ್ತ್ರಯುಗ್ಮಂ ದದಾಮ್ಯಹಂ। ",
-          "text": "caṁdraprabhāsamaṁ dēvi vastrayugmaṁ dadāmyahaṁ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಇವಾ ಆಸ್ವಾದ ಪರಿವೀತ ಆಗಾತ್ ವುಷ್ಟಿರೇಯಾ ಅನ್ಭವತಿ ಜಾಯಾ ವಾರಃ। ",
-          "text": "ivā āsvāda parivīta āgāt vuṣṭirēyā anbhavati jāyā vāraḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ತಂದೀರಾಸಕ್ಕವಯಾ ವುನ್ನಯಂತಿ ಸ್ವಾಧ್ಯೋ ಮನಸಾ ದೇವಯಂತಃ। ",
-          "text": "taṁdīrāsakkavayā vunnayaṁti svādhyō manasā dēvayaṁtaḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ವಸ್ತ್ರಯುಗ್ಮಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "śrī varada mahālakṣmyai namaḥ, vastrayugmaṁ samarpayāmi."
+          "sourceOriginal": "ತಸ್ಮಾದ್ ಯಜ್ಞಾನಾತ್ ಸರ್ವಹುತ ಋಚಃ ಸಾಮಾನಿ ಜಜ್ಞಿರೇ, ಛಂದಾಂಸಿ ಜಜ್ಞಿರೇ ತಸ್ಮಾದ್ ಯಜುಸ್ತಸ್ಮಾದಜಾಯತ. ಗಂಧದ್ವಾರಾಂ ದುರಾಧರ್ಷಾಂ ನಿತ್ಯಪುಷ್ಟಾಂ ಕರೀಷಿಣೀಂ, ಈಶ್ವರೀಂ ಸರ್ವಭೂತಾನಾಂ ತಾಮಿಹೋಪಹ್ವಯೇ ಶ್ರೀಂ. ಗಂಗಾ ಗೋದಾವರೀ ಕೃಷ್ಣಾ ಗೌತಮೀ ನರ್ಮದಾ ಜಲೈಃ, ಸ್ನಾನಾರ್ಥಮಾಹೃತಂ ಮಾತಃ ಸ್ವೀಕುರುಷ್ವ ಹರಿಪ್ರಿಯೇ. ಶ್ರೀವರಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ಗಂಗೋದಕ ಸ್ನಾನೇನ ಸ್ನಾಪಯಾಮಿ. ಯತ್ಪುರುಷಂ ವೇದ ದುಃಖದಿಧಾವ್ಯಾಕಲ್ಪಯನ್, ಮುಖಂ ಕಿಮಸ್ಯ ಕೌ ಬಾಹೂ ಕಾ ಊರೂ ಪಾದಾ ಉಚ್ಯೇತೇ. ಕರ್ದಮೇನ ಪ್ರಜಾಭೂತಾ ಬಹಿಸಂಭವ ಕರ್ದಮ, ಶ್ರೀಂ ವಾಸಯ ಮೇ ಕುಲೇ ಮಾತರಂ ಪದ್ಮಮಾಲಿನೀಂ. ರಜತಾದ್ರಿಸಮಂ ದಿವ್ಯಂ ದಿವ್ಯಸಾಗರಸನ್ನಿಭಂ. ಚಂದ್ರಪ್ರಭಾಸಮಂ ದೇವಿ ವಸ್ತ್ರಯುಗ್ಮಂ ದದಾಮ್ಯಹಂ। ಇವಾ ಆಸ್ವಾದ ಪರಿವೀತ ಆಗಾತ್ ವುಷ್ಟಿರೇಯಾ ಅನ್ಭವತಿ ಜಾಯಾ ವಾರಃ। ತಂದೀರಾಸಕ್ಕವಯಾ ವುನ್ನಯಂತಿ ಸ್ವಾಧ್ಯೋ ಮನಸಾ ದೇವಯಂತಃ। ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ವಸ್ತ್ರಯುಗ್ಮಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "tasmād yajñānāt sarvahuta r̥caḥ sāmāni jajñirē, chaṁdāṁsi jajñirē tasmād yajustasmādajāyata. gaṁdhadvārāṁ durādharṣāṁ nityapuṣṭāṁ karīṣiṇīṁ, īśvarīṁ sarvabhūtānāṁ tāmihōpahvayē śrīṁ. gaṁgā gōdāvarī kr̥ṣṇā gautamī narmadā jalaiḥ, snānārthamāhr̥taṁ mātaḥ svīkuruṣva haripriyē. śrīvaramahālakṣmyai namaḥ. gaṁgōdaka snānēna snāpayāmi. yatpuruṣaṁ vēda duḥkhadidhāvyākalpayan, mukhaṁ kimasya kau bāhū kā ūrū pādā ucyētē. kardamēna prajābhūtā bahisaṁbhava kardama, śrīṁ vāsaya mē kulē mātaraṁ padmamālinīṁ. rajatādrisamaṁ divyaṁ divyasāgarasannibhaṁ. caṁdraprabhāsamaṁ dēvi vastrayugmaṁ dadāmyahaṁ| ivā āsvāda parivīta āgāt vuṣṭirēyā anbhavati jāyā vāraḥ| taṁdīrāsakkavayā vunnayaṁti svādhyō manasā dēvayaṁtaḥ| śrī varada mahālakṣmyai namaḥ, vastrayugmaṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -2121,38 +1291,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ಬ್ರಾಹ್ಮಣೋಸ್ಯ ಮುಖಾಮಾಸೀತ್, ಬಾಹೂರಾಜನ್ಯಃ ಕೃತಃ। ",
-          "text": "brāhmaṇōsya mukhāmāsīt, bāhūrājanyaḥ kr̥taḥ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಊರೂ ತದಸ್ಯ ಯದ್ವೈಶ್ಯಃ, ಪದ್ಭ್ಯಾಂ ಶೂದ್ರೋ ಅಜಾಯತ। ",
-          "text": "ūrū tadasya yadvaiśyaḥ, padbhyāṁ śūdrō ajāyata|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಆಪಸ್ತಂಬಂತು ಸಿಕ್ಕಾನಿ ಚಿಕ್ಲೀತ ವಸಮೇ ಗೃಹೇ। ",
-          "text": "āpastaṁbaṁtu sikkāni ciklīta vasamē gr̥hē|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ನಿಜಾ ದೇವಿ ಮಾತರಂ, ಶ್ರೀಯಂ ವಾಸಯ ಮೇ ಕುಲೇ। ",
-          "text": "nijā dēvi mātaraṁ, śrīyaṁ vāsaya mē kulē|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಮಾಂಗಲ್ಯ ಮಣಿಸಂಯುಕ್ತಂ ಮುಕ್ತಾಫಲ ಸಮನ್ವಿತಂ। ",
-          "text": "māṁgalya maṇisaṁyuktaṁ muktāphala samanvitaṁ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ದತ್ತಂ ಮಂಗಲಸೂತ್ರಂ ತೇ ಗೃಹಾಣ ಹರಿವಲ್ಲಭೇ। ",
-          "text": "dattaṁ maṁgalasūtraṁ tē gr̥hāṇa harivallabhē|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ಮಂಗಲಸೂತ್ರಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "śrī varada mahālakṣmyai namaḥ, maṁgalasūtraṁ samarpayāmi."
+          "sourceOriginal": "ಬ್ರಾಹ್ಮಣೋಸ್ಯ ಮುಖಾಮಾಸೀತ್, ಬಾಹೂರಾಜನ್ಯಃ ಕೃತಃ। ಊರೂ ತದಸ್ಯ ಯದ್ವೈಶ್ಯಃ, ಪದ್ಭ್ಯಾಂ ಶೂದ್ರೋ ಅಜಾಯತ। ಆಪಸ್ತಂಬಂತು ಸಿಕ್ಕಾನಿ ಚಿಕ್ಲೀತ ವಸಮೇ ಗೃಹೇ। ನಿಜಾ ದೇವಿ ಮಾತರಂ, ಶ್ರೀಯಂ ವಾಸಯ ಮೇ ಕುಲೇ। ಮಾಂಗಲ್ಯ ಮಣಿಸಂಯುಕ್ತಂ ಮುಕ್ತಾಫಲ ಸಮನ್ವಿತಂ। ದತ್ತಂ ಮಂಗಲಸೂತ್ರಂ ತೇ ಗೃಹಾಣ ಹರಿವಲ್ಲಭೇ। ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ಮಂಗಲಸೂತ್ರಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "brāhmaṇōsya mukhāmāsīt, bāhūrājanyaḥ kr̥taḥ| ūrū tadasya yadvaiśyaḥ, padbhyāṁ śūdrō ajāyata| āpastaṁbaṁtu sikkāni ciklīta vasamē gr̥hē| nijā dēvi mātaraṁ, śrīyaṁ vāsaya mē kulē| māṁgalya maṇisaṁyuktaṁ muktāphala samanvitaṁ| dattaṁ maṁgalasūtraṁ tē gr̥hāṇa harivallabhē| śrī varada mahālakṣmyai namaḥ, maṁgalasūtraṁ samarpayāmi."
         },
         {
           "kind": "action",
@@ -2162,78 +1302,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಚಂದ್ರಮಾ ಮನಸೋ ಜಾತಃ, ಚಕ್ಷೋಃ ಸೂರ್ಯೋ ಅಜಾಯತ। ",
-          "text": "caṁdramā manasō jātaḥ, cakṣōḥ sūryō ajāyata|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಮುಖಾದಿಂದ್ರಶ್ಚಾಗ್ನಿಶ್ಚ, ಪ್ರಾಣಾದ್ವಾಯುರಜಾಯತ। ",
-          "text": "mukhādiṁdraścāgniśca, prāṇādvāyurajāyata|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಆರ್ದ್ರಾ ಪುಷ್ಕರಿಣೀ ಪುಷ್ಟಿಂ, ಸುವರ್ಣಾ ಹೆಮಮಾಲಿನೀ। ",
-          "text": "ārdrā puṣkariṇī puṣṭiṁ, suvarṇā hemamālinī|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸೂರ್ಯಾಂ ಹಿರಣ್ಮಯೀಂ ಲಕ್ಷ್ಮೀಂ, ಜಾತವೇದೋ ಮ ಆವಹ। ",
-          "text": "sūryāṁ hiraṇmayīṁ lakṣmīṁ, jātavēdō ma āvaha|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ತತ್ಪ್ರತೇವ ಕೃತಂ ಸೂತ್ರಂ, ಮುಕ್ತಾಧಾವ ವಿಭೂಷಿತಂ। ",
-          "text": "tatpratēva kr̥taṁ sūtraṁ, muktādhāva vibhūṣitaṁ|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಉಪವೀತಮಿದಂ ದೇವಿ, ಗೃಹಾಣತ್ವಂ ಶುಭಪ್ರದೇ। ",
-          "text": "upavītamidaṁ dēvi, gr̥hāṇatvaṁ śubhapradē|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ಯಜ್ಞೋಪವೀತಂ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "śrī varada mahālakṣmyai namaḥ, yajñōpavītaṁ samarpayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "नाभ्या आसीदन्तरिक्षं शीर्ष्णो द्यौः समवर्तत। ",
-          "text": "nābhyā āsīdantarikṣaṁ śīrṣṇō dyauḥ samavartata|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "पद्भ्यां भूमिर्दिशः श्रोत्रात् तथा लोकान् कल्पयन्॥ ",
-          "text": "padbhyāṁ bhūmirdiśaḥ śrōtrāt tathā lōkān kalpayan||"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "आर्द्रा वेह्करणी व्यष्टिं पिङ्गला पद्ममालिनी। ",
-          "text": "ārdrā vēhkaraṇī vyaṣṭiṁ piṅgalā padmamālinī|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "चन्द्रा मृण्मयी लक्ष्मीं जातवेदो म आवह॥ ",
-          "text": "candrā mr̥ṇmayī lakṣmīṁ jātavēdō ma āvaha||"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "हारकैवेय ताटङ्का कङ्कणाङ्गुलिभूषणम्। ",
-          "text": "hārakaivēya tāṭaṅkā kaṅkaṇāṅgulibhūṣaṇam|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "काञ्ची नूपुरमुख्यानि भूषणानि ददामि ते॥ ",
-          "text": "kāñcī nūpuramukhyāni bhūṣaṇāni dadāmi tē||"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "त्रैलोक्यभूषिते देवि गृहाणाभरणं शुभम्। ",
-          "text": "trailōkyabhūṣitē dēvi gr̥hāṇābharaṇaṁ śubham|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "श्री वरद महालक्ष्म्यै नमः नानाविधानि आभरणानि समर्पयामि॥ ",
-          "text": "śrī varada mahālakṣmyai namaḥ nānāvidhāni ābharaṇāni samarpayāmi||"
+          "sourceOriginal": "ಚಂದ್ರಮಾ ಮನಸೋ ಜಾತಃ, ಚಕ್ಷೋಃ ಸೂರ್ಯೋ ಅಜಾಯತ। ಮುಖಾದಿಂದ್ರಶ್ಚಾಗ್ನಿಶ್ಚ, ಪ್ರಾಣಾದ್ವಾಯುರಜಾಯತ। ಆರ್ದ್ರಾ ಪುಷ್ಕರಿಣೀ ಪುಷ್ಟಿಂ, ಸುವರ್ಣಾ ಹೆಮಮಾಲಿನೀ। ಸೂರ್ಯಾಂ ಹಿರಣ್ಮಯೀಂ ಲಕ್ಷ್ಮೀಂ, ಜಾತವೇದೋ ಮ ಆವಹ। ತತ್ಪ್ರತೇವ ಕೃತಂ ಸೂತ್ರಂ, ಮುಕ್ತಾಧಾವ ವಿಭೂಷಿತಂ। ಉಪವೀತಮಿದಂ ದೇವಿ, ಗೃಹಾಣತ್ವಂ ಶುಭಪ್ರದೇ। ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ಯಜ್ಞೋಪವೀತಂ ಸಮರ್ಪಯಾಮಿ. नाभ्या आसीदन्तरिक्षं शीर्ष्णो द्यौः समवर्तत। पद्भ्यां भूमिर्दिशः श्रोत्रात् तथा लोकान् कल्पयन्॥ आर्द्रा वेह्करणी व्यष्टिं पिङ्गला पद्ममालिनी। चन्द्रा मृण्मयी लक्ष्मीं जातवेदो म आवह॥ हारकैवेय ताटङ्का कङ्कणाङ्गुलिभूषणम्। काञ्ची नूपुरमुख्यानि भूषणानि ददामि ते॥ त्रैलोक्यभूषिते देवि गृहाणाभरणं शुभम्। श्री वरद महालक्ष्म्यै नमः नानाविधानि आभरणानि समर्पयामि॥ ",
+          "text": "caṁdramā manasō jātaḥ, cakṣōḥ sūryō ajāyata| mukhādiṁdraścāgniśca, prāṇādvāyurajāyata| ārdrā puṣkariṇī puṣṭiṁ, suvarṇā hemamālinī| sūryāṁ hiraṇmayīṁ lakṣmīṁ, jātavēdō ma āvaha| tatpratēva kr̥taṁ sūtraṁ, muktādhāva vibhūṣitaṁ| upavītamidaṁ dēvi, gr̥hāṇatvaṁ śubhapradē| śrī varada mahālakṣmyai namaḥ, yajñōpavītaṁ samarpayāmi. nābhyā āsīdantarikṣaṁ śīrṣṇō dyauḥ samavartata| padbhyāṁ bhūmirdiśaḥ śrōtrāt tathā lōkān kalpayan|| ārdrā vēhkaraṇī vyaṣṭiṁ piṅgalā padmamālinī| candrā mr̥ṇmayī lakṣmīṁ jātavēdō ma āvaha|| hārakaivēya tāṭaṅkā kaṅkaṇāṅgulibhūṣaṇam| kāñcī nūpuramukhyāni bhūṣaṇāni dadāmi tē|| trailōkyabhūṣitē dēvi gr̥hāṇābharaṇaṁ śubham| śrī varada mahālakṣmyai namaḥ nānāvidhāni ābharaṇāni samarpayāmi||"
         },
         {
           "kind": "action",
@@ -2267,18 +1337,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "कर्पूरागुरुकस्तूरी रोचनादिभिरन्वितम्। ",
-          "text": "karpūrāgurukastūrī rōcanādibhiranvitam|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "गन्धं दास्यामि ते प्रीत्यर्थं प्रतिगृह्यताम्॥ ",
-          "text": "gandhaṁ dāsyāmi tē prītyarthaṁ pratigr̥hyatām||"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "श्री वर महालक्ष्म्यै नमः गन्धं धारयामि॥ ",
-          "text": "śrī vara mahālakṣmyai namaḥ gandhaṁ dhārayāmi||"
+          "sourceOriginal": "कर्पूरागुरुकस्तूरी रोचनादिभिरन्वितम्। गन्धं दास्यामि ते प्रीत्यर्थं प्रतिगृह्यताम्॥ श्री वर महालक्ष्म्यै नमः गन्धं धारयामि॥ ",
+          "text": "karpūrāgurukastūrī rōcanādibhiranvitam| gandhaṁ dāsyāmi tē prītyarthaṁ pratigr̥hyatām|| śrī vara mahālakṣmyai namaḥ gandhaṁ dhārayāmi||"
         },
         {
           "kind": "action",
@@ -2288,13 +1348,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "हरिद्रा कुङ्कुमं चैव सिंदूरं कज्जलान्वितम्। ",
-          "text": "haridrā kuṅkumaṁ caiva siṁdūraṁ kajjalānvitam|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "सौभाग्यद्रव्यं संयुक्तं गृहाण हरिवल्लभे॥ ",
-          "text": "saubhāgyadravyaṁ saṁyuktaṁ gr̥hāṇa harivallabhē||"
+          "sourceOriginal": "हरिद्रा कुङ्कुमं चैव सिंदूरं कज्जलान्वितम्। सौभाग्यद्रव्यं संयुक्तं गृहाण हरिवल्लभे॥ ",
+          "text": "haridrā kuṅkumaṁ caiva siṁdūraṁ kajjalānvitam| saubhāgyadravyaṁ saṁyuktaṁ gr̥hāṇa harivallabhē||"
         },
         {
           "kind": "action",
@@ -2304,18 +1359,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "अक्षतान् धवलान् देवि शालीयांस्तण्डुलान् शुभान्। ",
-          "text": "akṣatān dhavalān dēvi śālīyāṁstaṇḍulān śubhān|"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "हरिद्रा कुङ्कुमोपेतान् गृहाणाम्बुधिपुत्रिके॥ ",
-          "text": "haridrā kuṅkumōpētān gr̥hāṇāmbudhiputrikē||"
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "akṣatān samarpayāmi."
+          "sourceOriginal": "अक्षतान् धवलान् देवि शालीयांस्तण्डुलान् शुभान्। हरिद्रा कुङ्कुमोपेतान् गृहाणाम्बुधिपुत्रिके॥ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "akṣatān dhavalān dēvi śālīyāṁstaṇḍulān śubhān| haridrā kuṅkumōpētān gr̥hāṇāmbudhiputrikē|| akṣatān samarpayāmi."
         },
         {
           "kind": "action",
@@ -2325,18 +1370,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಕೇತಕೀ ಜಾತಿ ಪುನ್ನಾಗೈಃ ಚಂಪಕೈಃ ಬಕುಲೈಃ ಶುಭೈಃ, ಶತಪತ್ರೈಶ್ಚ ಕಲ್ಹಾರೈಃ ಅರ್ಚಯಾಮಿ ಹರಿಂ ಪ್ರಿಯಾಂ. ",
-          "text": "kētakī jāti punnāgaiḥ caṁpakaiḥ bakulaiḥ śubhaiḥ, śatapatraiśca kalhāraiḥ arcayāmi hariṁ priyāṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ",
-          "text": "śrī varada mahālakṣmyai namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ನಾನಾವಿಧಾನಿ ಪರಿಮಳ ಪುಷ್ಪಾಣಿ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "nānāvidhāni parimaḷa puṣpāṇi samarpayāmi."
+          "sourceOriginal": "ಕೇತಕೀ ಜಾತಿ ಪುನ್ನಾಗೈಃ ಚಂಪಕೈಃ ಬಕುಲೈಃ ಶುಭೈಃ, ಶತಪತ್ರೈಶ್ಚ ಕಲ್ಹಾರೈಃ ಅರ್ಚಯಾಮಿ ಹರಿಂ ಪ್ರಿಯಾಂ. ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ. ನಾನಾವಿಧಾನಿ ಪರಿಮಳ ಪುಷ್ಪಾಣಿ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "kētakī jāti punnāgaiḥ caṁpakaiḥ bakulaiḥ śubhaiḥ, śatapatraiśca kalhāraiḥ arcayāmi hariṁ priyāṁ. śrī varada mahālakṣmyai namaḥ. nānāvidhāni parimaḷa puṣpāṇi samarpayāmi."
         },
         {
           "kind": "action",
@@ -2410,63 +1445,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಓಂ ರಮಾಯೈ ನಮಃ, ಪ್ರಥಮ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
-          "text": "ōṁ ramāyai namaḥ, prathama graṁthiṁ pūjayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸೌಭಾಗ್ಯದಾಯೈ ನಮಃ, ದ್ವಿತೀಯ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
-          "text": "saubhāgyadāyai namaḥ, dvitīya graṁthiṁ pūjayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಅಭಯಪ್ರದಾಯೈ ನಮಃ, ತೃತೀಯ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
-          "text": "abhayapradāyai namaḥ, tr̥tīya graṁthiṁ pūjayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸರೋಜಹಸ್ತಾಯೈ ನಮಃ, ಚತುರ್ಥ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
-          "text": "sarōjahastāyai namaḥ, caturtha graṁthiṁ pūjayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಹರಿವಲ್ಲಭಾಯೈ ನಮಃ, ಪಂಚಮ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
-          "text": "harivallabhāyai namaḥ, paṁcama graṁthiṁ pūjayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ವಿಭೂತಿರೂಪಾಯೈ ನಮಃ, ಷಷ್ಠ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
-          "text": "vibhūtirūpāyai namaḥ, ṣaṣṭha graṁthiṁ pūjayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಪದ್ಮಾಲಯಾಯೈ ನಮಃ, ಸಪ್ತಮ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
-          "text": "padmālayāyai namaḥ, saptama graṁthiṁ pūjayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀಕಂಬಕಂಠೇ ನಮಃ, ಅಷ್ಟಮ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
-          "text": "śrīkaṁbakaṁṭhē namaḥ, aṣṭama graṁthiṁ pūjayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶೋಕನಾಶಿನ್ಯೈ ನಮಃ, ನವಮ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
-          "text": "śōkanāśinyai namaḥ, navama graṁthiṁ pūjayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಚಂದ್ರಸಹೋದರ್ಯೈ ನಮಃ, ದಶಮ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
-          "text": "caṁdrasahōdaryai namaḥ, daśama graṁthiṁ pūjayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ದಾರಿದ್ರ್ಯನಾಶಿನ್ಯೈ ನಮಃ, ಏಕಾದಶ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
-          "text": "dāridryanāśinyai namaḥ, ēkādaśa graṁthiṁ pūjayāmi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಹೇಮಮಾಲಿನ್ಯೈ ನಮಃ, ದ್ವಾದಶ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
-          "text": "hēmamālinyai namaḥ, dvādaśa graṁthiṁ pūjayāmi."
+          "sourceOriginal": "ಓಂ ರಮಾಯೈ ನಮಃ, ಪ್ರಥಮ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ಸೌಭಾಗ್ಯದಾಯೈ ನಮಃ, ದ್ವಿತೀಯ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ಅಭಯಪ್ರದಾಯೈ ನಮಃ, ತೃತೀಯ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ಸರೋಜಹಸ್ತಾಯೈ ನಮಃ, ಚತುರ್ಥ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ಹರಿವಲ್ಲಭಾಯೈ ನಮಃ, ಪಂಚಮ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ವಿಭೂತಿರೂಪಾಯೈ ನಮಃ, ಷಷ್ಠ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ಪದ್ಮಾಲಯಾಯೈ ನಮಃ, ಸಪ್ತಮ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ಶ್ರೀಕಂಬಕಂಠೇ ನಮಃ, ಅಷ್ಟಮ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ಶೋಕನಾಶಿನ್ಯೈ ನಮಃ, ನವಮ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ಚಂದ್ರಸಹೋದರ್ಯೈ ನಮಃ, ದಶಮ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ದಾರಿದ್ರ್ಯನಾಶಿನ್ಯೈ ನಮಃ, ಏಕಾದಶ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ಹೇಮಮಾಲಿನ್ಯೈ ನಮಃ, ದ್ವಾದಶ ಗ್ರಂಥಿಂ ಪೂಜಯಾಮಿ. ",
+          "text": "ōṁ ramāyai namaḥ, prathama graṁthiṁ pūjayāmi. saubhāgyadāyai namaḥ, dvitīya graṁthiṁ pūjayāmi. abhayapradāyai namaḥ, tr̥tīya graṁthiṁ pūjayāmi. sarōjahastāyai namaḥ, caturtha graṁthiṁ pūjayāmi. harivallabhāyai namaḥ, paṁcama graṁthiṁ pūjayāmi. vibhūtirūpāyai namaḥ, ṣaṣṭha graṁthiṁ pūjayāmi. padmālayāyai namaḥ, saptama graṁthiṁ pūjayāmi. śrīkaṁbakaṁṭhē namaḥ, aṣṭama graṁthiṁ pūjayāmi. śōkanāśinyai namaḥ, navama graṁthiṁ pūjayāmi. caṁdrasahōdaryai namaḥ, daśama graṁthiṁ pūjayāmi. dāridryanāśinyai namaḥ, ēkādaśa graṁthiṁ pūjayāmi. hēmamālinyai namaḥ, dvādaśa graṁthiṁ pūjayāmi."
         },
         {
           "kind": "action",
@@ -2617,13 +1597,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಚಂದ್ರನಾಗರುಕರ್ಪೂರಾ ಶ್ವೇತಗುಗ್ಗುಲಸಂಯುತಃ, ಕಪಿಲಾಗ್ರತಸಂಯುಕ್ತಃ ಧೂಪೋಯಂ ಪ್ರತಿಗೃಹ್ಯತಾಂ. ",
-          "text": "caṁdranāgarukarpūrā śvētaguggulasaṁyutaḥ, kapilāgratasaṁyuktaḥ dhūpōyaṁ pratigr̥hyatāṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ಧೂಪಮಾಘ್ರಾಪಯಾಮಿ. ",
-          "text": "śrī varada mahālakṣmyai namaḥ, dhūpamāghrāpayāmi."
+          "sourceOriginal": "ಚಂದ್ರನಾಗರುಕರ್ಪೂರಾ ಶ್ವೇತಗುಗ್ಗುಲಸಂಯುತಃ, ಕಪಿಲಾಗ್ರತಸಂಯುಕ್ತಃ ಧೂಪೋಯಂ ಪ್ರತಿಗೃಹ್ಯತಾಂ. ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ಧೂಪಮಾಘ್ರಾಪಯಾಮಿ. ",
+          "text": "caṁdranāgarukarpūrā śvētaguggulasaṁyutaḥ, kapilāgratasaṁyuktaḥ dhūpōyaṁ pratigr̥hyatāṁ. śrī varada mahālakṣmyai namaḥ, dhūpamāghrāpayāmi."
         },
         {
           "kind": "action",
@@ -2639,13 +1614,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಸಾಜ್ಯಂ ತ್ರಿವರ್ತಿಸಂಯುಕ್ತಂ ವಹ್ನಿನಾ ಯೋಜಿತಂ ಮಯಾ, ಗೃಹಾಣ ಮಂಗಳಂ ದೀಪಂ ತ್ರೈಲೋಕ್ಯತಿಮಿರಾಪಹಂ. ",
-          "text": "sājyaṁ trivartisaṁyuktaṁ vahninā yōjitaṁ mayā, gr̥hāṇa maṁgaḷaṁ dīpaṁ trailōkyatimirāpahaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ದೀಪಂ ದರ್ಶಯಾಮಿ.",
-          "text": "varada mahālakṣmyai namaḥ, dīpaṁ darśayāmi."
+          "sourceOriginal": "ಸಾಜ್ಯಂ ತ್ರಿವರ್ತಿಸಂಯುಕ್ತಂ ವಹ್ನಿನಾ ಯೋಜಿತಂ ಮಯಾ, ಗೃಹಾಣ ಮಂಗಳಂ ದೀಪಂ ತ್ರೈಲೋಕ್ಯತಿಮಿರಾಪಹಂ. ವರದ ಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ದೀಪಂ ದರ್ಶಯಾಮಿ.",
+          "text": "sājyaṁ trivartisaṁyuktaṁ vahninā yōjitaṁ mayā, gr̥hāṇa maṁgaḷaṁ dīpaṁ trailōkyatimirāpahaṁ. varada mahālakṣmyai namaḥ, dīpaṁ darśayāmi."
         }
       ]
     },
@@ -2831,18 +1801,8 @@
       "structuredBlocks": [
         {
           "kind": "mantra",
-          "sourceOriginal": "ಸಪ್ತಾಸ್ಯಾ ಆಸನ್ ಪರಿಧಯಸ್ತ್ರಿಃ ಸಪ್ತ ಸಮಿಧಃ ಕೃತಾಃ, ದೇವಾ ಯದ್ಯಜ್ಞಂ ತನ್ವಾನಾ ಅಬಧ್ನನ್ ಪುರುಷಂ ಪಶುಂ. ",
-          "text": "saptāsyā āsan paridhayastriḥ sapta samidhaḥ kr̥tāḥ, dēvā yadyajñaṁ tanvānā abadhnan puruṣaṁ paśuṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಸ್ಯ ತ್ವಚಾ ವಿರೋಹಣಂ ಪ್ರಭೂತಂ ಕಾವೋ ದಾಸ್ಯೋಶ್ವಾನ್ ವಿನ್ದೇಯಂ ಪುರುಷಾನಹಂ. ",
-          "text": "yasya tvacā virōhaṇaṁ prabhūtaṁ kāvō dāsyōśvān vindēyaṁ puruṣānahaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಊಗೀಫಲ ಸಮಾಯುಕ್ತಂ ನಾಗವಲ್ಲೀ ದಲೈರ್ಯುತಂ, ಕರ್ಪೂರಚೂರ್ಣ ಸಂಯುಕ್ತಂ ತಾಂಬೂಲಂ ಪ್ರತಿಗೃಹ್ಯತಾಂ. ",
-          "text": "ūgīphala samāyuktaṁ nāgavallī dalairyutaṁ, karpūracūrṇa saṁyuktaṁ tāṁbūlaṁ pratigr̥hyatāṁ."
+          "sourceOriginal": "ಸಪ್ತಾಸ್ಯಾ ಆಸನ್ ಪರಿಧಯಸ್ತ್ರಿಃ ಸಪ್ತ ಸಮಿಧಃ ಕೃತಾಃ, ದೇವಾ ಯದ್ಯಜ್ಞಂ ತನ್ವಾನಾ ಅಬಧ್ನನ್ ಪುರುಷಂ ಪಶುಂ. ಯಸ್ಯ ತ್ವಚಾ ವಿರೋಹಣಂ ಪ್ರಭೂತಂ ಕಾವೋ ದಾಸ್ಯೋಶ್ವಾನ್ ವಿನ್ದೇಯಂ ಪುರುಷಾನಹಂ. ಊಗೀಫಲ ಸಮಾಯುಕ್ತಂ ನಾಗವಲ್ಲೀ ದಲೈರ್ಯುತಂ, ಕರ್ಪೂರಚೂರ್ಣ ಸಂಯುಕ್ತಂ ತಾಂಬೂಲಂ ಪ್ರತಿಗೃಹ್ಯತಾಂ. ",
+          "text": "saptāsyā āsan paridhayastriḥ sapta samidhaḥ kr̥tāḥ, dēvā yadyajñaṁ tanvānā abadhnan puruṣaṁ paśuṁ. yasya tvacā virōhaṇaṁ prabhūtaṁ kāvō dāsyōśvān vindēyaṁ puruṣānahaṁ. ūgīphala samāyuktaṁ nāgavallī dalairyutaṁ, karpūracūrṇa saṁyuktaṁ tāṁbūlaṁ pratigr̥hyatāṁ."
         },
         {
           "kind": "action",
@@ -2852,18 +1812,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಹಿರಣ್ಯರೂಪಃ ಸ ಹಿರಣ್ಯಸಂದೃಗಪಾ ನಪಾತ್ಸೇದು ಹಿರಣ್ಯವರ್ಣಃ, ಹಿರಣ್ಯಯಾತ್ ಪರಿಯೋನೇ ಏರ್ಣಿಷದ್ಯಾ ಹಿರಣ್ಯದಾ ದಾದತ್ತನ್ನ್ನಾಮಸ್ಮೈ. ",
-          "text": "hiraṇyarūpaḥ sa hiraṇyasaṁdr̥gapā napātsēdu hiraṇyavarṇaḥ, hiraṇyayāt pariyōnē ērṇiṣadyā hiraṇyadā dādattannnāmasmai."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸುಪರ್ಣಃ ಸರ್ವಧಾತೂನಾಂ ಶ್ರೇಷ್ಠಂ ದೇವಿ ಚ ತತ್ಸದಾ, ಭಕ್ತ್ಯಾ ದದಾಮಿ ವರದೇ ಸ್ವರ್ಣಪುಷ್ಪಿಂ ಚ ದೇಹಿ ಮೇ. ",
-          "text": "suparṇaḥ sarvadhātūnāṁ śrēṣṭhaṁ dēvi ca tatsadā, bhaktyā dadāmi varadē svarṇapuṣpiṁ ca dēhi mē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀ ನಮಃ, ಸುವರ್ಣ ಪುಷ್ಪದಕ್ಷಿಣಾಂ ಸಮರ್ಪಯಾಮಿ.",
-          "text": "śrī varada mahālakṣmī namaḥ, suvarṇa puṣpadakṣiṇāṁ samarpayāmi."
+          "sourceOriginal": "ಹಿರಣ್ಯರೂಪಃ ಸ ಹಿರಣ್ಯಸಂದೃಗಪಾ ನಪಾತ್ಸೇದು ಹಿರಣ್ಯವರ್ಣಃ, ಹಿರಣ್ಯಯಾತ್ ಪರಿಯೋನೇ ಏರ್ಣಿಷದ್ಯಾ ಹಿರಣ್ಯದಾ ದಾದತ್ತನ್ನ್ನಾಮಸ್ಮೈ. ಸುಪರ್ಣಃ ಸರ್ವಧಾತೂನಾಂ ಶ್ರೇಷ್ಠಂ ದೇವಿ ಚ ತತ್ಸದಾ, ಭಕ್ತ್ಯಾ ದದಾಮಿ ವರದೇ ಸ್ವರ್ಣಪುಷ್ಪಿಂ ಚ ದೇಹಿ ಮೇ. ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀ ನಮಃ, ಸುವರ್ಣ ಪುಷ್ಪದಕ್ಷಿಣಾಂ ಸಮರ್ಪಯಾಮಿ.",
+          "text": "hiraṇyarūpaḥ sa hiraṇyasaṁdr̥gapā napātsēdu hiraṇyavarṇaḥ, hiraṇyayāt pariyōnē ērṇiṣadyā hiraṇyadā dādattannnāmasmai. suparṇaḥ sarvadhātūnāṁ śrēṣṭhaṁ dēvi ca tatsadā, bhaktyā dadāmi varadē svarṇapuṣpiṁ ca dēhi mē. śrī varada mahālakṣmī namaḥ, suvarṇa puṣpadakṣiṇāṁ samarpayāmi."
         }
       ]
     },
@@ -2897,33 +1847,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಯಜ್ಞೇನ ಯಜ್ಞಮಯಜಂತ ದೇವಾಃ, ತಾನಿ ಧರ್ಮಾಣಿ ಪ್ರಥಮಾನ್ಯಾಸನ್, ತೇ ಹ ನಾಕಂ ಮಹಿಮಾನಃ ಸಚಂತ, ಯತ್ರ ಪೂರ್ವೇ ಸಾಧ್ಯಾಃ ಸಂತಿ ದೇವಾಃ. ",
-          "text": "yajñēna yajñamayajaṁta dēvāḥ, tāni dharmāṇi prathamānyāsan, tē ha nākaṁ mahimānaḥ sacaṁta, yatra pūrvē sādhyāḥ saṁti dēvāḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಸರ್ವಮಂಗಳ ಮಾಂಗಲ್ಯೇ ಶಿವೇ ಸರ್ವಾರ್ಥ ಸಾಧಿಕೇ, ಶರಣ್ಯೇ ತ್ರ್ಯಂಬಕೇ ದೇವಿ ನಾರಾಯಣಿ ನಮೋಽಸ್ತುತೇ. ",
-          "text": "sarvamaṁgaḷa māṁgalyē śivē sarvārtha sādhikē, śaraṇyē tryaṁbakē dēvi nārāyaṇi namō'stutē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ನೀರಾಜನಂ ಸುಮಾಂಗಲ್ಯಂ ಕರ್ಪೂರೇಣ ಸಮನ್ವಿತಂ, ಚಂದ್ರಾರ್ಕವಹ್ನಿಸದೃಶಂ ಗೃಹಾಣ ಕಮಲಾಲಯೇ. ",
-          "text": "nīrājanaṁ sumāṁgalyaṁ karpūrēṇa samanvitaṁ, caṁdrārkavahnisadr̥śaṁ gr̥hāṇa kamalālayē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಜನ್ಮಾದ್ಯಸ್ಯ ಯತೋಽನ್ವಯಾದಿತರತಶ್ಚಾರ್ಥೇಷ್ವಭಿಜ್ಞಃ ಸ್ವರಾಟ್, ತೇನೇ ಬ್ರಹ್ಮ ಹೃದಾ ಯ ಆದಿಕವಯೇ ಮುಹ್ಯಂತಿ ಯತ್ ಸೂರಯಃ. ",
-          "text": "janmādyasya yatō'nvayāditarataścārthēṣvabhijñaḥ svarāṭ, tēnē brahma hr̥dā ya ādikavayē muhyaṁti yat sūrayaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ತೇಜೋ-ವಾರಿಮೃದಾಂ ಯಥಾ ವಿನಿಮಯೋ ಯತ್ರ ತ್ರಿಸರ್ಗೋಽಮೃಷಾ, ಧಾಮ್ನಾ ಸ್ವೇನ ಸದಾ ನಿರಸ್ತಕುಹಕಂ ಸತ್ಯಂ ಪರಂ ಧೀಮಹಿ. ",
-          "text": "tējō-vārimr̥dāṁ yathā vinimayō yatra trisargō'mr̥ṣā, dhāmnā svēna sadā nirastakuhakaṁ satyaṁ paraṁ dhīmahi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀ ನಮಃ, ಮಹಾ ನಿರಾಜನಂ ಸಮರ್ಪಯಾಮಿ.",
-          "text": "śrī varada mahālakṣmī namaḥ, mahā nirājanaṁ samarpayāmi."
+          "sourceOriginal": "ಯಜ್ಞೇನ ಯಜ್ಞಮಯಜಂತ ದೇವಾಃ, ತಾನಿ ಧರ್ಮಾಣಿ ಪ್ರಥಮಾನ್ಯಾಸನ್, ತೇ ಹ ನಾಕಂ ಮಹಿಮಾನಃ ಸಚಂತ, ಯತ್ರ ಪೂರ್ವೇ ಸಾಧ್ಯಾಃ ಸಂತಿ ದೇವಾಃ. ಸರ್ವಮಂಗಳ ಮಾಂಗಲ್ಯೇ ಶಿವೇ ಸರ್ವಾರ್ಥ ಸಾಧಿಕೇ, ಶರಣ್ಯೇ ತ್ರ್ಯಂಬಕೇ ದೇವಿ ನಾರಾಯಣಿ ನಮೋಽಸ್ತುತೇ. ನೀರಾಜನಂ ಸುಮಾಂಗಲ್ಯಂ ಕರ್ಪೂರೇಣ ಸಮನ್ವಿತಂ, ಚಂದ್ರಾರ್ಕವಹ್ನಿಸದೃಶಂ ಗೃಹಾಣ ಕಮಲಾಲಯೇ. ಜನ್ಮಾದ್ಯಸ್ಯ ಯತೋಽನ್ವಯಾದಿತರತಶ್ಚಾರ್ಥೇಷ್ವಭಿಜ್ಞಃ ಸ್ವರಾಟ್, ತೇನೇ ಬ್ರಹ್ಮ ಹೃದಾ ಯ ಆದಿಕವಯೇ ಮುಹ್ಯಂತಿ ಯತ್ ಸೂರಯಃ. ತೇಜೋ-ವಾರಿಮೃದಾಂ ಯಥಾ ವಿನಿಮಯೋ ಯತ್ರ ತ್ರಿಸರ್ಗೋಽಮೃಷಾ, ಧಾಮ್ನಾ ಸ್ವೇನ ಸದಾ ನಿರಸ್ತಕುಹಕಂ ಸತ್ಯಂ ಪರಂ ಧೀಮಹಿ. ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀ ನಮಃ, ಮಹಾ ನಿರಾಜನಂ ಸಮರ್ಪಯಾಮಿ.",
+          "text": "yajñēna yajñamayajaṁta dēvāḥ, tāni dharmāṇi prathamānyāsan, tē ha nākaṁ mahimānaḥ sacaṁta, yatra pūrvē sādhyāḥ saṁti dēvāḥ. sarvamaṁgaḷa māṁgalyē śivē sarvārtha sādhikē, śaraṇyē tryaṁbakē dēvi nārāyaṇi namō'stutē. nīrājanaṁ sumāṁgalyaṁ karpūrēṇa samanvitaṁ, caṁdrārkavahnisadr̥śaṁ gr̥hāṇa kamalālayē. janmādyasya yatō'nvayāditarataścārthēṣvabhijñaḥ svarāṭ, tēnē brahma hr̥dā ya ādikavayē muhyaṁti yat sūrayaḥ. tējō-vārimr̥dāṁ yathā vinimayō yatra trisargō'mr̥ṣā, dhāmnā svēna sadā nirastakuhakaṁ satyaṁ paraṁ dhīmahi. śrī varada mahālakṣmī namaḥ, mahā nirājanaṁ samarpayāmi."
         }
       ]
     },
@@ -2951,28 +1876,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ನಾರಾಯಣಾಗ್ಯ ವಿದ್ಮಹೇ ವಾಸುದೇವಾಯ ಧೀಮಹಿ, ತನ್ನೋ ವಿಷ್ಣುಃ ಪ್ರಚೋದಯಾತ್. ",
-          "text": "nārāyaṇāgya vidmahē vāsudēvāya dhīmahi, tannō viṣṇuḥ pracōdayāt."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಮಹಾದೇವ್ಯೈ ಚ ವಿದ್ಮಹೇ ವಿಷ್ಣುಪತ್ನ್ಯೈ ಚ ಧೀಮಹಿ, ತನ್ನೋ ಲಕ್ಷ್ಮೀಃ ಪ್ರಚೋದಯಾತ್. ",
-          "text": "mahādēvyai ca vidmahē viṣṇupatnyai ca dhīmahi, tannō lakṣmīḥ pracōdayāt."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಅಭ್ರಮಂ ಭಂಗರಹಿತಮ್ ಅಜಡಂ ವಿಮಲಂ ಸದಾ, ಆನಂದ ತೀರ್ಥಮತುಲಂ ಭಜೇ ತಾಪತ್ರಯಾಪಹಂ. ",
-          "text": "abhramaṁ bhaṁgarahitam ajaḍaṁ vimalaṁ sadā, ānaṁda tīrthamatulaṁ bhajē tāpatrayāpahaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಪದ್ಮನಾಭ ತೀರ್ಥಾದಿ ಸಮಸ್ತ ಗುರುಪರಂಪರಾಗತ, ಭಾರತೀರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ, ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀನಮಃ. ",
-          "text": "padmanābha tīrthādi samasta guruparaṁparāgata, bhāratīramaṇa mukhya prāṇāṁtargata, śrī varada mahālakṣmīnamaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ವೇದೋಕ್ತ ಮಂತ್ರಪುಷ್ಪಾಂಜಲಿಂ ಸಮರ್ಪಯಾಮಿ",
-          "text": "vēdōkta maṁtrapuṣpāṁjaliṁ samarpayāmi"
+          "sourceOriginal": "ನಾರಾಯಣಾಗ್ಯ ವಿದ್ಮಹೇ ವಾಸುದೇವಾಯ ಧೀಮಹಿ, ತನ್ನೋ ವಿಷ್ಣುಃ ಪ್ರಚೋದಯಾತ್. ಮಹಾದೇವ್ಯೈ ಚ ವಿದ್ಮಹೇ ವಿಷ್ಣುಪತ್ನ್ಯೈ ಚ ಧೀಮಹಿ, ತನ್ನೋ ಲಕ್ಷ್ಮೀಃ ಪ್ರಚೋದಯಾತ್. ಅಭ್ರಮಂ ಭಂಗರಹಿತಮ್ ಅಜಡಂ ವಿಮಲಂ ಸದಾ, ಆನಂದ ತೀರ್ಥಮತುಲಂ ಭಜೇ ತಾಪತ್ರಯಾಪಹಂ. ಪದ್ಮನಾಭ ತೀರ್ಥಾದಿ ಸಮಸ್ತ ಗುರುಪರಂಪರಾಗತ, ಭಾರತೀರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ, ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀನಮಃ. ವೇದೋಕ್ತ ಮಂತ್ರಪುಷ್ಪಾಂಜಲಿಂ ಸಮರ್ಪಯಾಮಿ",
+          "text": "nārāyaṇāgya vidmahē vāsudēvāya dhīmahi, tannō viṣṇuḥ pracōdayāt. mahādēvyai ca vidmahē viṣṇupatnyai ca dhīmahi, tannō lakṣmīḥ pracōdayāt. abhramaṁ bhaṁgarahitam ajaḍaṁ vimalaṁ sadā, ānaṁda tīrthamatulaṁ bhajē tāpatrayāpahaṁ. padmanābha tīrthādi samasta guruparaṁparāgata, bhāratīramaṇa mukhya prāṇāṁtargata, śrī varada mahālakṣmīnamaḥ. vēdōkta maṁtrapuṣpāṁjaliṁ samarpayāmi"
         },
         {
           "kind": "action",
@@ -3017,23 +1922,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಪದ್ಮಪ್ರಿಯೇ ಪದ್ಮಿನಿ ಪದ್ಮಹಸ್ತೇ ಪದ್ಮಾಲಯೇ ಪದ್ಮದಲಾಯತಾಕ್ಷಿ, ವಿಶ್ವಪ್ರಿಯೇ ವಿಷ್ಣುಮನೋನುಕೂಲೇ ತ್ವತ್ಪಾದಪದ್ಮಂ ಮಯಿ ಸನ್ನಿಧಧ್ವಂ. ",
-          "text": "padmapriyē padmini padmahastē padmālayē padmadalāyatākṣi, viśvapriyē viṣṇumanōnukūlē tvatpādapadmaṁ mayi sannidhadhvaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಯಾನಿ ಕಾನಿ ಚ ಪಾಪಾನಿ ಜನ್ಮಾಂತರಕೃತಾನಿ ಚ, ತಾನಿ ತಾನಿ ಪ್ರಣಶ್ಯಂತಿ ಪ್ರದಕ್ಷಿಣಂ ಪದೇ ಪದೇ. ",
-          "text": "yāni kāni ca pāpāni janmāṁtarakr̥tāni ca, tāni tāni praṇaśyaṁti pradakṣiṇaṁ padē padē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ನಮಸ್ತೇ ಲೋಕಜನನಿ, ನಮಸ್ತೇ ಹರಿವಲ್ಲಭೇ, ಹರಿಕಾಂತೇ ನಮಸ್ತೇ ಸ್ತೋತ್ರಾಹಿಮಾಂ ದುಃಖಸಾಗರಾತ್. ",
-          "text": "namastē lōkajanani, namastē harivallabhē, harikāṁtē namastē stōtrāhimāṁ duḥkhasāgarāt."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀನಮಃ ಪ್ರದಕ್ಷಿಣ ನಮಸ್ಕಾರಾನ್ ಸಮರ್ಪಯಾಮಿ. ",
-          "text": "śrī varada mahālakṣmīnamaḥ pradakṣiṇa namaskārān samarpayāmi."
+          "sourceOriginal": "ಪದ್ಮಪ್ರಿಯೇ ಪದ್ಮಿನಿ ಪದ್ಮಹಸ್ತೇ ಪದ್ಮಾಲಯೇ ಪದ್ಮದಲಾಯತಾಕ್ಷಿ, ವಿಶ್ವಪ್ರಿಯೇ ವಿಷ್ಣುಮನೋನುಕೂಲೇ ತ್ವತ್ಪಾದಪದ್ಮಂ ಮಯಿ ಸನ್ನಿಧಧ್ವಂ. ಯಾನಿ ಕಾನಿ ಚ ಪಾಪಾನಿ ಜನ್ಮಾಂತರಕೃತಾನಿ ಚ, ತಾನಿ ತಾನಿ ಪ್ರಣಶ್ಯಂತಿ ಪ್ರದಕ್ಷಿಣಂ ಪದೇ ಪದೇ. ನಮಸ್ತೇ ಲೋಕಜನನಿ, ನಮಸ್ತೇ ಹರಿವಲ್ಲಭೇ, ಹರಿಕಾಂತೇ ನಮಸ್ತೇ ಸ್ತೋತ್ರಾಹಿಮಾಂ ದುಃಖಸಾಗರಾತ್. ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀನಮಃ ಪ್ರದಕ್ಷಿಣ ನಮಸ್ಕಾರಾನ್ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "padmapriyē padmini padmahastē padmālayē padmadalāyatākṣi, viśvapriyē viṣṇumanōnukūlē tvatpādapadmaṁ mayi sannidhadhvaṁ. yāni kāni ca pāpāni janmāṁtarakr̥tāni ca, tāni tāni praṇaśyaṁti pradakṣiṇaṁ padē padē. namastē lōkajanani, namastē harivallabhē, harikāṁtē namastē stōtrāhimāṁ duḥkhasāgarāt. śrī varada mahālakṣmīnamaḥ pradakṣiṇa namaskārān samarpayāmi."
         },
         {
           "kind": "action",
@@ -3101,28 +1991,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಧೀರ್ಗಮಾಯುರ್ಧನಂ ಧಾನ್ಯಂ ಸೌಮಂಗಲ್ಯಂ ಚ ಪುತ್ರತಾಂ. ",
-          "text": "dhīrgamāyurdhanaṁ dhānyaṁ saumaṁgalyaṁ ca putratāṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ದೇಹಿ ಮೇ ದೇವಿ ಸುಪ್ರೀತೆ ಪಶುರತ್ನಾದಿ ಸಂಪದಃ. ",
-          "text": "dēhi mē dēvi suprīte paśuratnādi saṁpadaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಕರಿಷ್ಯಾಮಿ ವ್ರತಂ ದೇವಿ ತದ್ಭಕ್ತ್ಯಾ ತ್ವತ್ಪರಾಯಣಾ. ",
-          "text": "kariṣyāmi vrataṁ dēvi tadbhaktyā tvatparāyaṇā."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ವಾಂಚಿತಂ ದೇಹಿ ಮೇ ನಿತ್ಯಂ ಹರೋ ಭಕ್ತಿಂ ಮಚಂಚಲಾಂ. ",
-          "text": "vāṁcitaṁ dēhi mē nityaṁ harō bhaktiṁ macaṁcalāṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀ ನಮಃ ಪ್ರಾರ್ಥನಾಂ ಸಮರ್ಪಯಾಮಿ.",
-          "text": "śrī varada mahālakṣmī namaḥ prārthanāṁ samarpayāmi."
+          "sourceOriginal": "ಧೀರ್ಗಮಾಯುರ್ಧನಂ ಧಾನ್ಯಂ ಸೌಮಂಗಲ್ಯಂ ಚ ಪುತ್ರತಾಂ. ದೇಹಿ ಮೇ ದೇವಿ ಸುಪ್ರೀತೆ ಪಶುರತ್ನಾದಿ ಸಂಪದಃ. ಕರಿಷ್ಯಾಮಿ ವ್ರತಂ ದೇವಿ ತದ್ಭಕ್ತ್ಯಾ ತ್ವತ್ಪರಾಯಣಾ. ವಾಂಚಿತಂ ದೇಹಿ ಮೇ ನಿತ್ಯಂ ಹರೋ ಭಕ್ತಿಂ ಮಚಂಚಲಾಂ. ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀ ನಮಃ ಪ್ರಾರ್ಥನಾಂ ಸಮರ್ಪಯಾಮಿ.",
+          "text": "dhīrgamāyurdhanaṁ dhānyaṁ saumaṁgalyaṁ ca putratāṁ. dēhi mē dēvi suprīte paśuratnādi saṁpadaḥ. kariṣyāmi vrataṁ dēvi tadbhaktyā tvatparāyaṇā. vāṁcitaṁ dēhi mē nityaṁ harō bhaktiṁ macaṁcalāṁ. śrī varada mahālakṣmī namaḥ prārthanāṁ samarpayāmi."
         }
       ]
     },
@@ -3156,13 +2026,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ದಾರಿದ್ರ್ಯಸಾಗರೇ ಮಗ್ನೋऽಭಿತ್ಯಾಗಂ ಭವ ಭೀತಿಭಿಃ. ",
-          "text": "dāridryasāgarē magnō'bhityāgaṁ bhava bhītibhiḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ದೋರಂ ಗೃಹ್ಣಾಮಿ ಕವಲೇ ಮಾಮಾಭೀಷ್ಟಪ್ರದೋ ಭವ. ",
-          "text": "dōraṁ gr̥hṇāmi kavalē māmābhīṣṭapradō bhava."
+          "sourceOriginal": "ದಾರಿದ್ರ್ಯಸಾಗರೇ ಮಗ್ನೋऽಭಿತ್ಯಾಗಂ ಭವ ಭೀತಿಭಿಃ. ದೋರಂ ಗೃಹ್ಣಾಮಿ ಕವಲೇ ಮಾಮಾಭೀಷ್ಟಪ್ರದೋ ಭವ. ",
+          "text": "dāridryasāgarē magnō'bhityāgaṁ bhava bhītibhiḥ. dōraṁ gr̥hṇāmi kavalē māmābhīṣṭapradō bhava."
         },
         {
           "kind": "action",
@@ -3178,33 +2043,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಕಮಲೇ ದೋರರೂಪೇಣ ಸ್ಥಿತೇ ಸರ್ವಾಗಹಾರಿಣಿ. ",
-          "text": "kamalē dōrarūpēṇa sthitē sarvāgahāriṇi."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ನಮಸ್ತೇ ಲೋಕಜನನಿ ದಾರಿದ್ರ್ಯಂ ಮೇ ನಿವಾರಯ. ",
-          "text": "namastē lōkajanani dāridryaṁ mē nivāraya."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ದ್ವಾದಶಗ್ರಂಥಿಸಂಯುಕ್ತಂ ಕೃತ್ವಾ ದ್ವಾದಶತಂತುಭಿಃ. ",
-          "text": "dvādaśagraṁthisaṁyuktaṁ kr̥tvā dvādaśataṁtubhiḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಧಾರಯಾಮಿ ಮಹಾದೇವಿ ಸೂತ್ರಂ ತೇ ಸರ್ವಮಂಗಲೇ. ",
-          "text": "dhārayāmi mahādēvi sūtraṁ tē sarvamaṁgalē."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಬದ್ಧಾಮಿ ದಕ್ಷಿಣೇ ಹಸ್ತೇ ನವಸೂತ್ರಂ ಶುಭಪ್ರದಂ. ",
-          "text": "baddhāmi dakṣiṇē hastē navasūtraṁ śubhapradaṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಪುತ್ರಪೌತ್ರಾಭಿವೃದ್ಧ್ಯಂ ಚ ಸೌಭಾಗ್ಯಂ ದೇಹಿ ಮೇ ರಮೇ. ",
-          "text": "putrapautrābhivr̥ddhyaṁ ca saubhāgyaṁ dēhi mē ramē."
+          "sourceOriginal": "ಕಮಲೇ ದೋರರೂಪೇಣ ಸ್ಥಿತೇ ಸರ್ವಾಗಹಾರಿಣಿ. ನಮಸ್ತೇ ಲೋಕಜನನಿ ದಾರಿದ್ರ್ಯಂ ಮೇ ನಿವಾರಯ. ದ್ವಾದಶಗ್ರಂಥಿಸಂಯುಕ್ತಂ ಕೃತ್ವಾ ದ್ವಾದಶತಂತುಭಿಃ. ಧಾರಯಾಮಿ ಮಹಾದೇವಿ ಸೂತ್ರಂ ತೇ ಸರ್ವಮಂಗಲೇ. ಬದ್ಧಾಮಿ ದಕ್ಷಿಣೇ ಹಸ್ತೇ ನವಸೂತ್ರಂ ಶುಭಪ್ರದಂ. ಪುತ್ರಪೌತ್ರಾಭಿವೃದ್ಧ್ಯಂ ಚ ಸೌಭಾಗ್ಯಂ ದೇಹಿ ಮೇ ರಮೇ. ",
+          "text": "kamalē dōrarūpēṇa sthitē sarvāgahāriṇi. namastē lōkajanani dāridryaṁ mē nivāraya. dvādaśagraṁthisaṁyuktaṁ kr̥tvā dvādaśataṁtubhiḥ. dhārayāmi mahādēvi sūtraṁ tē sarvamaṁgalē. baddhāmi dakṣiṇē hastē navasūtraṁ śubhapradaṁ. putrapautrābhivr̥ddhyaṁ ca saubhāgyaṁ dēhi mē ramē."
         },
         {
           "kind": "action",
@@ -3302,13 +2142,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": " ನಮೋಸ್ತ್ವನಂತಾಯ ಸಹಸ್ರಮೂರ್ತಯೇ ಸಹಸ್ರಪಾದಾಕ್ಷಿಶಿರೋರುಬಾಹವೇ, ಸಹಸ್ರನಾಮ್ನೇ ಪುರುಷಾಯ ಶಾಶ್ವತೇ ಸಹಸ್ರಕೋಟಿಯುಗಧಾರಿಣೇ ನಮಃ. ",
-          "text": "namōstvanaṁtāya sahasramūrtayē sahasrapādākṣiśirōrubāhavē, sahasranāmnē puruṣāya śāśvatē sahasrakōṭiyugadhāriṇē namaḥ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಬ್ರಾಹ್ಮಣಾಂತರ್ಯಾಮಿ ಭಾರತೀರಮಣ ಮುಖ್ಯಪ್ರಾಣಾಂತರ್ಗತ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀಮಾವಾಹಯಾಮಿ",
-          "text": "brāhmaṇāṁtaryāmi bhāratīramaṇa mukhyaprāṇāṁtargata śrī varada mahālakṣmīmāvāhayāmi"
+          "sourceOriginal": " ನಮೋಸ್ತ್ವನಂತಾಯ ಸಹಸ್ರಮೂರ್ತಯೇ ಸಹಸ್ರಪಾದಾಕ್ಷಿಶಿರೋರುಬಾಹವೇ, ಸಹಸ್ರನಾಮ್ನೇ ಪುರುಷಾಯ ಶಾಶ್ವತೇ ಸಹಸ್ರಕೋಟಿಯುಗಧಾರಿಣೇ ನಮಃ. ಬ್ರಾಹ್ಮಣಾಂತರ್ಯಾಮಿ ಭಾರತೀರಮಣ ಮುಖ್ಯಪ್ರಾಣಾಂತರ್ಗತ ಶ್ರೀ ವರದ ಮಹಾಲಕ್ಷ್ಮೀಮಾವಾಹಯಾಮಿ",
+          "text": "namōstvanaṁtāya sahasramūrtayē sahasrapādākṣiśirōrubāhavē, sahasranāmnē puruṣāya śāśvatē sahasrakōṭiyugadhāriṇē namaḥ. brāhmaṇāṁtaryāmi bhāratīramaṇa mukhyaprāṇāṁtargata śrī varada mahālakṣmīmāvāhayāmi"
         },
         {
           "kind": "action",
@@ -3411,13 +2246,8 @@
         },
         {
           "kind": "mantra",
-          "sourceOriginal": "ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ, ಹರಿಃ ಓಂ, ಪರಮಗುರುಭ್ಯೋ ನಮಃ, ಹರಿಃ ಓಂ, ಶ್ರೀಮದಾನಂದ ತೀರ್ಥ ಭಗವತ್ಪಾದಾಚಾರ್ಯ ಗುರುಭ್ಯೋ ನಮಃ, ಹರಿಃ ಓಂ. ",
-          "text": "śrī gurubhyō namaḥ, hariḥ ōṁ, paramagurubhyō namaḥ, hariḥ ōṁ, śrīmadānaṁda tīrtha bhagavatpādācārya gurubhyō namaḥ, hariḥ ōṁ."
-        },
-        {
-          "kind": "mantra",
-          "sourceOriginal": "ಶುಕ್ಲಾಂಬರಧರಂ ವಿಷ್ಣುಂ ಶಶಿವರ್ಣಂ ಚತುರ್ಭುಜಂ ಪ್ರಸನ್ನವದನಂ ಧ್ಯಾಯೇತ್ ಸರ್ವವಿಘ್ನೋಪಶಾಂತಯೇ.",
-          "text": "śuklāṁbaradharaṁ viṣṇuṁ śaśivarṇaṁ caturbhujaṁ prasannavadanaṁ dhyāyēt sarvavighnōpaśāṁtayē."
+          "sourceOriginal": "ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ, ಹರಿಃ ಓಂ, ಪರಮಗುರುಭ್ಯೋ ನಮಃ, ಹರಿಃ ಓಂ, ಶ್ರೀಮದಾನಂದ ತೀರ್ಥ ಭಗವತ್ಪಾದಾಚಾರ್ಯ ಗುರುಭ್ಯೋ ನಮಃ, ಹರಿಃ ಓಂ. ಶುಕ್ಲಾಂಬರಧರಂ ವಿಷ್ಣುಂ ಶಶಿವರ್ಣಂ ಚತುರ್ಭುಜಂ ಪ್ರಸನ್ನವದನಂ ಧ್ಯಾಯೇತ್ ಸರ್ವವಿಘ್ನೋಪಶಾಂತಯೇ.",
+          "text": "śrī gurubhyō namaḥ, hariḥ ōṁ, paramagurubhyō namaḥ, hariḥ ōṁ, śrīmadānaṁda tīrtha bhagavatpādācārya gurubhyō namaḥ, hariḥ ōṁ. śuklāṁbaradharaṁ viṣṇuṁ śaśivarṇaṁ caturbhujaṁ prasannavadanaṁ dhyāyēt sarvavighnōpaśāṁtayē."
         }
       ]
     },
