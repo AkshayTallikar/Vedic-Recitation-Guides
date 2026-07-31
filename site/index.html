@@ -9943,8 +9943,52 @@
     if (!curP) return t;
     return t.replace(/\{p\}/g, curP.word).replace(/\{pe\}/g, curP.en);
   }
-  function structuredTranscriptHtml(blocks, guide) {
+  function actionRunHtml(actionRun, guide) {
+    var html = '<div class="guided-block action-block">' +
+      '<span class="lbl">' + esc(guide.structuredActionLabel || 'Action · English') + '</span>';
+    actionRun.forEach(function (action) {
+      html += '<div class="action-english">' + esc(action.english || '') + '</div>';
+    });
+    var spokenActions = actionRun.filter(function (action) {
+      return !!action.sourceRoman;
+    });
+    if (spokenActions.length) {
+      html += '<details class="spoken-source"><summary>' +
+        esc(guide.structuredSourceLabel || 'Original spoken source') +
+        '</summary>';
+      spokenActions.forEach(function (action) {
+        html += '<div>' + esc(action.sourceRoman) + '</div>';
+      });
+      html += '</details>';
+    }
+    return html + '</div>';
+  }
+  function recitationBlockHtml(text, guide) {
+    return '<div class="guided-block recitation-block">' +
+      '<span class="lbl">' + esc(guide.structuredMantraLabel || 'Sanskrit recitation') + '</span>' +
+      '<div>' + esc(text || '') + '</div>' +
+      '</div>';
+  }
+  function usesActionsAtBottom(guide) {
+    return guide.key === 'deva-pooja-four-part-complete';
+  }
+  function structuredTranscriptHtml(blocks, guide, mode) {
     if (!blocks || !blocks.length) return '';
+    if (usesActionsAtBottom(guide)) {
+      var recitations = [];
+      var actions = [];
+      blocks.forEach(function (block) {
+        if (block.kind === 'action') actions.push(block);
+        else if (block.text) recitations.push(block.text);
+      });
+      var bottomHtml = '';
+      if (mode === 'actions') {
+        if (actions.length) bottomHtml = actionRunHtml(actions, guide);
+      } else if (recitations.length) {
+        bottomHtml = recitationBlockHtml(recitations.join('\n\n'), guide);
+      }
+      return bottomHtml ? '<div class="guided-flow">' + bottomHtml + '</div>' : '';
+    }
     var html = '<div class="guided-flow">';
     var i = 0;
     while (i < blocks.length) {
@@ -9955,29 +9999,9 @@
           actionRun.push(blocks[i]);
           i++;
         }
-        html += '<div class="guided-block action-block">' +
-          '<span class="lbl">' + esc(guide.structuredActionLabel || 'Action · English') + '</span>';
-        actionRun.forEach(function (action) {
-          html += '<div class="action-english">' + esc(action.english || '') + '</div>';
-        });
-        var spokenActions = actionRun.filter(function (action) {
-          return !!action.sourceRoman;
-        });
-        if (spokenActions.length) {
-          html += '<details class="spoken-source"><summary>' +
-            esc(guide.structuredSourceLabel || 'Original spoken source') +
-            '</summary>';
-          spokenActions.forEach(function (action) {
-            html += '<div>' + esc(action.sourceRoman) + '</div>';
-          });
-          html += '</details>';
-        }
-        html += '</div>';
+        html += actionRunHtml(actionRun, guide);
       } else {
-        html += '<div class="guided-block recitation-block">' +
-          '<span class="lbl">' + esc(guide.structuredMantraLabel || 'Sanskrit recitation') + '</span>' +
-          '<div>' + esc(block.text || '') + '</div>' +
-          '</div>';
+        html += recitationBlockHtml(block.text, guide);
         i++;
       }
     }
@@ -10074,6 +10098,7 @@
           originalScript = subst(rs.originalScript),
           captionOriginal = subst(rs.captionOriginal),
           structuredBlocks = rs.structuredBlocks || [],
+          displayAction = (usesActionsAtBottom(guide) && structuredBlocks.length) ? '' : action,
           title = subst(rs.title);
       var structuredSearch = structuredBlocks.map(function (block) {
         return (block.text || '') + ' ' + (block.english || '') + ' ' +
@@ -10137,17 +10162,18 @@
               esc(guide.captionOriginalLabel || 'Exact original captions') +
             '</summary><div class="devanagari">' + esc(captionOriginal) + '</div></details>'
           : '') +
-        ((meaning || contemplate || action)
-          ? '<div class="explain' + ((contemplate || action) ? ' has-rahasya' : '') + '">' +
+        ((meaning || contemplate || displayAction)
+          ? '<div class="explain' + ((contemplate || displayAction) ? ' has-rahasya' : '') + '">' +
               (meaning ? '<div class="meaning"><span class="lbl">Meaning</span>' + esc(meaning) + '</div>' : '') +
-              ((contemplate || action)
+              ((contemplate || displayAction)
                 ? '<div class="rahasya">' +
                     (contemplate ? '<div class="blk"><span class="lbl lbl-c">Contemplate</span>' + esc(contemplate) + '</div>' : '') +
-                    (action ? '<div class="blk"><span class="lbl lbl-a">Action</span>' + esc(action) + '</div>' : '') +
+                    (displayAction ? '<div class="blk"><span class="lbl lbl-a">Action</span>' + esc(displayAction) + '</div>' : '') +
                   '</div>'
                 : '') +
             '</div>'
           : '') +
+        (usesActionsAtBottom(guide) ? structuredTranscriptHtml(structuredBlocks, guide, 'actions') : '') +
         (s.html || '') +
         (ytLink ? '<div class="yt"><a href="' + ytLink + '" target="_blank" rel="noopener">▶ Watch this step on YouTube ↗</a></div>' : '');
       if (hasAudio) card.__audio = s.audioFile || (guide.audioDir + '/' + s.id + '-' + s.slug + '.mp3');
