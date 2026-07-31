@@ -157,7 +157,12 @@
           (block.sourceRoman || '') + ' ' + (block.sourceOriginal || '');
       }).join(' ');
       var hasAudio = s.audio ? true : !guide.noAudio;
-      var ytLink = (hasAudio && s.start) ? guide.source + '&t=' + toSec(s.start) + 's' : '';
+      var sectionSource = s.sourceVideo || guide.source;
+      var sectionStart = typeof s.startSeconds === 'number' ? s.startSeconds : toSec(s.start);
+      var ytLink = (hasAudio && sectionSource)
+        ? sectionSource + (sectionSource.indexOf('?') > -1 ? '&' : '?') +
+          't=' + Math.round(sectionStart) + 's'
+        : '';
       var timeHtml = s.start ? ('<div class="time">⏱ ' + s.start + '–' + s.end + '</div>')
         : (s.page ? ('<div class="time">📖 p. ' + esc(s.page) + '</div>') : '');
       var card = document.createElement('article');
