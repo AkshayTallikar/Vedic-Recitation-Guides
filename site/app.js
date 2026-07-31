@@ -40,24 +40,41 @@
   function structuredTranscriptHtml(blocks, guide) {
     if (!blocks || !blocks.length) return '';
     var html = '<div class="guided-flow">';
-    blocks.forEach(function (block) {
+    var i = 0;
+    while (i < blocks.length) {
+      var block = blocks[i];
       if (block.kind === 'action') {
+        var actionRun = [];
+        while (i < blocks.length && blocks[i].kind === 'action') {
+          actionRun.push(blocks[i]);
+          i++;
+        }
         html += '<div class="guided-block action-block">' +
-          '<span class="lbl">' + esc(guide.structuredActionLabel || 'Action · English') + '</span>' +
-          '<div class="action-english">' + esc(block.english || '') + '</div>' +
-          (block.sourceRoman
-            ? '<details class="spoken-source"><summary>' +
-                esc(guide.structuredSourceLabel || 'Original spoken source') +
-              '</summary><div>' + esc(block.sourceRoman) + '</div></details>'
-            : '') +
-          '</div>';
+          '<span class="lbl">' + esc(guide.structuredActionLabel || 'Action · English') + '</span>';
+        actionRun.forEach(function (action) {
+          html += '<div class="action-english">' + esc(action.english || '') + '</div>';
+        });
+        var spokenActions = actionRun.filter(function (action) {
+          return !!action.sourceRoman;
+        });
+        if (spokenActions.length) {
+          html += '<details class="spoken-source"><summary>' +
+            esc(guide.structuredSourceLabel || 'Original spoken source') +
+            '</summary>';
+          spokenActions.forEach(function (action) {
+            html += '<div>' + esc(action.sourceRoman) + '</div>';
+          });
+          html += '</details>';
+        }
+        html += '</div>';
       } else {
         html += '<div class="guided-block recitation-block">' +
           '<span class="lbl">' + esc(guide.structuredMantraLabel || 'Sanskrit recitation') + '</span>' +
           '<div>' + esc(block.text || '') + '</div>' +
           '</div>';
+        i++;
       }
-    });
+    }
     return html + '</div>';
   }
   // Overlay the current period's overrides onto a section, then run token subst.
