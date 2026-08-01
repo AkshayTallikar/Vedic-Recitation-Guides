@@ -200,7 +200,9 @@
       }).join(' ');
       var hasAudio = s.audio ? true : !guide.noAudio;
       var sectionSource = s.sourceVideo || guide.source;
-      var sectionStart = typeof s.startSeconds === 'number' ? s.startSeconds : toSec(s.start);
+      var sectionStart = typeof s.startSeconds === 'number'
+        ? s.startSeconds
+        : (s.start ? toSec(s.start) : 0);
       var ytLink = (hasAudio && sectionSource)
         ? sectionSource + (sectionSource.indexOf('?') > -1 ? '&' : '?') +
           't=' + Math.round(sectionStart) + 's'
