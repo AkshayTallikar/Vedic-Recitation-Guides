@@ -251,6 +251,13 @@
   .speeds .spd:first-child{border-left:0}
   .speeds .spd:hover{color:var(--accent);background:var(--accent-soft)}
   .speeds .spd.is-on{background:var(--accent);color:#fff}
+  .practice{
+    flex:none;border:1px solid var(--line);background:var(--card);color:var(--ink);
+    border-radius:9px;cursor:pointer;font-family:inherit;font-size:12px;font-weight:600;
+    line-height:1;padding:9px 10px;white-space:nowrap;
+  }
+  .practice:hover{border-color:var(--accent);color:var(--accent)}
+  .practice.is-on{border-color:var(--accent);background:var(--accent);color:#fff}
 
   footer{text-align:center;color:var(--muted);font-size:12.5px;padding:30px 0 10px}
 
@@ -263,7 +270,8 @@
     .explain.has-rahasya{flex-direction:column;gap:12px}
     .player .inner{flex-wrap:wrap;gap:9px 10px;padding:9px 12px}
     .player .nav{order:2}
-    .player .speeds{order:3;flex:1 0 100%}
+    .player .practice{order:3}
+    .player .speeds{order:4;flex:1 1 auto}
     .speeds .spd{flex:1;padding:9px 4px}
     .pmeta .pt{font-size:13px}
     .nav .lbl-txt{display:none}
@@ -336,6 +344,7 @@
       <button class="spd" data-rate="1.25" title="1.25× speed">1.25×</button>
       <button class="spd" data-rate="1.5" title="1.5× speed">1.5×</button>
     </div>
+    <button class="practice" id="practice" type="button" aria-pressed="false" hidden>↻ 3× Practice</button>
     <div class="nav">
       <button id="prev" title="Previous step">◀<span class="lbl-txt"> Prev</span></button>
       <button id="next" title="Next step">Next<span class="lbl-txt"> </span>▶</button>

@@ -251,6 +251,13 @@
   .speeds .spd:first-child{border-left:0}
   .speeds .spd:hover{color:var(--accent);background:var(--accent-soft)}
   .speeds .spd.is-on{background:var(--accent);color:#fff}
+  .practice{
+    flex:none;border:1px solid var(--line);background:var(--card);color:var(--ink);
+    border-radius:9px;cursor:pointer;font-family:inherit;font-size:12px;font-weight:600;
+    line-height:1;padding:9px 10px;white-space:nowrap;
+  }
+  .practice:hover{border-color:var(--accent);color:var(--accent)}
+  .practice.is-on{border-color:var(--accent);background:var(--accent);color:#fff}
 
   footer{text-align:center;color:var(--muted);font-size:12.5px;padding:30px 0 10px}
 
@@ -263,7 +270,8 @@
     .explain.has-rahasya{flex-direction:column;gap:12px}
     .player .inner{flex-wrap:wrap;gap:9px 10px;padding:9px 12px}
     .player .nav{order:2}
-    .player .speeds{order:3;flex:1 0 100%}
+    .player .practice{order:3}
+    .player .speeds{order:4;flex:1 1 auto}
     .speeds .spd{flex:1;padding:9px 4px}
     .pmeta .pt{font-size:13px}
     .nav .lbl-txt{display:none}
@@ -336,6 +344,7 @@
       <button class="spd" data-rate="1.25" title="1.25× speed">1.25×</button>
       <button class="spd" data-rate="1.5" title="1.5× speed">1.5×</button>
     </div>
+    <button class="practice" id="practice" type="button" aria-pressed="false" hidden>↻ 3× Practice</button>
     <div class="nav">
       <button id="prev" title="Previous step">◀<span class="lbl-txt"> Prev</span></button>
       <button id="next" title="Next step">Next<span class="lbl-txt"> </span>▶</button>
@@ -9927,6 +9936,7 @@
   var seek = document.getElementById('seek');
   var tt = document.getElementById('tt');
   var speedsEl = document.getElementById('speeds');
+  var practiceBtn = document.getElementById('practice');
 
   // ---- helpers ----
   function toSec(mmss) { var p = mmss.split(':'); return (+p[0]) * 60 + (+p[1]); }
@@ -10041,7 +10051,27 @@
   var guide, secs, cards, current = -1;
   var curP = null; // current time-of-day period (for guides with s.periods)
   var rate = 1;
+  var practiceEnabled = false;
+  var repetition = 1;
   var seeking = false;
+
+  function practiceActive() {
+    return guide && guide.key === 'harivayustuti' && practiceEnabled;
+  }
+  function syncPractice() {
+    var available = guide && guide.key === 'harivayustuti';
+    practiceBtn.hidden = !available;
+    practiceBtn.classList.toggle('is-on', available && practiceEnabled);
+    practiceBtn.setAttribute('aria-pressed', available && practiceEnabled ? 'true' : 'false');
+    practiceBtn.title = practiceEnabled
+      ? 'Practice mode on: each shloka plays three times'
+      : 'Play each shloka three times before moving on';
+  }
+  function setPlayerTitle() {
+    if (current < 0 || !secs[current]) return;
+    var s = secs[current];
+    pt.textContent = s.id + ' · ' + s.title + (practiceActive() ? ' · Repeat ' + repetition + '/3' : '');
+  }
 
   // ---- tabs ----
   GUIDES.forEach(function (g, gi) {
@@ -10062,6 +10092,7 @@
 
     guide = GUIDES[gi];
     secs = guide.sections;
+    repetition = 1;
     curP = guide.periods ? guide.periods[0] : null;
     Array.prototype.forEach.call(tabsEl.children, function (t, i) {
       t.classList.toggle('active', i === gi);
@@ -10075,6 +10106,7 @@
     search.value = '';
     search.placeholder = guide.searchPlaceholder || 'Search a step (e.g. Śaṅkha, abhiṣeka, naivedya)…';
     noticeEl.hidden = !!guide.hideNotice;
+    syncPractice();
     buildPeriodBar();
     buildList();
   }
@@ -10212,17 +10244,27 @@
     if (idx < 0 || idx >= cards.length) return;
     if (current === idx) { toggle(); return; }
     current = idx;
-    var c = cards[idx], s = secs[idx];
+    repetition = 1;
+    var c = cards[idx];
     audio.src = c.__audio;
     audio.playbackRate = rate;
-    pt.textContent = s.id + ' · ' + s.title;
+    setPlayerTitle();
     player.classList.add('show');
     cards.forEach(function (x) { x.classList.remove('playing'); });
     c.classList.add('playing');
     syncBtns();
     if (autoplay !== false) audio.play();
   }
-  function toggle() { if (audio.paused) audio.play(); else audio.pause(); }
+  function toggle() {
+    if (audio.paused) {
+      if (audio.ended) {
+        repetition = 1;
+        audio.currentTime = 0;
+        setPlayerTitle();
+      }
+      audio.play();
+    } else audio.pause();
+  }
   function syncBtns() {
     var playing = !audio.paused;
     pp.textContent = playing ? '❚❚' : '▶';
@@ -10250,11 +10292,26 @@
       x.classList.toggle('is-on', x === b);
     });
   });
+  practiceBtn.addEventListener('click', function () {
+    practiceEnabled = !practiceEnabled;
+    repetition = 1;
+    syncPractice();
+    setPlayerTitle();
+  });
 
   audio.addEventListener('play', syncBtns);
   audio.addEventListener('pause', syncBtns);
   audio.addEventListener('ended', function () {
-    if (current + 1 < cards.length) load(current + 1); else syncBtns();
+    if (practiceActive() && repetition < 3) {
+      repetition++;
+      audio.currentTime = 0;
+      setPlayerTitle();
+      audio.play();
+    } else if (current + 1 < cards.length) {
+      load(current + 1);
+    } else {
+      syncBtns();
+    }
   });
   audio.addEventListener('timeupdate', function () {
     if (seeking || !audio.duration) return;
