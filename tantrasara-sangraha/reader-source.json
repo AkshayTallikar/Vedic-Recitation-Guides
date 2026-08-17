@@ -1,0 +1,2434 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "प्रथमोऽध्यायः",
+      "verses": [
+        {
+          "number": 1,
+          "devanagari": "जयत्यब्जभवेशेन्द्रवन्दितः कमलापतिः। अनन्तविभवानन्दशक्तिज्ञानादिसद्गुणः॥ १॥",
+          "iast": "jayatyabjabhaveśendravanditaḥ kamalāpatiḥ| anantavibhavānandaśaktijñānādisadguṇaḥ|| 1||",
+          "topic": "मङ्गलाचरणम्"
+        },
+        {
+          "number": 2,
+          "devanagari": "विधिं विधाय सर्गादौ तेन पृष्टोऽब्जलोचनः। आह देवो रमोत्सङ्गविलसत्पादपल्लवः॥ २॥",
+          "iast": "vidhiṃ vidhāya sargādau tena pṛṣṭo’bjalocanaḥ| āha devo ramotsaṅgavilasatpādapallavaḥ|| 2||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 3,
+          "devanagari": "अहमेकोऽखिलगुणो वाचकः प्रणवो मम। अकाराद्यतिशान्तान्तः सोऽयमष्टाक्षरो मतः॥ ३॥",
+          "iast": "ahameko’khilaguṇo vācakaḥ praṇavo mama| akārādyatiśāntāntaḥ so’yamaṣṭākṣaro mataḥ|| 3||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 4,
+          "devanagari": "स विश्वतैजसप्राज्ञतुरीयात्मान्तरात्मनाम्। परमात्मज्ञानात्मयुजां मद्रूपाणां च वाचकः॥ ४॥",
+          "iast": "sa viśvataijasaprājñaturīyātmāntarātmanām| paramātmajñānātmayujāṃ madrūpāṇāṃ ca vācakaḥ|| 4||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 5,
+          "devanagari": "तद्रूपभेदाः पञ्चाशन्मूर्तयो मम चापराः। पञ्चाशद्वर्णवाच्यास्ता वर्णास्तारार्णभेदिताः॥ ५॥",
+          "iast": "tadrūpabhedāḥ pañcāśanmūrtayo mama cāparāḥ| pañcāśadvarṇavācyāstā varṇāstārārṇabheditāḥ|| 5||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 6,
+          "devanagari": "द्विरष्टपञ्चकचतुःपञ्चेत्येवाष्टवर्गगाः। अज आनन्द इन्द्रेशावुग्र ऊर्ज ऋतम्भरः॥ ६॥",
+          "iast": "dviraṣṭapañcakacatuḥpañcetyevāṣṭavargagāḥ| aja ānanda indreśāvugra ūrja ṛtambharaḥ|| 6||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 7,
+          "devanagari": "ॠघलृशौ लॄजिरेकात्मैर ओजोभृदौरसः। अन्तोऽर्धगर्भः कपिलः खपतिर्गरुडासनः॥ ७॥",
+          "iast": "ṝghalṛśau laॄjirekātmaira ojobhṛdaurasaḥ| anto’rdhagarbhaḥ kapilaḥ khapatirgaruḍāsanaḥ|| 7||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 8,
+          "devanagari": "घर्मो ङसारश्चार्वङ्गश्छन्दोगम्यो जनार्दनः। झाटितारिर्ञमष्टङ्की ठलको डरको ढरी॥ ८॥",
+          "iast": "gharmo ṅasāraścārvaṅgaśchandogamyo janārdanaḥ| jhāṭitārirñamaṣṭaṅkī ṭhalako ḍarako ḍharī|| 8||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 9,
+          "devanagari": "णात्मा तारस्थपो दण्डी धन्वी नम्यः परः फली। बली भगो मनुर्यज्ञो रामो लक्ष्मीपतिर्वरः॥ ९॥",
+          "iast": "ṇātmā tārasthapo daṇḍī dhanvī namyaḥ paraḥ phalī| balī bhago manuryajño rāmo lakṣmīpatirvaraḥ|| 9||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 10,
+          "devanagari": "शान्तसंवित् षड्गुणश्च सारात्मा हंसळाळुकौ। पञ्चाशन्मूर्तयस्त्वेता ममाकारादिलक्षकाः॥ १०॥",
+          "iast": "śāntasaṃvit ṣaḍguṇaśca sārātmā haṃsaḷāḷukau| pañcāśanmūrtayastvetā mamākārādilakṣakāḥ|| 10||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 11,
+          "devanagari": "नारायणाष्टाक्षरश्च ताराष्टाक्षरभेदवान्। आद्यैस्तारचतुर्वर्णैर्भिन्ना व्याहृतयः क्रमात्॥ ११॥",
+          "iast": "nārāyaṇāṣṭākṣaraśca tārāṣṭākṣarabhedavān| ādyaistāracaturvarṇairbhinnā vyāhṛtayaḥ kramāt|| 11||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 12,
+          "devanagari": "अनिरुद्धादिकास्तासां देवता व्युत्क्रमेण वा। ताश्चतुर्मूर्तयस्त्वेव द्वादशार्णपदोदिताः॥ १२॥",
+          "iast": "aniruddhādikāstāsāṃ devatā vyutkrameṇa vā| tāścaturmūrtayastveva dvādaśārṇapadoditāḥ|| 12||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 13,
+          "devanagari": "नारायणाष्टाक्षराच्च व्याहृतिभ्यस्तथैव च। विभेदो द्वादशार्णानां केशवाद्याश्च देवताः॥ १३॥",
+          "iast": "nārāyaṇāṣṭākṣarācca vyāhṛtibhyastathaiva ca| vibhedo dvādaśārṇānāṃ keśavādyāśca devatāḥ|| 13||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 14,
+          "devanagari": "नारायणाष्टाक्षराच्च व्याहृतित्रिगुणात् पुनः। वेदमाता तु गायत्री द्विगुणा द्वादशाक्षरात्॥ १४॥",
+          "iast": "nārāyaṇāṣṭākṣarācca vyāhṛtitriguṇāt punaḥ| vedamātā tu gāyatrī dviguṇā dvādaśākṣarāt|| 14||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 15,
+          "devanagari": "चतुर्विंशन्मूर्तयोऽस्याः कथिता वर्णदेवताः। तद्भेदः पौरुषं सूक्तं वेदाः पुरुषसूक्तगाः॥ १५॥",
+          "iast": "caturviṃśanmūrtayo’syāḥ kathitā varṇadevatāḥ| tadbhedaḥ pauruṣaṃ sūktaṃ vedāḥ puruṣasūktagāḥ|| 15||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 16,
+          "devanagari": "वैदिकाः सर्वशब्दाश्च तस्मात् सर्वाभिधोऽस्म्यहम्। पञ्चाशद्वर्णभिन्नाश्च सर्वशब्दा अतोऽपि च॥ १६॥",
+          "iast": "vaidikāḥ sarvaśabdāśca tasmāt sarvābhidho’smyaham| pañcāśadvarṇabhinnāśca sarvaśabdā ato’pi ca|| 16||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 17,
+          "devanagari": "ऋषिश्च देवतैकोऽहं तारादीनां विशेषतः। छन्दो मदीया गायत्री ताराष्टाक्षरयोर्मता॥ १७॥",
+          "iast": "ṛṣiśca devataiko’haṃ tārādīnāṃ viśeṣataḥ| chando madīyā gāyatrī tārāṣṭākṣarayormatā|| 17||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 18,
+          "devanagari": "उद्यद्भास्वत्समाभासश्चिदानन्दैकदेहवान्। चक्रशङ्खगदापद्मधरो ध्येयोऽहमीश्वरः॥ १८॥",
+          "iast": "udyadbhāsvatsamābhāsaścidānandaikadehavān| cakraśaṅkhagadāpadmadharo dhyeyo’hamīśvaraḥ|| 18||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 19,
+          "devanagari": "लक्ष्मीधराभ्यामाश्लिष्टः स्वमूर्तिगणमध्यगः॥ १९॥",
+          "iast": "lakṣmīdharābhyāmāśliṣṭaḥ svamūrtigaṇamadhyagaḥ|| 19||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 20,
+          "devanagari": "ब्रह्मवायुशिवाहीशविपैः शक्रादिकैरपि। सेव्यमानोऽधिकं भक्त्या नित्यनिःशेषशक्तिमान्॥ २०॥",
+          "iast": "brahmavāyuśivāhīśavipaiḥ śakrādikairapi| sevyamāno’dhikaṃ bhaktyā nityaniḥśeṣaśaktimān|| 20||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 21,
+          "devanagari": "मूर्तयोऽष्टावपि ध्येयाश्चक्रशङ्खवराभयैः। युक्ताः प्रदीपवर्णाश्च सर्वाभरणभूषिताः॥ २१॥",
+          "iast": "mūrtayo’ṣṭāvapi dhyeyāścakraśaṅkhavarābhayaiḥ| yuktāḥ pradīpavarṇāśca sarvābharaṇabhūṣitāḥ|| 21||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 22,
+          "devanagari": "तादृग्रूपाश्च पञ्चाशज्ज्ञानमुद्राभयोद्यताः। टङ्की दण्डी च धन्वी च तत्तद्युक्तास्तु वामतः॥ २२॥",
+          "iast": "tādṛgrūpāśca pañcāśajjñānamudrābhayodyatāḥ| ṭaṅkī daṇḍī ca dhanvī ca tattadyuktāstu vāmataḥ|| 22||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 23,
+          "devanagari": "वासुदेवादिकाः शुक्लरक्तपीतासितोज्ज्वलाः। चक्रशङ्खगदाब्जेतः प्रथमो मुसली हली॥ २३॥",
+          "iast": "vāsudevādikāḥ śuklaraktapītāsitojjvalāḥ| cakraśaṅkhagadābjetaḥ prathamo musalī halī|| 23||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 24,
+          "devanagari": "सशङ्खचक्रस्त्वपरस्तृतीयः शार्ङ्गबाणवान्। सचक्रशङ्खस्तुर्यस्तु चक्रशङ्खासिचर्मवान्॥ २४॥",
+          "iast": "saśaṅkhacakrastvaparastṛtīyaḥ śārṅgabāṇavān| sacakraśaṅkhasturyastu cakraśaṅkhāsicarmavān|| 24||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 25,
+          "devanagari": "केशवो मधुसूदनः सङ्कर्षणदामोदरौ। सवासुदेवः प्रद्युम्नो दक्षोच्चकरशङ्खिनः॥ २५॥",
+          "iast": "keśavo madhusūdanaḥ saṅkarṣaṇadāmodarau| savāsudevaḥ pradyumno dakṣoccakaraśaṅkhinaḥ|| 25||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 26,
+          "devanagari": "विष्णुमाधवानिरुद्धपुरुषोत्तमाधोक्षजाः। जनार्दनश्च वामोच्चकरस्थितदरा मताः॥ २६॥",
+          "iast": "viṣṇumādhavāniruddhapuruṣottamādhokṣajāḥ| janārdanaśca vāmoccakarasthitadarā matāḥ|| 26||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 27,
+          "devanagari": "गोविन्दश्च त्रिविक्रमः सश्रीधरहृषीकपः। नृसिंहश्चाच्युतश्चैव वामाधःकरशङ्खिनः॥ २७॥",
+          "iast": "govindaśca trivikramaḥ saśrīdharahṛṣīkapaḥ| nṛsiṃhaścācyutaścaiva vāmādhaḥkaraśaṅkhinaḥ|| 27||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 28,
+          "devanagari": "वामनः सनारायणः पद्मनाभ उपेन्द्रकः। हरिः कृष्णश्च दक्षाधःकरशङ्खधरा मताः॥ २८॥",
+          "iast": "vāmanaḥ sanārāyaṇaḥ padmanābha upendrakaḥ| hariḥ kṛṣṇaśca dakṣādhaḥkaraśaṅkhadharā matāḥ|| 28||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 29,
+          "devanagari": "शङ्खचक्रगदापद्मधराश्चैते हि सर्वशः। क्रमव्युत्क्रमपद्मादिगदादिव्युत्क्रमस्तथा॥ २९॥",
+          "iast": "śaṅkhacakragadāpadmadharāścaite hi sarvaśaḥ| kramavyutkramapadmādigadādivyutkramastathā|| 29||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 30,
+          "devanagari": "अर्धक्रमः सान्तरश्च षट्सुषट्स्वरिपूर्विणाम्। वर्णानां देवतानां च नित्यत्वान्न क्रमः स्वतः॥ ३०॥",
+          "iast": "ardhakramaḥ sāntaraśca ṣaṭsuṣaṭsvaripūrviṇām| varṇānāṃ devatānāṃ ca nityatvānna kramaḥ svataḥ|| 30||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 31,
+          "devanagari": "व्यक्तिक्रमं ब्रह्मबुद्धावपेक्ष्य क्रम उच्यते। समासव्यासयोगेन व्याहृतीनां चतुष्टयम्॥ ३१॥",
+          "iast": "vyaktikramaṃ brahmabuddhāvapekṣya krama ucyate| samāsavyāsayogena vyāhṛtīnāṃ catuṣṭayam|| 31||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 32,
+          "devanagari": "सत्यं चाङ्गानि तारस्य प्रोच्यन्तेऽष्टाक्षरस्य च। कृद्धमहावीरद्युसहस्रसहितोल्ककाः॥ ३२॥",
+          "iast": "satyaṃ cāṅgāni tārasya procyante’ṣṭākṣarasya ca| kṛddhamahāvīradyusahasrasahitolkakāḥ|| 32||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 33,
+          "devanagari": "चतुर्थ्यन्ता हृदादीनि पृथग्रूपाणि तानि च। विष्णोरेवात्यभेदेऽपि तदैश्वर्यात् तदन्यवत्॥ ३३॥",
+          "iast": "caturthyantā hṛdādīni pṛthagrūpāṇi tāni ca| viṣṇorevātyabhede’pi tadaiśvaryāt tadanyavat|| 33||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 34,
+          "devanagari": "चक्रशङ्खवराभीतिहस्तान्येतानि सर्वशः। मूलरूपसवर्णानि कृष्णवर्णा शिखोच्यते॥ ३४॥",
+          "iast": "cakraśaṅkhavarābhītihastānyetāni sarvaśaḥ| mūlarūpasavarṇāni kṛṣṇavarṇā śikhocyate|| 34||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 35,
+          "devanagari": "चतुर्विंशन्मूर्तयश्च मूलरूपसवर्णकाः। आदिवर्णत्रयं नाभिहृच्छिरस्सु यथाक्रमम्॥ ३५॥",
+          "iast": "caturviṃśanmūrtayaśca mūlarūpasavarṇakāḥ| ādivarṇatrayaṃ nābhihṛcchirassu yathākramam|| 35||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 36,
+          "devanagari": "न्यसनीयं च तद्वर्णदेवताध्यानपूर्वकम्। पज्जानुनाभिहृदयवाङ्नासानेत्रकेषु च॥ ३६॥",
+          "iast": "nyasanīyaṃ ca tadvarṇadevatādhyānapūrvakam| pajjānunābhihṛdayavāṅnāsānetrakeṣu ca|| 36||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 37,
+          "devanagari": "अष्टाक्षराणां न्यासः स्याद् व्याहृतीनां प्रजापतिः। मुनिश्छन्दस्तु गायत्री देवता भगवान् हरिः॥ ३७॥",
+          "iast": "aṣṭākṣarāṇāṃ nyāsaḥ syād vyāhṛtīnāṃ prajāpatiḥ| muniśchandastu gāyatrī devatā bhagavān hariḥ|| 37||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 38,
+          "devanagari": "उद्यदादित्यवर्णश्च ज्ञानमुद्राभयोद्यतः। तारेण व्याहृतीभिश्च ज्ञेयान्यङ्गानि पञ्च च॥ ३८॥",
+          "iast": "udyadādityavarṇaśca jñānamudrābhayodyataḥ| tāreṇa vyāhṛtībhiśca jñeyānyaṅgāni pañca ca|| 38||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 39,
+          "devanagari": "नाभिहृत्केषु सर्वेषु चतस्रो व्याहृतीर्न्यसेत्। द्वादशार्णस्य जगतीच्छन्दोऽन्यत् तारवत् स्मृतम्॥ ३९॥",
+          "iast": "nābhihṛtkeṣu sarveṣu catasro vyāhṛtīrnyaset| dvādaśārṇasya jagatīcchando’nyat tāravat smṛtam|| 39||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 40,
+          "devanagari": "अच्छवर्णोऽभयवरकरो ध्येयोऽमितद्युतिः। पदैर्व्यस्तैः समस्तैश्च ज्ञेयान्यङ्गानि पञ्च च। अष्टाक्षराणां स्थानेषु बाह्वोरूर्वोश्च विन्यसेत्॥ ४०॥",
+          "iast": "acchavarṇo’bhayavarakaro dhyeyo’mitadyutiḥ| padairvyastaiḥ samastaiśca jñeyānyaṅgāni pañca ca| aṣṭākṣarāṇāṃ sthāneṣu bāhvorūrvośca vinyaset|| 40||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 41,
+          "devanagari": "विश्वामित्रस्तु सन्ध्यार्थे तदन्यत्र प्रजापतिः। मुनिर्देवस्तु सवितृनामा स्रष्टृत्वतो हरिः॥ ४१॥",
+          "iast": "viśvāmitrastu sandhyārthe tadanyatra prajāpatiḥ| munirdevastu savitṛnāmā sraṣṭṛtvato hariḥ|| 41||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 42,
+          "devanagari": "प्रोद्यदादित्यवर्णश्च सूर्यमण्डलमध्यगः। चक्रशङ्खधरोऽङ्कस्थदोर्द्वयो ध्येय एव च॥ ४२॥",
+          "iast": "prodyadādityavarṇaśca sūryamaṇḍalamadhyagaḥ| cakraśaṅkhadharo’ṅkasthadordvayo dhyeya eva ca|| 42||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 43,
+          "devanagari": "सताराश्च व्याहृतयो गायत्र्यङ्गानि पञ्च च। दोः पत्सन्धिषु साग्रेषु नाभिहृन्मुखकेषु च॥ ४३॥",
+          "iast": "satārāśca vyāhṛtayo gāyatryaṅgāni pañca ca| doḥ patsandhiṣu sāgreṣu nābhihṛnmukhakeṣu ca|| 43||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 44,
+          "devanagari": "वर्णन्यासश्च कर्तव्यस्तारवन्निखिलं स्मृतम्। पञ्चाशदक्षराणां च पुंसूक्तस्यापि सर्वशः॥ ४४॥",
+          "iast": "varṇanyāsaśca kartavyastāravannikhilaṃ smṛtam| pañcāśadakṣarāṇāṃ ca puṃsūktasyāpi sarvaśaḥ|| 44||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 45,
+          "devanagari": "अनुष्टुभश्च त्रिष्टुप् च छन्दोऽस्य त्रिष्टुभोऽपि वा। विष्णुशब्दश्चतुर्थ्यन्तो हृदयेतः षडक्षरः॥ ४५॥",
+          "iast": "anuṣṭubhaśca triṣṭup ca chando’sya triṣṭubho’pi vā| viṣṇuśabdaścaturthyanto hṛdayetaḥ ṣaḍakṣaraḥ|| 45||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 46,
+          "devanagari": "तारवत् सर्वमस्यापि श्यामो ध्येयो हरिः स्वयम्। वर्णा एव षडङ्गानि षणयोर्भेदयोगतः॥ ४६॥",
+          "iast": "tāravat sarvamasyāpi śyāmo dhyeyo hariḥ svayam| varṇā eva ṣaḍaṅgāni ṣaṇayorbhedayogataḥ|| 46||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 47,
+          "devanagari": "पज्जानुनाभिहृन्नासाकेषु न्यासश्च वर्णशः। एते तु सर्वमन्त्राणां मूलमन्त्रा विशेषतः॥ ४७॥",
+          "iast": "pajjānunābhihṛnnāsākeṣu nyāsaśca varṇaśaḥ| ete tu sarvamantrāṇāṃ mūlamantrā viśeṣataḥ|| 47||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 48,
+          "devanagari": "एतज्ज्ञानात् समस्तं च ज्ञातं स्याच्छब्दगोचरम्। एतज्जपात् समस्तानां मन्त्राणां जापको भवेत्॥ ४८॥",
+          "iast": "etajjñānāt samastaṃ ca jñātaṃ syācchabdagocaram| etajjapāt samastānāṃ mantrāṇāṃ jāpako bhavet|| 48||",
+          "topic": "अष्टमहामन्त्राः"
+        },
+        {
+          "number": 49,
+          "devanagari": "पूज्यश्च भगवान् नित्यं चक्राब्जादिकमण्डले। हृदये वा चले वाऽपि जले वा केवलस्थले॥ ४९॥",
+          "iast": "pūjyaśca bhagavān nityaṃ cakrābjādikamaṇḍale| hṛdaye vā cale vā’pi jale vā kevalasthale|| 49||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 50,
+          "devanagari": "अष्टाक्षरेण सम्पूज्य प्रथमं देवतां पराम्। मध्ये सव्ये गुरूंश्चैव दक्षिणे सर्वदेवताः॥ ५०॥",
+          "iast": "aṣṭākṣareṇa sampūjya prathamaṃ devatāṃ parām| madhye savye gurūṃścaiva dakṣiṇe sarvadevatāḥ|| 50||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 51,
+          "devanagari": "पुनः सव्ये सर्वगुरूनाग्नेयादिषु च क्रमात्। गरुडं व्यासदेवं च दुर्गां चैव सरस्वतीम्॥ ५१॥",
+          "iast": "punaḥ savye sarvagurūnāgneyādiṣu ca kramāt| garuḍaṃ vyāsadevaṃ ca durgāṃ caiva sarasvatīm|| 51||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 52,
+          "devanagari": "धर्मं ज्ञानं च वैराग्यमैश्वर्यं चैव कोणगान्। तदन्तः पूर्वदिक्पूर्वमधर्मादींश्च पूजयेत्॥ ५२॥",
+          "iast": "dharmaṃ jñānaṃ ca vairāgyamaiśvaryaṃ caiva koṇagān| tadantaḥ pūrvadikpūrvamadharmādīṃśca pūjayet|| 52||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 53,
+          "devanagari": "अपूजिता अधर्मादिदातारस्ते तथाभिधाः। निर्ऋतिश्चैव दुर्गा च कामो रुद्रश्च देवताः॥ ५३॥",
+          "iast": "apūjitā adharmādidātāraste tathābhidhāḥ| nirṛtiścaiva durgā ca kāmo rudraśca devatāḥ|| 53||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 54,
+          "devanagari": "यमवायुशिवेन्द्राश्च ज्ञेया धर्मादिदेवताः। परमः पुरुषो मध्ये शक्तिराधाररूपिणी॥ ५४॥",
+          "iast": "yamavāyuśivendrāśca jñeyā dharmādidevatāḥ| paramaḥ puruṣo madhye śaktirādhārarūpiṇī|| 54||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 55,
+          "devanagari": "कूर्मोऽनन्तश्च पृथिवी क्षीरसागर एव च। श्वेतद्वीपो मण्टपश्च दिव्यरत्नमयो महान्॥ ५५॥",
+          "iast": "kūrmo’nantaśca pṛthivī kṣīrasāgara eva ca| śvetadvīpo maṇṭapaśca divyaratnamayo mahān|| 55||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 56,
+          "devanagari": "पद्ममेतत् त्रयं देवी रमैव बहुरूपिणी। सूर्यसोमहुताशाश्च पद्मे श्रीस्त्रिगुणात्मिका॥ ५६॥",
+          "iast": "padmametat trayaṃ devī ramaiva bahurūpiṇī| sūryasomahutāśāśca padme śrīstriguṇātmikā|| 56||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 57,
+          "devanagari": "आत्मान्तरात्मपरमज्ञानात्मानश्च मूर्तयः। विमलोत्कर्षणी ज्ञाना क्रिया योगा तथैव च॥ ५७॥",
+          "iast": "ātmāntarātmaparamajñānātmānaśca mūrtayaḥ| vimalotkarṣaṇī jñānā kriyā yogā tathaiva ca|| 57||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 58,
+          "devanagari": "प्रह्वी सत्या तथेशानाऽनुग्रहा चेति शक्तयः। अष्टदिक्षु च मध्ये च स्वरूपाण्येव ता हरेः॥ ५८॥",
+          "iast": "prahvī satyā tatheśānā’nugrahā ceti śaktayaḥ| aṣṭadikṣu ca madhye ca svarūpāṇyeva tā hareḥ|| 58||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 59,
+          "devanagari": "ततोऽनन्तं योगपीठस्वरूपं पूजयेद्धरेः। तत्रावाह्य हरिं चार्घ्यं पाद्यमाचमनीयकम्॥ ५९॥",
+          "iast": "tato’nantaṃ yogapīṭhasvarūpaṃ pūjayeddhareḥ| tatrāvāhya hariṃ cārghyaṃ pādyamācamanīyakam|| 59||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 60,
+          "devanagari": "मधुपर्कं पुनश्चाचां स्नानं वासो विभूषणम्। उपवीतासने दत्वा गन्धपुष्पे तथैव च॥ ६०॥",
+          "iast": "madhuparkaṃ punaścācāṃ snānaṃ vāso vibhūṣaṇam| upavītāsane datvā gandhapuṣpe tathaiva ca|| 60||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 61,
+          "devanagari": "लक्ष्मीधरे यजेत् तत्र पार्श्वयोरुभयोर्हरेः। हृदयादींस्तथेन्द्रादिदिक्ष्वस्त्रं कोणकेषु च॥ ६१॥",
+          "iast": "lakṣmīdhare yajet tatra pārśvayorubhayorhareḥ| hṛdayādīṃstathendrādidikṣvastraṃ koṇakeṣu ca|| 61||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 62,
+          "devanagari": "वासुदेवादिकान् दिक्षु केशवादींस्ततः परम्। मत्स्यकूर्मवराहांश्च नारसिंहं च वामनम्॥ ६२॥",
+          "iast": "vāsudevādikān dikṣu keśavādīṃstataḥ param| matsyakūrmavarāhāṃśca nārasiṃhaṃ ca vāmanam|| 62||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 63,
+          "devanagari": "भार्गवं राघवं कृष्णं बुद्धं कल्किनमेव च। अनन्तं विश्वरूपं च तद्बहिः पूजयेत् क्रमात्॥ ६३॥",
+          "iast": "bhārgavaṃ rāghavaṃ kṛṣṇaṃ buddhaṃ kalkinameva ca| anantaṃ viśvarūpaṃ ca tadbahiḥ pūjayet kramāt|| 63||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 64,
+          "devanagari": "अनन्तब्रह्मवाय्वीशान् वीशं चाग्रे प्रपूजयेत्। वारुणीं चैव गायत्रीं भारतीं गिरिजामपि॥ ६४॥",
+          "iast": "anantabrahmavāyvīśān vīśaṃ cāgre prapūjayet| vāruṇīṃ caiva gāyatrīṃ bhāratīṃ girijāmapi|| 64||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 65,
+          "devanagari": "कोणेषु वीन्द्रवामे च सौपर्णीं पूजयेदपि। इन्द्रादीञ्छेषविध्यन्तान् सभार्यान् सपरिग्रहान्॥ ६५॥",
+          "iast": "koṇeṣu vīndravāme ca sauparṇīṃ pūjayedapi| indrādīñcheṣavidhyantān sabhāryān saparigrahān|| 65||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 66,
+          "devanagari": "धूपदीपौ ततो दत्वा नैवेद्यं मूलमन्त्रतः। अनेन क्रमयोगेन जुहुयात् संस्कृतेऽनले॥ ६६॥",
+          "iast": "dhūpadīpau tato datvā naivedyaṃ mūlamantrataḥ| anena kramayogena juhuyāt saṃskṛte’nale|| 66||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 67,
+          "devanagari": "पुष्पाञ्जलिश्च होमश्च मूलेनाष्टोत्तरं शतम्। सकृत्सकृत् पुष्पमन्यैर्होमस्तस्य चतुर्गुणः॥ ६७॥",
+          "iast": "puṣpāñjaliśca homaśca mūlenāṣṭottaraṃ śatam| sakṛtsakṛt puṣpamanyairhomastasya caturguṇaḥ|| 67||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 68,
+          "devanagari": "विसर्जयित्वा नैवेद्यं मूलेन त्रिः समर्च्य च। धूपदीपौ पुनर्दत्वा पुनर्मूलेन पूर्ववत्॥ ६८॥",
+          "iast": "visarjayitvā naivedyaṃ mūlena triḥ samarcya ca| dhūpadīpau punardatvā punarmūlena pūrvavat|| 68||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 69,
+          "devanagari": "अर्चयित्वा हरिं ध्यात्वा जपेदष्टोत्तरं शतम्। पुनर्ध्यायेद्धरिं सर्वदेवदेवेश्वरं प्रभुम्॥ ६९॥",
+          "iast": "arcayitvā hariṃ dhyātvā japedaṣṭottaraṃ śatam| punardhyāyeddhariṃ sarvadevadeveśvaraṃ prabhum|| 69||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 70,
+          "devanagari": "जपध्यानहुतार्चादीनेवं यः कुरुते सदा। धर्मार्थकाममोक्षाणां भाजनं स्यात् स एव हि॥ ७०॥",
+          "iast": "japadhyānahutārcādīnevaṃ yaḥ kurute sadā| dharmārthakāmamokṣāṇāṃ bhājanaṃ syāt sa eva hi|| 70||",
+          "topic": "भगवत्पूजाकथनम्"
+        },
+        {
+          "number": 71,
+          "devanagari": "सर्वोत्तमं हरिं ज्ञात्वा य एवं भक्तिपूर्वकम्। जपध्यानादिभिर्नित्यं पूजयेन्नास्य दुर्लभम्॥ ७१॥",
+          "iast": "sarvottamaṃ hariṃ jñātvā ya evaṃ bhaktipūrvakam| japadhyānādibhirnityaṃ pūjayennāsya durlabham|| 71||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 72,
+          "devanagari": "भक्तिं कृत्वाऽन्यदेवेषु ब्रह्मरुद्रादिकेष्वपि। सर्वोत्कर्षमविज्ञाय विष्णोर्याति तमो ध्रुवम्॥ ७२॥",
+          "iast": "bhaktiṃ kṛtvā’nyadeveṣu brahmarudrādikeṣvapi| sarvotkarṣamavijñāya viṣṇoryāti tamo dhruvam|| 72||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 73,
+          "devanagari": "न यज्ञा नच तीर्थानि नोपवासव्रतानि च। दैवतानि च सर्वाणि त्रातुं तं शक्नुयुः क्वचित्॥ ७३॥",
+          "iast": "na yajñā naca tīrthāni nopavāsavratāni ca| daivatāni ca sarvāṇi trātuṃ taṃ śaknuyuḥ kvacit|| 73||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 74,
+          "devanagari": "हरिर्हि सर्वदेवानां परमः पूर्णशक्तिमान्। स्वतन्त्रोऽन्ये तद्वशा हि सर्वेऽतः स जगद्गुरुः॥ ७४॥",
+          "iast": "harirhi sarvadevānāṃ paramaḥ pūrṇaśaktimān| svatantro’nye tadvaśā hi sarve’taḥ sa jagadguruḥ|| 74||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 75,
+          "devanagari": "ब्रह्मादयश्च तद्भक्त्या भागिनो भोगमोक्षयोः। तस्माज्ज्ञेयश्च पूज्यश्च वन्द्यो ध्येयः सदा हरिः॥ ७५॥",
+          "iast": "brahmādayaśca tadbhaktyā bhāgino bhogamokṣayoḥ| tasmājjñeyaśca pūjyaśca vandyo dhyeyaḥ sadā hariḥ|| 75||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "द्वितीयोऽध्यायः",
+      "verses": [
+        {
+          "number": 1,
+          "devanagari": "यस्यकस्यापि मन्त्रस्य न्यासः पञ्चाशदक्षरैः। वीर्यदः केऽभितो वक्त्रमक्षिकर्णेषु नासयोः॥ १॥",
+          "iast": "yasyakasyāpi mantrasya nyāsaḥ pañcāśadakṣaraiḥ| vīryadaḥ ke’bhito vaktramakṣikarṇeṣu nāsayoḥ|| 1||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 2,
+          "devanagari": "गण्डयोरोष्ठयोर्दन्तपङ्क्त्योर्मूर्ध्नि च वाचि च। दोःपत्सन्धिषु साग्रेषु पार्श्वयोः पृष्ठगुह्ययोः॥ २॥",
+          "iast": "gaṇḍayoroṣṭhayordantapaṅktyormūrdhni ca vāci ca| doḥpatsandhiṣu sāgreṣu pārśvayoḥ pṛṣṭhaguhyayoḥ|| 2||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 3,
+          "devanagari": "तुन्दे च हृदि धातूनां सप्तके प्राणजीवयोः। सक्षकारान् न्यसेद् वर्णान् नृसिंहः क्षस्य देवता॥ ३॥",
+          "iast": "tunde ca hṛdi dhātūnāṃ saptake prāṇajīvayoḥ| sakṣakārān nyased varṇān nṛsiṃhaḥ kṣasya devatā|| 3||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 4,
+          "devanagari": "जपे न्यासे च विहितः क्षोऽक्षराणां सदाऽन्ततः। प्राणायामो रेचयित्वा पूरयित्वा च कुम्भके॥ ४॥",
+          "iast": "jape nyāse ca vihitaḥ kṣo’kṣarāṇāṃ sadā’ntataḥ| prāṇāyāmo recayitvā pūrayitvā ca kumbhake|| 4||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 5,
+          "devanagari": "तारैस्त्रिर्द्वादशावृत्तैर्द्व्येकद्वादशकेन वा। तत्तन्मन्त्रेण वा कार्यो गायत्र्या दशतारकैः॥ ५॥",
+          "iast": "tāraistrirdvādaśāvṛttairdvyekadvādaśakena vā| tattanmantreṇa vā kāryo gāyatryā daśatārakaiḥ|| 5||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 6,
+          "devanagari": "आदावेव जपे कुर्याच्छोषणं दहनं प्लुतिम्। वाय्वग्निवारुणैर्बीजैर्ध्यात्वा तन्मण्डले हरिं॥ ६॥",
+          "iast": "ādāveva jape kuryācchoṣaṇaṃ dahanaṃ plutim| vāyvagnivāruṇairbījairdhyātvā tanmaṇḍale hariṃ|| 6||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 7,
+          "devanagari": "एकपञ्चाशद्वर्णानां चतुर्विंशतिमूर्तयः। आत्माद्या वासुदेवाद्या विश्वाद्या मत्स्यकच्छपौ॥ ७॥",
+          "iast": "ekapañcāśadvarṇānāṃ caturviṃśatimūrtayaḥ| ātmādyā vāsudevādyā viśvādyā matsyakacchapau|| 7||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 8,
+          "devanagari": "कोलो नृसिंहः सवटुर्जामदग्न्यरघूद्वहौ। वासिष्ठयादवौ कृष्णावात्रेयो बुद्धकल्किनौ॥ ८॥",
+          "iast": "kolo nṛsiṃhaḥ savaṭurjāmadagnyaraghūdvahau| vāsiṣṭhayādavau kṛṣṇāvātreyo buddhakalkinau|| 8||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 9,
+          "devanagari": "शिंशुमारश्चेति शतं कलाः कलशनामकाः। एताभिः सहितां मूलमूर्तिं कुम्भोदके सुधीः॥ ९॥",
+          "iast": "śiṃśumāraśceti śataṃ kalāḥ kalaśanāmakāḥ| etābhiḥ sahitāṃ mūlamūrtiṃ kumbhodake sudhīḥ|| 9||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 10,
+          "devanagari": "पूर्वोक्तविधिनाऽभ्यर्च्य प्रतिमां शिष्यमेव वा। स्नापयेत् पूर्वमर्चायां जपोऽनूनः सहस्रतः॥ १०॥",
+          "iast": "pūrvoktavidhinā’bhyarcya pratimāṃ śiṣyameva vā| snāpayet pūrvamarcāyāṃ japo’nūnaḥ sahasrataḥ|| 10||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 11,
+          "devanagari": "मूलमन्त्रस्य चाङ्गानां न्यासः स्नानादनन्तरम्। प्रतिमायां सन्निधिकृच्छिष्ये माहात्म्यकृद् भवेत्॥ ११॥",
+          "iast": "mūlamantrasya cāṅgānāṃ nyāsaḥ snānādanantaram| pratimāyāṃ sannidhikṛcchiṣye māhātmyakṛd bhavet|| 11||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 12,
+          "devanagari": "कलशः कीर्तिमायुष्यं प्रज्ञां मेधां श्रियं बलम्। योग्यतां पापहानिं च पुण्यवृद्धिं च साधयेत्॥ १२॥",
+          "iast": "kalaśaḥ kīrtimāyuṣyaṃ prajñāṃ medhāṃ śriyaṃ balam| yogyatāṃ pāpahāniṃ ca puṇyavṛddhiṃ ca sādhayet|| 12||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 13,
+          "devanagari": "उपसर्गेषु जातेषु दैवभूतात्महेतुषु। आयुषे वाऽथ शान्त्यै वा श्रिये वा पुण्यवृद्धये॥ १३॥",
+          "iast": "upasargeṣu jāteṣu daivabhūtātmahetuṣu| āyuṣe vā’tha śāntyai vā śriye vā puṇyavṛddhaye|| 13||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 14,
+          "devanagari": "योग्यतायै मन्त्रसिद्ध्यै विष्णोः प्रीत्यर्थमेव वा। जुहुयात् सहस्रमयुतं लक्षं कोटिमथापिवा॥ १४॥",
+          "iast": "yogyatāyai mantrasiddhyai viṣṇoḥ prītyarthameva vā| juhuyāt sahasramayutaṃ lakṣaṃ koṭimathāpivā|| 14||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 15,
+          "devanagari": "पूर्ववत् संस्कृते वह्नौ ध्यात्वा देवं जनार्दनम्। कृत्वा त्रिमेखलं कुण्डं चतुर्विंशाङ्गुलोच्छ्रितम्॥ १५॥",
+          "iast": "pūrvavat saṃskṛte vahnau dhyātvā devaṃ janārdanam| kṛtvā trimekhalaṃ kuṇḍaṃ caturviṃśāṅgulocchritam|| 15||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 16,
+          "devanagari": "तावत् खातं चतुष्कोणमुच्छ्रितं द्वादशैव वा । द्व्यङ्गुलं त्र्यङ्गुलं वाऽपि चतुरङ्गुलमेव वा॥ १६॥",
+          "iast": "tāvat khātaṃ catuṣkoṇamucchritaṃ dvādaśaiva vā | dvyaṅgulaṃ tryaṅgulaṃ vā’pi caturaṅgulameva vā|| 16||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 17,
+          "devanagari": "विस्तारो मेखलानां स्यादन्त्या वा चतुरङ्गुला। चतुर्विंशाङ्गुलं वा तद्विस्तारो द्वादशैव वा॥ १७॥",
+          "iast": "vistāro mekhalānāṃ syādantyā vā caturaṅgulā| caturviṃśāṅgulaṃ vā tadvistāro dvādaśaiva vā|| 17||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 18,
+          "devanagari": "अश्वत्थपत्राकृतिः स्यान्मूलतो द्वादशाङ्गुला। योनिः खाते च विनता प्रविष्टा द्व्यङ्गुलं तथा॥ १८॥",
+          "iast": "aśvatthapatrākṛtiḥ syānmūlato dvādaśāṅgulā| yoniḥ khāte ca vinatā praviṣṭā dvyaṅgulaṃ tathā|| 18||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 19,
+          "devanagari": "तदात्मनि हरिं ध्यात्वा कुण्डे देवीं श्रियं तथा। विष्णुवीर्यात्मकं वह्निं निक्षिपेत् प्रणवेन तु॥ १९॥",
+          "iast": "tadātmani hariṃ dhyātvā kuṇḍe devīṃ śriyaṃ tathā| viṣṇuvīryātmakaṃ vahniṃ nikṣipet praṇavena tu|| 19||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 20,
+          "devanagari": "कुर्यात् क्रियाः षोडश च व्याहृतीभिः पृथक्पृथक्। वह्नेस्तद्गहरेः प्रीतिं कुर्वन् द्रव्यैर्यजेत् ततः॥ २०॥",
+          "iast": "kuryāt kriyāḥ ṣoḍaśa ca vyāhṛtībhiḥ pṛthakpṛthak| vahnestadgahareḥ prītiṃ kurvan dravyairyajet tataḥ|| 20||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 21,
+          "devanagari": "आज्येन वा पायसेन समिद्भिः क्षीरिणामथ। तिलैर्वा तण्डुलैर्वाऽपि मधुरैस्त्रिभिरेव वा॥ २१॥",
+          "iast": "ājyena vā pāyasena samidbhiḥ kṣīriṇāmatha| tilairvā taṇḍulairvā’pi madhuraistribhireva vā|| 21||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 22,
+          "devanagari": "ब्रह्मवृक्षसमिद्भिर्वा समिद्भिर्वाऽमृतोद्भवैः। अमृताः समिधो ज्ञेयाः सर्वत्र चतुरङ्गुलाः॥ २२॥",
+          "iast": "brahmavṛkṣasamidbhirvā samidbhirvā’mṛtodbhavaiḥ| amṛtāḥ samidho jñeyāḥ sarvatra caturaṅgulāḥ|| 22||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 23,
+          "devanagari": "एवमेव च दीक्षायामाज्येनैवाहुतिक्रिया। पूजा च कार्या विधिवत् पूर्वं सर्वहुतेष्वपि॥ २३॥",
+          "iast": "evameva ca dīkṣāyāmājyenaivāhutikriyā| pūjā ca kāryā vidhivat pūrvaṃ sarvahuteṣvapi|| 23||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        },
+        {
+          "number": 24,
+          "devanagari": "गुरवे दक्षिणां दद्याल्लक्षेलक्षे शतं सुधीः। आत्मनैव कृते होमे शक्तितो गुरुदक्षिणा॥ २४॥",
+          "iast": "gurave dakṣiṇāṃ dadyāllakṣelakṣe śataṃ sudhīḥ| ātmanaiva kṛte home śaktito gurudakṣiṇā|| 24||",
+          "topic": "विष्णुसर्वोत्तमत्वज्ञानस्यावश्यकता"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "तृतीयोऽध्यायः",
+      "verses": [
+        {
+          "number": 1,
+          "devanagari": "प्रतिष्ठां कारयन् विष्णोः कुर्यात् सुप्रतिमां बुधः। लोहैर्वा शिलया दार्वा मृदा वाऽपि यथाक्रमम्॥ १॥",
+          "iast": "pratiṣṭhāṃ kārayan viṣṇoḥ kuryāt supratimāṃ budhaḥ| lohairvā śilayā dārvā mṛdā vā’pi yathākramam|| 1||",
+          "topic": "प्रतिमाद्रव्यादि"
+        },
+        {
+          "number": 2,
+          "devanagari": "षण्णवत्यङ्गुलां योग आसीनामथवा स्थिताम्। शयानां वा मुमुक्षूणां व्याचक्षाणां निजां स्थितिम्॥ २॥",
+          "iast": "ṣaṇṇavatyaṅgulāṃ yoga āsīnāmathavā sthitām| śayānāṃ vā mumukṣūṇāṃ vyācakṣāṇāṃ nijāṃ sthitim|| 2||",
+          "topic": "प्रतिमाद्रव्यादि"
+        },
+        {
+          "number": 3,
+          "devanagari": "मुखादूर्ध्वं द्व्यङ्गुलोच्चां नवाङ्गुललसन्मुखाम्। सुवृत्तत्र्यङ्गुलग्रीवामा स्तनाच्च षडङ्गुलाम्॥ ३॥",
+          "iast": "mukhādūrdhvaṃ dvyaṅguloccāṃ navāṅgulalasanmukhām| suvṛttatryaṅgulagrīvāmā stanācca ṣaḍaṅgulām|| 3||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 4,
+          "devanagari": "पञ्चादशाङ्गुलां नाभेरा सार्धदशकाङ्गुलाम्। वृषणादा मूलतश्च सार्धद्व्यङ्गुलमायताम्॥ ४॥",
+          "iast": "pañcādaśāṅgulāṃ nābherā sārdhadaśakāṅgulām| vṛṣaṇādā mūlataśca sārdhadvyaṅgulamāyatām|| 4||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 5,
+          "devanagari": "तावदा गुदतो दीर्घां चैत्यादष्टादशाङ्गुलाम्। तथा द्व्यङ्गुलचैत्यां च द्वाविंशज्जङ्घया युताम्॥ ५॥",
+          "iast": "tāvadā gudato dīrghāṃ caityādaṣṭādaśāṅgulām| tathā dvyaṅgulacaityāṃ ca dvāviṃśajjaṅghayā yutām|| 5||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 6,
+          "devanagari": "आरभ्य गुल्फमध्यं च सहार्धचतुरङ्गुलाम्। षडङ्गुलोच्चप्रपदां सार्धत्र्यङ्गुलमेव च। प्रपदोच्चयुतामन्ते द्व्यङ्गुलप्रपदोच्छ्रयाम्॥ ६॥",
+          "iast": "ārabhya gulphamadhyaṃ ca sahārdhacaturaṅgulām| ṣaḍaṅguloccaprapadāṃ sārdhatryaṅgulameva ca| prapadoccayutāmante dvyaṅgulaprapadocchrayām|| 6||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 7,
+          "devanagari": "त्र्यङ्गुलद्व्यङ्गुलामर्धहीनमध्याङ्गुलामपि। त्रिपदाङ्गुलहीनान्यां ततस्तादृशतत्पराम्॥ ७॥",
+          "iast": "tryaṅguladvyaṅgulāmardhahīnamadhyāṅgulāmapi| tripadāṅgulahīnānyāṃ tatastādṛśatatparām|| 7||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 8,
+          "devanagari": "पादोनोच्चाङ्गुष्ठनखां तदर्धतदनन्तराम्। क्रमशः पादहीनान्यां रक्तपादनखां शुभाम्॥ ८॥",
+          "iast": "pādonoccāṅguṣṭhanakhāṃ tadardhatadanantarām| kramaśaḥ pādahīnānyāṃ raktapādanakhāṃ śubhām|| 8||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 9,
+          "devanagari": "विस्तारः प्रपदस्यापि षडङ्गुल उदाहृतः। अङ्गुष्ठपरिणाहस्तु चतुरङ्गुल ईरितः। त्र्यङ्गुलस्तु तदन्यस्य व्रीह्यर्धोनाः क्रमात् पराः॥ ९॥",
+          "iast": "vistāraḥ prapadasyāpi ṣaḍaṅgula udāhṛtaḥ| aṅguṣṭhapariṇāhastu caturaṅgula īritaḥ| tryaṅgulastu tadanyasya vrīhyardhonāḥ kramāt parāḥ|| 9||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 10,
+          "devanagari": "दशाङ्गुलं जङ्घमूलं मध्यं च त्र्यङ्गुलाधिकम्। सप्तादशाङ्गुलं तूर्ध्वं जानुरष्टादशाङ्गुलः॥ १०॥",
+          "iast": "daśāṅgulaṃ jaṅghamūlaṃ madhyaṃ ca tryaṅgulādhikam| saptādaśāṅgulaṃ tūrdhvaṃ jānuraṣṭādaśāṅgulaḥ|| 10||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 11,
+          "devanagari": "ऊर्वन्तोऽपि तथा ज्ञेयो मध्यं द्विर्द्वादशाङ्गुलम्। चतुरङ्गुलाधिकं मूलं गुह्यं सार्धचतुष्टयम्॥ ११॥",
+          "iast": "ūrvanto’pi tathā jñeyo madhyaṃ dvirdvādaśāṅgulam| caturaṅgulādhikaṃ mūlaṃ guhyaṃ sārdhacatuṣṭayam|| 11||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 12,
+          "devanagari": "सार्धत्रयं परीणाहाद् वृषणं चतुरङ्गुलम्। सप्ताङ्गुलं परीणाहाद् वृत्तं प्रोक्तं समस्तशः॥ १२॥",
+          "iast": "sārdhatrayaṃ parīṇāhād vṛṣaṇaṃ caturaṅgulam| saptāṅgulaṃ parīṇāhād vṛttaṃ proktaṃ samastaśaḥ|| 12||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 13,
+          "devanagari": "अष्टत्रिंशाङ्गुलः कट्याः परिणाह उदाहृतः। सुवृत्तत्वं तथा श्रोण्योः पीनत्वं च समस्तशः॥ १३॥",
+          "iast": "aṣṭatriṃśāṅgulaḥ kaṭyāḥ pariṇāha udāhṛtaḥ| suvṛttatvaṃ tathā śroṇyoḥ pīnatvaṃ ca samastaśaḥ|| 13||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 14,
+          "devanagari": "विस्तारश्च तथा कट्याः सुप्रतिष्ठितता पदोः। कट्याश्चैवाङ्गुलाधिक्यं नाभेरध उदाहृतः॥ १४॥",
+          "iast": "vistāraśca tathā kaṭyāḥ supratiṣṭhitatā padoḥ| kaṭyāścaivāṅgulādhikyaṃ nābheradha udāhṛtaḥ|| 14||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 15,
+          "devanagari": "नाभिः सार्धाङ्गुलश्चैव गम्भीरोऽर्धाङ्गुलोन्नतः। वृत्तः प्रदक्षिणश्चैव द्विचत्वारिंशदङ्गुलम्। मध्यं स्तने परीणाहः षडङ्गुलमतोऽधिकः॥ १५॥",
+          "iast": "nābhiḥ sārdhāṅgulaścaiva gambhīro’rdhāṅgulonnataḥ| vṛttaḥ pradakṣiṇaścaiva dvicatvāriṃśadaṅgulam| madhyaṃ stane parīṇāhaḥ ṣaḍaṅgulamato’dhikaḥ|| 15||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 16,
+          "devanagari": "एकोनविंशाङ्गुलं तदुरोविस्तारलक्षणम्। पादोनमङ्गुलं चैव भुजाभ्यां सह सार्धकम्॥ १६॥",
+          "iast": "ekonaviṃśāṅgulaṃ tadurovistāralakṣaṇam| pādonamaṅgulaṃ caiva bhujābhyāṃ saha sārdhakam|| 16||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 17,
+          "devanagari": "अंसयोर्विस्तृतिश्चैव पृथगष्टाङ्गुला मता। सप्ताङ्गुलोच्छ्रयः कक्षादुपरि स्कन्धयोर्मतः॥ १७॥",
+          "iast": "aṃsayorvistṛtiścaiva pṛthagaṣṭāṅgulā matā| saptāṅgulocchrayaḥ kakṣādupari skandhayormataḥ|| 17||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 18,
+          "devanagari": "अष्टत्रिंशाङ्गुलं चैव हस्तयोर्मानमुच्यते। अष्टादशाङ्गुलो बाह्वोः परिणाह उदाहृतः। क्रमादूनं तदन्ते तु सार्धाष्टाङ्गुलमीरितम्॥ १८॥",
+          "iast": "aṣṭatriṃśāṅgulaṃ caiva hastayormānamucyate| aṣṭādaśāṅgulo bāhvoḥ pariṇāha udāhṛtaḥ| kramādūnaṃ tadante tu sārdhāṣṭāṅgulamīritam|| 18||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 19,
+          "devanagari": "साङ्गुलस्तु तलः सार्धनवाङ्गुल उदाहृतः। समं तदुभयं ज्ञेयं तथैव तलविस्तृतिः॥ १९॥",
+          "iast": "sāṅgulastu talaḥ sārdhanavāṅgula udāhṛtaḥ| samaṃ tadubhayaṃ jñeyaṃ tathaiva talavistṛtiḥ|| 19||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 20,
+          "devanagari": "अर्धाङ्गुलोन्नता मध्या द्वयोः सार्धाङ्गुलोन्नता। कनिष्ठिकायास्तस्यास्तु व्रीहिमात्राधिकः परः॥ २०॥",
+          "iast": "ardhāṅgulonnatā madhyā dvayoḥ sārdhāṅgulonnatā| kaniṣṭhikāyāstasyāstu vrīhimātrādhikaḥ paraḥ|| 20||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 21,
+          "devanagari": "सार्धत्रयपरीणाहौ मध्यज्येष्ठावुदाहृतौ। अन्यौ व्रीहितदर्धोनावन्या सार्धद्वयाङ्गुला। पादोनान्तपरीणाहाः सर्वा ज्येष्ठां विना स्मृताः॥ २१॥",
+          "iast": "sārdhatrayaparīṇāhau madhyajyeṣṭhāvudāhṛtau| anyau vrīhitadardhonāvanyā sārdhadvayāṅgulā| pādonāntaparīṇāhāḥ sarvā jyeṣṭhāṃ vinā smṛtāḥ|| 21||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 22,
+          "devanagari": "वक्षोविस्तारसदृशः परिणाहो गलस्य च। ललाटकुक्षिकण्ठास्तु दीर्घरेखात्रयान्विताः॥ २२॥",
+          "iast": "vakṣovistārasadṛśaḥ pariṇāho galasya ca| lalāṭakukṣikaṇṭhāstu dīrgharekhātrayānvitāḥ|| 22||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 23,
+          "devanagari": "वृत्तो गलो बाहवश्च स्तनावङ्गुलयस्तथा। रक्तास्तलनखाश्चैव नेत्रान्तोऽधर एव च॥ २३॥",
+          "iast": "vṛtto galo bāhavaśca stanāvaṅgulayastathā| raktāstalanakhāścaiva netrānto’dhara eva ca|| 23||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 24,
+          "devanagari": "उत्तरोष्ठश्च जिह्वा च नखौ पादोनकाङ्गुलौ। अर्धाङ्गुलौ तथा मध्यावन्येऽष्टांशक्रमोनकाः॥ २४॥",
+          "iast": "uttaroṣṭhaśca jihvā ca nakhau pādonakāṅgulau| ardhāṅgulau tathā madhyāvanye’ṣṭāṃśakramonakāḥ|| 24||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 25,
+          "devanagari": "नासिकाया अधस्ताच्च नासिका च ललाटिका। समा मानेन नासाया उच्चत्वेनैव मापने। अर्धाङ्गुलाधिकं सर्वं मुखस्य तु भविष्यति॥ २५॥",
+          "iast": "nāsikāyā adhastācca nāsikā ca lalāṭikā| samā mānena nāsāyā uccatvenaiva māpane| ardhāṅgulādhikaṃ sarvaṃ mukhasya tu bhaviṣyati|| 25||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 26,
+          "devanagari": "चतुरङ्गुलं तथैवास्यं सार्धव्रीह्यधरं स्मृतम्। उत्तरं व्रीहिमात्रं तु तदूर्ध्वं चाधरोपमम्। सार्धाङ्गुलमथ प्रोक्तमधरादध एव च॥ २६॥",
+          "iast": "caturaṅgulaṃ tathaivāsyaṃ sārdhavrīhyadharaṃ smṛtam| uttaraṃ vrīhimātraṃ tu tadūrdhvaṃ cādharopamam| sārdhāṅgulamatha proktamadharādadha eva ca|| 26||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 27,
+          "devanagari": "आस्यपार्श्वद्वयं प्रोक्तमा कर्णात् तु षडङ्गुलम्। सप्ताङ्गुलं नासिकायाः पार्श्वमा कर्णतः स्मृतम्॥ २७॥",
+          "iast": "āsyapārśvadvayaṃ proktamā karṇāt tu ṣaḍaṅgulam| saptāṅgulaṃ nāsikāyāḥ pārśvamā karṇataḥ smṛtam|| 27||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 28,
+          "devanagari": "सपादाङ्गुलमुच्चा च नासिका परिकीर्तिता। अर्धाङ्गुले पुटे तस्या मध्यं च समुदाहृतम्॥ २८॥",
+          "iast": "sapādāṅgulamuccā ca nāsikā parikīrtitā| ardhāṅgule puṭe tasyā madhyaṃ ca samudāhṛtam|| 28||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 29,
+          "devanagari": "नासिका व्रीहिविस्तारा चक्षुषी चाङ्गुलत्रये। अङ्गुलं चैव विस्तीर्णे फुल्लेऽर्धं च तदन्यथा॥ २९॥",
+          "iast": "nāsikā vrīhivistārā cakṣuṣī cāṅgulatraye| aṅgulaṃ caiva vistīrṇe phulle’rdhaṃ ca tadanyathā|| 29||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 30,
+          "devanagari": "चतुरङ्गुलौ भ्रुवौ चैव तथाऽर्धाङ्गुलिविस्तृतौ। असंहतौ च निबिडौ तथा पक्ष्म सुनीलकम्॥ ३०॥",
+          "iast": "caturaṅgulau bhruvau caiva tathā’rdhāṅgulivistṛtau| asaṃhatau ca nibiḍau tathā pakṣma sunīlakam|| 30||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 31,
+          "devanagari": "कर्णौ च त्र्यङ्गुलौ सार्धद्वयविस्तारसंयुतौ। सकुण्डलं तावदेव विवरं सम्प्रकीर्तितम्॥ ३१॥",
+          "iast": "karṇau ca tryaṅgulau sārdhadvayavistārasaṃyutau| sakuṇḍalaṃ tāvadeva vivaraṃ samprakīrtitam|| 31||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 32,
+          "devanagari": "तथा द्व्यङ्गुलविस्तारं लताभ्यां सह कथ्यते। नीलालकसहस्रेण युक्तं तन्मुखपङ्कजम्॥ ३२॥",
+          "iast": "tathā dvyaṅgulavistāraṃ latābhyāṃ saha kathyate| nīlālakasahasreṇa yuktaṃ tanmukhapaṅkajam|| 32||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 33,
+          "devanagari": "ललाटं सुविशालं च तथा सार्धनवाङ्गुलः। विस्तारो मूर्ध्नि वृत्तं च शिरश्छत्राकृति स्मृतम्॥ ३३॥",
+          "iast": "lalāṭaṃ suviśālaṃ ca tathā sārdhanavāṅgulaḥ| vistāro mūrdhni vṛttaṃ ca śiraśchatrākṛti smṛtam|| 33||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 34,
+          "devanagari": "दीर्घाश्च कुञ्चिताग्राश्च नीलाः केशा हरेर्मताः। मुखमानेन चैवोच्चं किरीटं केशवस्य हि॥ ३४॥",
+          "iast": "dīrghāśca kuñcitāgrāśca nīlāḥ keśā harermatāḥ| mukhamānena caivoccaṃ kirīṭaṃ keśavasya hi|| 34||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 35,
+          "devanagari": "कुण्डले मकराकारे वक्षश्चैव सकौस्तुभम्। सश्रीवत्सं दक्षिणतः पीनं तुङ्गमुदाहृतम्। हारग्रैवेयसहितमुपवीतयुतं तथा॥ ३५॥",
+          "iast": "kuṇḍale makarākāre vakṣaścaiva sakaustubham| saśrīvatsaṃ dakṣiṇataḥ pīnaṃ tuṅgamudāhṛtam| hāragraiveyasahitamupavītayutaṃ tathā|| 35||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 36,
+          "devanagari": "बाहवश्च सकेयूरकङ्कणाङ्गदमुद्रिकाः। समध्यबन्धं मध्यं च नितम्बे पीतमम्बरम्। काञ्चीगुणश्च पदयोर्नूपुरे चातिसुस्वने॥ ३६॥",
+          "iast": "bāhavaśca sakeyūrakaṅkaṇāṅgadamudrikāḥ| samadhyabandhaṃ madhyaṃ ca nitambe pītamambaram| kāñcīguṇaśca padayornūpure cātisusvane|| 36||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 37,
+          "devanagari": "अङ्गुलीयानि च पदोः कृतिभिः साधु कारयेत्। सोत्तरीयं च चक्राद्यैरायुधैश्च समन्वितम्॥ ३७॥",
+          "iast": "aṅgulīyāni ca padoḥ kṛtibhiḥ sādhu kārayet| sottarīyaṃ ca cakrādyairāyudhaiśca samanvitam|| 37||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 38,
+          "devanagari": "अनुन्नतैरविरलैर्दन्तैर्युक्तं च सुस्मितम्। समदृष्टियुतं कार्यं श्लक्ष्णं चैव मनोहरम्॥ ३८॥",
+          "iast": "anunnatairaviralairdantairyuktaṃ ca susmitam| samadṛṣṭiyutaṃ kāryaṃ ślakṣṇaṃ caiva manoharam|| 38||",
+          "topic": "अवयवपरिमाणादि"
+        },
+        {
+          "number": 39,
+          "devanagari": "प्रतिमार्थं व्रजन् पञ्चध्वनिभिर्मङ्गलैर्युतः। गत्वा शुचि स्थलं चैव शिलां तत्र परीक्षयेत्॥ ३९॥",
+          "iast": "pratimārthaṃ vrajan pañcadhvanibhirmaṅgalairyutaḥ| gatvā śuci sthalaṃ caiva śilāṃ tatra parīkṣayet|| 39||",
+          "topic": "शिलापरीक्षा-प्रतिमानयनादि"
+        },
+        {
+          "number": 40,
+          "devanagari": "ध्वनिभेदेन विज्ञाय शिलां गर्भवतीं त्यजेत्। मूलमन्त्रं जपन् विष्णुं ध्यायंस्तिष्ठेदुपोषितः। वार्क्षी चेद् यज्ञवृक्षस्य सारेणैव तु कारयेत्॥ ४०॥",
+          "iast": "dhvanibhedena vijñāya śilāṃ garbhavatīṃ tyajet| mūlamantraṃ japan viṣṇuṃ dhyāyaṃstiṣṭhedupoṣitaḥ| vārkṣī ced yajñavṛkṣasya sāreṇaiva tu kārayet|| 40||",
+          "topic": "शिलापरीक्षा-प्रतिमानयनादि"
+        },
+        {
+          "number": 41,
+          "devanagari": "बलिदानं च सङ्क्षेपविधानेनैव कथ्यते। अस्य सङ्क्षेपशास्त्रत्वान्न विस्तरविरोधिता॥ ४१॥",
+          "iast": "balidānaṃ ca saṅkṣepavidhānenaiva kathyate| asya saṅkṣepaśāstratvānna vistaravirodhitā|| 41||",
+          "topic": "शिलापरीक्षा-प्रतिमानयनादि"
+        },
+        {
+          "number": 42,
+          "devanagari": "दत्वोपहारं हरये तद्भूतेभ्यो बलिं हरेत्। प्राच्येभ्यो विष्णुभूतेभ्य इत्याद्यखिलदिक्षु च॥ ४२॥",
+          "iast": "datvopahāraṃ haraye tadbhūtebhyo baliṃ haret| prācyebhyo viṣṇubhūtebhya ityādyakhiladikṣu ca|| 42||",
+          "topic": "शिलापरीक्षा-प्रतिमानयनादि"
+        },
+        {
+          "number": 43,
+          "devanagari": "आदाय विष्णुभूतेभ्यो लोकपेभ्यस्तथा हरेः। अनुज्ञामुद्धरेद् वृक्षं शिलां च प्रतिमाकृते॥ ४३॥",
+          "iast": "ādāya viṣṇubhūtebhyo lokapebhyastathā hareḥ| anujñāmuddhared vṛkṣaṃ śilāṃ ca pratimākṛte|| 43||",
+          "topic": "शिलापरीक्षा-प्रतिमानयनादि"
+        },
+        {
+          "number": 44,
+          "devanagari": "प्रतिमां पिण्डिकां पीठं शिलाभिस्तु त्रिजातिभिः। स्वरस्थूलत्वभेदेन पुंस्त्र्याद्या जातितः शिलाः॥ ४४॥",
+          "iast": "pratimāṃ piṇḍikāṃ pīṭhaṃ śilābhistu trijātibhiḥ| svarasthūlatvabhedena puṃstryādyā jātitaḥ śilāḥ|| 44||",
+          "topic": "शिलापरीक्षा-प्रतिमानयनादि"
+        },
+        {
+          "number": 45,
+          "devanagari": "पुंशिला प्रतिमार्थं तु स्त्रीशिला पीठकॢत्पये। वेदमङ्गलघोषेण वाद्यैस्तत्प्रतिमां हरेत्॥ ४५॥",
+          "iast": "puṃśilā pratimārthaṃ tu strīśilā pīṭhakaॢtpaye| vedamaṅgalaghoṣeṇa vādyaistatpratimāṃ haret|| 45||",
+          "topic": "शिलापरीक्षा-प्रतिमानयनादि"
+        },
+        {
+          "number": 46,
+          "devanagari": "प्रागुदक्प्रवणे देशे कुर्याद् देवालयं सुधीः। रामावृते दक्षिणतः पश्चाद् गिर्यग्र एव वा॥ ४६॥",
+          "iast": "prāgudakpravaṇe deśe kuryād devālayaṃ sudhīḥ| rāmāvṛte dakṣiṇataḥ paścād giryagra eva vā|| 46||",
+          "topic": "देवालयस्थलतन्निर्माणविचारः"
+        },
+        {
+          "number": 47,
+          "devanagari": "मध्ये वा ग्रामपुरयोर्विशाले सुशुचौ तथा। ऐशानीं दिशमेकां तु विनोदकविवर्जिते॥ ४७॥",
+          "iast": "madhye vā grāmapurayorviśāle suśucau tathā| aiśānīṃ diśamekāṃ tu vinodakavivarjite|| 47||",
+          "topic": "देवालयस्थलतन्निर्माणविचारः"
+        },
+        {
+          "number": 48,
+          "devanagari": "जलाशयस्य मध्ये वा शिलावृक्षविवर्जिते। स्मशानादिकदेशानां विदूरे सुमनोहरे॥ ४८॥",
+          "iast": "jalāśayasya madhye vā śilāvṛkṣavivarjite| smaśānādikadeśānāṃ vidūre sumanohare|| 48||",
+          "topic": "देवालयस्थलतन्निर्माणविचारः"
+        },
+        {
+          "number": 49,
+          "devanagari": "किष्कुद्वादशतोऽनूनं कुर्याद् देवालयस्थलम्। द्विगुणं चतुर्गुणं वाऽपि शतकिष्कुप्रमाणकम्॥ ४९॥",
+          "iast": "kiṣkudvādaśato’nūnaṃ kuryād devālayasthalam| dviguṇaṃ caturguṇaṃ vā’pi śatakiṣkupramāṇakam|| 49||",
+          "topic": "देवालयस्थलतन्निर्माणविचारः"
+        },
+        {
+          "number": 50,
+          "devanagari": "कृत्वा भूशोधनं सम्यक् सार्धपुम्मानतस्त्वधः। केशाङ्गारास्थिवल्मीकलोष्टाश्मादिविवर्जिते॥ ५०॥",
+          "iast": "kṛtvā bhūśodhanaṃ samyak sārdhapummānatastvadhaḥ| keśāṅgārāsthivalmīkaloṣṭāśmādivivarjite|| 50||",
+          "topic": "देवालयस्थलतन्निर्माणविचारः"
+        },
+        {
+          "number": 51,
+          "devanagari": "हरिं तत्रापि सम्पूज्य बलिं दत्वाऽपि पूर्ववत्। मृद्दारुशैलैर्लोहैर्वा कुर्याद् देवालयं दृढम्॥ ५१॥",
+          "iast": "hariṃ tatrāpi sampūjya baliṃ datvā’pi pūrvavat| mṛddāruśailairlohairvā kuryād devālayaṃ dṛḍham|| 51||",
+          "topic": "देवालयस्थलतन्निर्माणविचारः"
+        },
+        {
+          "number": 52,
+          "devanagari": "दीर्घस्थकलमास्तिस्रस्तिर्यगष्टयवोदराः। अङ्गुल्या मध्यरेखायाः समा लक्षणतः स्मृताः॥ ५२॥",
+          "iast": "dīrghasthakalamāstisrastiryagaṣṭayavodarāḥ| aṅgulyā madhyarekhāyāḥ samā lakṣaṇataḥ smṛtāḥ|| 52||",
+          "topic": "अङ्गुलिपरिमाणादि"
+        },
+        {
+          "number": 53,
+          "devanagari": "स्वाङ्गुल्या मध्यरेखा तु प्रतिमादिषु लक्षणम्। ह्रस्वमध्योच्चभेदेन तत्तन्मानं समस्तशः। प्रादेशहस्तपुरुषमानं सामान्यलक्षणम्॥ ५३॥",
+          "iast": "svāṅgulyā madhyarekhā tu pratimādiṣu lakṣaṇam| hrasvamadhyoccabhedena tattanmānaṃ samastaśaḥ| prādeśahastapuruṣamānaṃ sāmānyalakṣaṇam|| 53||",
+          "topic": "अङ्गुलिपरिमाणादि"
+        },
+        {
+          "number": 54,
+          "devanagari": "प्रतिमाध्यर्धकं द्वारमूर्ध्वमर्धं च विस्तृतिः। प्रतिमार्धप्रमाणेन पीठस्योच्चत्वमिष्यते॥ ५४॥",
+          "iast": "pratimādhyardhakaṃ dvāramūrdhvamardhaṃ ca vistṛtiḥ| pratimārdhapramāṇena pīṭhasyoccatvamiṣyate|| 54||",
+          "topic": "अङ्गुलिपरिमाणादि"
+        },
+        {
+          "number": 55,
+          "devanagari": "उन्नतिः पिण्डिकायास्तु चतुरङ्गुलमानतः। त्र्यङ्गुलं द्व्यङ्गुलं वाऽपि गृहान्तः प्रतिमासमम्। उच्चं पर्यक् च क्रमश उच्चत्वं मध्यतः स्मृतम्॥ ५५॥",
+          "iast": "unnatiḥ piṇḍikāyāstu caturaṅgulamānataḥ| tryaṅgulaṃ dvyaṅgulaṃ vā’pi gṛhāntaḥ pratimāsamam| uccaṃ paryak ca kramaśa uccatvaṃ madhyataḥ smṛtam|| 55||",
+          "topic": "अङ्गुलिपरिमाणादि"
+        },
+        {
+          "number": 56,
+          "devanagari": "तावदुच्चं बहिश्चैव यद्येकं शिखरं भवेत्। अर्धोच्चमथवाऽपि स्यादधस्तात् प्रतिमोन्नतम्। ततो द्विगुणमानं वा सार्धप्रतिममेव वा॥ ५६॥",
+          "iast": "tāvaduccaṃ bahiścaiva yadyekaṃ śikharaṃ bhavet| ardhoccamathavā’pi syādadhastāt pratimonnatam| tato dviguṇamānaṃ vā sārdhapratimameva vā|| 56||",
+          "topic": "अङ्गुलिपरिमाणादि"
+        },
+        {
+          "number": 57,
+          "devanagari": "शिखरान्तरे तु प्रतिमामानं तद्गल उच्यते। तत्त्रिपादं तदर्धं वा तदध्यर्धमथापि वा॥ ५७॥",
+          "iast": "śikharāntare tu pratimāmānaṃ tadgala ucyate| tattripādaṃ tadardhaṃ vā tadadhyardhamathāpi vā|| 57||",
+          "topic": "अङ्गुलिपरिमाणादि"
+        },
+        {
+          "number": 58,
+          "devanagari": "वर्तुलं पद्मसदृशं हस्तिपृष्ठसमं तथा। चतुरस्रं चाष्टकोणं विमानं परिकीर्तितम्॥ ५८॥",
+          "iast": "vartulaṃ padmasadṛśaṃ hastipṛṣṭhasamaṃ tathā| caturasraṃ cāṣṭakoṇaṃ vimānaṃ parikīrtitam|| 58||",
+          "topic": "अङ्गुलिपरिमाणादि"
+        },
+        {
+          "number": 59,
+          "devanagari": "प्रतिमाया दशगुणं विंशद्गुणमथापि वा। वर्तुलं शिखरं त्वेकं किरीटाकृतिमद् भवेत्॥ ५९॥",
+          "iast": "pratimāyā daśaguṇaṃ viṃśadguṇamathāpi vā| vartulaṃ śikharaṃ tvekaṃ kirīṭākṛtimad bhavet|| 59||",
+          "topic": "अङ्गुलिपरिमाणादि"
+        },
+        {
+          "number": 60,
+          "devanagari": "सभयाऽपि समेतं वा पृथक्सभमथाऽपि वा। द्विसभं त्रिसभं वाऽपि सगोपुरमथाऽपि वा॥ ६०॥",
+          "iast": "sabhayā’pi sametaṃ vā pṛthaksabhamathā’pi vā| dvisabhaṃ trisabhaṃ vā’pi sagopuramathā’pi vā|| 60||",
+          "topic": "अङ्गुलिपरिमाणादि"
+        },
+        {
+          "number": 61,
+          "devanagari": "प्राकारवृत्तयुक्तं वा सप्तप्राकरमेव वा। समवृत्तं किष्कुमात्रं बहिर्वा चतुरश्रकम्॥ ६१॥",
+          "iast": "prākāravṛttayuktaṃ vā saptaprākarameva vā| samavṛttaṃ kiṣkumātraṃ bahirvā caturaśrakam|| 61||",
+          "topic": "अङ्गुलिपरिमाणादि"
+        },
+        {
+          "number": 62,
+          "devanagari": "ततः परं किष्कुमात्रं सभाया अन्तरं यदि। ततस्तावत् तृतीयायाः सार्धमेव ह्युदाहृतम्॥ ६२॥",
+          "iast": "tataḥ paraṃ kiṣkumātraṃ sabhāyā antaraṃ yadi| tatastāvat tṛtīyāyāḥ sārdhameva hyudāhṛtam|| 62||",
+          "topic": "अङ्गुलिपरिमाणादि"
+        },
+        {
+          "number": 63,
+          "devanagari": "किष्कुत्रयं च शक्रादेः स्थानं तद् वृत्ततः स्मृतम्। ततस्तु मण्टपं कुर्यात् प्रतिष्ठायाः सुलक्षणम्॥ ६३॥",
+          "iast": "kiṣkutrayaṃ ca śakrādeḥ sthānaṃ tad vṛttataḥ smṛtam| tatastu maṇṭapaṃ kuryāt pratiṣṭhāyāḥ sulakṣaṇam|| 63||",
+          "topic": "अङ्गुलिपरिमाणादि"
+        },
+        {
+          "number": 64,
+          "devanagari": "पूजयेद् वास्तुपुरुषस्योपरिष्ठांस्तु सर्वदा। देवान् ब्रह्मादिकान् वास्तुर्वराहस्य हरेः सुतः। पातितो दैवतैर्भूमौ चतुरश्राकृतिः स्थितः॥ ६४॥",
+          "iast": "pūjayed vāstupuruṣasyopariṣṭhāṃstu sarvadā| devān brahmādikān vāsturvarāhasya hareḥ sutaḥ| pātito daivatairbhūmau caturaśrākṛtiḥ sthitaḥ|| 64||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 65,
+          "devanagari": "कृत्वाऽष्टकाष्टकोष्ठानि मध्ये ब्रह्मा चतुष्टये। पूज्यो द्वयेद्वये शक्रो यमो वरुण एव च। सोमश्च पूज्यः कोणेषु वह्न्याद्याः कोणदेवताः॥ ६५॥",
+          "iast": "kṛtvā’ṣṭakāṣṭakoṣṭhāni madhye brahmā catuṣṭaye| pūjyo dvayedvaye śakro yamo varuṇa eva ca| somaśca pūjyaḥ koṇeṣu vahnyādyāḥ koṇadevatāḥ|| 65||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 66,
+          "devanagari": "पुनस्त्रयेत्रये कामं धातारं सविधातृकम्। स्कन्दं च पूजयेत् कोणे सूर्यं चैव विनायकम्। कालं कुबेरं च बहिः प्रत्येकं दिक्षु पूजयेत्॥ ६६॥",
+          "iast": "punastrayetraye kāmaṃ dhātāraṃ savidhātṛkam| skandaṃ ca pūjayet koṇe sūryaṃ caiva vināyakam| kālaṃ kuberaṃ ca bahiḥ pratyekaṃ dikṣu pūjayet|| 66||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 67,
+          "devanagari": "हारं हरिं गभीरं च गाहनं गेहनं गुहम्। भातमङ्गारकं चैव पूर्वस्यां दिशि पूजयेत्॥ ६७॥",
+          "iast": "hāraṃ hariṃ gabhīraṃ ca gāhanaṃ gehanaṃ guham| bhātamaṅgārakaṃ caiva pūrvasyāṃ diśi pūjayet|| 67||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 68,
+          "devanagari": "दारुणं विदरिं दूतं प्रद्योतं द्योतनं दरिम् । मृत्युं शनैश्चरं चैव दक्षिणस्यां प्रपूजयेत्॥ ६८॥",
+          "iast": "dāruṇaṃ vidariṃ dūtaṃ pradyotaṃ dyotanaṃ darim | mṛtyuṃ śanaiścaraṃ caiva dakṣiṇasyāṃ prapūjayet|| 68||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 69,
+          "devanagari": "पुष्करं क्षरणं क्षारं विक्षणं क्षोभणं क्षरम्। चार्वङ्गं भार्गवं चैव पश्चिमायां प्रपूजयेत्॥ ६९॥",
+          "iast": "puṣkaraṃ kṣaraṇaṃ kṣāraṃ vikṣaṇaṃ kṣobhaṇaṃ kṣaram| cārvaṅgaṃ bhārgavaṃ caiva paścimāyāṃ prapūjayet|| 69||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 70,
+          "devanagari": "चारं विचारं प्रचरं सञ्चरं चारणं चरम्। बृहस्पतिं बुधं चैवाप्युत्तरस्यां प्रपूजयेत्॥ ७०॥",
+          "iast": "cāraṃ vicāraṃ pracaraṃ sañcaraṃ cāraṇaṃ caram| bṛhaspatiṃ budhaṃ caivāpyuttarasyāṃ prapūjayet|| 70||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 71,
+          "devanagari": "एवमेव विमानस्य कृतेः प्रागपि पूजयेत्। सप्तपर्णमयं साधु कारयेन्मण्डपं ततः॥ ७१॥",
+          "iast": "evameva vimānasya kṛteḥ prāgapi pūjayet| saptaparṇamayaṃ sādhu kārayenmaṇḍapaṃ tataḥ|| 71||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 72,
+          "devanagari": "सप्तहस्तं द्विषड्ढस्तमथवा द्विगुणं ततः। चतुर्गुणं वा सम्यक् तु चतुरस्रं सहाजिरम्॥ ७२॥",
+          "iast": "saptahastaṃ dviṣaḍḍhastamathavā dviguṇaṃ tataḥ| caturguṇaṃ vā samyak tu caturasraṃ sahājiram|| 72||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 73,
+          "devanagari": "अन्यच्च मण्टपं दीर्घं पञ्चहस्तं च कारयेत्। त्रिचतुष्कोष्ठकं तत्र मध्ये प्रागायतं शुभम्॥ ७३॥",
+          "iast": "anyacca maṇṭapaṃ dīrghaṃ pañcahastaṃ ca kārayet| tricatuṣkoṣṭhakaṃ tatra madhye prāgāyataṃ śubham|| 73||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 74,
+          "devanagari": "कारयेन्मण्डलं साधु हस्तमात्रं सुविस्तृतम्। तत्र द्वादशपात्राणि स्थापयेत् पालिकादिकम्॥ ७४॥",
+          "iast": "kārayenmaṇḍalaṃ sādhu hastamātraṃ suvistṛtam| tatra dvādaśapātrāṇi sthāpayet pālikādikam|| 74||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 75,
+          "devanagari": "पालिकास्तु चतुर्विंशत्यङ्गुलोच्छ्रयसंयुताः। अष्टादशाङ्गुलाश्चैव तथा पञ्चमुखा अपि। द्वादशाङ्गुलकाश्चैव शरावाः पश्चिमानुगाः॥ ७५॥",
+          "iast": "pālikāstu caturviṃśatyaṅgulocchrayasaṃyutāḥ| aṣṭādaśāṅgulāścaiva tathā pañcamukhā api| dvādaśāṅgulakāścaiva śarāvāḥ paścimānugāḥ|| 75||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 76,
+          "devanagari": "तत्र विष्णुं चतुर्मूर्तिं पूजयेद् भक्तितस्त्रिशः। सप्तधान्यानि तेष्वेव पूरयेदङ्कुरार्थतः॥ ७६॥",
+          "iast": "tatra viṣṇuṃ caturmūrtiṃ pūjayed bhaktitastriśaḥ| saptadhānyāni teṣveva pūrayedaṅkurārthataḥ|| 76||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 77,
+          "devanagari": "तत्र नित्यं बलिं दद्याद् विष्णवे दशरात्रकम्। ब्रह्मशङ्करगीर्वाणपितृगन्धर्वयक्षकैः। भूतैश्च पायसेनैव तदा पद्माक्षतेन च॥ ७७॥",
+          "iast": "tatra nityaṃ baliṃ dadyād viṣṇave daśarātrakam| brahmaśaṅkaragīrvāṇapitṛgandharvayakṣakaiḥ| bhūtaiśca pāyasenaiva tadā padmākṣatena ca|| 77||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 78,
+          "devanagari": "अन्नापूपेन पुष्पान्नैरन्नलाजाक्षतैरपि। सक्तुभिश्च क्रमेणैव देवान्तं पायसेन वा॥ ७८॥",
+          "iast": "annāpūpena puṣpānnairannalājākṣatairapi| saktubhiśca krameṇaiva devāntaṃ pāyasena vā|| 78||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 79,
+          "devanagari": "तत्रैव प्रतिमायाश्च कारयेदधिवासनम्। पञ्चगव्ये सप्तरात्रं क्षिप्त्वा पुरुषसूक्ततः॥ ७९॥",
+          "iast": "tatraiva pratimāyāśca kārayedadhivāsanam| pañcagavye saptarātraṃ kṣiptvā puruṣasūktataḥ|| 79||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 80,
+          "devanagari": "वेदांश्च चतुरः सम्यक् पारयेयुर्द्विजोत्तमाः। प्राच्यादिद्वारगौ द्वौद्वावेकैकं तु दशावराः। यथालब्धं यथावित्तमथवा विष्णुतत्पराः॥ ८०॥",
+          "iast": "vedāṃśca caturaḥ samyak pārayeyurdvijottamāḥ| prācyādidvāragau dvaudvāvekaikaṃ tu daśāvarāḥ| yathālabdhaṃ yathāvittamathavā viṣṇutatparāḥ|| 80||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 81,
+          "devanagari": "त्रयोदशात्र कुण्डानि परितः कारयेद् बुधः। उक्तलक्षणयुक्तानि प्रधानं त्वग्निकोणके। साक्षात् तु कोणकाद्धस्तमात्रमन्तरतः सुधीः॥ ८१॥",
+          "iast": "trayodaśātra kuṇḍāni paritaḥ kārayed budhaḥ| uktalakṣaṇayuktāni pradhānaṃ tvagnikoṇake| sākṣāt tu koṇakāddhastamātramantarataḥ sudhīḥ|| 81||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 82,
+          "devanagari": "आज्याहुतिं तेषु कुर्यात् प्रत्येकं लक्षसङ्ख्यकम्। प्रत्येकमयुतं वाऽपि प्रधाने लक्षसङ्ख्यकम्। अर्धं तदर्धमथवा मूलमन्त्रेण मन्त्रवित्॥ ८२॥",
+          "iast": "ājyāhutiṃ teṣu kuryāt pratyekaṃ lakṣasaṅkhyakam| pratyekamayutaṃ vā’pi pradhāne lakṣasaṅkhyakam| ardhaṃ tadardhamathavā mūlamantreṇa mantravit|| 82||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 83,
+          "devanagari": "पञ्चविंशतितत्त्वार्थे प्रधाने जुहुयात् पुरः। प्रत्येकं तु सहस्रं वा प्रत्येकं शतमेव वा। शतं पुरुषसूक्तेन गायत्र्या च सहस्रकम्॥ ८३॥",
+          "iast": "pañcaviṃśatitattvārthe pradhāne juhuyāt puraḥ| pratyekaṃ tu sahasraṃ vā pratyekaṃ śatameva vā| śataṃ puruṣasūktena gāyatryā ca sahasrakam|| 83||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 84,
+          "devanagari": "कृत्वा जलाधिवासं च पूर्वं वा पञ्चगव्यतः। चक्राब्जं भद्रकं वाऽपि मण्टपे मण्डलं शुभम्॥ ८४॥",
+          "iast": "kṛtvā jalādhivāsaṃ ca pūrvaṃ vā pañcagavyataḥ| cakrābjaṃ bhadrakaṃ vā’pi maṇṭape maṇḍalaṃ śubham|| 84||",
+          "topic": "वास्तुपूजादि"
+        },
+        {
+          "number": 85,
+          "devanagari": "पद्मं वृत्तत्रयं चक्रं राशयो वीथिका तथा। शोभोपशोभिकाश्चैव चक्राब्जस्य तु लक्षणम्। चतुरस्रं विना चक्रं विशेषो भद्रके स्मृतः॥ ८५॥",
+          "iast": "padmaṃ vṛttatrayaṃ cakraṃ rāśayo vīthikā tathā| śobhopaśobhikāścaiva cakrābjasya tu lakṣaṇam| caturasraṃ vinā cakraṃ viśeṣo bhadrake smṛtaḥ|| 85||",
+          "topic": "मण्डलविचारः"
+        },
+        {
+          "number": 86,
+          "devanagari": "सहस्रमर्धं पादं वा कलशांस्तत्र पूजयेत्। शतं तदर्धं पादं वा वित्ताभावे निगद्यते॥ ८६॥",
+          "iast": "sahasramardhaṃ pādaṃ vā kalaśāṃstatra pūjayet| śataṃ tadardhaṃ pādaṃ vā vittābhāve nigadyate|| 86||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 87,
+          "devanagari": "क्वाथेन क्षीरवृक्षाणां तथा पञ्चामृतैरपि। पञ्चगव्येन शुद्धेन जलेन च पृथक्पृथक्। पूरयेत् कलशान् मध्यं शुद्धोदेनैव पूरयेत्॥ ८७॥",
+          "iast": "kvāthena kṣīravṛkṣāṇāṃ tathā pañcāmṛtairapi| pañcagavyena śuddhena jalena ca pṛthakpṛthak| pūrayet kalaśān madhyaṃ śuddhodenaiva pūrayet|| 87||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 88,
+          "devanagari": "ब्राह्मस्यैव चतुर्दिक्षु गन्धोदानां चतुष्टयम्। चतुर्दलश्वेतपद्मचतुष्के मण्डलस्थिते। पूर्वादिक्रमयोगेन रसक्वाथशुभोदकान्॥ ८८॥",
+          "iast": "brāhmasyaiva caturdikṣu gandhodānāṃ catuṣṭayam| caturdalaśvetapadmacatuṣke maṇḍalasthite| pūrvādikramayogena rasakvāthaśubhodakān|| 88||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 89,
+          "devanagari": "गन्धांश्च स्थापयेत् पञ्चगव्यं शुद्धान्तरे न्यसेत्। पृथक् चतुर्दलं पद्मं रक्तं कृत्वाऽल्पकं सुधीः॥ ८९॥",
+          "iast": "gandhāṃśca sthāpayet pañcagavyaṃ śuddhāntare nyaset| pṛthak caturdalaṃ padmaṃ raktaṃ kṛtvā’lpakaṃ sudhīḥ|| 89||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 90,
+          "devanagari": "पञ्चाशत्त्वे तु गन्धोदं सर्वमध्ये निधापयेत्। ब्राह्मस्य पुरतस्त्वेकं शार्वं संस्थापयेद् बृहत्। अष्टदिक्ष्वष्टपद्मेषु पञ्चकम्पञ्चकं न्यसेत्॥ ९०॥",
+          "iast": "pañcāśattve tu gandhodaṃ sarvamadhye nidhāpayet| brāhmasya puratastvekaṃ śārvaṃ saṃsthāpayed bṛhat| aṣṭadikṣvaṣṭapadmeṣu pañcakampañcakaṃ nyaset|| 90||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 91,
+          "devanagari": "अनेन क्रमयोगेन कलशा अखिला अपि। तत्तद्द्रव्यमयास्तत्रतत्र स्थाप्यास्तु बाह्यतः। तदैवाङ्कुरपात्राणि परितस्तत्र विन्यसेत्॥ ९१॥",
+          "iast": "anena kramayogena kalaśā akhilā api| tattaddravyamayāstatratatra sthāpyāstu bāhyataḥ| tadaivāṅkurapātrāṇi paritastatra vinyaset|| 91||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 92,
+          "devanagari": "कुशोदकं च कार्पूरं कौङ्कुमं चान्दनं तथा। तुहिनोदं हीरबेरमौशीरं कोष्ठसार्षपम्॥ ९२॥",
+          "iast": "kuśodakaṃ ca kārpūraṃ kauṅkumaṃ cāndanaṃ tathā| tuhinodaṃ hīraberamauśīraṃ koṣṭhasārṣapam|| 92||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 93,
+          "devanagari": "नदीसङ्गमजं चैव ताटाकं कौप्यमेव च। निर्झरोदमिति प्रोक्ता विशेषकलशा इमे। शुद्धोदद्वयमप्येतन्महातीर्थसमुद्भवम्॥ ९३॥",
+          "iast": "nadīsaṅgamajaṃ caiva tāṭākaṃ kaupyameva ca| nirjharodamiti proktā viśeṣakalaśā ime| śuddhodadvayamapyetanmahātīrthasamudbhavam|| 93||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 94,
+          "devanagari": "चतुर्विंशतिमूर्तीनां वर्णमूर्तीस्तथाऽपराः। आवाहयेच्छतत्वे तु क्रमव्युत्क्रमतस्तु ताः॥ ९४॥",
+          "iast": "caturviṃśatimūrtīnāṃ varṇamūrtīstathā’parāḥ| āvāhayecchatatve tu kramavyutkramatastu tāḥ|| 94||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 95,
+          "devanagari": "वर्णमूर्तीः पुनश्चैव द्विचतुर्वारमेव च। सहस्रकलशादित्वे जपेन्मन्त्रांश्च शक्तितः॥ ९५॥",
+          "iast": "varṇamūrtīḥ punaścaiva dvicaturvārameva ca| sahasrakalaśāditve japenmantrāṃśca śaktitaḥ|| 95||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 96,
+          "devanagari": "ततस्तु पञ्चघोषैश्च वेदघोषैस्तथाऽऽदरात्। आनीय प्रतिमां स्नानं कारयेत् प्रणवेन तु॥ ९६॥",
+          "iast": "tatastu pañcaghoṣaiśca vedaghoṣaistathā’’darāt| ānīya pratimāṃ snānaṃ kārayet praṇavena tu|| 96||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 97,
+          "devanagari": "मन्त्रैः पुरुषसूक्तान्तैर्विश्वतश्चक्षुषा तथा। पुनश्चाष्टाक्षरेणैव प्रणवेन च भक्तितः॥ ९७॥",
+          "iast": "mantraiḥ puruṣasūktāntairviśvataścakṣuṣā tathā| punaścāṣṭākṣareṇaiva praṇavena ca bhaktitaḥ|| 97||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 98,
+          "devanagari": "स्नापयित्वा गन्धजलैर्गन्धपुष्पादिभिः पुनः। अलङ्कृत्य स्थापयेत् तु प्रतिमां प्रणवेन तु॥ ९८॥",
+          "iast": "snāpayitvā gandhajalairgandhapuṣpādibhiḥ punaḥ| alaṅkṛtya sthāpayet tu pratimāṃ praṇavena tu|| 98||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 99,
+          "devanagari": "जपेदष्टाक्षरं मन्त्रं तत्तन्मूर्तिमनुं तथा। अष्टोत्तरशतं मन्त्री ध्यायेत् तेजोमयीं पुनः॥ ९९॥",
+          "iast": "japedaṣṭākṣaraṃ mantraṃ tattanmūrtimanuṃ tathā| aṣṭottaraśataṃ mantrī dhyāyet tejomayīṃ punaḥ|| 99||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 100,
+          "devanagari": "प्रतिमां प्रतिमान्तस्स्थां तन्मध्ये परमं वपुः। चिदानन्दरसं सर्वगुणसम्पूर्णमुत्तमम्॥ १००॥",
+          "iast": "pratimāṃ pratimāntassthāṃ tanmadhye paramaṃ vapuḥ| cidānandarasaṃ sarvaguṇasampūrṇamuttamam|| 100||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 101,
+          "devanagari": "पञ्चविंशतितत्त्वानां देवतास्तदनन्तरम्। स्थापयेत् प्रतिमामध्ये परितः केशवस्य तु॥ १०१॥",
+          "iast": "pañcaviṃśatitattvānāṃ devatāstadanantaram| sthāpayet pratimāmadhye paritaḥ keśavasya tu|| 101||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 102,
+          "devanagari": "तत्राऽत्वाहार्षसूक्तं च घर्मसूक्तं च वैष्णवम्। सूक्तं च विश्वकर्मीयं पौरुषं सूक्तमेव च॥ १०२॥",
+          "iast": "tatrā’tvāhārṣasūktaṃ ca gharmasūktaṃ ca vaiṣṇavam| sūktaṃ ca viśvakarmīyaṃ pauruṣaṃ sūktameva ca|| 102||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 103,
+          "devanagari": "जप्त्वा चैव निजं मन्त्रं पुनरष्टाक्षरं सुधीः। प्रणवं च जपेद् विष्णुं ध्यायन्नुत्तमरूपिणम्॥ १०३॥",
+          "iast": "japtvā caiva nijaṃ mantraṃ punaraṣṭākṣaraṃ sudhīḥ| praṇavaṃ ca japed viṣṇuṃ dhyāyannuttamarūpiṇam|| 103||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 104,
+          "devanagari": "ततस्तु कलशैर्बाह्यक्रमेणैव जनार्दनम्। स्नापयेदुक्तमन्त्रैस्तु मध्यमं प्रणवेन तु॥ १०४॥",
+          "iast": "tatastu kalaśairbāhyakrameṇaiva janārdanam| snāpayeduktamantraistu madhyamaṃ praṇavena tu|| 104||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 105,
+          "devanagari": "अष्टार्णेन निजेनापि तथा पुरुषसूक्ततः। आवाहनं च स्नपनं पञ्चगव्यस्य मध्यवत्॥ १०५॥",
+          "iast": "aṣṭārṇena nijenāpi tathā puruṣasūktataḥ| āvāhanaṃ ca snapanaṃ pañcagavyasya madhyavat|| 105||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 106,
+          "devanagari": "पूर्वाद्युत्तरपर्यन्तः कलशक्रम उच्यते। जप्त्वा पुनश्च तन्मन्त्रान् पूजयेच्च विधानतः॥ १०६॥",
+          "iast": "pūrvādyuttaraparyantaḥ kalaśakrama ucyate| japtvā punaśca tanmantrān pūjayecca vidhānataḥ|| 106||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 107,
+          "devanagari": "द्वारलोकपतिभ्यश्च बलिं दत्वा यथाक्रमम्। वस्त्ररत्नहिरण्याद्यैरलङ्कृत्य विभूषितः। गुरवे दक्षिणां दद्यात् कोटिं लक्षं सहस्रकम्॥ १०७॥",
+          "iast": "dvāralokapatibhyaśca baliṃ datvā yathākramam| vastraratnahiraṇyādyairalaṅkṛtya vibhūṣitaḥ| gurave dakṣiṇāṃ dadyāt koṭiṃ lakṣaṃ sahasrakam|| 107||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 108,
+          "devanagari": "शतमर्धं तदर्धं वा निस्स्वो भक्त्या क्षमापयेत्। तदर्धमृत्विजां चैव तदर्धं पारणाकृताम्॥ १०८॥",
+          "iast": "śatamardhaṃ tadardhaṃ vā nissvo bhaktyā kṣamāpayet| tadardhamṛtvijāṃ caiva tadardhaṃ pāraṇākṛtām|| 108||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 109,
+          "devanagari": "आ श्वभ्य आ श्वपाकेभ्यो दद्यादन्नं समस्तशः। पुरस्तात् परतश्चैव सप्तरात्रं निरन्तरम्॥ १०९॥",
+          "iast": "ā śvabhya ā śvapākebhyo dadyādannaṃ samastaśaḥ| purastāt parataścaiva saptarātraṃ nirantaram|| 109||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 110,
+          "devanagari": "सुवर्णवस्त्ररत्नाद्यैरागताभ्यागतानपि। पूजयेच्छक्तितो भक्त्या प्रीयतां भगवानिति॥ ११०॥",
+          "iast": "suvarṇavastraratnādyairāgatābhyāgatānapi| pūjayecchaktito bhaktyā prīyatāṃ bhagavāniti|| 110||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 111,
+          "devanagari": "गीतनृत्यैश्च वाद्यैश्च पुराणैरितिहासकैः। स्तोत्रैर्मङ्गलघोषैश्च वैदिकैर्दिनसप्तकम्॥ १११॥",
+          "iast": "gītanṛtyaiśca vādyaiśca purāṇairitihāsakaiḥ| stotrairmaṅgalaghoṣaiśca vaidikairdinasaptakam|| 111||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 112,
+          "devanagari": "नयेत् ततो महाराजविभूत्याऽवभृथं सुधीः। कारयेद् देवदेवस्य स्वाध्यायैर्गीतनर्तनैः॥ ११२॥",
+          "iast": "nayet tato mahārājavibhūtyā’vabhṛthaṃ sudhīḥ| kārayed devadevasya svādhyāyairgītanartanaiḥ|| 112||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 113,
+          "devanagari": "महानदीसङ्गमेषु तीर्थे चातिप्रशस्तके। स्नापयेत् पूर्ववन्मन्त्रैः पुंसूक्तान्तैः स्मरन् हरिं॥ ११३॥",
+          "iast": "mahānadīsaṅgameṣu tīrthe cātipraśastake| snāpayet pūrvavanmantraiḥ puṃsūktāntaiḥ smaran hariṃ|| 113||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 114,
+          "devanagari": "ततः पूर्ववदागत्य प्रवेश्य पुरुषोत्तमम्। पूजयित्वा विधानेन दत्वा दानानि शक्तितः। गुरुं च भक्त्या सम्पूज्य स्वीकुर्यादाशिषस्ततः॥ ११४॥",
+          "iast": "tataḥ pūrvavadāgatya praveśya puruṣottamam| pūjayitvā vidhānena datvā dānāni śaktitaḥ| guruṃ ca bhaktyā sampūjya svīkuryādāśiṣastataḥ|| 114||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 115,
+          "devanagari": "शतप्रस्थादनूनं तु नैवेद्यं पायसोत्तरम्। दिनेष्वेतेषु दातव्यं सघृतं ससितादिकम्। पश्चादपि यथाशक्ति पूजा कार्या हरेः सदा॥ ११५॥",
+          "iast": "śataprasthādanūnaṃ tu naivedyaṃ pāyasottaram| dineṣveteṣu dātavyaṃ saghṛtaṃ sasitādikam| paścādapi yathāśakti pūjā kāryā hareḥ sadā|| 115||",
+          "topic": "कलशपूजादि"
+        },
+        {
+          "number": 116,
+          "devanagari": "जीर्णालयोद्धृतौ चैव तत्त्वमन्त्रान् स्वकं तथा। प्रातिलोम्येन जप्त्वैव मूर्तौ सङ्कोचयेद्धरिं॥ ११६॥",
+          "iast": "jīrṇālayoddhṛtau caiva tattvamantrān svakaṃ tathā| prātilomyena japtvaiva mūrtau saṅkocayeddhariṃ|| 116||",
+          "topic": "जीर्णदेवालयोद्धारप्रकारः"
+        },
+        {
+          "number": 117,
+          "devanagari": "उक्तेनैव विधानेन कृत्वा देवालयं पुनः। स्नापयेत् पुण्डरीकाक्षं द्विगुणेन प्रवाहणात्। विभवेनानुलोमेन जपेन्मन्त्रान् पुनस्तथा॥ ११७॥",
+          "iast": "uktenaiva vidhānena kṛtvā devālayaṃ punaḥ| snāpayet puṇḍarīkākṣaṃ dviguṇena pravāhaṇāt| vibhavenānulomena japenmantrān punastathā|| 117||",
+          "topic": "जीर्णदेवालयोद्धारप्रकारः"
+        },
+        {
+          "number": 118,
+          "devanagari": "उक्तेनैव विधानेन तदर्धैर्विभवैः सुधीः। पादमात्रैरपि हरिं स्नापयित्वा यथोदितम्॥ ११८॥",
+          "iast": "uktenaiva vidhānena tadardhairvibhavaiḥ sudhīḥ| pādamātrairapi hariṃ snāpayitvā yathoditam|| 118||",
+          "topic": "जीर्णदेवालयोद्धारप्रकारः"
+        },
+        {
+          "number": 119,
+          "devanagari": "एतेनैव विधानेन कृत्वा देवालयं पुनः। आराधयेज्जगन्नाथं ध्यायन् भक्त्या यथोदितम्। यात्राऽपि पूर्ववत् तत्राप्युत्सवेषु च सर्वशः॥ ११९॥",
+          "iast": "etenaiva vidhānena kṛtvā devālayaṃ punaḥ| ārādhayejjagannāthaṃ dhyāyan bhaktyā yathoditam| yātrā’pi pūrvavat tatrāpyutsaveṣu ca sarvaśaḥ|| 119||",
+          "topic": "जीर्णदेवालयोद्धारप्रकारः"
+        },
+        {
+          "number": 120,
+          "devanagari": "कलशोक्तविधानेन पूजा बलिहृतिस्तथा। उत्सवेषु सदा कार्या कलशश्चोत्सवादनु। यात्रास्थानं च कर्तव्यं सम्यगुक्तविधानतः॥ १२०॥",
+          "iast": "kalaśoktavidhānena pūjā balihṛtistathā| utsaveṣu sadā kāryā kalaśaścotsavādanu| yātrāsthānaṃ ca kartavyaṃ samyaguktavidhānataḥ|| 120||",
+          "topic": "जीर्णदेवालयोद्धारप्रकारः"
+        },
+        {
+          "number": 121,
+          "devanagari": "चोरचण्डालपतितश्वोदक्यादिप्रवेशने। शवाद्युपहतौ चैव पूजाविच्छेदने तथा। स्नापनोक्तेन मार्गेण प्रायश्चित्तविधिः स्मृतः॥ १२१॥",
+          "iast": "coracaṇḍālapatitaśvodakyādipraveśane| śavādyupahatau caiva pūjāvicchedane tathā| snāpanoktena mārgeṇa prāyaścittavidhiḥ smṛtaḥ|| 121||",
+          "topic": "सम्प्रोक्षणविधानम्"
+        },
+        {
+          "number": 122,
+          "devanagari": "सर्वत्र विष्णुगायत्र्या होमः स्यादयुतावरः। नावाव्याद्यभिधानानि विद्महे धीमहे तथा। प्रचोदयात् तृतीयाधस्तन्नो गायत्रिनामिका॥ १२२॥",
+          "iast": "sarvatra viṣṇugāyatryā homaḥ syādayutāvaraḥ| nāvāvyādyabhidhānāni vidmahe dhīmahe tathā| pracodayāt tṛtīyādhastanno gāyatrināmikā|| 122||",
+          "topic": "सम्प्रोक्षणविधानम्"
+        },
+        {
+          "number": 123,
+          "devanagari": "दुर्गाशिवस्कन्दसूर्यविनायकमुखानपि। स्थापयेदुक्तमार्गेण तत्तन्मन्त्रैः स्मरन् हरिं॥ १२३॥",
+          "iast": "durgāśivaskandasūryavināyakamukhānapi| sthāpayeduktamārgeṇa tattanmantraiḥ smaran hariṃ|| 123||",
+          "topic": "अन्यदेवताप्रतिमाप्रतिष्ठापनविधिः"
+        },
+        {
+          "number": 124,
+          "devanagari": "गोलकद्वितयं विष्णोस्त्रितयं वा प्रकीर्तितम्। अन्यदेवप्रतिष्ठासु तदन्तश्चिन्तयेद्धरिं॥ १२४॥",
+          "iast": "golakadvitayaṃ viṣṇostritayaṃ vā prakīrtitam| anyadevapratiṣṭhāsu tadantaścintayeddhariṃ|| 124||",
+          "topic": "अन्यदेवताप्रतिमाप्रतिष्ठापनविधिः"
+        },
+        {
+          "number": 125,
+          "devanagari": "विष्णुस्मृतिविहीना तु पूजा स्यादासुरी स्मृता। गृह्णन्ति देवता नैतां ततः स्याद् देशविप्लवः। व्याधिचोरादिभिस्तस्मादन्तर्ध्येयो हरिः सदा॥ १२५॥",
+          "iast": "viṣṇusmṛtivihīnā tu pūjā syādāsurī smṛtā| gṛhṇanti devatā naitāṃ tataḥ syād deśaviplavaḥ| vyādhicorādibhistasmādantardhyeyo hariḥ sadā|| 125||",
+          "topic": "अन्यदेवताप्रतिमाप्रतिष्ठापनविधिः"
+        },
+        {
+          "number": 126,
+          "devanagari": "विष्णुभक्तिविहीनस्य गतिः स्यान्न शुभा क्वचित्। भक्तस्याप्यन्यदेवेषु तस्माद् ध्येयो हरिः सदा॥ १२६॥",
+          "iast": "viṣṇubhaktivihīnasya gatiḥ syānna śubhā kvacit| bhaktasyāpyanyadeveṣu tasmād dhyeyo hariḥ sadā|| 126||",
+          "topic": "भगवद्भक्तेरावश्यकता"
+        },
+        {
+          "number": 127,
+          "devanagari": "संस्मृतो भगवान् विष्णुः सर्वमङ्गलमङ्गलः। समस्ताभीष्टदायी स्यात् तेन ध्येयोऽखिलैर्जनैः॥ १२७॥",
+          "iast": "saṃsmṛto bhagavān viṣṇuḥ sarvamaṅgalamaṅgalaḥ| samastābhīṣṭadāyī syāt tena dhyeyo’khilairjanaiḥ|| 127||",
+          "topic": "भगवद्भक्तेरावश्यकता"
+        },
+        {
+          "number": 128,
+          "devanagari": "पुरुषोऽव्यक्तं च महानहङ्कारो मनस्तथा। दशेन्द्रियाणि शब्दाद्या भूतेता पञ्चविंशतिः॥ १२८॥",
+          "iast": "puruṣo’vyaktaṃ ca mahānahaṅkāro manastathā| daśendriyāṇi śabdādyā bhūtetā pañcaviṃśatiḥ|| 128||",
+          "topic": "पञ्चविंशत्तत्वानां (षट्त्रिंशत्तत्त्वानां वा) निरूपणम्"
+        },
+        {
+          "number": 129,
+          "devanagari": "तत्वाख्याः कालमाये च नियतिर्मतिरेव च। विद्या कला प्रवृत्तिश्च द्वात्रिंशत्तत्वसङ्ग्रहः॥ १२९॥",
+          "iast": "tatvākhyāḥ kālamāye ca niyatirmatireva ca| vidyā kalā pravṛttiśca dvātriṃśattatvasaṅgrahaḥ|| 129||",
+          "topic": "पञ्चविंशत्तत्वानां (षट्त्रिंशत्तत्त्वानां वा) निरूपणम्"
+        },
+        {
+          "number": 130,
+          "devanagari": "स्फूर्तिः संवित् प्रतिष्ठा च शक्तिरित्यपराणि च। महालक्ष्मीस्वरूपाणि ह्येकादश विदो विदुः। विष्णोरपि हि रूपाणि तन्नाम्नैकादशैव तु॥ १३०॥",
+          "iast": "sphūrtiḥ saṃvit pratiṣṭhā ca śaktirityaparāṇi ca| mahālakṣmīsvarūpāṇi hyekādaśa vido viduḥ| viṣṇorapi hi rūpāṇi tannāmnaikādaśaiva tu|| 130||",
+          "topic": "पञ्चविंशत्तत्वानां (षट्त्रिंशत्तत्त्वानां वा) निरूपणम्"
+        },
+        {
+          "number": 131,
+          "devanagari": "प्रधानोपमवर्णानि द्विभुजान्यप्यशेषतः। कृताञ्जलिपुटान्येव प्रधानस्थं हरिं प्रति। सर्वाण्येतानि तत्त्वानि ब्रह्मा तु पुरुषः स्मृतः॥ १३१॥",
+          "iast": "pradhānopamavarṇāni dvibhujānyapyaśeṣataḥ| kṛtāñjalipuṭānyeva pradhānasthaṃ hariṃ prati| sarvāṇyetāni tattvāni brahmā tu puruṣaḥ smṛtaḥ|| 131||",
+          "topic": "पञ्चविंशत्तत्वानां (षट्त्रिंशत्तत्त्वानां वा) निरूपणम्"
+        },
+        {
+          "number": 132,
+          "devanagari": "महांश्चाव्यक्तनाम्नी तु ब्रह्माणी सम्प्रकीर्तिता। एवं वायुरपि ज्ञेयो भारती चापि तत् त्रयम्॥ १३२॥",
+          "iast": "mahāṃścāvyaktanāmnī tu brahmāṇī samprakīrtitā| evaṃ vāyurapi jñeyo bhāratī cāpi tat trayam|| 132||",
+          "topic": "पञ्चविंशत्तत्वानां (षट्त्रिंशत्तत्त्वानां वा) निरूपणम्"
+        },
+        {
+          "number": 133,
+          "devanagari": "रुद्रोऽहङ्कार उद्दिष्टः स्कन्देन्द्रौ मन उच्यते। अहङ्कारः शेषवीन्द्रावपि विद्वद्भिरीरितौ॥ १३३॥",
+          "iast": "rudro’haṅkāra uddiṣṭaḥ skandendrau mana ucyate| ahaṅkāraḥ śeṣavīndrāvapi vidvadbhirīritau|| 133||",
+          "topic": "पञ्चविंशत्तत्वानां (षट्त्रिंशत्तत्त्वानां वा) निरूपणम्"
+        },
+        {
+          "number": 134,
+          "devanagari": "दिग्वायुसूनुसूर्याश्च वरुणश्चाश्विनावपि। वह्निदक्षाविन्द्रसूनुर्मित्रश्चैव मनुस्तथा॥ १३४॥",
+          "iast": "digvāyusūnusūryāśca varuṇaścāśvināvapi| vahnidakṣāvindrasūnurmitraścaiva manustathā|| 134||",
+          "topic": "पञ्चविंशत्तत्वानां (षट्त्रिंशत्तत्त्वानां वा) निरूपणम्"
+        },
+        {
+          "number": 135,
+          "devanagari": "इन्द्रियाख्याः शब्दनामा बृहस्पतिरुदाहृतः। अन्ये तु सूनवो वायो रुद्रस्यापि प्रकीर्तिताः॥ १३५॥",
+          "iast": "indriyākhyāḥ śabdanāmā bṛhaspatirudāhṛtaḥ| anye tu sūnavo vāyo rudrasyāpi prakīrtitāḥ|| 135||",
+          "topic": "पञ्चविंशत्तत्वानां (षट्त्रिंशत्तत्त्वानां वा) निरूपणम्"
+        },
+        {
+          "number": 136,
+          "devanagari": "एतेषु भगवान् विष्णुः प्रधानतनुरेव तु। ध्येयः परात्मनोर्मध्ये तत्वनाम तदर्थयोः। जपे न्यासे नमोन्तस्तु स्वाहान्तो होमकर्मणि॥ १३६॥",
+          "iast": "eteṣu bhagavān viṣṇuḥ pradhānatanureva tu| dhyeyaḥ parātmanormadhye tatvanāma tadarthayoḥ| jape nyāse namontastu svāhānto homakarmaṇi|| 136||",
+          "topic": "पञ्चविंशत्तत्वानां (षट्त्रिंशत्तत्त्वानां वा) निरूपणम्"
+        },
+        {
+          "number": 137,
+          "devanagari": "त्रिचतुःषड्दशावृत्तिरेतेषां तु हुतादिके। न्यासोऽङ्गुलीषूरुबाहुमध्येषु व्युत्क्रमात् स्मृतः। क्रमे विपर्ययेणात्र शक्त्यादित्वं प्रकीर्तितम्॥ १३७॥",
+          "iast": "tricatuḥṣaḍdaśāvṛttireteṣāṃ tu hutādike| nyāso’ṅgulīṣūrubāhumadhyeṣu vyutkramāt smṛtaḥ| krame viparyayeṇātra śaktyāditvaṃ prakīrtitam|| 137||",
+          "topic": "पञ्चविंशत्तत्वानां (षट्त्रिंशत्तत्त्वानां वा) निरूपणम्"
+        },
+        {
+          "number": 138,
+          "devanagari": "ऋषिच्छन्दोदेवताङ्गध्यानानुक्तौ प्रधानवत्। ज्ञेया मन्त्राः समस्तास्ते पृथङ् मोक्षादिदायकाः॥ १३८॥",
+          "iast": "ṛṣicchandodevatāṅgadhyānānuktau pradhānavat| jñeyā mantrāḥ samastāste pṛthaṅ mokṣādidāyakāḥ|| 138||",
+          "topic": "पञ्चविंशत्तत्वानां (षट्त्रिंशत्तत्त्वानां वा) निरूपणम्"
+        },
+        {
+          "number": 139,
+          "devanagari": "तन्त्रमार्गास्तु हरिणा ह्यसङ्ख्याः कीर्तिता अपि। तेष्वयं सुगमो मार्गः सुफलश्चानुतिष्ठताम्॥ १३९॥",
+          "iast": "tantramārgāstu hariṇā hyasaṅkhyāḥ kīrtitā api| teṣvayaṃ sugamo mārgaḥ suphalaścānutiṣṭhatām|| 139||",
+          "topic": "एतद्ग्रन्थमहत्त्ववर्णम्"
+        },
+        {
+          "number": 140,
+          "devanagari": "यावतो ह्यननुष्ठाने कर्मपूर्तिर्न विद्यते। तावत् समस्तं कथितमस्मिंस्तन्त्रे यथाविधि॥ १४०॥",
+          "iast": "yāvato hyananuṣṭhāne karmapūrtirna vidyate| tāvat samastaṃ kathitamasmiṃstantre yathāvidhi|| 140||",
+          "topic": "एतद्ग्रन्थमहत्त्ववर्णम्"
+        },
+        {
+          "number": 141,
+          "devanagari": "प्रीयतेऽनेन मार्गेण पूजितो मुक्तिदो भवेत्। कामदश्च स्वभक्तानां भगवान् पुरुषोत्तमः॥ १४१॥",
+          "iast": "prīyate’nena mārgeṇa pūjito muktido bhavet| kāmadaśca svabhaktānāṃ bhagavān puruṣottamaḥ|| 141||",
+          "topic": "एतद्ग्रन्थमहत्त्ववर्णम्"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "चतुर्थोऽध्यायः",
+      "verses": [
+        {
+          "number": 1,
+          "devanagari": "अथ विष्णूदिते तन्त्रसारे मन्त्रगणो हि यः। उदितः सङ्ग्रहेणासावुच्यतेऽखिलसाधकः॥ १॥",
+          "iast": "atha viṣṇūdite tantrasāre mantragaṇo hi yaḥ| uditaḥ saṅgraheṇāsāvucyate’khilasādhakaḥ|| 1||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 2,
+          "devanagari": "याष्टमस्तूयुतोऽन्तेन समेतश्चैव भूभृतः। बीजं नमश्च भगवानुद्देश्यो रूपसंयुतः॥ २॥",
+          "iast": "yāṣṭamastūyuto’ntena sametaścaiva bhūbhṛtaḥ| bījaṃ namaśca bhagavānuddeśyo rūpasaṃyutaḥ|| 2||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 3,
+          "devanagari": "स एव तादृशो लोकत्रयपालो भुवःपतेः। भावं मे देहि दान्ते तु दापयस्वाहया युतः॥ ३॥",
+          "iast": "sa eva tādṛśo lokatrayapālo bhuvaḥpateḥ| bhāvaṃ me dehi dānte tu dāpayasvāhayā yutaḥ|| 3||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 4,
+          "devanagari": "मनुस्तस्यापरस्तारबीजोद्देशनमोयुतः । नमः सोद्देशभगवान् महाशब्दयुतश्च सः। तादृशः स्वाहया युक्तो वराहस्यापरो मनुः॥ ४॥",
+          "iast": "manustasyāparastārabījoddeśanamoyutaḥ | namaḥ soddeśabhagavān mahāśabdayutaśca saḥ| tādṛśaḥ svāhayā yukto varāhasyāparo manuḥ|| 4||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 5,
+          "devanagari": "श्यामः सुदर्शनदराभयसद्वरेतो भूम्या युतोऽखिलनिजोक्तपरिग्रहैश्च। ध्येयो निजैश्च तनुभिः सकलैरुपेतः कोलो हरिः सकलवाञ्छितसिद्धयेऽजः॥ ५॥",
+          "iast": "śyāmaḥ sudarśanadarābhayasadvareto bhūmyā yuto’khilanijoktaparigrahaiśca| dhyeyo nijaiśca tanubhiḥ sakalairupetaḥ kolo hariḥ sakalavāñchitasiddhaye’jaḥ|| 5||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 6,
+          "devanagari": "वैष्णवानां मुनिर्ब्रह्मा मन्त्राणां वर्णभेदतः। ज्ञेयं छन्दो दैवतैकस्तत्तद्रूपो हरिः परः॥ ६॥",
+          "iast": "vaiṣṇavānāṃ munirbrahmā mantrāṇāṃ varṇabhedataḥ| jñeyaṃ chando daivataikastattadrūpo hariḥ paraḥ|| 6||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 7,
+          "devanagari": "प्रणवेन स्वनाम्ना च भूधरेण परात्मना। सर्वज्ञसर्वशक्तिभ्यां षडङ्गानि विदो विदुः॥ ७॥",
+          "iast": "praṇavena svanāmnā ca bhūdhareṇa parātmanā| sarvajñasarvaśaktibhyāṃ ṣaḍaṅgāni vido viduḥ|| 7||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 8,
+          "devanagari": "ज्ञानैश्वर्यप्रभानन्दतेजःशक्तिभिरेव वा। पूर्णात्ममध्यगैः सर्ववैष्णवाङ्गान्यथो विदुः॥ ८॥",
+          "iast": "jñānaiśvaryaprabhānandatejaḥśaktibhireva vā| pūrṇātmamadhyagaiḥ sarvavaiṣṇavāṅgānyatho viduḥ|| 8||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 9,
+          "devanagari": "तिष्ठोदादिः स्वजायायाः कारणं स्वाहया युतः। श्रीकरोऽष्टार्णको मन्त्रो गरुडारूढसंस्मृतिः॥ ९॥",
+          "iast": "tiṣṭhodādiḥ svajāyāyāḥ kāraṇaṃ svāhayā yutaḥ| śrīkaro’ṣṭārṇako mantro garuḍārūḍhasaṃsmṛtiḥ|| 9||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 10,
+          "devanagari": "द्विर्भीषय त्रासय च प्रमर्दय तथैव च। प्रध्वंसयाथो रक्षेति पञ्चाङ्गश्चेदुदाहृतः॥ १०॥",
+          "iast": "dvirbhīṣaya trāsaya ca pramardaya tathaiva ca| pradhvaṃsayātho rakṣeti pañcāṅgaścedudāhṛtaḥ|| 10||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 11,
+          "devanagari": "आदित्यचन्द्रावपि चक्रशङ्खौ शङ्खप्रसूनाख्यनिधी दधानः। चिन्त्यः कराभ्यां वसु तर्पयन् नः स्वाङ्कस्थलक्ष्मीर्गरुडांससंस्थः॥ क्रूरं वीरं बृहद्विष्णुं दीप्यन्तं विश्वतोमुखम्। पुंमृगेन्द्रं भयकरं शुभं मृत्योश्च मारकम्। नमामि स्वयमित्येष द्वात्रिंशार्णो मनुर्हरेः॥ ११॥",
+          "iast": "ādityacandrāvapi cakraśaṅkhau śaṅkhaprasūnākhyanidhī dadhānaḥ| cintyaḥ karābhyāṃ vasu tarpayan naḥ svāṅkasthalakṣmīrgaruḍāṃsasaṃsthaḥ|| krūraṃ vīraṃ bṛhadviṣṇuṃ dīpyantaṃ viśvatomukham| puṃmṛgendraṃ bhayakaraṃ śubhaṃ mṛtyośca mārakam| namāmi svayamityeṣa dvātriṃśārṇo manurhareḥ|| 11||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 12,
+          "devanagari": "द्विर्जयस्योपरि निजं सोद्देशं सर्ववित् तथा। महातेजोबलं वीर्यं तादृशं स्वाहया युतम्। चतुर्विंशाक्षरो मन्त्रो निखिलेष्टप्रदायकः॥ १२॥",
+          "iast": "dvirjayasyopari nijaṃ soddeśaṃ sarvavit tathā| mahātejobalaṃ vīryaṃ tādṛśaṃ svāhayā yutam| caturviṃśākṣaro mantro nikhileṣṭapradāyakaḥ|| 12||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 13,
+          "devanagari": "विद्महेधीमहेपूर्वं स्वयं चैव महाबलः। प्रेरयेत्तन्नइत्येतन्मध्येऽनन्तः प्रकीर्तितः॥ १३॥",
+          "iast": "vidmahedhīmahepūrvaṃ svayaṃ caiva mahābalaḥ| prerayettannaityetanmadhye’nantaḥ prakīrtitaḥ|| 13||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 14,
+          "devanagari": "पादैर्व्यस्तैः समस्तैश्च पदैश्चाङ्गं प्रकीर्तितम्। पूर्वयोस्तत्र पूर्वं तु सर्वज्ञेन षडङ्गकम्। तृतीयं तु द्विरावृत्तैः पादैरङ्गसमन्वितम्॥ १४॥",
+          "iast": "pādairvyastaiḥ samastaiśca padaiścāṅgaṃ prakīrtitam| pūrvayostatra pūrvaṃ tu sarvajñena ṣaḍaṅgakam| tṛtīyaṃ tu dvirāvṛttaiḥ pādairaṅgasamanvitam|| 14||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 15,
+          "devanagari": "ध्यायेन्नृसिंहमुरुवृत्तरवित्रिनेत्रं जानुप्रसक्तकरयुग्ममथापराभ्याम्। चक्रं दरं च दधतं प्रियया समेतं तिग्मांशुकोट्यधिकतेजसमग्र्यशक्तिम्॥ १५॥",
+          "iast": "dhyāyennṛsiṃhamuruvṛttaravitrinetraṃ jānuprasaktakarayugmamathāparābhyām| cakraṃ daraṃ ca dadhataṃ priyayā sametaṃ tigmāṃśukoṭyadhikatejasamagryaśaktim|| 15||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 16,
+          "devanagari": "सर्वेष्वपि हि मन्त्रेषु द्व्याद्यनन्तान्तबाहुकः। चेतनान्तस्स्थमारभ्य सर्वगान्तस्वरूपवान्॥ १६॥",
+          "iast": "sarveṣvapi hi mantreṣu dvyādyanantāntabāhukaḥ| cetanāntassthamārabhya sarvagāntasvarūpavān|| 16||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 17,
+          "devanagari": "अनन्तरूपो ध्येयोऽत्र स्वगुरूक्तानुसारतः। यथायोग्यं यथाशक्ति तत्तदायुधभूषणः॥ १७॥",
+          "iast": "anantarūpo dhyeyo’tra svagurūktānusārataḥ| yathāyogyaṃ yathāśakti tattadāyudhabhūṣaṇaḥ|| 17||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 18,
+          "devanagari": "चक्रशङ्खगदापद्मखड्गखेटाः सशार्ङ्गकाः। शरो मुसलवज्रौ च हलः पाशाङ्कुशौ तथा॥ १८॥",
+          "iast": "cakraśaṅkhagadāpadmakhaḍgakheṭāḥ saśārṅgakāḥ| śaro musalavajrau ca halaḥ pāśāṅkuśau tathā|| 18||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 19,
+          "devanagari": "शूलं च भिण्डिपालश्च पट्टिशोऽग्निर्वराभये। तर्कमुद्राऽक्षमाला च पुस्तकं च विदारणम्। इत्यादीन्यखिलान्येव विष्णोश्चिन्त्यानि बाहुषु॥ १९॥",
+          "iast": "śūlaṃ ca bhiṇḍipālaśca paṭṭiśo’gnirvarābhaye| tarkamudrā’kṣamālā ca pustakaṃ ca vidāraṇam| ityādīnyakhilānyeva viṣṇościntyāni bāhuṣu|| 19||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 20,
+          "devanagari": "वियत् स इति युग्मार्णो विपरीतश्च स स्मृतः। स सर्गहीनो वेतश्च बिन्दुहीनोत्तरस्तथा॥ २०॥",
+          "iast": "viyat sa iti yugmārṇo viparītaśca sa smṛtaḥ| sa sargahīno vetaśca binduhīnottarastathā|| 20||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 21,
+          "devanagari": "त्रय एते महामन्त्राः पुरुषार्थचतुष्टये। कल्पवृक्षाः प्रिया विष्णोर्विशेषाज्ज्ञानदायकाः। तैरेव तु द्विरावृत्तैरङ्गमेषां प्रकीर्तितम्॥ २१॥",
+          "iast": "traya ete mahāmantrāḥ puruṣārthacatuṣṭaye| kalpavṛkṣāḥ priyā viṣṇorviśeṣājjñānadāyakāḥ| taireva tu dvirāvṛttairaṅgameṣāṃ prakīrtitam|| 21||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 22,
+          "devanagari": "श्वासरूपो जपो नित्यमुभयोर्विद्वदज्ञयोः। एकविंशत्सहस्रात्मा सषट्शतमहर्निशम्। अर्पणीयो हरौ नित्यं प्रातर्योगो महानयम्॥ २२॥",
+          "iast": "śvāsarūpo japo nityamubhayorvidvadajñayoḥ| ekaviṃśatsahasrātmā saṣaṭśatamaharniśam| arpaṇīyo harau nityaṃ prātaryogo mahānayam|| 22||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 23,
+          "devanagari": "अशेषदोषदहनस्तत्त्वज्ञानप्रदायकः। अष्टैश्वर्यप्रदश्चैव कृतादौ समुपासताम्। तारयोगोऽप्येवमेव ब्रह्मादावेव वर्तते॥ २३॥",
+          "iast": "aśeṣadoṣadahanastattvajñānapradāyakaḥ| aṣṭaiśvaryapradaścaiva kṛtādau samupāsatām| tārayogo’pyevameva brahmādāveva vartate|| 23||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 24,
+          "devanagari": "ध्यायेद् रवीन्दुकरमिन्दुसहस्रलक्षकान्तिं प्रियासहितमास्थितमिन्दुबिम्बे। शङ्खारिदोर्द्वयमुदर्कमहेन्दुबिम्बात् संसिच्यमानममृतेन रमाधिनाथम्॥ २४॥",
+          "iast": "dhyāyed ravīndukaramindusahasralakṣakāntiṃ priyāsahitamāsthitamindubimbe| śaṅkhāridordvayamudarkamahendubimbāt saṃsicyamānamamṛtena ramādhinātham|| 24||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 25,
+          "devanagari": "अन्त्यस्य रक्तवर्णो वा ध्येयो विष्णुः सनातनः। विद्युद्वर्णोऽथ वा ज्ञेयः शक्त्येतः पञ्चमन्त्रयुक्॥ २५॥",
+          "iast": "antyasya raktavarṇo vā dhyeyo viṣṇuḥ sanātanaḥ| vidyudvarṇo’tha vā jñeyaḥ śaktyetaḥ pañcamantrayuk|| 25||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 26,
+          "devanagari": "अष्टाक्षरो महामन्त्रस्तैरेवाङ्गैः समन्वितः। अन्त्यध्यानयुतश्चैव निश्शेषपुरुषार्थदः॥ २६॥",
+          "iast": "aṣṭākṣaro mahāmantrastairevāṅgaiḥ samanvitaḥ| antyadhyānayutaścaiva niśśeṣapuruṣārthadaḥ|| 26||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 27,
+          "devanagari": "मूलं नः प्रतिषेधश्च सोद्देशो भगवानपि। विष्णुर्भोज्याधिपः स्वाहायुक्तोऽष्टादशवर्णकः॥ २७॥",
+          "iast": "mūlaṃ naḥ pratiṣedhaśca soddeśo bhagavānapi| viṣṇurbhojyādhipaḥ svāhāyukto’ṣṭādaśavarṇakaḥ|| 27||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 28,
+          "devanagari": "अङ्गानि तत्पदैरेव मन्त्रचिन्तामणिः स्वयम्। यथेष्टभक्ष्यभोज्यादिदाता मुक्तिप्रदायकः॥ २८॥",
+          "iast": "aṅgāni tatpadaireva mantracintāmaṇiḥ svayam| yatheṣṭabhakṣyabhojyādidātā muktipradāyakaḥ|| 28||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 29,
+          "devanagari": "ध्यायेत् सुशुक्लमरविन्ददलायताक्षं सौवर्णपात्रदधिभोज्यमथामृतं च। दोर्भ्यां दधानमखिलैश्च सुरैः परीतं शीतांशुमण्डलगतं रमया समेतम्॥ २९॥",
+          "iast": "dhyāyet suśuklamaravindadalāyatākṣaṃ sauvarṇapātradadhibhojyamathāmṛtaṃ ca| dorbhyāṃ dadhānamakhilaiśca suraiḥ parītaṃ śītāṃśumaṇḍalagataṃ ramayā sametam|| 29||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 30,
+          "devanagari": "अमृतं स्वयमुद्देशयुक्तः सहृदयो मनुः। सतारोऽष्टाक्षरोऽङ्गानि पदैर्व्यस्तैः समस्तकैः॥ ३०॥",
+          "iast": "amṛtaṃ svayamuddeśayuktaḥ sahṛdayo manuḥ| satāro’ṣṭākṣaro’ṅgāni padairvyastaiḥ samastakaiḥ|| 30||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 31,
+          "devanagari": "उद्यद्रविप्रभमरीन्द्रदरौ गदां च ज्ञानं च बिभ्रतमजं प्रियया समेतम्। विश्वावकाशमभितः प्रतिपूरयन्तं भासा स्वया स्मरत विष्णुमजादिवन्द्यम्॥ ३१॥",
+          "iast": "udyadraviprabhamarīndradarau gadāṃ ca jñānaṃ ca bibhratamajaṃ priyayā sametam| viśvāvakāśamabhitaḥ pratipūrayantaṃ bhāsā svayā smarata viṣṇumajādivandyam|| 31||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 32,
+          "devanagari": "त्रिविक्रमश्च सोद्देशो विश्वरूपश्च तत्परः। धीविदौ च महे विष्णुस्तन्नःप्रेरणमध्यगः॥ ३२॥",
+          "iast": "trivikramaśca soddeśo viśvarūpaśca tatparaḥ| dhīvidau ca mahe viṣṇustannaḥpreraṇamadhyagaḥ|| 32||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 33,
+          "devanagari": "स्वयमुद्देशसंयुक्तस्तदाद्यर्णपुरस्सरः। सनतिः षडक्षरो मन्त्रो वर्णैरङ्गक्रिया मता॥ ३३॥",
+          "iast": "svayamuddeśasaṃyuktastadādyarṇapurassaraḥ| sanatiḥ ṣaḍakṣaro mantro varṇairaṅgakriyā matā|| 33||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 34,
+          "devanagari": "अङ्गारवर्णमभितोऽण्डबहिःप्रभाभिर्व्याप्तं परश्वधधनुर्धरमेकवीरम्। ध्यायेदजेशपुरुहूतमुखैः स्तुवद्भिरावीतमात्मपदवीं प्रतिपादयन्तम्॥ ३४॥",
+          "iast": "aṅgāravarṇamabhito’ṇḍabahiḥprabhābhirvyāptaṃ paraśvadhadhanurdharamekavīram| dhyāyedajeśapuruhūtamukhaiḥ stuvadbhirāvītamātmapadavīṃ pratipādayantam|| 34||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 35,
+          "devanagari": "श्यामं रवीन्द्वमितदीधितिकान्तियुक्तं ज्ञानं शरं च दधतं प्रियया समेतम्। स्वात्मस्वरूपममितं हनुमन्मुखेषु सन्दर्शयन्तमजितं स्मरतोरुगीर्भिः॥ ३५॥",
+          "iast": "śyāmaṃ ravīndvamitadīdhitikāntiyuktaṃ jñānaṃ śaraṃ ca dadhataṃ priyayā sametam| svātmasvarūpamamitaṃ hanumanmukheṣu sandarśayantamajitaṃ smaratorugīrbhiḥ|| 35||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 36,
+          "devanagari": "निजगोत्रं तु सोद्देशं पूर्वाक्षरपुरस्सरम्। नत्यन्तं तारपूर्वं च मनुरष्टाक्षरो मतः। ते च बीजे बीजभूते धर्मादीनामशेषतः॥ ३६॥",
+          "iast": "nijagotraṃ tu soddeśaṃ pūrvākṣarapurassaram| natyantaṃ tārapūrvaṃ ca manuraṣṭākṣaro mataḥ| te ca bīje bījabhūte dharmādīnāmaśeṣataḥ|| 36||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 37,
+          "devanagari": "एते विजयदा मन्त्रा ज्ञानमोक्षप्रदायकाः। हिरण्यरत्नराज्यादिसमभीष्टसुरद्रुमाः॥ ३७॥",
+          "iast": "ete vijayadā mantrā jñānamokṣapradāyakāḥ| hiraṇyaratnarājyādisamabhīṣṭasuradrumāḥ|| 37||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 38,
+          "devanagari": "कृष्णो गोविच्च कामेतो सोद्देशो वल्लवीजनः। प्रियश्च तादृशः स्वाहायुगष्टादशवर्णकः। पदैरङ्गानि सम्प्रीतिकाममोक्षप्रदो मनुः॥ ३८॥",
+          "iast": "kṛṣṇo govicca kāmeto soddeśo vallavījanaḥ| priyaśca tādṛśaḥ svāhāyugaṣṭādaśavarṇakaḥ| padairaṅgāni samprītikāmamokṣaprado manuḥ|| 38||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 39,
+          "devanagari": "ध्यायेद्धरिन्मणिनिभं जगदेकवन्द्यं सौन्दर्यसारमरिशङ्खवराभयानि। दोर्भिर्दधानमजितं सरसं च भैष्मीसत्यासमेतमखिलप्रदमिन्दिरेशम्॥ ३९॥",
+          "iast": "dhyāyeddharinmaṇinibhaṃ jagadekavandyaṃ saundaryasāramariśaṅkhavarābhayāni| dorbhirdadhānamajitaṃ sarasaṃ ca bhaiṣmīsatyāsametamakhilapradamindireśam|| 39||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 40,
+          "devanagari": "सकामः स्वयमुद्देशी नत्यन्तोऽयं षडक्षरः। तदादिरपि सर्वेष्टचिन्तामणिरुदीरितः॥ ४०॥",
+          "iast": "sakāmaḥ svayamuddeśī natyanto’yaṃ ṣaḍakṣaraḥ| tadādirapi sarveṣṭacintāmaṇirudīritaḥ|| 40||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 41,
+          "devanagari": "दृष्टार्थ एव मन्त्राणां कलौ वीर्यं तिरस्कृतम्। तत्राप्युद्दीप्तवीर्या हि मन्त्रा अत्र प्रकीर्तिताः। वासिष्ठवृष्णिप्रवरा मन्त्रास्तत्रापि वीर्यदाः॥ ४१॥",
+          "iast": "dṛṣṭārtha eva mantrāṇāṃ kalau vīryaṃ tiraskṛtam| tatrāpyuddīptavīryā hi mantrā atra prakīrtitāḥ| vāsiṣṭhavṛṣṇipravarā mantrāstatrāpi vīryadāḥ|| 41||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 42,
+          "devanagari": "स्वयं वेदपदारूढः पूर्ववर्णपुरस्सरः। नत्यन्तोऽष्टाक्षरो मन्त्रः प्रियो विज्ञानगोपतेः॥ ४२॥",
+          "iast": "svayaṃ vedapadārūḍhaḥ pūrvavarṇapurassaraḥ| natyanto’ṣṭākṣaro mantraḥ priyo vijñānagopateḥ|| 42||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 43,
+          "devanagari": "व्याख्याश्रीसर्वविज्ञानकवितादिगुणप्रदः। वादे विजयदो नित्यं यथा युद्धे नृकेसरी॥ ४३॥",
+          "iast": "vyākhyāśrīsarvavijñānakavitādiguṇapradaḥ| vāde vijayado nityaṃ yathā yuddhe nṛkesarī|| 43||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 44,
+          "devanagari": "विज्ञानरोचिःपरिपूरितान्तर्बाह्याण्डकोशं हरितोपलाभम्। तर्काभयेतं विधिशर्वपूर्वगीर्वाणविज्ञानदमानतोऽस्मि॥ ४४॥",
+          "iast": "vijñānarociḥparipūritāntarbāhyāṇḍakośaṃ haritopalābham| tarkābhayetaṃ vidhiśarvapūrvagīrvāṇavijñānadamānato’smi|| 44||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 45,
+          "devanagari": "ज्ञानानन्दपुरःपूर्णो विद्महे धीमहे तथा। तन्नःप्रेरणमध्ये तु व्यासो मन्त्राधिपाधिपः॥ ४५॥",
+          "iast": "jñānānandapuraḥpūrṇo vidmahe dhīmahe tathā| tannaḥpreraṇamadhye tu vyāso mantrādhipādhipaḥ|| 45||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 46,
+          "devanagari": "आदिबीजं स्थिराशेषज्ञानबीजं विमुक्तिदम्। सर्वपापक्षयकरं सर्वव्याधिविनाशनम्॥ ४६॥",
+          "iast": "ādibījaṃ sthirāśeṣajñānabījaṃ vimuktidam| sarvapāpakṣayakaraṃ sarvavyādhivināśanam|| 46||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 47,
+          "devanagari": "ध्यायेच्छशाङ्कशतकोट्यतिसौख्यकान्तिं संसिच्यमानममृतोरुघटैः सुरेशैः। वर्णाभिमानिभिरजेशमुखैः सहैव पञ्चाशता प्रतिगिरन्तमशेषविद्याः॥ ४७॥",
+          "iast": "dhyāyecchaśāṅkaśatakoṭyatisaukhyakāntiṃ saṃsicyamānamamṛtorughaṭaiḥ sureśaiḥ| varṇābhimānibhirajeśamukhaiḥ sahaiva pañcāśatā pratigirantamaśeṣavidyāḥ|| 47||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 48,
+          "devanagari": "सोद्देशस्तु स्वयं दीर्घपूर्वार्णाद्यो नमोयुतः। सर्वविद्याप्रदोऽष्टार्णः प्रतिवादिजयप्रदः। विमुक्तिसाधनः कीर्तिबुद्धिस्थैर्यप्रदः सदा॥ ४८॥",
+          "iast": "soddeśastu svayaṃ dīrghapūrvārṇādyo namoyutaḥ| sarvavidyāprado’ṣṭārṇaḥ prativādijayapradaḥ| vimuktisādhanaḥ kīrtibuddhisthairyapradaḥ sadā|| 48||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 49,
+          "devanagari": "वन्दे तुरङ्गवदनं शशिबिम्बसंस्थं चन्द्रावदातममृतात्मकरैः समन्तात्। अण्डान्तरं बहिरपि प्रतिभासयन्तं शङ्खाक्षपुस्तकसुबोधयुताब्जबाहुम्॥ ४९॥",
+          "iast": "vande turaṅgavadanaṃ śaśibimbasaṃsthaṃ candrāvadātamamṛtātmakaraiḥ samantāt| aṇḍāntaraṃ bahirapi pratibhāsayantaṃ śaṅkhākṣapustakasubodhayutābjabāhum|| 49||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 50,
+          "devanagari": "नस्तो मुखादपि निरन्तरमुद्गिरन्तं विद्या अशेषत उताब्जभवेशमुख्यैः। संसेव्यमानमतिभक्तिभराभिनुन्नैर्लक्ष्म्याऽमृतेन सततं परिषिच्यमानम्॥ ५०॥",
+          "iast": "nasto mukhādapi nirantaramudgirantaṃ vidyā aśeṣata utābjabhaveśamukhyaiḥ| saṃsevyamānamatibhaktibharābhinunnairlakṣmyā’mṛtena satataṃ pariṣicyamānam|| 50||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 51,
+          "devanagari": "स्वयमुद्देशवान् पूर्ववर्णपूर्वो नमोयुतः। सतारोऽष्टाक्षरश्चैव नवार्णश्च मनू स्मृतौ॥ ५१॥",
+          "iast": "svayamuddeśavān pūrvavarṇapūrvo namoyutaḥ| satāro’ṣṭākṣaraścaiva navārṇaśca manū smṛtau|| 51||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 52,
+          "devanagari": "प्रोद्यद्दिवाकरसमानतनुं सहस्रसूर्योरुदीधितिभिराप्तसमस्तलोकम्। ज्ञानाभयाङ्कितकरं कपिलं च दत्तं ध्यायेदजादिसमितिं प्रतिबोधयन्तम्॥ ५२॥",
+          "iast": "prodyaddivākarasamānatanuṃ sahasrasūryorudīdhitibhirāptasamastalokam| jñānābhayāṅkitakaraṃ kapilaṃ ca dattaṃ dhyāyedajādisamitiṃ pratibodhayantam|| 52||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 53,
+          "devanagari": "अधृष्यताज्ञानमोक्षप्रदौ भक्तेष्विमौ सदा। सूक्तं दीर्घतमोदृष्टं विष्णोर्नुकमिति प्रभोः। सर्वार्थदं गार्त्समदं यो जात इति चापरम्॥ ५३॥",
+          "iast": "adhṛṣyatājñānamokṣapradau bhakteṣvimau sadā| sūktaṃ dīrghatamodṛṣṭaṃ viṣṇornukamiti prabhoḥ| sarvārthadaṃ gārtsamadaṃ yo jāta iti cāparam|| 53||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 54,
+          "devanagari": "वासिष्ठं च परो मात्रयेति ज्ञानविमुक्तिदम्। भौवनीयं सर्वकाममोक्षदं य इमेत्यपि। एवमेवाखिला वेदा ज्ञातव्या विष्णुतत्पराः॥ ५४॥",
+          "iast": "vāsiṣṭhaṃ ca paro mātrayeti jñānavimuktidam| bhauvanīyaṃ sarvakāmamokṣadaṃ ya imetyapi| evamevākhilā vedā jñātavyā viṣṇutatparāḥ|| 54||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 55,
+          "devanagari": "स्वदृष्टं सूक्तमखिलकामदं हरितुष्टिदम्। वाचोऽम्भ्रण्याः श्रियोऽङ्गानि श्रीलक्ष्मीर्मेन्दिरा रमा॥ ५५॥",
+          "iast": "svadṛṣṭaṃ sūktamakhilakāmadaṃ harituṣṭidam| vāco’mbhraṇyāḥ śriyo’ṅgāni śrīlakṣmīrmendirā ramā|| 55||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 56,
+          "devanagari": "कौशेयपीतवसनामरविन्दनेत्रां पद्मद्वयाभयवरोद्यतपद्महस्ताम्। उद्यच्छतार्कसदृशीं परमाङ्कसंस्थां ध्यायेद् विधीशनुतपादयुगां जनित्रीम्॥ ५६॥",
+          "iast": "kauśeyapītavasanāmaravindanetrāṃ padmadvayābhayavarodyatapadmahastām| udyacchatārkasadṛśīṃ paramāṅkasaṃsthāṃ dhyāyed vidhīśanutapādayugāṃ janitrīm|| 56||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 57,
+          "devanagari": "लज्जाबीजं च तद्बीजं तस्या एवाभिधायकम्। पाशाङ्कुशौ रक्तवस्त्रं लज्जाबीजे विशिष्यते। अमध्ययुग्मस्वरगतेनैवाङ्गमुदाहृतम्॥ ५७॥",
+          "iast": "lajjābījaṃ ca tadbījaṃ tasyā evābhidhāyakam| pāśāṅkuśau raktavastraṃ lajjābīje viśiṣyate| amadhyayugmasvaragatenaivāṅgamudāhṛtam|| 57||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 58,
+          "devanagari": "सत्ताबीजं च दुर्बीजं तद्वदेव प्रकीर्तितम्। वर्णः श्यामो विशेषोऽत्र ताम्बूलं नीलमुत्पलम्। चक्रशङ्खौ तर्जनं च शूलमित्यपरत्र च॥ ५८॥",
+          "iast": "sattābījaṃ ca durbījaṃ tadvadeva prakīrtitam| varṇaḥ śyāmo viśeṣo’tra tāmbūlaṃ nīlamutpalam| cakraśaṅkhau tarjanaṃ ca śūlamityaparatra ca|| 58||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 59,
+          "devanagari": "नमोन्तः स्वेन सहितस्तदेवान्यो मनुः स्मृतः। दुर्गात्रिष्टुप् कश्यपोक्ता तत्र वर्णोऽग्निवत् स्मृतः॥ ५९॥",
+          "iast": "namontaḥ svena sahitastadevānyo manuḥ smṛtaḥ| durgātriṣṭup kaśyapoktā tatra varṇo’gnivat smṛtaḥ|| 59||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 60,
+          "devanagari": "त्रिनेत्रत्वं च दुर्गायाः प्रायः सर्वत्र कथ्यते। पादैः समस्तेन तथा षडर्णेनाङ्गमुच्यते॥ ६०॥",
+          "iast": "trinetratvaṃ ca durgāyāḥ prāyaḥ sarvatra kathyate| pādaiḥ samastena tathā ṣaḍarṇenāṅgamucyate|| 60||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 61,
+          "devanagari": "रमाया एव रूपाणि त्वेतानि हि विदो विदुः। मुख्यतो जामदग्न्यस्तु देवताऽस्य मनोः स्मृतः॥ ६१॥",
+          "iast": "ramāyā eva rūpāṇi tvetāni hi vido viduḥ| mukhyato jāmadagnyastu devatā’sya manoḥ smṛtaḥ|| 61||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 62,
+          "devanagari": "हिरण्यगर्भसूक्तं च भृगुदृष्टं प्रकीर्तितम्। ब्रह्मधातृविरिञ्चाजपाद्मैरङ्गमुदाहृतम्॥ ६२॥",
+          "iast": "hiraṇyagarbhasūktaṃ ca bhṛgudṛṣṭaṃ prakīrtitam| brahmadhātṛviriñcājapādmairaṅgamudāhṛtam|| 62||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 63,
+          "devanagari": "ध्यायेन्निषण्णमजमच्युतनाभिपद्मे प्रोद्यद्दिवाकरसमूहनिकाशमग्र्यम्। मातृप्रकारकरमुत्तमकान्तिमद्भिर्वक्त्रैः सृजन्तमखिलैः परमार्थविद्याम्॥ ६३॥",
+          "iast": "dhyāyenniṣaṇṇamajamacyutanābhipadme prodyaddivākarasamūhanikāśamagryam| mātṛprakārakaramuttamakāntimadbhirvaktraiḥ sṛjantamakhilaiḥ paramārthavidyām|| 63||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 64,
+          "devanagari": "स्वयमुद्देशनतिमांस्तस्य पञ्चाक्षरो मनुः। स्वयमेवापरोऽष्टार्णस्तादृशः सम्प्रकीर्तितः॥ ६४॥",
+          "iast": "svayamuddeśanatimāṃstasya pañcākṣaro manuḥ| svayamevāparo’ṣṭārṇastādṛśaḥ samprakīrtitaḥ|| 64||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 65,
+          "devanagari": "बळाद्यं भृगुणा दृष्टं प्राणाग्नेः सूक्तमुच्यते। प्राणाद्यैः पञ्चभिस्तस्याप्यङ्गान्युक्तानि सूरिभिः॥ ६५॥",
+          "iast": "baḷādyaṃ bhṛguṇā dṛṣṭaṃ prāṇāgneḥ sūktamucyate| prāṇādyaiḥ pañcabhistasyāpyaṅgānyuktāni sūribhiḥ|| 65||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 66,
+          "devanagari": "उद्यद्रविप्रकरसन्निभमच्युताङ्के स्वासीनमस्य नुतिनित्यवचःप्रवृत्तिम्। ध्यायेद् गदाभयकरं सुकृताञ्जलिं तं प्राणं यथेष्टतनुमुन्नतकर्मशक्तिम्॥ ६६॥",
+          "iast": "udyadraviprakarasannibhamacyutāṅke svāsīnamasya nutinityavacaḥpravṛttim| dhyāyed gadābhayakaraṃ sukṛtāñjaliṃ taṃ prāṇaṃ yatheṣṭatanumunnatakarmaśaktim|| 66||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 67,
+          "devanagari": "प्राण्याद्याः पञ्च मन्त्राश्च तस्य देवस्य वाचकाः। उच्यते हरिरप्येतैः साक्षान्नारायणादिकः॥ ६७॥",
+          "iast": "prāṇyādyāḥ pañca mantrāśca tasya devasya vācakāḥ| ucyate harirapyetaiḥ sākṣānnārāyaṇādikaḥ|| 67||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 68,
+          "devanagari": "ब्रह्माण्या अपि भारत्या गौरीर्यस्त इति श्रुतौ। मन्त्रौ दीर्घतमोदृष्टौ सर्वाभीष्टप्रदायकौ॥ ६८॥",
+          "iast": "brahmāṇyā api bhāratyā gaurīryasta iti śrutau| mantrau dīrghatamodṛṣṭau sarvābhīṣṭapradāyakau|| 68||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 69,
+          "devanagari": "उद्यद्दिवाकरसमूहनिभां स्वभर्तुरङ्कस्थितामभयसद्वरबाहुयुग्माम्। मुद्रां च तत्त्वदृशये वरपुस्तकं च दोर्युग्मकेन दधतीं स्मरतात्मविद्याम्॥ ६९॥",
+          "iast": "udyaddivākarasamūhanibhāṃ svabharturaṅkasthitāmabhayasadvarabāhuyugmām| mudrāṃ ca tattvadṛśaye varapustakaṃ ca doryugmakena dadhatīṃ smaratātmavidyām|| 69||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 70,
+          "devanagari": "पादैर्व्यस्तैः समस्तैश्च तदङ्गानि विदो विदुः। स्वयमुद्देशनत्यन्तौ मन्त्रौ द्वावपरौ तयोः॥ ७०॥",
+          "iast": "pādairvyastaiḥ samastaiśca tadaṅgāni vido viduḥ| svayamuddeśanatyantau mantrau dvāvaparau tayoḥ|| 70||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 71,
+          "devanagari": "मन्त्रा एते हरेः प्रीतिदायकाः सर्वकामदाः। इष्टं दैवं हरिः साक्षाल्लक्ष्मीर्भाग्यस्य देवता। गुरुर्ब्रह्माऽथ वायुर्वा विद्या देव्यौ प्रकीर्तिते॥ ७१॥",
+          "iast": "mantrā ete hareḥ prītidāyakāḥ sarvakāmadāḥ| iṣṭaṃ daivaṃ hariḥ sākṣāllakṣmīrbhāgyasya devatā| gururbrahmā’tha vāyurvā vidyā devyau prakīrtite|| 71||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 72,
+          "devanagari": "तस्मादेते प्रिया विष्णोरन्तरङ्गतया सदा। ज्ञेयाश्चैव प्रपूज्याश्च विष्णोः प्रीतिमभीप्सता॥ ७२॥",
+          "iast": "tasmādete priyā viṣṇorantaraṅgatayā sadā| jñeyāścaiva prapūjyāśca viṣṇoḥ prītimabhīpsatā|| 72||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 73,
+          "devanagari": "उद्देशनतियुङ्मन्त्रः स्वयमेव शिवस्य तु। वर्णैरेतैस्तदङ्गानि वामदेवो मुनिः स्मृतः। पङ्क्तिः शब्दार्थविज्ञाने नहि च्छन्दसि संशयः॥ ७३॥",
+          "iast": "uddeśanatiyuṅmantraḥ svayameva śivasya tu| varṇairetaistadaṅgāni vāmadevo muniḥ smṛtaḥ| paṅktiḥ śabdārthavijñāne nahi cchandasi saṃśayaḥ|| 73||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 74,
+          "devanagari": "ध्येयः पञ्चमुखो रुद्रः स्फटिकामलकान्तिमान्। विद्युच्छुभ्रासितरजःश्यामान्यस्य मुखानि तु। जटावबद्धेन्दुकलः प्रियायुङ् नागभूषणः॥ ७४॥",
+          "iast": "dhyeyaḥ pañcamukho rudraḥ sphaṭikāmalakāntimān| vidyucchubhrāsitarajaḥśyāmānyasya mukhāni tu| jaṭāvabaddhendukalaḥ priyāyuṅ nāgabhūṣaṇaḥ|| 74||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 75,
+          "devanagari": "मन्त्रेष्वेतेषु सर्वेषु वाच्यस्तारेण केशवः। अन्तर्यामितया ध्येयः सर्वदेवेषु सर्वदा॥ ७५॥",
+          "iast": "mantreṣveteṣu sarveṣu vācyastāreṇa keśavaḥ| antaryāmitayā dhyeyaḥ sarvadeveṣu sarvadā|| 75||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 76,
+          "devanagari": "स एव वनितालिङ्गः पार्वत्या मनुरुच्यते। गौरी वराभयकरा ध्येया पीताम्बरा च सा॥ ७६॥",
+          "iast": "sa eva vanitāliṅgaḥ pārvatyā manurucyate| gaurī varābhayakarā dhyeyā pītāmbarā ca sā|| 76||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 77,
+          "devanagari": "स्वयमुद्देशनत्यन्तः पूर्वपूर्वः षडक्षरः। सनत्कुमारदृष्टोऽयं मनुः शेषस्य कामदः॥ ७७॥",
+          "iast": "svayamuddeśanatyantaḥ pūrvapūrvaḥ ṣaḍakṣaraḥ| sanatkumāradṛṣṭo’yaṃ manuḥ śeṣasya kāmadaḥ|| 77||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 78,
+          "devanagari": "दधानो हलसौनन्दौ श्वेतवर्णः कृताञ्जलिः। सहस्रमूर्धाऽद्वितीयकर्णभूषः प्रियायुतः। वनमाली नीलवासा ध्येयो विष्णोस्तु पृष्ठतः॥ ७८॥",
+          "iast": "dadhāno halasaunandau śvetavarṇaḥ kṛtāñjaliḥ| sahasramūrdhā’dvitīyakarṇabhūṣaḥ priyāyutaḥ| vanamālī nīlavāsā dhyeyo viṣṇostu pṛṣṭhataḥ|| 78||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 79,
+          "devanagari": "व्यत्यस्तपक्षितारौ च स्वाहान्तो गारुडो मनुः। काश्यपोऽस्य मुनिर्ध्येयः सुधापूर्णं हिरण्मयम्॥ ७९॥",
+          "iast": "vyatyastapakṣitārau ca svāhānto gāruḍo manuḥ| kāśyapo’sya munirdhyeyaḥ sudhāpūrṇaṃ hiraṇmayam|| 79||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 80,
+          "devanagari": "दधानः कुम्भमभयं पीतशुक्लारुणो हरिः। कृष्णश्चाजानुतो नाभेः कण्ठात् कादन्त एव च॥ ८०॥",
+          "iast": "dadhānaḥ kumbhamabhayaṃ pītaśuklāruṇo hariḥ| kṛṣṇaścājānuto nābheḥ kaṇṭhāt kādanta eva ca|| 80||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 81,
+          "devanagari": "प्रियायुक् पुरतो विष्णोः पक्षतुण्डसमन्वितः। जङ्गमस्थावरविषहृदयं सर्वकामदः॥ ८१॥",
+          "iast": "priyāyuk purato viṣṇoḥ pakṣatuṇḍasamanvitaḥ| jaṅgamasthāvaraviṣahṛdayaṃ sarvakāmadaḥ|| 81||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 82,
+          "devanagari": "मन्त्राश्च लोकपालानां नमोन्ताः सर्वकामदाः। नीलरक्तासितश्वेतरक्तशुक्लाश्च वर्णतः॥ ८२॥",
+          "iast": "mantrāśca lokapālānāṃ namontāḥ sarvakāmadāḥ| nīlaraktāsitaśvetaraktaśuklāśca varṇataḥ|| 82||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 83,
+          "devanagari": "सप्रियाः साभयाः वज्रशक्तिदण्डासिपाशिनः। गदाकुमुदशूलेष्टखड्गिनो भूषणोज्वलाः॥ ८३॥",
+          "iast": "sapriyāḥ sābhayāḥ vajraśaktidaṇḍāsipāśinaḥ| gadākumudaśūleṣṭakhaḍgino bhūṣaṇojvalāḥ|| 83||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 84,
+          "devanagari": "अग्निश्च स्वयमुद्देशी सनमः स्कन्दवाचकः। कौशिकोऽस्य मुनिर्वह्निवर्णः षण्मुख उज्वलः। धनुःशक्तिधरो ध्येयः कामदो भयनाशनः॥ ८४॥",
+          "iast": "agniśca svayamuddeśī sanamaḥ skandavācakaḥ| kauśiko’sya munirvahnivarṇaḥ ṣaṇmukha ujvalaḥ| dhanuḥśaktidharo dhyeyaḥ kāmado bhayanāśanaḥ|| 84||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 85,
+          "devanagari": "ह्रस्वः कृपालुः सेतश्च स्वयमन्यः स्वयं तथा। सतारोऽष्टाक्षरः सौरः क्रमव्युत्क्रमतः पदैः॥ ८५॥",
+          "iast": "hrasvaḥ kṛpāluḥ setaśca svayamanyaḥ svayaṃ tathā| satāro’ṣṭākṣaraḥ sauraḥ kramavyutkramataḥ padaiḥ|| 85||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 86,
+          "devanagari": "अङ्गानि पद्मयुगलधरो ध्येयोऽरुणो रविः। सर्वव्याधिहरः श्रीदो वृष्टिदोऽयं मनुः स्मृतः॥ ८६॥",
+          "iast": "aṅgāni padmayugaladharo dhyeyo’ruṇo raviḥ| sarvavyādhiharaḥ śrīdo vṛṣṭido’yaṃ manuḥ smṛtaḥ|| 86||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 87,
+          "devanagari": "मोनयदासाप्रप्रक्षि व्यत्यस्तो विघ्नराण्मनुः। रक्ताम्बरो रक्ततनू रक्तमाल्यानुलेपनः॥ ८७॥",
+          "iast": "monayadāsāpraprakṣi vyatyasto vighnarāṇmanuḥ| raktāmbaro raktatanū raktamālyānulepanaḥ|| 87||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 88,
+          "devanagari": "लम्बोदरो गजमुखः पाशदन्ताङ्कुशाभये। बिभ्रद् ध्येयो विघ्नहरः कामदस्त्वरया ह्ययम्॥ ८८॥",
+          "iast": "lambodaro gajamukhaḥ pāśadantāṅkuśābhaye| bibhrad dhyeyo vighnaharaḥ kāmadastvarayā hyayam|| 88||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 89,
+          "devanagari": "तत्रतत्र स्थितो विष्णुस्तत्तच्छक्तीः प्रबोधयन्। एक एव महाशक्तिः कुरुते सर्वमञ्जसा॥ ८९॥",
+          "iast": "tatratatra sthito viṣṇustattacchaktīḥ prabodhayan| eka eva mahāśaktiḥ kurute sarvamañjasā|| 89||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 90,
+          "devanagari": "स्वयमुद्देशवान् पूर्ववर्णपूर्वो नमोयुतः। धान्वन्तरो महामन्त्रः संसृतिव्याधिनाशनः। अत्रोक्तसर्वमन्त्राणां नायकोपलसन्निभः।॥ ९०॥",
+          "iast": "svayamuddeśavān pūrvavarṇapūrvo namoyutaḥ| dhānvantaro mahāmantraḥ saṃsṛtivyādhināśanaḥ| atroktasarvamantrāṇāṃ nāyakopalasannibhaḥ||| 90||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 91,
+          "devanagari": "चन्द्रौघकान्तिममितोरुकरैर्जगन्ति संजीवयन्तममितात्मसुखं परेशम्। ज्ञानं सुधाकलशमेव च सन्दधानं शीतांशुमण्डलगतं स्मरतात्मसंस्थम्॥ ९१॥",
+          "iast": "candraughakāntimamitorukarairjaganti saṃjīvayantamamitātmasukhaṃ pareśam| jñānaṃ sudhākalaśameva ca sandadhānaṃ śītāṃśumaṇḍalagataṃ smaratātmasaṃstham|| 91||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 92,
+          "devanagari": "मूर्ध्नि स्थितादमुत एव सुधां स्रवन्तीं भ्रूमध्यगाच्च तत एव च तालुसंस्थात्। हार्दाच्च नाभिसदनादधरस्थिताच्च ध्यात्वाऽभिपूरिततनुर्दुरितं निहन्यात्॥ ९२॥",
+          "iast": "mūrdhni sthitādamuta eva sudhāṃ sravantīṃ bhrūmadhyagācca tata eva ca tālusaṃsthāt| hārdācca nābhisadanādadharasthitācca dhyātvā’bhipūritatanurduritaṃ nihanyāt|| 92||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 93,
+          "devanagari": "अज्ञानदुःखभयरोगमहाविषाणि योगोऽयमाशु विनिहन्ति सुखं च दद्यात्। उन्मादविभ्रमहरः परतश्च सान्द्रमानन्दमेव पदमापयति स्म नित्यम्॥ ९३॥",
+          "iast": "ajñānaduḥkhabhayarogamahāviṣāṇi yogo’yamāśu vinihanti sukhaṃ ca dadyāt| unmādavibhramaharaḥ parataśca sāndramānandameva padamāpayati sma nityam|| 93||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 94,
+          "devanagari": "ध्यात्वैव हस्ततलगं स्वमृतं स्रवन्तं देवं स यस्य शिरसि स्वकरं निधाय। आवर्तयेन्मनुमिमं स च वीतरोगः पापादपैति मनसा यदि भक्तिनम्रः॥ ९४॥",
+          "iast": "dhyātvaiva hastatalagaṃ svamṛtaṃ sravantaṃ devaṃ sa yasya śirasi svakaraṃ nidhāya| āvartayenmanumimaṃ sa ca vītarogaḥ pāpādapaiti manasā yadi bhaktinamraḥ|| 94||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 95,
+          "devanagari": "शतं सहस्रमयुतं लक्षं वाऽऽरोगसङ्क्षयात्। इममेव जपेन्मन्त्रं साधूनां दुःखशान्तये॥ ९५॥",
+          "iast": "śataṃ sahasramayutaṃ lakṣaṃ vā’’rogasaṅkṣayāt| imameva japenmantraṃ sādhūnāṃ duḥkhaśāntaye|| 95||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 96,
+          "devanagari": "ज्वरदाहादिशान्त्यर्थं तर्पयेन्मनुनाऽमुना। ध्यात्वा हरिं जले सप्तरात्राज्जूतिर्विनश्यति॥ ९६॥",
+          "iast": "jvaradāhādiśāntyarthaṃ tarpayenmanunā’munā| dhyātvā hariṃ jale saptarātrājjūtirvinaśyati|| 96||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 97,
+          "devanagari": "अयुतामृतसमिद्धोमाद् गोघृतक्षीरसंयुतात्। सर्वरोगा विनश्यन्ति विमुखो न हरेर्यदि॥ ९७॥",
+          "iast": "ayutāmṛtasamiddhomād goghṛtakṣīrasaṃyutāt| sarvarogā vinaśyanti vimukho na hareryadi|| 97||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 98,
+          "devanagari": "भूताभिचारशान्त्यर्थमपामार्गाहुतिक्रिया। द्विगुणाऽमृतया पश्चात् केवलेन घृतेन वा॥ ९८॥",
+          "iast": "bhūtābhicāraśāntyarthamapāmārgāhutikriyā| dviguṇā’mṛtayā paścāt kevalena ghṛtena vā|| 98||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 99,
+          "devanagari": "आयुर्विवृद्धये नित्यं जन्मनक्षत्र एव वा। चतुश्चतुर्भिर्दूर्वाभिः क्षीराज्याक्ताभिरिष्यते॥ ९९॥",
+          "iast": "āyurvivṛddhaye nityaṃ janmanakṣatra eva vā| catuścaturbhirdūrvābhiḥ kṣīrājyāktābhiriṣyate|| 99||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 100,
+          "devanagari": "सर्वक्रिया हरौ भक्ते हरिभक्तैः स्वनुष्ठिताः। गुरुभक्तैः सदाचारैः फलन्त्यद्धा नचान्यथा॥ १००॥",
+          "iast": "sarvakriyā harau bhakte haribhaktaiḥ svanuṣṭhitāḥ| gurubhaktaiḥ sadācāraiḥ phalantyaddhā nacānyathā|| 100||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 101,
+          "devanagari": "ब्रह्मान्ता गुरवश्चैव सम्प्रदायप्रवर्तकाः। तत्तद्गुणानुसारेण पूज्या ध्येयाश्च कृत्स्नशः॥ १०१॥",
+          "iast": "brahmāntā guravaścaiva sampradāyapravartakāḥ| tattadguṇānusāreṇa pūjyā dhyeyāśca kṛtsnaśaḥ|| 101||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 102,
+          "devanagari": "सर्वेभ्योऽप्यधिका भक्तिर्विष्णौ स्यादतिनिश्चला। लक्ष्मीब्रह्मादिषु ततः क्रमेण स्यात् सुभाविता। एवं विद्याः फलिष्यन्ति नान्यथा तु कथञ्चन॥ १०२॥",
+          "iast": "sarvebhyo’pyadhikā bhaktirviṣṇau syādatiniścalā| lakṣmībrahmādiṣu tataḥ krameṇa syāt subhāvitā| evaṃ vidyāḥ phaliṣyanti nānyathā tu kathañcana|| 102||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 103,
+          "devanagari": "शुभान् ध्यायन्ति ये कामान् गुरुदेवप्रसादजान्। इतरानात्मपापोत्थांस्तेषां विद्या फलिष्यति॥ १०३॥",
+          "iast": "śubhān dhyāyanti ye kāmān gurudevaprasādajān| itarānātmapāpotthāṃsteṣāṃ vidyā phaliṣyati|| 103||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 104,
+          "devanagari": "मुक्तावपि च संसारे नात्मनो विष्णुतां क्वचित्। ब्रह्मरुद्रादिभावं वा साम्यं वाऽऽधिक्यमेव वा॥ १०४॥",
+          "iast": "muktāvapi ca saṃsāre nātmano viṣṇutāṃ kvacit| brahmarudrādibhāvaṃ vā sāmyaṃ vā’’dhikyameva vā|| 104||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 105,
+          "devanagari": "अतद्वशत्वमथवा यः स्मरेत् स तु सिद्धिभाक्। नान्यथा सिद्धिमाप्नोति कल्पकोटिशतैरपि॥ १०५॥",
+          "iast": "atadvaśatvamathavā yaḥ smaret sa tu siddhibhāk| nānyathā siddhimāpnoti kalpakoṭiśatairapi|| 105||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 106,
+          "devanagari": "स्मृत्वा गुरुं पूर्वगुरुमादिमूलगुरूंस्तथा। देवतां वासुदेवं च विद्याभ्यासी तु सिद्धिभाक्॥ १०६॥",
+          "iast": "smṛtvā guruṃ pūrvagurumādimūlagurūṃstathā| devatāṃ vāsudevaṃ ca vidyābhyāsī tu siddhibhāk|| 106||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 107,
+          "devanagari": "अवज्ञाता गुरूणां च देवतानां न सिद्ध्यति। प्रयाति च तमो घोरं मन्त्रावज्ञाकृदेव च॥ १०७॥",
+          "iast": "avajñātā gurūṇāṃ ca devatānāṃ na siddhyati| prayāti ca tamo ghoraṃ mantrāvajñākṛdeva ca|| 107||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 108,
+          "devanagari": "यस्तारतम्यवेत्ता स्याद् गुरूणां देवतास्वपि। भक्तिमान् गुरुदेवेषु तद्भक्तेषु च सिद्ध्यति॥ १०८॥",
+          "iast": "yastāratamyavettā syād gurūṇāṃ devatāsvapi| bhaktimān gurudeveṣu tadbhakteṣu ca siddhyati|| 108||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 109,
+          "devanagari": "गुरुदेवप्रतीपानां विमुखस्तत्प्रिये रतः। अकामक्रोधलोभश्च नचिरात् सिद्धिमाप्नुयात्॥ १०९॥",
+          "iast": "gurudevapratīpānāṃ vimukhastatpriye rataḥ| akāmakrodhalobhaśca nacirāt siddhimāpnuyāt|| 109||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 110,
+          "devanagari": "सकामेभ्योऽमितगुणा याऽकामैस्तु कृता क्रिया। तस्मादकाम एवालं भजेद् विष्णुं सनातनम्॥ ११०॥",
+          "iast": "sakāmebhyo’mitaguṇā yā’kāmaistu kṛtā kriyā| tasmādakāma evālaṃ bhajed viṣṇuṃ sanātanam|| 110||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 111,
+          "devanagari": "अयं मे हस्त इति च मन्त्रः पूर्वोक्तवत् स्मृतः। अत्रोक्तास्तु क्रियाः सर्वमन्त्रेष्वप्युपलक्षणम्॥ १११॥",
+          "iast": "ayaṃ me hasta iti ca mantraḥ pūrvoktavat smṛtaḥ| atroktāstu kriyāḥ sarvamantreṣvapyupalakṣaṇam|| 111||",
+          "topic": "द्वासप्ततिमन्त्राः"
+        },
+        {
+          "number": 112,
+          "devanagari": "विजयस्तम्भनादीनि नारसिंहैर्विशेषतः। जामदग्न्यैश्च कार्याणि राघवैर्यादवैरपि। वाराहैः स्तम्भनं क्षिप्रं श्रीकराः कथिताः पुरा॥ ११२॥",
+          "iast": "vijayastambhanādīni nārasiṃhairviśeṣataḥ| jāmadagnyaiśca kāryāṇi rāghavairyādavairapi| vārāhaiḥ stambhanaṃ kṣipraṃ śrīkarāḥ kathitāḥ purā|| 112||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 113,
+          "devanagari": "बहुबाहुं महाकायमुद्युक्तं चोद्यतायुधम्। स्मरन् विजयमाप्नोति स्तम्भनादींश्च कारयेत्॥ ११३॥",
+          "iast": "bahubāhuṃ mahākāyamudyuktaṃ codyatāyudham| smaran vijayamāpnoti stambhanādīṃśca kārayet|| 113||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 114,
+          "devanagari": "वसुपूर्णकरं रत्नपर्वतस्थं विभावयन्। वसुसिद्धिमवाप्नोति सेव्यमानमजादिभिः। श्रिया विभूतिभिर्युक्तं भावयन् भूतिमाप्नुयात्॥ ११४॥",
+          "iast": "vasupūrṇakaraṃ ratnaparvatasthaṃ vibhāvayan| vasusiddhimavāpnoti sevyamānamajādibhiḥ| śriyā vibhūtibhiryuktaṃ bhāvayan bhūtimāpnuyāt|| 114||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 115,
+          "devanagari": "यद्यन्मनोहरं तस्य तत्तदाप्नोत्यसंशयम्। तथातथा हरिं ध्यायन् क्रियास्तास्ताश्च साधयन्॥ ११५॥",
+          "iast": "yadyanmanoharaṃ tasya tattadāpnotyasaṃśayam| tathātathā hariṃ dhyāyan kriyāstāstāśca sādhayan|| 115||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 116,
+          "devanagari": "श्रिये पद्मानि जुहुयात् सम्प्रीत्या उत्पलानि च। शरान् जयाय जुहुयादभिमन्त्र्य प्रयोजयेत्॥ ११६॥",
+          "iast": "śriye padmāni juhuyāt samprītyā utpalāni ca| śarān jayāya juhuyādabhimantrya prayojayet|| 116||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 117,
+          "devanagari": "विद्यायै मन्त्रितं वारि वचां वा तुलसीमपि। ब्राह्मीं घृष्टसुवर्णं वा शतावृत्त्या तु नित्यशः॥ ११७॥",
+          "iast": "vidyāyai mantritaṃ vāri vacāṃ vā tulasīmapi| brāhmīṃ ghṛṣṭasuvarṇaṃ vā śatāvṛttyā tu nityaśaḥ|| 117||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 118,
+          "devanagari": "अकुर्वंश्च क्रिया भक्त्या निरपेक्षो भजन् हरिं। सर्वमेतदवाप्नोति विशेषेण न संशयः॥ ११८॥",
+          "iast": "akurvaṃśca kriyā bhaktyā nirapekṣo bhajan hariṃ| sarvametadavāpnoti viśeṣeṇa na saṃśayaḥ|| 118||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 119,
+          "devanagari": "सृष्टिस्थितिलयन्यासाः प्रातिलोम्यानुलोम्यतः। स्थित्यन्ता एव वर्णानां श्रेष्ठा एवं चतुर्दश। संहृत्यन्ता मोक्षिणां तु एकविंशतिरेव वा॥ ११९॥",
+          "iast": "sṛṣṭisthitilayanyāsāḥ prātilomyānulomyataḥ| sthityantā eva varṇānāṃ śreṣṭhā evaṃ caturdaśa| saṃhṛtyantā mokṣiṇāṃ tu ekaviṃśatireva vā|| 119||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 120,
+          "devanagari": "पादहृत्केषु नाभ्यास्ययुतं च सललाटकम्। सनासिकादृग्जान्वोश्च सश्रोत्रं सोरुकं तथा॥ १२०॥",
+          "iast": "pādahṛtkeṣu nābhyāsyayutaṃ ca salalāṭakam| sanāsikādṛgjānvośca saśrotraṃ sorukaṃ tathā|| 120||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 121,
+          "devanagari": "सोरस्कं च सकण्ठं च सभुजद्वयमेव च। सगण्डयुग्मं सालीकं सतुण्डक्रोडकं तथा॥ १२१॥",
+          "iast": "soraskaṃ ca sakaṇṭhaṃ ca sabhujadvayameva ca| sagaṇḍayugmaṃ sālīkaṃ satuṇḍakroḍakaṃ tathā|| 121||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 122,
+          "devanagari": "समूलं च सगुह्यं च सपार्श्वद्वयमेव च। सदोर्द्वयं व्यापकं च गलपार्श्वद्वयेन च॥ १२२॥",
+          "iast": "samūlaṃ ca saguhyaṃ ca sapārśvadvayameva ca| sadordvayaṃ vyāpakaṃ ca galapārśvadvayena ca|| 122||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 123,
+          "devanagari": "ककुदा स्तनद्वयेनापि पृष्ठमूलेन सर्वशः। न्यासो यथाक्रमं प्रोक्तो मन्त्रेष्वेतेषु सर्वशः । प्रतिमायामात्मनि च न्यासोऽयं सन्निधानकृत्॥ १२३॥",
+          "iast": "kakudā stanadvayenāpi pṛṣṭhamūlena sarvaśaḥ| nyāso yathākramaṃ prokto mantreṣveteṣu sarvaśaḥ | pratimāyāmātmani ca nyāso’yaṃ sannidhānakṛt|| 123||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 124,
+          "devanagari": "बीजान्तःसाध्यमध्यं च विभक्तदलमन्त्रयुक्। वर्णानुप्रतिलोमेन वृत्तं भूपुरसंयुतम्। बीजसन्दृब्धकोणं च यन्त्रं रक्षादिसाधकम्॥ १२४॥",
+          "iast": "bījāntaḥsādhyamadhyaṃ ca vibhaktadalamantrayuk| varṇānupratilomena vṛttaṃ bhūpurasaṃyutam| bījasandṛbdhakoṇaṃ ca yantraṃ rakṣādisādhakam|| 124||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 125,
+          "devanagari": "समं तत् सर्वमन्त्रेषु जप्तं धार्यं तु वा भुवि। विलिख्य मण्डले वा तत् पूजयेद्धरिमञ्जसा॥ १२५॥",
+          "iast": "samaṃ tat sarvamantreṣu japtaṃ dhāryaṃ tu vā bhuvi| vilikhya maṇḍale vā tat pūjayeddharimañjasā|| 125||",
+          "topic": "सर्वमन्त्रसाधारणविषयाः"
+        },
+        {
+          "number": 126,
+          "devanagari": "प्रतिमोक्तलक्षणैर्यावद्युक्त आचार्य उत्तमः। सर्ववित् तपसा युक्त आज्ञाशक्तियुतो हरेः॥ १२६॥",
+          "iast": "pratimoktalakṣaṇairyāvadyukta ācārya uttamaḥ| sarvavit tapasā yukta ājñāśaktiyuto hareḥ|| 126||",
+          "topic": "विद्यागुरुः"
+        },
+        {
+          "number": 127,
+          "devanagari": "यावद्भक्तो यथालब्धैर्गुणैर्युक्तो हि वैष्णवः। गुरुः सत्सम्प्रदायज्ञस्तारतम्येन सिद्धिदः॥ १२७॥",
+          "iast": "yāvadbhakto yathālabdhairguṇairyukto hi vaiṣṇavaḥ| guruḥ satsampradāyajñastāratamyena siddhidaḥ|| 127||",
+          "topic": "विद्यागुरुः"
+        },
+        {
+          "number": 128,
+          "devanagari": "उत्तमादुत्तमा सिद्धिर्धर्ममोक्षादिषु स्फुटा। तस्मादुत्तम आचार्ये लब्धे नातोऽवरं व्रजेत्॥ १२८॥",
+          "iast": "uttamāduttamā siddhirdharmamokṣādiṣu sphuṭā| tasmāduttama ācārye labdhe nāto’varaṃ vrajet|| 128||",
+          "topic": "विद्यागुरुः"
+        },
+        {
+          "number": 129,
+          "devanagari": "एकस्य शिष्यतां प्राप्य तदाज्ञां न विना समम्। अवरं वा व्रजेदुच्चगुणश्चेन्नैव दुष्यति॥ १२९॥",
+          "iast": "ekasya śiṣyatāṃ prāpya tadājñāṃ na vinā samam| avaraṃ vā vrajeduccaguṇaścennaiva duṣyati|| 129||",
+          "topic": "विद्यागुरुः"
+        },
+        {
+          "number": 130,
+          "devanagari": "विशेषतो गुणश्च स्याद् देवेष्वप्येवमेव हि। तस्मादुत्तममाचार्यं देवेशं चाश्रयेद्धरिं॥ १३०॥",
+          "iast": "viśeṣato guṇaśca syād deveṣvapyevameva hi| tasmāduttamamācāryaṃ deveśaṃ cāśrayeddhariṃ|| 130||",
+          "topic": "विद्यागुरुः"
+        },
+        {
+          "number": 131,
+          "devanagari": "अपरोक्षदृशेरेव यस्मान्मोक्षो नचान्यथा। अपरोक्षदृशिश्चापि श्रवणान्मननादनु। सम्यङ्निश्चिततत्त्वस्य निदिध्यासनया भवेत्॥ १३१॥",
+          "iast": "aparokṣadṛśereva yasmānmokṣo nacānyathā| aparokṣadṛśiścāpi śravaṇānmananādanu| samyaṅniścitatattvasya nididhyāsanayā bhavet|| 131||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 132,
+          "devanagari": "द्विविधा सा च सम्प्रोक्ता विष्णुशास्त्रावमर्शनम्। एकं ध्यानं हरेरन्यच्चत्वार्यङ्गानि तत्र च। यमाश्च नियमाश्चासा प्राणायाम इतीरिताः॥ १३२॥",
+          "iast": "dvividhā sā ca samproktā viṣṇuśāstrāvamarśanam| ekaṃ dhyānaṃ hareranyaccatvāryaṅgāni tatra ca| yamāśca niyamāścāsā prāṇāyāma itīritāḥ|| 132||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 133,
+          "devanagari": "अहिंसा सत्यमस्तेयं ब्रह्मचर्यापरिग्रहौ। यमाः शौचं तपस्तुष्टिः स्वाध्यायो हरिपूजनम्। नियमा वीरपद्मे च स्वस्तिकाद्यानि चासनम्॥ १३३॥",
+          "iast": "ahiṃsā satyamasteyaṃ brahmacaryāparigrahau| yamāḥ śaucaṃ tapastuṣṭiḥ svādhyāyo haripūjanam| niyamā vīrapadme ca svastikādyāni cāsanam|| 133||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 134,
+          "devanagari": "रेचकः पूरकश्चैव कुम्भकश्च त्रिधा स्मृतः। प्राणायामः स्मृतिं विष्णोर्विना नियम उच्यते॥ १३४॥",
+          "iast": "recakaḥ pūrakaścaiva kumbhakaśca tridhā smṛtaḥ| prāṇāyāmaḥ smṛtiṃ viṣṇorvinā niyama ucyate|| 134||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 135,
+          "devanagari": "अधीतिः स्मृतियुक्ता तु निदिध्यासनमेव हि। प्राणायामे च विष्णोर्यत् स्मरणं ध्यानमेव तत्॥ १३५॥",
+          "iast": "adhītiḥ smṛtiyuktā tu nididhyāsanameva hi| prāṇāyāme ca viṣṇoryat smaraṇaṃ dhyānameva tat|| 135||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 136,
+          "devanagari": "आसा शौचं प्राणयामो निष्परिग्रहपूर्वकाः। तपआद्याः क्रमात् सर्व उत्तरोत्तरतोऽधिकाः॥ १३६॥",
+          "iast": "āsā śaucaṃ prāṇayāmo niṣparigrahapūrvakāḥ| tapaādyāḥ kramāt sarva uttarottarato’dhikāḥ|| 136||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 137,
+          "devanagari": "सर्वस्माच्छ्रवणाद्यास्तु मुख्या मुक्तिप्रसाधने। अज्ञस्य श्रवणं श्रेष्ठमयुक्तेर्मननं तथा॥ १३७॥",
+          "iast": "sarvasmācchravaṇādyāstu mukhyā muktiprasādhane| ajñasya śravaṇaṃ śreṣṭhamayuktermananaṃ tathā|| 137||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 138,
+          "devanagari": "ध्यानं निश्चिततत्त्वस्य तस्माच्छास्त्रावमर्शनम्। वरं दशगुणं तस्माद् व्याख्यैकस्य शतोत्तरा। अपरोक्षदृशाऽप्येषा कर्तव्या विष्णुतुष्टिदा॥ १३८॥",
+          "iast": "dhyānaṃ niścitatattvasya tasmācchāstrāvamarśanam| varaṃ daśaguṇaṃ tasmād vyākhyaikasya śatottarā| aparokṣadṛśā’pyeṣā kartavyā viṣṇutuṣṭidā|| 138||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 139,
+          "devanagari": "“य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति। भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः॥ १३९॥",
+          "iast": "“ya imaṃ paramaṃ guhyaṃ madbhakteṣvabhidhāsyati| bhaktiṃ mayi parāṃ kṛtvā māmevaiṣyatyasaṃśayaḥ|| 139||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 140,
+          "devanagari": "नच तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः। भविता न च तस्मादन्यः प्रियतरो भुवि॥ १४०॥",
+          "iast": "naca tasmānmanuṣyeṣu kaścinme priyakṛttamaḥ| bhavitā na ca tasmādanyaḥ priyataro bhuvi|| 140||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 141,
+          "devanagari": "” शौचासने त्वङ्गमात्रं न पृथग् धर्मकारणम्। प्राणायामादयस्तुष्टिपर्यन्ता द्विगुणाधिकाः॥ १४१॥",
+          "iast": "” śaucāsane tvaṅgamātraṃ na pṛthag dharmakāraṇam| prāṇāyāmādayastuṣṭiparyantā dviguṇādhikāḥ|| 141||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 142,
+          "devanagari": "स्वाध्यायोऽतः कोटिगुणस्ततोऽनन्तगुणा हरेः। पूजा तत्त्रिगुणं ध्यानमिति धर्मक्रमः स्मृतः॥ १४२॥",
+          "iast": "svādhyāyo’taḥ koṭiguṇastato’nantaguṇā hareḥ| pūjā tattriguṇaṃ dhyānamiti dharmakramaḥ smṛtaḥ|| 142||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 143,
+          "devanagari": "ऊर्वोरधः पदोरूर्ध्वं विभागेनेति च त्रिधा। आसनत्रयमुद्दिष्टं मन्त्रस्मरणपूर्वकम्॥ १४३॥",
+          "iast": "ūrvoradhaḥ padorūrdhvaṃ vibhāgeneti ca tridhā| āsanatrayamuddiṣṭaṃ mantrasmaraṇapūrvakam|| 143||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 144,
+          "devanagari": "द्विगुणोत्तरं रेचकादि षोडशादिक्रमेण तु। मात्राणां ह्रस्ववर्णस्य कालो मात्रेति शब्द्यते॥ १४४॥",
+          "iast": "dviguṇottaraṃ recakādi ṣoḍaśādikrameṇa tu| mātrāṇāṃ hrasvavarṇasya kālo mātreti śabdyate|| 144||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 145,
+          "devanagari": "क्रमेणैवाभ्यसेन्मात्रावृद्धिमेकाग्रधीः पुनः। रेचयित्वा दक्षिणतः पूरयित्वा तु वामतः। कुम्भकं च सुषुम्नायां विष्णुं वायुं च संस्मरेत्॥ १४५॥",
+          "iast": "krameṇaivābhyasenmātrāvṛddhimekāgradhīḥ punaḥ| recayitvā dakṣiṇataḥ pūrayitvā tu vāmataḥ| kumbhakaṃ ca suṣumnāyāṃ viṣṇuṃ vāyuṃ ca saṃsmaret|| 145||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 146,
+          "devanagari": "मूलाधारं समारभ्य त्वामूर्धानमृजुस्थिता । मध्ये सुषुम्ना विज्ञेया वज्रिकाऽऽर्या प्रकाशिनी। वैद्युता ब्रह्मनाडीति सैव पञ्चप्रभेदिनी॥ १४६॥",
+          "iast": "mūlādhāraṃ samārabhya tvāmūrdhānamṛjusthitā | madhye suṣumnā vijñeyā vajrikā’’ryā prakāśinī| vaidyutā brahmanāḍīti saiva pañcaprabhedinī|| 146||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 147,
+          "devanagari": "पृष्ठवामाग्रदक्षान्तर्भेदास्ते च क्रमेण तु। हरिन्नीलः सितः पिङ्गो लोहितश्चात्र केशवः। प्रद्युम्नादिस्वरूपेण ध्येयः सिद्धिमभीप्सता॥ १४७॥",
+          "iast": "pṛṣṭhavāmāgradakṣāntarbhedāste ca krameṇa tu| harinnīlaḥ sitaḥ piṅgo lohitaścātra keśavaḥ| pradyumnādisvarūpeṇa dhyeyaḥ siddhimabhīpsatā|| 147||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 148,
+          "devanagari": "मूले च नाभौ हृदयेन्द्रयोनिभ्रूमध्यमूर्धद्विषडन्तकेषु। चतुःषडष्टद्विचतुर्द्विषट्कदलेषु पद्मेषु सितारुणेषु। पञ्चात्मकोऽसौ भगवान् सदैव ध्येयो हृदन्तान्यरुणानि तानि॥ १४८॥",
+          "iast": "mūle ca nābhau hṛdayendrayonibhrūmadhyamūrdhadviṣaḍantakeṣu| catuḥṣaḍaṣṭadvicaturdviṣaṭkadaleṣu padmeṣu sitāruṇeṣu| pañcātmako’sau bhagavān sadaiva dhyeyo hṛdantānyaruṇāni tāni|| 148||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 149,
+          "devanagari": "त्रिकोणवह्नौ च षडस्रवायौ द्विस्तावदस्ररविवृत्तशशित्रिवह्नौ। वृत्ते विधावपि विचिन्त्यमिदं दशार्धरूपं सितं तदखिलं हृदयात् परस्थम्॥ १४९॥",
+          "iast": "trikoṇavahnau ca ṣaḍasravāyau dvistāvadasraravivṛttaśaśitrivahnau| vṛtte vidhāvapi vicintyamidaṃ daśārdharūpaṃ sitaṃ tadakhilaṃ hṛdayāt parastham|| 149||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 150,
+          "devanagari": "इडा च पिङ्गला चैव वज्रिका धारिणी तथा। सुषुम्नायाश्चतुर्दिक्षु वज्रिकाद्यासु तत्र च। चतुर्मूर्तिः स भगवान् हृदये संव्यवस्थितः॥ १५०॥",
+          "iast": "iḍā ca piṅgalā caiva vajrikā dhāriṇī tathā| suṣumnāyāścaturdikṣu vajrikādyāsu tatra ca| caturmūrtiḥ sa bhagavān hṛdaye saṃvyavasthitaḥ|| 150||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 151,
+          "devanagari": "द्वासप्ततिसहस्राणि नाड्योऽन्यास्तु प्रधानतः। बृहतीसहस्रस्पर्शानामृचो वाच्योऽत्र केशवः॥ १५१॥",
+          "iast": "dvāsaptatisahasrāṇi nāḍyo’nyāstu pradhānataḥ| bṛhatīsahasrasparśānāmṛco vācyo’tra keśavaḥ|| 151||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 152,
+          "devanagari": "रूपाणां लक्षणं तेषां रहस्यत्वान्न कथ्यते। विष्णुना ब्रह्मणे प्रोक्तं ग्रन्थसङ्कोचतस्तथा॥ १५२॥",
+          "iast": "rūpāṇāṃ lakṣaṇaṃ teṣāṃ rahasyatvānna kathyate| viṣṇunā brahmaṇe proktaṃ granthasaṅkocatastathā|| 152||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 153,
+          "devanagari": "खण्डस्मृतिर्धारणा स्यादखण्डा ध्यानमुच्यते। अप्रयत्नात् समाधिश्च दर्शनं चिरया तया। अथवा सततं शास्त्रविमर्शेन भविष्यति॥ १५३॥",
+          "iast": "khaṇḍasmṛtirdhāraṇā syādakhaṇḍā dhyānamucyate| aprayatnāt samādhiśca darśanaṃ cirayā tayā| athavā satataṃ śāstravimarśena bhaviṣyati|| 153||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 154,
+          "devanagari": "परमस्नेहसंयुक्तयथार्थज्ञानतो भवेत्। सा भक्तिरिति विज्ञेया साधनं भोगमोक्षयोः॥ १५४॥",
+          "iast": "paramasnehasaṃyuktayathārthajñānato bhavet| sā bhaktiriti vijñeyā sādhanaṃ bhogamokṣayoḥ|| 154||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 155,
+          "devanagari": "मुख्यमेषैव नान्यत् स्यात् सर्वं व्यर्थं तया विना। सैकाऽप्यभीष्टफलदा मोक्षो दर्शनयुक्तया॥ १५५॥",
+          "iast": "mukhyameṣaiva nānyat syāt sarvaṃ vyarthaṃ tayā vinā| saikā’pyabhīṣṭaphaladā mokṣo darśanayuktayā|| 155||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 156,
+          "devanagari": "दर्शनं च तया हीनं व्यर्थमन्यत् किमुच्यते। योग्यं तु दर्शनं नैव तया हीनं भविष्यति॥ १५६॥",
+          "iast": "darśanaṃ ca tayā hīnaṃ vyarthamanyat kimucyate| yogyaṃ tu darśanaṃ naiva tayā hīnaṃ bhaviṣyati|| 156||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 157,
+          "devanagari": "आनन्दचित्सदितिपूर्वगुणैः समस्तैर्मर्त्यादिभिर्विधिपरैर्भगवान् क्रमेण। ध्यातोऽधिकैरधिगुणोऽधिकमेव सौख्यं मुक्तौ ददाति सततं परमस्वरूपः॥ १५७॥",
+          "iast": "ānandacitsaditipūrvaguṇaiḥ samastairmartyādibhirvidhiparairbhagavān krameṇa| dhyāto’dhikairadhiguṇo’dhikameva saukhyaṃ muktau dadāti satataṃ paramasvarūpaḥ|| 157||",
+          "topic": "योगोपासनादि"
+        },
+        {
+          "number": 158,
+          "devanagari": "निर्दोषाखिलसम्पूर्णगुणेन हरिणा स्वयम्। ब्रह्मणे कथितात् तन्त्रसारादुद्धृत्य सादरम्। आनन्दतीर्थमुनिना कृतो ग्रन्थोऽयमञ्जसा॥ १५८॥",
+          "iast": "nirdoṣākhilasampūrṇaguṇena hariṇā svayam| brahmaṇe kathitāt tantrasārāduddhṛtya sādaram| ānandatīrthamuninā kṛto grantho’yamañjasā|| 158||",
+          "topic": "उपसंहारः"
+        },
+        {
+          "number": 159,
+          "devanagari": "ग्रन्थोऽयं पाठमात्रेण सकलाभीष्टसिद्धिदः। किमु ज्ञानादनुष्ठानादुभयस्मात् पुनः किमु॥ १५९॥",
+          "iast": "grantho’yaṃ pāṭhamātreṇa sakalābhīṣṭasiddhidaḥ| kimu jñānādanuṣṭhānādubhayasmāt punaḥ kimu|| 159||",
+          "topic": "उपसंहारः"
+        },
+        {
+          "number": 160,
+          "devanagari": "यस्य त्रीण्युदितानि वेदवचने रूपाणि दिव्यान्यलं बट् तद्दर्शतमित्थमेव निहितं देवस्य भर्गो महत्। वायो रामवचोनयं प्रथमकं पृक्षो द्वितीयं वपु- र्मध्वो यत् तु तृतीयमेतदमुना ग्रन्थः कृतः केशवे॥ १६०॥",
+          "iast": "yasya trīṇyuditāni vedavacane rūpāṇi divyānyalaṃ baṭ taddarśatamitthameva nihitaṃ devasya bhargo mahat| vāyo rāmavaconayaṃ prathamakaṃ pṛkṣo dvitīyaṃ vapu- rmadhvo yat tu tṛtīyametadamunā granthaḥ kṛtaḥ keśave|| 160||",
+          "topic": "उपसंहारः"
+        },
+        {
+          "number": 161,
+          "devanagari": "अशेषदोषोज्झितपूर्णसद्गुणं सदा विशेषापगतोरुरूपम् । नमामि नारायणमप्रतीपं सदा प्रियेभ्यः प्रियमादरेण॥ १६१॥",
+          "iast": "aśeṣadoṣojjhitapūrṇasadguṇaṃ sadā viśeṣāpagatorurūpam | namāmi nārāyaṇamapratīpaṃ sadā priyebhyaḥ priyamādareṇa|| 161||",
+          "topic": "उपसंहारः"
+        }
+      ]
+    }
+  ]
+}
