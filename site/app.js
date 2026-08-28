@@ -141,16 +141,17 @@
   var seeking = false;
 
   function practiceActive() {
-    return guide && guide.key === 'harivayustuti' && practiceEnabled;
+    return guide && guide.practiceMode === 'repeat3' && practiceEnabled;
   }
   function syncPractice() {
-    var available = guide && guide.key === 'harivayustuti';
+    var available = guide && guide.practiceMode === 'repeat3';
     practiceBtn.hidden = !available;
+    if (available) practiceBtn.textContent = guide.practiceLabel || '↻ 3× Practice';
     practiceBtn.classList.toggle('is-on', available && practiceEnabled);
     practiceBtn.setAttribute('aria-pressed', available && practiceEnabled ? 'true' : 'false');
     practiceBtn.title = practiceEnabled
-      ? 'Practice mode on: each shloka plays three times'
-      : 'Play each shloka three times before moving on';
+      ? 'Practice mode on: each verse plays three times'
+      : 'Play each verse three times before moving on';
   }
   function setPlayerTitle() {
     if (current < 0 || !secs[current]) return;
@@ -255,14 +256,15 @@
         structuredTranscriptHtml(structuredBlocks, guide) +
         (mantra
           ? (structuredBlocks.length
-              ? '<details class="caption-ref lossless-roman"><summary>' +
-                  esc(guide.mantraLabel || 'Complete untouched Roman transcript') +
-                '</summary><div class="mantra">' + esc(mantra) + '</div></details>'
+              ? (guide.hideLosslessReferences ? '' :
+                  '<details class="caption-ref lossless-roman"><summary>' +
+                    esc(guide.mantraLabel || 'Complete untouched Roman transcript') +
+                  '</summary><div class="mantra">' + esc(mantra) + '</div></details>')
               : '<div class="mantra">' +
                   (guide.mantraLabel ? '<span class="lbl">' + esc(guide.mantraLabel) + '</span>' : '') +
                   esc(mantra) + '</div>')
           : '') +
-        (originalScript
+        (originalScript && !guide.hideLosslessReferences
           ? '<details class="caption-ref script-ref"><summary>' +
               esc(guide.originalScriptLabel || 'Exact original transcription') +
             '</summary><div class="devanagari">' + esc(originalScript) + '</div></details>'

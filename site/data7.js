@@ -11,6 +11,8 @@
   sourceLabel: "source video",
   sourceCredit: "Text transcribed exactly as displayed in the video; verse audio from the matching parāyaṇa by Vid. N. Venkatesha Acharya · JnanaGamya Prasarana",
   hideNotice: true,
+  practiceMode: "repeat3",
+  practiceLabel: "↻ 3× Practice",
   searchPlaceholder: "Search a verse or word…",
   sections: [
     {
