@@ -191,6 +191,7 @@
     srcA.textContent = guide.sourceLabel || 'YouTube';
     search.value = '';
     search.placeholder = guide.searchPlaceholder || 'Search a step (e.g. Śaṅkha, abhiṣeka, naivedya)…';
+    search.setAttribute('aria-label', guide.searchAriaLabel || 'Search steps');
     noticeEl.hidden = !!guide.hideNotice;
     syncPractice();
     buildPeriodBar();
@@ -296,12 +297,14 @@
           : '') +
         (usesActionsAtBottom(guide) ? structuredTranscriptHtml(structuredBlocks, guide, 'actions') : '') +
         (s.html || '') +
-        (ytLink ? '<div class="yt"><a href="' + ytLink + '" target="_blank" rel="noopener">▶ Watch this step on YouTube ↗</a></div>' : '');
+        (ytLink ? '<div class="yt"><a href="' + ytLink + '" target="_blank" rel="noopener">▶ Watch this ' +
+          esc(guide.sourceUnitLabel || 'step') + ' on YouTube ↗</a></div>' : '');
       if (hasAudio) card.__audio = s.audioFile || (guide.audioDir + '/' + s.id + '-' + s.slug + '.mp3');
       list.appendChild(card);
       cards.push(card);
     });
-    countEl.textContent = cards.length + ' steps';
+    var unitPlural = guide.sourceUnitPlural || 'steps';
+    countEl.textContent = cards.length + ' ' + unitPlural;
     applyFilter();
   }
 
@@ -322,7 +325,10 @@
       }
       g.style.display = any ? '' : 'none';
     });
-    countEl.textContent = q ? (shown + ' of ' + cards.length + ' steps') : (cards.length + ' steps');
+    var unitPlural = guide.sourceUnitPlural || 'steps';
+    countEl.textContent = q
+      ? (shown + ' of ' + cards.length + ' ' + unitPlural)
+      : (cards.length + ' ' + unitPlural);
   }
   search.addEventListener('input', applyFilter);
 
