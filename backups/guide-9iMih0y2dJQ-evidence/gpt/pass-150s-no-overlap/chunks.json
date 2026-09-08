@@ -1,0 +1,141 @@
+{
+  "source": "/private/tmp/vedic-lossless-9iMih0y2dJQ.PUKJQV/work/guide-9iMih0y2dJQ/source/original-media.webm",
+  "duration_seconds": 2734.061,
+  "segment_seconds": 150.0,
+  "overlap_seconds": 0.0,
+  "chunks": [
+    {
+      "index": 1,
+      "file": "original-media-part-001.webm",
+      "start_seconds": 0.0,
+      "end_seconds": 150.0,
+      "overlap_seconds": 0
+    },
+    {
+      "index": 2,
+      "file": "original-media-part-002.webm",
+      "start_seconds": 150.0,
+      "end_seconds": 300.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 3,
+      "file": "original-media-part-003.webm",
+      "start_seconds": 300.0,
+      "end_seconds": 450.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 4,
+      "file": "original-media-part-004.webm",
+      "start_seconds": 450.0,
+      "end_seconds": 600.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 5,
+      "file": "original-media-part-005.webm",
+      "start_seconds": 600.0,
+      "end_seconds": 750.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 6,
+      "file": "original-media-part-006.webm",
+      "start_seconds": 750.0,
+      "end_seconds": 900.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 7,
+      "file": "original-media-part-007.webm",
+      "start_seconds": 900.0,
+      "end_seconds": 1050.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 8,
+      "file": "original-media-part-008.webm",
+      "start_seconds": 1050.0,
+      "end_seconds": 1200.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 9,
+      "file": "original-media-part-009.webm",
+      "start_seconds": 1200.0,
+      "end_seconds": 1350.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 10,
+      "file": "original-media-part-010.webm",
+      "start_seconds": 1350.0,
+      "end_seconds": 1500.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 11,
+      "file": "original-media-part-011.webm",
+      "start_seconds": 1500.0,
+      "end_seconds": 1650.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 12,
+      "file": "original-media-part-012.webm",
+      "start_seconds": 1650.0,
+      "end_seconds": 1800.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 13,
+      "file": "original-media-part-013.webm",
+      "start_seconds": 1800.0,
+      "end_seconds": 1950.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 14,
+      "file": "original-media-part-014.webm",
+      "start_seconds": 1950.0,
+      "end_seconds": 2100.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 15,
+      "file": "original-media-part-015.webm",
+      "start_seconds": 2100.0,
+      "end_seconds": 2250.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 16,
+      "file": "original-media-part-016.webm",
+      "start_seconds": 2250.0,
+      "end_seconds": 2400.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 17,
+      "file": "original-media-part-017.webm",
+      "start_seconds": 2400.0,
+      "end_seconds": 2550.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 18,
+      "file": "original-media-part-018.webm",
+      "start_seconds": 2550.0,
+      "end_seconds": 2700.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 19,
+      "file": "original-media-part-019.webm",
+      "start_seconds": 2700.0,
+      "end_seconds": 2734.061,
+      "overlap_seconds": 0.0
+    }
+  ]
+}

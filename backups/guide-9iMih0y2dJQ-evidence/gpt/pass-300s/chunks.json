@@ -1,0 +1,78 @@
+{
+  "source": "/private/tmp/vedic-lossless-9iMih0y2dJQ.PUKJQV/work/guide-9iMih0y2dJQ/source/original-media.webm",
+  "duration_seconds": 2734.061,
+  "segment_seconds": 300.0,
+  "overlap_seconds": 15.0,
+  "chunks": [
+    {
+      "index": 1,
+      "file": "original-media-part-001.webm",
+      "start_seconds": 0.0,
+      "end_seconds": 300.0,
+      "overlap_seconds": 0
+    },
+    {
+      "index": 2,
+      "file": "original-media-part-002.webm",
+      "start_seconds": 285.0,
+      "end_seconds": 585.0,
+      "overlap_seconds": 15.0
+    },
+    {
+      "index": 3,
+      "file": "original-media-part-003.webm",
+      "start_seconds": 570.0,
+      "end_seconds": 870.0,
+      "overlap_seconds": 15.0
+    },
+    {
+      "index": 4,
+      "file": "original-media-part-004.webm",
+      "start_seconds": 855.0,
+      "end_seconds": 1155.0,
+      "overlap_seconds": 15.0
+    },
+    {
+      "index": 5,
+      "file": "original-media-part-005.webm",
+      "start_seconds": 1140.0,
+      "end_seconds": 1440.0,
+      "overlap_seconds": 15.0
+    },
+    {
+      "index": 6,
+      "file": "original-media-part-006.webm",
+      "start_seconds": 1425.0,
+      "end_seconds": 1725.0,
+      "overlap_seconds": 15.0
+    },
+    {
+      "index": 7,
+      "file": "original-media-part-007.webm",
+      "start_seconds": 1710.0,
+      "end_seconds": 2010.0,
+      "overlap_seconds": 15.0
+    },
+    {
+      "index": 8,
+      "file": "original-media-part-008.webm",
+      "start_seconds": 1995.0,
+      "end_seconds": 2295.0,
+      "overlap_seconds": 15.0
+    },
+    {
+      "index": 9,
+      "file": "original-media-part-009.webm",
+      "start_seconds": 2280.0,
+      "end_seconds": 2580.0,
+      "overlap_seconds": 15.0
+    },
+    {
+      "index": 10,
+      "file": "original-media-part-010.webm",
+      "start_seconds": 2565.0,
+      "end_seconds": 2734.061,
+      "overlap_seconds": 15.0
+    }
+  ]
+}
