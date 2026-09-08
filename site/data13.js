@@ -1077,6 +1077,285 @@
           "text": "śrī kṛṣṇārpaṇamastu."
         }
       ]
+    },
+    {
+      "id": "20",
+      "slug": "uttara-purpose-lamp-acamana",
+      "group": "Uttara Pūjā · Visarjana",
+      "start": "0:00",
+      "end": "1:57",
+      "startSeconds": 0.0,
+      "sourceVideo": "https://www.youtube.com/watch?v=oU7gUCqhiBI",
+      "title": "Purpose, lamp, and ācamana",
+      "sanskrit": "Complete Roman recitation with spoken Kannada directions translated into English",
+      "mantra": "śrī gurubhyo namaḥ, paramagurubhyo namaḥ, śrīmadānaṁda tīrtha bhagavatpādācārya gurubhyo namaḥ, hariḥ oṁ. gaṇapatiyannu viśeṣavāgi ārādhisi, maneyalli oṁdu dinadavarege gaṇapatiyannu sthāpane māḍuvavaru iddāre. mūru dina, aidu dina, hannoṁdu dina, hīge nānā tarahada janaru maneyalli sthāpane māḍi, viśeṣavāgi bhaktiyiṁda pūje māḍi, ā gaṇapatiyannu visarjane māḍabeku. matte muṁdina varṣavū kūḍa ide rītiyāgi baṁdu anugraha māḍali eṁdu prārthane māḍi, ā devarannu visarjane māḍabeku. hāgāgi ācāryaru uttara pūjeyannu īga māḍtā iddāre. modalu dīpavannu haccabeku. oṁ agninā agniḥ samidhyate kavirgṛhapatiryuvā, havyavāḍ juhvāsyaḥ, dīpaṁ prajvālya. akṣateyiṁda dīpakke alaṁkāra māḍabeku. gaṁṭeyannu bārisi ācamanavannu māḍabeku. ācamanaṁ keśavāya svāhā, nārāyaṇāya svāhā, mādhavāya svāhā, goviṁdāya namaḥ, viṣṇave namaḥ, madhusūdanāya namaḥ, trivikramāya namaḥ, vāmanāya namaḥ, śrīdharāya namaḥ, hṛṣīkeśāya namaḥ, padmanābhāya namaḥ, dāmodarāya namaḥ, saṁkarṣaṇāya namaḥ, vāsudevāya namaḥ, pradyumnāya namaḥ, aniruddhāya namaḥ, puruṣottamāya namaḥ, adhokṣajāya namaḥ, nārasiṁhāya namaḥ, acyutāya namaḥ, janārdanāya namaḥ, upeṁdrāya namaḥ, haraye namaḥ, śrīkṛṣṇāya namaḥ.",
+      "devanagari": "tīrtha bhagavadpādācārya grupa va hari oma\ngaṇapati anu viśeṣajñā rādhā se\naba mana nahīṁ lage isa baṁde ne to are gaṇapati\nanurūpa nirmāṇa vṛddha sāre murde nā\nphālatū dina āṁca hama dhīmā hī ke nānā taraha\ndarjana raॉ maṭīriyala visthāpana remeḍī viśa\nbābā ke bhakti ina da pūrṇimā ḍipa gaṇapati\nvisarjana māṁ bevakūpha mata yaha una dinoṁ vṛṣabha\nkā itihāsa kī baṁdhu anugrahaṇa alī baṁdhuoṁ\nprārthanā baॉḍī hāṁ deva ranoṁ visarjana\nhamārā baika ko āge ācārya guru uttara pūrva\njanmoṁ gāmar̤a tāki dareṁ\nki mujhe uddīpana mahāsabhā ko a\nki homa hagane ke samidhyate kabīra giraphtārī\nyahāṁ yaha vyavahāra jo khvāhiśa yaha dīpama\nprajvālya hama akṣata ina da dīpaka ke alaṁkāra\nhamārā bevakūpha\nvāha banārasa vāha goviṁdāya namaḥ viṣṇave namaḥ\nmadhusūdanāya namaḥ trivikramāya namaḥ vāmanāya\nnamaḥ śrīdharāya maharṣi ke śāyara mahaka\npadmanābhāya namaḥ dāmodarāya janma hai saṁkarṣaṇāya\nnamaḥ vāsudevāya namaḥ pradyumnāya namaḥ\naniruddhāya namaḥ puruṣottamāya namaḥ\nadhokṣajāya namaḥ nārasiṁhāya namaḥ acyutāya namaḥ\njanārdanāya cinha upeṁdrarāja maharajjī namaḥ\nśrī kṛṣṇā janma haka prāṇāyāma avaśya",
+      "meaning": "Complete source-audio coverage for purpose, lamp, and ācamana, cross-checked against a full GPT pass, overlapping and contiguous chunk passes, boundary clips, and YouTube’s timed captions.",
+      "originalScript": "ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ, ಪರಮಗುರುಭ್ಯೋ ನಮಃ, ಶ್ರೀಮದಾನಂದ ತೀರ್ಥ ಭಗವತ್ಪಾದಾಚಾರ್ಯ ಗುರುಭ್ಯೋ ನಮಃ, ಹರಿಃ ಓಂ. ಗಣಪತಿಯನ್ನು ವಿಶೇಷವಾಗಿ ಆರಾಧಿಸಿ, ಮನೆಯಲ್ಲಿ ಒಂದು ದಿನದವರೆಗೆ ಗಣಪತಿಯನ್ನು ಸ್ಥಾಪನೆ ಮಾಡುವವರು ಇದ್ದಾರೆ. ಮೂರು ದಿನ, ಐದು ದಿನ, ಹನ್ನೊಂದು ದಿನ, ಹೀಗೆ ನಾನಾ ತರಹದ ಜನರು ಮನೆಯಲ್ಲಿ ಸ್ಥಾಪನೆ ಮಾಡಿ, ವಿಶೇಷವಾಗಿ ಭಕ್ತಿಯಿಂದ ಪೂಜೆ ಮಾಡಿ, ಆ ಗಣಪತಿಯನ್ನು ವಿಸರ್ಜನೆ ಮಾಡಬೇಕು. ಮತ್ತೆ ಮುಂದಿನ ವರ್ಷವೂ ಕೂಡ ಇದೇ ರೀತಿಯಾಗಿ ಬಂದು ಅನುಗ್ರಹ ಮಾಡಲಿ ಎಂದು ಪ್ರಾರ್ಥನೆ ಮಾಡಿ, ಆ ದೇವರನ್ನು ವಿಸರ್ಜನೆ ಮಾಡಬೇಕು. ಹಾಗಾಗಿ ಆಚಾರ್ಯರು ಉತ್ತರ ಪೂಜೆಯನ್ನು ಈಗ ಮಾಡ್ತಾ ಇದ್ದಾರೆ. ಮೊದಲು ದೀಪವನ್ನು ಹಚ್ಚಬೇಕು. ಓಂ ಅಗ್ನಿನಾ ಅಗ್ನಿಃ ಸಮಿಧ್ಯತೇ ಕವಿರ್ಗೃಹಪತಿರ್ಯುವಾ, ಹವ್ಯವಾಡ್ ಜುಹ್ವಾಸ್ಯಃ, ದೀಪಂ ಪ್ರಜ್ವಾಲ್ಯ. ಅಕ್ಷತೆಯಿಂದ ದೀಪಕ್ಕೆ ಅಲಂಕಾರ ಮಾಡಬೇಕು. ಗಂಟೆಯನ್ನು ಬಾರಿಸಿ ಆಚಮನವನ್ನು ಮಾಡಬೇಕು. ಆಚಮನಂ ಕೇಶವಾಯ ಸ್ವಾಹಾ, ನಾರಾಯಣಾಯ ಸ್ವಾಹಾ, ಮಾಧವಾಯ ಸ್ವಾಹಾ, ಗೋವಿಂದಾಯ ನಮಃ, ವಿಷ್ಣವೇ ನಮಃ, ಮಧುಸೂದನಾಯ ನಮಃ, ತ್ರಿವಿಕ್ರಮಾಯ ನಮಃ, ವಾಮನಾಯ ನಮಃ, ಶ್ರೀಧರಾಯ ನಮಃ, ಹೃಷೀಕೇಶಾಯ ನಮಃ, ಪದ್ಮನಾಭಾಯ ನಮಃ, ದಾಮೋದರಾಯ ನಮಃ, ಸಂಕರ್ಷಣಾಯ ನಮಃ, ವಾಸುದೇವಾಯ ನಮಃ, ಪ್ರದ್ಯುಮ್ನಾಯ ನಮಃ, ಅನಿರುದ್ಧಾಯ ನಮಃ, ಪುರುಷೋತ್ತಮಾಯ ನಮಃ, ಅಧೋಕ್ಷಜಾಯ ನಮಃ, ನಾರಸಿಂಹಾಯ ನಮಃ, ಅಚ್ಯುತಾಯ ನಮಃ, ಜನಾರ್ದನಾಯ ನಮಃ, ಉಪೇಂದ್ರಾಯ ನಮಃ, ಹರಯೇ ನಮಃ, ಶ್ರೀಕೃಷ್ಣಾಯ ನಮಃ. ",
+      "captionOriginal": "तीर्थ भगवद्पादाचार्य ग्रुप व हरि ओम\nगणपति अनु विशेषज्ञा राधा से\nअब मन नहीं लगे इस बंदे ने तो अरे गणपति\nअनुरूप निर्माण वृद्ध सारे मुर्दे ना\nफालतू दिन आंच हम धीमा ही के नाना तरह\nदर्जन रॉ मटीरियल विस्थापन रेमेडी विश\nबाबा के भक्ति इन द पूर्णिमा डिप गणपति\nविसर्जन मां बेवकूफ मत यह उन दिनों वृषभ\nका इतिहास की बंधु अनुग्रहण अली बंधुओं\nप्रार्थना बॉडी हां देव रनों विसर्जन\nहमारा बैक को आगे आचार्य गुरु उत्तर पूर्व\nजन्मों गामड़ ताकि दरें\nकि मुझे उद्दीपन महासभा को अ\nकि होम हगने के समिध्यते कबीर गिरफ्तारी\nयहां यह व्यवहार जो ख्वाहिश यह दीपम\nप्रज्वाल्य हम अक्षत इन द दीपक के अलंकार\nहमारा बेवकूफ\nवाह बनारस वाह गोविंदाय नमः विष्णवे नमः\nमधुसूदनाय नमः त्रिविक्रमाय नमः वामनाय\nनमः श्रीधराय महर्षि के शायर महक\nपद्मनाभाय नमः दामोदराय जन्म है संकर्षणाय\nनमः वासुदेवाय नमः प्रद्युम्नाय नमः\nअनिरुद्धाय नमः पुरुषोत्तमाय नमः\nअधोक्षजाय नमः नारसिंहाय नमः अच्युताय नमः\nजनार्दनाय चिन्ह उपेंद्रराज महरज्जी नमः\nश्री कृष्णा जन्म हक प्राणायाम अवश्य",
+      "losslessRoman": "śrī gurubhyo namaḥ, paramagurubhyo namaḥ, śrīmadānaṁda tīrtha bhagavatpādācārya gurubhyo namaḥ, hariḥ oṁ. gaṇapatiyannu viśeṣavāgi ārādhisi, maneyalli oṁdu dinadavarege gaṇapatiyannu sthāpane māḍuvavaru iddāre. mūru dina, aidu dina, hannoṁdu dina, hīge nānā tarahada janaru maneyalli sthāpane māḍi, viśeṣavāgi bhaktiyiṁda pūje māḍi, ā gaṇapatiyannu visarjane māḍabeku. matte muṁdina varṣavū kūḍa ide rītiyāgi baṁdu anugraha māḍali eṁdu prārthane māḍi, ā devarannu visarjane māḍabeku. hāgāgi ācāryaru uttara pūjeyannu īga māḍtā iddāre. modalu dīpavannu haccabeku. oṁ agninā agniḥ samidhyate kavirgṛhapatiryuvā, havyavāḍ juhvāsyaḥ, dīpaṁ prajvālya. akṣateyiṁda dīpakke alaṁkāra māḍabeku. gaṁṭeyannu bārisi ācamanavannu māḍabeku. ācamanaṁ keśavāya svāhā, nārāyaṇāya svāhā, mādhavāya svāhā, goviṁdāya namaḥ, viṣṇave namaḥ, madhusūdanāya namaḥ, trivikramāya namaḥ, vāmanāya namaḥ, śrīdharāya namaḥ, hṛṣīkeśāya namaḥ, padmanābhāya namaḥ, dāmodarāya namaḥ, saṁkarṣaṇāya namaḥ, vāsudevāya namaḥ, pradyumnāya namaḥ, aniruddhāya namaḥ, puruṣottamāya namaḥ, adhokṣajāya namaḥ, nārasiṁhāya namaḥ, acyutāya namaḥ, janārdanāya namaḥ, upeṁdrāya namaḥ, haraye namaḥ, śrīkṛṣṇāya namaḥ.",
+      "structuredBlocks": [
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ, ಪರಮಗುರುಭ್ಯೋ ನಮಃ, ಶ್ರೀಮದಾನಂದ ತೀರ್ಥ ಭಗವತ್ಪಾದಾಚಾರ್ಯ ಗುರುಭ್ಯೋ ನಮಃ, ಹರಿಃ ಓಂ. ",
+          "text": "śrī gurubhyo namaḥ, parama gurubhyo namaḥ, śrīmad ānanda\ntīrtha bhagavat pādācārya gurubhyo namaḥ, hariḥ oṁ."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಗಣಪತಿಯನ್ನು ವಿಶೇಷವಾಗಿ ಆರಾಧಿಸಿ, ಮನೆಯಲ್ಲಿ ಒಂದು ದಿನದವರೆಗೆ ಗಣಪತಿಯನ್ನು ಸ್ಥಾಪನೆ ಮಾಡುವವರು ಇದ್ದಾರೆ. ",
+          "sourceRoman": "gaṇapatiyannu viśeṣavāgi ārādhisi, maneyalli oṁdu dinadavarege gaṇapatiyannu sthāpane māḍuvavaru iddāre.",
+          "english": "Some households install and worship Ganapati for one day."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಮೂರು ದಿನ, ಐದು ದಿನ, ಹನ್ನೊಂದು ದಿನ, ಹೀಗೆ ನಾನಾ ತರಹದ ಜನರು ಮನೆಯಲ್ಲಿ ಸ್ಥಾಪನೆ ಮಾಡಿ, ವಿಶೇಷವಾಗಿ ಭಕ್ತಿಯಿಂದ ಪೂಜೆ ಮಾಡಿ, ಆ ಗಣಪತಿಯನ್ನು ವಿಸರ್ಜನೆ ಮಾಡಬೇಕು. ",
+          "sourceRoman": "mūru dina, aidu dina, hannoṁdu dina, hīge nānā tarahada janaru maneyalli sthāpane māḍi, viśeṣavāgi bhaktiyiṁda pūje māḍi, ā gaṇapatiyannu visarjane māḍabeku.",
+          "english": "Others install Ganapati for three, five, or eleven days; after worshipping with special devotion, perform the visarjana."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಮತ್ತೆ ಮುಂದಿನ ವರ್ಷವೂ ಕೂಡ ಇದೇ ರೀತಿಯಾಗಿ ಬಂದು ಅನುಗ್ರಹ ಮಾಡಲಿ ಎಂದು ಪ್ರಾರ್ಥನೆ ಮಾಡಿ, ಆ ದೇವರನ್ನು ವಿಸರ್ಜನೆ ಮಾಡಬೇಕು. ",
+          "sourceRoman": "matte muṁdina varṣavū kūḍa ide rītiyāgi baṁdu anugraha māḍali eṁdu prārthane māḍi, ā devarannu visarjane māḍabeku.",
+          "english": "Pray that the deity will return next year and bestow grace, and then perform the visarjana."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಹಾಗಾಗಿ ಆಚಾರ್ಯರು ಉತ್ತರ ಪೂಜೆಯನ್ನು ಈಗ ಮಾಡ್ತಾ ಇದ್ದಾರೆ. ",
+          "sourceRoman": "hāgāgi ācāryaru uttara pūjeyannu īga māḍtā iddāre.",
+          "english": "Accordingly, the ācārya is now performing the uttara-pūjā."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಮೊದಲು ದೀಪವನ್ನು ಹಚ್ಚಬೇಕು. ",
+          "sourceRoman": "modalu dīpavannu haccabeku.",
+          "english": "First light the lamp."
+        },
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ಓಂ ಅಗ್ನಿನಾ ಅಗ್ನಿಃ ಸಮಿಧ್ಯತೇ ಕವಿರ್ಗೃಹಪತಿರ್ಯುವಾ, ಹವ್ಯವಾಡ್ ಜುಹ್ವಾಸ್ಯಃ, ದೀಪಂ ಪ್ರಜ್ವಾಲ್ಯ. ",
+          "text": "oṁ agninā agniḥ samidhyate kavirgṛhapatiryuvā,\nhavyavāḍ juhvāsyaḥ, dīpaṁ prajvālya."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಅಕ್ಷತೆಯಿಂದ ದೀಪಕ್ಕೆ ಅಲಂಕಾರ ಮಾಡಬೇಕು. ",
+          "sourceRoman": "akṣateyiṁda dīpakke alaṁkāra māḍabeku.",
+          "english": "Decorate the lamp with akṣata."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಗಂಟೆಯನ್ನು ಬಾರಿಸಿ ಆಚಮನವನ್ನು ಮಾಡಬೇಕು. ",
+          "sourceRoman": "gaṁṭeyannu bārisi ācamanavannu māḍabeku.",
+          "english": "Ring the bell and perform ācamana."
+        },
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ಆಚಮನಂ ಕೇಶವಾಯ ಸ್ವಾಹಾ, ನಾರಾಯಣಾಯ ಸ್ವಾಹಾ, ಮಾಧವಾಯ ಸ್ವಾಹಾ, ಗೋವಿಂದಾಯ ನಮಃ, ವಿಷ್ಣವೇ ನಮಃ, ಮಧುಸೂದನಾಯ ನಮಃ, ತ್ರಿವಿಕ್ರಮಾಯ ನಮಃ, ವಾಮನಾಯ ನಮಃ, ಶ್ರೀಧರಾಯ ನಮಃ, ಹೃಷೀಕೇಶಾಯ ನಮಃ, ಪದ್ಮನಾಭಾಯ ನಮಃ, ದಾಮೋದರಾಯ ನಮಃ, ಸಂಕರ್ಷಣಾಯ ನಮಃ, ವಾಸುದೇವಾಯ ನಮಃ, ಪ್ರದ್ಯುಮ್ನಾಯ ನಮಃ, ಅನಿರುದ್ಧಾಯ ನಮಃ, ಪುರುಷೋತ್ತಮಾಯ ನಮಃ, ಅಧೋಕ್ಷಜಾಯ ನಮಃ, ನಾರಸಿಂಹಾಯ ನಮಃ, ಅಚ್ಯುತಾಯ ನಮಃ, ಜನಾರ್ದನಾಯ ನಮಃ, ಉಪೇಂದ್ರಾಯ ನಮಃ, ಹರಯೇ ನಮಃ, ಶ್ರೀಕೃಷ್ಣಾಯ ನಮಃ. ",
+          "text": "ācamanaṁ keśavāya svāhā, nārāyaṇāya svāhā, mādhavāya svāhā,\ngoviṁdāya namaḥ, viṣṇave namaḥ, madhusūdanāya namaḥ, trivikramāya\nnamaḥ, vāmanāya namaḥ, śrīdharāya namaḥ, hṛṣīkeśāya namaḥ,\npadmanābhāya namaḥ, dāmodarāya namaḥ, saṁkarṣaṇāya namaḥ, vāsudevāya\nnamaḥ, pradyumnāya namaḥ, aniruddhāya namaḥ, puruṣottamāya namaḥ,\nadhokṣajāya namaḥ, nārasiṁhāya namaḥ, acyutāya namaḥ, janārdanāya\nnamaḥ, upeṁdrāya namaḥ, haraye namaḥ, śrīkṛṣṇāya namaḥ."
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "slug": "uttara-pranayama-sankalpa-upacaras",
+      "group": "Uttara Pūjā · Visarjana",
+      "start": "1:57",
+      "end": "3:40",
+      "startSeconds": 117.24,
+      "sourceVideo": "https://www.youtube.com/watch?v=oU7gUCqhiBI",
+      "title": "Prāṇāyāma, saṅkalpa, and initial upacāras",
+      "sanskrit": "Complete Roman recitation with spoken Kannada directions translated into English",
+      "mantra": "prāṇāyāmaḥ. praṇavasya parabrahma ṛṣiḥ paramātmā devatā, devī gāyatrī chaṁdaḥ, prāṇāyāme viniyogaḥ. oṁ bhūḥ, oṁ bhuvaḥ, oṁ svaḥ, oṁ mahaḥ, oṁ janaḥ, oṁ tapaḥ, oṁ satyaṁ, oṁ tatsaviturvareṇyaṁ bhargo devasya dhīmahi, dhiyo yo naḥ pracodayāt. omāpo jyotīrasomṛtaṁ brahma bhūrbhuvaḥ svaroṁ. ādyapūrvoccarita evaṁ guṇaviśeṣaṇa viśiṣṭāyāṁ śubhapuṇyatithau śrīviṣṇu preraṇayā śrīviṣṇu prītyarthaṁ. idīga heḻidaṁte oṁdu dinavādare avattina dinada tithi vāra nakṣatragaḻannu heḻabeku. mūru dinavādare ā dinada nakṣatrādigaḻu, hagu aidu hannoṁdu hīge yāva dinadalli nīvu visarjane māḍuttīro gaṇapatiyannu, ā dinadalliruva tithi vāra nakṣatravannu saṁkalpadalli heḻikoṁḍu maṁtrākṣateyannu taṭṭeyalli biḍabeku. asmākaṁ sarveṣāṁ sahakuṭuṁbānāṁ kṣemasthairya vijaya āyurārogya aiśvarya abhivṛddhyarthaṁ, viśeṣataḥ bhagavat jñāna bhakti viṣaya vairāgyādi siddhyarthaṁ, viśvaṁbharasya anugrahādi siddhyarthaṁ, uttara pūjāṁ ca kariṣye brāhmaṇadvārā kārayiṣye ca. sannihitanādaṁtaha gaṇapatige mattomme ṣoḍaśopacāragaḻiṁda pūje māḍabeku. āvāhita śrīman mahāgaṇādhipataye namaḥ, tadaṁtargata śrī viśvaṁbharāya namaḥ, sarvopacārārthe akṣatān samarpayāmi.",
+      "devanagari": "bhramarahita paramātmā devatā devī gāyatrī chaṁda\ndohā prāṇāyāma meṁ viniyoga huā thā vaha\nvvahāra mahāna jahā oṁ tapa oṁ satyama\ntatsaviturvareṁyaṁ bhargo devasya dhīmahi dhiyo\nyo na pracodayāt oṁ āpojyotirasoamṛtaṁ\nbahmabhurbhuva sva oṁ maima madhyapūrva caritra\nevaṁ guṇa viśeṣaṇa abhinetā vyāyāma subaha\npuṇyatithi guru śrī viṣṇu prayāga śarīpha\nacchī taraha thammaṇa hī rahe dhaṁdhe\nmaiṁ vana dimāga re avadhi tathā tithi vāra\nnakṣatra va nanher̤ā bevakūpha murdābāda are\nādi nakṣatra adhika par̤ho hāu āī dulhana do\nhī ke yā va dudalī anusāra jarā mānava tero\ngaṇapataye namoha ā denā dalaharu baje tithi vāra\nnakṣatra va noṁ saṁkalpa saṁkalpa dho leṁ heltha\nkaṁḍoma maṁtrā sthiti niraṁtara ṭela e beṭara ve\nko a\nki asmākaṁ sarveṣāma thā kuṭuṁbā nāma\nkrisamasa tyauhāra okay aiśvaryā vratam\nviṣaya tathā vyavahārika jñāna hai bhakti viṣaya\nvairāgyāce siddhārthama viśvaṁbhara śyāāma\nugravādī siddhārtha gautama va uttara pūjā naika\njisase brāmhaṇoṁ dvārā kāraṇa viśeṣa aba\nki sanī hī tanāva taraha gaṇapati ke matoṁ meṁ\nṣor̤aṣopacāra garla ina da pūre māmale ko a\nki bābā siddha śrīmanmahāgaṇādhipatae namaḥ\naṁtargata hai śrī viṣṇu mahārāja janma\nmahotsava pracārārtha the akṣatān samarpayāmi\nbīma haridrā kumakumā śubha ki\ndravyāṇisamarpayāmi gaṁdha-dvārāṁ",
+      "meaning": "Complete source-audio coverage for prāṇāyāma, saṅkalpa, and initial upacāras, cross-checked against a full GPT pass, overlapping and contiguous chunk passes, boundary clips, and YouTube’s timed captions.",
+      "originalScript": "ಪ್ರಾಣಾಯಾಮಃ. ಪ್ರಣವಸ್ಯ ಪರಬ್ರಹ್ಮ ಋಷಿಃ ಪರಮಾತ್ಮಾ ದೇವತಾ, ದೇವೀ ಗಾಯತ್ರೀ ಛಂದಃ, ಪ್ರಾಣಾಯಾಮೇ ವಿನಿಯೋಗಃ. ಓಂ ಭೂಃ, ಓಂ ಭುವಃ, ಓಂ ಸ್ವಃ, ಓಂ ಮಹಃ, ಓಂ ಜನಃ, ಓಂ ತಪಃ, ಓಂ ಸತ್ಯಂ, ಓಂ ತತ್ಸವಿತುರ್ವರೇಣ್ಯಂ ಭರ್ಗೋ ದೇವಸ್ಯ ಧೀಮಹಿ, ಧಿಯೋ ಯೋ ನಃ ಪ್ರಚೋದಯಾತ್. ಓಮಾಪೋ ಜ್ಯೋತೀರಸೋಮೃತಂ ಬ್ರಹ್ಮ ಭೂರ್ಭುವಃ ಸ್ವರೋಂ. ಆದ್ಯಪೂರ್ವೋಚ್ಚರಿತ ಏವಂ ಗುಣವಿಶೇಷಣ ವಿಶಿಷ್ಟಾಯಾಂ ಶುಭಪುಣ್ಯತಿಥೌ ಶ್ರೀವಿಷ್ಣು ಪ್ರೇರಣಯಾ ಶ್ರೀವಿಷ್ಣು ಪ್ರೀತ್ಯರ್ಥಂ. ಇದೀಗ ಹೇಳಿದಂತೆ ಒಂದು ದಿನವಾದರೆ ಅವತ್ತಿನ ದಿನದ ತಿಥಿ ವಾರ ನಕ್ಷತ್ರಗಳನ್ನು ಹೇಳಬೇಕು. ಮೂರು ದಿನವಾದರೆ ಆ ದಿನದ ನಕ್ಷತ್ರಾದಿಗಳು, ಹಗು ಐದು ಹನ್ನೊಂದು ಹೀಗೆ ಯಾವ ದಿನದಲ್ಲಿ ನೀವು ವಿಸರ್ಜನೆ ಮಾಡುತ್ತೀರೋ ಗಣಪತಿಯನ್ನು, ಆ ದಿನದಲ್ಲಿರುವ ತಿಥಿ ವಾರ ನಕ್ಷತ್ರವನ್ನು ಸಂಕಲ್ಪದಲ್ಲಿ ಹೇಳಿಕೊಂಡು ಮಂತ್ರಾಕ್ಷತೆಯನ್ನು ತಟ್ಟೆಯಲ್ಲಿ ಬಿಡಬೇಕು. ಅಸ್ಮಾಕಂ ಸರ್ವೇಷಾಂ ಸಹಕುಟುಂಬಾನಾಂ ಕ್ಷೇಮಸ್ಥೈರ್ಯ ವಿಜಯ ಆಯುರಾರೋಗ್ಯ ಐಶ್ವರ್ಯ ಅಭಿವೃದ್ಧ್ಯರ್ಥಂ, ವಿಶೇಷತಃ ಭಗವತ್ ಜ್ಞಾನ ಭಕ್ತಿ ವಿಷಯ ವೈರಾಗ್ಯಾದಿ ಸಿದ್ಧ್ಯರ್ಥಂ, ವಿಶ್ವಂಭರಸ್ಯ ಅನುಗ್ರಹಾದಿ ಸಿದ್ಧ್ಯರ್ಥಂ, ಉತ್ತರ ಪೂಜಾಂ ಚ ಕರಿಷ್ಯೇ ಬ್ರಾಹ್ಮಣದ್ವಾರಾ ಕಾರಯಿಷ್ಯೇ ಚ. ಸನ್ನಿಹಿತನಾದಂತಹ ಗಣಪತಿಗೆ ಮತ್ತೊಮ್ಮೆ ಷೋಡಶೋಪಚಾರಗಳಿಂದ ಪೂಜೆ ಮಾಡಬೇಕು. ಆವಾಹಿತ ಶ್ರೀಮನ್ ಮಹಾಗಣಾಧಿಪತಯೇ ನಮಃ, ತದಂತರ್ಗತ ಶ್ರೀ ವಿಶ್ವಂಭರಾಯ ನಮಃ, ಸರ್ವೋಪಚಾರಾರ್ಥೇ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ",
+      "captionOriginal": "भ्रमरहित परमात्मा देवता देवी गायत्री छंद\nदोहा प्राणायाम में विनियोग हुआ था वह\nव्वहार महान जहा ॐ तप ॐ सत्यम\nतत्सवितुर्वरेंयं भर्गो देवस्य धीमहि धियो\nयो न प्रचोदयात् ॐ आपोज्योतिरसोअमृतं\nबह्मभुर्भुव स्व ॐ मैम मध्यपूर्व चरित्र\nएवं गुण विशेषण अभिनेता व्यायाम सुबह\nपुण्यतिथि गुरु श्री विष्णु प्रयाग शरीफ\nअच्छी तरह थम्मण ही रहे धंधे\nमैं वन दिमाग रे अवधि तथा तिथि वार\nनक्षत्र व नन्हेड़ा बेवकूफ मुर्दाबाद अरे\nआदि नक्षत्र अधिक पढ़ो हाउ आई दुल्हन दो\nही के या व दुदली अनुसार जरा मानव तेरो\nगणपतये नमोह आ देना दलहरु बजे तिथि वार\nनक्षत्र व नों संकल्प संकल्प धो लें हेल्थ\nकंडोम मंत्रा स्थिति निरंतर टेल ए बेटर वे\nको अ\nकि अस्माकं सर्वेषाम था कुटुंबा नाम\nक्रिसमस त्यौहार okay ऐश्वर्या व्रतम्\nविषय तथा व्यवहारिक ज्ञान है भक्ति विषय\nवैराग्याचे सिद्धार्थम विश्वंभर श्यााम\nउग्रवादी सिद्धार्थ गौतम व उत्तर पूजा नैक\nजिससे ब्राम्हणों द्वारा कारण विशेष अब\nकि सनी ही तनाव तरह गणपति के मतों में\nषोड़षोपचार गर्ल इन द पूरे मामले को अ\nकि बाबा सिद्ध श्रीमन्महागणाधिपतए नमः\nअंतर्गत है श्री विष्णु महाराज जन्म\nमहोत्सव प्रचारार्थ थे अक्षतान् समर्पयामि\nबीम हरिद्रा कुमकुमा शुभ कि\nद्रव्याणिसमर्पयामि गंध-द्वारां",
+      "losslessRoman": "prāṇāyāmaḥ. praṇavasya parabrahma ṛṣiḥ paramātmā devatā, devī gāyatrī chaṁdaḥ, prāṇāyāme viniyogaḥ. oṁ bhūḥ, oṁ bhuvaḥ, oṁ svaḥ, oṁ mahaḥ, oṁ janaḥ, oṁ tapaḥ, oṁ satyaṁ, oṁ tatsaviturvareṇyaṁ bhargo devasya dhīmahi, dhiyo yo naḥ pracodayāt. omāpo jyotīrasomṛtaṁ brahma bhūrbhuvaḥ svaroṁ. ādyapūrvoccarita evaṁ guṇaviśeṣaṇa viśiṣṭāyāṁ śubhapuṇyatithau śrīviṣṇu preraṇayā śrīviṣṇu prītyarthaṁ. idīga heḻidaṁte oṁdu dinavādare avattina dinada tithi vāra nakṣatragaḻannu heḻabeku. mūru dinavādare ā dinada nakṣatrādigaḻu, hagu aidu hannoṁdu hīge yāva dinadalli nīvu visarjane māḍuttīro gaṇapatiyannu, ā dinadalliruva tithi vāra nakṣatravannu saṁkalpadalli heḻikoṁḍu maṁtrākṣateyannu taṭṭeyalli biḍabeku. asmākaṁ sarveṣāṁ sahakuṭuṁbānāṁ kṣemasthairya vijaya āyurārogya aiśvarya abhivṛddhyarthaṁ, viśeṣataḥ bhagavat jñāna bhakti viṣaya vairāgyādi siddhyarthaṁ, viśvaṁbharasya anugrahādi siddhyarthaṁ, uttara pūjāṁ ca kariṣye brāhmaṇadvārā kārayiṣye ca. sannihitanādaṁtaha gaṇapatige mattomme ṣoḍaśopacāragaḻiṁda pūje māḍabeku. āvāhita śrīman mahāgaṇādhipataye namaḥ, tadaṁtargata śrī viśvaṁbharāya namaḥ, sarvopacārārthe akṣatān samarpayāmi.",
+      "structuredBlocks": [
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ಪ್ರಾಣಾಯಾಮಃ. ಪ್ರಣವಸ್ಯ ಪರಬ್ರಹ್ಮ ಋಷಿಃ ಪರಮಾತ್ಮಾ ದೇವತಾ, ದೇವೀ ಗಾಯತ್ರೀ ಛಂದಃ, ಪ್ರಾಣಾಯಾಮೇ ವಿನಿಯೋಗಃ. ಓಂ ಭೂಃ, ಓಂ ಭುವಃ, ಓಂ ಸ್ವಃ, ಓಂ ಮಹಃ, ಓಂ ಜನಃ, ಓಂ ತಪಃ, ಓಂ ಸತ್ಯಂ, ಓಂ ತತ್ಸವಿತುರ್ವರೇಣ್ಯಂ ಭರ್ಗೋ ದೇವಸ್ಯ ಧೀಮಹಿ, ಧಿಯೋ ಯೋ ನಃ ಪ್ರಚೋದಯಾತ್. ಓಮಾಪೋ ಜ್ಯೋತೀರಸೋಮೃತಂ ಬ್ರಹ್ಮ ಭೂರ್ಭುವಃ ಸ್ವರೋಂ. ಆದ್ಯಪೂರ್ವೋಚ್ಚರಿತ ಏವಂ ಗುಣವಿಶೇಷಣ ವಿಶಿಷ್ಟಾಯಾಂ ಶುಭಪುಣ್ಯತಿಥೌ ಶ್ರೀವಿಷ್ಣು ಪ್ರೇರಣಯಾ ಶ್ರೀವಿಷ್ಣು ಪ್ರೀತ್ಯರ್ಥಂ. ",
+          "text": "prāṇāyāmaḥ.\n\npraṇavasya parabrahma ṛṣiḥ paramātmā devatā,\ndevī gāyatrī chaṁdaḥ, prāṇāyāme viniyogaḥ.\n\noṁ bhūḥ, oṁ bhuvaḥ, oṁ svaḥ, oṁ mahaḥ, oṁ janaḥ, oṁ tapaḥ,\noṁ satyaṁ, oṁ tatsaviturvareṇyaṁ bhargo devasya dhīmahi, dhiyo yo naḥ pracodayāt.\n\noṁ āpo jyotī raso'mṛtaṁ brahma bhūrbhuvaḥ svaroṁ.\n\nadya pūrvoccarita evaṁ guṇaviśeṣaṇa viśiṣṭāyāṁ\nśubhapuṇyatithau śrīviṣṇu preraṇayā śrīviṣṇu prītyarthaṁ."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಇದೀಗ ಹೇಳಿದಂತೆ ಒಂದು ದಿನವಾದರೆ ಅವತ್ತಿನ ದಿನದ ತಿಥಿ ವಾರ ನಕ್ಷತ್ರಗಳನ್ನು ಹೇಳಬೇಕು. ",
+          "sourceRoman": "idīga heḻidaṁte oṁdu dinavādare avattina dinada tithi vāra nakṣatragaḻannu heḻabeku.",
+          "english": "As explained, if Ganapati was installed for one day, state that day’s tithi, weekday, and nakṣatra."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಮೂರು ದಿನವಾದರೆ ಆ ದಿನದ ನಕ್ಷತ್ರಾದಿಗಳು, ಹಗು ಐದು ಹನ್ನೊಂದು ಹೀಗೆ ಯಾವ ದಿನದಲ್ಲಿ ನೀವು ವಿಸರ್ಜನೆ ಮಾಡುತ್ತೀರೋ ಗಣಪತಿಯನ್ನು, ಆ ದಿನದಲ್ಲಿರುವ ತಿಥಿ ವಾರ ನಕ್ಷತ್ರವನ್ನು ಸಂಕಲ್ಪದಲ್ಲಿ ಹೇಳಿಕೊಂಡು ಮಂತ್ರಾಕ್ಷತೆಯನ್ನು ತಟ್ಟೆಯಲ್ಲಿ ಬಿಡಬೇಕು. ",
+          "sourceRoman": "mūru dinavādare ā dinada nakṣatrādigaḻu, hagu aidu hannoṁdu hīge yāva dinadalli nīvu visarjane māḍuttīro gaṇapatiyannu, ā dinadalliruva tithi vāra nakṣatravannu saṁkalpadalli heḻikoṁḍu maṁtrākṣateyannu taṭṭeyalli biḍabeku.",
+          "english": "If the installation lasted three, five, eleven, or another number of days, state in the saṅkalpa the tithi, weekday, and nakṣatra of the day on which Ganapati is being immersed, then release the mantrākṣata into the tray."
+        },
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ಅಸ್ಮಾಕಂ ಸರ್ವೇಷಾಂ ಸಹಕುಟುಂಬಾನಾಂ ಕ್ಷೇಮಸ್ಥೈರ್ಯ ವಿಜಯ ಆಯುರಾರೋಗ್ಯ ಐಶ್ವರ್ಯ ಅಭಿವೃದ್ಧ್ಯರ್ಥಂ, ವಿಶೇಷತಃ ಭಗವತ್ ಜ್ಞಾನ ಭಕ್ತಿ ವಿಷಯ ವೈರಾಗ್ಯಾದಿ ಸಿದ್ಧ್ಯರ್ಥಂ, ವಿಶ್ವಂಭರಸ್ಯ ಅನುಗ್ರಹಾದಿ ಸಿದ್ಧ್ಯರ್ಥಂ, ಉತ್ತರ ಪೂಜಾಂ ಚ ಕರಿಷ್ಯೇ ಬ್ರಾಹ್ಮಣದ್ವಾರಾ ಕಾರಯಿಷ್ಯೇ ಚ. ",
+          "text": "asmākaṁ sarveṣāṁ sahakuṭuṁbānāṁ kṣemasthairya vijaya āyurārogya aiśvarya\nabhivṛddhyarthaṁ, viśeṣataḥ bhagavat jñāna bhakti viṣaya\nvairāgyādi siddhyarthaṁ, viśvaṁbharasya anugrahādi siddhyarthaṁ, uttara\npūjāṁ ca kariṣye brāhmaṇadvārā kārayiṣye ca."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಸನ್ನಿಹಿತನಾದಂತಹ ಗಣಪತಿಗೆ ಮತ್ತೊಮ್ಮೆ ಷೋಡಶೋಪಚಾರಗಳಿಂದ ಪೂಜೆ ಮಾಡಬೇಕು. ",
+          "sourceRoman": "sannihitanādaṁtaha gaṇapatige mattomme ṣoḍaśopacāragaḻiṁda pūje māḍabeku.",
+          "english": "Once more worship the present Ganapati with the ṣoḍaśopacāras."
+        },
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ಆವಾಹಿತ ಶ್ರೀಮನ್ ಮಹಾಗಣಾಧಿಪತಯೇ ನಮಃ, ತದಂತರ್ಗತ ಶ್ರೀ ವಿಶ್ವಂಭರಾಯ ನಮಃ, ಸರ್ವೋಪಚಾರಾರ್ಥೇ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "āvāhita śrīman mahāgaṇādhipataye namaḥ, tadaṁtargata śrī\nviśvaṁbharāya namaḥ, sarvopacārārthe akṣatān samarpayāmi."
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "slug": "uttara-offerings-naivedya",
+      "group": "Uttara Pūjā · Visarjana",
+      "start": "3:40",
+      "end": "5:29",
+      "startSeconds": 220.32,
+      "sourceVideo": "https://www.youtube.com/watch?v=oU7gUCqhiBI",
+      "title": "Gandha, puṣpa, dhūpa, dīpa, and naivedya",
+      "sanskrit": "Complete Roman recitation with spoken Kannada directions translated into English",
+      "mantra": "haridrā kuṁkuma saubhāgya dravyāṇi samarpayāmi, gaṁdhadvārāṁ durādharṣāṁ nityapuṣṭāṁ karīṣiṇīṁ, īśvarīṁ sarvabhūtānāṁ tāmihopahvaye śrīyaṁ. haridrā kuṁkuma sukasaubhāgya dravyāṇi samarpayāmi. nānāvidha parimaḻa patra puṣpāṇi samarpayāmi. sumukhāya namaḥ, ekadaṁtāya namaḥ, kapilāya namaḥ, gajakarṇakāya namaḥ, laṁbodarāya namaḥ, vikaṭāya namaḥ, vighnarājāya namaḥ, gaṇādhipataye namaḥ, śrīman mahāgaṇādhipataye namaḥ, nānāvidha parimaḻa patra puṣpāṇi samarpayāmi. dhūpamāghrāpayāmi. dhūpaviddare dhūpavannu torisabeku, athavā uddharaṇiyalli nīrannu tegedukoṁḍu nīriniṁda gaṁṭeyannu bārisuttā dhūpavannu torisabeku. vanaspatirasodbhūto gandhāḍhyo gandha uttamaḥ| āghreyaḥ sarvadevānāṁ dhūpo'yaṁ pratigṛhyatām| dhūpamāghrāpayāmi, sthāpitadīpaṁ pradarśayāmi, tatra stha phalanevedyaṁ nivedayāmi. eduralliruva ella haṇṇugaḻige nīrannu prokṣaṇe māḍi devarige naivedyavannu samarpisabeku. oṁ bhūrbhuvaḥ svaḥ| tatsaviturvareṇyaṁ bhargo devasya dhīmahi| dhiyo yo naḥ pracodayāt| satyaṁ tvarate pariṣiṁcāmi. prāṇāya svāhā, apānāya svāhā, vyānāya svāhā, udānāya svāhā, samānāya svāhā, brahmaṇe namaḥ. madhye madhye pāṇiṁ samarpayāmi, hastaprakṣāḻanaṁ mukhaprakṣāḻanaṁ samarpayāmi, svarṇapuṣpadakṣiṇāṁ samarpayāmi, sarvopacārārthe maṁtrākṣatān samarpayāmi, maṁgaḻamahā nīrājanadīpaṁ samarpayāmi.",
+      "devanagari": "durādharṣāṁ nitya-puṣṭāṁ karīṣiṇīm\nīśvarī ghūma sarvabhūta ārāma tāmihopahvae\nśriyam haridrā kumakuma maiṁ sukha-saubhāgya\ndravyāṇisamarpayāmi nānāvidha pramāṇapatra\npuṣpāṇi samarpayāmi sūkhā jamā vaha ekadama thā\njamāva oṁ kapilāya namaḥ aba hama gajakarṇakā jamā vaha\nlaṁbodarāya namaḥ oma māṁ gaurī namaḥ oma\nvignārājā janma havana gaṇādhipatae namaḥ oṁ śrī\nmahā gaṇeśāya namā khānā ṭhīka hai parimala patthara\npuṣpāṇi samarpayāmi dhūpama āghrāpayāmi hai\nmeṁ do pavitra are dhūpa balamua tohare sarve\nko athavā suvarṇa yaha nirṇaya kuṁṭhā kaṁṭenara\nbāra aisā hotā hai dhūpa avarṇoṁ to isa sarve\nko manā taraha se adbhuta va gaṁdā vīḍiyo gaṁdā\nbrahmāgirī aiśvaryavāna hama dhūpa adhyakṣatā\nmadhu kumāra ghara para yā visthāpita evaṁ\npradarśaniyāṁ mī tara sthāpana hī ve jima\nnivedayāmi gadarala nirbhaya\nki jilā hanumānagar̤ha ke niraṁtara ऑpśana e baॉḍī\ndevariyā nahīṁ ve donoṁ samarpita sabhī ko oma\nbhūra bhuvā svāhā tatsaviturvareṁyaṁ bhargo\ndevasya dhīmahi dhiyo yo na pracodayāt satya\npareśana cāmī prāṇāya svāhā apānāya svāhā\nvyānāya svāhā udānāya svāhā samānāya\nsvāhā ūṁ brahmaṇe namaḥ madhyama adhikāṁśa samaya\npara dhyāna hastaprakṣālana namaka kā ālama\nsamarpayāmi svarṇa padaka snāna samarpayāmi\nsarva vicārārtha the maṁtra akṣatān\nsamarpayāmi maṁgalama hanī rājya dīpama samarpayāmi\nmanī alī\nisa sṭeja samṛddhi oha bhairūsarī kuṁḍū devarī",
+      "meaning": "Complete source-audio coverage for gandha, puṣpa, dhūpa, dīpa, and naivedya, cross-checked against a full GPT pass, overlapping and contiguous chunk passes, boundary clips, and YouTube’s timed captions.",
+      "originalScript": "ಹರಿದ್ರಾ ಕುಂಕುಮ ಸೌಭಾಗ್ಯ ದ್ರವ್ಯಾಣಿ ಸಮರ್ಪಯಾಮಿ, ಗಂಧದ್ವಾರಾಂ ದುರಾಧರ್ಷಾಂ ನಿತ್ಯಪುಷ್ಟಾಂ ಕರೀಷಿಣೀಂ, ಈಶ್ವರೀಂ ಸರ್ವಭೂತಾನಾಂ ತಾಮಿಹೋಪಹ್ವಯೇ ಶ್ರೀಯಂ. ಹರಿದ್ರಾ ಕುಂಕುಮ ಸುಕಸೌಭಾಗ್ಯ ದ್ರವ್ಯಾಣಿ ಸಮರ್ಪಯಾಮಿ. ನಾನಾವಿಧ ಪರಿಮಳ ಪತ್ರ ಪುಷ್ಪಾಣಿ ಸಮರ್ಪಯಾಮಿ. ಸುಮುಖಾಯ ನಮಃ, ಏಕದಂತಾಯ ನಮಃ, ಕಪಿಲಾಯ ನಮಃ, ಗಜಕರ್ಣಕಾಯ ನಮಃ, ಲಂಬೋದರಾಯ ನಮಃ, ವಿಕಟಾಯ ನಮಃ, ವಿಘ್ನರಾಜಾಯ ನಮಃ, ಗಣಾಧಿಪತಯೇ ನಮಃ, ಶ್ರೀಮನ್ ಮಹಾಗಣಾಧಿಪತಯೇ ನಮಃ, ನಾನಾವಿಧ ಪರಿಮಳ ಪತ್ರ ಪುಷ್ಪಾಣಿ ಸಮರ್ಪಯಾಮಿ. ಧೂಪಮಾಘ್ರಾಪಯಾಮಿ. ಧೂಪವಿದ್ದರೆ ಧೂಪವನ್ನು ತೋರಿಸಬೇಕು, ಅಥವಾ ಉದ್ಧರಣಿಯಲ್ಲಿ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ನೀರಿನಿಂದ ಗಂಟೆಯನ್ನು ಬಾರಿಸುತ್ತಾ ಧೂಪವನ್ನು ತೋರಿಸಬೇಕು. वनस्पतिरसोद्भूतो गन्धाढ्यो गन्ध उत्तमः। आघ्रेयः सर्वदेवानां धूपोऽयं प्रतिगृह्यताम्। ಧೂಪಮಾಘ್ರಾಪಯಾಮಿ, ಸ್ಥಾಪಿತದೀಪಂ ಪ್ರದರ್ಶಯಾಮಿ, ತತ್ರ ಸ್ಥ ಫಲನೇವೇದ್ಯಂ ನಿವೇದಯಾಮಿ. ಎದುರಲ್ಲಿರುವ ಎಲ್ಲ ಹಣ್ಣುಗಳಿಗೆ ನೀರನ್ನು ಪ್ರೋಕ್ಷಣೆ ಮಾಡಿ ದೇವರಿಗೆ ನೈವೇದ್ಯವನ್ನು ಸಮರ್ಪಿಸಬೇಕು. ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि। धियो यो नः प्रचोदयात्। ಸತ್ಯಂ ತ್ವರತೇ ಪರಿಷಿಂಚಾಮಿ. ಪ್ರಾಣಾಯ ಸ್ವಾಹಾ, ಅಪಾನಾಯ ಸ್ವಾಹಾ, ವ್ಯಾನಾಯ ಸ್ವಾಹಾ, ಉದಾನಾಯ ಸ್ವಾಹಾ, ಸಮಾನಾಯ ಸ್ವಾಹಾ, ಬ್ರಹ್ಮಣೇ ನಮಃ. ಮಧ್ಯೇ ಮಧ್ಯೇ ಪಾಣಿಂ ಸಮರ್ಪಯಾಮಿ, ಹಸ್ತಪ್ರಕ್ಷಾಳನಂ ಮುಖಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ, ಸ್ವರ್ಣಪುಷ್ಪದಕ್ಷಿಣಾಂ ಸಮರ್ಪಯಾಮಿ, ಸರ್ವೋಪಚಾರಾರ್ಥೇ ಮಂತ್ರಾಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ, ಮಂಗಳಮಹಾ ನೀರಾಜನದೀಪಂ ಸಮರ್ಪಯಾಮಿ. ",
+      "captionOriginal": "दुराधर्षां नित्य-पुष्टां करीषिणीम्\nईश्वरी घूम सर्वभूत आराम तामिहोपह्वए\nश्रियम् हरिद्रा कुमकुम मैं सुख-सौभाग्य\nद्रव्याणिसमर्पयामि नानाविध प्रमाणपत्र\nपुष्पाणि समर्पयामि सूखा जमा वह एकदम था\nजमाव ॐ कपिलाय नमः अब हम गजकर्णका जमा वह\nलंबोदराय नमः ओम मां गौरी नमः ओम\nविग्नाराजा जन्म हवन गणाधिपतए नमः ॐ श्री\nमहा गणेशाय नमा खाना ठीक है परिमल पत्थर\nपुष्पाणि समर्पयामि धूपम आघ्रापयामि है\nमें दो पवित्र अरे धूप बलमुअ तोहरे सर्वे\nको अथवा सुवर्ण यह निर्णय कुंठा कंटेनर\nबार ऐसा होता है धूप अवर्णों तो इस सर्वे\nको मना तरह से अद्भुत व गंदा वीडियो गंदा\nब्रह्मागिरी ऐश्वर्यवान हम धूप अध्यक्षता\nमधु कुमार घर पर या विस्थापित एवं\nप्रदर्शनियां मी तर स्थापन ही वे जिम\nनिवेदयामि गदरल निर्भय\nकि जिला हनुमानगढ़ के निरंतर ऑप्शन ए बॉडी\nदेवरिया नहीं वे दोनों समर्पित सभी को ओम\nभूर भुवा स्वाहा तत्सवितुर्वरेंयं भर्गो\nदेवस्य धीमहि धियो यो न प्रचोदयात् सत्य\nपरेशन चामी प्राणाय स्वाहा अपानाय स्वाहा\nव्यानाय स्वाहा उदानाय स्वाहा समानाय\nस्वाहा ऊं ब्रह्मणे नमः मध्यम अधिकांश समय\nपर ध्यान हस्तप्रक्षालन नमक का आलम\nसमर्पयामि स्वर्ण पदक स्नान समर्पयामि\nसर्व विचारार्थ थे मंत्र अक्षतान्\nसमर्पयामि मंगलम हनी राज्य दीपम समर्पयामि\nमनी अली\nइस स्टेज समृद्धि ओह भैरूसरी कुंडू देवरी",
+      "losslessRoman": "haridrā kuṁkuma saubhāgya dravyāṇi samarpayāmi, gaṁdhadvārāṁ durādharṣāṁ nityapuṣṭāṁ karīṣiṇīṁ, īśvarīṁ sarvabhūtānāṁ tāmihopahvaye śrīyaṁ. haridrā kuṁkuma sukasaubhāgya dravyāṇi samarpayāmi. nānāvidha parimaḻa patra puṣpāṇi samarpayāmi. sumukhāya namaḥ, ekadaṁtāya namaḥ, kapilāya namaḥ, gajakarṇakāya namaḥ, laṁbodarāya namaḥ, vikaṭāya namaḥ, vighnarājāya namaḥ, gaṇādhipataye namaḥ, śrīman mahāgaṇādhipataye namaḥ, nānāvidha parimaḻa patra puṣpāṇi samarpayāmi. dhūpamāghrāpayāmi. dhūpaviddare dhūpavannu torisabeku, athavā uddharaṇiyalli nīrannu tegedukoṁḍu nīriniṁda gaṁṭeyannu bārisuttā dhūpavannu torisabeku. vanaspatirasodbhūto gandhāḍhyo gandha uttamaḥ| āghreyaḥ sarvadevānāṁ dhūpo'yaṁ pratigṛhyatām| dhūpamāghrāpayāmi, sthāpitadīpaṁ pradarśayāmi, tatra stha phalanevedyaṁ nivedayāmi. eduralliruva ella haṇṇugaḻige nīrannu prokṣaṇe māḍi devarige naivedyavannu samarpisabeku. oṁ bhūrbhuvaḥ svaḥ| tatsaviturvareṇyaṁ bhargo devasya dhīmahi| dhiyo yo naḥ pracodayāt| satyaṁ tvarate pariṣiṁcāmi. prāṇāya svāhā, apānāya svāhā, vyānāya svāhā, udānāya svāhā, samānāya svāhā, brahmaṇe namaḥ. madhye madhye pāṇiṁ samarpayāmi, hastaprakṣāḻanaṁ mukhaprakṣāḻanaṁ samarpayāmi, svarṇapuṣpadakṣiṇāṁ samarpayāmi, sarvopacārārthe maṁtrākṣatān samarpayāmi, maṁgaḻamahā nīrājanadīpaṁ samarpayāmi.",
+      "structuredBlocks": [
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ಹರಿದ್ರಾ ಕುಂಕುಮ ಸೌಭಾಗ್ಯ ದ್ರವ್ಯಾಣಿ ಸಮರ್ಪಯಾಮಿ, ಗಂಧದ್ವಾರಾಂ ದುರಾಧರ್ಷಾಂ ನಿತ್ಯಪುಷ್ಟಾಂ ಕರೀಷಿಣೀಂ, ಈಶ್ವರೀಂ ಸರ್ವಭೂತಾನಾಂ ತಾಮಿಹೋಪಹ್ವಯೇ ಶ್ರೀಯಂ. ಹರಿದ್ರಾ ಕುಂಕುಮ ಸುಕಸೌಭಾಗ್ಯ ದ್ರವ್ಯಾಣಿ ಸಮರ್ಪಯಾಮಿ. ನಾನಾವಿಧ ಪರಿಮಳ ಪತ್ರ ಪುಷ್ಪಾಣಿ ಸಮರ್ಪಯಾಮಿ. ಸುಮುಖಾಯ ನಮಃ, ಏಕದಂತಾಯ ನಮಃ, ಕಪಿಲಾಯ ನಮಃ, ಗಜಕರ್ಣಕಾಯ ನಮಃ, ಲಂಬೋದರಾಯ ನಮಃ, ವಿಕಟಾಯ ನಮಃ, ವಿಘ್ನರಾಜಾಯ ನಮಃ, ಗಣಾಧಿಪತಯೇ ನಮಃ, ಶ್ರೀಮನ್ ಮಹಾಗಣಾಧಿಪತಯೇ ನಮಃ, ನಾನಾವಿಧ ಪರಿಮಳ ಪತ್ರ ಪುಷ್ಪಾಣಿ ಸಮರ್ಪಯಾಮಿ. ಧೂಪಮಾಘ್ರಾಪಯಾಮಿ. ",
+          "text": "haridrā kuṁkuma saubhāgya dravyāṇi samarpayāmi, gaṁdhadvārāṁ durādharṣāṁ\nnityapuṣṭāṁ karīṣiṇīṁ, īśvarīṁ sarvabhūtānāṁ tāmihopahvaye śrīyaṁ.\n\nharidrā kuṁkuma sukha saubhāgya dravyāṇi samarpayāmi.\n\nnānā vidha parimaḻa patra puṣpāṇi samarpayāmi.\n\nsumukhāya namaḥ, ekadaṁtāya namaḥ, kapilāya namaḥ, gajakarṇakāya\nnamaḥ, laṁbodarāya namaḥ, vikaṭāya namaḥ, vighnarājāya\nnamaḥ, gaṇādhipataye namaḥ, śrīman mahāgaṇādhipataye namaḥ,\nnānā vidha parimaḻa patra puṣpāṇi samarpayāmi.\n\ndhūpamāghrāpayāmi."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಧೂಪವಿದ್ದರೆ ಧೂಪವನ್ನು ತೋರಿಸಬೇಕು, ಅಥವಾ ಉದ್ಧರಣಿಯಲ್ಲಿ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ನೀರಿನಿಂದ ಗಂಟೆಯನ್ನು ಬಾರಿಸುತ್ತಾ ಧೂಪವನ್ನು ತೋರಿಸಬೇಕು. ",
+          "sourceRoman": "dhūpaviddare dhūpavannu torisabeku, athavā uddharaṇiyalli nīrannu tegedukoṁḍu nīriniṁda gaṁṭeyannu bārisuttā dhūpavannu torisabeku.",
+          "english": "If incense is available, show it. Otherwise, take water in the uddharaṇi and, while ringing the bell, symbolically offer incense with the water."
+        },
+        {
+          "kind": "mantra",
+          "sourceOriginal": "वनस्पतिरसोद्भूतो गन्धाढ्यो गन्ध उत्तमः। आघ्रेयः सर्वदेवानां धूपोऽयं प्रतिगृह्यताम्। ಧೂಪಮಾಘ್ರಾಪಯಾಮಿ, ಸ್ಥಾಪಿತದೀಪಂ ಪ್ರದರ್ಶಯಾಮಿ, ತತ್ರ ಸ್ಥ ಫಲನೇವೇದ್ಯಂ ನಿವೇದಯಾಮಿ. ",
+          "text": "vanaspatirasodbhūto gandhāḍhyo gandha uttamaḥ|\n\nāghreyaḥ sarvadevānāṁ dhūpo'yaṁ pratigṛhyatām|\n\ndhūpamāghrāpayāmi, sthāpitadīpaṁ pradarśayāmi, tatra\nstha phalanevedyaṁ nivedayāmi."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಎದುರಲ್ಲಿರುವ ಎಲ್ಲ ಹಣ್ಣುಗಳಿಗೆ ನೀರನ್ನು ಪ್ರೋಕ್ಷಣೆ ಮಾಡಿ ದೇವರಿಗೆ ನೈವೇದ್ಯವನ್ನು ಸಮರ್ಪಿಸಬೇಕು. ",
+          "sourceRoman": "eduralliruva ella haṇṇugaḻige nīrannu prokṣaṇe māḍi devarige naivedyavannu samarpisabeku.",
+          "english": "Sprinkle water over all the fruits placed before the deity and offer them as naivedya."
+        },
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि। धियो यो नः प्रचोदयात्। ಸತ್ಯಂ ತ್ವರತೇ ಪರಿಷಿಂಚಾಮಿ. ಪ್ರಾಣಾಯ ಸ್ವಾಹಾ, ಅಪಾನಾಯ ಸ್ವಾಹಾ, ವ್ಯಾನಾಯ ಸ್ವಾಹಾ, ಉದಾನಾಯ ಸ್ವಾಹಾ, ಸಮಾನಾಯ ಸ್ವಾಹಾ, ಬ್ರಹ್ಮಣೇ ನಮಃ. ಮಧ್ಯೇ ಮಧ್ಯೇ ಪಾಣಿಂ ಸಮರ್ಪಯಾಮಿ, ಹಸ್ತಪ್ರಕ್ಷಾಳನಂ ಮುಖಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ, ಸ್ವರ್ಣಪುಷ್ಪದಕ್ಷಿಣಾಂ ಸಮರ್ಪಯಾಮಿ, ಸರ್ವೋಪಚಾರಾರ್ಥೇ ಮಂತ್ರಾಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ, ಮಂಗಳಮಹಾ ನೀರಾಜನದೀಪಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "oṁ bhūrbhuvaḥ svaḥ|\n\ntatsaviturvareṇyaṁ bhargo devasya dhīmahi|\n\ndhiyo yo naḥ pracodayāt|\n\nsatyaṁ tvarate pariṣiṁcāmi.\n\nprāṇāya svāhā, apānāya svāhā, vyānāya svāhā,\nudānāya svāhā, samānāya svāhā, brahmaṇe namaḥ.\n\nmadhye madhye pāṇiṁ samarpayāmi, hastaprakṣāḻanaṁ\nmukhaprakṣāḻanaṁ samarpayāmi, svarṇapuṣpadakṣiṇāṁ samarpayāmi, sarvopacārārthe\nmaṁtrākṣatān samarpayāmi, maṁgaḻamahā nīrājanadīpaṁ samarpayāmi."
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "slug": "uttara-mangalarati-visarjana",
+      "group": "Uttara Pūjā · Visarjana",
+      "start": "5:29",
+      "end": "8:02",
+      "startSeconds": 329.45,
+      "sourceVideo": "https://www.youtube.com/watch?v=oU7gUCqhiBI",
+      "title": "Maṅgalārati, mantra-puṣpāñjali, and visarjana",
+      "sanskrit": "Complete Roman recitation with spoken Kannada directions translated into English",
+      "mantra": "maneyalli eṣṭu jana iddīro ellarū serikoṁḍu devarige viśeṣavāgi maṁtravannu heḻuttā, hāgū hāḍannu heḻuttā, hāgū harikathāmṛtasāradalli baṁdiruvaṁtaha gaṇapati saṁdhi adannū kūḍa heḻuttā bhaktiyiṁda gaṇapatige maṁgaḻāratiyannu samarpisabeku. oṁ ātūnā indrakṣumantaṁ citraṁ grābhaṁ saṁgṛbhāya| mahāhastī dakṣiṇena| gaṇānāṁ tvā gaṇapatiṁ havāmahe kaviṁ kavīnāmupavaśravastamam| jyeṣṭharājaṁ brahmaṇāṁ brahmaṇaspata ā naḥ śṛṇvannūtibhiḥ sīda sādanam| śrīman mahāgaṇapataye namaḥ| tadaṁtargata śrī viśvaṁbharāya namaḥ, maṁgaḻamahā nīrājanadīpaṁ samarpayāmi. maṁgaḻāratiyannu darisabeku. vedokta maṁtrapuṣpāṁjaliṁ samarpayāmi. yajñena yajñamayajaṁta devāstāni dharmāṇi prathamānyāsan, te ha nākaṁ mahimānaḥ sacaṁta yatra pūrve sādhyāḥ saṁti devāḥ. śrīman mahāgaṇādhipataye namaḥ, vedokta maṁtrapuṣpāṁjaliṁ samarpayāmi. kaiyalli maṁtrākṣateyannu tegedukoṁḍu devara vigrahada mele adannu hāki, vigrahavannu alagāḍisabeku. oṁ uttiṣṭha brahmaṇaspate devayaṁtastvemahe, upa pra yaṁtu marutaḥ sudānavo vayaṁ dātre prāśūrbhavā sacā, abhi droṇāni babhruśociṣe, ava tasya visarjane, yāṁ tu devagaṇāḥ sarve pūjāmādāya pārthivīṁ, iṣṭakāmyarthasiddhyarthaṁ punarāgamanāya ca. koneya maṁtravannu heḻi gaṇapatiyannu visarjane māḍabeku.",
+      "devanagari": "ke viśeṣa abhāgī maṁtra unheṁ guptā hāu\nhārḍa ne har̤atāla guru hari kathā mṛtaka chātra\ndillī baṁdaravana tarapha gaṇapati saṁdhi hada nukur̤ā\nhar̤atāla bhakti indlaw.com pratijñā\nmaṁgalārathī anubhava samarpita sabaiko meṁ\nmuṁgarā evaṁ saṁgharṣa kā sahārā thī rakṣaṇā\ngaṇānāṁ tvā gaṇapatiṁ havāmahe kaviṁ\nkavīnāmupamaśravastamam jasṭa haradama brahmaṇoṁ\nbrahmaṇoṁ aspatāla prabaṁdhana sirasā āśrama\nśrī mahāgaṇapati yaha mahāvata aṁtargata śrī\nviśvaṁbhara āja jāṇa maṁgalama hīrā janama dina kī\npaṁpa samarpayāmi maṁgala āratī hanumāna\naura merī sabhī ko\nyajñena yajñamayajaṁta devāstāni dharmāṇi\nprathamānyāsana te ha nākaṁ mahimāna sacaṁta yatra\npūrve sādhyā saṁti raivāṁ\nśrīmanmahāgaṇādhipatae namaḥ vividhatā\nmaṁtrapuṣpāṁjaliṁ samarpayāmi oṁ\nki kaī eliyana rakṣati aṁtargata kaṁḍoma devarā\nbigār̤a amezana mahaka kī vidaḍrāvala mohallā\ndūsare ko vaha pustaka brahmānasa patideva\naṁtataḥ baje vaha priyamvadā sudhāranā vijeṁdra\naparādha aura bhagavāna adhāra vida rājū nikaṭatama\nprakāryavāda ko havā tasya viṣae jāne yāṁti\ndevavratā gānā sarve pūjā mādā jarakha evaṁ isa\nṭakarāva yāra siddhārthama punarāgamana adhyayana taraha\nunheṁ bar̤e gaṇapati anusāra jarā dekho to",
+      "meaning": "Complete source-audio coverage for maṅgalārati, mantra-puṣpāñjali, and visarjana, cross-checked against a full GPT pass, overlapping and contiguous chunk passes, boundary clips, and YouTube’s timed captions.",
+      "originalScript": "ಮನೆಯಲ್ಲಿ ಎಷ್ಟು ಜನ ಇದ್ದೀರೋ ಎಲ್ಲರೂ ಸೇರಿಕೊಂಡು ದೇವರಿಗೆ ವಿಶೇಷವಾಗಿ ಮಂತ್ರವನ್ನು ಹೇಳುತ್ತಾ, ಹಾಗೂ ಹಾಡನ್ನು ಹೇಳುತ್ತಾ, ಹಾಗೂ ಹರಿಕಥಾಮೃತಸಾರದಲ್ಲಿ ಬಂದಿರುವಂತಹ ಗಣಪತಿ ಸಂಧಿ ಅದನ್ನೂ ಕೂಡ ಹೇಳುತ್ತಾ ಭಕ್ತಿಯಿಂದ ಗಣಪತಿಗೆ ಮಂಗಳಾರತಿಯನ್ನು ಸಮರ್ಪಿಸಬೇಕು. ॐ आतूना इन्द्रक्षुमन्तं चित्रं ग्राभं संगृभाय। महाहस्ती दक्षिणेन। गणानां त्वा गणपतिं हवामहे कविं कवीनामुपवश्रवस्तमम्। ज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत आ नः शृण्वन्नूतिभिः सीद सादनम्। श्रीमन् महागणपतये नमः। ತದಂತರ್ಗತ ಶ್ರೀ ವಿಶ್ವಂಭರಾಯ ನಮಃ, ಮಂಗಳಮಹಾ ನೀರಾಜನದೀಪಂ ಸಮರ್ಪಯಾಮಿ. ಮಂಗಳಾರತಿಯನ್ನು ದರಿಸಬೇಕು. ವೇದೋಕ್ತ ಮಂತ್ರಪುಷ್ಪಾಂಜಲಿಂ ಸಮರ್ಪಯಾಮಿ. ಯಜ್ಞೇನ ಯಜ್ಞಮಯಜಂತ ದೇವಾಸ್ತಾನಿ ಧರ್ಮಾಣಿ ಪ್ರಥಮಾನ್ಯಾಸನ್, ತೇ ಹ ನಾಕಂ ಮಹಿಮಾನಃ ಸಚಂತ ಯತ್ರ ಪೂರ್ವೇ ಸಾಧ್ಯಾಃ ಸಂತಿ ದೇವಾಃ. ಶ್ರೀಮನ್ ಮಹಾಗಣಾಧಿಪತಯೇ ನಮಃ, ವೇದೋಕ್ತ ಮಂತ್ರಪುಷ್ಪಾಂಜಲಿಂ ಸಮರ್ಪಯಾಮಿ. ಕೈಯಲ್ಲಿ ಮಂತ್ರಾಕ್ಷತೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ದೇವರ ವಿಗ್ರಹದ ಮೇಲೆ ಅದನ್ನು ಹಾಕಿ, ವಿಗ್ರಹವನ್ನು ಅಲಗಾಡಿಸಬೇಕು. ಓಂ ಉತ್ತಿಷ್ಠ ಬ್ರಹ್ಮಣಸ್ಪತೇ ದೇವಯಂತಸ್ತ್ವೇಮಹೇ, ಉಪ ಪ್ರ ಯಂತು ಮರುತಃ ಸುದಾನವೋ ವಯಂ ದಾತ್ರೇ ಪ್ರಾಶೂರ್ಭವಾ ಸಚಾ, ಅಭಿ ದ್ರೋಣಾನಿ ಬಭ್ರುಶೋಚಿಷೇ, ಅವ ತಸ್ಯ ವಿಸರ್ಜನೇ, ಯಾಂ ತು ದೇವಗಣಾಃ ಸರ್ವೇ ಪೂಜಾಮಾದಾಯ ಪಾರ್ಥಿವೀಂ, ಇಷ್ಟಕಾಮ್ಯರ್ಥಸಿದ್ಧ್ಯರ್ಥಂ ಪುನರಾಗಮನಾಯ ಚ. ಕೊನೆಯ ಮಂತ್ರವನ್ನು ಹೇಳಿ ಗಣಪತಿಯನ್ನು ವಿಸರ್ಜನೆ ಮಾಡಬೇಕು. ",
+      "captionOriginal": "के विशेष अभागी मंत्र उन्हें गुप्ता हाउ\nहार्ड ने हड़ताल गुरु हरि कथा मृतक छात्र\nदिल्ली बंदरवन तरफ गणपति संधि हद नुकुड़ा\nहड़ताल भक्ति indlaw.com प्रतिज्ञा\nमंगलारथी अनुभव समर्पित सबैको में\nमुंगरा एवं संघर्ष का सहारा थी रक्षणा\nगणानां त्वा गणपतिं हवामहे कविं\nकवीनामुपमश्रवस्तमम् जस्ट हरदम ब्रह्मणों\nब्रह्मणों अस्पताल प्रबंधन सिरसा आश्रम\nश्री महागणपति यह महावत अंतर्गत श्री\nविश्वंभर आज जाण मंगलम हीरा जनम दिन की\nपंप समर्पयामि मंगल आरती हनुमान\nऔर मेरी सभी को\nयज्ञेन यज्ञमयजंत देवास्तानि धर्माणि\nप्रथमान्यासन ते ह नाकं महिमान सचंत यत्र\nपूर्वे साध्या संति रैवां\nश्रीमन्महागणाधिपतए नमः विविधता\nमंत्रपुष्पांजलिं समर्पयामि ॐ\nकि कई एलियन रक्षति अंतर्गत कंडोम देवरा\nबिगाड़ अमेज़न महक की विदड्रावल मोहल्ला\nदूसरे को वह पुस्तक ब्रह्मानस पतिदेव\nअंततः बजे वह प्रियम्वदा सुधारना विजेंद्र\nअपराध और भगवान अधार विद राजू निकटतम\nप्रकार्यवाद को हवा तस्य विषए जाने यांति\nदेवव्रता गाना सर्वे पूजा मादा जरख एवं इस\nटकराव यार सिद्धार्थम पुनरागमन अध्ययन तरह\nउन्हें बड़े गणपति अनुसार जरा देखो तो",
+      "losslessRoman": "maneyalli eṣṭu jana iddīro ellarū serikoṁḍu devarige viśeṣavāgi maṁtravannu heḻuttā, hāgū hāḍannu heḻuttā, hāgū harikathāmṛtasāradalli baṁdiruvaṁtaha gaṇapati saṁdhi adannū kūḍa heḻuttā bhaktiyiṁda gaṇapatige maṁgaḻāratiyannu samarpisabeku. oṁ ātūnā indrakṣumantaṁ citraṁ grābhaṁ saṁgṛbhāya| mahāhastī dakṣiṇena| gaṇānāṁ tvā gaṇapatiṁ havāmahe kaviṁ kavīnāmupavaśravastamam| jyeṣṭharājaṁ brahmaṇāṁ brahmaṇaspata ā naḥ śṛṇvannūtibhiḥ sīda sādanam| śrīman mahāgaṇapataye namaḥ| tadaṁtargata śrī viśvaṁbharāya namaḥ, maṁgaḻamahā nīrājanadīpaṁ samarpayāmi. maṁgaḻāratiyannu darisabeku. vedokta maṁtrapuṣpāṁjaliṁ samarpayāmi. yajñena yajñamayajaṁta devāstāni dharmāṇi prathamānyāsan, te ha nākaṁ mahimānaḥ sacaṁta yatra pūrve sādhyāḥ saṁti devāḥ. śrīman mahāgaṇādhipataye namaḥ, vedokta maṁtrapuṣpāṁjaliṁ samarpayāmi. kaiyalli maṁtrākṣateyannu tegedukoṁḍu devara vigrahada mele adannu hāki, vigrahavannu alagāḍisabeku. oṁ uttiṣṭha brahmaṇaspate devayaṁtastvemahe, upa pra yaṁtu marutaḥ sudānavo vayaṁ dātre prāśūrbhavā sacā, abhi droṇāni babhruśociṣe, ava tasya visarjane, yāṁ tu devagaṇāḥ sarve pūjāmādāya pārthivīṁ, iṣṭakāmyarthasiddhyarthaṁ punarāgamanāya ca. koneya maṁtravannu heḻi gaṇapatiyannu visarjane māḍabeku.",
+      "structuredBlocks": [
+        {
+          "kind": "action",
+          "sourceOriginal": "ಮನೆಯಲ್ಲಿ ಎಷ್ಟು ಜನ ಇದ್ದೀರೋ ಎಲ್ಲರೂ ಸೇರಿಕೊಂಡು ದೇವರಿಗೆ ವಿಶೇಷವಾಗಿ ಮಂತ್ರವನ್ನು ಹೇಳುತ್ತಾ, ಹಾಗೂ ಹಾಡನ್ನು ಹೇಳುತ್ತಾ, ಹಾಗೂ ಹರಿಕಥಾಮೃತಸಾರದಲ್ಲಿ ಬಂದಿರುವಂತಹ ಗಣಪತಿ ಸಂಧಿ ಅದನ್ನೂ ಕೂಡ ಹೇಳುತ್ತಾ ಭಕ್ತಿಯಿಂದ ಗಣಪತಿಗೆ ಮಂಗಳಾರತಿಯನ್ನು ಸಮರ್ಪಿಸಬೇಕು. ",
+          "sourceRoman": "maneyalli eṣṭu jana iddīro ellarū serikoṁḍu devarige viśeṣavāgi maṁtravannu heḻuttā, hāgū hāḍannu heḻuttā, hāgū harikathāmṛtasāradalli baṁdiruvaṁtaha gaṇapati saṁdhi adannū kūḍa heḻuttā bhaktiyiṁda gaṇapatige maṁgaḻāratiyannu samarpisabeku.",
+          "english": "Everyone in the household should gather and, with devotion, offer maṅgalārati to Ganapati while reciting mantras and songs, including the Ganapati Sandhi from Harikathāmṛtasāra."
+        },
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ॐ आतूना इन्द्रक्षुमन्तं चित्रं ग्राभं संगृभाय। महाहस्ती दक्षिणेन। गणानां त्वा गणपतिं हवामहे कविं कवीनामुपवश्रवस्तमम्। ज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत आ नः शृण्वन्नूतिभिः सीद सादनम्। श्रीमन् महागणपतये नमः। ತದಂತರ್ಗತ ಶ್ರೀ ವಿಶ್ವಂಭರಾಯ ನಮಃ, ಮಂಗಳಮಹಾ ನೀರಾಜನದೀಪಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "oṁ ā tū na indra kṣumantaṁ citraṁ grābhaṁ saṁgṛbhāya|\n\nmahāhastī dakṣiṇena|\n\ngaṇānāṁ tvā gaṇapatiṁ havāmahe kaviṁ kavīnām upavaśravastamam|\n\njyeṣṭharājaṁ brahmaṇāṁ brahmaṇaspata ā naḥ śṛṇvannūtibhiḥ sīda sādanam|\n\nśrīman mahāgaṇapataye namaḥ|\n\ntadaṁtargata śrī viśvaṁbharāya namaḥ,\nmaṁgaḻamahā nīrājanadīpaṁ samarpayāmi."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಮಂಗಳಾರತಿಯನ್ನು ದರಿಸಬೇಕು. ",
+          "sourceRoman": "maṁgaḻāratiyannu darisabeku.",
+          "english": "Receive the maṅgalārati."
+        },
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ವೇದೋಕ್ತ ಮಂತ್ರಪುಷ್ಪಾಂಜಲಿಂ ಸಮರ್ಪಯಾಮಿ. ಯಜ್ಞೇನ ಯಜ್ಞಮಯಜಂತ ದೇವಾಸ್ತಾನಿ ಧರ್ಮಾಣಿ ಪ್ರಥಮಾನ್ಯಾಸನ್, ತೇ ಹ ನಾಕಂ ಮಹಿಮಾನಃ ಸಚಂತ ಯತ್ರ ಪೂರ್ವೇ ಸಾಧ್ಯಾಃ ಸಂತಿ ದೇವಾಃ. ಶ್ರೀಮನ್ ಮಹಾಗಣಾಧಿಪತಯೇ ನಮಃ, ವೇದೋಕ್ತ ಮಂತ್ರಪುಷ್ಪಾಂಜಲಿಂ ಸಮರ್ಪಯಾಮಿ. ",
+          "text": "vedokta maṁtrapuṣpāṁjaliṁ samarpayāmi.\n\nyajñena yajñamayajaṁta devāstāni dharmāṇi prathamānyāsan, te ha nākaṁ\nmahimānaḥ sacaṁta yatra pūrve sādhyāḥ saṁti devāḥ.\n\nśrīman mahāgaṇādhipataye namaḥ, vedokta maṁtrapuṣpāṁjaliṁ samarpayāmi."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಕೈಯಲ್ಲಿ ಮಂತ್ರಾಕ್ಷತೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ದೇವರ ವಿಗ್ರಹದ ಮೇಲೆ ಅದನ್ನು ಹಾಕಿ, ವಿಗ್ರಹವನ್ನು ಅಲಗಾಡಿಸಬೇಕು. ",
+          "sourceRoman": "kaiyalli maṁtrākṣateyannu tegedukoṁḍu devara vigrahada mele adannu hāki, vigrahavannu alagāḍisabeku.",
+          "english": "Take mantrākṣata in the hand, place it upon the deity’s image, and gently move the image."
+        },
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ಓಂ ಉತ್ತಿಷ್ಠ ಬ್ರಹ್ಮಣಸ್ಪತೇ ದೇವಯಂತಸ್ತ್ವೇಮಹೇ, ಉಪ ಪ್ರ ಯಂತು ಮರುತಃ ಸುದಾನವೋ ವಯಂ ದಾತ್ರೇ ಪ್ರಾಶೂರ್ಭವಾ ಸಚಾ, ಅಭಿ ದ್ರೋಣಾನಿ ಬಭ್ರುಶೋಚಿಷೇ, ಅವ ತಸ್ಯ ವಿಸರ್ಜನೇ, ಯಾಂ ತು ದೇವಗಣಾಃ ಸರ್ವೇ ಪೂಜಾಮಾದಾಯ ಪಾರ್ಥಿವೀಂ, ಇಷ್ಟಕಾಮ್ಯರ್ಥಸಿದ್ಧ್ಯರ್ಥಂ ಪುನರಾಗಮನಾಯ ಚ. ",
+          "text": "oṁ uttiṣṭha brahmaṇaspate devayantas tvemahe, upa pra yantu\nmarutaḥ sudānavo yebhir yajñam imaṁ naś ca nodasi.\n\nabhyāvartadhvam adrayo niṣiktaṁ puṣkare madhu.\n\nava tasya visarjane.\n\nyāntu devagaṇāḥ sarve pūjām ādāya\npārthivīm, iṣṭakāmyārtha siddhyarthaṁ punarāgamanāya ca."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ಕೊನೆಯ ಮಂತ್ರವನ್ನು ಹೇಳಿ ಗಣಪತಿಯನ್ನು ವಿಸರ್ಜನೆ ಮಾಡಬೇಕು. ",
+          "sourceRoman": "koneya maṁtravannu heḻi gaṇapatiyannu visarjane māḍabeku.",
+          "english": "Recite the final mantra and perform Ganapati visarjana."
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "slug": "uttara-prayer-completion",
+      "group": "Uttara Pūjā · Visarjana",
+      "start": "8:02",
+      "end": "9:36",
+      "startSeconds": 482.719,
+      "sourceVideo": "https://www.youtube.com/watch?v=oU7gUCqhiBI",
+      "title": "Prayer, samarpaṇa, and completion",
+      "sanskrit": "Complete Roman recitation with spoken Kannada directions translated into English",
+      "mantra": "gaṇapatiyalli hāgū tadaṁtaragatanāda viśvaṁbhara nāmaka paramātmanalli viśeṣavāgi prārthaneyannu māḍikoḻḻabeku. varṣa varṣagaḻalli devaru namma maneyalli sannihitanāgi namage viśeṣavāgi yāvude tarahada satkarmagaḻallāgali, yāvude tarahada śravaṇa mananādigaḻallāgali vighnavannu bāradeyiddaṁte nammannu noḍikoṁḍu viśeṣavāgi sādhana mārgadalli nammannu naḍesi anugraha māḍuvudāgi ā devaralli viśeṣavāgi bhaktiyiṁda prārthaneyannu māḍabeku. vakratuṁḍa mahākāya sūryakoṭi samaprabha, nirvighnaṁ kuru me deva sarvakāryeṣu sarvadā. jaya jayatu vighneśa tāpatraya vināśaka, viśvamaṁgaḻa jaya jayatu vidyā pradāyaka vītabhayaśoka, jaya jayatu cāruvāṁga karuṇānayana, niṁdali noḍi janmāmṛtigaḻannu pariharisu bhaktarige bhavadoḻage. namagū hāgū ella sajjana samudāyakkū kūḍa yāvude vighnavu bāradeddaṁte satkarmavannu māḍisi nammannu uddhāra māḍu paramātma eṁbudāgi gaṇapatiya aṁtargatanāda ā viśvaṁbhara nāmakanādaṁtaha ā paramātmanige prārthaneyannu sallisi, ā devarige ī pūjeyannu samarpisabeku. anena mayā kṛta yathāśakti gaṇapati pūjanena asmat guruvaṁtargata bhāratī ramaṇa mukhya prāṇāṁtargata śrī viśvaṁbharaḥ prīyatāṁ prīto varado bhavatu śrī kṛṣṇārpaṇamastu. lakṣmī ramaṇa goviṁda, goviṁda.",
+      "devanagari": "nāmaka paramātmā lie viśeṣa sabhā ke prārthane\nhanumāna chur̤āvai ko varṣā varṣā galī devaro\nnaṁbara ne lie saṁhitā nā ki namaka viśeṣajña yā\nvaha taraha dahaśata kara magara lāgale yāda yaha taraha\nśravaṇa banā dūlhā ke lie vijñāpana meṁ\nbhārata yaha ghaṁṭe naṁbara no rikaॉrḍa ṭo viśeṣa\nsabhā kī sādhanā mārga dillī naṁbara 998 sīsī\nanugraha mānava dāgī devara alī viśeṣa sabhā ke\nbhakti ina da prārthanīya bar̤ā bevakūpha\nvakratuṁḍa mahākārya sūryakoṭi samaprabha\nnirvighnama kuru me deva sarvakāryeṣu\nsarvadā cāhie to igneśa a tāpatraya vināśāya\nkā viśva maṁgala hai cāhie to vidyā pradāyaka\nabhī tapeśvara kāma jaja hai tvacā karuṇāmaya\nhradaya ne noṭisa janma yā mṛtyu khar̤e moharī\nṛṣabha tarīke thor̤ā-thor̤ā ke namaka ūrjā lala\nsahita samudāyaka kūr̤ā yā gurde vijñāna\nbhārata dama para satkarmoṁ jisase yaha namana udhāra\nkamāṁḍo pramātmā saṁbhāgīya gaṇapati ke\naṁtargata nādayā viśvaṁbhara nāmaka graṁtha āvara mata\nbanie prārthanīya musalasila\nki āditya bharī yaha pūrva janmoṁ samarpita\nsabhā ko āne nā majāka karatā hai yathāśakti\nki gaṇapati pūjana hai nā a sataguru aṁtargata\nyaॉrka bhāratīya pramukha va prāṇa aṁtargata tahata\nśrī viśvaṁbhara hara priyatā mṛta vrata aura\nśrī kṛṣṇā praṇāma vastuaiṁ lakṣmīramaṇā\ngoviṁdā goviṁdā da",
+      "meaning": "Complete source-audio coverage for prayer, samarpaṇa, and completion, cross-checked against a full GPT pass, overlapping and contiguous chunk passes, boundary clips, and YouTube’s timed captions.",
+      "originalScript": "ಗಣಪತಿಯಲ್ಲಿ ಹಾಗೂ ತದಂತರಗತನಾದ ವಿಶ್ವಂಭರ ನಾಮಕ ಪರಮಾತ್ಮನಲ್ಲಿ ವಿಶೇಷವಾಗಿ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಿಕೊಳ್ಳಬೇಕು. ವರ್ಷ ವರ್ಷಗಳಲ್ಲಿ ದೇವರು ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಸನ್ನಿಹಿತನಾಗಿ ನಮಗೆ ವಿಶೇಷವಾಗಿ ಯಾವುದೇ ತರಹದ ಸತ್ಕರ್ಮಗಳಲ್ಲಾಗಲಿ, ಯಾವುದೇ ತರಹದ ಶ್ರವಣ ಮನನಾದಿಗಳಲ್ಲಾಗಲಿ ವಿಘ್ನವನ್ನು ಬಾರದೆಯಿದ್ದಂತೆ ನಮ್ಮನ್ನು ನೋಡಿಕೊಂಡು ವಿಶೇಷವಾಗಿ ಸಾಧನ ಮಾರ್ಗದಲ್ಲಿ ನಮ್ಮನ್ನು ನಡೆಸಿ ಅನುಗ್ರಹ ಮಾಡುವುದಾಗಿ ಆ ದೇವರಲ್ಲಿ ವಿಶೇಷವಾಗಿ ಭಕ್ತಿಯಿಂದ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಬೇಕು. ವಕ್ರತುಂಡ ಮಹಾಕಾಯ ಸೂರ್ಯಕೋಟಿ ಸಮಪ್ರಭ, ನಿರ್ವಿಘ್ನಂ ಕುರು ಮೇ ದೇವ ಸರ್ವಕಾರ್ಯೇಷು ಸರ್ವದಾ. ಜಯ ಜಯತು ವಿಘ್ನೇಶ ತಾಪತ್ರಯ ವಿನಾಶಕ, ವಿಶ್ವಮಂಗಳ ಜಯ ಜಯತು ವಿದ್ಯಾ ಪ್ರದಾಯಕ ವೀತಭಯಶೋಕ, ಜಯ ಜಯತು ಚಾರುವಾಂಗ ಕರುಣಾನಯನ, ನಿಂದಲಿ ನೋಡಿ ಜನ್ಮಾಮೃತಿಗಳನ್ನು ಪರಿಹರಿಸು ಭಕ್ತರಿಗೆ ಭವದೊಳಗೆ. ನಮಗೂ ಹಾಗೂ ಎಲ್ಲ ಸಜ್ಜನ ಸಮುದಾಯಕ್ಕೂ ಕೂಡ ಯಾವುದೇ ವಿಘ್ನವು ಬಾರದೇದ್ದಂತೆ ಸತ್ಕರ್ಮವನ್ನು ಮಾಡಿಸಿ ನಮ್ಮನ್ನು ಉದ್ಧಾರ ಮಾಡು ಪರಮಾತ್ಮ ಎಂಬುದಾಗಿ ಗಣಪತಿಯ ಅಂತರ್ಗತನಾದ ಆ ವಿಶ್ವಂಭರ ನಾಮಕನಾದಂತಹ ಆ ಪರಮಾತ್ಮನಿಗೆ ಪ್ರಾರ್ಥನೆಯನ್ನು ಸಲ್ಲಿಸಿ, ಆ ದೇವರಿಗೆ ಈ ಪೂಜೆಯನ್ನು ಸಮರ್ಪಿಸಬೇಕು. ಅನೇನ ಮಯಾ ಕೃತ ಯಥಾಶಕ್ತಿ ಗಣಪತಿ ಪೂಜನೇನ ಅಸ್ಮತ್ ಗುರುವಂತರ್ಗತ ಭಾರತೀರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಶ್ರೀ ವಿಶ್ವಂಭರಃ ಪ್ರೀಯತಾಂ ಪ್ರೀತೋ ವರದೋ ಭವತು ಶ್ರೀ ಕೃಷ್ಣಾರ್ಪಣಮಸ್ತು. ಲಕ್ಷ್ಮೀ ರಮಣ ಗೋವಿಂದ, ಗೋವಿಂದ.",
+      "captionOriginal": "नामक परमात्मा लिए विशेष सभा के प्रार्थने\nहनुमान छुड़ावै को वर्षा वर्षा गली देवरो\nनंबर ने लिए संहिता ना कि नमक विशेषज्ञ या\nवह तरह दहशत कर मगर लागले याद यह तरह\nश्रवण बना दूल्हा के लिए विज्ञापन में\nभारत यह घंटे नंबर नो रिकॉर्ड टो विशेष\nसभा की साधना मार्ग दिल्ली नंबर 998 सीसी\nअनुग्रह मानव दागी देवर अली विशेष सभा के\nभक्ति इन द प्रार्थनीय बड़ा बेवकूफ\nवक्रतुंड महाकार्य सूर्यकोटि समप्रभ\nनिर्विघ्नम कुरु मे देव सर्वकार्येषु\nसर्वदा चाहिए तो इग्नेश अ तापत्रय विनाशाय\nका विश्व मंगल है चाहिए तो विद्या प्रदायक\nअभी तपेश्वर काम जज है त्वचा करुणामय\nह्रदय ने नोटिस जन्म या मृत्यु खड़े मोहरी\nऋषभ तरीके थोड़ा-थोड़ा के नमक ऊर्जा लल\nसहित समुदायक कूड़ा या गुर्दे विज्ञान\nभारत दम पर सत्कर्मों जिससे यह नमन उधार\nकमांडो प्रमात्मा संभागीय गणपति के\nअंतर्गत नादया विश्वंभर नामक ग्रंथ आवर मत\nबनिए प्रार्थनीय मुसलसिल\nकि आदित्य भरी यह पूर्व जन्मों समर्पित\nसभा को आने ना मजाक करता है यथाशक्ति\nकि गणपति पूजन है ना अ सतगुरु अंतर्गत\nयॉर्क भारतीय प्रमुख व प्राण अंतर्गत तहत\nश्री विश्वंभर हर प्रियता मृत व्रत और\nश्री कृष्णा प्रणाम वस्तुऐं लक्ष्मीरमणा\nगोविंदा गोविंदा द",
+      "losslessRoman": "gaṇapatiyalli hāgū tadaṁtaragatanāda viśvaṁbhara nāmaka paramātmanalli viśeṣavāgi prārthaneyannu māḍikoḻḻabeku. varṣa varṣagaḻalli devaru namma maneyalli sannihitanāgi namage viśeṣavāgi yāvude tarahada satkarmagaḻallāgali, yāvude tarahada śravaṇa mananādigaḻallāgali vighnavannu bāradeyiddaṁte nammannu noḍikoṁḍu viśeṣavāgi sādhana mārgadalli nammannu naḍesi anugraha māḍuvudāgi ā devaralli viśeṣavāgi bhaktiyiṁda prārthaneyannu māḍabeku. vakratuṁḍa mahākāya sūryakoṭi samaprabha, nirvighnaṁ kuru me deva sarvakāryeṣu sarvadā. jaya jayatu vighneśa tāpatraya vināśaka, viśvamaṁgaḻa jaya jayatu vidyā pradāyaka vītabhayaśoka, jaya jayatu cāruvāṁga karuṇānayana, niṁdali noḍi janmāmṛtigaḻannu pariharisu bhaktarige bhavadoḻage. namagū hāgū ella sajjana samudāyakkū kūḍa yāvude vighnavu bāradeddaṁte satkarmavannu māḍisi nammannu uddhāra māḍu paramātma eṁbudāgi gaṇapatiya aṁtargatanāda ā viśvaṁbhara nāmakanādaṁtaha ā paramātmanige prārthaneyannu sallisi, ā devarige ī pūjeyannu samarpisabeku. anena mayā kṛta yathāśakti gaṇapati pūjanena asmat guruvaṁtargata bhāratī ramaṇa mukhya prāṇāṁtargata śrī viśvaṁbharaḥ prīyatāṁ prīto varado bhavatu śrī kṛṣṇārpaṇamastu. lakṣmī ramaṇa goviṁda, goviṁda.",
+      "structuredBlocks": [
+        {
+          "kind": "action",
+          "sourceOriginal": "ಗಣಪತಿಯಲ್ಲಿ ಹಾಗೂ ತದಂತರಗತನಾದ ವಿಶ್ವಂಭರ ನಾಮಕ ಪರಮಾತ್ಮನಲ್ಲಿ ವಿಶೇಷವಾಗಿ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಿಕೊಳ್ಳಬೇಕು. ",
+          "sourceRoman": "gaṇapatiyalli hāgū tadaṁtaragatanāda viśvaṁbhara nāmaka paramātmanalli viśeṣavāgi prārthaneyannu māḍikoḻḻabeku.",
+          "english": "Offer a special prayer to Ganapati and to the Supreme Lord named Viśvambhara who indwells him."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ವರ್ಷ ವರ್ಷಗಳಲ್ಲಿ ದೇವರು ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಸನ್ನಿಹಿತನಾಗಿ ನಮಗೆ ವಿಶೇಷವಾಗಿ ಯಾವುದೇ ತರಹದ ಸತ್ಕರ್ಮಗಳಲ್ಲಾಗಲಿ, ಯಾವುದೇ ತರಹದ ಶ್ರವಣ ಮನನಾದಿಗಳಲ್ಲಾಗಲಿ ವಿಘ್ನವನ್ನು ಬಾರದೆಯಿದ್ದಂತೆ ನಮ್ಮನ್ನು ನೋಡಿಕೊಂಡು ವಿಶೇಷವಾಗಿ ಸಾಧನ ಮಾರ್ಗದಲ್ಲಿ ನಮ್ಮನ್ನು ನಡೆಸಿ ಅನುಗ್ರಹ ಮಾಡುವುದಾಗಿ ಆ ದೇವರಲ್ಲಿ ವಿಶೇಷವಾಗಿ ಭಕ್ತಿಯಿಂದ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಬೇಕು. ",
+          "sourceRoman": "varṣa varṣagaḻalli devaru namma maneyalli sannihitanāgi namage viśeṣavāgi yāvude tarahada satkarmagaḻallāgali, yāvude tarahada śravaṇa mananādigaḻallāgali vighnavannu bāradeyiddaṁte nammannu noḍikoṁḍu viśeṣavāgi sādhana mārgadalli nammannu naḍesi anugraha māḍuvudāgi ā devaralli viśeṣavāgi bhaktiyiṁda prārthaneyannu māḍabeku.",
+          "english": "Pray with special devotion that, year after year, the deity will be present in the home, prevent obstacles in good deeds, śravaṇa and manana, guide everyone on the path of sādhana, and bestow grace."
+        },
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ವಕ್ರತುಂಡ ಮಹಾಕಾಯ ಸೂರ್ಯಕೋಟಿ ಸಮಪ್ರಭ, ನಿರ್ವಿಘ್ನಂ ಕುರು ಮೇ ದೇವ ಸರ್ವಕಾರ್ಯೇಷು ಸರ್ವದಾ. ಜಯ ಜಯತು ವಿಘ್ನೇಶ ತಾಪತ್ರಯ ವಿನಾಶಕ, ವಿಶ್ವಮಂಗಳ ಜಯ ಜಯತು ವಿದ್ಯಾ ಪ್ರದಾಯಕ ವೀತಭಯಶೋಕ, ಜಯ ಜಯತು ಚಾರುವಾಂಗ ಕರುಣಾನಯನ, ನಿಂದಲಿ ನೋಡಿ ಜನ್ಮಾಮೃತಿಗಳನ್ನು ಪರಿಹರಿಸು ಭಕ್ತರಿಗೆ ಭವದೊಳಗೆ. ",
+          "text": "vakratuṁḍa mahākāya sūryakoṭi samaprabha, nirvighnaṁ\nkuru me deva sarvakāryeṣu sarvadā.\n\njaya jayatu vighneśa tāpatraya vināśaka, viśvamaṅgala\njaya jayatu vidyā pradāyaka vītabhayaśoka.\n\njaya jayatu cāruvāṅga karuṇānayanadiṁdali nōḍi\njanmāmaya mṛtyugaḻannu pariharisu bhaktarige bhavadoḻage."
+        },
+        {
+          "kind": "action",
+          "sourceOriginal": "ನಮಗೂ ಹಾಗೂ ಎಲ್ಲ ಸಜ್ಜನ ಸಮುದಾಯಕ್ಕೂ ಕೂಡ ಯಾವುದೇ ವಿಘ್ನವು ಬಾರದೇದ್ದಂತೆ ಸತ್ಕರ್ಮವನ್ನು ಮಾಡಿಸಿ ನಮ್ಮನ್ನು ಉದ್ಧಾರ ಮಾಡು ಪರಮಾತ್ಮ ಎಂಬುದಾಗಿ ಗಣಪತಿಯ ಅಂತರ್ಗತನಾದ ಆ ವಿಶ್ವಂಭರ ನಾಮಕನಾದಂತಹ ಆ ಪರಮಾತ್ಮನಿಗೆ ಪ್ರಾರ್ಥನೆಯನ್ನು ಸಲ್ಲಿಸಿ, ಆ ದೇವರಿಗೆ ಈ ಪೂಜೆಯನ್ನು ಸಮರ್ಪಿಸಬೇಕು. ",
+          "sourceRoman": "namagū hāgū ella sajjana samudāyakkū kūḍa yāvude vighnavu bāradeddaṁte satkarmavannu māḍisi nammannu uddhāra māḍu paramātma eṁbudāgi gaṇapatiya aṁtargatanāda ā viśvaṁbhara nāmakanādaṁtaha ā paramātmanige prārthaneyannu sallisi, ā devarige ī pūjeyannu samarpisabeku.",
+          "english": "Pray to the Supreme Lord Viśvambhara within Ganapati: protect us and the whole community of virtuous people from obstacles, enable us to perform good deeds, and uplift us. Then offer this pūjā to the deity."
+        },
+        {
+          "kind": "mantra",
+          "sourceOriginal": "ಅನೇನ ಮಯಾ ಕೃತ ಯಥಾಶಕ್ತಿ ಗಣಪತಿ ಪೂಜನೇನ ಅಸ್ಮತ್ ಗುರುವಂತರ್ಗತ ಭಾರತೀರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಶ್ರೀ ವಿಶ್ವಂಭರಃ ಪ್ರೀಯತಾಂ ಪ್ರೀತೋ ವರದೋ ಭವತು ಶ್ರೀ ಕೃಷ್ಣಾರ್ಪಣಮಸ್ತು. ಲಕ್ಷ್ಮೀ ರಮಣ ಗೋವಿಂದ, ಗೋವಿಂದ.",
+          "text": "anena mayā kṛta yathāśakti gaṇapati pūjanena asmat\nguruvaṁtargata bhāratī ramaṇa mukhya prāṇāṁtargata śrī viśvaṁbharaḥ\nprīyatāṁ prīto varado bhavatu śrī kṛṣṇārpaṇamastu.\n\nlakṣmī ramaṇa goviṁda, goviṁda."
+        }
+      ]
     }
   ]
 }

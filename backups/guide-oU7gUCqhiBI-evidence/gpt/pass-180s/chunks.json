@@ -1,0 +1,36 @@
+{
+  "source": "/private/tmp/vedic-lossless-oU7gUCqhiBI.xmk2ic/work/guide-oU7gUCqhiBI/source/original-media.webm",
+  "duration_seconds": 576.561,
+  "segment_seconds": 180.0,
+  "overlap_seconds": 15.0,
+  "chunks": [
+    {
+      "index": 1,
+      "file": "original-media-part-001.webm",
+      "start_seconds": 0.0,
+      "end_seconds": 180.0,
+      "overlap_seconds": 0
+    },
+    {
+      "index": 2,
+      "file": "original-media-part-002.webm",
+      "start_seconds": 165.0,
+      "end_seconds": 345.0,
+      "overlap_seconds": 15.0
+    },
+    {
+      "index": 3,
+      "file": "original-media-part-003.webm",
+      "start_seconds": 330.0,
+      "end_seconds": 510.0,
+      "overlap_seconds": 15.0
+    },
+    {
+      "index": 4,
+      "file": "original-media-part-004.webm",
+      "start_seconds": 495.0,
+      "end_seconds": 576.561,
+      "overlap_seconds": 15.0
+    }
+  ]
+}
