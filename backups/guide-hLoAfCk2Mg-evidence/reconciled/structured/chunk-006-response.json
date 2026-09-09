@@ -1,0 +1,161 @@
+{
+  "id": "resp_0990d10c27b6bb63016aa0c87a353487d1a7e042955bf72735",
+  "object": "response",
+  "created_at": 1788921978,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1788922076,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": "You are preparing a lossless Roman-script guide from an exact transcript of a Madhva Śrī Anantapadmanābha Vrata recording.\n\nPartition the supplied SOURCE TRANSCRIPT into ordered blocks. The concatenation of blocks[*].sourceOriginal MUST equal the supplied source text character-for-character, including every space, punctuation mark, and original Unicode character. Copy all source text exactly once. Never summarize, deduplicate, correct, omit, or invent sourceOriginal. Split a mixed-language sentence at exact substring boundaries when needed.\n\nClassify Sanskrit recitation, invocations, ritual offering formulae, and quoted Sanskrit as mantra. Classify spoken Kannada directions, explanations, and Kannada narration of the vrata story as action. For mantra blocks, put a complete Roman transliteration with accurate diacritics in text; leave sourceRoman and english empty. Preserve every lexical item and repetition in the Roman text. Add only display whitespace: balanced lines of roughly 45–72 characters, one newline at verse divisions, and a blank line after each completed mantra or distinct recited formula. Keep adjacent Sanskrit recitation in one mantra block until Kannada speech intervenes.\n\nFor action blocks, put a complete Roman transliteration of every Kannada word in sourceRoman and a complete faithful English translation in english; leave text empty. Do not condense narrative or directions. Retain Sanskrit ritual terms in the English. If a Kannada utterance quotes a Sanskrit formula that should be recited, split the quoted formula into a mantra block.\n\nUse a concise descriptive title for this time window. Use group The Pūjā for worship through offerings and prayer, Completion for dora-dhāraṇa, donation, dismissal, and concluding observances, and Vrata Kathā for the narrated sacred story.\n",
+  "max_output_tokens": 20000,
+  "max_tool_calls": null,
+  "model": "gpt-5.6-sol",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_0990d10c27b6bb63016aa0c87adecc87d1963a40dcb6c68b40",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqoMjcZ71QveLcEZpJ7oz-HSqeppbyg6tdcLvw1uAg0u24yuKQb4FeNdBteZg5WVPHTuH8vMrf5QwA2oEeiESAjNni23iAJSSq5NnmiPRgZfRQwnDEM0bqFra2oXhOuCFC-Iy0rFR3tz6vJk1fJbEIeocXWHNrdDKOG3KVotD3FRXC_MnnnL2UyLu02T-bTuwROy2n8pYHteeTex3EcHSSNuE0eeRdOjSHhJpwzonSW826DakNgMSbLQJTuCtWJZdKeg791wr42T2Kn2hGVVZNkGG3LQ_R1DRgmljD07i8ii-_-qBBh-tr7WKL5dPJyR5M09uOtXyP2YYxFlHDugL1Pg5gC1aOCyM2u_y_BdAWR-GPk8yzZ3AX1Jd67_8bjLFTsIe5wNBXbrfft8hVurgWuqgQDUQoNa5lSamEACQLTRE6txMTnX0151VfAfypns3wWaXaR317QWiAt9qeSltqoQBhOYD1PYjsLMUDv6gdaSSICW13uFeujuLk75cylF2haHZe8YkkeQkcipyJt2xZ0L7_8v1DV3LxY1jt2LUfk_ZHYjjjbcp2LOnJcEhww1atAkcO_fvHraz66aWxqTQ8OK4a06UMpa39ZBjBvgvTYhK_cyUARHktWHFNuz2CKNrvj7v1MsieTQxc9lFTwxKZDYwpTnJYImCeOOE9UN0nyR0gYSyU_Zdv7RoAwI_jT-20fSkLaOywLRtYpUi8QLdZZNPAIsaJTrctRbmY4_WE7a8SHnE0j6V-yJfTavKJAAiBsxnIgDiIL3SXAYC-bkuBt9DQqR4pLjYoZkYk90-hTjNOg5QnPYzvNipCcwwK6OAuf8iZYm7KKKDuCvClTY7h9yYVwtmwnJi1l2cGDZQtXR4UoXKpFS2E4HDBJfyeJNwg0EzMWIZkEHcwgLqM8UDM9u5o-HbMkaljt793MIILuRMFf1EK38Gsjgi86JX1edVUeU7nIeuOpNpmkRqWRiddnILjEFJaq7KTw9tuQS_Sqkk0y14_uLhwzb7VJNMTNcaip29Ybqkb1gGue07dO9aEn2dlndfO8E_Ir-Weoc4jHHEpSHJaSu4eD4cTrHf-kDiOEPEf7lLk0EUidzgGybguBk47PAM-I5ogYCQTe1ZWOqmmMN1YbwD3TGTR94_1Vq3wAwoH0aMl0YocQBYKmygJoP78k6OJvH6b7ZvjvApmFtVPZHB_D-2B2RCrbqyDVyfaEbmWFblzxfCdCzr0_23Wo6hsXLxw71RnuKI7UveG2fVVNeev2cHGkyNfJABxJIdU3meaW8G7AgnYkxPf4ZOgS5HqqkEbdX_ydTscCbzxVBZgz4HFQdOpqwg0_vWOW7J05tOH_7_F1ySikK9SP2glsFKyJdN6WnbJrDDl1yIkk0e0YNH8MlDQn8Uvly5YONf-2BX7oY7ShvMR6k03oNafT-Gwk3YgKferm_tZYcWzq8tIFKQIvIb-MFI9bmd8Hii6kvC1cMAzSOzRQIQhFMh2XmW4zRUPoVbH9pfK0nIIfuJ-bN7xOOLd-pRWb_47GmpzaJWqCCvG4YGdSyuotTCgrL0cdpPOJYxudbxHBYvrNaIKJ4aAorDw5ZNM6boFPw0253_Q4IhzEpwWSeSm070NO9fB9plTWQNHfjSYwwtoJ-QlRmLqpGTGpT1hjgKWXvpJhPZ8CZWh97urnrdYzXmarat0N4dc7z7jTB_lIidp7F2erJOaOd1DnlMMOEPP1OAhXxO8Ve-z3_9kIlnFAxzHGB_DLa98qk-jXXQamJhfQZn6NElZDcwhAhK68bH0li4g3m83ISy6UEXZHFGe6lwIckxl8rAP5A1pinWYQ49tVlESspuWOfMdGQI7Gr1-ypXj8tV8JA2t5ns5v1FgyTR8mu76dDsqTd7YH2kOVF9bjlFkrt28EMN6N6VOv9EFV-FGMVLgrNN1oX50BcGu21PuwgXlT4Zs9pKWUQ64d0k2mj6f7vgSMQ_fF4YO1AurnrljSW80TQAmrTRab1yQz78V58s0o5OL_8nPfn6tggtcO6Wruo2d4kpPct6xSFHorl9iFv-Jp4CxZkS973_nDQ30T9qGZ_DYv99P9kSrY1jwRZ1Jx7Ifb6EzPC6rrphCFbqGxBm8NAbZwfSuoV5qRjVsAFvJpvas83xjKR2iTejPjQMpO_XlHybp-T7JrQpUfhvuBsS4z5qlHtOtFJjwAfKwW5IbZ3QcgfkskFpTCHhWd9X3LCw5HRR-ZYPcRR-qTw6-Z5_rM2bokqR0vEpolIP-YlX2MMEEA9tuck2COWXZXXxGyGazF3sZAX2SUu2i9hulgt8jl-DS1a8lp55W_eMjCZUEU2UVzxwJz9B2EjFalol4EbSbF9RaR6IJMM7wWuHyFgkj97dAZSPTEcM4N2g8u-XyReysX7w6HnwtwfGrtWFrxMM00BAYFhHb88d04AYxSYnV_zjHWEG7oGVInpfIuYslLbFuC8u6__Er9DUlCPEwQRFWHUroByaw2g0KcLHIFwy_5fRD64OtdwVUxaIw3zX-pqBWvPOTGQ6ycRv6-KjNmQvg650NAp3O3wig0yumahloOBGWjN079ryD5JCtuIgc3LgCuccSgxvJJxNEAHty2a7bCSvQsZWRexk6I4aB4FXHaHQk-OpQq6K1FFVng2R48whbYzhp4jxgxfte7cy0hBK6hpKh9FXbiGdLIW6d7HUydNRpKNNEKkaA6-5oEWzyvX_OUKGZEr2ARaczIsZscLSgl4RrHZZ3a6qAG0IQp7wDtgcBiKfm7Xlye-nh4hMnRKUN06qwXMLsaQDLb0q1uxTBJVCZHSABwjvLsd2J8xAB-aVl2xntUHavZu1jSbi86SXgnYC9tFDGLbh_bUSRk25a_Uj3iH8tFyRB0f3m4pFqNvbBtrTr6ILbeNLHRTkdSgxhCMRAUJTZUrP5V_c-5zvn9zbXtVz_QwwFZdJZXUKCafZbfCr6MPpY64K89fs_X7ssfy92kQiC8AIx_MKM05LkYvuj8PfWmoqJUo82FZKo1IM65yIR1behz2ZwSI_bJsIIrIE1UbbvOEuh1_vyByZGCLizA0ij9o5alTlrcGuBxAwJYAsNPeAH212bsugYabOi_Rb-qP5DVUH_1b3-ViNBYacI5BEWXfNCFHP4yWyQ_bGhfKnFV8GBJP9mRZxa1yx_Zz-NPN7Oilge9112CsBdgHh3ZeXLPCZR1NBsKS-B2u4hVrb7Qnc-fyfhhaKHztM6-DKf-KAvicPXlh8GCuhmVsQ55gjr_R01H0Ctqrreql0_vs-QBZ-c0Cms8pTRxT0FaQRMZ1RvY610VxevPfCgCL7TSXWj5PWp5T3UkzpFThKPj1LPPtjsx6_s8z6HEUlaFR8CegTAKYr6-H1ntrc=",
+      "summary": []
+    },
+    {
+      "id": "msg_0990d10c27b6bb63016aa0c882121887d1b9c8cb417dc3346d",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"title\":\"Mantrapuṣpa, Royal Offerings, and Śaṅkha Tīrtha\",\"group\":\"The Pūjā\",\"blocks\":[{\"kind\":\"mantra\",\"sourceOriginal\":\"ಕಾರಣ ಸರ್ವಪಾಪವಿನಿರ್ಮುಕ್ತೋ ಕ್ಷಣಂತಃ ಸರ್ವತೋಮುಖಃ. \",\"text\":\"kāraṇa sarvapāpavinirmukto kṣaṇantaḥ sarvatomukhaḥ.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಕೈಯಲ್ಲಿ ಮಂತ್ರಾಕ್ಷತೆ ಹೂವನ್ನು ಹಿಡಿದು ಎದ್ದುನಿಂತುಕೊಳ್ಳಬೇಕು. \",\"text\":\"\",\"sourceRoman\":\"Kaiyalli mantrākṣate hūvannu hiḍidu eddunintukoḷḷabēku. \",\"english\":\"One should hold the mantrākṣate and flower in the hand and stand up.\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"ಯೋ ನ ಪಿತಾ ಜನಿತಾ ಯೋ ವಿಧಾತಾ ಧಾಮಾ ನಿವೇದ ಭುವನಾನಿ ವಿಶ್ವಾ. ಯೋ ದೇವಾನಾಂ ನಾಮಧಾ ಏಕ ಏವ ತಂ ಶಂ ಪ್ರಶ್ನಂ ಭುವನಾಗೇಂ ತಂ ಜ್ಞಾ ಸ್ವಸ್ತಿ. ಸಂಸೃಷ್ಟಂ ಧನಭುಭಯುಂ ಸಮಾಕ್ರುವತ ಭಸ್ಮಭ್ಯೋ ಧತ್ತಾ ವರುಣಶ್ಚ ಮನ್ಯೋಃ. ಭಯಂದದಾ ಅನ್ನ ಹೃದಗೇ ಜುಷತ್ರಾ ಭಪ್ಪರಾ ಜಿತಾಸೋ ಅಪನಿಲಯಂತಾಂ. ಓಂ ರಾಜಾಧಿರಾಜಾಯ ಪ್ರಸಹ್ಯ ಸಾಹಿನೇ ನಮೋ ವಯಂ ವೈಶ್ರವಣಾಯ ಕುರ್ಮಹೇ. ಸ ಮೇ ಕಾಮಾನ್ ಕಾಮಕಾಮಾಯ ಮಹ್ಯಂ ಕಾಮೇಶ್ವರೋ ವೈಶ್ರವಣೋ ದದಾತು. ಕುಬೇರಾಯ ವೈಶ್ರವಣಾಯ ಮಹಾರಾಜಾಯ ನಮಃ. ಯೋ ವೇದಾಂ ಬ್ರಹ್ಮಣೋ ವೇದ ನ ಮುರ್ತೇ ನಾವೃತಾಂ ವುರೀಂ. ತಸ್ಮೈ ಬ್ರಹ್ಮ ಚ ಬ್ರಹ್ಮಾ ಚ ಆಯುಷ್ಕೀರ್ತಿಂ ಪ್ರಜಾಂ ದದೌ. ಓಂ ಸ್ವಸ್ತಿ ಸಾಮ್ರಾಜ್ಯಂ ಭೌಜ್ಯಂ ಸ್ವಾರಾಜ್ಯಂ ವೈರಾಜ್ಯಂ ಪಾರಮೇಷ್ಠ್ಯಂ ಸ್ವಾರಾಜ್ಯಂ ಮಹಾರಾಜ್ಯಮಾಧಿಪತ್ಯಮಯಂ. ಸಮಂತಪರ್ಯಾಯೀಸ್ಯಾತ್ ಸಾರ್ವಭೌಮಃ ಸಾರ್ವಾಯುಷ ಅಂತಾದಾ ಪರಾರ್ಧಾತ್. ಪೃಥಿವ್ಯೈ ಸಮುದ್ರಪರ್ಯಂತಾಯ ಏಕರಾಳಿತಿ. तदपे रष्टोकाभीगीतो अमृतः परिवेष्टारो व्रतस्य वसन्गृहे। तासां माविरभूच्छौरिः स्वयमानमुखाम्बुजः। पीतांबरधरः स्रग्वी साक्षान्मन्मथमन्मथः। ॐ नमो श्रीमद् अनंतपद्मनाभाय नमः। मंत्रपुष्पं समर्पयामि. \",\"text\":\"yo na pitā janitā yo vidhātā dhāmā niveda\\nbhuvanāni viśvā.\\nyo devānāṃ nāmadhā eka eva taṃ śaṃ praśnaṃ\\nbhuvanāgeṃ taṃ jñā svasti.\\nsaṃsṛṣṭaṃ dhanabhubhayuṃ samākruvata bhasmabhyo\\ndhattā varuṇaśca manyoḥ.\\nbhayandadā anna hṛdage juṣatrā bhapparā jitāso\\napanilayantām.\\n\\noṃ rājādhirājāya prasahya sāhine namo vayaṃ\\nvaiśravaṇāya kurmahe.\\nsa me kāmān kāmakāmāya mahyaṃ kāmeśvaro\\nvaiśravaṇo dadātu.\\nkuberāya vaiśravaṇāya mahārājāya namaḥ.\\n\\nyo vedāṃ brahmaṇo veda na murte nāvṛtāṃ vurīm.\\ntasmai brahma ca brahmā ca āyuṣkīrtiṃ prajāṃ dadau.\\n\\noṃ svasti sāmrājyaṃ bhaujyaṃ svārājyaṃ vairājyaṃ\\npārameṣṭhyaṃ svārājyaṃ mahārājyamādhipatyamayam.\\nsamantaparyāyīsyāt sārvabhaumaḥ sārvāyuṣa antādā\\nparārdhāt.\\npṛthivyai samudraparyantāya ekarāḷiti.\\n\\ntadape raṣṭokābhīgīto amṛtaḥ pariveṣṭāro\\nvratasya vasangṛhe.\\ntāsāṃ māvirabhūcchauriḥ svayamānamukhāmbujaḥ.\\npītāmbaradharaḥ sragvī sākṣānmanmathamanmathaḥ.\\n\\noṃ namo śrīmad anantapadmanābhāya namaḥ.\\n\\nmantrapuṣpaṃ samarpayāmi.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಕೈಯಲ್ಲಿ ಇರುವ ಮಂತ್ರಾಕ್ಷತೆ, ಹೂವನ್ನು ಅನಂತಪದ್ಮನಾಭ ದೇವರಿಗೆ ಸಮರ್ಪಣೆ ಮಾಡಬೇಕು, ನಮಸ್ಕಾರ ಮಾಡಬೇಕು. \",\"text\":\"\",\"sourceRoman\":\"Kaiyalli iruva mantrākṣate, hūvannu Anantapadmanābha dēvarige samarpaṇe māḍabēku, namaskāra māḍabēku. \",\"english\":\"The mantrākṣate and flower held in the hand should be offered to Lord Anantapadmanābha, and one should bow.\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"ಛತ್ರಂ ಸಮರ್ಪಯಾಮಿ — \",\"text\":\"chatraṃ samarpayāmi —\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಮಂತ್ರಾಕ್ಷತೆಯನ್ನು ಹಾಕಿ. \",\"text\":\"\",\"sourceRoman\":\"Mantrākṣateyannu hāki. \",\"english\":\"Place the mantrākṣate.\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"ಚಾಮರಂ ಸಮರ್ಪಯಾಮಿ, ವ್ಯಜನಂ ಸಮರ್ಪಯಾಮಿ, ದರ್ಪಣಂ ಸಮರ್ಪಯಾಮಿ, ನೃತ್ಯಂ ಸಮರ್ಪಯಾಮಿ, ಗೀತಂ ಸಮರ್ಪಯಾಮಿ, ವಾದ್ಯಂ ಸಮರ್ಪಯಾಮಿ, ಸ್ತೋತ್ರಂ ಸಮರ್ಪಯಾಮಿ, ಸಮಸ್ತ ರಾಜೋಪಚಾರ ಪೂಜಾಂ ಸಮರ್ಪಯಾಮಿ. \",\"text\":\"cāmaraṃ samarpayāmi, vyajanaṃ samarpayāmi,\\ndarpaṇaṃ samarpayāmi, nṛtyaṃ samarpayāmi,\\ngītaṃ samarpayāmi, vādyaṃ samarpayāmi,\\nstotraṃ samarpayāmi, samasta rājopacāra pūjāṃ\\nsamarpayāmi.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಎಲ್ಲದಕ್ಕೂ ಮಂತ್ರಾಕ್ಷತೆಯನ್ನು ಹಾಕಬೇಕು. ನಂತರ ಕೈಯಲ್ಲಿ ನೀರನ್ನು ಹಿಡಿದು, \",\"text\":\"\",\"sourceRoman\":\"Elladakkū mantrākṣateyannu hākabēku. Nantara kaiyalli nīrannu hiḍidu, \",\"english\":\"Mantrākṣate should be placed for each of them. Then, holding water in the hand,\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"नमः सर्वहितानन्ता जगदानन्द चक्षुषे। सर्गसंख्यानरूपाय गृहाणार्घ्यं नमोऽस्तुते। अर्घ्यं समर्पयामि — \",\"text\":\"namaḥ sarvahitānantā jagadānanda cakṣuṣe.\\nsargasaṃkhyānarūpāya gṛhāṇārghyaṃ namo'stute.\\n\\narghyaṃ samarpayāmi —\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಅರ್ಘ್ಯವನ್ನು ಬಿಡಬೇಕು. ನಂತರ ಶಂಖದಲ್ಲಿ ನೀರನ್ನು ತುಂಬಿಸಿಕೊಂಡು, \",\"text\":\"\",\"sourceRoman\":\"Arghyavannu biḍabēku. Nantara śaṅkhadalli nīrannu tumbisikoṇḍu, \",\"english\":\"One should release the arghya. Then, after filling the conch with water,\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"दुष्ट यक्ष रक्षः पिशाचा दुर्दर्श निवृत्यर्थं, बिंबच्छाया दोष परिहारार्थं. ಶಂಖಭ್ರಮಣಂ ಕರಿಷ್ಯೇ \",\"text\":\"duṣṭa yakṣa rakṣaḥ piśācā durdarśa nivṛtyarthaṃ,\\nbimbacchāyā doṣa parihārārtham.\\n\\nśaṅkhabhramaṇaṃ kariṣye\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಎಂದು ಹೇಳುತ್ತಾ, \",\"text\":\"\",\"sourceRoman\":\"Endu hēḷuttā, \",\"english\":\"saying this,\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"ಇಮಾ ಆಪಃ ಶಿವತಮಾಃ, ಇಮಾಃ ಸರ್ವಸ್ಯ ಆಭೇಷಜೀಃ, ಇಮಾ ರಾಷ್ಟ್ರಸ್ಯ ವರ್ಧನೀಃ, ಇಮಾ ರಾಷ್ಟ್ರಂ ವೃತೋ ವೃತಾಃ \",\"text\":\"imā āpaḥ śivatamāḥ, imāḥ sarvasya ābheṣajīḥ,\\nimā rāṣṭrasya vardhanīḥ, imā rāṣṭraṃ vṛto vṛtāḥ\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಎಂಬ ಮಂತ್ರ ಸಹಿತವಾಗಿ ಆ ಶಂಖದಲ್ಲಿ ತುಂಬಿರ್ತಕ್ಕಂಥ ನೀರಿನಿಂದ ಅನಂತ ಪದ್ಮನಾಭ ದೇವರಿಗೆ ಮೂರು ಸಲ ತಿರುಗಿಸಬೇಕು. ಇದು ಶಂಖ ತೀರ್ಥ ಅಥವಾ ಪ್ರೋಕ್ಷಣ ತೀರ್ಥವಾಗ್ತದೆ. ನಂತರ, \",\"text\":\"\",\"sourceRoman\":\"Emba mantra sahitavāgi ā śaṅkhadalli tumbirtakkaṃtha nīrininda Ananta Padmanābha dēvarige mūru sala tirugisabēku. Idu śaṅkha tīrtha athavā prōkṣaṇa tīrthavāgtade. Nantara, \",\"english\":\"With this mantra, the water contained in that conch should be circled three times before Lord Ananta Padmanābha. This becomes śaṅkha tīrtha, or prōkṣaṇa tīrtha. Then,\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"ರಮಾ ಏಹಿ ನಮಃ \",\"text\":\"ramā ehi namaḥ\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಲಕ್ಷ್ಮೀ ದೇವಿಗೆ ಹರಿನಿವೇದಿತ ನೈವೇದ್ಯವನ್ನು ಸಮರ್ಪಣೆ ಮಾಡಬೇಕು. ಶಂಖಕ್ಕೆ ಗಂಧಾಕ್ಷತೆಯನ್ನು ಹಚ್ಚಿ ತೀರ್ಥವನ್ನು ಕೊಟ್ಟು ರಮಾ ನೈವೇದ್ಯವನ್ನು ಮಾಡಬೇಕು. \",\"text\":\"\",\"sourceRoman\":\"Lakṣmī dēvige harinivēdita naivēdyavannu samarpaṇe māḍabēku. Śaṅkhakke gandhākṣateyannu hacci tīrthavannu koṭṭu Ramā naivēdyavannu māḍabēku. \",\"english\":\"The naivēdya offered to Hari should be presented to Goddess Lakṣmī. Apply gandhākṣate to the conch, give the tīrtha, and perform the Ramā naivēdya.\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"ಬ್ರಹ್ಮಾಂತಾ ಗುರವಃ ಸಾಕ್ಷಾದ್ ಇಷ್ಟಂ ದೈವಂ ಶ್ರೀಃ ಪತಿಃ, ಆಚಾರ್ಯಾಃ ಶ್ರೀಮದಾಚಾರ್ಯಾಃ ಸಂತು ಮೇ ಜನ್ಮ ಜನ್ಮನಿ. ಶ್ರೀಮದಾನಂದ ತೀರ್ಥ ಭಗವತ್ಪಾದಾಚಾರ್ಯೇಭ್ಯೋ ನಮಃ. \",\"text\":\"brahmāntā guravaḥ sākṣād iṣṭaṃ daivaṃ śrīḥ patiḥ,\\nācāryāḥ śrīmadācāryāḥ santu me janma janmani.\\n\\nśrīmadānanda tīrtha bhagavatpādācāryebhyo namaḥ.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ವಾಯು ದೇವರಿಗೆ ನೈವೇದ್ಯವನ್ನು ಮಾಡಬೇಕು. \",\"text\":\"\",\"sourceRoman\":\"Vāyu dēvarige naivēdyavannu māḍabēku. \",\"english\":\"Naivēdya should be offered to Lord Vāyu.\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"ರಮಾ ಬ್ರಹ್ಮಾದಯೋ ದೇವಾಃ, ಸನಕಾದ್ಯಾಃ ಶುಕಾದಯಃ, ಶ್ರೀಲಕ್ಷ್ಮೀ ನೃಸಿಂಹ ಪ್ರಸಾದೋಽಯಂ ಸರ್ವೇ ಗೃಹ್ಣಂತು ವೈಷ್ಣವಾಃ. \",\"text\":\"ramā brahmādayo devāḥ, sanakādyāḥ śukādayaḥ,\\nśrīlakṣmī nṛsiṃha prasādo'yaṃ sarve gṛhṇantu\\nvaiṣṇavāḥ.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ರಮಾದಿ ದೇವತೆಗಳಿಗೆ, ಬ್ರಹ್ಮಾದಿ ದೇವತೆಗಳಿಗೆ, ಸನಕಾದಿ ದೇವತೆಗಳಿಗೆ, ಶುಕಾದಿ ಋಷಿಗಳಿಗೆ, ಎಲ್ಲರಿಗೂ ಕೂಡ ಲಕ್ಷ್ಮೀ...\",\"text\":\"\",\"sourceRoman\":\"Ramādi dēvategaḷige, Brahmādi dēvategaḷige, Sanakādi dēvategaḷige, Śukādi ṛṣigaḷige, ellarigū kūḍa Lakṣmī...\",\"english\":\"To the deities beginning with Ramā, to the deities beginning with Brahmā, to the deities beginning with Sanaka, to the ṛṣis beginning with Śuka—to everyone also, Lakṣmī...\"}]}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "low",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "description": null,
+      "name": "lossless_puja_section",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "title",
+          "group",
+          "blocks"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "group": {
+            "type": "string",
+            "enum": [
+              "The Pūjā",
+              "Completion",
+              "Vrata Kathā"
+            ]
+          },
+          "blocks": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "kind",
+                "sourceOriginal",
+                "text",
+                "sourceRoman",
+                "english"
+              ],
+              "properties": {
+                "kind": {
+                  "type": "string",
+                  "enum": [
+                    "mantra",
+                    "action"
+                  ]
+                },
+                "sourceOriginal": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "sourceRoman": {
+                  "type": "string"
+                },
+                "english": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "strict": true
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1592,
+    "input_tokens_details": {
+      "cache_write_tokens": 1589,
+      "cached_tokens": 0
+    },
+    "output_tokens": 3361,
+    "output_tokens_details": {
+      "reasoning_tokens": 296
+    },
+    "total_tokens": 4953
+  },
+  "user": null,
+  "metadata": {}
+}

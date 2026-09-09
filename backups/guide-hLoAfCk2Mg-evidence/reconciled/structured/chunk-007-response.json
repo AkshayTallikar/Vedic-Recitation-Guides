@@ -1,0 +1,161 @@
+{
+  "id": "resp_0865f4ab3f391fc9016aa0c926826087d19899cb45877cd336",
+  "object": "response",
+  "created_at": 1788922150,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1788922250,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": "You are preparing a lossless Roman-script guide from an exact transcript of a Madhva Śrī Anantapadmanābha Vrata recording.\n\nPartition the supplied SOURCE TRANSCRIPT into ordered blocks. The concatenation of blocks[*].sourceOriginal MUST equal the supplied source text character-for-character, including every space, punctuation mark, and original Unicode character. Copy all source text exactly once. Never summarize, deduplicate, correct, omit, or invent sourceOriginal. Split a mixed-language sentence at exact substring boundaries when needed.\n\nClassify Sanskrit recitation, invocations, ritual offering formulae, and quoted Sanskrit as mantra. Classify spoken Kannada directions, explanations, and Kannada narration of the vrata story as action. For mantra blocks, put a complete Roman transliteration with accurate diacritics in text; leave sourceRoman and english empty. Preserve every lexical item and repetition in the Roman text. Add only display whitespace: balanced lines of roughly 45–72 characters, one newline at verse divisions, and a blank line after each completed mantra or distinct recited formula. Keep adjacent Sanskrit recitation in one mantra block until Kannada speech intervenes.\n\nFor action blocks, put a complete Roman transliteration of every Kannada word in sourceRoman and a complete faithful English translation in english; leave text empty. Do not condense narrative or directions. Retain Sanskrit ritual terms in the English. If a Kannada utterance quotes a Sanskrit formula that should be recited, split the quoted formula into a mantra block.\n\nUse a concise descriptive title for this time window. Use group The Pūjā for worship through offerings and prayer, Completion for dora-dhāraṇa, donation, dismissal, and concluding observances, and Vrata Kathā for the narrated sacred story.\n",
+  "max_output_tokens": 20000,
+  "max_tool_calls": null,
+  "model": "gpt-5.6-sol",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_0865f4ab3f391fc9016aa0c927287487d1a39d49613f5ea798",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqoMmKROZVbKUjEqm4Glh_q10qJiJt7eZxAFGwkU3zBWUaJ_wGW2Ggr2TegDCfH-YVzdFWbB-jgTgn-C4uOfof55254hx2AuYUlBbvI_vM-MTV_tFExahCFE8yoi3hglvxcIFtYQ6LjgU6po_XQz_HECNMY38GoKqWq5KNql7aBSSht9exx699Yf_seS0QDRi2RMSfCUiqZb-U4CSqRfPPUKjYr-Y_JnAXN7_0KkGVWP8l7kfTH-tdFkgxUE9qT1K1UIIMfl-PnVYZz6D6C0OA5Dnjhy8YT9Wv6_nvog_QkFQsqB3yxy74rftwUn2oaMOUFHPdVclEYA9rM7lJodN75XTZGIeSv3iuf8Ccbi1D9nHQNkiK-iAOvozgCiUWoI5bPQHuZLLRu5V6dqnMp4armGWaoMo5Q5dlyXkXfB97VVUPSUpM3D28hvGv8uw5dds0fX191gJyjcX6QAzJZvgeosmSWaNxq3yy3YVDB_Gi8Jfuit8C8TeXhaYqBUCP5cITe_1-a66Wfj5RHaAhG6m-vBUkI3eWlfrlNmp_DPkdhAhNS5HiHXytYFpFWKvuybaqCPVXclMW-oAbvJBIp595cPDILwDP2Xehso2aZvPYnjQsts-Bo5KVY6tUKF6NPfR8s0G4HUl7hOblldGwGZkoEdSrhdnvYHPqv1htFArcKx9e_HRTS-f5x8jHpU1vILK_snQFgsoo19IWFlUGE1zzeTTqWVH_3SvPGDZt6wW0bgQ31tfmNVvyzJTabRu2vZmAd2SwsruZ_IfErWGm50ZA_3xpsgA1MhtcFLCss6s1GG_PZ4Yh-3V4kuqzqeJFK6kbPZaF0Jv-6jpbv3QnbZqmjZAsa7UVYQKWqetkYlcZASFzS8htcbk8R2GTgsFoQh9goUyaKE0ErEAE-_6hnYxTphv1BLZ3pMBdD1fapJfXRt3Pjsgp2CgPvq9oW-vPIOg1eYxPUR04PZHzQDkLjKuudSQb21IoIE4WeVqHwrzhw1GjnuiT0sr4NeIJj7zFd5ujY5RBn0nelo6hv7Jf0tO4DKt6tUgOGuQKscaqdd6GIzCrHuv0PgTpT0GPnDmfTyherUhjhQdeIWalP77cAsgG8yV64IBedmYD-id3iwGMHqOWFvNtd5UxvcBZn2c53POoDoizQFV5-FZcAG60aqJnW9-lVLL36JOobCOXTkJwmT6bPTYTm82Fi_ia9GiAYEZDAF8bUyb1eR7pV9x1JmktgI79DQs91iBxQaVP9Dho6XYmLDNLTFe68TkWA_YmqNZ1c0_A8cSwsoMh5vBCsWwpEbZJKjjo7T_6h3ukGiQb60-rO-MK_5yhjvm7MXXhDxwgoSi3Ko01YtMl7RtkDsWqFo7F7VF9x9zr0MBmRDZn7VAf6N5M0w5euXPA2tYhufojnQokHWMn3d64gh1O8zmf-bKdiNRz9ghNKrZCC8audbldene4OfKbKbTkroCXV9GFWPMtEfEjx5cGo5Xk8TYJYkuBNGpER5J-gv1W5WBWEBB5QZLl6Sor3THlkhD2ibnC6BoDbtYigAq5Z0_kDTaSy9oa7X5esQX7t-t9BAsOUA2vkJWnkrok3yie0U-sK5AzkZ-4NEmep-g2lvXdzMYkTx2yXkYYIVziqQR3Yi3e8tIZa4j6lZj-sv9nt79G9utdFwgyLkzkV6GIDvqrxCJrPur9n71Dfvp3-ezMnJoPtnDNcKnuvuErI65pN1tRZ5NmeMlrCuxMGsuonK924E26S-LU-JlWnscautepcBYmeri5LemWr4B9xrvTPuxjGvvbBn0OmBHiGDMwdK-HePRVGuFcKY14z4ewQeBnMiwG-0lj2WXmdHd1AdiQAbHkkx3TtQHknXZUwwlJRQDLJSRnLZa7XTDYU5MdNyOeWVN3zniIPc8TCDxfBNIS5zmS6iiHtJPxP2zlISEJh86iAjieOXlqYwzzHOdRXt9YIXCvXxh5BpFfoPEoehPPEUXngOons-ODEs9sK7-re0S_xHfbsfS5u1KC-QGC1pV76kx6psbmX_1g-nSz9S0ThSpX8fVWv8myqmN0YDqz8sgcCdWrV2XI5JVOLiif-3tyrF9Qh1P0EI7-B_6fQtlcwxsBUBn08hRDlUXbalYD5TEPGgr6s6wqCXcjfnPeQ9GSnOlP-yiIVFXEIdsIZt6lY6QodA7YFXz1haLfEQHBAkWhPxEGkooU2Tb94EIWnQaRaihEy89AE1oZqfd1uG65wyt8au-00yn6fFQj_b8bhYf7fiWlI9EY8hfIq0BkKNgoTXJMbqvAvmGiLcul4O_xFlB6ocirBxUN8l5CSI6ViE2wWPewQw63gsIM6h7eeWuxti4ArHHt6Y0NKaWzJN7OXYF3bcQg_c-ouvm6EesNPC9hNVaIR92_S1c1Q-aTMDrQc_TnceZuemo9GkpWiItSBFUEgdvzUv0RdwOxPGQdzyUaiCaGhTKJw_zMC1rEKrpHq6eyRTwwbx3_z5PAr6euZFlniccDn9zLsiiZUuIpTGVosxSu8Y6IVyKWxwmbmCXsOb0tc1apUUHg6lPy_tIDVjuDNmNTRPGO-mp1Rf3HWcXXoD1ehRWyK9KMc7y6fsAXOrfzcYNflaZmHCzE3Ldjomv1CvTI_5r5_X5zb5DZlFmry-C14_LXuteXPlHXBkKtn3luc3CLm1AHtJLHUsiTBXS-GGmlLWpT7MEL5OlJqcX4TuQHYzTqmnDjVNa9_tzNrUPXaqb5veArDQiDUFwih7eKtV7aUb5w2Yp9kDI0SIayMWklkh9l76jxsVaCip98QJtwrIfFyMiurEuvl9gR6h_woS4_FTPBQTMl5hvfoea3qsE8i0Zoz2TK-yVjojIKWIlnUWgDTXLv5nVE5Tz-YEwuDkTYZd-S",
+      "summary": []
+    },
+    {
+      "id": "msg_0865f4ab3f391fc9016aa0c92cca4487d1a846f1f28062401c",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"title\":\"Prayers and Anantapadmanābha Dora-Dhāraṇa\",\"group\":\"Completion\",\"blocks\":[{\"kind\":\"action\",\"sourceOriginal\":\"ರಮಾದಿ ದೇವತೆಗಳಿಗೆ, ಬ್ರಹ್ಮಾದಿ ದೇವತೆಗಳಿಗೆ, ಸನಕಾದಿ ದೇವತೆಗಳಿಗೆ, ಶುಕಾದಿ ಋಷಿಗಳಿಗೆ, ಎಲ್ಲರಿಗೂ ಕೂಡ ಲಕ್ಷ್ಮೀ ನರಸಿಂಹ ದೇವರ ಈ ಪ್ರಸಾದವನ್ನು, ಎಲ್ಲ ಸಮಸ್ತ ವೈಷ್ಣವರು ಕೂಡ ಸ್ವೀಕಾರ ಮಾಡಲಿ ಎಂದು ಹೇಳಿ, ಎಲ್ಲರಿಗೂ ಸಮರ್ಪಣೆ ಮಾಡಬೇಕು. ನಂತರ ತಾರತಮ್ಯೋಪೇತವಾಗಿರತಕ್ಕಂತಹ ಶ್ಲೋಕವನ್ನು ಹೇಳಬೇಕು. \",\"text\":\"\",\"sourceRoman\":\"Ramādi dēvategaḷige, brahmādi dēvategaḷige, sanakādi dēvategaḷige, śukādi ṛṣigaḷige, ellarigū kūḍa Lakṣmī Narasiṃha dēvara ī prasādavannu, ella samasta vaiṣṇavaru kūḍa svīkāra māḍali endu hēḷi, ellarigū samarpaṇe māḍabēku. Nantara tāratamyōpētavāgiratakkantha ślōkavannu hēḷabēku. \",\"english\":\"To the deities beginning with Ramā, the deities beginning with Brahmā, the deities beginning with Sanaka, the ṛṣis beginning with Śuka, and to everyone, one should say, “May all Vaiṣṇavas receive this prasāda of Lord Lakṣmī Narasiṃha,” and offer it to everyone. Then one should recite the śloka expressing the hierarchy of deities.\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"ಒಂದೇ ವಿಷ್ಣುಂ ನಮಾಮಿ ಶ್ರಿಯಮಥ ಚ ಭುವಂ ಬ್ರಹ್ಮ ವಾಯು ಚ ವಂದೇ, ಗಾಯತ್ರೀಂ ಭಾರತೀಂ ತಾಂ ಅಪಿ ಗರುಡ ಮನಂತಂ ಭಜೇ ರುದ್ರದೇವಂ. ದೇವೀಂ ವಂದೇ ಸುಪರ್ಣೀಮಹಿಪತಿ ದಯಿತಾಂ ವಾರುಣೀಮಪಿ ಉಮಾಂ ತಾಂ, ಇಂದ್ರಾದೀನ್ ಕಾಮಮುಖ್ಯಾನ್ ಅಪಿ ಸಕಲ ಸುರಾಂತದ್ ಗುರುನ್ ಮದ್ಗುರುಂಶ್ಚ. \",\"text\":\"Onde Viṣṇuṃ namāmi śriyam atha ca bhuvaṃ\\nBrahma Vāyu ca vande,\\nGāyatrīṃ Bhāratīṃ tāṃ api Garuḍam Anantaṃ\\nbhaje Rudradevam.\\nDevīṃ vande Suparṇīm Ahipati-dayitāṃ\\nVāruṇīm api Umāṃ tām,\\nIndrādīn Kāma-mukhyān api sakala-surāṃs tad-gurūn\\nmad-gurūṃś ca.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಅಥವಾ \",\"text\":\"\",\"sourceRoman\":\"Athavā \",\"english\":\"Or:\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"ಸರ್ವೋತ್ತಮೋ ವಿಷ್ಣು ರಥೋ ರಮಾ ಚ ಬ್ರಹ್ಮಾ ಚ ವಾಯುಶ್ಚ ತದೀಯಪತ್ನ್ಯೌ, ಅನ್ಯೇ ಚ ದೇವಾಃ ಸತತಂ ಪ್ರಸನ್ನಾಃ ಹರೌ ಸುಭಕ್ತಿಂ ಮೈ ಸಂದಿಶಂತು. \",\"text\":\"Sarvottamo Viṣṇur atho Ramā ca\\nBrahmā ca Vāyuś ca tadīya-patnyau,\\nAnye ca devāḥ satataṃ prasannāḥ\\nHarau subhaktiṃ mayi sandiśantu.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಅನ್ನುವಂಥ ತಾರತಮ್ಯ ಶ್ಲೋಕವನ್ನು ಹೇಳಬೇಕು. ನಂತರ ಎದ್ದು ನಿಂತು ಪ್ರಾರ್ಥನೆನ ಮಾಡಬೇಕು. ಅದಕ್ಕೆ ಪೂರ್ವದಲ್ಲಿ ವಿಶೇಷವಾಗಿರತಕ್ಕಂತಹ ಅಂಶವನ್ನು ಗಮನಿಸ್ಕೊಳ್ಳಿ. ನಿರ್ಮಾಲ್ಯ ತೀರ್ಥದಿಂದ ನೈವೇದ್ಯವನ್ನು ಸಮರ್ಪಣೆ ಮಾಡಬೇಕು. ಮುಖ್ಯ ಪ್ರಾಣ ದೇವರಿಗೆ ಅವಾಹನಾದಿಗಳನ್ನು ಮಾಡಿಕೊಂಡು, ನೈವೇದ್ಯವನ್ನು, ತೀರ್ಥ ನಿರ್ಮಾಲ್ಯಗಳನ್ನೇ ಸಮರ್ಪಣೆ ಮಾಡಬೇಕು. ಹರಿ ನಿವೇದಿತವಾಗಿರತಕ್ಕಂತಹ ನೈವೇದ್ಯವನ್ನೇ ಸಕಲರಿಗೂ ಕೂಡ ಕೊಡಬೇಕು. ಈಗ ಪ್ರಾರ್ಥನೆ. \",\"text\":\"\",\"sourceRoman\":\"Annuvantha tāratamya ślōkavannu hēḷabēku. Nantara eddu nintu prārthanena māḍabēku. Adakke pūrvadalli viśēṣavāgiratakkantha aṃśavannu gamanisikoḷḷi. Nirmālya tīrthadinda naivēdyavannu samarpaṇe māḍabēku. Mukhya Prāṇa dēvarige āvāhanādigaḷannu māḍikoṇḍu, naivēdyavannu, tīrtha nirmālyagaḷannē samarpaṇe māḍabēku. Hari nivēditavāgiratakkantha naivēdyavannē sakalarigū kūḍa koḍabēku. Īga prārthane. \",\"english\":\"One should recite such a tāratamya śloka. Then one should stand up and pray. Before that, note this special point: the naivēdya should be offered with the nirmālya tīrtha. After performing āvāhana and the other rites for Lord Mukhya Prāṇa, only the naivēdya and the tīrtha-nirmālya should be offered to him. Only naivēdya that has been offered to Hari should be given to everyone. Now, the prayer:\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"याचेहं त्वा ऋषिकेश अनपापि पुरुषोत्तम। हृदिमे कुरु संवासं श्रीया सह जगत्पते। जितं ते पुण्डरीकाक्ष पूर्वषाड्गुण्यविग्रह। परानन्द परब्रह्मन् नमस्ते चतुरात्मने। नमस्ते पीतवसन नमः कटकधारिणे। नमो नीलालकाबद्धवेणी सुन्दरपुङ्गव। याचेहं करुणासिन्धो यावज्जीवमिदं तव। अदैन्यं देह दार्ढ्यं मे तत्पादाम्बुजसद्रतिम्। \",\"text\":\"Yāce'haṃ tvā Ṛṣikeśa anapāpi Puruṣottama।\\nHṛdi me kuru saṃvāsaṃ Śriyā saha Jagatpate।\\nJitaṃ te Puṇḍarīkākṣa pūrvaṣāḍguṇyavigraha।\\nParānanda Parabrahman namaste caturātmane।\\nNamaste pītavasana namaḥ kaṭakadhāriṇe।\\nNamo nīlālakābaddhaveṇī sundarapuṅgava।\\nYāce'haṃ karuṇāsindho yāvajjīvam idaṃ tava।\\nAdainyaṃ deha dārḍhyaṃ me tatpādāmbujasadratīm।\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಎಂಬ ಮಂತ್ರದಿಂದ ಪ್ರಾರ್ಥನೆನ ಮಾಡ್ಕೊಂಡು, ಅನಂತ ಪದ್ಮನಾಭ ದಾರ ಅಥವಾ ದೋರಕ ಪ್ರಾರ್ಥನೆನ ಮಾಡಬೇಕು. \",\"text\":\"\",\"sourceRoman\":\"Emba mantradinda prārthanena māḍkoṇḍu, Ananta Padmanābha dāra athavā dōraka prārthanena māḍabēku. \",\"english\":\"Having prayed with this mantra, one should pray over the Ananta Padmanābha thread, or dōraka.\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"अनन्ताय नमस्तुभ्यं सहस्रशिरसे नमः। नमोस्तु पद्मनाभाय नागानां पतये नमः। अनन्तः कावदश्रीमाननन्तो मे प्रयच्छतु। अनन्तो दोररूपेण पुत्रपौत्रान् प्रवर्धतु। \",\"text\":\"Anantāya namas tubhyaṃ sahasraśirase namaḥ।\\nNamo'stu Padmanābhāya nāgānāṃ pataye namaḥ।\\nAnantaḥ kāvadaśrīmān Ananto me prayacchatu।\\nAnanto dorarūpeṇa putrapautrān pravardhatu।\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಎನ್ನ ಮಂತ್ರದಿಂದ ಆ ದಾರಕ್ಕೆ ಪ್ರಾರ್ಥನೆನ ಮಾಡ್ಕೊಳಬೇಕು. ನಂತರ ಆ ದಾರವನ್ನು ತೆಗೆದುಕೊಳ್ಬೇಕು. ಅದಕ್ಕೆ ಮಂತ್ರ: \",\"text\":\"\",\"sourceRoman\":\"Enna mantradinda ā dārakke prārthanena māḍkoḷabēku. Nantara ā dāravannu tegedukoḷbēku. Adakke mantra: \",\"english\":\"With this mantra, one should pray over that thread. Then one should take up the thread. The mantra for that is:\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"स्वीकरोमि शुभं सूत्रं मम विघ्नानदो भव। दोररूपेण मां रक्ष पुराणपुरुषोत्तम। अनन्त सर्वदेवेश भुक्तिमुक्तिप्रदायक। सर्वेष्टदमिदं सूत्रं धारयामि तव प्रियम्। \",\"text\":\"Svīkaromi śubhaṃ sūtraṃ mama vighnānado bhava।\\nDorarūpeṇa māṃ rakṣa Purāṇapuruṣottama।\\nAnanta Sarvadeveśa bhuktimuktipradāyaka।\\nSarveṣṭadam idaṃ sūtraṃ dhārayāmi tava priyam।\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ನಂತರ ಆ ದಾರಕ್ಕೆ ನಮಸ್ಕಾರ ಮತ್ತು ಕಟ್ಟ್ಕೊಳ್ಳೋಂತಹ ಕ್ರಿಯೆ. ಅದಕ್ಕೆ ದಾರದ ನಮಸ್ಕಾರದ ಮಂತ್ರ: \",\"text\":\"\",\"sourceRoman\":\"Nantara ā dārakke namaskāra mattu kaṭkoḷḷōvantha kriye. Adakke dārada namaskārada mantra: \",\"english\":\"Next comes the act of bowing to the thread and tying it on. The mantra for bowing to the thread is:\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"अनन्त संसारमहासमुद्रे मग्नं समभ्युद्धर वासुदेव। अनन्तरूपिन् विदियोजगस्वा अनन्तसूत्राय नमो नमस्ते. \",\"text\":\"Ananta saṃsāramahāsamudre\\nmagnaṃ samabhyuddhara Vāsudeva।\\nAnantarūpin vidiyojagasvā\\nAnantasūtrāya namo namaste.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಎಂದ್ರದಕ್ಕೆ ನಮಸ್ಕಾರ ಮಾಡ್ತಾ. ನಂತರ ದಾರವನ್ನು ಪ್ರಶಂಸೆ ಮಾಡಬೇಕು. \",\"text\":\"\",\"sourceRoman\":\"Endradakke namaskāra māḍtā. Nantara dāravannu praśaṃse māḍabēku. \",\"english\":\"While saying this, one should bow to it. Then one should praise the thread.\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"संसारसागरगुहासुखं विहर्तुं वाञ्छन्ति ये कुरुकुलोद्भव शुद्धसत्त्वाः। सम्पूज्य च त्रिभुवनेशमनन्तदेवं भद्रं दक्षिणकरे वरदोरकं ते. \",\"text\":\"Saṃsārasāgaraguhāsukhaṃ vihartuṃ\\nvāñchanti ye Kurukulodbhava śuddhasattvāḥ।\\nSampūjya ca Tribhuvaneśam Anantadevaṃ\\nbhadraṃ dakṣiṇakare varadorakaṃ te.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಆ ದಾರವನ್ನು ಕಟ್ಟಿಕೊಳ್ಳುವಂತಹ ಮಂತ್ರ. \",\"text\":\"\",\"sourceRoman\":\"Ā dāravannu kaṭṭikoḷḷuvantha mantra. \",\"english\":\"The mantra for tying on that thread is:\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"बद्धामि देव देवेश मायापुरुषविग्रह। तव प्रसादाद् देवेश दोरसूत्रं शुभप्रदम्। दारिद्र्यदुःखनाशाय पुत्रपौत्राभिवृद्धये। अनन्ताख्यमिदं सूत्रं धारयाम्यहमच्युत. नमस्ते देव देवेश विश्वरूपधराग्रज। सूत्रग्रन्थिषु संस्थाय विश्वरूपात्मने नमः. \",\"text\":\"Baddhāmi Deva Deveśa māyāpuruṣavigraha।\\nTava prasādād Deveśa dorasūtraṃ śubhapradam।\\nDāridryaduḥkhanāśāya putrapautrābhivṛddhaye।\\nAnantākhyam idaṃ sūtraṃ dhārayāmy aham Acyuta.\\n\\nNamaste Deva Deveśa viśvarūpadharāgraja।\\nSūtragranthiṣu saṃsthāya viśvarūpātmane namaḥ.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಅನ್ನುವಂತಹ ಮಂತ್ರದಿಂದ ಆ ದಾರವನ್ನು ಕಟ್ಟಿಕೊಂಡು, ಮೊದಲೆ ಹಾಕಿರ್ತಕ್ಕಂತಹ ಹಳೆಯ ದಾರವನ್ನು ವಿಸರ್ಜನೆ ಮಾಡಬೇಕು. ಅದರ ಮಂತ್ರ: \",\"text\":\"\",\"sourceRoman\":\"Annuvantha mantradinda ā dāravannu kaṭṭikoṇḍu, modale hākirtakkantha haḷeya dāravannu visarjane māḍabēku. Adara mantra: \",\"english\":\"With this mantra, one should tie on that thread and then dismiss the old thread that had previously been worn. Its mantra is:\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"विसर्जयामि देवेश पूर्वसूत्रं धृतं परम्। सम्पूर्णं व्रतमस्तत्र मत्कृतं त्वदनुग्रहात्. \",\"text\":\"Visarjayāmi Deveśa pūrvasūtraṃ dhṛtaṃ param।\\nSampūrṇaṃ vratam astatra matkṛtaṃ tvadanugrahāt.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\"ಅನ್ನುವ ಮಂತ್ರದಿಂದ ಅದನ್ನು ತೆಗೆದು ಹಾಕಿ, \",\"text\":\"\",\"sourceRoman\":\"Annuva mantradinda adannu tegedu hāki, \",\"english\":\"With this mantra, remove it, and then:\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"नमस्ते देव देवेश नम...\",\"text\":\"Namaste Deva Deveśa nama...\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"}]}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "low",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "description": null,
+      "name": "lossless_puja_section",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "title",
+          "group",
+          "blocks"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "group": {
+            "type": "string",
+            "enum": [
+              "The Pūjā",
+              "Completion",
+              "Vrata Kathā"
+            ]
+          },
+          "blocks": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "kind",
+                "sourceOriginal",
+                "text",
+                "sourceRoman",
+                "english"
+              ],
+              "properties": {
+                "kind": {
+                  "type": "string",
+                  "enum": [
+                    "mantra",
+                    "action"
+                  ]
+                },
+                "sourceOriginal": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "sourceRoman": {
+                  "type": "string"
+                },
+                "english": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "strict": true
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1616,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 1613
+    },
+    "output_tokens": 3532,
+    "output_tokens_details": {
+      "reasoning_tokens": 237
+    },
+    "total_tokens": 5148
+  },
+  "user": null,
+  "metadata": {}
+}

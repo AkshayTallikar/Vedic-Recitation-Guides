@@ -1,0 +1,92 @@
+{
+  "source": "/private/tmp/vedic-lossless-hLoAfCk2Mg.j3NCW3/work/guide-hLoAfCk2Mg/source/original.webm",
+  "duration_seconds": 3400.301,
+  "segment_seconds": 300.0,
+  "overlap_seconds": 0.0,
+  "chunks": [
+    {
+      "index": 1,
+      "file": "original-part-001.webm",
+      "start_seconds": 0.0,
+      "end_seconds": 300.0,
+      "overlap_seconds": 0
+    },
+    {
+      "index": 2,
+      "file": "original-part-002.webm",
+      "start_seconds": 300.0,
+      "end_seconds": 600.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 3,
+      "file": "original-part-003.webm",
+      "start_seconds": 600.0,
+      "end_seconds": 900.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 4,
+      "file": "original-part-004.webm",
+      "start_seconds": 900.0,
+      "end_seconds": 1200.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 5,
+      "file": "original-part-005.webm",
+      "start_seconds": 1200.0,
+      "end_seconds": 1500.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 6,
+      "file": "original-part-006.webm",
+      "start_seconds": 1500.0,
+      "end_seconds": 1800.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 7,
+      "file": "original-part-007.webm",
+      "start_seconds": 1800.0,
+      "end_seconds": 2100.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 8,
+      "file": "original-part-008.webm",
+      "start_seconds": 2100.0,
+      "end_seconds": 2400.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 9,
+      "file": "original-part-009.webm",
+      "start_seconds": 2400.0,
+      "end_seconds": 2700.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 10,
+      "file": "original-part-010.webm",
+      "start_seconds": 2700.0,
+      "end_seconds": 3000.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 11,
+      "file": "original-part-011.webm",
+      "start_seconds": 3000.0,
+      "end_seconds": 3300.0,
+      "overlap_seconds": 0.0
+    },
+    {
+      "index": 12,
+      "file": "original-part-012.webm",
+      "start_seconds": 3300.0,
+      "end_seconds": 3400.301,
+      "overlap_seconds": 0.0
+    }
+  ]
+}

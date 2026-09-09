@@ -1,0 +1,161 @@
+{
+  "id": "resp_0643dda0395ee0c4016aa0c6f92bf087d19b6586d88f3393d2",
+  "object": "response",
+  "created_at": 1788921593,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1788921688,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": "You are preparing a lossless Roman-script guide from an exact transcript of a Madhva Śrī Anantapadmanābha Vrata recording.\n\nPartition the supplied SOURCE TRANSCRIPT into ordered blocks. The concatenation of blocks[*].sourceOriginal MUST equal the supplied source text character-for-character, including every space, punctuation mark, and original Unicode character. Copy all source text exactly once. Never summarize, deduplicate, correct, omit, or invent sourceOriginal. Split a mixed-language sentence at exact substring boundaries when needed.\n\nClassify Sanskrit recitation, invocations, ritual offering formulae, and quoted Sanskrit as mantra. Classify spoken Kannada directions, explanations, and Kannada narration of the vrata story as action. For mantra blocks, put a complete Roman transliteration with accurate diacritics in text; leave sourceRoman and english empty. Preserve every lexical item and repetition in the Roman text. Add only display whitespace: balanced lines of roughly 45–72 characters, one newline at verse divisions, and a blank line after each completed mantra or distinct recited formula. Keep adjacent Sanskrit recitation in one mantra block until Kannada speech intervenes.\n\nFor action blocks, put a complete Roman transliteration of every Kannada word in sourceRoman and a complete faithful English translation in english; leave text empty. Do not condense narrative or directions. Retain Sanskrit ritual terms in the English. If a Kannada utterance quotes a Sanskrit formula that should be recited, split the quoted formula into a mantra block.\n\nUse a concise descriptive title for this time window. Use group The Pūjā for worship through offerings and prayer, Completion for dora-dhāraṇa, donation, dismissal, and concluding observances, and Vrata Kathā for the narrated sacred story.\n",
+  "max_output_tokens": 20000,
+  "max_tool_calls": null,
+  "model": "gpt-5.6-sol",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_0643dda0395ee0c4016aa0c6fa010887d1b02b750b31fe435b",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqoMdY7LzypUCzCR1V2zq24pB892B7_Z23L7KkzFUHJLonJ-fYTUulclsyfu84hRBTkyUHzYBUOdtXNeIDwpIiqmdmXoqv2Y3nSyTnHcFO1BS3J16GhDuoin1hNX9ESCFv44SZ8906vuRL8fpuM_xEhM7AG671qMVWjPeZYrInkF66ADSKu0Xjg86BU8qndgIEQSWGu8emsZ29slNrHEDAK9_72BSVH9lg0pIqPdMyvv2PxDlpmYIVvO8MgKJzMTQvoMzyHtK-7hAimPh-FTgJdUf350b5hr5iEAhN4tr77q7lN7EmmaUoapG5sb03_B3HBVhHPv61SpqyPCtZ2rPh4rexsTpa7bfKoWc0Kcp1N4GTaJ7hxU_ZexRYYHvjP1pSQdA64idpmw5yZ05HlRJSbEfWbAs5seKxS3KIPG7sBtqtnI1RmBRf3upuimrFAx6ewHKk3Jh7LWuD0QHLZv-jZmanX8lIzDL-2xLHnPTbpurLy5Zw39i6TB02ity7wRrwou79QXkdqo22yhYM9fHJcblHMhM0WSIBGt15sEOxtdhrmgscF_KvQ2mi6jrqFksSMsbGYvLc5SgwfspGMDRgTyIEnP8KTMlqsTB6VsgEA32CS6RBjRvT4I1y8YWsgd6h4Q6RTj-2hvsE2au7mt3RPg4NXUpjhc8qK1z6irZxpt65o668AYwrLtAi1RWzF_C6lqS2nNwp1gC5cEka1v9uAIUTF1iCjsmcuDUwYRfxnNIvOYJcYpmGIIm1OpCIonyPsA2PLlQNcFQGIWzEf3LChQE9bYFfHk3vmrEnBo9iROBEqVVv23c5uqT8YYQLU-adq9e-VR2xeQUMzEQua7iHfh2ti-hJI6QnROD9U-ZLcresQuDj5b8WPQvMG3x71c7AnMU512OFNJqohqAHR5D_VNyFMUBqbzotW9rGty9s-mxZGr-iwrQ1-FUOu0gtf7vMUZVh0ldwRX-k0kibUpvCXFBACfgV7i-joVSu8GupipM1wYhz3fWY6DQaAoaomuUUBoohAIHZpg7z1_Wpg0aOQddPmj52PUHa3OF0VYna04A_PEj0umNW_vDkPxWffGiurzigcDZlaTbZhCqPQZZntROBbjYW7B11fZjOizC0mYiIsOH5Y2Kle-716_Q6nSf4JE_-DL1GTLrclRMVhI-ZfUrmmQVa-tQ48i22L8VyQ3DwYQl2LFDW-kTkxLirsNYzmmnYbcrwReUICEySukR6nss4IXj3x3EITEvxzRZQauGm2tZuuf4Y6a_x3SNWNMi86klOOcBaT5j8yqtjDjzDQM0OwXdV5V5cDcKxffsaWK_iMeAlMPKfJok7hfy6Q5YM-r2V_p0Tn30I6rWxtcBNWOekHRQs67uInUbWlWw3bcoHgMU_yyPmBjFhyPyBm0RmTvzQRGUnyUW4GQkMBt25USkz8rEPMJcImwVO9KIsGaHCb9hQPk6dyOfJh2HQfxKw9Q1ObOULPd1li3nj2pyQ45Eq8QCtG-qEYJmR7rxX9T2kkgWdmbfiXuqcDGO4aS9TuSgwCmZKZaW-qyRfdUJYqiu286QyrwD8nmwQIuL4fNkn-NBFN7YXcwH3VmxbB1IT88cZG0-grhstVf3rSLO9eddcrAuK36BsDzGs0AB3KwGV-Nq9Mpa150VZK9jsKtCMQDP8MD3DiwriCo48kT316sNeFDWn3E_E4HladR9myEeUPmUGW0VyUBk1BFeKJ-HvK6igixpRSGVQNtmt5nKUpXKfoN_UE_o4sOA1fG9M-DrDa0PXCO52m8RSrMAPIvXW7HepqZSNRFmfgvK-HwyL112PeJd8zQTYjTNwaIbMqho8Kuea6PEN939LwjdpnRe5pmHuFR7U0fO500cbI4_bYig5zfduI2J9qjPyN_TDG1vKZ4QKdLWiEB9Zrz2WXSZTGL8uf-_Z_HXuQmAPnEjk3BimU3A6QA2CDEPkBJE-6aeDzjmtsY4k992KGJy2dmkDYdmMqypvhVpMSd2Kd9r7Fls9753slybEdZKEcn2leCju5mfRWaNK2kC_9EP8qfMqgO24ghiy_BxPwmmxvbd41TxLL0CYWd7wGoxlp5jORGpU3RzjstEs5FHG91ZbszYTNG0MnorFYQY5UOvcN9LSg_5iJlSu690NZHaWjGKC5hnKfAAkFWoKZqEAgFVIR91HEoO92huMJf0flOcKi6fMPrZgMAY5bCedfiQx0jIB1oMVlaTCy1typDwru-NwaDu2yAaaIJ4JaYWXVNRQ9iCxyONYy7IuehMlDlHdkaiF9LU_vpXvcesFNfNSoDt-Gy0bVbgs20bSAhw2hJ72Z2s18a3NCLCzz52hznDoE_yZFJJYgeBsuKsqBQOJwZtZK8bwDT86IbKD8NntjpqVKdhsTLzaCRZ1sDbBYVrJjjriObzDNuKhZGirPwHS2jWiAf-Q_y_O_lSncM8RXLwmbKU2e1fJrJF-ABVzffyXZpeRhhguyYYK8tIffvmyuu5O70QIgbPZtJ4bSmEG_wxleBue0OBCHqUJf7dqmtZhNSBGNJDVNmPtm4NnhJYj9hodNhdWYAZEgohF4nsh6JWWwNm8BgGJkq1htQscIWyLpZWNN7ezYcRaK4s7Zcw6iTq2_xIcdbvH6RCM32huHR0hBNrj_eGbeli-OuKW6e7X5zH-QwIoCmODXCBT_BAbULmXlbNFILeE4aZRDLPmNyGwcc9Sn3M-ltIgdn3GfPx8IhDEC_Rmp2tIir2TjARclDwt64GjOMZqLk5-cJ8J7xOm9oKPvnKLv93HDP4pQYqItDnInNZxxYqRFbORbinC-UUHFVsQx3Kia7ivcN1s2LhBYWDP9dsuT8zouG9hhxcf3q9CRDXmTu6hexFTHncltHfnLdJ0tImfwrgPJCW5CUFf4j4CgFo0VbzVf4NEEoK0YtZKgeWHuGvXP20VVJOg1I3MNX1kdGLkFcU2PwgXwt9lufYlRCTyzkn8Xzgk8VWy6Nic13KsehU=",
+      "summary": []
+    },
+    {
+      "id": "msg_0643dda0395ee0c4016aa0c70125c487d1812835a27e1002ec",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"title\":\"Outer Āvaraṇa Worship and Brahmasūtra Recitation\",\"group\":\"The Pūjā\",\"blocks\":[{\"kind\":\"mantra\",\"sourceOriginal\":\"इति तृतीयावरणपूजां। तद्बहिः पूर्वे ओं संकर्षणाय नमः, ओं वासुदेवाय नमः, आग्नेये ओं प्रद्युम्नाय नमः, दक्षिणे ओं अनिरुद्धाय नमः, ओं पुरुषोत्तमाय नमः, नैरृत्ये ओं अधोक्षजाय नमः, पश्चिमे ओं नारसिंहाय नमः, ओम् अच्युताय नमः, वायव्ये ओं जनार्दनाय नमः, उत्तरे ओं उपेन्द्राय नमः, ओं हरये नमः, ईशान्ये श्रीकृष्णाय नमः। इति चतुर्थावरणम्। तद्बहिः पूर्वे ओं अच्युताय नमः, ओं कूर्माय नमः, आग्नेये ओं वराहाय नमः, दक्षिणे ओं नरसिंहाय नमः, ओं वामनाय नमः, नैरृत्ये ओं परशुरामाय नमः, पश्चिमे ओं रामाय नमः, ओं कृष्णाय नमः, वायव्ये ओं बुद्धाय नमः, ओं कल्किने नमः, ओं अनन्ताय नमः, ऐशान्ये ओं विश्वरूपाय नमः। इति पञ्चमावरणम्। तद्बहिः पूर्वादि दिक्षु ओं अनन्ताय नमः, ओं ब्रह्मणे नमः, ओं वायवे नमः, ओं ईशानाय नमः, देवस्याग्रे ओं गरुडाय नमः, आग्नेयादि दिक्षु ओं वामारुण्ये नमः, ओं सरस्वत्यै नमः, ओं भारत्यै नमः, ओं गिरिजायै नमः, गरुडस्य वामे ओं सौपर्णे नमः। इति षष्ठावरणम्। पूर्वे तद्बहिः पूर्वादि अष्टदिक्षु ओं वामेन्द्राय, सुरादिपतये, शचीसहिताय, सायुधाय, सवाहनाय। सपरिग्रहाय श्रीमदनन्तपद्मनाभ पार्षदाय नमः। अग्नये ॐ राम्, अग्नये तेजोऽधिपतये स्वाहा। सहिताय सायुधाय सवाहनाय सपरिग्रहाय श्रीमदनन्तपद्मनाभ पार्षदाय नमः। दक्षिणे ॐ यं यमाय धर्माधिपतये श्यामला सहिताय सायुधाय सवाहनाय सपरिग्रहाय श्रीमदनन्तपद्मनाभ पार्षदाय नमः। नैरृत्ये ॐ क्षां निरृतये रक्षोऽधिपतये धीर्गग्रीवा सहिताय सायुधाय सवाहनाय सपरिग्रहाय श्रीमदनन्तपद्मनाभ पार्षदाय नमः। पश्चिमे ॐ वं वरुणाय जलाधिपतये गङ्गा सहिताय सायुधाय सवाहनाय सपरिग्रहाय श्रीमदनन्तपद्मनाभ पार्षदाय नमः। वायव्ये ॐ वं वायवे ज्ञानाधिपतये भारती सहिताय सायुधाय सवाहनाय सपरिग्रहाय श्रीमदनन्तपद्मनाभ स पार्षदाय नमः। उत्तरे ॐ सं सोमाय धनाधिपतये रोहिणी सहिताय सायुधाय सवाहनाय सपरिग्रहाय श्रीमदनन्तपद्मनाभ पार्षदाय नमः। ईशान्ये ॐ हां रुद्राय भूताधिपतये उमा सहिताय सायुधाय सवाहनाय सपरिग्रहाय... ಶ್ರೀಮದನಂತಪದ್ಮನಾಭ ಪಾರ್ಷದಾಯ ನಮಃ. ನಿರೃತಿ ವರುಣಯೋರ್ಮಧ್ಯೇ ಓಂ ಆಂ ಶೇಷಾಯ ನಾಗಾಧಿಪತಯೇ ನಾಗಿಣೀ ಸಹಿತಾಯ ಸಾಯುಧಾಯ ಸವಾಹನಾಯ ಸಪರಿಗ್ರಹಾಯ ಶ್ರೀಮದನಂತಪದ್ಮನಾಭ ಪಾರ್ಷದಾಯ ನಮಃ. ಇಂದ್ರ ಈಶಾನಯೋರ್ಮಧ್ಯೇ ಓಂ ಹ್ರೀಂ ಬ್ರಹ್ಮಣೇ ಸತ್ಯಲೋಕಾಧಿಪತಯೇ ಗಾಯತ್ರೀ ಸಹಿತಾಯ ಸಾಯುಧಾಯ ಸವಾಹನಾಯ ಸಪರಿಗ್ರಹಾಯ ಶ್ರೀಮದನಂತಪದ್ಮನಾಭ ಪಾರ್ಷದಾಯ ನಮಃ. ತನ್ಮಧ್ಯೇ ಏಕೀಭೂತಸ್ವಾವತಾರಾಯ ಸ್ತ್ರೀಕಾಯ ಸಪರಿವಾರಾಯ ಶ್ರೀಮದನಂತಪದ್ಮನಾಭಾಯ ನಮಃ.\",\"text\":\"iti tṛtīyāvaraṇapūjām। tadbahiḥ pūrve oṃ saṅkarṣaṇāya namaḥ,\\noṃ vāsudevāya namaḥ, āgneye oṃ pradyumnāya namaḥ,\\ndakṣiṇe oṃ aniruddhāya namaḥ, oṃ puruṣottamāya namaḥ,\\nnairṛtye oṃ adhokṣajāya namaḥ, paścime oṃ nārasiṃhāya namaḥ,\\nom acyutāya namaḥ, vāyavye oṃ janārdanāya namaḥ,\\nuttare oṃ upendrāya namaḥ, oṃ haraye namaḥ,\\nīśānye śrīkṛṣṇāya namaḥ। iti caturthāvaraṇam।\\n\\ntadbahiḥ pūrve oṃ acyutāya namaḥ, oṃ kūrmāya namaḥ,\\nāgneye oṃ varāhāya namaḥ, dakṣiṇe oṃ narasiṃhāya namaḥ,\\noṃ vāmanāya namaḥ, nairṛtye oṃ paraśurāmāya namaḥ,\\npaścime oṃ rāmāya namaḥ, oṃ kṛṣṇāya namaḥ,\\nvāyavye oṃ buddhāya namaḥ, oṃ kalkine namaḥ,\\noṃ anantāya namaḥ, aiśānye oṃ viśvarūpāya namaḥ।\\niti pañcamāvaraṇam।\\n\\ntadbahiḥ pūrvādi dikṣu oṃ anantāya namaḥ,\\noṃ brahmaṇe namaḥ, oṃ vāyave namaḥ, oṃ īśānāya namaḥ,\\ndevasya agre oṃ garuḍāya namaḥ, āgneyādi dikṣu\\noṃ vāmāruṇye namaḥ, oṃ sarasvatyai namaḥ,\\noṃ bhāratyai namaḥ, oṃ girijāyai namaḥ,\\ngaruḍasya vāme oṃ sauparṇe namaḥ। iti ṣaṣṭhāvaraṇam।\\n\\npūrve tadbahiḥ pūrvādi aṣṭadikṣu oṃ vāmendrāya,\\nsurādipataye, śacīsahitāya, sāyudhāya, savāhanāya।\\nsaparigrahāya śrīmadanantapadmanābha pārṣadāya namaḥ।\\nagnaye oṃ rām, agnaye tejo’dhipataye svāhā।\\nsahitāya sāyudhāya savāhanāya saparigrahāya\\nśrīmadanantapadmanābha pārṣadāya namaḥ।\\n\\ndakṣiṇe oṃ yaṃ yamāya dharmādhipataye śyāmalā sahitāya\\nsāyudhāya savāhanāya saparigrahāya\\nśrīmadanantapadmanābha pārṣadāya namaḥ।\\n\\nnairṛtye oṃ kṣāṃ nirṛtaye rakṣo’dhipataye dhīrgragrīvā\\nsahitāya sāyudhāya savāhanāya saparigrahāya\\nśrīmadanantapadmanābha pārṣadāya namaḥ।\\n\\npaścime oṃ vaṃ varuṇāya jalādhipataye gaṅgā sahitāya\\nsāyudhāya savāhanāya saparigrahāya\\nśrīmadanantapadmanābha pārṣadāya namaḥ।\\n\\nvāyavye oṃ vaṃ vāyave jñānādhipataye bhāratī sahitāya\\nsāyudhāya savāhanāya saparigrahāya\\nśrīmadanantapadmanābha sa pārṣadāya namaḥ।\\n\\nuttare oṃ saṃ somāya dhanādhipataye rohiṇī sahitāya\\nsāyudhāya savāhanāya saparigrahāya\\nśrīmadanantapadmanābha pārṣadāya namaḥ।\\n\\nīśānye oṃ hāṃ rudrāya bhūtādhipataye umā sahitāya\\nsāyudhāya savāhanāya saparigrahāya...\\nśrīmadanantapadmanābha pārṣadāya namaḥ.\\n\\nnirṛti varuṇayormadhye oṃ āṃ śeṣāya nāgādhipataye\\nnāgiṇī sahitāya sāyudhāya savāhanāya saparigrahāya\\nśrīmadanantapadmanābha pārṣadāya namaḥ.\\n\\nindra īśānayormadhye oṃ hrīṃ brahmaṇe satyalokādhipataye\\ngāyatrī sahitāya sāyudhāya savāhanāya saparigrahāya\\nśrīmadanantapadmanābha pārṣadāya namaḥ.\\n\\ntanmadhye ekībhūtasvāvatārāya strīkāya saparivārāya\\nśrīmadanantapadmanābhāya namaḥ.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\" ಎಂಬ ಮಂತ್ರದಿಂದ ತುಳಸಿ ಹೂವನ್ನು ಸಮರ್ಪಣೆ ಮಾಡಿ, ಬ್ರಹ್ಮಸೂತ್ರಾದಿಗಳನ್ನು ಕಾಲಾವಕಾಶ ಇದ್ದರೆ ಹೇಳಿಕೊಳ್ಳಬಹುದು,\",\"text\":\"\",\"sourceRoman\":\"emba mantradinda tuḷasi hūvannu samarpaṇe māḍi, brahmasūtrādigaḷannu kālāvakāśa iddare hēḷikoḷḷabahudu,\",\"english\":\"Using this mantra, offer a tulasī flower; if time permits, the Brahmasūtras and related texts may be recited,\"},{\"kind\":\"mantra\",\"sourceOriginal\":\" ಓಂ ಓಂ ಅತಾತೋ ಬ್ರಹ್ಮಜಿಜ್ಞಾಸಾ, ಓಂ\",\"text\":\"oṃ oṃ atāto brahmajijñāsā, oṃ\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\" ಇತ್ಯಾದಿ ಬ್ರಹ್ಮಸೂತ್ರಗಳನ್ನು.\",\"text\":\"\",\"sourceRoman\":\"ityādi brahmasūtragaḷannu.\",\"english\":\"and so forth—the Brahmasūtras.\"},{\"kind\":\"mantra\",\"sourceOriginal\":\" ಕಿರೀಟೇ ಕೇಯೂರಹಾರ ಮಕರಕುಂಡಲ ಕಲಾಂಕೃತಾ ಶಂಖಚಕ್ರಗದಾಬ್ಜಹಸ್ತ ಪೀತಾಂಬರ ಧರ ಶ್ರೀವತ್ಸಾಂಕಿತ ವಕ್ಷಸ್ಥಲ ಶ್ರೀಭೂಮಿಸೇವಿತ ಸ್ವಾತ್ಮಜೋತಿರ್ದ್ವಯ ದೀಪ್ತಿಕಾರಾಯ ಸಹಸ್ರಾದಿತ್ಯತೇಜಸೇ ಶ್ರೀಮದನಂತಪದ್ಮನಾಭಾಯ ನಮಃ.\",\"text\":\"kirīṭe keyūrahāra makarakuṇḍala kalāṅkṛtā\\nśaṅkhacakragadābjahasta pītāmbara dhara\\nśrīvatsāṅkita vakṣasthala śrībhūmisevita\\nsvātmajotirdvaya dīptikārāya sahasrādityatejase\\nśrīmadanantapadmanābhāya namaḥ.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"}]}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "low",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "description": null,
+      "name": "lossless_puja_section",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "title",
+          "group",
+          "blocks"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "group": {
+            "type": "string",
+            "enum": [
+              "The Pūjā",
+              "Completion",
+              "Vrata Kathā"
+            ]
+          },
+          "blocks": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "kind",
+                "sourceOriginal",
+                "text",
+                "sourceRoman",
+                "english"
+              ],
+              "properties": {
+                "kind": {
+                  "type": "string",
+                  "enum": [
+                    "mantra",
+                    "action"
+                  ]
+                },
+                "sourceOriginal": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "sourceRoman": {
+                  "type": "string"
+                },
+                "english": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "strict": true
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1678,
+    "input_tokens_details": {
+      "cache_write_tokens": 1675,
+      "cached_tokens": 0
+    },
+    "output_tokens": 3006,
+    "output_tokens_details": {
+      "reasoning_tokens": 266
+    },
+    "total_tokens": 4684
+  },
+  "user": null,
+  "metadata": {}
+}
