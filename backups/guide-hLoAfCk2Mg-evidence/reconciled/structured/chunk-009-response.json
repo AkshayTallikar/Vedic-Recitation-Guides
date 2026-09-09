@@ -1,0 +1,161 @@
+{
+  "id": "resp_040cafde55245c40016aa0c98ac91087d1903171b0903412db",
+  "object": "response",
+  "created_at": 1788922250,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1788922359,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": "You are preparing a lossless Roman-script guide from an exact transcript of a Madhva Śrī Anantapadmanābha Vrata recording.\n\nPartition the supplied SOURCE TRANSCRIPT into ordered blocks. The concatenation of blocks[*].sourceOriginal MUST equal the supplied source text character-for-character, including every space, punctuation mark, and original Unicode character. Copy all source text exactly once. Never summarize, deduplicate, correct, omit, or invent sourceOriginal. Split a mixed-language sentence at exact substring boundaries when needed.\n\nClassify Sanskrit recitation, invocations, ritual offering formulae, and quoted Sanskrit as mantra. Classify spoken Kannada directions, explanations, and Kannada narration of the vrata story as action. For mantra blocks, put a complete Roman transliteration with accurate diacritics in text; leave sourceRoman and english empty. Preserve every lexical item and repetition in the Roman text. Add only display whitespace: balanced lines of roughly 45–72 characters, one newline at verse divisions, and a blank line after each completed mantra or distinct recited formula. Keep adjacent Sanskrit recitation in one mantra block until Kannada speech intervenes.\n\nFor action blocks, put a complete Roman transliteration of every Kannada word in sourceRoman and a complete faithful English translation in english; leave text empty. Do not condense narrative or directions. Retain Sanskrit ritual terms in the English. If a Kannada utterance quotes a Sanskrit formula that should be recited, split the quoted formula into a mantra block.\n\nUse a concise descriptive title for this time window. Use group The Pūjā for worship through offerings and prayer, Completion for dora-dhāraṇa, donation, dismissal, and concluding observances, and Vrata Kathā for the narrated sacred story.\n",
+  "max_output_tokens": 20000,
+  "max_tool_calls": null,
+  "model": "gpt-5.6-sol",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_040cafde55245c40016aa0c98b600887d1895cfa32b143007e",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqoMn3t2-pKwPsnt7GH98ClWiySWOE3gMlKq0xiIbPJe-WlN0d_w1PitgMi1KS40u1jWRup9C8MCDLJTKMXl6bluLp5tXbFXMZm_YitWv_Bkkep5FGDBms6_sj389s2UVaeJfe25H6e0V2Wbn3kKF4x_G9HYG034CaYuO6daYa1i6Lb-dJ9XUUEsxz8XT06hG0QMyWKK9VERkgARrKZDegBlJ2xYM9IlNaYKi1SwdNR9xpq_ictNyoeQxwYN3bYkhQdrxMIoLvFbIPiXsxhxbz3Q3YK8aib6tZrouxr0z9YNbOSUk4-Z8_Y1MiMOWw-auf0XfJHszB9GY-HoLskdr4WaY6nEMYPpxtigjf4P8nJKUooLy8pROnWTe4A7k7ALncQwCT5bTW1psfRosBRqNEorhY8fN-6QA9Q3dalC47MzInHqWVR0mbttcqB2K4UWO5FC0phfcHjRuJKdVIWeYcBUmlkggt5NgSxisf1BeCLw-Z7Dms4CLu5u-IIbppknNL9ILZYGksLZSDQEH284CKsfd4QJHP7-VUzO9AP9gGQv0Rl0WZbE--Pw0BJyWGbipw1x4dC6faOI7R3WQgfOzTBk9zq2v7e_kqYav5ChIkt8qUhPsu9Maa99Nql_7ZsGKrkUQrn31XRkm1v2B0sEvPvLq-BOuGKuBctkF4kQwtJaVGp_dOV7AJvun-NZNEYQapjy74aCPPUJfGk-u3D1E6aQaxoN4c5fAyNQ6_UkvdxdvjZEorsevkXnsEM5pJHz6xyj9GWceo8UPyv1pksXNWE6XhBoWV1p7yuo-3bpRcVZo0k6BvCulPKSmaDikABDAAEs0qV_CJnsq8EQ1v3tPlttJgXeMF7KyNShXFvXLNjdlo6k8iQMw0Zr0bWOXrl-HGuNYItaNRx01kDK8-zUMx8-qcDvDuoOeZEGxLYlGwUJb9rvMlWLGkrFjQeCj7a1QYH5kzG_3fArDSVqYLMVaEkCP-2gwuWOvtHa6CuWzfnj7VvN4Mg0ttBu8wIPsJYfU4X4T53uT2VHm2JH-ss9uUNCXsBqz7iXgOpd1rkFEV4-SulNgWYWm7sN0cVCtKwZvd_grijP5xnTZx3tODJdWB4tRgcEt_Ov9nCdszP-A8tQv1eSt73m1rzw2XEIif7ztMrHiyjtH204rMptKAZNf_YeHaTd47aypUw7dIwmn0q91d_fve8DAKHHKl92gc1RS2u4HYWaVAfmi0xT_Non4iSQ9jmKYxp0A0eojSh9_bl6LceFdguMmg_FFz-sgCbuVECPwuUeYlPUoZUaaWDLGaIz4GRSyVyQjljV2laWaQG-GvhLlf4BpD7mt-EcKMYPo7X_5mebs_LzwESL6DstWakiaDoIHNzVPLTAhiyHWhy1Yx4v0E89Gsc6IBda5QiYW8YcTEO4yrjOoZII_i_InwrE02GWzHkXNEl2-rBJzHkCPdis9hX7gIao_rlcklMjcrctg774kwhEADKJa-Baeso6SOLwjNA80uRR5YDMgV__Hwq-Xhp4c0jlY57POFC0ACPdwK58wjKqjEgwXmUr4jXfzO7RRU9lOUbrWdqWcKM1tV9Cwm7x-9vyLpsKNgN0ytW96VR4yiSc3fIxlpu6Bs4VTb7kRkzm8pE2MKg6fg8HBFsIsRe2IolGuYbWesXZInSSSe-qwDCfnmDqZ-RBQwH7TUvaXoKhwc3yZ1Ial0Cd5-mdv6hRU_yCVKndtrosYxl_8zzWzMYlHiNAURkpzsRiH8d7EKjoXPOyFVupFGUDeaP2VOcMqwXUZqhmLkwVB68JksEGs5CABjRDgVYuuV5iEQLFE-JRgL7d6BG7txaESOal2ubCEt4rRCt2pnrD9sr6AIjhwkfyJq9Q3rYzUL8-Q9daGSk0RcC6B7kU5KXC5t-VA-TM5o2JY6g-W5bgLgthiFO-67BkmKfzwxQQvy2dBR_Cg1BSWYYkm7JFk-TIG9YNPaMMy1ZBJ-vrRROSMPokxiR07xSLAVov_dcPa8Zi-I3zgtbHN85iQtm6lvFQXlzOJ-HRRsXhEQLYj6LIuloxe_RCHEc62fPWwbK6fct83z8aEsr2dknifk058SHx9qzfqwkZfpOLssArDQHIdFdeF0IXX0S7UvTdaCMUFuJQnJ2-BqCbUmJCEY6KvPSB_jajreUGVtlmu2Q8RAj4qPBwcZKVIvYkIjovUPHuB8Nzh34e5ZF4piqsxgMg42_0gob5KFIGr9ydVuO5hc-OwqjMR1fza3mhrP-ffXLBUPQHnX5tbBJnnw-2BH33NdIJ8y0WKuZCd2VkDKvmqCZwdMhGLb7HcR_st_ZRpQK5zcPQticx4Y1WOvvi7mnoafHGNraySyIMlMYJTDT0hVd1F_CEk5E3iR0BF5qIpin8nJHiUB2kXrUET4HuVjYegNOJ3aelLAaqBnDT2ygTMeAGBYEcBj_-DlaSyPogSDJi9YPP0to--72_GNjaa2grDMAX-ZWZyD4uz-pP_-Oj87V0RrJP9493_HyHcQqaaDmWIeFWyNr6yLSj4Ds23aUCAom9WmuNYAUDAO3tHquZwMnbuPZIcN33vgPBk6E2e0qnkkCQxuI9nsR2rzgIm0fmabmE8sBV0-kabSbQV2DZd-LeDPpThYuw22psy1mOZI9vrJCS8OUg==",
+      "summary": []
+    },
+    {
+      "id": "msg_040cafde55245c40016aa0c990ece087d1804fa81cd9a1fb41",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"title\":\"Dismissal, Brāhmaṇa Feeding, and the Vrata Story\",\"group\":\"Vrata Kathā\",\"blocks\":[{\"kind\":\"mantra\",\"sourceOriginal\":\"लक्ष्मी नारायण प्रियतां सुप्रीतो वरदो भवतु।\",\"text\":\"lakṣmī-nārāyaṇaḥ prīyatāṃ suprīto varado bhavatu.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\" ಮಂತ್ರಾಕ್ಷತೆ ಸಹಿತವಾಗಿ ನೀರ್ನ ಬಿಡಬೇಕು. ಈ ಉದ್ವಾಸನೆಯನ್ನ ಬೆಳಗಿನ ಪೂಜಾ ನಂತರದಲ್ಲೇ ಮಾಡುವುದು ಹಲವರ ಸಂಪ್ರದಾಯ. ಸಂಜೆಲಿ ಮಾಡ್ತಕ್ಕಂತಾದ್ದು ಕೆಲವರ ಸಂಪ್ರದಾಯ. ಅವರವರ ಸಂಪ್ರದಾಯದ ರೀತಿಯಲ್ಲಿ ಮಾಡಿಕೊಳ್ಳೋಂತಾದ್ದು.\",\"text\":\"\",\"sourceRoman\":\"Mantrākṣate sahitavāgi nīrna biḍabēku. Ī udvāsaneyanna beḷagina pūjā nantaradallē māḍuvudu halavara sampradāya. Sanjeli māḍtakkantāddu kelavara sampradāya. Avaravara sampradāyada rītiyalli māḍikoḷḷōntāddu.\",\"english\":\" Water should be released together with mantrākṣate. Many follow the custom of performing this udvāsana immediately after the morning pūjā. Some follow the custom of doing it in the evening. It should be done according to each person’s own tradition.\"},{\"kind\":\"mantra\",\"sourceOriginal\":\" यानि कानि च पापानि जन्मान्तरकृतानि च, तानि तानि विनश्यन्ति प्रदक्षिणं पदे पदे.\",\"text\":\"yāni kāni ca pāpāni janmāntara-kṛtāni ca,\\ntāni tāni vinaśyanti pradakṣiṇaṃ pade pade.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\" ಅನಂತಪದ್ಮನಾಭ ದೇವರಿಗೆ ಪ್ರದಕ್ಷಿಣೆವನ್ನ ಹಾಕಬೇಕು. ಪ್ರದಕ್ಷಿಣೆ ನಮಸ್ಕಾರ ಆದ್ಮೇಲೆ ವೈಶ್ವದೇವನ್ನ ಮಾಡಿ, ಅವಶ್ಯಕವಾಗಿ ಗುರುಪೂಜೆನ್ನ ಮಾಡಿ, ಆಚಾರ್ಯರ ಪೂಜೆನ್ನ ಮಾಡಿ, ಹಸ್ತೋದಕ, ತೀರ್ಥವನ್ನ ಕೊಟ್ಟು, ಅವಶ್ಯಕವಾಗಿ ಗೋಗ್ರಾಸವನ್ನ ಕೊಟ್ಟು, ಬ್ರಾಹ್ಮಣ ಸುವಾಸಿನಿಯರ ಭೋಜನವನ್ನ ಮಾಡಿಸಬೇಕು. ಬ್ರಾಹ್ಮಣ, ಯೋಗ್ಯ ಬ್ರಾಹ್ಮಣ ದಂಪತಿಗಳಿಗೆ ಭೋಜನಕ್ಕೆ ಕರ್ದಿರಬೇಕು. ಅವರ ಭೋಜನದ ಸಂಕಲ್ಪ ಮಂತ್ರ ಈ ರೀತಿ:\",\"text\":\"\",\"sourceRoman\":\" Anantapadmanābha dēvarige pradakṣiṇevanna hākabēku. Pradakṣiṇe namaskāra ādmēle vaiśvadēvanna māḍi, avaśyakavāgi gurupūjenna māḍi, ācāryara pūjenna māḍi, hastōdaka, tīrthavanna koṭṭu, avaśyakavāgi gōgrāsavanna koṭṭu, brāhmaṇa suvāsiniyara bhōjanavanna māḍisabēku. Brāhmaṇa, yōgya brāhmaṇa dampatigaḷige bhōjanakke kardirabēku. Avara bhōjanada saṅkalpa mantra ī rīti:\",\"english\":\" One should circumambulate Lord Anantapadmanābha. After the circumambulation and prostration, one should perform Vaiśvadeva; one must perform guru-pūjā and worship the ācāryas, offer hastodaka and tīrtha, necessarily give gogrāsa, and arrange a meal for Brāhmaṇas and suvāsinīs. Brāhmaṇas—worthy Brāhmaṇa couples—should be invited for the meal. The saṅkalpa mantra for their meal is as follows:\"},{\"kind\":\"mantra\",\"sourceOriginal\":\" ಅನೇನ ಬ್ರಾಹ್ಮಣ ಸುವಾಸಿನೀ ಸಮಾರಾಧನೇನ ಭಗವಾನ್ ಭಾರತೀರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಅನಂತಪದ್ಮನಾಭಾತ್ಮಕ ಲಕ್ಷ್ಮೀ ನಾರಾಯಣ ಪ್ರೀಯತಾಂ.\",\"text\":\"anena brāhmaṇa-suvāsinī-samārādhanena bhagavān\\nbhāratī-ramaṇa-mukhya-prāṇāntargata-\\nanantapadmanābhātmaka-lakṣmī-nārāyaṇaḥ prīyatām.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\" ಮಂತ್ರಾಕ್ಷತೆಯನ್ನ ಬಿಟ್ಟು, ಬ್ರಾಹ್ಮಣ ಸುವಾಸಿನಿಯರಿಗೆ ತಲೆಯ ಮೇಲೆ ಮಂತ್ರಾಕ್ಷತೆ ಹಾಕಿ,\",\"text\":\"\",\"sourceRoman\":\" Mantrākṣateyanna biṭṭu, brāhmaṇa suvāsiniyarige taleya mēle mantrākṣate hāki,\",\"english\":\" Offer the mantrākṣate, place mantrākṣate upon the heads of the Brāhmaṇas and suvāsinīs, and recite:\"},{\"kind\":\"mantra\",\"sourceOriginal\":\" ನಮೋಸ್ತ್ವನಂತಾಯ ಸಹಸ್ರಮೂರ್ತಯೇ ಸಹಸ್ರಪಾದಾಕ್ಷಿಶಿರೋರುಬಾಹವೇ, ಸಹಸ್ರನಾಮ್ನೇ ಪುರುಷಾಯ ಶಾಶ್ವತೇ, ಸಹಸ್ರಕೋಟಿಯುಗಧಾರಿಣೇ ನಮಃ.\",\"text\":\"namo'stv anantāya sahasra-mūrtaye\\nsahasra-pādākṣi-śiroru-bāhave,\\nsahasra-nāmne puruṣāya śāśvate,\\nsahasra-koṭi-yuga-dhāriṇe namaḥ.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\" ಎಂದು ಆ ಬ್ರಾಹ್ಮಣರಲ್ಲಿ ಮತ್ತು ಆ ಸುಹಾಸಿನಿಯರಲ್ಲಿ ಲಕ್ಷ್ಮೀ ನಾರಾಯಣರ ನಾವಾಹನೆ ಮಾಡಿಕೊಳ್ಳಬೇಕು ಅಥವಾ ಅನುಸಂಧಾನ ಮಾಡಿ, ಅವರಿಗೆ ಪುಷ್ಕಳವಾಗಿರತಕ್ಕಂತ ಭೋಜನವನ್ನು ಮಾಡಿಸಬೇಕು. ತಾಂಬೂಲ ದಕ್ಷಿಣಾದಿಗಳನ್ನು ದಾನ ಕೊಡಬೇಕು. ನಂತರ ಮಂತ್ರಾಕ್ಷತೆಯನ್ನು ಕೊಟ್ಟು ಆ ಬ್ರಾಹ್ಮಣರಿಂದ ಆಶೀರ್ವಾದ ಪಡೆಯಬೇಕು.\",\"text\":\"\",\"sourceRoman\":\" Endu ā brāhmaṇaralli mattu ā suhāsiniyaralli Lakṣmī Nārāyaṇara nāvāhane māḍikoḷḷabēku athavā anusandhāna māḍi, avarige puṣkaḷavāgiratakkanta bhōjanavannu māḍisabēku. Tāmbūla dakṣiṇādigaḷannu dāna koḍabēku. Nantara mantrākṣateyannu koṭṭu ā brāhmaṇarinda āśīrvāda paḍeyabēku.\",\"english\":\" Saying this, one should invoke Lakṣmī-Nārāyaṇa in those Brāhmaṇas and those suvāsinīs, or contemplate their presence, and serve them a plentiful meal. Tāmbūla, dakṣiṇā, and other gifts should be donated. Then one should give mantrākṣate and receive blessings from those Brāhmaṇas.\"},{\"kind\":\"mantra\",\"sourceOriginal\":\" ಕೃಷ್ಣಾರ್ಪಣಮಸ್ತು, ಮಧ್ವೇಶಾರ್ಪಣಮಸ್ತು. ಶ್ರೀಮದ್ ಅನಂತ ವ್ರತ ಕಥಾ. ಶುಕ್ಲಾಂಬರಧರಂ ವಿಷ್ಣುಂ ಶಶಿವರ್ಣಂ ಚತುರ್ಭುಜಂ ಪ್ರಸನ್ನವದನಂ ಧ್ಯಾಯೇತ್ ಸರ್ವವಿಘ್ನೋಪಶಾಂತಯೇ. ಅಭ್ರಂ ಭಂಗರಹಿತಂ ಮಜ್ಜನಂ ವಿಮಲಂ ಸದಾ, ಶ್ರೀಮದಾನಂದ ತೀರ್ಥಮತುಲಂ ಭಜೇ ತಾಪತ್ರಯಾಪಹಂ. ನಮೋಸ್ತು ತಾತ್ವಿಕಾ ದೇವಾಃ ವಿಷ್ಣುಭಕ್ತಿ ಪರಾಯಣಾಃ, ಧರ್ಮಮಾರ್ಗೇ ಪ್ರೇರಯಂತು ಭವಂತಃ ಸರ್ವಯೇವ ಹಿ. ಪೃಥ್ವೀಮಂಡಲಮಧ್ಯಸ್ಥಾಃ ಪೂರ್ಣಬೋಧಮತಾನುಕಾಃ, ವೈಷ್ಣವಾಃ ವಿಷ್ಣುರ್ಹೃದಯಾಸ್ತಾನ್ ನಮಸ್ಯೇ ಗುರುೂನ್ನಮಃ.\",\"text\":\"kṛṣṇārpaṇam astu, madhveśārpaṇam astu.\\n\\nśrīmad-ananta-vrata-kathā.\\n\\nśuklāmbara-dharaṃ viṣṇuṃ śaśi-varṇaṃ catur-bhujam\\nprasanna-vadanaṃ dhyāyet sarva-vighnopaśāntaye.\\n\\nabhraṃ bhaṅga-rahitaṃ majjanaṃ vimalaṃ sadā,\\nśrīmad-ānanda-tīrtham atulaṃ bhaje tāpatrayāpaham.\\n\\nnamo'stu tāttvikā devāḥ viṣṇu-bhakti-parāyaṇāḥ,\\ndharma-mārge prerayantu bhavantaḥ sarva eva hi.\\n\\npṛthvī-maṇḍala-madhyasthāḥ pūrṇa-bodha-matānukāḥ,\\nvaiṣṇavā viṣṇur hṛdayās tān namasye gurūn namaḥ.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"},{\"kind\":\"action\",\"sourceOriginal\":\" ನೈಮಿಷಾರಣ್ಯದಲ್ಲಿ ಶೌನಕಾದಿಗಳಿಗೆ ಸೂತ ಮಹರ್ಷಿಗಳು ಈ ಕಥೆಯನ್ನು ಹೇಳಿದ್ದಾರೆ. ಪ್ರಾರಂಭದಲ್ಲಿ ರಾಜಸೂಯ ಯಾಗಕ್ಕೆ ಬಂದು ದ್ರೌಪದಿಯಿಂದ ಅವಮಾನಿತನಾದಂತಹ ದುರ್ಯೋಧನ ಕುಪಿತನಾಗಿ ಅವರೊಡನೆ ದ್ಯೂತವನ್ನಾಡಿ ಅವನ ರಾಜ್ಯಭ್ರಷ್ಟನಾಗಿ ಮಾಡಿದ್ದಾನೆ. ನಂತರ ರಾಜ್ಯಭ್ರಷ್ಟರಾಗಿರತಕ್ಕಂತಹ... ಧರ್ಮರಾಜ ಮತ್ತವನ ಸೋದರರು ಕಾಡಿನಲ್ಲಿದ್ದಾರೆ, ಬಹಳ ದುಃಖ ಬಂದೋಗಿದೆ. ಅಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ಕೃಷ್ಣ ಈ ಪಾಂಡವರನ್ನ ನೋಡಬೇಕು ಅಂತೇಳಿ ಆ ಕಾಡಿಗೆ ಬಂದಿದ್ದಾನೆ. ಆ ಕೃಷ್ಣನನ್ನ ಕುರಿತು ದ್ರೌಪದಿ ಮತ್ತು ಯುಧಿಷ್ಠಿರ ಕೇಳ್ತಾ ಇದ್ದಾರೆ. ಯುಧಿಷ್ಠಿರ ಹೇಳ್ತಾನೆ, ಪರಮಾತ್ಮ, ನಾನು ಮತ್ತು ನನ್ನ ತಮ್ಮಂದಿರು ಯಾವಾಗಲೂ ಕೂಡ ಧರ್ಮದ ಹಾದಿಯಲ್ಲೇ ಇದ್ದೇವೆ. ಬೇರೆ ಯಾರಿಗೂ ಕೂಡ ನೋವನ್ನು ಉಂಟು ಮಾಡಿಲ್ಲ. ಆದರೂ ಕೂಡ ನಮಗೆ ಇಂತಹ ಕಷ್ಟ ಬಂದಿದೆ. ಮತ್ತೆ ಏನು ಮಾಡಿದ್ರೆ ಪುನಃ ನಮಗೆ ರಾಜ್ಯ ಸಿಗುತ್ತದೆ ಅನ್ನೋದನ್ನ ಕೇಳ್ತಾ ಇದ್ದಾನೆ. ಆಗ ಕೃಷ್ಣ ಪರಮಾತ್ಮ ಹೇಳ್ತಾ ಇದ್ದಾನೆ, ಧರ್ಮರಾಜ, ನೋಡಪ್ಪಾ, ಸರ್ವಾಭೀಷ್ಟ ಪ್ರದೋ ಸಕಲ ಮಂಗಳಕಾರಕುವಾದಂತಹ ಅನಂತ ವ್ರತ ಎಂಬುದಕ್ಕಂತ ಒಂದು ಪೂಜೆ ಇದೆ. ಅದನ್ನು ಭಾದ್ರಪದ ಶುದ್ಧ ಚತುರ್ಥಿ ದಿನ ಆಚರಣೆ ಮಾಡಿದ್ರೆ ನಿನ್ನ ಎಲ್ಲ ಪಾಪಗಳು ನಿವಾರಣೆ ಆಗ್ತಿದೆ. ಆಗ ಯುಧಿಷ್ಠಿರ ಕೇಳ್ತಾ ಇದ್ದಾನೆ, ಸ್ವಾಮಿ, ನೀರು ಅನಂತ ಅಂತ ಹೇಳ್ತಾ ಇದ್ದೀಯಲ್ಲ, ಅವನು ಯಾರು? ಅವನು ಶೇಷನೋ, ಸರ್ಪನೋ, ತಕ್ಷಕನೋ, ಅಥವ ನೀನೇನೋ ಯಾರು ಅಂತ ವಿಸ್ತಾರವಾಗಿ ಹೇಳು ಅಂತಂದಾಗ, ಆಗ ಕೃಷ್ಣ ಹೇಳ್ತಾ ಇದ್ದಾನೆ, ಅನಂತ ಅಂದರೆ ನಾನೇ. ನಾ ಎಲ್ಲ ಸರ್ವ…\",\"text\":\"\",\"sourceRoman\":\" Naimiṣāraṇyadalli Śaunakādigaḷige Sūta Maharṣigaḷu ī katheyannu hēḷiddāre. Prārambhadalli rājasūya yāgakke bandu Draupadiyinda avamānitanādantaha Duryōdhana kupitanāgi avaroḍane dyūtavannāḍi avana rājyabhraṣṭanāgi māḍiddāne. Nantara rājyabhraṣṭarāgiratakkantaha... Dharmarāja mattavana sōdararu kāḍinalliddāre, bahaḷa duḥkha bandōgide. Antaha sandarbhadalli Kṛṣṇa ī Pāṇḍavaranna nōḍabēku antēḷi ā kāḍige bandiddāne. Ā Kṛṣṇananna kuritu Draupadi mattu Yudhiṣṭhira kēḷtā iddāre. Yudhiṣṭhira hēḷtāne, Paramātma, nānu mattu nanna tammandiru yāvāgalū kūḍa dharmada hādiyallē iddēve. Bēre yārigū kūḍa nōvannu uṇṭu māḍilla. Ādarū kūḍa namage intaha kaṣṭa bandide. Matte ēnu māḍidre punaḥ namage rājya siguttade annōdanna kēḷtā iddāne. Āga Kṛṣṇa Paramātma hēḷtā iddāne, Dharmarāja, nōḍappā, sarvābhīṣṭa pradō sakala maṅgaḷakārakuvādantaha Ananta Vrata embudakkanta ondu pūje ide. Adannu Bhādrapada Śuddha Caturthi dina ācaraṇe māḍidre ninna ella pāpagaḷu nivāraṇe āgtide. Āga Yudhiṣṭhira kēḷtā iddāne, Svāmi, nīru Ananta anta hēḷtā iddīyalla, avanu yāru? Avanu Śēṣanō, sarpanō, Takṣakanō, athava nīnēnō yāru anta vistāravāgi hēḷu antandāga, āga Kṛṣṇa hēḷtā iddāne, Ananta andare nānē. Nā ella sarva…\",\"english\":\" In Naimiṣāraṇya, the sage Sūta told this story to Śaunaka and the others. At the beginning, Duryodhana, who had come to the Rājasūya sacrifice and been humiliated by Draupadī, became enraged, played dice with them, and caused him to be deprived of his kingdom. Afterwards, those who had lost their kingdom... Dharmarāja and his brothers were in the forest, and great sorrow had befallen them. At such a time, Kṛṣṇa came to that forest, saying that he wished to see these Pāṇḍavas. Draupadī and Yudhiṣṭhira questioned Kṛṣṇa. Yudhiṣṭhira said, “Paramātman, my younger brothers and I have always remained upon the path of dharma. We have not caused pain to anyone else. Even so, such hardship has come upon us.” He asked what they should do to regain their kingdom. Then Kṛṣṇa Paramātman said, “Dharmarāja, look: there is a pūjā called the Ananta Vrata, which bestows every desired object and brings all auspiciousness. If you observe it on Bhādrapada Śuddha Caturthī, all your sins will be removed.” Then Yudhiṣṭhira asked, “Lord, you speak of ‘Ananta’; who is he? Is he Śeṣa, a serpent, Takṣaka, or are you yourself Ananta? Tell me in detail.” Then Kṛṣṇa said, “I myself am Ananta. I am all, every…”\"}]}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "low",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "description": null,
+      "name": "lossless_puja_section",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "title",
+          "group",
+          "blocks"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "group": {
+            "type": "string",
+            "enum": [
+              "The Pūjā",
+              "Completion",
+              "Vrata Kathā"
+            ]
+          },
+          "blocks": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "kind",
+                "sourceOriginal",
+                "text",
+                "sourceRoman",
+                "english"
+              ],
+              "properties": {
+                "kind": {
+                  "type": "string",
+                  "enum": [
+                    "mantra",
+                    "action"
+                  ]
+                },
+                "sourceOriginal": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "sourceRoman": {
+                  "type": "string"
+                },
+                "english": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "strict": true
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1620,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 1617
+    },
+    "output_tokens": 3647,
+    "output_tokens_details": {
+      "reasoning_tokens": 219
+    },
+    "total_tokens": 5267
+  },
+  "user": null,
+  "metadata": {}
+}

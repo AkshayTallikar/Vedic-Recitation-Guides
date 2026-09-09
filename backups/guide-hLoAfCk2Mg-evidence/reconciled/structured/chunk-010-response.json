@@ -1,0 +1,161 @@
+{
+  "id": "resp_02dac52aa3c7cfea016aa0ca38922c87d19520f2f09af74c11",
+  "object": "response",
+  "created_at": 1788922424,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1788922569,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": "You are preparing a lossless Roman-script guide from an exact transcript of a Madhva Śrī Anantapadmanābha Vrata recording.\n\nPartition the supplied SOURCE TRANSCRIPT into ordered blocks. The concatenation of blocks[*].sourceOriginal MUST equal the supplied source text character-for-character, including every space, punctuation mark, and original Unicode character. Copy all source text exactly once. Never summarize, deduplicate, correct, omit, or invent sourceOriginal. Split a mixed-language sentence at exact substring boundaries when needed.\n\nClassify Sanskrit recitation, invocations, ritual offering formulae, and quoted Sanskrit as mantra. Classify spoken Kannada directions, explanations, and Kannada narration of the vrata story as action. For mantra blocks, put a complete Roman transliteration with accurate diacritics in text; leave sourceRoman and english empty. Preserve every lexical item and repetition in the Roman text. Add only display whitespace: balanced lines of roughly 45–72 characters, one newline at verse divisions, and a blank line after each completed mantra or distinct recited formula. Keep adjacent Sanskrit recitation in one mantra block until Kannada speech intervenes.\n\nFor action blocks, put a complete Roman transliteration of every Kannada word in sourceRoman and a complete faithful English translation in english; leave text empty. Do not condense narrative or directions. Retain Sanskrit ritual terms in the English. If a Kannada utterance quotes a Sanskrit formula that should be recited, split the quoted formula into a mantra block.\n\nUse a concise descriptive title for this time window. Use group The Pūjā for worship through offerings and prayer, Completion for dora-dhāraṇa, donation, dismissal, and concluding observances, and Vrata Kathā for the narrated sacred story.\n",
+  "max_output_tokens": 20000,
+  "max_tool_calls": null,
+  "model": "gpt-5.6-sol",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_02dac52aa3c7cfea016aa0ca3938e487d19712d0f377a9648d",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqoMrJw9vw-V7obn7VwW-c39WO7ywcFMsoc_B4yEEgocvZARFD0K0KbQ7MQaUhwOZ_kT0gf7BQDCGHlWAC8y28IkHLuOWjGln1GTWpQ2TpqlVo7sB7mXtmF2urD0pERw9XMqRMi0dbIJteiKYpG9ykEx1CvZ0JZ1360jJY-ihLqwGV5IzuE-Mm1ui-BMCZb0tk3MowiWi1pZcOoLCsfRYerKTmDAjFv9ajkcwflzBc9gkWLX4gHY5ig-RekVTVtzf3EfWVqynv6_F6etGTJ9AuJovZyDHsEOYqi0dm-j0y9kgW76pfcUAYitWo1_TDu_Q4DjRb05eqJ3Fp2kVXQp_2i_i3UcAVVJICyep4pfCvK075aj8xGDbIAGLTgnhrWFubJ7vxMkg5DVnLPU7oLbjMu44VamaOmWkFSibDI7DetQOye1holkVXz5Tq58QWry-ZdfKSWmZJvRSdnO9ggtcOTPHq5gmlMc7sfLR8n3LjO8tvi-hBpkunQdUPkHplMrCCkgMYyZA8I-AtfqtpXGxabJH6t9-kTxcD7UcJLaqeuP02dr7Nd_3sGkZpXDeDqSDvruJ288OoOpdJBXPJ6S9bwRaTg8lG2cULFtBRSlSAlpO46WuAXMWrhTz8U-rLOJvRu5II2oYWoB7Y-hByq7-ptsDpXkIXO_cBt-9ku6zRFVwansC5Wj9OlOUQA9dR3VJNHGwDQs070Zs8VyMvPcbkkaTwNwqYOMw6BRa7jMbZI-mj1HGv3KiymOgXoajCA_A_5G1HcWnWjiatDNpv_jacpKoNlTML7-1nmQ6a6EbTd-HARzsMD-HkIPzu6lNlt2qLtSmxAHrjSvMpnBzIGkpakaGRl4No099hVpg8axyGt-LM4L5dCviDjoUecW-sNLRi8PzYaEHuzwmi8aISgG3kdbMcKxGQQHoMInQyZMBhjfX-WoAt-Q-ECvPocI9ZNOyMT42PDhZjncpN3I0TzBSWpLk2mhzYLYPSExkeejEYitt2auJgB1xpXg0t7fLuAOJs0HeHzGeDYTn5DwfreB3tXgonFrOoQl8PlzzSnO0LrxX4iU6PsGK9v5mcMtk57wjPFaJiMu7UFQDNT-O_7zEoQ9_FfmIsJ5RxXJd8H74hhKAPou0N75JV8A6kDo0KdvgXkfi10TLIXsBY5ntaFK4a3JpVg9oqqDpigYBMQq2j1YAUu2i0q__XOkBne2i0MlHn9cr1rLVrDPbr7C1VlIqbzZiTckqNwhOJJjmPEyM8QU1UYbawkiGXjnAQvdoNIfvolk-H8fMOHmockk7wBY58dZ-VT116JCzumLtvqEUxOfro2xzrm5f1NmKnw_gb-DWrgGxSb_23MsynmkANfHltxm89PyRPYNa9Z26AePUlJ1O5VBIT4jfupc9dJCdhQi-4uTz7z8MHGbk8Arv6WOxTyRK-_Im68SXasvgqUGddwNPVhHRJ5sn4g3mQln5x71uuX01QjJFXJUmDadbiBh5vk8A73fxfFujf9uOrhmpMXRaGMe5Q0PwBUcmamafY-e-6S8lyfbVqUUxLRgJebzmV_BrDcqdLhXdvUvcBE3qeoMBAZ7yda3lbX54IvaFmL_93QaEJM-NRKiq56xCIRZmID6I11Hx1t36QCjGctHGxBAqAvLy86ckGCpGOLtn7WrTlqp8N5CdpA2ptX21WBTsTJqKj677PecWaJkl-n0TjP9u83VIO2XUOi0Sii8gouYwMquWG",
+      "summary": []
+    },
+    {
+      "id": "msg_02dac52aa3c7cfea016aa0ca3b04fc87d1928584dd7bcc58c4",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"title\":\"Śīle Learns and Observes the Ananta Vrata\",\"group\":\"Vrata Kathā\",\"blocks\":[{\"kind\":\"action\",\"sourceOriginal\":\"ಅಕ್ಷಕನೋ, ಅಥವಾ ನೀನೇನೋ ಯಾರೋ ಒಂತ ಸ್ವಿಸ್ತಾರವಾಗಿ ಹೇಳೋಣ್ತಂದಾಗ, ಆಗ ಕೃಷ್ಣ ಹೇಳ್ತಾ ಇದ್ದಾನೆ, ಅನಂತ ಅಂದರೆ ನಾನೇ. ನಾ ಎಲ್ಲ ಸರ್ವವಾಚ್ಯ ಪ್ರತಿಪಾದ್ಯಕನಾಗಿರತಕ್ಕಂತವನು ನಾನೇ ಆಗಿದ್ದೇನೆ. ಅದಕ್ಕೋಸ್ಕರ ಅನಂತ ಯಾರು ಅನ್ನೋ ವಿಚಾರದಲ್ಲಿ ಸಂಶಯ ಬೇಡ. ವಿಶ್ವರೂಪಿಯಾಗಿರತಕ್ಕಂತಹ ಅನಂತ ನಾಮಕ ಪರಮಾತ್ಮ ನಾನೇ. ಇದರಲ್ಲಿ ಯಾವ ಸಂಶಯವೂ ಇಲ್ಲ ಅಂತ ಹೇಳಿದ್ದಾನೆ. ಅನಂತ ಪದ್ಮನಾಭ ಎಂಬತಕ್ಕಂತವನು ಯಾರು ಎಂಬುದನ್ನು ತಿಳಿದಂತಹ ಧರ್ಮರಾಜ ಕೃಷ್ಣನ್ನ ಕುರಿತು ಹೇಳ್ತಾ ಇದ್ದಾನೆ. ಕೃಷ್ಣ, ಅನಂತ ವ್ರತದ ಮಹಿಮೆಯನ್ನು ಮತ್ತು ಅದನ್ನು ಮಾಡುವಂತಹ ವಿಧಾನವನ್ನು ತಿಳಿಸು. ಅದರಿಂದ ಏನು ಪುಣ್ಯ ಬರುತ್ತಾಯಿದೆ, ಫಲ ಎಂತಾದು ಬರುತ್ತಾಯಿದೆ, ಈ ವ್ರತದಲ್ಲಿ ಯಾವ ದೇವ, ಯಾವ ಯಾವ ದೇವರ ಪೂಜೆ ವಿಹಿತವಾಗಿದೆ, ಮತ್ತು ಪೂರ್ವದಲ್ಲಿ ಇದನ್ನು ಯಾರು ಆಚರಣೆ ಮಾಡಿದ್ದಾರೆ, ಭೂಲೋಕದಲ್ಲಿ ಯಾರು ಪ್ರಕಟ ಮಾಡಿದ್ದಾರೆ, ಎಲ್ಲವನ್ನೂ ಕೂಡ ನನಗೆ ಹೇಳಬೇಕು ಅಂತಂದಾಗ ಕೃಷ್ಣ ಒಂದು ಇತಿಹಾಸವನ್ನು ಹೇಳ್ತಾ ಇದ್ದಾನೆ. ನೋಡಪ್ಪ, ಪೂರ್ವದಲ್ಲಿ, ಅಂದರೆ ಕೃತಯುಗದಲ್ಲಿ ಸುಮಂತು ಎಂಬ ಬ್ರಾಹ್ಮಣ, ಸದ್ಬ್ರಾಹ್ಮಣನಾಗಿರತಕ್ಕಂತಹ ಅವನು ಸುಂದರಿಯಾಗಿದ್ದಂತಹ ದೀಕ್ಷಾ ಎಂಬತಕ್ಕಂತ ಕನ್ಯೆಯನ್ನು ವೇದೋಕ್ತ ರೀತಿಯಲ್ಲಿ ವಿವಾಹ ಮಾಡಿಕೊಂಡಿದ್ದ. ಸ್ವಲ್ಪ ಕಾಲಾನಂತರ ಅಪರಿಮಿತ ಸ್ತ್ರೀ ಲಕ್ಷಣಗಳಿಂದ ತುಂಬಿರತಕ್ಕಂತ ಅವಳು ಮಗಳು ಹುಟ್ಟಿದ್ದಾಳೆ. ಅವಳಿಗೆ ಶೀಲೆ ಅಂತ ನಾಮಕರಣ ಮಾಡಿದ್ದಾರೆ. ಸ್ವಲ್ಪ ದಿವಸ ಆದ ನಂತರ ಧರ್ಮಾಸಕ್ತನಾಗಿರತಕ್ಕಂತಹ ಸುಮಂತು ಮತ್ತೊಬ್ಬಳನ್ನೂ ಕೂಡ ಕರ್ಕಸೆ ಎಂಬತಕ್ಕಂತ ಇನ್ನೊಬ್ಬಳನ್ನೂ ಕೂಡ ವಿವಾಹ ಮಾಡಿಕೊಂಡಿದ್ದಾವೆ. ಅವಳು ತುಂಬ ಕ್ರೂರ ಸ್ವಭಾವದವಳಾಗಿದ್ದಾಳೆ. ಯಾವಾಗಲೂ ಕೂಡ ಜಗಳ ಆಡ್ತಾ ಇದ್ದಳು. ಮೊದಲೇ ಹೆಂಡತಿಯ ಮಗಳಾದಂತಹ ಶೀಲೆಯನ್ನು ಕಂಡಂತ ಸುಮಂತು, ಅವಳು ಯೌವನಕ್ಕೆ ಬಂದಾಗ ಅವಳಿಗೆ ಯೋಗ್ಯನಾದಂತಹ ವರನನ್ನು ಹುಡುಕುತ್ತಿದ್ದ. ಅಂತಾ ಸಂದರ್ಭದಲ್ಲಿ ವೇದಜ್ಞನಾದಂತಹ ಕೌಂಡಿನ್ಯ ಎಂಬ ತಕ್ಕಂತಹ ಋಷಿವರ್ಯ ಕನ್ಯಾರ್ಥಿಯಾಗಿ ಬಂದ. ಸುಮಂತು ಬಹಳ ಸಂತೋಷಿಂದ ಒಪ್ಪಿ, ಆ ಶೀಲೆಯನ್ನು ಕೌಂಡಿನ್ಯನಿಗೆ ಕೊಟ್ಟು ಲಗ್ನ ಮಾಡಿದ್ದಾನೆ. ತನ್ನ ಪತ್ನಿಯಾದಂತಹ ಕರ್ಕಶೆಗೆ ಆ ಸುಮಂತು ಬ್ರಾಹ್ಮಣ, ನೋಡು, ವಿವಾಹ ಆದ ಮೇಲೆ ಮಗಳು ಅಳೆಯನಿಗೆ ಬಳುವಳಿ ರೂಪವಾಗಿ ಏನಾದರೂ ಉತ್ತಮವಾಗಿರ್ತಕ್ಕಂತ ವಸ್ತುವನ್ನು ಕೊಡಬೇಕು, ಏನಾದರೂ ಕೊಡು ಅಂತಂದಾಗ, ಮೊದಲೇ ದುಷ್ಟ ಸ್ವಭಾವದವಳಾದಂತಹ ಆ ಕರ್ಕಶೆ ಅಲಂಕಾರದ ವಸ್ತುವನ್ನೆಲ್ಲ ಮುಚ್ಚಿಟ್ಟು, ಒದುವವರಿಗೆ ತಿಂದುಳಿದಂತಹ ಹಿಟ್ಟಿನಿಂದ ಬುತ್ತಿಯನ್ನು ಕಟ್ಟಿಕೊಟ್ಟು, ಇದನ್ನೇ ತೆಗೆದುಕೊಂಡು ಮನೆಗೆ ಹೋಗಬೇಕು ಅಂತ ಹೇಳಿದ್ದಾಳೆ. ಆದರೆ ಸ್ಥಿರವಾಗಿರ್ತಕ್ಕಂತ ಮನಸ್ಸಿದ್ದಂತಹ ಕೌಂಡಿನ್ಯ ಮತ್ತು ಆ ಶೀಲೆ ಇಬ್ಬರೂ ಕೂಡ ಅದನ್ನೇ ತೆಗೆದುಕೊಂಡು ತಮ್ಮ ಆಶ್ರಮಕ್ಕೆ ಹೊರಟಿದ್ದಾರೆ. ನದೀ ಮುಖನಾಗಿ ಹೊರಟಂತಹ ಕೌಂಡಿನ್ಯ ಆ ಮಧ್ಯಾಹ್ನ ಭೋಜನ ಸಮಯದಲ್ಲಿ ನದಿ ದಡದಲ್ಲಿ ಚತುರ್ಧಶಿ ದಿನವಾಗಿರ್ತಕ್ಕಂತ ಅಂದು ನಾರಾಯಣನನ್ನು ಭಕ್ತಿಯಿಂದ ಪೂಜಿಸ್ತಕ್ಕಂತಹ ಕೆಲವು ಸ್ತ್ರೀ ಸಮೂಹದವರನ್ನು ಕಂಡಂತಹ ಆ ಶೀಲೆ ಆ ಹೆಣ್ಣು ಮಕ್ಕಳನ್ನ ಕುರಿತು, ನೀವೆಲ್ಲ ಏನು ಪೂಜೆ ಮಾಡ್ತಾ ಇದ್ದೀರಿ? ದಯಮಾಡಿ ನನಗೂ ಕೂಡ ತಿಳಿಸಬೇಕು ಅಂತಂದಾಗ, ಆ ಹೆಣ್ಣುಮಕ್ಕಳೆಲ್ಲರೂ ಸಹ, ನೀವು ನಾವು ಮಾಡ್ತಕ್ಕಂತಹ ಪೂಜೆಗೆ ಅನಂತ ವ್ರತ ಅಂತ ಕರೀತಾ ಇದ್ದಾರೆ. ಈ ವ್ರತದಲ್ಲಿ ಪರಮಾತ್ಮ ಅನಂತ ಎಂಬ ತಕ್ಕಂತಹ ಹೆಸರಿನಿಂದ ಪೂಜಿಸಲ್ಪಡ್ತಾ ಇದ್ದಾನೆ ಅಂತಂದಾಗ. ಆ ಕೌಂಡಿನ್ಯನ ಪತ್ನಿಯಾದ ಶೀಲೆ ಉತ್ತಮವಾಗಿರತಕ್ಕಂತ ಈ ಪೂಜೆಯನ್ನು ನಾನು ಮಾಡ್ತೇನೆ. ಈ ವ್ರತವನ್ನು ವಿಧಿವತ್ತಾಗಿ ಆಚರಿಸುವಂತಹ ಕ್ರಮವನ್ನು ಏನೇನು ದಾನ ಕೊಡಬೇಕು ಅದನ್ನೂ ಕೂಡ ವಿವರವಾಗಿ ತಿಳಿಸಿ ಅಂತಂದಾಗ, ಆ ಹೆಣ್ಣುಮಕ್ಕಳೆಲ್ಲರೂ, ಆ ಶೀಲೆ, ನೋಡಮ್ಮ, ಈ ವ್ರತವನ್ನು ಮಾಡತಕ್ಕಂತ ಕ್ರಮ ಈ ರೀತಿಯಿದೆ ಅಂತೇಳಿ, ಸಕ್ರಮವಾಗಿರತಕ್ಕಂತ ಅನಂತ ಪೂಜಾ ಪದ್ಧತಿಯನ್ನು ಉಪದೇಶ ಮಾಡಿದ್ದಾರೆ. ನಂತರ ಹದಿನಾಲ್ಕು ಗಂಟುಗಳುಳ್ಳಂತಹ ದೋರವನ್ನು, ಅನಂತರ ದಾರವನ್ನು ಅವಳಿಗೆ ಕೊಟ್ಟು, ಈ ದಾರವನ್ನು ಹಿಡಿದುಕೊಂಡು ಮತ್ತೆ ಅನಂತನ ಪೂಜೆಯನ್ನು ಮಾಡು ಅಂತ ಹೇಳಿದ್ದಾರ್. ಆ ಶೀಲೆ ತಾನೂ ಕೂಡ ಭಾಳ ಸಂತೋಷವಾಗಿದೆ, ವ್ರತವನ್ನು ಮಾಡ್ತೀನಿ ಅಂತೇಳಿ ಕೈಯಲ್ಲಿ ದಾರವನ್ನು ಧರಿಸಿ ಬಂದಿದ್ದಾಳೆ. ಮನೆಗೆ ಬಂದಂತಹ ಕೌಂಡಿನ್ಯ ತೋಳಿನಲ್ಲಿದ್ದಂತಹ ದಾರವನ್ನು ಕಂಡಿದ್ದಾನೆ. ನಂತರ ಅವನು, ಶೀಲೆಯೇ, ನಿನ್ನ ತೋಳಿನಲ್ಲಿ ಈ ಹೊಸ ದಾರವನ್ನು ಏನೋ ಕಟ್ಟಿದ್ದೀಯಲ್ಲ, ಇದು ಯಾತಕ್ಕೆ? ನನ್ನನ್ನು ವಶೀಕರಣ ಮಾಡಬೇಕೋ ಅಂತ ಏನಾದರೂ ಉಪಾಯ ಮಾಡಿದ್ದೀಯೋ, ಸತ್ಯವನ್ನು ಹೇಳು ಅಂತ ಹೇಳಿದ್ದಾನೆ. ಆಗ ಆ ಶೀಲೆ, ಯಾವ ದೇವನ ಅನುಗ್ರಹದಿಂದ ನಮಗೆ ಇಷ್ಟೆಲ್ಲ ಸಂಪತ್ತು ಬಂದಿದಿಯೋ, ಅಂತಹ ಅನಂತ ಪದ್ಮನಾಭನ ಸನ್ನಿಧಾನ ಉಳ್ಳಂತಹ ದೋರವನ್ನು ನಾನು ಕಟ್ಟಿಕೊಂಡಿದ್ದೇನೆ ಅಂತ ಹೇಳಿದ್ದಾಳೆ. ಆದರೆ ಸಂಪತ್ತಿನಿಂದ ಮದೋನ್ಮತ್ತನಾಗಿರತಕ್ಕಂತಹ ಅಂಧನಾದಂತಹ ಕೌಂಡಿನ್ಯ ಅನಂತನನ್ನು ತಿರಸ್ಕಾರ ಮಾಡಿ, ಆ ದಾರವನ್ನು ಅವಳ ಕೈಯಿಂದ ಕಿತ್ತು...\",\"text\":\"\",\"sourceRoman\":\"Akṣakanō, athavā nīnēnō yārō onta svistāravāgi hēḷōṇtandāga, āga Kṛṣṇa hēḷtā iddāne, Ananta andare nānē. Nā ella sarvavācya pratipādyakanāgiratakkantavanu nānē āgiddēne. Adakkōskara Ananta yāru annō vicāradalli saṃśaya bēḍa. Viśvarūpiyāgiratakkantaha Ananta nāmaka Paramātma nānē. Idaralli yāva saṃśayavū illa anta hēḷiddāne. Ananta Padmanābha embatakkantavanu yāru embudannu tiḷidantaha Dharmarāja Kṛṣṇanna kuritu hēḷtā iddāne. Kṛṣṇa, Ananta vratada mahimeyannu mattu adannu māḍuvantaha vidhānavannu tiḷisu. Adarinda ēnu puṇya baruttāyide, phala entādu baruttāyide, ī vratadalli yāva dēva, yāva yāva dēvara pūje vihitavāgide, mattu pūrvadalli idannu yāru ācaraṇe māḍiddāre, bhūlōkadalli yāru prakaṭa māḍiddāre, ellavannū kūḍa nanage hēḷabēku antandāga Kṛṣṇa ondu itihāsavannu hēḷtā iddāne. Nōḍappa, pūrvadalli, andare Kṛtayugadalli Sumantu emba brāhmaṇa, sadbrāhmaṇanāgiratakkantaha avanu sundariyāgiddantaha Dīkṣā embatakkanta kanyeyannu vēdōkta rītiyalli vivāha māḍikoṇḍidda. Swalpa kālānantara aparimita strī lakṣaṇagaḷinda tumbiratakkanta avaḷu magaḷu huṭṭiddāḷe. Avaḷige Śīle anta nāmakaraṇa māḍiddāre. Swalpa divasa āda nantara dharmāsaktanāgiratakkantaha Sumantu mattobbaḷannū kūḍa Karkase embatakkanta innobbaḷannū kūḍa vivāha māḍikoṇḍiddāve. Avaḷu tumba krūra svabhāvadavaḷāgiddāḷe. Yāvāgalū kūḍa jagaḷa āḍtā iddaḷu. Modalē heṇḍatiya magaḷādantaha Śīleyannu kaṇḍanta Sumantu, avaḷu yauvanakke bandāga avaḷige yōgyanādantaha varanannu huḍukuttidda. Antā sandarbhadalli vēdajñanādantaha Kauṇḍinya emba takkanta ṛṣivarya kanyārthiyāgi banda. Sumantu bahaḷa santōṣinda oppi, ā Śīleyannu Kauṇḍinyanige koṭṭu lagna māḍiddāne. Tanna patniyādantaha Karkaśege ā Sumantu brāhmaṇa, nōḍu, vivāha āda mēle magaḷu aḷeyanige baḷuvaḷi rūpavāgi ēnādarū uttamavāgirtakkanta vastuvannu koḍabēku, ēnādarū koḍu antandāga, modalē duṣṭa svabhāvadavaḷādantaha ā Karkaśe alaṅkārada vastuvannella muccittu, oduvavarige tindulidantaha hiṭṭininda buttiyannu kaṭṭikoṭṭu, idannē tegedukoṇḍu manege hōgabēku anta hēḷiddāḷe. Ādare sthiravāgirtakkanta manassiddantaha Kauṇḍinya mattu ā Śīle ibbarū kūḍa adannē tegedukoṇḍu tamma āśramakke horaṭiddāre. Nadī mukhanāgi horaṭantaha Kauṇḍinya ā madhyāhna bhōjana samayadalli nadi daḍadalli caturdaśi dinavāgirtakkanta andu Nārāyaṇanannu bhaktiyinda pūjistakkantaha kelavu strī samūhadavarannu kaṇḍantaha ā Śīle ā heṇṇu makkaḷanna kuritu, nīvella ēnu pūje māḍtā iddīri? Dayamāḍi nanagū kūḍa tiḷisabēku antandāga, ā heṇṇumakkaḷellarū saha, nīvu nāvu māḍtakkantaha pūjege Ananta vrata anta karītā iddāre. Ī vratadalli Paramātma Ananta emba takk antaha hesarininda pūjisalpaḍtā iddāne antandāga. Ā Kauṇḍinyana patniyāda Śīle uttamavāgiratakkanta ī pūjeyannu nānu māḍtēne. Ī vratavannu vidhivattāgi ācarisuvantaha kramavannu ēnēnu dāna koḍabēku adannū kūḍa vivaravāgi tiḷisi antandāga, ā heṇṇumakkaḷellarū, ā Śīle, nōḍamma, ī vratavannu māḍatakkanta krama ī rītiyide antēḷi, sakramavāgiratakkanta Ananta pūjā paddhatiyannu upadēśa māḍiddāre. Nantara hadinālku gaṇṭugaḷuḷḷantaha dōravannu, anantara dāravannu avaḷige koṭṭu, ī dāravannu hiḍidukoṇḍu matte Anantana pūjeyannu māḍu anta hēḷiddār. Ā Śīle tānū kūḍa bhāḷa santōṣavāgide, vratavannu māḍtīni antēḷi kaiyalli dāravannu dharisi bandiddāḷe. Manege bandantaha Kauṇḍinya tōḷinalliddantaha dāravannu kaṇḍiddāne. Nantara avanu, Śīleyē, ninna tōḷinalli ī hosa dāravannu ēnō kaṭṭiddīyalla, idu yātakke? Nannannu vaśīkaraṇa māḍabēkō anta ēnādarū upāya māḍiddīyō, satyavannu hēḷu anta hēḷiddāne. Āga ā Śīle, yāva dēvana anugrahadinda namage iṣṭella sampattu bandidiyō, antaha Ananta Padmanābhana sannidhāna uḷḷantaha dōravannu nānu kaṭṭikoṇḍiddēne anta hēḷiddāḷe. Ādare sampattininda madōnmattanāgiratakkantaha andhanādantaha Kauṇḍinya Anantanannu tiraskāra māḍi, ā dāravannu avaḷa kaiyinda kittu...\",\"english\":\"When someone—perhaps Akṣaka, or you, or somebody else—asked that it be explained at some length, Kṛṣṇa said, “Ananta means me. I am the one denoted and expounded by all words. Therefore, do not entertain any doubt about who Ananta is. I myself am the Paramātman named Ananta, who possesses the universal form. There is no doubt whatsoever about this,” he said. Having understood who the one called Ananta Padmanābha is, Dharmarāja addresses Kṛṣṇa: “Kṛṣṇa, explain the greatness of the Ananta Vrata and the procedure for performing it. What merit arises from it, what fruit results, which deity or deities are prescribed for worship in this vrata, who observed it formerly, and who made it known in the earthly realm—you must tell me everything.” When he asked this, Kṛṣṇa began to relate a sacred history. “Look, formerly, in the Kṛta Yuga, there was a brāhmaṇa named Sumantu. He was a virtuous brāhmaṇa and had married, according to the Vedic injunctions, a beautiful maiden named Dīkṣā. After some time, she, who was endowed with immeasurable feminine virtues, gave birth to a daughter. They named her Śīle. Some days later, Sumantu, who was devoted to dharma, also married another woman named Karkase. She was extremely cruel by nature and was always quarreling. When Śīle, the daughter of his first wife, reached youth, Sumantu sought a suitable bridegroom for her. At that time, the eminent sage Kauṇḍinya, who knew the Vedas, came seeking the maiden’s hand. Sumantu agreed with great joy, gave Śīle to Kauṇḍinya, and performed their marriage. The brāhmaṇa Sumantu then said to his wife Karkaśe, ‘Look, after the marriage, we should give our daughter and son-in-law some fine object as a parting gift. Give them something.’ But Karkaśe, already wicked by nature, hid all the ornamental objects. Using flour left over after others had eaten, she packed them some food and said that they must take only this and go home. Nevertheless, Kauṇḍinya, whose mind was steadfast, and Śīle took it and set out for their āśrama. As Kauṇḍinya traveled toward the river, at midday, the time for a meal, Śīle saw on the riverbank a group of women devoutly worshiping Nārāyaṇa on that day of Caturdaśī. Śīle addressed the women: ‘What pūjā are all of you performing? Please explain it to me as well.’ All the women replied, ‘The pūjā we are performing is called the Ananta Vrata. In this vrata, the Paramātman is worshiped under the name Ananta.’ Kauṇḍinya’s wife Śīle then said, ‘I will perform this excellent pūjā. Please explain in detail the proper procedure for observing this vrata and what donations must be given.’ The women said to Śīle, ‘Look, child, this is the procedure for performing the vrata,’ and duly instructed her in the prescribed Ananta Pūjā method. They then gave her a dora—a thread bearing fourteen knots—and afterward told her, ‘Take this thread and perform Ananta’s pūjā.’ Śīle was herself very happy. Saying, ‘I will perform the vrata,’ she wore the thread on her arm and returned. When Kauṇḍinya came home, he saw the thread on her arm. He then said, ‘Śīle, you have tied some new thread around your arm. What is it for? Have you devised some means to bring me under your control? Tell me the truth.’ Śīle replied, ‘By the grace of the deity from whom all this wealth has come to us, I have tied this dora in which Ananta Padmanābha is present.’ But Kauṇḍinya, blinded and intoxicated with pride because of his wealth, rejected Ananta and tore the thread from her hand...\"}]}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "low",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "description": null,
+      "name": "lossless_puja_section",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "title",
+          "group",
+          "blocks"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "group": {
+            "type": "string",
+            "enum": [
+              "The Pūjā",
+              "Completion",
+              "Vrata Kathā"
+            ]
+          },
+          "blocks": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "kind",
+                "sourceOriginal",
+                "text",
+                "sourceRoman",
+                "english"
+              ],
+              "properties": {
+                "kind": {
+                  "type": "string",
+                  "enum": [
+                    "mantra",
+                    "action"
+                  ]
+                },
+                "sourceOriginal": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "sourceRoman": {
+                  "type": "string"
+                },
+                "english": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "strict": true
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1778,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 1775
+    },
+    "output_tokens": 4062,
+    "output_tokens_details": {
+      "reasoning_tokens": 82
+    },
+    "total_tokens": 5840
+  },
+  "user": null,
+  "metadata": {}
+}

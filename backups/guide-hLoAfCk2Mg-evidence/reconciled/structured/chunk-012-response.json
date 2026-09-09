@@ -1,0 +1,161 @@
+{
+  "id": "resp_0fd9c1ff3ec62109016aa0ca5cd57c87d1aab3587815a1d01b",
+  "object": "response",
+  "created_at": 1788922460,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1788922517,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": "You are preparing a lossless Roman-script guide from an exact transcript of a Madhva Śrī Anantapadmanābha Vrata recording.\n\nPartition the supplied SOURCE TRANSCRIPT into ordered blocks. The concatenation of blocks[*].sourceOriginal MUST equal the supplied source text character-for-character, including every space, punctuation mark, and original Unicode character. Copy all source text exactly once. Never summarize, deduplicate, correct, omit, or invent sourceOriginal. Split a mixed-language sentence at exact substring boundaries when needed.\n\nClassify Sanskrit recitation, invocations, ritual offering formulae, and quoted Sanskrit as mantra. Classify spoken Kannada directions, explanations, and Kannada narration of the vrata story as action. For mantra blocks, put a complete Roman transliteration with accurate diacritics in text; leave sourceRoman and english empty. Preserve every lexical item and repetition in the Roman text. Add only display whitespace: balanced lines of roughly 45–72 characters, one newline at verse divisions, and a blank line after each completed mantra or distinct recited formula. Keep adjacent Sanskrit recitation in one mantra block until Kannada speech intervenes.\n\nFor action blocks, put a complete Roman transliteration of every Kannada word in sourceRoman and a complete faithful English translation in english; leave text empty. Do not condense narrative or directions. Retain Sanskrit ritual terms in the English. If a Kannada utterance quotes a Sanskrit formula that should be recited, split the quoted formula into a mantra block.\n\nUse a concise descriptive title for this time window. Use group The Pūjā for worship through offerings and prayer, Completion for dora-dhāraṇa, donation, dismissal, and concluding observances, and Vrata Kathā for the narrated sacred story.\n",
+  "max_output_tokens": 20000,
+  "max_tool_calls": null,
+  "model": "gpt-5.6-sol",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_0fd9c1ff3ec62109016aa0ca5d75a087d1b4eb49c68a989bc1",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqoMqVkEWre5E750fRBYe02TVNl0JHHoCxA4Ml7mU_BAiKkpyDRfAuC37RydpbS8Gw9R9D3TuGvlPk6E3Of6o2iWmY-hDGeSb91ziGbF7UlLJ-ftl0KPPmT42_VCSWtUFSDyekj0BFQu-MHBmyGTamwT5iqYzla9kp-ACYpYEhQLv8pb30M1C32jskHakNxKeS6kzn6sdjLX3q7TyabtSQm9h3U82YJdGWcYtvQyRNyrtP5EpAO8bNBx4g4twyOcQS9swjNB_a8DA3rFe6RijxRjGo2PkAyoOFbrvUfULnTh_cNAZ3ipxe2p-LfWYK93y1BAFPcBwvGobOdmwp7Hi3aioITx8pMVH_wTsFvXSCj_L3ESDcaQwNfnzxmZlTsnP-xwbtkst_GDx4K8hP4oAHvgyMxhHfTbUWth_wBb13_PlyuFRDyvgF5Qa6K1q15upM485uv5QtcEhJJgCa-YGud_nKzju0rsDgUG7vCnwX0RCEKkgCTbGNfK0b7agUMhaGnLMOvFUbf4URq4YHjCG2bfdVzqiBGYDrYT1azZap3pWiBfdhPym1Dc5z5w9bxIehOddEAN5Yg-EDogW-UCJfYhWOYjOtKtEuhIFwElvkCaYlfdiWVglis4H8F8ChOlyj8IAKjeU78qHvEDuWOPuhnV0K4tfkABMEqXtcaP-ZRqFEebULtmHN0TBOTDib3gAST7x1Ed7TQomnLX4jfSeMKMj9S1j2FijsJYu_Nzh9NnC2mQYsRG22iEvLAlqDnVur-A1d3ENkDWPy1KrA1-hg4hu_KC-OdPPc4k-zrY8cHZoKFLyY_VVoFvvWdtmRlfXUsYayOwqlqNsblv2bXs3eWOchLApkpFjTLzPK3cwOwDOcYgWg847v6XzVcdwWlI8k40hkWae0EXLOt9d2l-XRIJgxxC02CFJ1PZcqcBT4FF0W9WiXvrbWCe2iifnzj2H3RF0ymwNCc263SzgW_BF8deE_wv7Nml2CcdxYKNlopT3-KkNpI_RqvSJdmbkRSzD9dGEo8HjU0VJiYv-5Jl37pJiBsOTutScSS_X7SGTvtL06brGK9-LIu1fLPsNjddn_S9VbxjoPoePOi7e8ui7dtfd-65kLBGjLvE6zO28XNcf3MSNsjtgSlSL7Mi9L3e9B_ebMxbHIX_Y6RPd_dS-KIfMXpog28LsWKi7tSyYRrIdPwxXKC9vaPxzH78t1etDxXMZX8OfZVoa559MKU_2_J0F91gv_dZnZF0PWoG42d1t28Ykg6zjKlbhxwlSGhzwT0Km1RTX-sEJdVefuZX5rMT6QWUGMlwIZPU57oToGwp2wkI1izlzorqWQulWWNKHu1SxzsloIXEkhK-k3Cz6FEE1cU_0q5e4veLIC51C5-UQ3EMhrBsmmTfptGzsb9ZHXjlgWn4OjlsbHwiJo8Ik2ZeHDDHpYw02Dn3E-bzs1Py5G7dnHEVOOGc3ZCod6UZxepjsVPEbFeG9D1971zPeMV-9ZMd-cmytB9pIiwmEX7tlksBjJWpnUez32JvwTcyNLxitZD1MylgRCDZOazjP0MLaajuLKetg8rBquqWbBOF132_RlRRh7IY28ZM5pxzMqMpe-MNNEet9e2BJPycxdFmvOoU42eCdvPnMUoMbrD4ZiIFQjdN0RXD5-z8jc3jQeX6hQOayCgxfkMStH2ilGa0JvJxQggxXfrWkrxPF8V2TYd20BGLmFFfGgGqc26xGbxxjtUyMGYFsrEBySInY2ziMCSgtDN2vPOfRJQOqAawr8TWqJHdEQEkDOrlXwUsLpLQLRUXqUQd1B34hLB8vzwjOypszDngnT5ImHb-afKdWq_hvyBhV7ykQ-pESHHi7vl8eW46ARrMhzulLTG7wMlbh2TT88BTisqDr4Ez28-wA7ZqiX3oaztb3ZPEcTeKteRp_EbHVFuFe_VvQ-aBGdGaVozKyh-Wn0J4G-XJHHlO0RZ6kLi69PxuNnYiQn7Jst7FG8oF53zK1g7w6tz1GP1-H8sxezm-28Dwe5iKOKjt76LyZOrCKroX7J3vSxhkuk4k7_OOneUIODWMCISeoMKvJgW04VecBla4uH672UW1bQRGfiuJszRW_VvooYXI17X8zmcD1IU0dWblKLi3F5j8ZJIFqCBYaBivIKStzeyQBPinTn_S1_AvLrio7aw-TlLXrmAti-Eu9FUo0ifD475bbc1HJRkIwNt5ClEb5ePaVYyAArnRlOtqPaePNmi9e7co3fCaQthio2bRrL8eJe0QZ78axC0XoabXmbFT-gB1Xmy4CWpbZFF5Yq2eZFomj8Iu-wjPNszSARD8wFoVMX4nIO6NKSJ4K3pPYeh1kdpXrmCLD5kfp22pLXe7y7bECeE9JfNEsrtuY4A79yelErCmQ5jCNmLT3H85I26dY2IwgTEbtGmQOJwkYFAnhz66rvn0TWOZRBFD-ov5MwKEx1MD9FhQlu7RW9PH4PvajiUUAQE4L6oknkuGBv87ZU-K0K05hsDw5kQDJD9XZv-g4gzJLf6Lp56s4JyEKoaazjQYmqxMmWryAWNNPHQQHtEZJ4aLpjEwDA_VPYDBQKWRqqo7TlyToY6q7oPMeEpvu7rhd0cu1trNqnHxS2b1BXXOOdwogN7MfDmUikOp0NzRSYLje15GlAovZbEy284do9oRjaucY=",
+      "summary": []
+    },
+    {
+      "id": "msg_0fd9c1ff3ec62109016aa0ca6479f487d19e39129c3b869acb",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"title\":\"Conclusion of the Ananta Vrata Kathā\",\"group\":\"Vrata Kathā\",\"blocks\":[{\"kind\":\"action\",\"sourceOriginal\":\"ಕ್ಷೇತ್ರ, ಆ ಎಳೆ ಹುಲ್ಲಿನ ಸ್ಥಳದಲ್ಲಿ ಕಂಡಂತಹ ವೃಷಭ, ಸಾಕ್ಷಾತ್ ಧರ್ಮದೇವತೆ. ಆ ಎರಡು ಸರೋವರಗಳಿದಿಯಲ್ಲ, ಅದು ಧರ್ಮಾಧರ್ಮ ವ್ಯವಸ್ಥೆಗಳು ಅಕ್ಕತಂಗಿಯರು ತಾವು ತಾವು ಪರಸ್ಪರ ದಾನವನ್ನು ಕೊಟ್ಟಿರೋದರಿಂದ. ಬೇರೆ ಯಾರಿಗೂ ಉಪಯೋಗವಾಗದೆ ಈ ನೀರು, ಅದಕ್ಕೆ ಆ ನೀರು, ಇದಕ್ಕೆ ಬೀಳತಕ್ಕಂತಹ ತಟಾಕ ದ್ವಯಗಳಾಗಿದೆ. ಮತ್ತೆ ಕತ್ತೆ ಏನು ನೋಡಿದೆ, ಅದು ಕೋಪ; ಆನೆ ಎಂಬುದಕ್ಕಂತಾದು ಮದ; ಎರಡು ದೋಷ. ಆ ವೃದ್ಧ ಬ್ರಾಹ್ಮಣನಿನ ಕರ್ಕಮನ್ನಲ್ಲ, ಅವನು ಸಾಕ್ಷಾತ್ ಅನಂತನಾಗಿರ್ತಕ್ಕಂತ, ನಾನೇ ಈ ಗುಹೆ ಏನಂತ ತಿಳ್ಕೊಂಡಿದ್ದೀಯಾ? ಇದು ಸಂಸಾರ ಎಂಬುದಕ್ಕಂತ ಗುಹೆ. ಇಷ್ಟು ನಾನು ನಿನಗೆ ಉಪದೇಶ ಮಾಡಿದ್ದೇನೆ, ಹೇಳಿ ಅಂತರ್ದಾನನಾಗಿದ್ದಾನೆ. ಇದೆಲ್ಲವನ್ನೂ ಕೂಡ ಸ್ವಪ್ನದಂತೆ ಕಂಡಂತಹ ಕೌಂಡಿನ್ಯ ಋಷಿ ಹದಿನಾಲ್ಕು ವರ್ಷಗಳ ಕಾಲ ಅನಂತ ವ್ರತವನ್ನು ಆಚರಿಸಿ, ಸರ್ವ ಭೋಗಗಳನ್ನು ಅನುಭವಿಸ್ತಾ ಅನಂತ ನಾಮ ಸ್ಮರಣೆಯಲ್ಲಿ ಅನಂತನ ಪಟ್ಟಣವನ್ನು ಪ್ರವೇಶ ಮಾಡಿದ್ದಾನೆ. ಇಷ್ಟು ಕಥೆಯನ್ನು ಶ್ರೀಕೃಷ್ಣ ಪರಮಾತ್ಮ ಯುಧಿಷ್ಠಿರನಿಗೆ ಹೇಳ್ತಾ ಇದ್ದಾನೆ. ಯುಧಿಷ್ಠಿರ ವ್ರತಗಳಲ್ಲೆಲ್ಲ ಅತ್ಯಂತ ಉತ್ತಮವಾಗಿರತಕ್ಕಂತಹ ಅನಂತ ವ್ರತವನ್ನು ನಿನಗೆ ತಿಳಿಸಿದ್ದೇನೆ ಅಪ್ಪ. ಸಂಸಾರ ಎಂಬುದಕ್ಕಂತ ಭಯಂಕರ ಗುಹೆಯಲ್ಲಿ ಸುಖವಾಗಿ ಆಟ ಆಡಬೇಕು, ಕ್ರೀಡೆ ಮಾಡಬೇಕು ಅಂತಕ್ಕಂತವರು ತ್ರಿಲೋಕಾಧಿಪತಿಯಾಗಿರತಕ್ಕಂತಹ ಅನಂತ ನಾಮಕನಾಗಿರ್ತಕ್ಕಂತಹ ಸರ್ವೇಶನನ್ನ ಭಕ್ತಿಯಿಂದ ಪೂಜಿಸಿದೇ ಉತ್ತಮವಾಗಿರತಕ್ಕಂತಹ ದೋರವನ್ನು ಬಲ ತೋಳಿನಲ್ಲಿ ಕಟ್ಟಿಕೊಂಡ್ತಾರೋ, ಅವರಿಗೆ ಇಹ ಮತ್ತು ಪರದಲ್ಲಿ ಅನೇಕ ಸೌಖ್ಯಗಳಾಗ್ತದೆ ಎಂದು ಹೇಳಿ ಕೃಷ್ಣ ಹೇಳಿದ್ದಾನೆ. ಇಲ್ಲಿಗೆ ಭವಿಷ್ಯೋತ್ತರ ಪುರಾಣದಲ್ಲಿರ್ತಕ್ಕಂತಹ \",\"text\":\"\",\"sourceRoman\":\"kṣētra, ā eḷe hullina sthaḷadalli kaṇḍantaha vṛṣabha, sākṣāt dharmadēvate. Ā eraḍu sarōvaragaḷidiyalla, adu dharmādharma vyavasthegaḷu akkataṅgiyaru tāvu tāvu paraspara dānavannu koṭṭirōdarinda. Bēre yārigū upayōgavāgade ī nīru, adakke ā nīru, idakke bīḷatakkantaha taṭāka dvayagaḷāgive. Matte katte ēnu nōḍide, adu kōpa; āne embudakkantādu mada; eraḍu dōṣa. Ā vṛddha brāhmaṇanina karkamannalla, avanu sākṣāt anantanāgirtakkanta, nānē ī guhe ēnanta tiḷkoṇḍiddīyā? Idu saṃsāra embudakkanta guhe. Iṣṭu nānu ninage upadēśa māḍiddēne, hēḷi antardānanāgiddāne. Idellavannū kūḍa svapnadante kaṇḍantaha Kauṇḍinya ṛṣi hadinālku varṣagaḷa kāla Ananta vratavannu ācarisi, sarva bhōgagaḷannu anubhavistā Ananta nāma smaraṇeyalli Anantana paṭṭaṇavannu pravēśa māḍiddāne. Iṣṭu katheyannu Śrīkṛṣṇa Paramātma Yudhiṣṭhiranige hēḷtā iddāne. Yudhiṣṭhira, vratagaḷallella atyanta uttamavāgiratakkantaha Ananta vratavannu ninage tiḷisiddēne appa. Saṃsāra embudakkanta bhayaṅkara guheyalli sukhavāgi āṭa āḍabēku, krīḍe māḍabēku antakkantavaru trilōkādhipatiyāgiratakkantaha Ananta nāmakanāgirtakkantaha Sarvēśananna bhaktiyinda pūjisidē uttamavāgiratakkantaha dōravannu bala tōḷinalli kaṭṭikoṇḍtārō, avarige iha mattu paradalli anēka saukhyagaḷāgtade endu hēḷi Kṛṣṇa hēḷiddāne. Illige Bhaviṣyōttara Purāṇadallirtakkantaha \",\"english\":\"The field—and the bull seen there in the place with the tender grass—was verily Dharmadevatā. As for those two lakes, they represent the arrangements of dharma and adharma: the two sisters had made donations only to each other. Since the water was of no use to anyone else, the water of this one flowed to that one and the water of that one flowed into this one; thus they became a pair of lakes. Then, what was seen as the donkey was anger, and what was represented by the elephant was pride—these were two faults. That old brāhmaṇa was not [merely] the one described; he was verily Ananta. “Do you know what this cave of mine is? It is the cave called saṃsāra. I have instructed you this much,” he said, and then disappeared. Kauṇḍinya Ṛṣi, who saw all of this as though in a dream, observed the Ananta Vrata for fourteen years, enjoyed every kind of prosperity, and, while engaged in remembrance of Ananta’s name, entered the city of Ananta. Śrīkṛṣṇa Paramātma is relating this entire story to Yudhiṣṭhira. “Yudhiṣṭhira, dear one, I have explained to you the Ananta Vrata, which is the very best among all vratas. Those who wish to play and sport happily within the terrifying cave called saṃsāra should devoutly worship Sarveśa, who is called Ananta and is the Lord of the three worlds, and tie the excellent dora on their right arm. They will obtain many kinds of happiness both in this world and the next,” Kṛṣṇa said. Here, in the Bhaviṣyottara Purāṇa,\"},{\"kind\":\"mantra\",\"sourceOriginal\":\"ಶ್ರೀಮದ್ ಅನಂತ ವ್ರತಕಥಾ ಸಂಪೂರ್ಣಂ, ಕೃಷ್ಣಾರ್ಪಣಮಸ್ತು.\",\"text\":\"Śrīmad Ananta-vrata-kathā sampūrṇam,\\nKṛṣṇārpaṇam astu.\\n\\n\",\"sourceRoman\":\"\",\"english\":\"\"}]}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "low",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "description": null,
+      "name": "lossless_puja_section",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "title",
+          "group",
+          "blocks"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "group": {
+            "type": "string",
+            "enum": [
+              "The Pūjā",
+              "Completion",
+              "Vrata Kathā"
+            ]
+          },
+          "blocks": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "kind",
+                "sourceOriginal",
+                "text",
+                "sourceRoman",
+                "english"
+              ],
+              "properties": {
+                "kind": {
+                  "type": "string",
+                  "enum": [
+                    "mantra",
+                    "action"
+                  ]
+                },
+                "sourceOriginal": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "sourceRoman": {
+                  "type": "string"
+                },
+                "english": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "strict": true
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 985,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1812,
+    "output_tokens_details": {
+      "reasoning_tokens": 221
+    },
+    "total_tokens": 2797
+  },
+  "user": null,
+  "metadata": {}
+}

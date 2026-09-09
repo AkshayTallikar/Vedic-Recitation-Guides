@@ -1,0 +1,161 @@
+{
+  "id": "resp_0562baaa78b8e2cf016aa0c9af789487d1b70ce750949a357c",
+  "object": "response",
+  "created_at": 1788922287,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1788922420,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": "You are preparing a lossless Roman-script guide from an exact transcript of a Madhva Śrī Anantapadmanābha Vrata recording.\n\nPartition the supplied SOURCE TRANSCRIPT into ordered blocks. The concatenation of blocks[*].sourceOriginal MUST equal the supplied source text character-for-character, including every space, punctuation mark, and original Unicode character. Copy all source text exactly once. Never summarize, deduplicate, correct, omit, or invent sourceOriginal. Split a mixed-language sentence at exact substring boundaries when needed.\n\nClassify Sanskrit recitation, invocations, ritual offering formulae, and quoted Sanskrit as mantra. Classify spoken Kannada directions, explanations, and Kannada narration of the vrata story as action. For mantra blocks, put a complete Roman transliteration with accurate diacritics in text; leave sourceRoman and english empty. Preserve every lexical item and repetition in the Roman text. Add only display whitespace: balanced lines of roughly 45–72 characters, one newline at verse divisions, and a blank line after each completed mantra or distinct recited formula. Keep adjacent Sanskrit recitation in one mantra block until Kannada speech intervenes.\n\nFor action blocks, put a complete Roman transliteration of every Kannada word in sourceRoman and a complete faithful English translation in english; leave text empty. Do not condense narrative or directions. Retain Sanskrit ritual terms in the English. If a Kannada utterance quotes a Sanskrit formula that should be recited, split the quoted formula into a mantra block.\n\nUse a concise descriptive title for this time window. Use group The Pūjā for worship through offerings and prayer, Completion for dora-dhāraṇa, donation, dismissal, and concluding observances, and Vrata Kathā for the narrated sacred story.\n",
+  "max_output_tokens": 20000,
+  "max_tool_calls": null,
+  "model": "gpt-5.6-sol",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_0562baaa78b8e2cf016aa0c9b06f2c87d1b32c662b546eaf3f",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqoMo0TuQmXA8_HWeI6KV_7TrqOVSwt3SpC3eOOKSZFxp7oTYWo92c6yHPHuLyyayd4S54fRsUXO1Eqtq2mfRVNZSpv5C3JpTk7P-7YH2h7ErEjN40hHbDdOLRlpXCRGs7W222IcopcX8PdAL3tP8QZAReHJy9xzkLayl3xR_btVRZbo2B1e7nfLf_bzxC2NZB_j1HBDdENmrLBHURgPdv-u42kqYLxCK6rt-Nnsi1VBlXRaRzotcuMlRA6hE2KktF_VC2x4N1r3cEBT5vron1nAkesnjwhxdl7TElYLqs1fQ6dZvM_CX1uPH0WSuNbhcVsUAMzkM50aHdDmolERn7UuMeEOSpc0t2pWm5EA4BvbnKJXDp-v432O2s2ZEDBwE9-OeeE_hWbRprmEw0ZpiX7J32F8ZPwstGZGf0aeTLKf4WZFTiqK7vwXxrQBt4pITOGpPxlhfdfL45PjR0uIhQvdIKu9gnSgu8a84YgeldYJiSjFzHPEPLFlL3xMa7MfVitNPQ5FcGorB7mbNkAz64v9Zp2EN-v6MKuG_2tWGD3qG-O6nhQNdoXGcRNuqg0v8l5-9uwvBhuwlJkzDq-CZb3EcVwd_Ol4R0GX57Kqu3lNwybScqPPS4TGy4MGlLYquIDjFlarSf0NRy3eFhw9Ve88-PVKFkl9AmafwTLgOatGyDTFqWQ8bETYtWkNUfUrDJyJp4jmw9cEXHCA9AelxszUJ6TVVJ6MIrueXWkwJVk2CIdSV1hyS9ZAsa23BdgoPP_1HoQuxn5C1r-5T8J3j9YOfOQIquw4bbnb6bSSO8mAmyuXIh-sZ5CCnlljRgwCfkgHXY7YB5oRe4eFhtWfuL42MBEE7bsWDYzUGs4c89SEYh9ohpY2-O0BKsaQiRb36Jx6BfKMvVytPMbs9U_-YWDmCvy5yZ-rMrCemYNYD6Zi499Vdst8ENuUQhYZdrBfKietBqEOQ76oV3_G3lnX4wL0WvfQSb91HAib6AUVNLTOryYU1M6HaZ8ItMtdbuVpG34UUFypRFFqx9ZM6m2o63WtbPgB4QZfhSiZSxRsRJLCjw80VgtoM5f7TFOp_mK41yoN5JDNA2vq_88I6-vSUS9mBHRj6Iz5AS5ZIoWxw4ISALPoAzRF0lV1V-uZdIQaBWbQuF0Ri-pWZUbDwG4urJnJ4gq92rD--KECbNHwcgo4dQUACAlOs2hsl-95tbezV1Mv_AIZ5EQVukNEblVRvDbmgZW6KOA4F2Pk0cHfBMK_v1TGRzsvTt6E-QDNCDBDjcNq6w6IFzYjTMhL7OkyfW4vQ_YRjXSdlp3TelOYjj0cSoxC0Z_CgXmM2TUi7M9BF0RfN6kPuGNvaRDbdl4oGNGXDEI2rjvLCT0MHv6RjjH_-w5gpZl_N-dBPDHmuEi7k40-WbTq4rcLKv5ghc1WoV9lSXa_JoqID5_p-qk0grFcrbEdPmn2l2auPt97jpo3zUR4bSaOD9FqGj7YAZtB5tB8NAfCvjBhn4874A-OTNgv6YRJvcU_UF92iTT8s0LdCp4aQgKcxNC2q94_FtHH2ovJ_b-W8GkupDCxHcTyxPKnbdLn5dsQty_Jw5Tcglv-veAxAxpWTn-aX3JK1ROwCyse8zLn_Kja59FMojCbVbARmyazbywG0I-0kw-wG-1Wvz_BuB7WIcWqwSUA4JzqHbLVK0UBmUf5JFPlNRbx_2vETgMCac2pGWg7y5ZWpV0JYpXTGMBI6K1RPMN-jqb0ruLdLVeDby0iPuKlODZOWLxwOx15k1JdETXlkBe-bLM36acG1iEo_g8UGkxKq0hCGOVEtY9eZXC9lEuViluR_HuLE_AZvWCukztv8Ei4FKGQAa2lbB",
+      "summary": []
+    },
+    {
+      "id": "msg_0562baaa78b8e2cf016aa0c9b2705087d18656782e0285dfcb",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"title\":\"Kauṇḍinya’s Loss and Ananta’s Revelation\",\"group\":\"Vrata Kathā\",\"blocks\":[{\"kind\":\"action\",\"sourceOriginal\":\"ಆದರೆ ಸಂಪತ್ತಿನಿಂದ ಮದೋನ್ಮತ್ತನಾಗಿರತಕ್ಕಂತಹ ಅಂಧನಾದಂತಹ ಕೌಂಡಿನ್ಯ ಅನಂತನನ್ನ ತಿರಸ್ಕಾರ ಮಾಡಿ, ಆ ದಾರವನ್ನ ಅವಳ ಕೈಯಿಂದ ಕಿತ್ತು ಉರಿಯುವಂತಹ ಬೆಂಕಿಯಲ್ಲಿ ಹಾಕಿದ್ದಾನೆ. ಇದನ್ನ ಕಂಡಂತಹ ಶೀಲ ತಕ್ಷಣವೇ ಆ ದೋರವನ್ನ ಎತ್ತಿ ಹಾಲಿನಲ್ಲಿ ಹಾಕಿದ್ದಾಳೆ. ದುಷ್ಕರ್ಮದ ಫಲದಿಂದಾಗಿ ಕೌಂಡಿನ್ಯನ ಸಂಪತ್ತೆಲ್ಲವೂ ನಾಶವಂದಿದೆ. ಏನೂ ಇಲ್ಲದಂತಹ ದರಿದ್ರ ಸ್ಥಿತಿಯವನಿಗೆ ಬಂದು ಹೋಗಿದೆ. ಇಂತಹ ದುಃಖ ಬರೋದಕ್ಕೆ ಕಾರಣ ಏನು ಅಂತ ಪ್ರಶ್ನೆ ಮಾಡಿದಾಗ, ಶೀಲ ಭೂಷಣೆಯಾದಂತಹ ಅವನ ಹೆಂಡತಿ, ಮಹಾಭಾಗನೇ, ಭೂಷಾ ನೀನು ಅನಂತನನ್ನ ಧಿಕ್ಕಾರ ಮಾಡಿರೋದರಿಂದ ಅದರ ಪಾಪದ ಫಲವೇ ಇದು ಆಗಿರಬೇಕು ಅಂತೇಳಿ ಅನಂತನ ಅನುಗ್ರಹವನ್ನ ಹೊಂದೋದಕ್ಕೆ ಪ್ರಯತ್ನ ಮಾಡೋಣ ಅಂತೇಳಿ ಒಂದು ಅಭಿಪ್ರಾಯವನ್ನ ಕೊಟ್ಟಿದ್ದಾಳೆ. ಹೆಂಡತಿಯ ಸಲಹೆಂತೆ ಸಂತುಷ್ಟನಾದಂತಹ ಕೌಂಡಿನ್ಯ ಮುನಿ ಅನಂತನನ್ನೇ ಮನಸಿನಲ್ಲಿ ಸ್ಮರಿಸಿ ಪ್ರಾರ್ಥಿಸಿದ್ದಾನೆ. ದಾರಿಯಲ್ಲಿ ದೊಡ್ಡದಾಗಿರತಕ್ಕಂತಹ ಫಲಭರಿತವಾಗಿರತಕ್ಕಂತಹ ಒಂದು ಮಾವಿನ ಮರವನ್ನ ಕಂಡಿದ್ದಾನೆ. ಆ ಮಾವಿನ ಮರಕ್ಕೆ ಕೇಳ್ತಾ ಇದ್ದಾನೆ, ಎಲೈ ಮಹಾವೃಕ್ಷವೇ, ನೀನು ಎಲ್ಲಿಯಾದರೂ ಅನಂತನನ್ನ ಕಂಡಿದ್ದೀಯಾ? ದೈವಿಟ್ಟು ತಿಳಿಸು, ನನ್ನ ದುಃಖವನ್ನ ಪರಿಹಾರ ಮಾಡು ಅಂದಾಗ ಆ ಮಾವಿನ ಮರ, ತಾನೆಂದೂ ಅನಂತನನ್ನ ನೋಡಿಲ್ಲ ಅಂತ ಹೇಳಿದೆ. ಅಲ್ಲಿಂದ ಮುಂದೆ ಕರುವಿನಿಂದ ಒಡಾಡ್ತಕ್ಕಂತಹ ಒಂದು ಗೋವೊಂದು ಕಂಡಿದೆ. ಆ ಗೋವನ್ನು ಕಂಡಂತಹ ಕೌಂಡಿನ್ಯ, ಅದನ್ನೂ ಕೂಡ ಕೇಳಿದ್ದಾನೆ, ನೀನಾದರೂ ಅನಂತನನ್ನ ಕಂಡಿದ್ದೀಯಾ? ಎಂದಾಗ ಆ ಹಸುವೂ ಕೂಡ, ಆ ಅನಂತನನ್ನ ನಾನೆಂದೂ ಕಾಣೆ ಅಂತ ಹೇಳಿದೆ. ಮುಂದೆ ತಾವರೆಗಳಿಂದ, ಪಕ್ಷಿಗಳಿಂದ ಕೂಡಿದಂತಹ... ಜಲಭರಿತವಾದಂತಹ ಎರಡು ಸರೋವರಗಳನ್ನು ಕಂಡಿದ್ದಾನೆ. ಆ ಕೌಂಡಿನ್ಯ, ಆ ತಟಾಕದ ಅಭಿಮಾನಿ ದೇವತೆಗಳನ್ನು ಕುರಿತು ಕೇಳಿದ್ದಾನೆ. ನೀವಾದರೂ ಹೇಳಿ, ಮತ್ತು ಅನಂತನನ್ನ ನೀವೆಂದಾದರೂ ಕಂಡಿದ್ದೀರೆ ಎಂದು ಅಂತ ಕೇಳಿದ್ದಾನೆ. ಅವ್ರೂ ಕೂಡ, ನಾವು ಅನಂತನನ್ನ ನೋಡಿಲ್ಲ ಅಂತಂದಾಗ ಭಾಳ ನಿರಾಶೆ ಹೊಂದಿದವನಾಗಿ, ಪ್ರಾಣತ್ಯಾಗ ಮಾಡಬೇಕು ಅಂತಂದಾಗ ಭಕ್ತವತ್ಸಲನಾಗಿರ್ತಕ್ಕಂತ ಅನಂತ ವೃದ್ಧ ಬ್ರಾಹ್ಮಣ ರೂಪದಿಂದ ಅಲ್ಲಿಗೆ ಬಂದು ಅವನಿಗೆ ದರ್ಶನವನ್ನು ಕೊಟ್ಟು ಒಂದು ಗೃಹವಳಗೆ ಪ್ರವೇಶ ಮಾಡಿದ್ದಾನೆ. ಅಲ್ಲಿ ದೇವತಾಸ್ತ್ರೀಯ ಪುರುಷರಿಂದ ಕೂಡಿರತಕ್ಕಂತ ಸುಂದರವಾದ ತನ್ನ ಪಟ್ಟಣವನ್ನು ತೋರಿಸಿದ್ದಾನೆ. ಆ ಪಟ್ಟಣದಲ್ಲಿ ದಿವ್ಯವಾದಂತಹ ಉತ್ತಮ ಸಿಂಹಾಸನದಲ್ಲಿ ಶೋಭಿಸುತ್ತಿದ್ದ ತನ್ನನ್ನೂ ಕೂಡ ತಾನೇ ತೋರಿಸಿದ್ದಾನೆ. ಮಹಾ ತೇಜಸ್ಸಿನಿಂದ ಕೂಡಿದಂತಹ ವ್ಯಾಪ್ತ ಸ್ವರೂಪವನ್ನು ಆ ಬ್ರಾಹ್ಮಣನಿಗಾಗಿ ತೋರಿಸಿದ್ದಾನೆ. ಆಗ ಕೌಂಡಿನ್ಯ ಘಟಿಯಾಗಿ ಜಯಕಾರವನ್ನು ಮಾಡ್ತಾ, ನಾನು ಮಹಾ ಪಾಪಿಷ್ಠನಾಗಿದ್ದೆ, ಪಾಪ ಬುದ್ಧಿವಳ್ಳವನಾಗಿದ್ದೆ, ಪಾಪದಿಂದಲೇ ಜನಿಸಿದ್ದೆ. ನಿನ್ನ ಪಾದ ಕಮಲಗಳ ದರ್ಶನದಿಂದ ನನ್ನ ಜನ್ಮ ಪಾವನವಾಗಿದೆ ಅಪ್ಪ. ನನ್ನ ಜೀವನ ಇಂದಿಗೆ ಸಫಲವಾಯ್ತು ಅಂತ ಹೇಳಿದ್ದಾನೆ. ಆಗ ಅನಂತ ಪದ್ಮನಾಭನು ಸುಮಧುರ ವಚನದಿಂದ ಹೇಳ್ತಾ ಇದ್ದಾನೆ, ಬ್ರಾಹ್ಮಣ ಹೆದರಬೇಡ, ಐಶ್ವರ್ಯ ಮದದಿಂದ ನಿನಗೆ ಹೀಗಾಗಿತ್ತು. ಅದಕ್ಕೋಸ್ಕರ ನಿನ್ನಲ್ಲಿರ್ತಕ್ಕಂತ ಪ್ರಾಶ್ಚಿತ್ತ ಬುದ್ಧಿಯಿಂದ ಎಲ್ಲವೂ ನಾಶವಾಗಿದೆ. ಅಂತಾಗ ಕೌಂಡಿನ್ಯ ಹೇಳ್ತಾ ಇದ್ದಾನೆ, ನಾನು ಧನಮದದಿಂದ ಅನಂತ ನಾಮಕನಾಗಿರ್ತಕ್ಕಂತ ನಿನ್ನ ಸನ್ನಿಧಾನ ಉಳ್ಳಂತಹ ದಾರವನ್ನು ವಿಸಾಕಿದ್ದೆ. ಆ ದುಷ್ಕರ್ಮದಿಂದ ನನ್ನ ಸಂಪತ್ತೆಲ್ಲ ನಾಶವಾಗಿದೆ. ನನ್ನ ಬಂಧುಗಳಲ್ಲಿ ನಿತ್ಯ ಜಗಳ. ಅದಕ್ಕೆ ಯಾರೂ ನನ್ನ ಮಾತಾಡಿಸುವವರಾಗಿದ್ದರೂ ನಿನ್ನ ದಿವ್ಯ ಸ್ವರೂಪವನ್ನು ತೋರಿಸಿದಂತಹ ನೀನು ನನ್ನನ್ನು ಉದ್ಧಾರ ಮಾಡಿದೆ ಅಂತಂದಾಗ. ಕೌಂಡಿಣ್ಯ, ನೀನು ಶೀಘ್ರವಾಗಿ ಮನೆಗೆ ಹೋಗಪ್ಪಾ. ಇನ್ನು ತಡ ಮಾಡಬೇಡ. ಹದಿನಾಲ್ಕು ವರ್ಷ ಈ ಅನಂತ ಪದ್ಮನಾಭ ವ್ರತವನ್ನ ಭಕ್ತಿಯಿಂದ ಆಚರಣೆ ಮಾಡು. ನೀನು ಸಕಲ ಪಾಪಗಳಿಂದ ವಿಮುಕ್ತನಾಗಿ, ಪರಿಶುದ್ಧ ಸ್ವರೂಪನಾಗಿ, ಉತ್ತಮವಾಗಿರ್ತಕ್ಕಂತ ಸಿದ್ಧಿಯನ್ನು ಹೊಂದುತ್ತಾ ಇದ್ದೀಯಪ್ಪಾ. ಮತ್ತೆ ಇದಕ್ಕಿಂತ ದೊಡ್ಡ ವ್ರತವೇ ಇಲ್ಲ. ಉತ್ತಮವಾಗಿರ್ತಕ್ಕಂತ ಅನಂತ ವ್ರತವನ್ನ ಆಚರಣೆ ಯಾರು ಮಾಡ್ತಾರೋ, ಯಾರು ಈ ಕಥೆಯನ್ನೂ ಕೇಳ್ತಾರೋ, ಅವರು ಬಂದಂತಹ ಪಾಪದಿಂದಲೂ ವಿಮುಕ್ತರಾಗಿ, ಪಾಪರಹಿತರಾಗಿ ಸದ್ಗತಿಯನ್ನ ಹೊಂದುತ್ತಾರೆ. ಅದಕ್ಕೋಸ್ಕರ ನೀನು ಈಗೇನು ಬಂದಿದಿಯೋ, ಅದೇ ಮಾರ್ಗದಲ್ಲಿ ಮನೆಗೆ ಹೋಗು ಅಂತ ಹೇಳಿ ಪರಮಾತ್ಮ ಕಳಿಸಿದ್ದಾನೆ. ಆಗ ಕೌಂಡಿಣ್ಯ ತಾನು ಕಾಡಿನಲ್ಲಿ ಕಂಡಂತಹ ಆ ಮಾವಿನ ಮರ ಯಾವುದು, ಆ ಹಸುವು, ಋಷಭ ಯಾವುದು, ಮತ್ತೆ ಆ ಎರಡು ಸರೋವರ ಯಾವುದು, ಕತ್ತೆ ಯಾನೆ, ಇವೆಲ್ಲ ಯಾರು ಅಂತ ತಿಳಿಸಬೇಕಂತ ಬೇಡ್ಕೊಂಡಾಗ ಪರಮಾತ್ಮ ಹೇಳ್ತಾ ಇದ್ದಾನೆ, ನೋಡಪ್ಪಾ, ವೇದವಿದ್ಯಾ ಪಾರಂಗತನಾಗಿರ್ತಕ್ಕಂತ ಬ್ರಾಹ್ಮಣ ಒಬ್ಬ ಶಿಷ್ಯರಿಗೆ ವಿದ್ಯಾದಾನ ಮಾಡಿದ ಕಾರಣ ಆ ಮಾವಿನ ಮರವಾಗಿ ಜನಿಸಿದ್ದಾನಪ್ಪಾ. ಆ ಮಾವಿನ ಹಣ್ಣೆಲ್ಲ ತುಂಬ ಹುಳ ಆಗಿದೆ, ಅದು ಯಾರಿಗೂ ಕೂಡ ಪ್ರಯೋಜನ ಇಲ್ಲದಂತಾಗಿದೆ. ನೀನು ಕಂಡಂತಹ ಆ ಗೋವು ಪೂರ್ವದಲ್ಲಿ ಸರ್ವ ಬೀಜಗಳನ್ನ ತನ್ನನ್ನಲ್ಲೇ ಅಡಗಿಸಿಕೊಂಡಂತಹ ಊರಸ ಕ್ಷೇತ್ರ. ಆ ಎಳೆ ಹುಲ್ಲಿನ ಸ್ಥಳದಲ್ಲಿ ಕಂಡಂತಹ ಋಷಭ ಸಾಕ್ಷಾತ್ ಧರ್ಮದೇವತೆ. ಆ ಎರಡು ಸರೋವರಗಳಿದಿಯಲ್ಲ...\",\"text\":\"\",\"sourceRoman\":\"Ādare sampattininda madōnmattanāgiratakkantha andhanādantha Kauṇḍinya Anantанanna tiraskāra māḍi, ā dāravanna avaḷa kaiyinda kittu uriyuvantha beṅkiyalli hākiddāne. Idanna kaṇḍantha Śīla takṣaṇavē ā dōravanna etti hālinalli hākiddāḷe. Duṣkarmada phaladindāgi Kauṇḍinyana sampattellavū nāśavandide. Ēnū illadantha daridra sthitiyavanige bandu hōgide. Intaha duḥkha barōdakke kāraṇa ēnu anta praśne māḍidāga, Śīla bhūṣaṇeyādantha avana heṇḍati, mahābhāganē, bhūṣā nīnu Anantанanna dhikkāra māḍirōdarinda adara pāpada phalavē idu āgirabēku antēḷi Anantana anugrahavanna hondōdakke prayatna māḍōṇa antēḷi ondu abhiprāyavanna koṭṭiddāḷe. Heṇḍatiya salaheyante santuṣṭanādantha Kauṇḍinya muni Anantанannē manasinalli smarisi prārthisiddāne. Dāriyalli doḍḍadāgiratakkantha phalabharitavāgiratakkantha ondu māvina maravanna kaṇḍiddāne. Ā māvina marakke kēḷtā iddāne, elai mahāvṛkṣavē, nīnu elliyādarū Anantанanna kaṇḍiddīyā? Daiviṭṭu tiḷisu, nanna duḥkhavanna parihāra māḍu andāga ā māvina mara, tānendū Anantанanna nōḍilla anta hēḷide. Allinda munde karuvininda oḍāḍtakkantha ondu gōvondu kaṇḍide. Ā gōvannu kaṇḍantha Kauṇḍinya, adannū kūḍa kēḷiddāne, nīnādarū Anantанanna kaṇḍiddīyā? Endāga ā hasuvū kūḍa, ā Anantанanna nānendū kāṇe anta hēḷide. Munde tāvaregaḷinda, pakṣigaḷinda kūḍidantha... jalabharitavādantha eraḍu sarōvaragaḷannu kaṇḍiddāne. Ā Kauṇḍinya, ā taṭākada abhimāni dēvategaḷannu kuritu kēḷiddāne. Nīvādarū hēḷi, mattu Anantанanna nīvendādarū kaṇḍiddīre endu anta kēḷiddāne. Avrū kūḍa, nāvu Anantанanna nōḍilla antandāga bhāḷa nirāśe hondidavanāgi, prāṇatyāga māḍabēku antandāga bhaktavatsalanāgirtakkanta Ananta vṛddha brāhmaṇa rūpadinda allige bandu avanige darśanavannu koṭṭu ondu gṛhavaḷage pravēśa māḍiddāne. Alli dēvatāstrīya puruṣarinda kūḍiratakkanta sundaravāda tanna paṭṭaṇavannu tōrisiddāne. Ā paṭṭaṇadalli divyavādantha uttama siṃhāsanadalli śōbhisuttidda tannannū kūḍa tānē tōrisiddāne. Mahā tējassininda kūḍidantha vyāpta svarūpavannu ā brāhmaṇanigāgi tōrisiddāne. Āga Kauṇḍinya ghaṭiyāgi jayakāravannu māḍtā, nānu mahā pāpiṣṭhanāgidde, pāpa buddhivaḷḷavanāgidde, pāpadindalē janisidde. Ninna pāda kamalagaḷa darśanadinda nanna janma pāvanavāgide appa. Nanna jīvana indigē saphalavāytu anta hēḷiddāne. Āga Ananta Padmanābhanu sumadhura vacanadinda hēḷtā iddāne, brāhmaṇa hedarabēḍa, aiśvarya madadinda ninage hīgāgittu. Adakkōskara ninnallirtakkanta prāścitta buddhiyinda ellavū nāśavāgide. Antāga Kauṇḍinya hēḷtā iddāne, nānu dhanamadadinda Ananta nāmakanāgirtakkanta ninna sannidhāna uḷḷantha dāravannu visākidde. Ā duṣkarmadinda nanna sampattella nāśavāgide. Nanna bandhugaḷalli nitya jagaḷa. Adakke yārū nanna mātāḍisuvavarāgiddarū ninna divya svarūpavannu tōrisidantha nīnu nannannu uddhāra māḍide antandāga. Kauṇḍiṇya, nīnu śīghravāgi manege hōgappā. Innu taḍa māḍabēḍa. Hadinālku varṣa ī Ananta Padmanābha vratavanna bhaktiyinda ācaraṇe māḍu. Nīnu sakala pāpagaḷinda vimuktanāgi, pariśuddha svarūpanāgi, uttamavāgirtakkanta siddhiyannu honduttā iddīyappā. Matte idakkinta doḍḍa vratavē illa. Uttamavāgirtakkanta Ananta vratavanna ācaraṇe yāru māḍtārō, yāru ī katheyannū kēḷtārō, avaru bandantha pāpadindalū vimuktarāgi, pāparahitarāgi sadgatiyanna honduttāre. Adakkōskara nīnu īgēnu bandidiyō, adē mārgadalli manege hōgu anta hēḷi Paramātma kaḷisiddāne. Āga Kauṇḍiṇya tānu kāḍinalli kaṇḍantha ā māvina mara yāvudu, ā hasuvu, ṛṣabha yāvudu, matte ā eraḍu sarōvara yāvudu, katte yāne, ivella yāru anta tiḷisabēkanta bēḍkoṇḍāga Paramātma hēḷtā iddāne, nōḍappā, vēdavidyā pāraṅgatanāgirtakkanta brāhmaṇa obba śiṣyarige vidyādāna māḍida kāraṇa ā māvina maravāgi janisiddānappā. Ā māvina haṇṇella tumba huḷa āgide, adu yārigū kūḍa prayōjana illadantāgide. Nīnu kaṇḍantha ā gōvu pūrvadalli sarva bījagaḷanna tannannallē aḍagisikoṇḍantha ūrasa kṣētra. Ā eḷe hullina sthaḷadalli kaṇḍantha ṛṣabha sākṣāt Dharmadēvate. Ā eraḍu sarōvaragaḷidiyalla...\",\"english\":\"But Kauṇḍinya, who had become intoxicated with pride because of his wealth and was thus blinded, scorned Ananta, snatched the sacred thread from her hand, and threw it into a blazing fire. Seeing this, Śīla immediately picked up that dora and placed it in milk. As the consequence of this evil deed, all of Kauṇḍinya’s wealth was destroyed. He was reduced to a state of destitution in which he had nothing. When he asked what had caused such suffering, his wife, Śīla, who was adorned with virtue, said, “O greatly fortunate one, O ornament, this must be the fruit of the sin arising from your having reviled Ananta. Let us strive to obtain Ananta’s grace,” thus offering her opinion. Pleased with his wife’s advice, the sage Kauṇḍinya remembered Ananta alone in his mind and prayed. Along the road he saw a large mango tree heavily laden with fruit. He asked that mango tree, “O great tree, have you seen Ananta anywhere? Please tell me and bring an end to my suffering.” The mango tree replied that it had never seen Ananta. Proceeding from there, he saw a cow wandering with its calf. Seeing that cow, Kauṇḍinya asked it as well, “Have you at least seen Ananta?” The cow too replied, “I have never seen that Ananta.” Further on, he saw two water-filled lakes covered with lotuses and birds... Kauṇḍinya addressed and questioned the presiding deities of those lakes: “You at least tell me: have you ever seen Ananta?” When they too said, “We have not seen Ananta,” he became deeply despondent and resolved to give up his life. Then Ananta, who cherishes his devotees, came there in the form of an elderly brāhmaṇa, granted him darśana, and entered a house. There he showed Kauṇḍinya his beautiful city, filled with divine women and men. In that city he also revealed himself, resplendent upon an excellent divine throne. For that brāhmaṇa he revealed his all-pervading form, endowed with immense radiance. Then Kauṇḍinya loudly proclaimed victory, saying, “I was a great sinner. I possessed a sinful mind. I was born from sin itself. Through the darśana of your lotus feet, my birth has been sanctified, Father. Today my life has become fruitful.” Ananta Padmanābha then spoke in sweet words: “Brāhmaṇa, do not be afraid. This befell you because you were intoxicated by prosperity. Therefore, through the penitential disposition now present within you, everything has been destroyed.” Kauṇḍinya then said, “Intoxicated by the pride of wealth, I threw away the sacred thread in which your presence as the one named Ananta abided. Because of that evil deed, all my wealth has been destroyed. There is constant strife among my relatives. Though no one would speak to me, you revealed your divine form and delivered me.” Then Ananta said, “Kauṇḍiṇya, go home quickly, my child. Do not delay any longer. Observe this Ananta Padmanābha Vrata with devotion for fourteen years. You will be freed from all sins, become completely pure in nature, and attain the highest siddhi, my child. Moreover, there is no vrata greater than this. Whoever observes the excellent Ananta Vrata and whoever listens to this story will be freed even from the sins that have befallen them, become sinless, and attain the good destination. Therefore, return home by the same path by which you came.” Having said this, the Supreme Being sent him away. Kauṇḍiṇya then asked him to explain the identities of the mango tree he had seen in the forest, the cow, the bull, the two lakes, the donkey, the elephant, and all the others. The Supreme Being replied, “Look, my child. A brāhmaṇa who was proficient in Vedic knowledge was born as that mango tree because he had given learning to disciples. All of that mango tree’s fruit has become extremely sour and is of no use to anyone. The cow you saw was formerly the fertile field that had concealed within itself all kinds of seed. The bull you saw in the place of tender grass was Dharma-deva himself. And as for those two lakes...”\"}]}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "low",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": false,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "description": null,
+      "name": "lossless_puja_section",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "title",
+          "group",
+          "blocks"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "group": {
+            "type": "string",
+            "enum": [
+              "The Pūjā",
+              "Completion",
+              "Vrata Kathā"
+            ]
+          },
+          "blocks": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "kind",
+                "sourceOriginal",
+                "text",
+                "sourceRoman",
+                "english"
+              ],
+              "properties": {
+                "kind": {
+                  "type": "string",
+                  "enum": [
+                    "mantra",
+                    "action"
+                  ]
+                },
+                "sourceOriginal": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "sourceRoman": {
+                  "type": "string"
+                },
+                "english": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "strict": true
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 1860,
+    "input_tokens_details": {
+      "cache_write_tokens": 1857,
+      "cached_tokens": 0
+    },
+    "output_tokens": 4255,
+    "output_tokens_details": {
+      "reasoning_tokens": 96
+    },
+    "total_tokens": 6115
+  },
+  "user": null,
+  "metadata": {}
+}
