@@ -96,6 +96,10 @@ for (const match of groups) {
       sourceMarkdown:chunk.body
     };
     if (group === 1) section.meaning += '\n\nText note: The Sanskrit follows the printed booklet, including its nonstandard sadgati-prakṛti and araṇyām readings. The invocation meaning interprets the intended fire-stick analogy. Source ellipses are retained. This booklet-based guide has no audio.';
+    if (group === 4) section.html = '<figure class="altar-illustration">' +
+      '<a href="assets/jyeshtha-devi-altar.png" target="_blank" rel="noopener" aria-label="Open the altar illustration at full size">' +
+      '<img src="assets/jyeshtha-devi-altar.png" alt="Illustrative Jyeshtha Devi altar: a kalasha on rice and an eight-petaled lotus beneath a canopy, with a knotted cord, puja bowls, flowers, apupa offering, and a lamp kept clear of cloth." width="1448" height="1086" loading="lazy" decoding="async"></a>' +
+      '<figcaption>AI-generated illustrative arrangement, not a prescribed ritual layout. Decorations are optional; follow your family tradition. Count the dora’s sixteen strands and sixteen knots, and the sixteen apūpas, independently. Keep the lamp clear of cloth. Tap the image to view it at full size.</figcaption></figure>';
     sections.push(section);
   }
 }
