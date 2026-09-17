@@ -177,7 +177,17 @@
     player.classList.remove('show');
 
     guide = GUIDES[gi];
+    try {
+      var guideUrl = new URL(window.location.href);
+      guideUrl.searchParams.set('guide', guide.key);
+      window.history.replaceState(null, '', guideUrl.href);
+    } catch (error) { /* Local file readers may disallow history updates. */ }
     secs = guide.sections;
+    var textOnly = guide.noAudio && !secs.some(function (s) { return !!s.audio; });
+    player.hidden = !!textOnly;
+    document.querySelector('footer').innerHTML = textOnly
+      ? 'Print this page (Ctrl/Cmd-P) to save a clean PDF.'
+      : 'Tip: use the speed control in the player to slow recitation down for practice · Print this page (Ctrl/Cmd-P) to save a clean PDF.';
     repetition = 1;
     curP = guide.periods ? guide.periods[0] : null;
     Array.prototype.forEach.call(tabsEl.children, function (t, i) {
@@ -236,6 +246,7 @@
         : (s.page ? ('<div class="time">📖 p. ' + esc(s.page) + '</div>') : '');
       var card = document.createElement('article');
       card.className = 'card';
+      if (guide.preserveMeaningLines) card.classList.add('preserve-meaning-lines');
       card.id = 'sec-' + s.id;
       card.dataset.search = (title + ' ' + (skt || '') + ' ' + mantra + ' ' +
         originalScript + ' ' + devanagari + ' ' + captionOriginal + ' ' +
@@ -425,5 +436,7 @@
   });
 
   // ---- init ----
-  selectGuide(0);
+  var requestedGuide = new URLSearchParams(window.location.search).get('guide');
+  var initialGuide = GUIDES.findIndex(function (g) { return g.key === requestedGuide; });
+  selectGuide(initialGuide < 0 ? 0 : initialGuide);
 })();
