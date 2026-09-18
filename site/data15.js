@@ -2,7 +2,7 @@
 (window.GUIDES = window.GUIDES || []).push({
   "key": "jyeshtha-devi-puja",
   "title": "Jyeṣṭhā Devī Pūjā",
-  "tabLabel": "Booklet · 33 text steps",
+  "tabLabel": "Booklet · 30 practice clips",
   "noAudio": true,
   "hideNotice": true,
   "hideLosslessReferences": true,
@@ -10,8 +10,34 @@
   "subtitle": "Romanized Sanskrit, English meanings, and ritual directions from the 2026 Kannada booklet",
   "source": "texts/jyeshtha-devi-puja-kannada-2026.pdf",
   "sourceLabel": "Kannada source booklet (PDF)",
-  "sourceCredit": "Pt. Mahidas Achar Joshi · Vishva Madhwa Maha Parishat Granthamala 259 · Śrī Uttarādi Maṭha · 2026",
+  "sourceCredit": "Pt. Mahidas Achar Joshi · Vishva Madhwa Maha Parishat Granthamala 259 · Śrī Uttarādi Maṭha · 2026 · AI practice audio: Vāgdhenu, Prathosh A P (IISc)",
   "structuredMantraLabel": "Sanskrit recitation · IAST",
+  "practiceMode": "repeat3",
+  "practiceLabel": "↻ 3× Practice",
+  "hideSourceWatchLinks": true,
+  "audioDir": "audio15",
+  "audioProvenance": {
+    "type": "synthetic-practice",
+    "ttsModel": "https://huggingface.co/prathoshap/vagdhenu",
+    "asrModel": "https://huggingface.co/prathoshap/sushrota-sanskrit-asr",
+    "asrCheckpoint": "sushrota_sanskrit_asr_v13b.nemo",
+    "voiceCheckpoint": "voice_steer_ema_2026-06-17.pt",
+    "vocoderCheckpoint": "voc_bigvgan_EMA_2026-06-11.pth",
+    "rendererSha256": "b751b782f21277811f57adcfc40927164eee9a41413e15ea76e195cd38741956",
+    "settings": {
+      "steps": 64,
+      "speed": 0.9,
+      "cfgStrength": 3,
+      "seed": 50,
+      "autocast": false,
+      "sampleRate": 24000,
+      "interUnitGap": 0.65
+    },
+    "asrLoading": "Original preprocessor, encoder and CTC tensors restored strictly; Sanskrit slice 4096–4351, blank 5632.",
+    "credit": "Prathosh A P, Indian Institute of Science, Bengaluru; Vāgdhenu, IndicF5 and NVIDIA BigVGAN.",
+    "warning": "AI-generated practice, not priest recordings or authoritative traditional pronunciation, metre or Vedic accents. ASR is diagnostic, not certification; human pronunciation review remains required.",
+    "sankalpa": "Both printed weekday alternatives are read separately. Supply the actual weekday and information omitted by the booklet’s ellipses."
+  },
   "sections": [
     {
       "id": "01",
@@ -20,7 +46,7 @@
       "page": "3",
       "title": "Introduction and timing",
       "mantra": "",
-      "meaning": "Tithi & Nakṣatra: Bhādrapada Śukla Pakṣa Aṣṭamī tithi in conjunction with Jyeṣṭhā Nakṣatra.\nTrirātra Krama (Three-Night Observance):\nAnurādhā Nakṣatra: Āvāhana (Invocation / welcoming the goddess)\nJyeṣṭhā Nakṣatra: Mukhya Pūjā (Main worship)\nMūlā Nakṣatra: Visarjana (Formal conclusion / farewell)\nAccording to the Shastras, this three-day observance is the most auspicious method (Uttama Kalpa).\nPhalaśruti (Spiritual Fruits & Benefits): Alleviation of poverty (dāridrya-parihāra), unbroken marital auspiciousness and prosperity (akhaṇḍa-saubhāgya), noble progeny (santāna-prāpti), and the fulfillment of all cherished desires for the family (sarvābhīṣṭa-siddhi).\n\nText note: The Sanskrit follows the printed booklet, including its nonstandard sadgati-prakṛti and araṇyām readings. The invocation meaning interprets the intended fire-stick analogy. Source ellipses are retained. This booklet-based guide has no audio.",
+      "meaning": "Tithi & Nakṣatra: Bhādrapada Śukla Pakṣa Aṣṭamī tithi in conjunction with Jyeṣṭhā Nakṣatra.\nTrirātra Krama (Three-Night Observance):\nAnurādhā Nakṣatra: Āvāhana (Invocation / welcoming the goddess)\nJyeṣṭhā Nakṣatra: Mukhya Pūjā (Main worship)\nMūlā Nakṣatra: Visarjana (Formal conclusion / farewell)\nAccording to the Shastras, this three-day observance is the most auspicious method (Uttama Kalpa).\nPhalaśruti (Spiritual Fruits & Benefits): Alleviation of poverty (dāridrya-parihāra), unbroken marital auspiciousness and prosperity (akhaṇḍa-saubhāgya), noble progeny (santāna-prāpti), and the fulfillment of all cherished desires for the family (sarvābhīṣṭa-siddhi).\n\nText note: The Sanskrit follows the printed booklet, including its nonstandard sadgati-prakṛti and araṇyām readings. The invocation meaning interprets the intended fire-stick analogy. Source ellipses are retained.\n\nAudio note: AI-generated Sanskrit practice clips synthesized with Vāgdhenu. These are not recordings of a priest and are not an authoritative model of traditional pronunciation, metre, or Vedic accents. Su-śrotā ASR is a diagnostic transcription aid, not pronunciation certification. Follow your teacher or family tradition. Saṅkalpa placeholders must be completed for your circumstances.",
       "action": "",
       "originalScript": "",
       "structuredBlocks": [],
@@ -34,7 +60,7 @@
       "title": "Saṅkalpa",
       "mantra": "ācamya, prāṇān āyamya, śubhe śobhane muhūrte, śrīgovinda govinda ... asmin vartamāne śrīparameṣṭhinaḥ dvitīyaparārdhe ... asmin vartamāne śubhasaṃvatsare, dakṣiṇāyane, varṣaṛtau, bhādrapada-māse, śuklapakṣe, aṣṭamyāṃ śubhatithau, budha/bṛhaspati-vāsare, jyeṣṭhā-nakṣatra-yuktāyāṃ, śubhayoga-śubhakaraṇa-evaṃguṇa-viśeṣaṇa-viśiṣṭāyāṃ śubhatithau:\n\nmameha janmani janmāntare ca akhaṇḍa-saubhāgya, putra-pautrādi-aiśvarya, sadgati-prakṛti-sarvābhīṣṭa-siddhy-arthaṃ, śrī-jyeṣṭhālakṣmī-devy-antargata śrīnārāyaṇa-preraṇayā śrīnārāyaṇa-prīty-arthaṃ jyeṣṭhālakṣmī-vrata-kalpokta-pūjāṃ kariṣye ||",
       "meaning": "Having performed purification through sipping water (ācamana) and regulated the vital breath (prāṇāyāma), on this auspicious, glorious occasion, remembering the holy name of Lord Govinda, Govinda... during the present second half of the lifespan of Lord Brahma (Parameṣṭhin)... in this ongoing auspicious year, in the southern solstitial half of the year (dakṣiṇāyana), in the rainy season (varṣā-ṛtu), in the month of Bhādrapada, in the bright fortnight (śukla-pakṣa), on the auspicious eighth lunar day (aṣṭamī), on Wednesday / Thursday, conjoined with the constellation Jyeṣṭhā, endowed with all auspicious astrological yogas and karaṇas:\nIn this lifetime and in future lifetimes, for obtaining uninterrupted fortune and auspiciousness (akhaṇḍa-saubhāgya), the wealth of noble children and grandchildren, spiritual elevation, and the fulfillment of all cherished aspirations, by the inspiration of Supreme Lord Śrī Nārāyaṇa indwelling Goddess Śrī Jyeṣṭhā Lakṣmī, and solely for the pleasure and grace of Śrī Nārāyaṇa, I hereby perform the worship ordained in the Jyeṣṭhā Lakṣmī Vrata ritual manual (kalpa).",
-      "action": "",
+      "action": "\n\nPractice-audio note: The recording reads both printed weekday alternatives separately. During pūjā, choose the actual weekday and supply the information omitted by the booklet’s ellipses. This recording is not a completed, date-specific saṅkalpa.",
       "originalScript": "ācamya, prāṇān āyamya, śubhe śobhane muhūrte, śrīgovinda govinda ... asmin vartamāne śrīparameṣṭhinaḥ dvitīyaparārdhe ... asmin vartamāne śubhasaṃvatsare, dakṣiṇāyane, varṣaṛtau, bhādrapada-māse, śuklapakṣe, aṣṭamyāṃ śubhatithau, budha/bṛhaspati-vāsare, jyeṣṭhā-nakṣatra-yuktāyāṃ, śubhayoga-śubhakaraṇa-evaṃguṇa-viśeṣaṇa-viśiṣṭāyāṃ śubhatithau:\n\nmameha janmani janmāntare ca akhaṇḍa-saubhāgya, putra-pautrādi-aiśvarya, sadgati-prakṛti-sarvābhīṣṭa-siddhy-arthaṃ, śrī-jyeṣṭhālakṣmī-devy-antargata śrīnārāyaṇa-preraṇayā śrīnārāyaṇa-prīty-arthaṃ jyeṣṭhālakṣmī-vrata-kalpokta-pūjāṃ kariṣye ||",
       "structuredBlocks": [
         {
@@ -43,7 +69,16 @@
           "text": "ācamya, prāṇān āyamya, śubhe śobhane muhūrte, śrīgovinda govinda ... asmin vartamāne śrīparameṣṭhinaḥ dvitīyaparārdhe ... asmin vartamāne śubhasaṃvatsare, dakṣiṇāyane, varṣaṛtau, bhādrapada-māse, śuklapakṣe, aṣṭamyāṃ śubhatithau, budha/bṛhaspati-vāsare, jyeṣṭhā-nakṣatra-yuktāyāṃ, śubhayoga-śubhakaraṇa-evaṃguṇa-viśeṣaṇa-viśiṣṭāyāṃ śubhatithau:\n\nmameha janmani janmāntare ca akhaṇḍa-saubhāgya, putra-pautrādi-aiśvarya, sadgati-prakṛti-sarvābhīṣṭa-siddhy-arthaṃ, śrī-jyeṣṭhālakṣmī-devy-antargata śrīnārāyaṇa-preraṇayā śrīnārāyaṇa-prīty-arthaṃ jyeṣṭhālakṣmī-vrata-kalpokta-pūjāṃ kariṣye ||"
         }
       ],
-      "sourceMarkdown": "*(Source: p. 3)*\n\n### Sanskrit (IAST):\n> ācamya, prāṇān āyamya, śubhe śobhane muhūrte, śrīgovinda govinda ... asmin vartamāne śrīparameṣṭhinaḥ dvitīyaparārdhe ... asmin vartamāne śubhasaṃvatsare, dakṣiṇāyane, varṣaṛtau, bhādrapada-māse, śuklapakṣe, aṣṭamyāṃ śubhatithau, budha/bṛhaspati-vāsare, jyeṣṭhā-nakṣatra-yuktāyāṃ, śubhayoga-śubhakaraṇa-evaṃguṇa-viśeṣaṇa-viśiṣṭāyāṃ śubhatithau:\n>\n> mameha janmani janmāntare ca akhaṇḍa-saubhāgya, putra-pautrādi-aiśvarya, sadgati-prakṛti-sarvābhīṣṭa-siddhy-arthaṃ, śrī-jyeṣṭhālakṣmī-devy-antargata śrīnārāyaṇa-preraṇayā śrīnārāyaṇa-prīty-arthaṃ jyeṣṭhālakṣmī-vrata-kalpokta-pūjāṃ kariṣye ||\n\n### English Meaning:\n> Having performed purification through sipping water (*ācamana*) and regulated the vital breath (*prāṇāyāma*), on this auspicious, glorious occasion, remembering the holy name of Lord Govinda, Govinda... during the present second half of the lifespan of Lord Brahma (Parameṣṭhin)... in this ongoing auspicious year, in the southern solstitial half of the year (*dakṣiṇāyana*), in the rainy season (*varṣā-ṛtu*), in the month of Bhādrapada, in the bright fortnight (*śukla-pakṣa*), on the auspicious eighth lunar day (*aṣṭamī*), on Wednesday / Thursday, conjoined with the constellation Jyeṣṭhā, endowed with all auspicious astrological yogas and karaṇas:\n>\n> In this lifetime and in future lifetimes, for obtaining uninterrupted fortune and auspiciousness (*akhaṇḍa-saubhāgya*), the wealth of noble children and grandchildren, spiritual elevation, and the fulfillment of all cherished aspirations, by the inspiration of Supreme Lord Śrī Nārāyaṇa indwelling Goddess Śrī Jyeṣṭhā Lakṣmī, and solely for the pleasure and grace of Śrī Nārāyaṇa, I hereby perform the worship ordained in the Jyeṣṭhā Lakṣmī Vrata ritual manual (*kalpa*).\n\n---\n\n"
+      "sourceMarkdown": "*(Source: p. 3)*\n\n### Sanskrit (IAST):\n> ācamya, prāṇān āyamya, śubhe śobhane muhūrte, śrīgovinda govinda ... asmin vartamāne śrīparameṣṭhinaḥ dvitīyaparārdhe ... asmin vartamāne śubhasaṃvatsare, dakṣiṇāyane, varṣaṛtau, bhādrapada-māse, śuklapakṣe, aṣṭamyāṃ śubhatithau, budha/bṛhaspati-vāsare, jyeṣṭhā-nakṣatra-yuktāyāṃ, śubhayoga-śubhakaraṇa-evaṃguṇa-viśeṣaṇa-viśiṣṭāyāṃ śubhatithau:\n>\n> mameha janmani janmāntare ca akhaṇḍa-saubhāgya, putra-pautrādi-aiśvarya, sadgati-prakṛti-sarvābhīṣṭa-siddhy-arthaṃ, śrī-jyeṣṭhālakṣmī-devy-antargata śrīnārāyaṇa-preraṇayā śrīnārāyaṇa-prīty-arthaṃ jyeṣṭhālakṣmī-vrata-kalpokta-pūjāṃ kariṣye ||\n\n### English Meaning:\n> Having performed purification through sipping water (*ācamana*) and regulated the vital breath (*prāṇāyāma*), on this auspicious, glorious occasion, remembering the holy name of Lord Govinda, Govinda... during the present second half of the lifespan of Lord Brahma (Parameṣṭhin)... in this ongoing auspicious year, in the southern solstitial half of the year (*dakṣiṇāyana*), in the rainy season (*varṣā-ṛtu*), in the month of Bhādrapada, in the bright fortnight (*śukla-pakṣa*), on the auspicious eighth lunar day (*aṣṭamī*), on Wednesday / Thursday, conjoined with the constellation Jyeṣṭhā, endowed with all auspicious astrological yogas and karaṇas:\n>\n> In this lifetime and in future lifetimes, for obtaining uninterrupted fortune and auspiciousness (*akhaṇḍa-saubhāgya*), the wealth of noble children and grandchildren, spiritual elevation, and the fulfillment of all cherished aspirations, by the inspiration of Supreme Lord Śrī Nārāyaṇa indwelling Goddess Śrī Jyeṣṭhā Lakṣmī, and solely for the pleasure and grace of Śrī Nārāyaṇa, I hereby perform the worship ordained in the Jyeṣṭhā Lakṣmī Vrata ritual manual (*kalpa*).\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-02.mp3",
+      "start": "0:00.00",
+      "end": "0:59.37",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Transcript differences: teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": true
     },
     {
       "id": "03",
@@ -62,7 +97,16 @@
           "text": "sahasrāra huṃ phaṭ\n\ntvaṃ purā sāgarotpanno viṣṇunā vidhṛtaḥ kare |\nnamitaḥ sarvadevaiś ca pāñcajanya namo'stu te || 1 ||\n\ngarbhā devāri-nārīṇāṃ viśīryante sahasradhā |\ntava nādena pātāle pāñcajanya namo'stu te || 2 ||\n\ndarśanād eva śaṅkhasya kiṃ punaḥ sparśane kṛte |\nvilayaṃ yānti pāpāni tamaḥ sūryodaye yathā || 3 ||\n\nnatvā śaṅkhaṃ kare spṛṣṭvā mantreṇānena vaiṣṇavaḥ |\nyaḥ snāpayati govindaṃ tasya puṇyam anantakam || 4 ||"
         }
       ],
-      "sourceMarkdown": "*(Source: p. 4)*\n\n*(Ring the ceremonial bell — ghaṇṭānādaṃ kuryāt)*\n\n### Purification:\n> sahasrāra huṃ phaṭ  \n> *(iti śaṅkhaṃ prakṣālya)*  \n> *Meaning: (Purifying and washing the holy conch with the Astra mantra)*\n\n### Verse 1:\n> tvaṃ purā sāgarotpanno viṣṇunā vidhṛtaḥ kare |  \n> namitaḥ sarvadevaiś ca pāñcajanya namo'stu te || 1 ||\n\n**Meaning:** You arose of old from the great ocean, and are held aloft in the sacred hand of Lord Viṣṇu. Revered and bowed down to by all the celestials, O sacred conch Pāñcajanya, salutations unto you!\n\n### Verse 2:\n> garbhā devāri-nārīṇāṃ viśīryante sahasradhā |  \n> tava nādena pātāle pāñcajanya namo'stu te || 2 ||\n\n**Meaning:** By your thunderous, resonant blast resounding down to the netherworlds (*pātāla*), the wombs of the spouses of the demons (the enemies of the gods) are shattered into a thousand pieces. O Pāñcajanya, salutations unto you!\n\n### Verse 3:\n> darśanād eva śaṅkhasya kiṃ punaḥ sparśane kṛte |  \n> vilayaṃ yānti pāpāni tamaḥ sūryodaye yathā || 3 ||\n\n**Meaning:** Merely by having sight (*darśana*) of the conch, let alone touching it, all sins dissolve away into nothingness, just as pervasive darkness vanishes at the rising of the radiant sun!\n\n### Verse 4:\n> natvā śaṅkhaṃ kare spṛṣṭvā mantreṇānena vaiṣṇavaḥ |  \n> yaḥ snāpayati govindaṃ tasya puṇyam anantakam || 4 ||\n\n**Meaning:** The devotee of Viṣṇu (*vaiṣṇava*) who bows to the conch, touches it with their hands, recites this mantra, and bathes Lord Govinda with its sanctified water earns boundless, infinite merit (*puṇya*).\n\n*(Offer holy tulasī, sandalwood paste, and flowers to the conch, and sprinkle its holy water on yourself and the ritual items.)*\n\n---\n\n"
+      "sourceMarkdown": "*(Source: p. 4)*\n\n*(Ring the ceremonial bell — ghaṇṭānādaṃ kuryāt)*\n\n### Purification:\n> sahasrāra huṃ phaṭ  \n> *(iti śaṅkhaṃ prakṣālya)*  \n> *Meaning: (Purifying and washing the holy conch with the Astra mantra)*\n\n### Verse 1:\n> tvaṃ purā sāgarotpanno viṣṇunā vidhṛtaḥ kare |  \n> namitaḥ sarvadevaiś ca pāñcajanya namo'stu te || 1 ||\n\n**Meaning:** You arose of old from the great ocean, and are held aloft in the sacred hand of Lord Viṣṇu. Revered and bowed down to by all the celestials, O sacred conch Pāñcajanya, salutations unto you!\n\n### Verse 2:\n> garbhā devāri-nārīṇāṃ viśīryante sahasradhā |  \n> tava nādena pātāle pāñcajanya namo'stu te || 2 ||\n\n**Meaning:** By your thunderous, resonant blast resounding down to the netherworlds (*pātāla*), the wombs of the spouses of the demons (the enemies of the gods) are shattered into a thousand pieces. O Pāñcajanya, salutations unto you!\n\n### Verse 3:\n> darśanād eva śaṅkhasya kiṃ punaḥ sparśane kṛte |  \n> vilayaṃ yānti pāpāni tamaḥ sūryodaye yathā || 3 ||\n\n**Meaning:** Merely by having sight (*darśana*) of the conch, let alone touching it, all sins dissolve away into nothingness, just as pervasive darkness vanishes at the rising of the radiant sun!\n\n### Verse 4:\n> natvā śaṅkhaṃ kare spṛṣṭvā mantreṇānena vaiṣṇavaḥ |  \n> yaḥ snāpayati govindaṃ tasya puṇyam anantakam || 4 ||\n\n**Meaning:** The devotee of Viṣṇu (*vaiṣṇava*) who bows to the conch, touches it with their hands, recites this mantra, and bathes Lord Govinda with its sanctified water earns boundless, infinite merit (*puṇya*).\n\n*(Offer holy tulasī, sandalwood paste, and flowers to the conch, and sprinkle its holy water on yourself and the ritual items.)*\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-03.mp3",
+      "start": "0:00.00",
+      "end": "0:42.40",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "04",
@@ -82,6 +126,15 @@
         }
       ],
       "sourceMarkdown": "*(Source: p. 4)*\n\n*(Erect a sacred canopy/mandapa in the northeast corner of the home, draw an eight-petaled lotus rangoli, place a heap of raw rice, and consecrate the kalasha pot.)*\n\n### Pīṭha Pūjā Mantras:\n1. **oṃ ādhāraśaktyai namaḥ |**  \n   *(Salutations to the Primal Supporting Energy)*\n2. **oṃ ādikūrmāya namaḥ |**  \n   *(Salutations to the Primordial Cosmic Tortoise who upholds the universe)*\n3. **oṃ anantāya namaḥ |**  \n   *(Salutations to Lord Ananta / Ādiśeṣa)*\n4. **oṃ varāhāya namaḥ |**  \n   *(Salutations to Lord Varāha, the Divine Boar who rescued the Earth)*\n5. **oṃ ratnasiṃhāsanāya namaḥ |**  \n   *(Salutations to the Jeweled Lion-Throne)*\n6. **oṃ jyeṣṭhālakṣmyai namaḥ | pīṭhapūjāṃ samarpayāmi ||**  \n   *(Salutations to Goddess Jyeṣṭhā Lakṣmī; I offer this altar worship)*\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-04.mp3",
+      "start": "0:00.00",
+      "end": "0:16.75",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false,
       "html": "<figure class=\"altar-illustration\"><a href=\"assets/jyeshtha-devi-altar.png\" target=\"_blank\" rel=\"noopener\" aria-label=\"Open the altar illustration at full size\"><img src=\"assets/jyeshtha-devi-altar.png\" alt=\"Illustrative Jyeshtha Devi altar: a kalasha on rice and an eight-petaled lotus beneath a canopy, with a knotted cord, puja bowls, flowers, apupa offering, and a lamp kept clear of cloth.\" width=\"1448\" height=\"1086\" loading=\"lazy\" decoding=\"async\"></a><figcaption>AI-generated illustrative arrangement, not a prescribed ritual layout. Decorations are optional; follow your family tradition. Count the dora’s sixteen strands and sixteen knots, and the sixteen apūpas, independently. Keep the lamp clear of cloth. Tap the image to view it at full size.</figcaption></figure>"
     },
     {
@@ -101,7 +154,16 @@
           "text": "oṃ prabhāyai namaḥ |\noṃ māyāyai namaḥ |\noṃ jayāyai namaḥ |\noṃ sūkṣmāyai namaḥ |\noṃ viśuddhāyai namaḥ |\noṃ nandinyai namaḥ |\noṃ suprabhāyai namaḥ |\noṃ vijayāyai namaḥ |\noṃ sarvasiddhidāyai namaḥ ||"
         }
       ],
-      "sourceMarkdown": "*(Source: p. 5)*\n\n1. **oṃ prabhāyai namaḥ |** *(Salutations to the Energy of Radiance)*\n2. **oṃ māyāyai namaḥ |** *(Salutations to the Divine Cosmic Power / Māyā)*\n3. **oṃ jayāyai namaḥ |** *(Salutations to the Energy of Victory)*\n4. **oṃ sūkṣmāyai namaḥ |** *(Salutations to the Subtle, Omnipresent Energy)*\n5. **oṃ viśuddhāyai namaḥ |** *(Salutations to the Energy of Immaculate Purity)*\n6. **oṃ nandinyai namaḥ |** *(Salutations to the Energy of Supreme Delight)*\n7. **oṃ suprabhāyai namaḥ |** *(Salutations to the Energy of Auspicious Splendor)*\n8. **oṃ vijayāyai namaḥ |** *(Salutations to the Energy of Eminent Triumph)*\n9. **oṃ sarvasiddhidāyai namaḥ ||** *(Salutations to the Bestower of All Perfections)*\n\n---\n\n"
+      "sourceMarkdown": "*(Source: p. 5)*\n\n1. **oṃ prabhāyai namaḥ |** *(Salutations to the Energy of Radiance)*\n2. **oṃ māyāyai namaḥ |** *(Salutations to the Divine Cosmic Power / Māyā)*\n3. **oṃ jayāyai namaḥ |** *(Salutations to the Energy of Victory)*\n4. **oṃ sūkṣmāyai namaḥ |** *(Salutations to the Subtle, Omnipresent Energy)*\n5. **oṃ viśuddhāyai namaḥ |** *(Salutations to the Energy of Immaculate Purity)*\n6. **oṃ nandinyai namaḥ |** *(Salutations to the Energy of Supreme Delight)*\n7. **oṃ suprabhāyai namaḥ |** *(Salutations to the Energy of Auspicious Splendor)*\n8. **oṃ vijayāyai namaḥ |** *(Salutations to the Energy of Eminent Triumph)*\n9. **oṃ sarvasiddhidāyai namaḥ ||** *(Salutations to the Bestower of All Perfections)*\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-05.mp3",
+      "start": "0:00.00",
+      "end": "0:19.83",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Transcript differences: teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": true
     },
     {
       "id": "06",
@@ -120,7 +182,16 @@
           "text": "svātmasaṃsthām ajāṃ śuddhāṃ tvām adya parameśvari |\naraṇyām iva havyāśaṃ mūrtāv āvāhayāmy aham ||\n\nsaśrīkaṃ saparivāraṃ jyeṣṭhālakṣmy-antargata-śrīlakṣmīnārāyaṇaṃ\nāgacchāgaccha āvāhayāmi ||"
         }
       ],
-      "sourceMarkdown": "*(Source: p. 5)*\n\n### Sanskrit (IAST):\n> svātmasaṃsthām ajāṃ śuddhāṃ tvām adya parameśvari |  \n> araṇyām iva havyāśaṃ mūrtāv āvāhayāmy aham ||\n>\n> saśrīkaṃ saparivāraṃ jyeṣṭhālakṣmy-antargata-śrīlakṣmīnārāyaṇaṃ  \n> āgacchāgaccha āvāhayāmi ||\n\n### English Meaning:\n> O Supreme Goddess (*Parameśvarī*), though You are unborn (*ajā*), eternally pure (*śuddhā*), and established in Your own being (*svātma-saṃsthā*), I now invoke You into this consecrated form, just as fire (*havyāśa*) latent within churning-wood (*araṇi*) is made manifest.\n>\n> Endowed with all divine glory and surrounded by Your divine retinue, O Lord Lakṣmī-Nārāyaṇa dwelling within Goddess Jyeṣṭhā Lakṣmī: please come, please come! I invoke and welcome You!\n\n---\n\n"
+      "sourceMarkdown": "*(Source: p. 5)*\n\n### Sanskrit (IAST):\n> svātmasaṃsthām ajāṃ śuddhāṃ tvām adya parameśvari |  \n> araṇyām iva havyāśaṃ mūrtāv āvāhayāmy aham ||\n>\n> saśrīkaṃ saparivāraṃ jyeṣṭhālakṣmy-antargata-śrīlakṣmīnārāyaṇaṃ  \n> āgacchāgaccha āvāhayāmi ||\n\n### English Meaning:\n> O Supreme Goddess (*Parameśvarī*), though You are unborn (*ajā*), eternally pure (*śuddhā*), and established in Your own being (*svātma-saṃsthā*), I now invoke You into this consecrated form, just as fire (*havyāśa*) latent within churning-wood (*araṇi*) is made manifest.\n>\n> Endowed with all divine glory and surrounded by Your divine retinue, O Lord Lakṣmī-Nārāyaṇa dwelling within Goddess Jyeṣṭhā Lakṣmī: please come, please come! I invoke and welcome You!\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-06.mp3",
+      "start": "0:00.00",
+      "end": "0:19.60",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Transcript differences: teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": true
     },
     {
       "id": "07",
@@ -139,7 +210,16 @@
           "text": "devānāṃ devatānāṃ ca jyeṣṭhādevi tvam ādimā |\nādiśakte namas te'stu namas te viṣṇuvallabhe ||\n\njyeṣṭhādevyai namaḥ | dhyānaṃ samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> devānāṃ devatānāṃ ca jyeṣṭhādevi tvam ādimā |  \n> ādiśakte namas te'stu namas te viṣṇuvallabhe ||  \n> **jyeṣṭhādevyai namaḥ | dhyānaṃ samarpayāmi ||**\n\n**Meaning:** Among gods and goddesses, O Goddess Jyeṣṭhā, You are the primordial, elder sovereign. O Primordial Energy (*Ādiśakti*), salutations unto You! Salutations to You, the beloved consort of Lord Viṣṇu! Salutations to Goddess Jyeṣṭhā; I offer this meditation.\n\n---\n\n"
+      "sourceMarkdown": "> devānāṃ devatānāṃ ca jyeṣṭhādevi tvam ādimā |  \n> ādiśakte namas te'stu namas te viṣṇuvallabhe ||  \n> **jyeṣṭhādevyai namaḥ | dhyānaṃ samarpayāmi ||**\n\n**Meaning:** Among gods and goddesses, O Goddess Jyeṣṭhā, You are the primordial, elder sovereign. O Primordial Energy (*Ādiśakti*), salutations unto You! Salutations to You, the beloved consort of Lord Viṣṇu! Salutations to Goddess Jyeṣṭhā; I offer this meditation.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-07.mp3",
+      "start": "0:00.00",
+      "end": "0:13.93",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "08",
@@ -158,7 +238,16 @@
           "text": "brahmapriye namas te'stu namas te bhaktavatsale |\nviṣṇupriye namas te'stu jagadānandakāriṇi ||\n\njyeṣṭhādevyai namaḥ | āvāhanaṃ samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> brahmapriye namas te'stu namas te bhaktavatsale |  \n> viṣṇupriye namas te'stu jagadānandakāriṇi ||  \n> **jyeṣṭhādevyai namaḥ | āvāhanaṃ samarpayāmi ||**\n\n**Meaning:** Salutations to You who are dear to Brahman; salutations to You who are affectionate to Your devotees! Salutations to You, beloved of Viṣṇu; salutations to You who grant delight to the entire cosmos! Salutations to Goddess Jyeṣṭhā; I offer this invocation.\n\n---\n\n"
+      "sourceMarkdown": "> brahmapriye namas te'stu namas te bhaktavatsale |  \n> viṣṇupriye namas te'stu jagadānandakāriṇi ||  \n> **jyeṣṭhādevyai namaḥ | āvāhanaṃ samarpayāmi ||**\n\n**Meaning:** Salutations to You who are dear to Brahman; salutations to You who are affectionate to Your devotees! Salutations to You, beloved of Viṣṇu; salutations to You who grant delight to the entire cosmos! Salutations to Goddess Jyeṣṭhā; I offer this invocation.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-08.mp3",
+      "start": "0:00.00",
+      "end": "0:13.57",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "09",
@@ -177,7 +266,16 @@
           "text": "āsane svarṇaratnāḍhye sarvaśobhāsamanvite |\nupaviśya jaganmātaḥ prasādābhimukhī bhava ||\n\njyeṣṭhādevyai namaḥ | āsanaṃ samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> āsane svarṇaratnāḍhye sarvaśobhāsamanvite |  \n> upaviśya jaganmātaḥ prasādābhimukhī bhava ||  \n> **jyeṣṭhādevyai namaḥ | āsanaṃ samarpayāmi ||**\n\n**Meaning:** Gracing this splendid seat adorned with fine gold, luminous gems, and all exquisite decorations, be pleased to be seated, O Mother of the Universe, and turn Your compassionate, graceful countenance toward us! Salutations to Goddess Jyeṣṭhā; I offer this throne.\n\n---\n\n"
+      "sourceMarkdown": "> āsane svarṇaratnāḍhye sarvaśobhāsamanvite |  \n> upaviśya jaganmātaḥ prasādābhimukhī bhava ||  \n> **jyeṣṭhādevyai namaḥ | āsanaṃ samarpayāmi ||**\n\n**Meaning:** Gracing this splendid seat adorned with fine gold, luminous gems, and all exquisite decorations, be pleased to be seated, O Mother of the Universe, and turn Your compassionate, graceful countenance toward us! Salutations to Goddess Jyeṣṭhā; I offer this throne.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-09.mp3",
+      "start": "0:00.00",
+      "end": "0:13.44",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "10",
@@ -196,7 +294,16 @@
           "text": "idaṃ gaṅgājalaṃ samyak suvarṇakalaśe sthitam |\npādyārthaṃ te prayacchāmi kṣālayāmi padāmbuje ||\n\njyeṣṭhādevyai namaḥ | pādyaṃ samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> idaṃ gaṅgājalaṃ samyak suvarṇakalaśe sthitam |  \n> pādyārthaṃ te prayacchāmi kṣālayāmi padāmbuje ||  \n> **jyeṣṭhādevyai namaḥ | pādyaṃ samarpayāmi ||**\n\n**Meaning:** This sacred, pure water of the river Gaṅgā, kept in a golden pitcher, I offer unto You for washing Your feet; I reverently bathe Your divine lotus feet. Salutations to Goddess Jyeṣṭhā; I offer water for the feet.\n\n---\n\n"
+      "sourceMarkdown": "> idaṃ gaṅgājalaṃ samyak suvarṇakalaśe sthitam |  \n> pādyārthaṃ te prayacchāmi kṣālayāmi padāmbuje ||  \n> **jyeṣṭhādevyai namaḥ | pādyaṃ samarpayāmi ||**\n\n**Meaning:** This sacred, pure water of the river Gaṅgā, kept in a golden pitcher, I offer unto You for washing Your feet; I reverently bathe Your divine lotus feet. Salutations to Goddess Jyeṣṭhā; I offer water for the feet.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-10.mp3",
+      "start": "0:00.00",
+      "end": "0:13.99",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "11",
@@ -215,7 +322,16 @@
           "text": "gandhapuṣpākṣatair yuktaṃ toyena ca samanvitam |\nsuvarṇapātre cārvaṅgi gṛhāṇārghyaṃ namo'stu te ||\n\njyeṣṭhādevyai namaḥ | arghyaṃ samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> gandhapuṣpākṣatair yuktaṃ toyena ca samanvitam |  \n> suvarṇapātre cārvaṅgi gṛhāṇārghyaṃ namo'stu te ||  \n> **jyeṣṭhādevyai namaḥ | arghyaṃ samarpayāmi ||**\n\n**Meaning:** Blended with fragrant sandalpaste, sacred flowers, unbroken sanctified rice (*akṣatā*), and pure water, held in a golden vessel, O You of lovely, flawless form (*cārvaṅgī*), please accept this arghya offering. Salutations unto You!\n\n---\n\n"
+      "sourceMarkdown": "> gandhapuṣpākṣatair yuktaṃ toyena ca samanvitam |  \n> suvarṇapātre cārvaṅgi gṛhāṇārghyaṃ namo'stu te ||  \n> **jyeṣṭhādevyai namaḥ | arghyaṃ samarpayāmi ||**\n\n**Meaning:** Blended with fragrant sandalpaste, sacred flowers, unbroken sanctified rice (*akṣatā*), and pure water, held in a golden vessel, O You of lovely, flawless form (*cārvaṅgī*), please accept this arghya offering. Salutations unto You!\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-11.mp3",
+      "start": "0:00.00",
+      "end": "0:13.82",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Transcript differences: teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": true
     },
     {
       "id": "12",
@@ -234,7 +350,16 @@
           "text": "karpūrailāmṛgamadaiḥ suvāsair upaśobhitam |\ngṛhāṇācamanīyaṃ ca śiśiraṃ vimalaṃ jalam ||\n\njyeṣṭhādevyai namaḥ | ācamanaṃ samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> karpūrailāmṛgamadaiḥ suvāsair upaśobhitam |  \n> gṛhāṇācamanīyaṃ ca śiśiraṃ vimalaṃ jalam ||  \n> **jyeṣṭhādevyai namaḥ | ācamanaṃ samarpayāmi ||**\n\n**Meaning:** Fragrant and enhanced with refined camphor, green cardamom, and rich musk, please accept this cool, pristine, pure water for ceremonial sipping (*ācamana*). Salutations to Goddess Jyeṣṭhā; I offer water for sipping.\n\n---\n\n"
+      "sourceMarkdown": "> karpūrailāmṛgamadaiḥ suvāsair upaśobhitam |  \n> gṛhāṇācamanīyaṃ ca śiśiraṃ vimalaṃ jalam ||  \n> **jyeṣṭhādevyai namaḥ | ācamanaṃ samarpayāmi ||**\n\n**Meaning:** Fragrant and enhanced with refined camphor, green cardamom, and rich musk, please accept this cool, pristine, pure water for ceremonial sipping (*ācamana*). Salutations to Goddess Jyeṣṭhā; I offer water for sipping.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-12.mp3",
+      "start": "0:00.00",
+      "end": "0:13.45",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "13",
@@ -253,7 +378,16 @@
           "text": "dadhyājyamadhusaṃmiśraṃ madhuparkaṃ sumañjulam |\ndevīnām api devi tvaṃ gṛhāṇābhīṣṭadāyini ||\n\njyeṣṭhādevyai namaḥ | madhuparkaṃ samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> dadhyājyamadhusaṃmiśraṃ madhuparkaṃ sumañjulam |  \n> devīnām api devi tvaṃ gṛhāṇābhīṣṭadāyini ||  \n> **jyeṣṭhādevyai namaḥ | madhuparkaṃ samarpayāmi ||**\n\n**Meaning:** Prepared from a harmonious blend of curd/yogurt, clarified butter (ghee), and pure honey—this delightfully sweet *madhuparka*—O Goddess supreme even among all divinities, fulfiller of all wishes, please accept it! Salutations to Goddess Jyeṣṭhā; I offer madhuparka.\n\n---\n\n"
+      "sourceMarkdown": "> dadhyājyamadhusaṃmiśraṃ madhuparkaṃ sumañjulam |  \n> devīnām api devi tvaṃ gṛhāṇābhīṣṭadāyini ||  \n> **jyeṣṭhādevyai namaḥ | madhuparkaṃ samarpayāmi ||**\n\n**Meaning:** Prepared from a harmonious blend of curd/yogurt, clarified butter (ghee), and pure honey—this delightfully sweet *madhuparka*—O Goddess supreme even among all divinities, fulfiller of all wishes, please accept it! Salutations to Goddess Jyeṣṭhā; I offer madhuparka.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-13.mp3",
+      "start": "0:00.00",
+      "end": "0:14.25",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "14",
@@ -272,7 +406,16 @@
           "text": "nadīnadasamudbhūtaṃ pavitraṃ nirmalaṃ jalam |\npunarācamanaṃ devi gṛhāṇa jagadambike ||\n\njyeṣṭhādevyai namaḥ | punarācamanīyaṃ samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> nadīnadasamudbhūtaṃ pavitraṃ nirmalaṃ jalam |  \n> punarācamanaṃ devi gṛhāṇa jagadambike ||  \n> **jyeṣṭhādevyai namaḥ | punarācamanīyaṃ samarpayāmi ||**\n\n**Meaning:** Originating from sacred rivers and pristine holy streams, pure and clear, please accept this water for sipping once again, O Divine Mother of the Universe! Salutations to Goddess Jyeṣṭhā; I offer this second water for sipping.\n\n---\n\n"
+      "sourceMarkdown": "> nadīnadasamudbhūtaṃ pavitraṃ nirmalaṃ jalam |  \n> punarācamanaṃ devi gṛhāṇa jagadambike ||  \n> **jyeṣṭhādevyai namaḥ | punarācamanīyaṃ samarpayāmi ||**\n\n**Meaning:** Originating from sacred rivers and pristine holy streams, pure and clear, please accept this water for sipping once again, O Divine Mother of the Universe! Salutations to Goddess Jyeṣṭhā; I offer this second water for sipping.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-14.mp3",
+      "start": "0:00.00",
+      "end": "0:13.67",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "15",
@@ -291,7 +434,16 @@
           "text": "pañcāmṛtena snapanaṃ kariṣye bhaktavatsale |\npayo dadhi ghṛtaṃ caiva mākṣikaṃ śarkarāyutam ||\n\njyeṣṭhādevyai namaḥ | pañcāmṛtasnānaṃ samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> pañcāmṛtena snapanaṃ kariṣye bhaktavatsale |  \n> payo dadhi ghṛtaṃ caiva mākṣikaṃ śarkarāyutam ||  \n> **jyeṣṭhādevyai namaḥ | pañcāmṛtasnānaṃ samarpayāmi ||**\n\n**Meaning:** O Loving Protector of devotees, I perform Your ceremonial holy bath with the five sacred nectars: fresh milk, curd, ghee, wild honey, and refined sugar. Salutations to Goddess Jyeṣṭhā; I offer the pañcāmṛta bath.\n\n---\n\n"
+      "sourceMarkdown": "> pañcāmṛtena snapanaṃ kariṣye bhaktavatsale |  \n> payo dadhi ghṛtaṃ caiva mākṣikaṃ śarkarāyutam ||  \n> **jyeṣṭhādevyai namaḥ | pañcāmṛtasnānaṃ samarpayāmi ||**\n\n**Meaning:** O Loving Protector of devotees, I perform Your ceremonial holy bath with the five sacred nectars: fresh milk, curd, ghee, wild honey, and refined sugar. Salutations to Goddess Jyeṣṭhā; I offer the pañcāmṛta bath.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-15.mp3",
+      "start": "0:00.00",
+      "end": "0:14.32",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "16",
@@ -310,7 +462,16 @@
           "text": "mandākinyā samānītaṃ hemāmbhoruhavāsitam |\nsnānārthaṃ te mayā dattaṃ gṛhāṇa jagadambike ||\n\njyeṣṭhādevyai namaḥ | śuddhodakasnānaṃ samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> mandākinyā samānītaṃ hemāmbhoruhavāsitam |  \n> snānārthaṃ te mayā dattaṃ gṛhāṇa jagadambike ||  \n> **jyeṣṭhādevyai namaḥ | śuddhodakasnānaṃ samarpayāmi ||**\n\n**Meaning:** Brought forth from the celestial Gaṅgā (Mandākinī), scented with golden lotus blossoms, this pure water is offered by me for Your bath; please accept it, O Mother of the Universe! Salutations to Goddess Jyeṣṭhā; I offer the pure water bath.\n\n---\n\n"
+      "sourceMarkdown": "> mandākinyā samānītaṃ hemāmbhoruhavāsitam |  \n> snānārthaṃ te mayā dattaṃ gṛhāṇa jagadambike ||  \n> **jyeṣṭhādevyai namaḥ | śuddhodakasnānaṃ samarpayāmi ||**\n\n**Meaning:** Brought forth from the celestial Gaṅgā (Mandākinī), scented with golden lotus blossoms, this pure water is offered by me for Your bath; please accept it, O Mother of the Universe! Salutations to Goddess Jyeṣṭhā; I offer the pure water bath.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-16.mp3",
+      "start": "0:00.00",
+      "end": "0:15.00",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "17",
@@ -329,7 +490,16 @@
           "text": "kauśeyavasanaṃ divyaṃ kañcukena samanvitam |\nupavastreṇa saṃvītaṃ gṛhāṇa parameśvari ||\n\njyeṣṭhādevyai namaḥ | vastropavastrāṇi samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> kauśeyavasanaṃ divyaṃ kañcukena samanvitam |  \n> upavastreṇa saṃvītaṃ gṛhāṇa parameśvari ||  \n> **jyeṣṭhādevyai namaḥ | vastropavastrāṇi samarpayāmi ||**\n\n**Meaning:** Please accept these exquisite divine silk garments (*kauśeya-vasana*), accompanied by an auspicious blouse/bodice (*kañcuka*) and draped with an upper cloth (*upavastra*), O Supreme Goddess! Salutations to Goddess Jyeṣṭhā; I offer sacred garments and vestments.\n\n---\n\n"
+      "sourceMarkdown": "> kauśeyavasanaṃ divyaṃ kañcukena samanvitam |  \n> upavastreṇa saṃvītaṃ gṛhāṇa parameśvari ||  \n> **jyeṣṭhādevyai namaḥ | vastropavastrāṇi samarpayāmi ||**\n\n**Meaning:** Please accept these exquisite divine silk garments (*kauśeya-vasana*), accompanied by an auspicious blouse/bodice (*kañcuka*) and draped with an upper cloth (*upavastra*), O Supreme Goddess! Salutations to Goddess Jyeṣṭhā; I offer sacred garments and vestments.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-17.mp3",
+      "start": "0:00.00",
+      "end": "0:13.60",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "18",
@@ -348,7 +518,16 @@
           "text": "imaṃ gandhaṃ mahaddivyaṃ kuṅkumena samanvitam |\nvilepanārthaṃ te dattaṃ gṛhāṇa varadā bhava ||\n\njyeṣṭhādevyai namaḥ | gandhaṃ samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> imaṃ gandhaṃ mahaddivyaṃ kuṅkumena samanvitam |  \n> vilepanārthaṃ te dattaṃ gṛhāṇa varadā bhava ||  \n> **jyeṣṭhādevyai namaḥ | gandhaṃ samarpayāmi ||**\n\n**Meaning:** This extraordinarily divine sandalwood paste, enriched with sacred red vermilion (*kuṅkuma*), is offered for anointing Your divine form; please accept it and bestow Your boons upon us! Salutations to Goddess Jyeṣṭhā; I offer sacred fragrant sandalpaste.\n\n---\n\n"
+      "sourceMarkdown": "> imaṃ gandhaṃ mahaddivyaṃ kuṅkumena samanvitam |  \n> vilepanārthaṃ te dattaṃ gṛhāṇa varadā bhava ||  \n> **jyeṣṭhādevyai namaḥ | gandhaṃ samarpayāmi ||**\n\n**Meaning:** This extraordinarily divine sandalwood paste, enriched with sacred red vermilion (*kuṅkuma*), is offered for anointing Your divine form; please accept it and bestow Your boons upon us! Salutations to Goddess Jyeṣṭhā; I offer sacred fragrant sandalpaste.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-18.mp3",
+      "start": "0:00.00",
+      "end": "0:13.55",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "19",
@@ -367,7 +546,16 @@
           "text": "kajjalaṃ caiva sindūraṃ haridrākuṅkumāni ca |\nbhaktyā mayārpitānīśe jyeṣṭhāgauri gṛhāṇa bho ||\n\njyeṣṭhādevyai namaḥ | haridrākuṅkuma-saubhāgyadravyāṇi samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> kajjalaṃ caiva sindūraṃ haridrākuṅkumāni ca |  \n> bhaktyā mayārpitānīśe jyeṣṭhāgauri gṛhāṇa bho ||  \n> **jyeṣṭhādevyai namaḥ | haridrākuṅkuma-saubhāgyadravyāṇi samarpayāmi ||**\n\n**Meaning:** Eye collyrium (*kajjala*), red vermilion (*sindūra*), sacred turmeric (*haridrā*), and kuṅkuma—all these tokens of marital auspiciousness and fortune offered by me with heartfelt devotion, O Sovereign Lady, O Jyeṣṭhā Gauri, please accept them! Salutations to Goddess Jyeṣṭhā; I offer turmeric, vermilion, and all auspicious items.\n\n---\n\n"
+      "sourceMarkdown": "> kajjalaṃ caiva sindūraṃ haridrākuṅkumāni ca |  \n> bhaktyā mayārpitānīśe jyeṣṭhāgauri gṛhāṇa bho ||  \n> **jyeṣṭhādevyai namaḥ | haridrākuṅkuma-saubhāgyadravyāṇi samarpayāmi ||**\n\n**Meaning:** Eye collyrium (*kajjala*), red vermilion (*sindūra*), sacred turmeric (*haridrā*), and kuṅkuma—all these tokens of marital auspiciousness and fortune offered by me with heartfelt devotion, O Sovereign Lady, O Jyeṣṭhā Gauri, please accept them! Salutations to Goddess Jyeṣṭhā; I offer turmeric, vermilion, and all auspicious items.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-19.mp3",
+      "start": "0:00.00",
+      "end": "0:16.23",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "20",
@@ -386,7 +574,16 @@
           "text": "nānāvidhāni mālyāni sugandhīni haripriye |\njyeṣṭhāgauri gṛhāṇa tvaṃ prasādābhimukhī bhava ||\n\njyeṣṭhādevyai namaḥ | puṣpāṇi samarpayāmi ||"
         }
       ],
-      "sourceMarkdown": "> nānāvidhāni mālyāni sugandhīni haripriye |  \n> jyeṣṭhāgauri gṛhāṇa tvaṃ prasādābhimukhī bhava ||  \n> **jyeṣṭhādevyai namaḥ | puṣpāṇi samarpayāmi ||**\n\n**Meaning:** Diverse varieties of fragrant flower garlands, delightfully scented, O beloved consort of Lord Hari, O Jyeṣṭhā Gauri, please accept them and shower Your gracious favor upon us! Salutations to Goddess Jyeṣṭhā; I offer holy flowers.\n\n---\n\n"
+      "sourceMarkdown": "> nānāvidhāni mālyāni sugandhīni haripriye |  \n> jyeṣṭhāgauri gṛhāṇa tvaṃ prasādābhimukhī bhava ||  \n> **jyeṣṭhādevyai namaḥ | puṣpāṇi samarpayāmi ||**\n\n**Meaning:** Diverse varieties of fragrant flower garlands, delightfully scented, O beloved consort of Lord Hari, O Jyeṣṭhā Gauri, please accept them and shower Your gracious favor upon us! Salutations to Goddess Jyeṣṭhā; I offer holy flowers.\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-20.mp3",
+      "start": "0:00.00",
+      "end": "0:13.88",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "21",
@@ -405,7 +602,16 @@
           "text": "oṃ lakṣmyai namaḥ |\noṃ śivāyai namaḥ |\noṃ śrīyai namaḥ |\noṃ mahiṣamardinyai namaḥ |\noṃ siṃhavāhinyai namaḥ |\noṃ girivāsinyai namaḥ |\noṃ padmavāsinyai namaḥ |\noṃ bhakteṣṭadāyai namaḥ |\noṃ aghorāyai namaḥ |\noṃ kāmarūpiṇyai namaḥ |\noṃ śubhāyai namaḥ |\noṃ bhagavatyai namaḥ ||"
         }
       ],
-      "sourceMarkdown": "1. **oṃ lakṣmyai namaḥ |** *(Salutations to Goddess Lakṣmī, the embodiment of auspicious fortune)*\n2. **oṃ śivāyai namaḥ |** *(Salutations to the Auspicious, Benevolent Divine Power)*\n3. **oṃ śrīyai namaḥ |** *(Salutations to Goddess Śrī, the essence of beauty and abundance)*\n4. **oṃ mahiṣamardinyai namaḥ |** *(Salutations to the Victor over the buffalo-demon Mahiṣa)*\n5. **oṃ siṃhavāhinyai namaḥ |** *(Salutations to the One who rides the majestic Lion)*\n6. **oṃ girivāsinyai namaḥ |** *(Salutations to the Dweller on the Sacred Mountains)*\n7. **oṃ padmavāsinyai namaḥ |** *(Salutations to the One seated in the pure Lotus)*\n8. **oṃ bhakteṣṭadāyai namaḥ |** *(Salutations to the Bestower of all wishes of Her devotees)*\n9. **oṃ aghorāyai namaḥ |** *(Salutations to the Non-terrifying, supremely Gentle Divine Form)*\n10. **oṃ kāmarūpiṇyai namaḥ |** *(Salutations to the One capable of assuming any cherished form)*\n11. **oṃ śubhāyai namaḥ |** *(Salutations to the Pure and Auspicious One)*\n12. **oṃ bhagavatyai namaḥ ||** *(Salutations to the Supreme Goddess possessing all divine opulences)*\n\n"
+      "sourceMarkdown": "1. **oṃ lakṣmyai namaḥ |** *(Salutations to Goddess Lakṣmī, the embodiment of auspicious fortune)*\n2. **oṃ śivāyai namaḥ |** *(Salutations to the Auspicious, Benevolent Divine Power)*\n3. **oṃ śrīyai namaḥ |** *(Salutations to Goddess Śrī, the essence of beauty and abundance)*\n4. **oṃ mahiṣamardinyai namaḥ |** *(Salutations to the Victor over the buffalo-demon Mahiṣa)*\n5. **oṃ siṃhavāhinyai namaḥ |** *(Salutations to the One who rides the majestic Lion)*\n6. **oṃ girivāsinyai namaḥ |** *(Salutations to the Dweller on the Sacred Mountains)*\n7. **oṃ padmavāsinyai namaḥ |** *(Salutations to the One seated in the pure Lotus)*\n8. **oṃ bhakteṣṭadāyai namaḥ |** *(Salutations to the Bestower of all wishes of Her devotees)*\n9. **oṃ aghorāyai namaḥ |** *(Salutations to the Non-terrifying, supremely Gentle Divine Form)*\n10. **oṃ kāmarūpiṇyai namaḥ |** *(Salutations to the One capable of assuming any cherished form)*\n11. **oṃ śubhāyai namaḥ |** *(Salutations to the Pure and Auspicious One)*\n12. **oṃ bhagavatyai namaḥ ||** *(Salutations to the Supreme Goddess possessing all divine opulences)*\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-21.mp3",
+      "start": "0:00.00",
+      "end": "0:27.79",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Transcript differences: teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": true
     },
     {
       "id": "22",
@@ -424,7 +630,16 @@
           "text": "oṃ bhagavatyai namaḥ | pādau pūjayāmi |\n\noṃ gauryai namaḥ | jānunī pūjayāmi |\n\noṃ maṅgaladevatāyai namaḥ | kaṭiṃ pūjayāmi |\n\noṃ māheśvaryai namaḥ | udaraṃ pūjayāmi |\n\noṃ padmavāsinyai namaḥ | hṛdayaṃ pūjayāmi |\n\noṃ kātyāyanyai namaḥ | bāhūn pūjayāmi |\n\noṃ jagajjananyai namaḥ | mukhaṃ pūjayāmi |\n\noṃ śatākṣyai namaḥ | netre pūjayāmi |\n\noṃ śākambharyai namaḥ | śiraḥ pūjayāmi |\n\noṃ jyeṣṭhādevyai namaḥ | sarvāṅgāni pūjayāmi ||"
         }
       ],
-      "sourceMarkdown": "- **oṃ bhagavatyai namaḥ | pādau pūjayāmi |**  \n  *(Salutations to the Supreme Goddess; I worship the holy feet)*\n- **oṃ gauryai namaḥ | jānunī pūjayāmi |**  \n  *(Salutations to the Golden Radiant Goddess; I worship the knees)*\n- **oṃ maṅgaladevatāyai namaḥ | kaṭiṃ pūjayāmi |**  \n  *(Salutations to the Goddess of All Auspiciousness; I worship the waist)*\n- **oṃ māheśvaryai namaḥ | udaraṃ pūjayāmi |**  \n  *(Salutations to the Great Sovereign Lady; I worship the abdomen)*\n- **oṃ padmavāsinyai namaḥ | hṛdayaṃ pūjayāmi |**  \n  *(Salutations to the Dweller in the Lotus; I worship the heart)*\n- **oṃ kātyāyanyai namaḥ | bāhūn pūjayāmi |**  \n  *(Salutations to the Divine Daughter Kātyāyanī; I worship the arms)*\n- **oṃ jagajjananyai namaḥ | mukhaṃ pūjayāmi |**  \n  *(Salutations to the Mother of the Cosmos; I worship the divine countenance)*\n- **oṃ śatākṣyai namaḥ | netre pūjayāmi |**  \n  *(Salutations to the Hundred-Eyed Vigilant Protectress; I worship the eyes)*\n- **oṃ śākambharyai namaḥ | śiraḥ pūjayāmi |**  \n  *(Salutations to the Sustainer through all Vegetation; I worship the crown of the head)*\n- **oṃ jyeṣṭhādevyai namaḥ | sarvāṅgāni pūjayāmi ||**  \n  *(Salutations to Goddess Jyeṣṭhā; I worship all limbs of Her divine form)*\n\n---\n\n"
+      "sourceMarkdown": "- **oṃ bhagavatyai namaḥ | pādau pūjayāmi |**  \n  *(Salutations to the Supreme Goddess; I worship the holy feet)*\n- **oṃ gauryai namaḥ | jānunī pūjayāmi |**  \n  *(Salutations to the Golden Radiant Goddess; I worship the knees)*\n- **oṃ maṅgaladevatāyai namaḥ | kaṭiṃ pūjayāmi |**  \n  *(Salutations to the Goddess of All Auspiciousness; I worship the waist)*\n- **oṃ māheśvaryai namaḥ | udaraṃ pūjayāmi |**  \n  *(Salutations to the Great Sovereign Lady; I worship the abdomen)*\n- **oṃ padmavāsinyai namaḥ | hṛdayaṃ pūjayāmi |**  \n  *(Salutations to the Dweller in the Lotus; I worship the heart)*\n- **oṃ kātyāyanyai namaḥ | bāhūn pūjayāmi |**  \n  *(Salutations to the Divine Daughter Kātyāyanī; I worship the arms)*\n- **oṃ jagajjananyai namaḥ | mukhaṃ pūjayāmi |**  \n  *(Salutations to the Mother of the Cosmos; I worship the divine countenance)*\n- **oṃ śatākṣyai namaḥ | netre pūjayāmi |**  \n  *(Salutations to the Hundred-Eyed Vigilant Protectress; I worship the eyes)*\n- **oṃ śākambharyai namaḥ | śiraḥ pūjayāmi |**  \n  *(Salutations to the Sustainer through all Vegetation; I worship the crown of the head)*\n- **oṃ jyeṣṭhādevyai namaḥ | sarvāṅgāni pūjayāmi ||**  \n  *(Salutations to Goddess Jyeṣṭhā; I worship all limbs of Her divine form)*\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-22.mp3",
+      "start": "0:00.00",
+      "end": "0:37.61",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "23",
@@ -443,7 +658,16 @@
           "text": "oṃ bhagavatyai namaḥ | prathamagranthiṃ pūjayāmi |\n\noṃ śrīyai namaḥ | dvitīyagranthiṃ pūjayāmi |\n\noṃ gauryai namaḥ | tṛtīyagranthiṃ pūjayāmi |\n\noṃ śivāyai namaḥ | caturthagranthiṃ pūjayāmi |\n\noṃ maṅgaladevatāyai namaḥ | pañcamagranthiṃ pūjayāmi |\n\noṃ jaganmāyāyai namaḥ | ṣaṣṭhagranthiṃ pūjayāmi |\n\noṃ māheśvaryai namaḥ | saptamagranthiṃ pūjayāmi |\n\noṃ padmavāsinyai namaḥ | aṣṭamagranthiṃ pūjayāmi |\n\noṃ kātyāyanyai namaḥ | navamagranthiṃ pūjayāmi |\n\noṃ śivadūtyai namaḥ | daśamagranthiṃ pūjayāmi |\n\noṃ jagajjananyai namaḥ | ekādaśagranthiṃ pūjayāmi |\n\noṃ bhuvaneśvaryai namaḥ | dvādaśagranthiṃ pūjayāmi |\n\noṃ kāmitārthapradāyinyai namaḥ | trayodaśagranthiṃ pūjayāmi |\n\noṃ śatākṣyai namaḥ | caturdaśagranthiṃ pūjayāmi |\n\noṃ parameśvaryai namaḥ | pañcadaśagranthiṃ pūjayāmi |\n\noṃ śākambharyai namaḥ | ṣoḍaśagranthiṃ pūjayāmi ||"
         }
       ],
-      "sourceMarkdown": "*(Source: p. 9)*\n\n*(Worship performed upon the sacred cord constructed with 16 strands of yarn, tied into 16 sanctified knots and consecrated with red vermilion/kuṅkuma).*\n\n1. **oṃ bhagavatyai namaḥ | prathamagranthiṃ pūjayāmi |**  \n   *(Salutations to the Supreme Goddess; I worship the 1st knot)*\n2. **oṃ śrīyai namaḥ | dvitīyagranthiṃ pūjayāmi |**  \n   *(Salutations to Goddess Śrī; I worship the 2nd knot)*\n3. **oṃ gauryai namaḥ | tṛtīyagranthiṃ pūjayāmi |**  \n   *(Salutations to Goddess Gaurī; I worship the 3rd knot)*\n4. **oṃ śivāyai namaḥ | caturthagranthiṃ pūjayāmi |**  \n   *(Salutations to the Auspicious Goddess; I worship the 4th knot)*\n5. **oṃ maṅgaladevatāyai namaḥ | pañcamagranthiṃ pūjayāmi |**  \n   *(Salutations to the Deity of Auspiciousness; I worship the 5th knot)*\n6. **oṃ jaganmāyāyai namaḥ | ṣaṣṭhagranthiṃ pūjayāmi |**  \n   *(Salutations to the Cosmic Creative Energy; I worship the 6th knot)*\n7. **oṃ māheśvaryai namaḥ | saptamagranthiṃ pūjayāmi |**  \n   *(Salutations to the Supreme Sovereign Power; I worship the 7th knot)*\n8. **oṃ padmavāsinyai namaḥ | aṣṭamagranthiṃ pūjayāmi |**  \n   *(Salutations to the Lotus-Dwelling Goddess; I worship the 8th knot)*\n9. **oṃ kātyāyanyai namaḥ | navamagranthiṃ pūjayāmi |**  \n   *(Salutations to Goddess Kātyāyanī; I worship the 9th knot)*\n10. **oṃ śivadūtyai namaḥ | daśamagranthiṃ pūjayāmi |**  \n    *(Salutations to Goddess Śivadūtī; I worship the 10th knot)*\n11. **oṃ jagajjananyai namaḥ | ekādaśagranthiṃ pūjayāmi |**  \n    *(Salutations to the Mother of the Universe; I worship the 11th knot)*\n12. **oṃ bhuvaneśvaryai namaḥ | dvādaśagranthiṃ pūjayāmi |**  \n    *(Salutations to the Ruler of the Cosmic Worlds; I worship the 12th knot)*\n13. **oṃ kāmitārthapradāyinyai namaḥ | trayodaśagranthiṃ pūjayāmi |**  \n    *(Salutations to the Fulfiller of Desired Goals; I worship the 13th knot)*\n14. **oṃ śatākṣyai namaḥ | caturdaśagranthiṃ pūjayāmi |**  \n    *(Salutations to Goddess Śatākṣī; I worship the 14th knot)*\n15. **oṃ parameśvaryai namaḥ | pañcadaśagranthiṃ pūjayāmi |**  \n    *(Salutations to the Transcendent Sovereign Goddess; I worship the 15th knot)*\n16. **oṃ śākambharyai namaḥ | ṣoḍaśagranthiṃ pūjayāmi ||**  \n    *(Salutations to Goddess Śākambharī; I worship the 16th knot)*\n\n---\n\n"
+      "sourceMarkdown": "*(Source: p. 9)*\n\n*(Worship performed upon the sacred cord constructed with 16 strands of yarn, tied into 16 sanctified knots and consecrated with red vermilion/kuṅkuma).*\n\n1. **oṃ bhagavatyai namaḥ | prathamagranthiṃ pūjayāmi |**  \n   *(Salutations to the Supreme Goddess; I worship the 1st knot)*\n2. **oṃ śrīyai namaḥ | dvitīyagranthiṃ pūjayāmi |**  \n   *(Salutations to Goddess Śrī; I worship the 2nd knot)*\n3. **oṃ gauryai namaḥ | tṛtīyagranthiṃ pūjayāmi |**  \n   *(Salutations to Goddess Gaurī; I worship the 3rd knot)*\n4. **oṃ śivāyai namaḥ | caturthagranthiṃ pūjayāmi |**  \n   *(Salutations to the Auspicious Goddess; I worship the 4th knot)*\n5. **oṃ maṅgaladevatāyai namaḥ | pañcamagranthiṃ pūjayāmi |**  \n   *(Salutations to the Deity of Auspiciousness; I worship the 5th knot)*\n6. **oṃ jaganmāyāyai namaḥ | ṣaṣṭhagranthiṃ pūjayāmi |**  \n   *(Salutations to the Cosmic Creative Energy; I worship the 6th knot)*\n7. **oṃ māheśvaryai namaḥ | saptamagranthiṃ pūjayāmi |**  \n   *(Salutations to the Supreme Sovereign Power; I worship the 7th knot)*\n8. **oṃ padmavāsinyai namaḥ | aṣṭamagranthiṃ pūjayāmi |**  \n   *(Salutations to the Lotus-Dwelling Goddess; I worship the 8th knot)*\n9. **oṃ kātyāyanyai namaḥ | navamagranthiṃ pūjayāmi |**  \n   *(Salutations to Goddess Kātyāyanī; I worship the 9th knot)*\n10. **oṃ śivadūtyai namaḥ | daśamagranthiṃ pūjayāmi |**  \n    *(Salutations to Goddess Śivadūtī; I worship the 10th knot)*\n11. **oṃ jagajjananyai namaḥ | ekādaśagranthiṃ pūjayāmi |**  \n    *(Salutations to the Mother of the Universe; I worship the 11th knot)*\n12. **oṃ bhuvaneśvaryai namaḥ | dvādaśagranthiṃ pūjayāmi |**  \n    *(Salutations to the Ruler of the Cosmic Worlds; I worship the 12th knot)*\n13. **oṃ kāmitārthapradāyinyai namaḥ | trayodaśagranthiṃ pūjayāmi |**  \n    *(Salutations to the Fulfiller of Desired Goals; I worship the 13th knot)*\n14. **oṃ śatākṣyai namaḥ | caturdaśagranthiṃ pūjayāmi |**  \n    *(Salutations to Goddess Śatākṣī; I worship the 14th knot)*\n15. **oṃ parameśvaryai namaḥ | pañcadaśagranthiṃ pūjayāmi |**  \n    *(Salutations to the Transcendent Sovereign Goddess; I worship the 15th knot)*\n16. **oṃ śākambharyai namaḥ | ṣoḍaśagranthiṃ pūjayāmi ||**  \n    *(Salutations to Goddess Śākambharī; I worship the 16th knot)*\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-23.mp3",
+      "start": "0:00.00",
+      "end": "1:11.91",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Transcript differences: teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": true
     },
     {
       "id": "24",
@@ -462,7 +686,16 @@
           "text": "vanaspatirasodbhūtaṃ nānāgandhasamanvitam |\ndaśāṅgasahitaṃ divyaṃ dhūpaṃ devi gṛhāṇa bho ||"
         }
       ],
-      "sourceMarkdown": "> vanaspatirasodbhūtaṃ nānāgandhasamanvitam |  \n> daśāṅgasahitaṃ divyaṃ dhūpaṃ devi gṛhāṇa bho ||\n\n**Meaning:** Formed from the pure sap and essences of aromatic trees and herbs, combined with various delightful fragrances and the ten traditional auspicious herbal ingredients (*daśāṅga*), please accept this divine incense offering, O Goddess!\n\n---\n\n"
+      "sourceMarkdown": "> vanaspatirasodbhūtaṃ nānāgandhasamanvitam |  \n> daśāṅgasahitaṃ divyaṃ dhūpaṃ devi gṛhāṇa bho ||\n\n**Meaning:** Formed from the pure sap and essences of aromatic trees and herbs, combined with various delightful fragrances and the ten traditional auspicious herbal ingredients (*daśāṅga*), please accept this divine incense offering, O Goddess!\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-24.mp3",
+      "start": "0:00.00",
+      "end": "0:09.05",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "25",
@@ -481,7 +714,16 @@
           "text": "divyaṃ tamoharaṃ jyotsnā jñānasaṃbodhakaṃ śubham |\ndīpaṃ gṛhāṇa mātas tvaṃ aparādhaśatāpaham ||"
         }
       ],
-      "sourceMarkdown": "> divyaṃ tamoharaṃ jyotsnā jñānasaṃbodhakaṃ śubham |  \n> dīpaṃ gṛhāṇa mātas tvaṃ aparādhaśatāpaham ||\n\n**Meaning:** Divine, dispeller of outer and inner darkness, illuminating radiant light and awakening spiritual wisdom, auspicious and removing hundreds of inadvertent faults and transgressions—please accept this holy lighted lamp, O Divine Mother!\n\n---\n\n"
+      "sourceMarkdown": "> divyaṃ tamoharaṃ jyotsnā jñānasaṃbodhakaṃ śubham |  \n> dīpaṃ gṛhāṇa mātas tvaṃ aparādhaśatāpaham ||\n\n**Meaning:** Divine, dispeller of outer and inner darkness, illuminating radiant light and awakening spiritual wisdom, auspicious and removing hundreds of inadvertent faults and transgressions—please accept this holy lighted lamp, O Divine Mother!\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-25.mp3",
+      "start": "0:00.00",
+      "end": "0:10.13",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Transcript differences: teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": true
     },
     {
       "id": "26",
@@ -500,7 +742,16 @@
           "text": "nānāvidhāni bhakṣyāṇi vyañjanāni haripriye |\ngṛhāṇa devi naivedyaṃ sukhadaṃ sarvadehinām ||"
         }
       ],
-      "sourceMarkdown": "> nānāvidhāni bhakṣyāṇi vyañjanāni haripriye |  \n> gṛhāṇa devi naivedyaṃ sukhadaṃ sarvadehinām ||  \n> *(viśeṣavāgi 16 apūpagaḷu / appagaḷannu naivedya māḍuvudu)*\n\n**Meaning:** Diverse varieties of delicacies, savory dishes, sweets, and condiments, O beloved of Lord Hari—please accept this food offering (*naivedya*), which brings joy and nourishment to all embodied beings! *(Specially offer 16 sweet fried cakes/apūpas).*\n\n---\n\n"
+      "sourceMarkdown": "> nānāvidhāni bhakṣyāṇi vyañjanāni haripriye |  \n> gṛhāṇa devi naivedyaṃ sukhadaṃ sarvadehinām ||  \n> *(viśeṣavāgi 16 apūpagaḷu / appagaḷannu naivedya māḍuvudu)*\n\n**Meaning:** Diverse varieties of delicacies, savory dishes, sweets, and condiments, O beloved of Lord Hari—please accept this food offering (*naivedya*), which brings joy and nourishment to all embodied beings! *(Specially offer 16 sweet fried cakes/apūpas).*\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-26.mp3",
+      "start": "0:00.00",
+      "end": "0:09.43",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "27",
@@ -519,7 +770,16 @@
           "text": "pūgīphalaṃ mahaddivyaṃ elākarpūravāsitam |\ntāmbūlaṃ gṛhyatāṃ devi mayā dattaṃ śubhaprade ||"
         }
       ],
-      "sourceMarkdown": "> pūgīphalaṃ mahaddivyaṃ elākarpūravāsitam |  \n> tāmbūlaṃ gṛhyatāṃ devi mayā dattaṃ śubhaprade ||\n\n**Meaning:** Excellent areca nuts (*pūgīphala*), perfumed with green cardamom and fragrant edible camphor, wrapped in betel leaves—please accept this tāmbūla offering presented by me, O Bestower of all blessings and auspiciousness!\n\n---\n\n"
+      "sourceMarkdown": "> pūgīphalaṃ mahaddivyaṃ elākarpūravāsitam |  \n> tāmbūlaṃ gṛhyatāṃ devi mayā dattaṃ śubhaprade ||\n\n**Meaning:** Excellent areca nuts (*pūgīphala*), perfumed with green cardamom and fragrant edible camphor, wrapped in betel leaves—please accept this tāmbūla offering presented by me, O Bestower of all blessings and auspiciousness!\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-27.mp3",
+      "start": "0:00.00",
+      "end": "0:10.19",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "28",
@@ -551,7 +811,16 @@
           "text": "viṣṇupriye padmahaste padmamadhyanivāsini |\njyeṣṭhe śreṣṭhe surāṇāṃ ca sarveṣāṃ ceṣṭadāyini ||\n\ndāridryaṃ me vyapohyāśu saubhāgyaṃ saukhyam eva ca |\nputrapautrādilābhaṃ ca dehi devi namo'stu te ||"
         }
       ],
-      "sourceMarkdown": "> viṣṇupriye padmahaste padmamadhyanivāsini |  \n> jyeṣṭhe śreṣṭhe surāṇāṃ ca sarveṣāṃ ceṣṭadāyini ||\n>\n> dāridryaṃ me vyapohyāśu saubhāgyaṃ saukhyam eva ca |  \n> putrapautrādilābhaṃ ca dehi devi namo'stu te ||\n\n**Meaning:**  \nO Beloved Consort of Lord Viṣṇu, You who hold a pristine lotus in Your hand and reside in the center of the blossoming lotus! O Foremost, Highest and Most Venerable Sovereign among all the celestials, Grantor of all cherished wishes to all beings!  \nDispel swiftly all poverty, hardship, and misery from my life, and bestow enduring fortune (*saubhāgya*), genuine peace and happiness (*saukhya*), and the blessing of noble children and grandchildren! O Goddess, salutations unto You!\n\n---\n\n"
+      "sourceMarkdown": "> viṣṇupriye padmahaste padmamadhyanivāsini |  \n> jyeṣṭhe śreṣṭhe surāṇāṃ ca sarveṣāṃ ceṣṭadāyini ||\n>\n> dāridryaṃ me vyapohyāśu saubhāgyaṃ saukhyam eva ca |  \n> putrapautrādilābhaṃ ca dehi devi namo'stu te ||\n\n**Meaning:**  \nO Beloved Consort of Lord Viṣṇu, You who hold a pristine lotus in Your hand and reside in the center of the blossoming lotus! O Foremost, Highest and Most Venerable Sovereign among all the celestials, Grantor of all cherished wishes to all beings!  \nDispel swiftly all poverty, hardship, and misery from my life, and bestow enduring fortune (*saubhāgya*), genuine peace and happiness (*saukhya*), and the blessing of noble children and grandchildren! O Goddess, salutations unto You!\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-29.mp3",
+      "start": "0:00.00",
+      "end": "0:20.27",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "30",
@@ -570,7 +839,16 @@
           "text": "kṣīrodārṇavasaṃjāte sarvasampatpradāyini |\njyeṣṭhādevi subadhnāmi doraṃ me'bhīṣṭadā bhava ||"
         }
       ],
-      "sourceMarkdown": "*(Tie the sacred cord while reciting)*:\n> kṣīrodārṇavasaṃjāte sarvasampatpradāyini |  \n> jyeṣṭhādevi subadhnāmi doraṃ me'bhīṣṭadā bhava ||\n\n**Meaning:**  \nO Goddess born from the great Ocean of Milk (*Kṣīrasāgara*), Bestower of all forms of wealth and prosperity! O Goddess Jyeṣṭhā, I firmly and reverently tie this sacred cord (*dora*); please be ever auspicious unto me and fulfill all my cherished prayers!\n\n---\n\n"
+      "sourceMarkdown": "*(Tie the sacred cord while reciting)*:\n> kṣīrodārṇavasaṃjāte sarvasampatpradāyini |  \n> jyeṣṭhādevi subadhnāmi doraṃ me'bhīṣṭadā bhava ||\n\n**Meaning:**  \nO Goddess born from the great Ocean of Milk (*Kṣīrasāgara*), Bestower of all forms of wealth and prosperity! O Goddess Jyeṣṭhā, I firmly and reverently tie this sacred cord (*dora*); please be ever auspicious unto me and fulfill all my cherished prayers!\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-30.mp3",
+      "start": "0:00.00",
+      "end": "0:09.67",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "31",
@@ -589,7 +867,16 @@
           "text": "ṣoḍaśāpūpabhakṣyāṇi satāmbūlaṃ sadakṣiṇam |\ntubhyaṃ dāsyāmi saṃprītyā jyeṣṭhālakṣmīḥ prīyatāṃ mama ||"
         }
       ],
-      "sourceMarkdown": "*(Gifting 16 sweet apūpas/delicacies with betel leaves and dakṣiṇā to a venerable sumangali/married woman)*:\n> ṣoḍaśāpūpabhakṣyāṇi satāmbūlaṃ sadakṣiṇam |  \n> tubhyaṃ dāsyāmi saṃprītyā jyeṣṭhālakṣmīḥ prīyatāṃ mama ||\n\n**Meaning:**  \nThese sixteen sweet cakes (*apūpas*), accompanied by betel leaf offerings (*tāmbūla*) and an auspicious monetary gift (*dakṣiṇā*), I lovingly gift unto you with deep joy; may Goddess Jyeṣṭhā Lakṣmī be pleased with me!\n\n---\n\n"
+      "sourceMarkdown": "*(Gifting 16 sweet apūpas/delicacies with betel leaves and dakṣiṇā to a venerable sumangali/married woman)*:\n> ṣoḍaśāpūpabhakṣyāṇi satāmbūlaṃ sadakṣiṇam |  \n> tubhyaṃ dāsyāmi saṃprītyā jyeṣṭhālakṣmīḥ prīyatāṃ mama ||\n\n**Meaning:**  \nThese sixteen sweet cakes (*apūpas*), accompanied by betel leaf offerings (*tāmbūla*) and an auspicious monetary gift (*dakṣiṇā*), I lovingly gift unto you with deep joy; may Goddess Jyeṣṭhā Lakṣmī be pleased with me!\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-31.mp3",
+      "start": "0:00.00",
+      "end": "0:10.63",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "32",
@@ -608,7 +895,16 @@
           "text": "yasya smṛtyā ca nāmoktyā tapaḥpūjākriyādiṣu |\nnyūnaṃ saṃpūrṇatāṃ yāti sadyo vande tam acyutam ||\n\njyeṣṭhālakṣmīdevyantargata-śrīlakṣmīnārāyaṇa-preraṇayā\nśrīkṛṣṇārpaṇam astu ||"
         }
       ],
-      "sourceMarkdown": "> yasya smṛtyā ca nāmoktyā tapaḥpūjākriyādiṣu |  \n> nyūnaṃ saṃpūrṇatāṃ yāti sadyo vande tam acyutam ||\n>\n> jyeṣṭhālakṣmīdevyantargata-śrīlakṣmīnārāyaṇa-preraṇayā  \n> śrīkṛṣṇārpaṇam astu ||\n\n**Meaning:**  \nBy remembering Whom and by reciting Whose holy names any deficiency in penance, worship, or ritual action instantly reaches complete perfection—I bow in adoration to that infallible Supreme Lord, Acyuta!  \nPrompted by the inspiration of Supreme Lord Śrī Lakṣmī-Nārāyaṇa dwelling within Goddess Śrī Jyeṣṭhā Lakṣmī, let all this worship be an offering unto Lord Śrī Kṛṣṇa!\n\n---\n\n"
+      "sourceMarkdown": "> yasya smṛtyā ca nāmoktyā tapaḥpūjākriyādiṣu |  \n> nyūnaṃ saṃpūrṇatāṃ yāti sadyo vande tam acyutam ||\n>\n> jyeṣṭhālakṣmīdevyantargata-śrīlakṣmīnārāyaṇa-preraṇayā  \n> śrīkṛṣṇārpaṇam astu ||\n\n**Meaning:**  \nBy remembering Whom and by reciting Whose holy names any deficiency in penance, worship, or ritual action instantly reaches complete perfection—I bow in adoration to that infallible Supreme Lord, Acyuta!  \nPrompted by the inspiration of Supreme Lord Śrī Lakṣmī-Nārāyaṇa dwelling within Goddess Śrī Jyeṣṭhā Lakṣmī, let all this worship be an offering unto Lord Śrī Kṛṣṇa!\n\n---\n\n",
+      "audio": true,
+      "audioFile": "audio15/jyeshtha-32.mp3",
+      "start": "0:00.00",
+      "end": "0:18.42",
+      "sourceVideo": "https://huggingface.co/prathoshap/vagdhenu",
+      "sanskrit": "AI-generated Sanskrit practice · Vāgdhenu · Teacher review required",
+      "syntheticAudio": true,
+      "audioReviewRequired": true,
+      "audioTranscriptDiscrepancy": false
     },
     {
       "id": "33",

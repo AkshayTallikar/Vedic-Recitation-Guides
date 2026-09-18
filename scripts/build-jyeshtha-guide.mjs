@@ -5,6 +5,11 @@ import { fileURLToPath } from 'node:url';
 const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const markdownPath = path.join(root, 'site/texts/Jyeshtha-Devi-Puja-Romanized-Sanskrit.md');
 const markdown = fs.readFileSync(markdownPath, 'utf8');
+const audioManifestPath = path.join(root, 'site/audio15/manifest.json');
+const audioManifest = fs.existsSync(audioManifestPath)
+  ? JSON.parse(fs.readFileSync(audioManifestPath, 'utf8')) : null;
+const audioById = new Map((audioManifest?.clips || []).map(clip => [clip.id, clip]));
+const timestamp = seconds => `${Math.floor(seconds / 60)}:${(seconds % 60).toFixed(2).padStart(5, '0')}`;
 const plain = text => text.replace(/\*\*/g, '').replace(/\*/g, '').replace(/`/g, '').trim();
 const groups = [...markdown.matchAll(/^## (\d+)\. (.+)\n([\s\S]*?)(?=^## |$(?![\s\S]))/gm)];
 if (groups.length !== 13) throw new Error('Expected all 13 manuscript groups');
@@ -95,7 +100,22 @@ for (const match of groups) {
       structuredBlocks:mantra ? [{kind:'mantra',sourceOriginal:mantra,text:mantra.replace(/(\|\|)(?=\n\S)/g,'$1\n')}] : [],
       sourceMarkdown:chunk.body
     };
-    if (group === 1) section.meaning += '\n\nText note: The Sanskrit follows the printed booklet, including its nonstandard sadgati-prakṛti and araṇyām readings. The invocation meaning interprets the intended fire-stick analogy. Source ellipses are retained. This booklet-based guide has no audio.';
+    if (group === 1) section.meaning += '\n\nText note: The Sanskrit follows the printed booklet, including its nonstandard sadgati-prakṛti and araṇyām readings. The invocation meaning interprets the intended fire-stick analogy. Source ellipses are retained.' + (audioManifest
+      ? '\n\nAudio note: AI-generated Sanskrit practice clips synthesized with Vāgdhenu. These are not recordings of a priest and are not an authoritative model of traditional pronunciation, metre, or Vedic accents. Su-śrotā ASR is a diagnostic transcription aid, not pronunciation certification. Follow your teacher or family tradition. Saṅkalpa placeholders must be completed for your circumstances.'
+      : ' This booklet-based guide has no audio.');
+    if (mantra && audioManifest) {
+      const clip = audioById.get(id);
+      if (!clip || clip.originalScript !== mantra || !(clip.duration > 0)) throw new Error(`Missing or mismatched audio for card ${id}`);
+      if (!fs.existsSync(path.join(root, 'site', clip.audioFile))) throw new Error(`Missing clip ${clip.audioFile}`);
+      const transcriptDiscrepancy = id === '02' || (clip.sourceWindows || []).some(unit => unit.diagnosticCer > 0.1);
+      Object.assign(section, {
+        audio:true, audioFile:clip.audioFile, start:'0:00.00', end:timestamp(clip.duration),
+        sourceVideo:'https://huggingface.co/prathoshap/vagdhenu',
+        sanskrit:'AI-generated Sanskrit practice · Vāgdhenu' + (transcriptDiscrepancy ? ' · Transcript differences: teacher review required' : ' · Teacher review required'),
+        syntheticAudio:true, audioReviewRequired:true, audioTranscriptDiscrepancy:transcriptDiscrepancy
+      });
+      if (id === '02') section.action += '\n\nPractice-audio note: The recording reads both printed weekday alternatives separately. During pūjā, choose the actual weekday and supply the information omitted by the booklet’s ellipses. This recording is not a completed, date-specific saṅkalpa.';
+    }
     if (group === 4) section.html = '<figure class="altar-illustration">' +
       '<a href="assets/jyeshtha-devi-altar.png" target="_blank" rel="noopener" aria-label="Open the altar illustration at full size">' +
       '<img src="assets/jyeshtha-devi-altar.png" alt="Illustrative Jyeshtha Devi altar: a kalasha on rice and an eight-petaled lotus beneath a canopy, with a knotted cord, puja bowls, flowers, apupa offering, and a lamp kept clear of cloth." width="1448" height="1086" loading="lazy" decoding="async"></a>' +
@@ -108,12 +128,17 @@ if (sections.length !== 33) throw new Error(`Expected 33 cards, found ${sections
 if (sections.filter(s => s.mantra).length !== 30) throw new Error('Expected 30 recitation cards');
 if (sections.some(s => s.mantra.includes('Meaning:') || s.mantra.includes('Salutations'))) throw new Error('English leaked into recitation');
 const guide = {
-  key:'jyeshtha-devi-puja', title:'Jyeṣṭhā Devī Pūjā', tabLabel:'Booklet · 33 text steps',
+  key:'jyeshtha-devi-puja', title:'Jyeṣṭhā Devī Pūjā', tabLabel:audioManifest ? 'Booklet · 30 practice clips' : 'Booklet · 33 text steps',
   noAudio:true, hideNotice:true, hideLosslessReferences:true, preserveMeaningLines:true,
   subtitle:'Romanized Sanskrit, English meanings, and ritual directions from the 2026 Kannada booklet',
   source:'texts/jyeshtha-devi-puja-kannada-2026.pdf', sourceLabel:'Kannada source booklet (PDF)',
-  sourceCredit:'Pt. Mahidas Achar Joshi · Vishva Madhwa Maha Parishat Granthamala 259 · Śrī Uttarādi Maṭha · 2026',
+  sourceCredit:'Pt. Mahidas Achar Joshi · Vishva Madhwa Maha Parishat Granthamala 259 · Śrī Uttarādi Maṭha · 2026' +
+    (audioManifest ? ' · AI practice audio: Vāgdhenu, Prathosh A P (IISc)' : ''),
   structuredMantraLabel:'Sanskrit recitation · IAST',
+  ...(audioManifest ? {
+    practiceMode:'repeat3', practiceLabel:'↻ 3× Practice', hideSourceWatchLinks:true,
+    audioDir:'audio15', audioProvenance:audioManifest.provenance
+  } : {}),
   sections
 };
 const output = '// Generated from the reviewed manuscript by scripts/build-jyeshtha-guide.mjs.\n' +

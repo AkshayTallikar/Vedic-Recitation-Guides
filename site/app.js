@@ -238,7 +238,7 @@
       var sectionStart = typeof s.startSeconds === 'number'
         ? s.startSeconds
         : (s.start ? toSec(s.start) : 0);
-      var ytLink = (hasAudio && sectionSource)
+      var ytLink = (hasAudio && sectionSource && !guide.hideSourceWatchLinks)
         ? sectionSource + (sectionSource.indexOf('?') > -1 ? '&' : '?') +
           't=' + Math.round(sectionStart) + 's'
         : '';
