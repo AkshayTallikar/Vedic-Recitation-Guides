@@ -1,0 +1,797 @@
+{
+  "provenance": {
+    "type": "synthetic-practice",
+    "ttsModel": "https://huggingface.co/prathoshap/vagdhenu",
+    "asrModel": "https://huggingface.co/prathoshap/sushrota-sanskrit-asr",
+    "asrCheckpoint": "sushrota_sanskrit_asr_v13b.nemo",
+    "voiceCheckpoint": "voice_steer_ema_2026-06-17.pt",
+    "vocoderCheckpoint": "voc_bigvgan_EMA_2026-06-11.pth",
+    "rendererSha256": "b751b782f21277811f57adcfc40927164eee9a41413e15ea76e195cd38741956",
+    "settings": {
+      "steps": 64,
+      "speed": 0.9,
+      "cfgStrength": 3,
+      "seed": 50,
+      "autocast": false,
+      "sampleRate": 24000,
+      "interUnitGap": 0.65
+    },
+    "asrLoading": "Original preprocessor, encoder and CTC tensors restored strictly; Sanskrit slice 4096–4351, blank 5632.",
+    "credit": "Prathosh A P, Indian Institute of Science, Bengaluru; Vāgdhenu, IndicF5 and NVIDIA BigVGAN.",
+    "warning": "AI-generated practice, not priest recordings or authoritative traditional pronunciation, metre or Vedic accents. ASR is diagnostic, not certification; human pronunciation review remains required.",
+    "sankalpa": "Both printed weekday alternatives are read separately. Supply the actual weekday and information omitted by the booklet’s ellipses."
+  },
+  "clips": [
+    {
+      "id": "02",
+      "title": "Saṅkalpa",
+      "originalScript": "ācamya, prāṇān āyamya, śubhe śobhane muhūrte, śrīgovinda govinda ... asmin vartamāne śrīparameṣṭhinaḥ dvitīyaparārdhe ... asmin vartamāne śubhasaṃvatsare, dakṣiṇāyane, varṣaṛtau, bhādrapada-māse, śuklapakṣe, aṣṭamyāṃ śubhatithau, budha/bṛhaspati-vāsare, jyeṣṭhā-nakṣatra-yuktāyāṃ, śubhayoga-śubhakaraṇa-evaṃguṇa-viśeṣaṇa-viśiṣṭāyāṃ śubhatithau:\n\nmameha janmani janmāntare ca akhaṇḍa-saubhāgya, putra-pautrādi-aiśvarya, sadgati-prakṛti-sarvābhīṣṭa-siddhy-arthaṃ, śrī-jyeṣṭhālakṣmī-devy-antargata śrīnārāyaṇa-preraṇayā śrīnārāyaṇa-prīty-arthaṃ jyeṣṭhālakṣmī-vrata-kalpokta-pūjāṃ kariṣye ||",
+      "textSha256": "7cb5fc2aefa67507ab79b82ed09892f2f89f321f3856d9864a5791099564c4f1",
+      "audioFile": "audio15/jyeshtha-02.mp3",
+      "duration": 59.366,
+      "sourceDuration": 59.366,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-02-01.wav",
+          "start": 0,
+          "end": 59.366,
+          "meter": "gadya",
+          "reference": "आचम्य प्राणान् आयम्य शुभे शोभने मुहूर्ते श्रीगोविन्द गोविन्द अस्मिन् वर्तमाने श्रीपरमेष्ठिनः द्वितीयपरार्धे अस्मिन् वर्तमाने शुभसंवत्सरे दक्षिणायने वर्षऋतौ भाद्रपदमासे शुक्लपक्षे अष्टम्यां शुभतिथौ बुधवासरे बृहस्पतिवासरे ज्येष्ठानक्षत्रयुक्तायां शुभयोगशुभकरणएवंगुणविशेषणविशिष्टायां शुभतिथौ ममेह जन्मनि जन्मान्तरे च अखण्डसौभाग्य पुत्रपौत्रादिऐश्वर्य सद्गतिप्रकृतिसर्वाभीष्टसिद्ध्यर्थं श्रीज्येष्ठालक्ष्मीदेव्यन्तर्गत श्रीनारायणप्रेरणया श्रीनारायणप्रीत्यर्थं ज्येष्ठालक्ष्मीव्रतकल्पोक्तपूजां करिष्ये",
+          "diagnosticCer": 0.05664,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Śaṅkha pūjā",
+      "originalScript": "sahasrāra huṃ phaṭ\n\ntvaṃ purā sāgarotpanno viṣṇunā vidhṛtaḥ kare |\nnamitaḥ sarvadevaiś ca pāñcajanya namo'stu te || 1 ||\n\ngarbhā devāri-nārīṇāṃ viśīryante sahasradhā |\ntava nādena pātāle pāñcajanya namo'stu te || 2 ||\n\ndarśanād eva śaṅkhasya kiṃ punaḥ sparśane kṛte |\nvilayaṃ yānti pāpāni tamaḥ sūryodaye yathā || 3 ||\n\nnatvā śaṅkhaṃ kare spṛṣṭvā mantreṇānena vaiṣṇavaḥ |\nyaḥ snāpayati govindaṃ tasya puṇyam anantakam || 4 ||",
+      "textSha256": "6c40285087f76894ee9a44192c831c53d98755084305316a3af0f8ad970b8ad8",
+      "audioFile": "audio15/jyeshtha-03.mp3",
+      "duration": 42.398,
+      "sourceDuration": 42.398,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-03-01.wav",
+          "start": 0,
+          "end": 1.258,
+          "meter": "gadya",
+          "reference": "सहस्रार हुं फट्",
+          "diagnosticCer": 0,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-03-02.wav",
+          "start": 0,
+          "end": 40.49,
+          "meter": "anuṣṭubh",
+          "reference": "त्वं पुरा सागरोत्पन्नो विष्णुना विधृतः करे नमितः सर्वदेवैश् च पाञ्चजन्य नमोऽस्तु ते गर्भा देवारिनारीणां विशीर्यन्ते सहस्रधा तव नादेन पाताले पाञ्चजन्य नमोऽस्तु ते दर्शनाद् एव शङ्खस्य किं पुनः स्पर्शने कृते विलयं यान्ति पापानि तमः सूर्योदये यथा नत्वा शङ्खं करे स्पृष्ट्वा मन्त्रेणानेन वैष्णवः यः स्नापयति गोविन्दं तस्य पुण्यम् अनन्तकम्",
+          "diagnosticCer": 0.02456,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Kalaśa sthāpanā and pīṭha pūjā",
+      "originalScript": "oṃ ādhāraśaktyai namaḥ |\n\noṃ ādikūrmāya namaḥ |\n\noṃ anantāya namaḥ |\n\noṃ varāhāya namaḥ |\n\noṃ ratnasiṃhāsanāya namaḥ |\n\noṃ jyeṣṭhālakṣmyai namaḥ | pīṭhapūjāṃ samarpayāmi ||",
+      "textSha256": "c9faa2c22d33046aecdeb50ae963c1d7fe25d05a202d036227ec0f63ce8b6878",
+      "audioFile": "audio15/jyeshtha-04.mp3",
+      "duration": 16.753958,
+      "sourceDuration": 16.752666666666666,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-04-01.wav",
+          "start": 0,
+          "end": 16.752667,
+          "meter": "gadya",
+          "reference": "ॐ आधारशक्त्यै नमः ॐ आदिकूर्माय नमः ॐ अनन्ताय नमः ॐ वराहाय नमः ॐ रत्नसिंहासनाय नमः ॐ ज्येष्ठालक्ष्म्यै नमः  पीठपूजां समर्पयामि",
+          "diagnosticCer": 0.06667,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Navaśakti pūjā",
+      "originalScript": "oṃ prabhāyai namaḥ |\noṃ māyāyai namaḥ |\noṃ jayāyai namaḥ |\noṃ sūkṣmāyai namaḥ |\noṃ viśuddhāyai namaḥ |\noṃ nandinyai namaḥ |\noṃ suprabhāyai namaḥ |\noṃ vijayāyai namaḥ |\noṃ sarvasiddhidāyai namaḥ ||",
+      "textSha256": "0320b443dd0830c98a4f95f2d0cae958acae9af48697ff7f830c586e6bcc4031",
+      "audioFile": "audio15/jyeshtha-05.mp3",
+      "duration": 19.832667,
+      "sourceDuration": 19.832666666666668,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-05-01.wav",
+          "start": 0,
+          "end": 19.832667,
+          "meter": "gadya",
+          "reference": "ॐ प्रभायै नमः ॐ मायायै नमः ॐ जयायै नमः ॐ सूक्ष्मायै नमः ॐ विशुद्धायै नमः ॐ नन्दिन्यै नमः ॐ सुप्रभायै नमः ॐ विजयायै नमः ॐ सर्वसिद्धिदायै नमः",
+          "diagnosticCer": 0.14159,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Āvāhana",
+      "originalScript": "svātmasaṃsthām ajāṃ śuddhāṃ tvām adya parameśvari |\naraṇyām iva havyāśaṃ mūrtāv āvāhayāmy aham ||\n\nsaśrīkaṃ saparivāraṃ jyeṣṭhālakṣmy-antargata-śrīlakṣmīnārāyaṇaṃ\nāgacchāgaccha āvāhayāmi ||",
+      "textSha256": "000b1acddd629881e6f491833de4833ababe4ca5773b4ae902a18e32635d2fad",
+      "audioFile": "audio15/jyeshtha-06.mp3",
+      "duration": 19.600667,
+      "sourceDuration": 19.600666666666665,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-06-01.wav",
+          "start": 0,
+          "end": 10.15,
+          "meter": "anuṣṭubh",
+          "reference": "स्वात्मसंस्थाम् अजां शुद्धां त्वाम् अद्य परमेश्वरि अरण्याम् इव हव्याशं मूर्ताव् आवाहयाम्य् अहम्",
+          "diagnosticCer": 0.14286,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-06-02.wav",
+          "start": 0,
+          "end": 8.800667,
+          "meter": "gadya",
+          "reference": "सश्रीकं सपरिवारं ज्येष्ठालक्ष्म्यन्तर्गतश्रीलक्ष्मीनारायणं आगच्छागच्छ आवाहयामि",
+          "diagnosticCer": 0.02703,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "Dhyānam (Meditation)",
+      "originalScript": "devānāṃ devatānāṃ ca jyeṣṭhādevi tvam ādimā |\nādiśakte namas te'stu namas te viṣṇuvallabhe ||\njyeṣṭhādevyai namaḥ | dhyānaṃ samarpayāmi ||",
+      "textSha256": "4653bd4d14c000cdc8700038fae98eb14eca5c3774bdd15c1aef51370be51521",
+      "audioFile": "audio15/jyeshtha-07.mp3",
+      "duration": 13.927333,
+      "sourceDuration": 13.927333333333333,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-07-01.wav",
+          "start": 0,
+          "end": 9.986,
+          "meter": "anuṣṭubh",
+          "reference": "देवानां देवतानां च ज्येष्ठादेवि त्वम् आदिमा आदिशक्ते नमस् तेऽस्तु नमस् ते विष्णुवल्लभे",
+          "diagnosticCer": 0.04054,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-07-02.wav",
+          "start": 0,
+          "end": 3.291333,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  ध्यानं समर्पयामि",
+          "diagnosticCer": 0.09375,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "Āvāhanam (Invocation & Welcome)",
+      "originalScript": "brahmapriye namas te'stu namas te bhaktavatsale |\nviṣṇupriye namas te'stu jagadānandakāriṇi ||\njyeṣṭhādevyai namaḥ | āvāhanaṃ samarpayāmi ||",
+      "textSha256": "d8de5a4462310d7c6ae9b2eb210e6a96550819b37b8c807328a58f616df78108",
+      "audioFile": "audio15/jyeshtha-08.mp3",
+      "duration": 13.574,
+      "sourceDuration": 13.574,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-08-01.wav",
+          "start": 0,
+          "end": 9.27,
+          "meter": "anuṣṭubh",
+          "reference": "ब्रह्मप्रिये नमस् तेऽस्तु नमस् ते भक्तवत्सले विष्णुप्रिये नमस् तेऽस्तु जगदानन्दकारिणि",
+          "diagnosticCer": 0.01351,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-08-02.wav",
+          "start": 0,
+          "end": 3.654,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  आवाहनं समर्पयामि",
+          "diagnosticCer": 0.03125,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "Āsanam (Offering the Sacred Seat)",
+      "originalScript": "āsane svarṇaratnāḍhye sarvaśobhāsamanvite |\nupaviśya jaganmātaḥ prasādābhimukhī bhava ||\njyeṣṭhādevyai namaḥ | āsanaṃ samarpayāmi ||",
+      "textSha256": "368b11aaf3e25837197564cc06bbda168933cbc38fa8dc2011f1f1cc6c364237",
+      "audioFile": "audio15/jyeshtha-09.mp3",
+      "duration": 13.438,
+      "sourceDuration": 13.438,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-09-01.wav",
+          "start": 0,
+          "end": 9.39,
+          "meter": "anuṣṭubh",
+          "reference": "आसने स्वर्णरत्नाढ्ये सर्वशोभासमन्विते उपविश्य जगन्मातः प्रसादाभिमुखी भव",
+          "diagnosticCer": 0.01538,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-09-02.wav",
+          "start": 0,
+          "end": 3.398,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  आसनं समर्पयामि",
+          "diagnosticCer": 0.03333,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Pādyam (Water for Washing the Divine Lotus Feet)",
+      "originalScript": "idaṃ gaṅgājalaṃ samyak suvarṇakalaśe sthitam |\npādyārthaṃ te prayacchāmi kṣālayāmi padāmbuje ||\njyeṣṭhādevyai namaḥ | pādyaṃ samarpayāmi ||",
+      "textSha256": "90a19fb24a2b8e2406dd168e90ea4814073115ab0fcafb71f1bd69de4d4ed56b",
+      "audioFile": "audio15/jyeshtha-10.mp3",
+      "duration": 13.991333,
+      "sourceDuration": 13.991333333333333,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-10-01.wav",
+          "start": 0,
+          "end": 10.01,
+          "meter": "anuṣṭubh",
+          "reference": "इदं गङ्गाजलं सम्यक् सुवर्णकलशे स्थितम् पाद्यार्थं ते प्रयच्छामि क्षालयामि पदाम्बुजे",
+          "diagnosticCer": 0,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-10-02.wav",
+          "start": 0,
+          "end": 3.331333,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  पाद्यं समर्पयामि",
+          "diagnosticCer": 0.0625,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Arghyam (Offering of Sanctified Water)",
+      "originalScript": "gandhapuṣpākṣatair yuktaṃ toyena ca samanvitam |\nsuvarṇapātre cārvaṅgi gṛhāṇārghyaṃ namo'stu te ||\njyeṣṭhādevyai namaḥ | arghyaṃ samarpayāmi ||",
+      "textSha256": "0a9d55f7681b8e599e815cccaea4155a1821caa9898cb4d1a93aaeeba64bb0ee",
+      "audioFile": "audio15/jyeshtha-11.mp3",
+      "duration": 13.815333,
+      "sourceDuration": 13.815333333333333,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-11-01.wav",
+          "start": 0,
+          "end": 10.11,
+          "meter": "anuṣṭubh",
+          "reference": "गन्धपुष्पाक्षतैर् युक्तं तोयेन च समन्वितम् सुवर्णपात्रे चार्वङ्गि गृहाणार्घ्यं नमोऽस्तु ते",
+          "diagnosticCer": 0.0125,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-11-02.wav",
+          "start": 0,
+          "end": 3.055333,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  अर्घ्यं समर्पयामि",
+          "diagnosticCer": 0.27273,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Ācamanam (Water for Sipping)",
+      "originalScript": "karpūrailāmṛgamadaiḥ suvāsair upaśobhitam |\ngṛhāṇācamanīyaṃ ca śiśiraṃ vimalaṃ jalam ||\njyeṣṭhādevyai namaḥ | ācamanaṃ samarpayāmi ||",
+      "textSha256": "c942c2200513bf4152c69b19bf7371fdd6d0add577ffdb96ed1e29262c22a026",
+      "audioFile": "audio15/jyeshtha-12.mp3",
+      "duration": 13.454,
+      "sourceDuration": 13.454,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-12-01.wav",
+          "start": 0,
+          "end": 9.15,
+          "meter": "anuṣṭubh",
+          "reference": "कर्पूरैलामृगमदैः सुवासैर् उपशोभितम् गृहाणाचमनीयं च शिशिरं विमलं जलम्",
+          "diagnosticCer": 0.06557,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-12-02.wav",
+          "start": 0,
+          "end": 3.654,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  आचमनं समर्पयामि",
+          "diagnosticCer": 0.03226,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Madhuparkam (Offering of Honey-Yogurt Nectar)",
+      "originalScript": "dadhyājyamadhusaṃmiśraṃ madhuparkaṃ sumañjulam |\ndevīnām api devi tvaṃ gṛhāṇābhīṣṭadāyini ||\njyeṣṭhādevyai namaḥ | madhuparkaṃ samarpayāmi ||",
+      "textSha256": "10e3ee3b8d1de43a32052f9cb5bb6c7b77d78a8acd15f00cbc79ab01af6ed8eb",
+      "audioFile": "audio15/jyeshtha-13.mp3",
+      "duration": 14.254,
+      "sourceDuration": 14.254,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-13-01.wav",
+          "start": 0,
+          "end": 9.87,
+          "meter": "anuṣṭubh",
+          "reference": "दध्याज्यमधुसंमिश्रं मधुपर्कं सुमञ्जुलम् देवीनाम् अपि देवि त्वं गृहाणाभीष्टदायिनि",
+          "diagnosticCer": 0.06849,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-13-02.wav",
+          "start": 0,
+          "end": 3.734,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  मधुपर्कं समर्पयामि",
+          "diagnosticCer": 0.02941,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Punarācamanam (Second Sipping Water)",
+      "originalScript": "nadīnadasamudbhūtaṃ pavitraṃ nirmalaṃ jalam |\npunarācamanaṃ devi gṛhāṇa jagadambike ||\njyeṣṭhādevyai namaḥ | punarācamanīyaṃ samarpayāmi ||",
+      "textSha256": "ca35b32acc45fd6f279a80ef619cd0cf430c139a9a205e6feae4e7af8291bfbe",
+      "audioFile": "audio15/jyeshtha-14.mp3",
+      "duration": 13.672667,
+      "sourceDuration": 13.672666666666666,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-14-01.wav",
+          "start": 0,
+          "end": 8.55,
+          "meter": "anuṣṭubh",
+          "reference": "नदीनदसमुद्भूतं पवित्रं निर्मलं जलम् पुनराचमनं देवि गृहाण जगदम्बिके",
+          "diagnosticCer": 0.05085,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-14-02.wav",
+          "start": 0,
+          "end": 4.472667,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  पुनराचमनीयं समर्पयामि",
+          "diagnosticCer": 0,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Pañcāmṛta Snānam (The Five-Nectar Holy Bath)",
+      "originalScript": "pañcāmṛtena snapanaṃ kariṣye bhaktavatsale |\npayo dadhi ghṛtaṃ caiva mākṣikaṃ śarkarāyutam ||\njyeṣṭhādevyai namaḥ | pañcāmṛtasnānaṃ samarpayāmi ||",
+      "textSha256": "16c3ddd100f8035665ed904b93307617d520c868b4d1d1350a24a1a75eabbb40",
+      "audioFile": "audio15/jyeshtha-15.mp3",
+      "duration": 14.316667,
+      "sourceDuration": 14.316666666666666,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-15-01.wav",
+          "start": 0,
+          "end": 9.33,
+          "meter": "anuṣṭubh",
+          "reference": "पञ्चामृतेन स्नपनं करिष्ये भक्तवत्सले पयो दधि घृतं चैव माक्षिकं शर्करायुतम्",
+          "diagnosticCer": 0,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-15-02.wav",
+          "start": 0,
+          "end": 4.336667,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  पञ्चामृतस्नानं समर्पयामि",
+          "diagnosticCer": 0,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Śuddhodaka Snānam (Pure Water Ablution)",
+      "originalScript": "mandākinyā samānītaṃ hemāmbhoruhavāsitam |\nsnānārthaṃ te mayā dattaṃ gṛhāṇa jagadambike ||\njyeṣṭhādevyai namaḥ | śuddhodakasnānaṃ samarpayāmi ||",
+      "textSha256": "1f47e963280173cd525f55782352e548e44f0b31505317772a7462804889d614",
+      "audioFile": "audio15/jyeshtha-16.mp3",
+      "duration": 14.996667,
+      "sourceDuration": 14.996666666666666,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-16-01.wav",
+          "start": 0,
+          "end": 10.01,
+          "meter": "anuṣṭubh",
+          "reference": "मन्दाकिन्या समानीतं हेमाम्भोरुहवासितम् स्नानार्थं ते मया दत्तं गृहाण जगदम्बिके",
+          "diagnosticCer": 0,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-16-02.wav",
+          "start": 0,
+          "end": 4.336667,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  शुद्धोदकस्नानं समर्पयामि",
+          "diagnosticCer": 0.05,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Vastra & Upavastra (Divine Garments & Upper Cloth)",
+      "originalScript": "kauśeyavasanaṃ divyaṃ kañcukena samanvitam |\nupavastreṇa saṃvītaṃ gṛhāṇa parameśvari ||\njyeṣṭhādevyai namaḥ | vastropavastrāṇi samarpayāmi ||",
+      "textSha256": "2d83f73ada55fadda8a4302aa3a7ffc176776a75588b98a8ad593dd20435a3e8",
+      "audioFile": "audio15/jyeshtha-17.mp3",
+      "duration": 13.596667,
+      "sourceDuration": 13.596666666666666,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-17-01.wav",
+          "start": 0,
+          "end": 8.67,
+          "meter": "anuṣṭubh",
+          "reference": "कौशेयवसनं दिव्यं कञ्चुकेन समन्वितम् उपवस्त्रेण संवीतं गृहाण परमेश्वरि",
+          "diagnosticCer": 0.01613,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-17-02.wav",
+          "start": 0,
+          "end": 4.276667,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  वस्त्रोपवस्त्राणि समर्पयामि",
+          "diagnosticCer": 0.04651,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Gandham (Sacred Sandalwood Paste)",
+      "originalScript": "imaṃ gandhaṃ mahaddivyaṃ kuṅkumena samanvitam |\nvilepanārthaṃ te dattaṃ gṛhāṇa varadā bhava ||\njyeṣṭhādevyai namaḥ | gandhaṃ samarpayāmi ||",
+      "textSha256": "ddb0722ddc2e8697ec0083834d1b586c2a178d8b44c2dad864c0f3807831a5fd",
+      "audioFile": "audio15/jyeshtha-18.mp3",
+      "duration": 13.551333,
+      "sourceDuration": 13.551333333333334,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-18-01.wav",
+          "start": 0,
+          "end": 9.61,
+          "meter": "anuṣṭubh",
+          "reference": "इमं गन्धं महद्दिव्यं कुङ्कुमेन समन्वितम् विलेपनार्थं ते दत्तं गृहाण वरदा भव",
+          "diagnosticCer": 0.01538,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-18-02.wav",
+          "start": 0,
+          "end": 3.291333,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  गन्धं समर्पयामि",
+          "diagnosticCer": 0.06452,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Saubhāgya Dravyāṇi (Auspicious Ornaments & Cosmetics)",
+      "originalScript": "kajjalaṃ caiva sindūraṃ haridrākuṅkumāni ca |\nbhaktyā mayārpitānīśe jyeṣṭhāgauri gṛhāṇa bho ||\njyeṣṭhādevyai namaḥ | haridrākuṅkuma-saubhāgyadravyāṇi samarpayāmi ||",
+      "textSha256": "91f8224866688d08b672b73ce2b8c01e3ca6a8d22c5bf10f8715b985410c76bd",
+      "audioFile": "audio15/jyeshtha-19.mp3",
+      "duration": 16.234,
+      "sourceDuration": 16.234,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-19-01.wav",
+          "start": 0,
+          "end": 9.87,
+          "meter": "anuṣṭubh",
+          "reference": "कज्जलं चैव सिन्दूरं हरिद्राकुङ्कुमानि च भक्त्या मयार्पितानीशे ज्येष्ठागौरि गृहाण भो",
+          "diagnosticCer": 0,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-19-02.wav",
+          "start": 0,
+          "end": 5.714,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  हरिद्राकुङ्कुमसौभाग्यद्रव्याणि समर्पयामि",
+          "diagnosticCer": 0.01786,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Puṣpāṇi (Offering of Flowers)",
+      "originalScript": "nānāvidhāni mālyāni sugandhīni haripriye |\njyeṣṭhāgauri gṛhāṇa tvaṃ prasādābhimukhī bhava ||\njyeṣṭhādevyai namaḥ | puṣpāṇi samarpayāmi ||",
+      "textSha256": "77d27aee2531e48e9b58d508d748a0d3540129e6f13c64a44eb570ab3da06a2f",
+      "audioFile": "audio15/jyeshtha-20.mp3",
+      "duration": 13.878,
+      "sourceDuration": 13.878,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-20-01.wav",
+          "start": 0,
+          "end": 9.69,
+          "meter": "anuṣṭubh",
+          "reference": "नानाविधानि माल्यानि सुगन्धीनि हरिप्रिये ज्येष्ठागौरि गृहाण त्वं प्रसादाभिमुखी भव",
+          "diagnosticCer": 0.01389,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-20-02.wav",
+          "start": 0,
+          "end": 3.538,
+          "meter": "gadya",
+          "reference": "ज्येष्ठादेव्यै नमः  पुष्पाणि समर्पयामि",
+          "diagnosticCer": 0.05882,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Dvādaśanāmāni (The 12 Holy Names)",
+      "originalScript": "oṃ lakṣmyai namaḥ |\noṃ śivāyai namaḥ |\noṃ śrīyai namaḥ |\noṃ mahiṣamardinyai namaḥ |\noṃ siṃhavāhinyai namaḥ |\noṃ girivāsinyai namaḥ |\noṃ padmavāsinyai namaḥ |\noṃ bhakteṣṭadāyai namaḥ |\noṃ aghorāyai namaḥ |\noṃ kāmarūpiṇyai namaḥ |\noṃ śubhāyai namaḥ |\noṃ bhagavatyai namaḥ ||",
+      "textSha256": "a332bcdfa35763109a0aa81119c92fd378aad46a27a42637de4c1de158132e9f",
+      "audioFile": "audio15/jyeshtha-21.mp3",
+      "duration": 27.79,
+      "sourceDuration": 27.79,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-21-01.wav",
+          "start": 0,
+          "end": 27.79,
+          "meter": "gadya",
+          "reference": "ॐ लक्ष्म्यै नमः ॐ शिवायै नमः ॐ श्रीयै नमः ॐ महिषमर्दिन्यै नमः ॐ सिंहवाहिन्यै नमः ॐ गिरिवासिन्यै नमः ॐ पद्मवासिन्यै नमः ॐ भक्तेष्टदायै नमः ॐ अघोरायै नमः ॐ कामरूपिण्यै नमः ॐ शुभायै नमः ॐ भगवत्यै नमः",
+          "diagnosticCer": 0.10559,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Aṅgapūjā (Worship of the Divine Limbs)",
+      "originalScript": "oṃ bhagavatyai namaḥ | pādau pūjayāmi |\n\noṃ gauryai namaḥ | jānunī pūjayāmi |\n\noṃ maṅgaladevatāyai namaḥ | kaṭiṃ pūjayāmi |\n\noṃ māheśvaryai namaḥ | udaraṃ pūjayāmi |\n\noṃ padmavāsinyai namaḥ | hṛdayaṃ pūjayāmi |\n\noṃ kātyāyanyai namaḥ | bāhūn pūjayāmi |\n\noṃ jagajjananyai namaḥ | mukhaṃ pūjayāmi |\n\noṃ śatākṣyai namaḥ | netre pūjayāmi |\n\noṃ śākambharyai namaḥ | śiraḥ pūjayāmi |\n\noṃ jyeṣṭhādevyai namaḥ | sarvāṅgāni pūjayāmi ||",
+      "textSha256": "a81072ac7022a2f3016c1f7e713d2d7c769e997b109ffa42fa041ed57887ed18",
+      "audioFile": "audio15/jyeshtha-22.mp3",
+      "duration": 37.612667,
+      "sourceDuration": 37.61266666666667,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-22-01.wav",
+          "start": 0,
+          "end": 37.612667,
+          "meter": "gadya",
+          "reference": "ॐ भगवत्यै नमः  पादौ पूजयामि ॐ गौर्यै नमः  जानुनी पूजयामि ॐ मङ्गलदेवतायै नमः  कटिं पूजयामि ॐ माहेश्वर्यै नमः  उदरं पूजयामि ॐ पद्मवासिन्यै नमः  हृदयं पूजयामि ॐ कात्यायन्यै नमः  बाहून् पूजयामि ॐ जगज्जनन्यै नमः  मुखं पूजयामि ॐ शताक्ष्यै नमः  नेत्रे पूजयामि ॐ शाकम्भर्यै नमः  शिरः पूजयामि ॐ ज्येष्ठादेव्यै नमः  सर्वाङ्गानि पूजयामि",
+          "diagnosticCer": 0.06767,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Sixteen-knot sacred cord worship",
+      "originalScript": "oṃ bhagavatyai namaḥ | prathamagranthiṃ pūjayāmi |\n\noṃ śrīyai namaḥ | dvitīyagranthiṃ pūjayāmi |\n\noṃ gauryai namaḥ | tṛtīyagranthiṃ pūjayāmi |\n\noṃ śivāyai namaḥ | caturthagranthiṃ pūjayāmi |\n\noṃ maṅgaladevatāyai namaḥ | pañcamagranthiṃ pūjayāmi |\n\noṃ jaganmāyāyai namaḥ | ṣaṣṭhagranthiṃ pūjayāmi |\n\noṃ māheśvaryai namaḥ | saptamagranthiṃ pūjayāmi |\n\noṃ padmavāsinyai namaḥ | aṣṭamagranthiṃ pūjayāmi |\n\noṃ kātyāyanyai namaḥ | navamagranthiṃ pūjayāmi |\n\noṃ śivadūtyai namaḥ | daśamagranthiṃ pūjayāmi |\n\noṃ jagajjananyai namaḥ | ekādaśagranthiṃ pūjayāmi |\n\noṃ bhuvaneśvaryai namaḥ | dvādaśagranthiṃ pūjayāmi |\n\noṃ kāmitārthapradāyinyai namaḥ | trayodaśagranthiṃ pūjayāmi |\n\noṃ śatākṣyai namaḥ | caturdaśagranthiṃ pūjayāmi |\n\noṃ parameśvaryai namaḥ | pañcadaśagranthiṃ pūjayāmi |\n\noṃ śākambharyai namaḥ | ṣoḍaśagranthiṃ pūjayāmi ||",
+      "textSha256": "7ad5ca394516b63b7d75618fae0ba24586bf9e5f7b1567c3b125ca4bbb527e18",
+      "audioFile": "audio15/jyeshtha-23.mp3",
+      "duration": 71.912667,
+      "sourceDuration": 71.91266666666667,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-23-01.wav",
+          "start": 0,
+          "end": 71.912667,
+          "meter": "gadya",
+          "reference": "ॐ भगवत्यै नमः  प्रथमग्रन्थिं पूजयामि ॐ श्रीयै नमः  द्वितीयग्रन्थिं पूजयामि ॐ गौर्यै नमः  तृतीयग्रन्थिं पूजयामि ॐ शिवायै नमः  चतुर्थग्रन्थिं पूजयामि ॐ मङ्गलदेवतायै नमः  पञ्चमग्रन्थिं पूजयामि ॐ जगन्मायायै नमः  षष्ठग्रन्थिं पूजयामि ॐ माहेश्वर्यै नमः  सप्तमग्रन्थिं पूजयामि ॐ पद्मवासिन्यै नमः  अष्टमग्रन्थिं पूजयामि ॐ कात्यायन्यै नमः  नवमग्रन्थिं पूजयामि ॐ शिवदूत्यै नमः  दशमग्रन्थिं पूजयामि ॐ जगज्जनन्यै नमः  एकादशग्रन्थिं पूजयामि ॐ भुवनेश्वर्यै नमः  द्वादशग्रन्थिं पूजयामि ॐ कामितार्थप्रदायिन्यै नमः  त्रयोदशग्रन्थिं पूजयामि ॐ शताक्ष्यै नमः  चतुर्दशग्रन्थिं पूजयामि ॐ परमेश्वर्यै नमः  पञ्चदशग्रन्थिं पूजयामि ॐ शाकम्भर्यै नमः  षोडशग्रन्थिं पूजयामि",
+          "diagnosticCer": 0.11111,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Dhūpam (Incense)",
+      "originalScript": "vanaspatirasodbhūtaṃ nānāgandhasamanvitam |\ndaśāṅgasahitaṃ divyaṃ dhūpaṃ devi gṛhāṇa bho ||",
+      "textSha256": "aff42021174175c57bd23c864f894daab0ce8dfb2d62593e626de0a24ac8c00b",
+      "audioFile": "audio15/jyeshtha-24.mp3",
+      "duration": 9.05,
+      "sourceDuration": 9.05,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-24-01.wav",
+          "start": 0,
+          "end": 3.91,
+          "meter": "gadya",
+          "reference": "वनस्पतिरसोद्भूतं नानागन्धसमन्वितम्",
+          "diagnosticCer": 0,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-24-02.wav",
+          "start": 0,
+          "end": 4.49,
+          "meter": "anuṣṭubh",
+          "reference": "दशाङ्गसहितं दिव्यं धूपं देवि गृहाण भो",
+          "diagnosticCer": 0.03125,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Dīpam (Lamp of Light)",
+      "originalScript": "divyaṃ tamoharaṃ jyotsnā jñānasaṃbodhakaṃ śubham |\ndīpaṃ gṛhāṇa mātas tvaṃ aparādhaśatāpaham ||",
+      "textSha256": "c9a4e71ebf3e43de30b9afe01da8274df4a823536939310f14dc97af4c70416a",
+      "audioFile": "audio15/jyeshtha-25.mp3",
+      "duration": 10.13,
+      "sourceDuration": 10.13,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-25-01.wav",
+          "start": 0,
+          "end": 10.13,
+          "meter": "anuṣṭubh",
+          "reference": "दिव्यं तमोहरं ज्योत्स्ना ज्ञानसंबोधकं शुभम् दीपं गृहाण मातस् त्वं अपराधशतापहम्",
+          "diagnosticCer": 0.11594,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Naivedyam (Food Offering)",
+      "originalScript": "nānāvidhāni bhakṣyāṇi vyañjanāni haripriye |\ngṛhāṇa devi naivedyaṃ sukhadaṃ sarvadehinām ||",
+      "textSha256": "c21b9640a46c02da9c3a7a7a605ff39fea69f4b03d0ef0ba37d5ebca7c4ed287",
+      "audioFile": "audio15/jyeshtha-26.mp3",
+      "duration": 9.43,
+      "sourceDuration": 9.43,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-26-01.wav",
+          "start": 0,
+          "end": 9.43,
+          "meter": "anuṣṭubh",
+          "reference": "नानाविधानि भक्ष्याणि व्यञ्जनानि हरिप्रिये गृहाण देवि नैवेद्यं सुखदं सर्वदेहिनाम्",
+          "diagnosticCer": 0,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Tāmbūla & Dakṣiṇā (Betel Leaves, Areca Nut & Monetary Honorarium)",
+      "originalScript": "pūgīphalaṃ mahaddivyaṃ elākarpūravāsitam |\ntāmbūlaṃ gṛhyatāṃ devi mayā dattaṃ śubhaprade ||",
+      "textSha256": "845354e5185e2f9436b1b1885f9e6579bb77e89bc03c0b581b3eaeaf8bda868f",
+      "audioFile": "audio15/jyeshtha-27.mp3",
+      "duration": 10.19,
+      "sourceDuration": 10.19,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-27-01.wav",
+          "start": 0,
+          "end": 10.19,
+          "meter": "anuṣṭubh",
+          "reference": "पूगीफलं महद्दिव्यं एलाकर्पूरवासितम् ताम्बूलं गृह्यतां देवि मया दत्तं शुभप्रदे",
+          "diagnosticCer": 0.05797,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Prārthanā Mantras (Verses of Supplication)",
+      "originalScript": "viṣṇupriye padmahaste padmamadhyanivāsini |\njyeṣṭhe śreṣṭhe surāṇāṃ ca sarveṣāṃ ceṣṭadāyini ||\n\ndāridryaṃ me vyapohyāśu saubhāgyaṃ saukhyam eva ca |\nputrapautrādilābhaṃ ca dehi devi namo'stu te ||",
+      "textSha256": "e82a59b37d4976816f988da268f07194947db4c78a78c4c31bb3809fee5e5b9f",
+      "audioFile": "audio15/jyeshtha-29.mp3",
+      "duration": 20.27,
+      "sourceDuration": 20.27,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-29-01.wav",
+          "start": 0,
+          "end": 20.27,
+          "meter": "anuṣṭubh",
+          "reference": "विष्णुप्रिये पद्महस्ते पद्ममध्यनिवासिनि ज्येष्ठे श्रेष्ठे सुराणां च सर्वेषां चेष्टदायिनि दारिद्र्यं मे व्यपोह्याशु सौभाग्यं सौख्यम् एव च पुत्रपौत्रादिलाभं च देहि देवि नमोऽस्तु ते",
+          "diagnosticCer": 0.01923,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Dorabandhana Mantra (Tying the 16-Knotted Bracelet/Cord)",
+      "originalScript": "kṣīrodārṇavasaṃjāte sarvasampatpradāyini |\njyeṣṭhādevi subadhnāmi doraṃ me'bhīṣṭadā bhava ||",
+      "textSha256": "876ae5d2af4f41ad13e994bb74df496e05b31b794ab77b0201acba4aa68adbb0",
+      "audioFile": "audio15/jyeshtha-30.mp3",
+      "duration": 9.67,
+      "sourceDuration": 9.67,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-30-01.wav",
+          "start": 0,
+          "end": 4.05,
+          "meter": "gadya",
+          "reference": "क्षीरोदार्णवसंजाते सर्वसम्पत्प्रदायिनि",
+          "diagnosticCer": 0.08108,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-30-02.wav",
+          "start": 0,
+          "end": 4.97,
+          "meter": "anuṣṭubh",
+          "reference": "ज्येष्ठादेवि सुबध्नामि दोरं मेऽभीष्टदा भव",
+          "diagnosticCer": 0.02778,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "title": "Vāyanadāna Mantra",
+      "originalScript": "ṣoḍaśāpūpabhakṣyāṇi satāmbūlaṃ sadakṣiṇam |\ntubhyaṃ dāsyāmi saṃprītyā jyeṣṭhālakṣmīḥ prīyatāṃ mama ||",
+      "textSha256": "fae255b19909e5d2a26a3f13c22ff1720b3d49d72195d8cdc88dc54afd6b3caa",
+      "audioFile": "audio15/jyeshtha-31.mp3",
+      "duration": 10.63,
+      "sourceDuration": 10.63,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-31-01.wav",
+          "start": 0,
+          "end": 10.63,
+          "meter": "anuṣṭubh",
+          "reference": "षोडशापूपभक्ष्याणि सताम्बूलं सदक्षिणम् तुभ्यं दास्यामि संप्रीत्या ज्येष्ठालक्ष्मीः प्रीयतां मम",
+          "diagnosticCer": 0.07059,
+          "reviewRequired": true
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Kṛṣṇārpaṇa (Dedication of Merit to Lord Kṛṣṇa)",
+      "originalScript": "yasya smṛtyā ca nāmoktyā tapaḥpūjākriyādiṣu |\nnyūnaṃ saṃpūrṇatāṃ yāti sadyo vande tam acyutam ||\n\njyeṣṭhālakṣmīdevyantargata-śrīlakṣmīnārāyaṇa-preraṇayā\nśrīkṛṣṇārpaṇam astu ||",
+      "textSha256": "84f074831287dac2ef066d23e9362f9c75b3472d87c09d43c4637ffd947bcee7",
+      "audioFile": "audio15/jyeshtha-32.mp3",
+      "duration": 18.419333,
+      "sourceDuration": 18.419333333333334,
+      "sourceWindows": [
+        {
+          "sourceFile": "jyeshtha-32-01.wav",
+          "start": 0,
+          "end": 10.33,
+          "meter": "anuṣṭubh",
+          "reference": "यस्य स्मृत्या च नामोक्त्या तपःपूजाक्रियादिषु न्यूनं संपूर्णतां याति सद्यो वन्दे तम् अच्युतम्",
+          "diagnosticCer": 0.04938,
+          "reviewRequired": true
+        },
+        {
+          "sourceFile": "jyeshtha-32-02.wav",
+          "start": 0,
+          "end": 7.439333,
+          "meter": "gadya",
+          "reference": "ज्येष्ठालक्ष्मीदेव्यन्तर्गतश्रीलक्ष्मीनारायणप्रेरणया श्रीकृष्णार्पणम् अस्तु",
+          "diagnosticCer": 0.06849,
+          "reviewRequired": true
+        }
+      ]
+    }
+  ]
+}
