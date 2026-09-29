@@ -4,6 +4,17 @@ source2/
 source3/
 build/
 
+# Keep the Pooja Rahasya reference source and rebuild checks reviewable.
+!source/
+source/*
+!source/pooja-rahasya-2010.json
+!source/pooja-rahasya-map.json
+!build/
+build/*
+!build/build_rahasya_reference.py
+!build/check_rahasya_source.py
+!build/check_achar_enrichment.js
+
 # OS / editor cruft
 .DS_Store
 *.log

@@ -31,6 +31,33 @@
     return m + ':' + (x < 10 ? '0' : '') + x;
   }
   function esc(t) { return t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+  function safe(t) { return esc(String(t == null ? '' : t)); }
+
+  function chantHtml(gloss, fallback) {
+    if (!gloss || !gloss.lines) return fallback ? '<div class="mantra">' + safe(fallback) + '</div>' : '';
+    return '<div class="chant" aria-label="Mantra with line and word meanings">' +
+      gloss.lines.map(function (line) {
+        if (!line) return '<div class="chant-break" aria-hidden="true"></div>';
+        if (line.kind === 'direction') return '<div class="chant-direction">' + safe(line.text) + '</div>';
+        var words = (line.words || []).map(function (word) {
+          return '<span class="gloss-token"><b>' + safe(word.text) + '</b> ' + safe(word.meaning) + '</span>';
+        }).join('');
+        return '<div class="chant-line"><div class="chant-text">' + safe(line.text) + '</div>' +
+          '<div class="chant-meaning">' + safe(line.meaning) + '</div>' +
+          '<div class="chant-words" aria-label="Word by word meaning">' + words + '</div></div>';
+      }).join('') + '</div>';
+  }
+
+  function visualizeHtml(visual, stepId) {
+    if (!visual) return '';
+    return '<div class="visualize"><span class="lbl lbl-v">Visualize</span>' +
+      '<a class="step-image-link" href="step-images/step-' + safe(stepId) + '.webp" target="_blank" rel="noopener" aria-label="Open step ' + safe(stepId) + ' illustration at full size">' +
+        '<img class="step-image" src="step-images/step-' + safe(stepId) + '.webp" alt="Illustration for pūjā step ' + safe(stepId) + '" loading="lazy" decoding="async">' +
+      '</a>' +
+      '<div>' + safe(visual.description) + '</div>' +
+      '<div class="step-image-note">Illustration; consult the linked Rahasya passage for exact sequence and positions.</div>' +
+      '<details><summary>Detailed image prompt</summary><p>' + safe(visual.prompt) + '</p></details></div>';
+  }
 
   // Replace the {p}/{pe} time-of-day tokens with the selected period's words.
   function subst(t) {
@@ -221,8 +248,13 @@
         lastGroup = s.group;
       }
       var rs = resolve(s);
+      var achar = guide.key === 'achar';
+      var enrichment = achar && window.ACHAR_ENRICHMENT ? window.ACHAR_ENRICHMENT[s.id] : null;
+      var gloss = achar && window.ACHAR_GLOSSES ? window.ACHAR_GLOSSES[s.id] : null;
+      var rahasya = achar && window.ACHAR_RAHASYA_MAP ? window.ACHAR_RAHASYA_MAP[s.id] : null;
       var mantra = subst(rs.mantra), meaning = subst(rs.meaning),
-          action = subst(rs.action), contemplate = subst(rs.contemplate),
+          action = subst(enrichment && enrichment.action ? enrichment.action : (rahasya && rahasya.action ? rahasya.action : rs.action)),
+          contemplate = subst(enrichment && enrichment.contemplate ? enrichment.contemplate : (rahasya && rahasya.contemplate ? rahasya.contemplate : rs.contemplate)),
           skt = subst(rs.sanskrit), devanagari = subst(rs.devanagari),
           originalScript = subst(rs.originalScript),
           captionOriginal = subst(rs.captionOriginal),
@@ -233,6 +265,7 @@
         return (block.text || '') + ' ' + (block.english || '') + ' ' +
           (block.sourceRoman || '') + ' ' + (block.sourceOriginal || '');
       }).join(' ');
+      var visual = enrichment && enrichment.visual;
       var hasAudio = s.audio ? true : !guide.noAudio;
       var sectionSource = s.sourceVideo || guide.source;
       var sectionStart = typeof s.startSeconds === 'number'
@@ -251,7 +284,8 @@
       card.dataset.search = (title + ' ' + (skt || '') + ' ' + mantra + ' ' +
         originalScript + ' ' + devanagari + ' ' + captionOriginal + ' ' +
         structuredSearch + ' ' + meaning + ' ' +
-        (contemplate || '') + ' ' + (action || '')).toLowerCase();
+        (contemplate || '') + ' ' + (action || '') + ' ' +
+        (visual ? visual.description : '')).toLowerCase();
       card.innerHTML =
         '<div class="top">' +
           '<div class="num">' + s.id + '</div>' +
@@ -266,7 +300,7 @@
           (hasAudio ? '<button class="playbtn" data-idx="' + i + '"><span class="ico">▶</span> Play</button>' : '') +
         '</div>' +
         structuredTranscriptHtml(structuredBlocks, guide) +
-        (mantra
+        (gloss ? chantHtml(gloss, mantra) : (mantra
           ? (structuredBlocks.length
               ? (guide.hideLosslessReferences ? '' :
                   '<details class="caption-ref lossless-roman"><summary>' +
@@ -275,7 +309,7 @@
               : '<div class="mantra">' +
                   (guide.mantraLabel ? '<span class="lbl">' + esc(guide.mantraLabel) + '</span>' : '') +
                   esc(mantra) + '</div>')
-          : '') +
+          : '')) +
         (originalScript && !guide.hideLosslessReferences
           ? '<details class="caption-ref script-ref"><summary>' +
               esc(guide.originalScriptLabel || 'Exact original transcription') +
@@ -295,9 +329,9 @@
               esc(guide.captionOriginalLabel || 'Exact original captions') +
             '</summary><div class="devanagari">' + esc(captionOriginal) + '</div></details>'
           : '') +
-        ((meaning || contemplate || displayAction)
+        (((meaning && !gloss) || contemplate || displayAction)
           ? '<div class="explain' + ((contemplate || displayAction) ? ' has-rahasya' : '') + '">' +
-              (meaning ? '<div class="meaning"><span class="lbl">Meaning</span>' + esc(meaning) + '</div>' : '') +
+              ((meaning && !gloss) ? '<div class="meaning"><span class="lbl">Meaning</span>' + esc(meaning) + '</div>' : '') +
               ((contemplate || displayAction)
                 ? '<div class="rahasya">' +
                     (contemplate ? '<div class="blk"><span class="lbl lbl-c">Contemplate</span>' + esc(contemplate) + '</div>' : '') +
@@ -307,6 +341,10 @@
             '</div>'
           : '') +
         (usesActionsAtBottom(guide) ? structuredTranscriptHtml(structuredBlocks, guide, 'actions') : '') +
+        visualizeHtml(visual, s.id) +
+        (rahasya ? '<div class="source-link"><a href="pooja-rahasya-reference.html#step-' + safe(s.id) + '">' +
+          (rahasya.passageIds && rahasya.passageIds.length ? 'Read the complete matched Pooja Rahasya passages' : 'Pooja Rahasya: no direct match') +
+          '</a></div>' : '') +
         (s.html || '') +
         (ytLink ? '<div class="yt"><a href="' + ytLink + '" target="_blank" rel="noopener">▶ Watch this ' +
           esc(guide.sourceUnitLabel || 'step') + ' on YouTube ↗</a></div>' : '');
@@ -439,4 +477,10 @@
   var requestedGuide = new URLSearchParams(window.location.search).get('guide');
   var initialGuide = GUIDES.findIndex(function (g) { return g.key === requestedGuide; });
   selectGuide(initialGuide < 0 ? 0 : initialGuide);
+  if (/^#sec-\d{2}$/.test(window.location.hash)) {
+    requestAnimationFrame(function () {
+      var target = document.getElementById(window.location.hash.slice(1));
+      if (target) target.scrollIntoView();
+    });
+  }
 })();

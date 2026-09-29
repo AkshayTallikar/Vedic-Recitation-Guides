@@ -31,16 +31,20 @@
     sanskrit:"from Kṛṣṇāmṛta Mahārṇava (Śrī Madhvācārya)",
     verify:true,
     mantra:
-"sarvottamaṃ hariṃ dhyātvā bhakti-pūrvakam-anvaham |\n"+
-"japa-dhyānādi nityaṃ ca pūjayed durlabhaṃ hi tat ||\n\n"+
+"sarvottamaṃ hariṃ jñātvā ya evaṃ bhaktipūrvakam |\n"+
+"japadhyānādibhir nityaṃ pūjayen nāsya durlabham ||\n\n"+
 "saṃsāre 'smin mahā-ghore janma-roga-bhayākule |\n"+
-"pūjanaṃ janma-saphalaṃ sākṣād bhagavato viṣṇoḥ ||\n\n"+
-"yāvat svastha-śarīraṃ syād indriyāṇi ca paṭavaḥ |\n"+
-"tāvad govindam ārādhya āyuṣyaṃ sārthakaṃ kuru ||",
+"ayam eko mahābhāgaḥ pūjyate yad adhokṣajaḥ ||\n\n"+
+"samasta-loka-nāthasya deva-devasya śārṅgiṇaḥ |\n"+
+"sākṣād bhagavato viṣṇoḥ pūjanaṃ janmanaḥ phalam ||\n\n"+
+"yāvat svāsthyaṃ śarīreṣu karaṇeṣu ca pāṭavam |\n"+
+"tāvad arcaya govindam āyuṣyaṃ sārthakaṃ kuru ||",
     meaning:"Quoting Madhvācārya's Kṛṣṇāmṛta Mahārṇava on why worship matters: one who meditates on Hari, the supreme, and daily offers japa, dhyāna and pūjā with devotion attains what is otherwise unattainable. In this fearsome cycle of birth, disease and death, the direct worship of Bhagavān Viṣṇu is the great fortune that makes human birth fruitful. So while the body is healthy and the senses are capable, worship Govinda and make your lifespan meaningful."
   },
   {
     id:"03", slug:"materials-and-setup", group:"Before you begin",
+    action:"Assemble the salagrama and pratimas, sampushta, abhisheka plate carved with the chakrabja mandala and its three-legged stand, two kalashas, shankha, two lamps, the bell bearing Hanuman, two tirtha patras, and the containers for gandha, akshata and angara. Keep ready camphor, cardamom, saffron, ghee, wicks, tulasi, betel, and the drying napkin.",
+    contemplate:"Sanctity (madi) is the whole point of the preparation. The dhoti, angavastra and the napkin used to dry the salagramas are washed daily and dried where others cannot reach them; kept in a krishnajina (deerskin) bag is ideal.",
     start:"03:45", end:"10:42", type:"context",
     title:"Materials & Setup",
     sanskrit:"Pūjā-sāmagrī & arrangement",
@@ -49,6 +53,8 @@
   },
   {
     id:"04", slug:"tirtha-prashana", group:"Before you begin",
+    action:"Sip the tirtha three times and the fourth time sprinkle it on your head, chanting 'akala-mrityu-haranam sarva-vyadhi-nivaranam, sarva-duritopa-haranam vishnu-padodakam shubham'. On Ekadashi take only one sip.",
+    contemplate:"The abhisheka water is Vishnu-padodaka: it removes untimely death, wards off every disease, and takes away all evil. Receive it in that spirit, not as a formality.",
     start:"10:42", end:"12:20", type:"mantra",
     title:"Taking Tīrtha (rules & mantra)",
     sanskrit:"Tīrtha-prāśana",
@@ -62,8 +68,8 @@
 
   {
     id:"05", slug:"namaskara-at-the-door", group:"The Pūjā",
-    contemplate:"Nārāyaṇa is the independent cause and controller of creation, maintenance and dissolution. Śrī Madhvācārya reveals Hari's supremacy and establishes Tattva-vāda.",
-    action:"Stand at the shrine door and bow to the guru-paramparā, Hari and Śrī Madhvācārya while reciting the salutations.",
+    contemplate:"Narayana is the ocean of full and flawless qualities, the giver of the rise, sustenance and dissolution of the universe and of knowledge itself, the true cause of joy to the gods and sorrow to the asuras. Sri Madhvacharya refuted the doctrines born of confusion and established on earth the Tattva-vada that Hari alone is Sarveshvara.",
+    action:"Before entering, offer Hari Vandanam ('narayanaya paripurna-gunarnavaya') and then Guru Vandanam to Jagadguru Sri Madhvacharya ('yo vipralambha... ananda-tirtha-munivaryam aham namami').",
     start:"12:21", end:"13:18", type:"mantra",
     title:"Salutation at the Door",
     sanskrit:"Guru – Hari – Madhva Namaskāra",
@@ -82,8 +88,8 @@
   },
   {
     id:"06", slug:"dvarapala-namana", group:"The Pūjā",
-    contemplate:"Srihari's shrine is the palace of the Lord of all, ringed by sixteen gates each kept by guardian devatas (Śrī at every gate, with Jaya–Vijaya, Bala–Prabala, Nanda–Sunanda, Kumuda–Kumudākṣa). Born of a lowly body, you have no right to enter without their leave.",
-    action:"Salute the gate-guardians and Śrī, then chant the Ṛgvedic invitation to Vāyu and prepare to enter.",
+    contemplate:"The shrine is Vaikuntha, and its four cardinal gates are each kept by Sri together with two guardians — Jaya and Vijaya at the east, Bala and Prabala at the south, Nanda and Sunanda at the west, Kumuda and Kumudaksha at the north. Vayu is saluted as Samasta-karma-prerakah, the impeller of every action: nothing you are about to do is done by you alone.",
+    action:"Salute Sri and the dvarapalakas gate by gate, then Sri Vayudeva ('samasta-karma-prerakaya sri vayave namah'). Chanting the Vayu mantra 'vayav a yahi darshata', clap the hands three times, open the doors of the shrine and enter with the right foot first.",
     start:"13:18", end:"13:52", type:"mantra",
     title:"Sri Lakshmi & Dik Devatha Vandhanam & Sri Vayu Deva Vandhanam",
     sanskrit:"Dvārapāla / Dik-Devatā Namana",
@@ -98,8 +104,8 @@
   },
   {
     id:"07", slug:"entering-lighting-the-lamp", group:"The Pūjā",
-    contemplate:"Srihari is the indweller in everything here — the ground, walls, lamp, flowers, vessels and the worshipper himself. The kindled lamp is light dispelling the darkness, the auspicious opening of the worship.",
-    action:"Enter right foot first without treading the threshold; light the lamps chanting 'Agnina agni…'.",
+    contemplate:"Agni is kindled by Agni himself — the wise one, master of the house, ever young, bearer of the oblation, whose mouth is the ladle. The lamp is lit before anything else is done, so that the whole worship takes place in that light.",
+    action:"Having entered right foot first, light the lamps chanting the Agni mantra 'agninagnih samidhyate kavir grihapatir yuva, havyavad juhvasyah', with 'dipam prajvalya'.",
     start:"13:53", end:"14:24", type:"mantra",
     title:"Lighting the Lamp",
     sanskrit:"Dīpa-prajvālana",
@@ -124,8 +130,8 @@
   },
   {
     id:"09", slug:"bhutocchatana", group:"The Pūjā",
-    contemplate:"Auspicious acts always draw obstacles from asuras, bhūtas and piśācas; unremoved they hinder the pūjā. Pray to Rudra, to Vāyu within him, and to Narasiṃha within that Vāyu to clear them.",
-    action:"Stamp the heel thrice, clap thrice, chant 'Apasarpantu ye bhūtā…'; show the arrow (nārāca) mudrā to bind the directions (dikbandhana).",
+    contemplate:"The mantra is of Vamadeva Rishi, the Bhutas are its devata, Anushtup its chandas, and its viniyoga is bhutocchatana — the clearing away of obstructing spirits. Note that it does not banish everyone: the devatas who dwell in this place are asked to stay, favourably disposed.",
+    action:"Touch the head, the heart and the mouth as you name the rishi, devata and chandas. Then chant 'apasarpantu ye bhutah' — let the bhutas standing on the earth and the bhutas that make obstacles depart by Shiva's command, let the cruel rakshasas withdraw; but let the devatas ever dwelling here remain, and with their concurrence I begin this brahma-karma.",
     start:"14:59", end:"15:42", type:"mantra",
     title:"Removing Obstructing Spirits",
     sanskrit:"Bhūtocchāṭana",
@@ -141,8 +147,8 @@
   },
   {
     id:"10", slug:"asana-shuddhi", group:"The Pūjā",
-    contemplate:"Honour the seat-devatas — Ādhāra-śakti, Kūrma, Varāha, Śeṣa, Kālāgni-Rudra, Pṛthvī — and ask Earth to bear you and make the seat pure. Visualise the Sudarśana Chakra guarding every direction.",
-    action:"Lay the darbha mat, deer-skin and cloth; show the arrow mudrā and bind the directions; sit, settling the auspicious at the seat's base.",
+    contemplate:"The seat is not merely a mat. Sitting on it you are seated on the orb of Soma, on the back of Kurma; the seats of Ananta and of Kurma are saluted first. Then Earth herself is addressed — she who upholds the worlds and is upheld by Vishnu.",
+    action:"Take the seat with 'asane soma-mandale kurma-skandhe upavishto smi', saluting Anantasana and Kurmasana. Then, with the Prithvi mantra (Meru-prishtha rishi, Kurma devata, Sutala chandas), pray: uphold me too, make this seat pure and make me pure.",
     start:"15:43", end:"16:50", type:"mantra",
     title:"Purifying the Seat",
     sanskrit:"Āsana Śuddhi",
@@ -162,8 +168,8 @@
   },
   {
     id:"11", slug:"deha-shuddhi", group:"The Pūjā",
-    contemplate:"Our mortal body emanates bad smell and dirt; the Lord's body is aprākṛta, of puṇya-gandha. Even ordinary devatas keep far from us — it is a great liberty to approach Him.",
-    action:"With folded hands chant 'Yebhyo mātā…' begging Him to bear our smell and excuse our nearness.",
+    contemplate:"The Lord's body is aprakrita; ours gives off a human smell. Approaching Him at all is a liberty, so the odour is confessed openly rather than ignored.",
+    action:"With folded hands chant the Vedic verses 'yebhyo mata madhumat pinvate payah' and 'ya evapitre vishvadevaya vrishne', and then say plainly: 'manusho gandha ayati deva tat kshamyatam prabho' — the human odour comes, O Lord; pardon it.",
     start:"16:51", end:"17:42", type:"mantra",
     title:"Prayer to the Lord to Bear the Human Odor",
     sanskrit:"Prārthanā",
@@ -176,8 +182,8 @@
   },
   {
     id:"12", slug:"brahmapara-stotra", group:"The Pūjā",
-    contemplate:"Imagine a thin screen before Srihari. This priceless stotra (of Kaṇḍu Ṛṣi) pleases Him, wipes even Brahmahatyā-doṣa, and drives out rāga, dveṣa, ego, moha and mamatā. One who omits it is unfit to worship.",
-    action:"Seated on a raised vedikā, chant the Brahmapāra Stotra and become free of doṣas before the worship.",
+    contemplate:"Chanting this stotra is what makes you eligible to perform the puja. The screen between the Lord and you is removed by it, and the sins of Karma-lopa (omission of duty) and Dhyana-bhanga (broken meditation) are absolved. Kandu Rishi is the seer, the Vishvedevas the devata, Trishtup the chandas, and the viniyoga is expressly pujadhikara-siddhi.",
+    action:"Chant the Brahmapara Stotra with its viniyoga before beginning: Vishnu is the shore beyond every shore, the highest beyond the highest, cause of the cause and the doer within every deed. Pray that, as He is Purushottama, so may raga, dvesha and the rest of your faults come to rest.",
     start:"17:43", end:"19:25", type:"mantra",
     title:"Brahmapāra Stotra",
     sanskrit:"for fitness to worship (Pūjādhikāra-siddhi)",
@@ -190,7 +196,7 @@
 "japatā kaṇḍunā devo yenārādhyata keśavaḥ ॥\n"+
 "\n"+
 "sūta uvāca\n"+
-"pāraḥ paraṃ viṣṇur apāra-pāraḥ\n"+
+"pāraḥ paraṃ vishnur-anantha pāraḥ\n"+
 "paraḥ parāṇām api pāra-pāraḥ ।\n"+
 "sa brahmapāraḥ para-pāra-bhūtaḥ\n"+
 "paraḥ parebhyaḥ paramārtha-rūpī ॥\n"+
@@ -213,8 +219,8 @@
   },
   {
     id:"13", slug:"ghanta-nada", group:"The Pūjā",
-    contemplate:"Brahmā dwells in the bell, Garuḍa in its crown, Śeṣa in the stem, Sarasvatī in its sound, Prajāpati in the tongue. By their favour the bell-sound calls the devatas in and drives the asuras out.",
-    action:"Invoke these deities, offer namaskāra, then ring the bell (and again at abhiṣeka, dhūpa, dīpa, naivedya). Then imagine the screen removed.",
+    contemplate:"Brahma dwells in the bell itself, Garuda in its crown, the Naga (Shesha) in its stem, Sarasvati in its tone and Prajapati in its resonance. The sound serves two ends at once — it drives away evil spirits and invites the devas in.",
+    action:"Chant 'ghantayam brahmane namah, makute garudaya namah, dande nagaya namah, svare sarasvatyai namah, nade prajapataye namah', offer flowers or mantrakshata to the bell, and ring it. Ring it again at abhisheka, dhupa, dipa and naivedya.",
     start:"19:26", end:"19:54", type:"mantra",
     title:"Ringing the Bell",
     sanskrit:"Ghaṇṭā-nāda",
@@ -225,8 +231,8 @@
   },
   {
     id:"14", slug:"prarthana-opening-the-casket", group:"The Pūjā",
-    contemplate:"The Lord eternally resides in the sālagrāma and graciously awakens from yoga-nidrā to accept the worship, looking upon the devotee with compassion.",
-    action:"Open the sampuṭa, bow with folded hands and respectfully awaken the Lord, asking Him to look upon you with His wide, cooling, merciful eyes.",
+    contemplate:"The Lord rests in yoga-nidra within the sampushta. You do not command Him out; you beg with folded hands and bowed neck that He rise for the worship, and ask those wide, cool, mercy-filled eyes to fall on you.",
+    action:"Open the sampushta holding the salagramas and pratimas while chanting the Vishnu Gayatri 'om narayanaya vidmahe vasudevaya dhimahi, tanno vishnuh prachodayat'. Then request Him to arise with 'kritanjali-puto bhutva... uttishtha tvam rama-pate' and 'ayatabhyam vishalabhyam'.",
     start:"19:55", end:"20:28", type:"mantra",
     title:"Prayer to Open the Casket",
     sanskrit:"Prārthanā",
@@ -243,8 +249,8 @@
   },
   {
     id:"15", slug:"nirmalya-visarjana-shri-sukta", group:"The Pūjā",
-    contemplate:"Rudra waits on the Lord's left, holding a vessel on his head to receive the nirmālya (yesterday's flowers). In the Lord's presence only Lakṣmī, Vāyu, Śeṣa and Garuḍa may be worshipped — all others only after His pūjā.",
-    action:"Place the nirmālya on the Lord's left imagining Rudra receiving it, chanting the Śrī / Ambhṛṇī Sūkta; then begin the abhiṣeka, collecting the nirmālya-tīrtha.",
+    contemplate:"Yesterday's offerings have done their work and are now nirmalya. Removing them is itself an upachara, done with the Ambhrini Sukta in which the Devi declares that she moves with the Rudras, Vasus and Adityas and upholds Mitra, Varuna, Indra and Agni.",
+    action:"Chanting the Ambhrini Sukta, take the salagramas out of the opened sampushta, remove the previous day's tulasi, flowers and sandal paste, and place the salagramas gently on the abhisheka plate.",
     start:"20:29", end:"21:24", type:"mantra",
     title:"Removing the Previous Offerings",
     sanskrit:"Nirmālya Visarjana · Śrī Sūkta",
@@ -257,8 +263,8 @@
   },
   {
     id:"16", slug:"salagrama-preparation", group:"The Pūjā",
-    contemplate:"Hari is ever-present in the sālagrāma stone; salute Bhīmasena / Mukhyaprāṇa, the mighty-armed, as you prepare the stones for the bath.",
-    action:"Wash the sālagrāmas and place them on the abhiṣeka tray; collect the water into the argha vessel.",
+    contemplate:"Kali Purusha may have taken up residence in the salagrama by his own might. Bhimasena — the mighty-armed — is the one asked to drive him out, before the bath begins.",
+    action:"Chant 'salagrama-shilayam tu vasantam kalim ojasa, bhimasena mahabaho ucchataya namo stu te', requesting Sri Bhimasena to drive the Kali Purusha out of the salagramas.",
     start:"21:25", end:"21:53", type:"mantra",
     title:"Preparing the Sālagrāmas",
     sanskrit:"Sālagrāma Prokṣaṇa",
@@ -269,8 +275,8 @@
   },
   {
     id:"17", slug:"ashtakshara-japa", group:"The Pūjā",
-    contemplate:"The eight-syllable Nārāyaṇa mantra is the root of all mantras; touching the water and repeating it sanctifies both the water and the worshipper before the bath.",
-    action:"Pour pure water, touch it, and recite 'oṃ namo nārāyaṇāya' twelve times.",
+    contemplate:"The eight-syllable Narayana mantra is the root of all mantras. Repeating it mentally over the water is what makes the water fit to touch the Lord.",
+    action:"Close the shankha with the right hand and repeat 'om namo narayanaya' twelve times mentally over the water before the abhisheka.",
     start:"21:54", end:"22:18", type:"mantra",
     title:"Purifying the Abhiṣeka Water",
     sanskrit:"Nārāyaṇa Aṣṭākṣara Mantra",
@@ -279,8 +285,8 @@
   },
   {
     id:"18", slug:"ambhrini-sukta-abhisheka", group:"The Pūjā",
-    contemplate:"The Devī (Ambhṛṇī / Vāk) sūkta proclaims the goddess's all-pervading power — 'I move with the Rudras, Vasus and Ādityas; I uphold Mitra, Varuṇa, Indra and Agni.' Bathe the sālagrāmas in this sound.",
-    action:"Abhiṣeka the sālagrāmas with the śaṅkha chanting the Ambhṛṇī Sūkta; collect the water as the precious nirmālya-tīrtha.",
+    contemplate:"This abhisheka water does not run to waste — it becomes the Nirmalya Tirtha, which will be offered to Sri, Hanuman, Garuda and Shesha and then received by you. Bathe Him in the sound of the Sukta.",
+    action:"Fill the shankha with pure water and, ringing the bell, perform abhisheka to the salagramas. Collect the water from the abhisheka plate into two separate vessels: the first for offering the Nirmalya Tirtha to the parivara devatas and to yourself, the second for making the gopichandana paste for the nama mudras.",
     start:"22:19", end:"23:35", type:"mantra",
     title:"Abhiṣeka with the Devī Sūkta",
     sanskrit:"Ambhṛṇī / Devī Sūkta",
@@ -295,8 +301,8 @@
   },
   {
     id:"19", slug:"shankha-abhisheka-shri-sukta", group:"The Pūjā",
-    contemplate:"First bathe the conch, Prāṇadeva, Garuḍa and Śeṣa. The Śrī Sūkta invokes Lakṣmī — golden, preceded by horses, gladdened by elephants' trumpeting — 'may Śrī take delight in me.'",
-    action:"Bathe the śaṅkha with pure water then tīrtha, chanting the Śrī Sūkta.",
+    contemplate:"Sri Lakshmi resides in the shankha, so the conch is bathed first among the parivara devatas — the Lord's own consort receiving her share before Hanuman, Garuda and Shesha.",
+    action:"Perform abhisheka to the shankha (Sri Lakshmi) with the Sukta, and offer the Nirmalya Tirtha to her three times.",
     start:"23:36", end:"24:13", type:"mantra",
     title:"Abhiṣeka of the Śaṅkha",
     sanskrit:"Śaṅkha Abhiṣeka · Śrī Sūkta",
@@ -311,8 +317,8 @@
   },
   {
     id:"20", slug:"pranadeva-abhisheka", group:"The Pūjā",
-    contemplate:"Bathe Mukhyaprāṇa — 'my mother Mātariśvan, my father, the inner soul of all' — and through him pray to Govinda for pure, motiveless, unwavering devotion. His tīrtha is taken after the pūjā.",
-    action:"After the preliminary pure-water rinse, perform Prāṇadeva's mantra-abhiṣeka with the Baḷitthā Sūkta and Vāyu-stuti; retain this water as Prāṇadeva-tīrtha.",
+    contemplate:"Mukhyaprana is addressed as mother Matarishvan, as father, as guru and dearest kinsman, as the indweller of all — and it is through him that devotion to Govinda is asked for: devotion that is strong, motiveless, without pretence, and unshakable.",
+    action:"Perform abhisheka to Hanuman — the pratima, or the figure of Hanuman on the bell — chanting the Balittha Sukta and the Vayu stuti, then offer the Nirmalya Tirtha to him three times.",
     start:"24:14", end:"25:43", type:"mantra",
     title:"Abhiṣeka of Prāṇadeva (Vāyu)",
     sanskrit:"Baḷitthā Sūkta · Vāyu Stuti",
@@ -330,8 +336,8 @@
   },
   {
     id:"21", slug:"garuda-shesha-guru-abhisheka", group:"The Pūjā",
-    contemplate:"Bathe Garuḍa, Śeṣa and (if kept) the gurus' vṛndāvanas, each with their stotras — the attendants worshipped in the Lord's presence. Their tīrtha is only sprinkled on the head, not taken.",
-    action:"Abhiṣeka Garuḍa, Śeṣa and gurus, collecting the water into the argha vessel.",
+    contemplate:"Garuda is meditated on as golden, bearing the two pots full of nectar; Shesha as white, thousand-hooded, hands folded, garlanded and blue-robed, ever to be contemplated behind Vishnu. After them come the gurus, and only then do you receive the tirtha yourself.",
+    action:"Perform abhisheka to Garuda ('om gum garudaya namah') and to Shesha ('om shem sheshaya namah'), offering the Nirmalya Tirtha three times to each, and likewise to the mrittika brindavanas of the gurus if you keep them. Then sip the Nirmalya Tirtha three times and sprinkle it on your head the fourth time — on Ekadashi, only once.",
     start:"25:44", end:"26:18", type:"mantra",
     title:"Abhiṣeka of Garuḍa, Śeṣa & Gurus",
     sanskrit:"Garuḍa · Śeṣa · Guru Abhiṣeka",
@@ -343,8 +349,8 @@
   },
   {
     id:"22", slug:"mantapa-dhyana", group:"The Pūjā",
-    contemplate:"Visualise the golden jewelled maṇṭapa — gem doors, diamond toraṇas, crystal walls, pearl-hung gold pillars, a navaratna-garlanded pīṭha under a crowned canopy. Picturing Srihari's seat in such splendour, with devotion, itself delights Him.",
-    action:"Meditate on the resplendent maṇṭapa and mentally seat Srihari within it for the worship.",
+    contemplate:"Build the pavilion in the mind, in detail: a raised stage of burnished blazing gold, walls of pure crystal, lovely golden pillars, doorways studded with gems, swastikas white as conch and lotus, canopies hung with strings of pearls, steps of diamond, kalashas wrought of many jewels, and ruby lamps whose blaze is the playground of Lakshmi. Add the sweeping and rangoli, the flags and toranas, sugarcane and plantain, the full pots, and the sound of song, instruments, dance and Purana recitation.",
+    action:"Meditate on the mantapa with these verses, then pray for grace with 'aradhyase pranabhritam pranetra... svamin namah sri ramana prasida', and perform pranayama.",
     start:"26:19", end:"27:48", type:"mantra",
     title:"Meditation on the Pavilion",
     sanskrit:"Maṇṭapa Dhyāna",
@@ -365,8 +371,8 @@
   },
   {
     id:"23", slug:"prarthana-bimba-pratibimba", group:"The Pūjā",
-    contemplate:"'You are the original (bimba), I am your reflection (pratibimba): blemishless vs flawed, limitless vs finite, blissful vs sorrowful, knowledge vs ignorance.' As the reflection only moves when the original moves, all I do is by you — relieve me of my faults.",
-    action:"Chant 'Bimbo'si pratibimbo'si…' and offer your prayer of dependence and surrender.",
+    contemplate:"You are the reflection, He the original: flawless against flawed, infinite against finite. Since a reflection moves only as the original moves, whatever good act you are made to do is His doing — so the worship itself is asked for as His gift.",
+    action:"Chant 'bimbo si pratibimbo smi' asking Him to purge your faults, and 'bhagavan yan maya karma shubham karayasi prabho' — let all of it become Vishnu-puja by your grace.",
     start:"27:49", end:"28:36", type:"mantra",
     title:"Prayer — Reflection of the Lord",
     sanskrit:"Bimba-Pratibimba Prārthanā",
@@ -386,8 +392,8 @@
   },
   {
     id:"24", slug:"achamana-pranayama-sankalpa", group:"The Pūjā",
-    contemplate:"Srihari makes us perform every act through Lakṣmī, Brahmā and the devatas, by our past karma. 'His strength is my strength, His splendour my splendour; only if He acts can I act.'",
-    action:"Do ācamana (Keśava names) and prāṇāyāma, then resolve (saṅkalpa): empowered by Srihari, to please Him, I perform this pūjā as prescribed — naming the place, day, tithi and nakṣatra.",
+    contemplate:"Every faculty used in this puja is borrowed: by the Lord's strength, by His valour, by His splendour, by His action, and enlivened by Him are my mind, body and senses. The resolve is made in that awareness, not as a personal undertaking.",
+    action:"Do achamana and pranayama, then make the sankalpa — naming the kalpa, manvantara, yuga, place, samvatsara, ayana, ritu, paksha, tithi, vara and nakshatra — resolving to offer the sixteen-upachara puja (avahanadi shodasha-upachara) to Sri Lakshmi-Narayana within Bharatiramana Mukhyaprana.",
     start:"28:37", end:"30:03", type:"mantra",
     title:"Ācamana · Prāṇāyāma · Saṅkalpa",
     sanskrit:"Saṅkalpa (statement of intent)",
@@ -412,8 +418,8 @@
   },
   {
     id:"25", slug:"kalasha-puja", group:"The Pūjā",
-    contemplate:"Viṣṇu is at the kalaśa's mouth, Rudra at the neck, Brahmā at the base, the Mātṛ-gaṇas in the middle; the seven oceans, the Vedas and the river-devatas (Gaṅgā, Yamunā, Sarasvatī, Godāvarī, Narmadā, Sindhu, Kāverī) dwell in the water.",
-    action:"Show the mudrās (garuḍa removes poison, dhenu nectarises, śaṅkha purifies, gadā seals directions, cakra protects); draw a six-pointed lotus on the water with tulasī; chant 'Kalaśasya mukhe Viṣṇuḥ…'.",
+    contemplate:"Vishnu is at the mouth of the kalasha, Rudra at its neck, Brahma at its base, the Matri-ganas in its middle; in its belly are all the oceans and the seven continents, and the four Vedas with their angas have taken refuge in it. Gayatri, Savitri, Shanti and Pushtikari abide there too.",
+    action:"Chant 'kalashasya mukhe vishnuh' and invoke Bhagirathi and the other tirthas into both kalashas, offering tulasi dalas. Then show the six mudras: Tarkshya (Garuda) to remove poison, Dhenu to nectarise, Shankha to purify, Chakra to protect, Gada to bind the directions, and Padma to cleanse the water.",
     start:"30:04", end:"32:12", type:"mantra",
     title:"Kalaśa Pūjā & Mudrās",
     sanskrit:"Kalaśa Pūjā",
@@ -438,41 +444,41 @@
   },
   {
     id:"26", slug:"kalasha-avahana", group:"The Pūjā",
-    contemplate:"Into the bathing-kalaśa invoke Mūla Nārāyaṇa with the hundred kalās from Aja onward; into the full pot the same in reverse. The water now holds the Lord and all the tattva- and mātṛkā-devatas.",
-    action:"Invoke 'Śrī Nārāyaṇam āvāhayāmi' with the hundred deities Aja→Śiṃśumāra (forward in the snānīya, reverse in the pūrṇa kalaśa). Touch both kalaśas, repeat the aṣṭākṣara twelve times, then salute the tattva-, mātṛkā- and invoked kalaśa-devatas.",
+    contemplate:"Into the water come a hundred forms: the fifty-one devatas of the letters from A to Ksha, the twenty-four Keshavadi rupas, Atma-Antaratma-Paramatma-Jnanatma, the four vyuhas, Vishva-Taijasa-Prajna-Turiya, the ten avataras, and Vedavyasa, Dattatreya and Shimshumara. Into the snaniya kalasha they are invoked from Aja onward; into the purna kalasha in reverse, from Shimshumara — with Lakshminarayana as antaryami in Budha-Varuna making a hundred and one.",
+    action:"Invoke the hundred kalasha-devatas into the snaniya kalasha in forward order and into the purna kalasha in reverse order. Then touch the two kalashas and chant 'om namo narayanaya' eight times.",
     start:"32:13", end:"33:00", type:"mantra",
     title:"Invoking into the Kalaśa",
     sanskrit:"Kalaśa Āvāhana",
     mantra:
-"snānīya-kalaśe ajādi-śata-kalā-sahitaṃ\n"+
+"snānīya-kalaśe ajādi-shata-kalā-sahitaṃ\n"+
 "śrī-lakṣmī-nārāyaṇam āvāhayāmi ||\n\n"+
-"pūrṇa-kumbhe śiṃśumārādi-śata-kalā-sahitaṃ\n"+
+"pūrṇa-kumbhe śiṃśumārādi-shata-kalā-sahitaṃ\n"+
 "śrī-lakṣmī-nārāyaṇam āvāhayāmi ||\n\n"+
 "oṃ namo nārāyaṇāya oṃ — (twelve times)\n\n"+
-"sarvābhyas tattva-devatābhyo namaḥ |\n"+
+"sarvābhya tattva-devatābhyo namaḥ |\n"+
 "sarvābhyo mātṛkā-devatābhyo namaḥ |\n"+
 "āvāhita-kalaśa-devatābhyo namaḥ ||",
     meaning:"Into the bathing-kalaśa invoke Śrī Lakṣmī-Nārāyaṇa together with the hundred 'rays' (kalās) beginning with Aja; into the full pot (pūrṇa-kumbha, the gandhodaka kalaśa) invoke Him with the hundred kalās beginning with Śiṃśumāra. Then salute all the tattva-devatās, all the mātṛkā-devatās, and the invoked kalaśa-deities."
   },
   {
     id:"27", slug:"kalasha-upachara", group:"The Pūjā",
-    contemplate:"The full pot contains all kṣetras and all sacred waters, and so is dear to Hari. The kalaśa-devatas bestow fame, long life, knowledge, wealth and strength, and redress our sins.",
-    action:"Offer the upacāras to the kalaśa; chant 'Sarva-kṣetra-mayo…' and submit the kalaśa pūjā to Lakṣmī-Nārāyaṇa.",
+    contemplate:"Because the full pot holds all the tirthas and all the kshetras, it is itself dear to Hari. The kalasha-devatas grant fame, long life, wisdom, intellect, prosperity, strength and fitness, destroy sin and increase merit.",
+    action:"Offer the twenty-one upacharas to the devatas present in the two kalashas, then pray with 'sarva-tirthamayo yasmat... purna-kumbha namo stu te', and conclude with the samarpana: by this kalasha-devata-pujana may Bhagavan Sri Lakshminarayana within Bharatiramana Mukhyaprana be pleased.",
     start:"33:01", end:"33:41", type:"mantra",
     title:"Honouring the Kalaśa",
     sanskrit:"Kalaśa Upacāra & Prārthanā",
     mantra:
 "arghyādi-ṣoḍaśopacāra-pūjāṃ samarpayāmi ||\n\n"+
-"sarva-kṣetra-mayo yasmāt sarva-tīrtha-mayo 'pi ca |\n"+
-"ato hari-priyo 'si tvaṃ pūrṇa-kumbha namo 'stu te ||\n\n"+
+"sarva-kṣetra-mayo yasmāt sarva-tīrtha-mayo etha |\n"+
+"ato hari-priyo sith twam pūrṇa-kumbha namo 'stu te ||\n\n"+
 "anena kalaśa-devatā-ārādhanena\n"+
 "bhagavān lakṣmī-nārāyaṇaḥ prīyatām ||",
     meaning:"Offer the sixteen honours (arghya, etc.) to the kalaśa by showing water to it, then pray: 'Because you contain all holy places and all sacred waters, you are dear to Hari — salutations to you, O full pot.' Conclude: 'By this worship of the kalaśa-deity, may Bhagavān Lakṣmī-Nārāyaṇa be pleased,' releasing the water into the argha vessel."
   },
   {
     id:"28", slug:"shankha-puja", group:"The Pūjā",
-    contemplate:"Lakṣmī dwells in the śaṅkha; Viṣṇu's pūjā is done only with it, and it is used only for Viṣṇu — for Lakṣmī herself does the seva, and without it the pūjā bears no fruit. By the Lord's order all tīrtha-devatas reside in it.",
-    action:"Praise the conch ('Tvaṃ purā sāgarotpanna…'), fill it from the kalaśa with the uddharaṇī (never by immersion, never on the ground), add tulasī, chant the Śaṅkha Gāyatrī thrice, offer the eight upacāras.",
+    contemplate:"Chandra and Surya stand at the conch, Varuna in its middle, Prajapati at its back, Ganga and Sarasvati at its tip, and Sri Lakshminarayana as the indweller of them all. Born of the ocean and held in Vishnu's hand, its sound shatters the wombs of the demons and scatters the clouds to the ten directions; sins dissolve at the mere sight of it, as snow does at sunrise, let alone at its touch. By Vasudeva's command every tirtha of the three worlds abides in it.",
+    action:"Fill the shankha with pure water and tulasi, close its mouth with the right hand and chant the Shankha Gayatri 'panchajanyaya vidmahe mahadaraya dhimahi, tannah shankhah prachodayat' three times. Show the six mudras, chant 'om namo narayanaya' twelve times, invoke the devatas into the conch and offer the upacharas. Sprinkle this sanctified water on all the puja items and on yourself.",
     start:"33:42", end:"35:38", type:"mantra",
     title:"Śaṅkha Pūjā",
     sanskrit:"Worship of the Conch · Śaṅkha Gāyatrī",
@@ -482,7 +488,7 @@
 "śaṅkhādau candra-daivatyaṃ madhye varuṇa-daivatam |\n"+
 "pṛṣṭhe prajāpatiṃ vidyād agre gaṅgā-sarasvatī ||\n\n"+
 "trailokye yāni tīrthāni vāsudevasya cājñayā |\n"+
-"śaṅkhe tiṣṭhanti viprendra tasmāc chaṅkhaṃ prapūjayet ||\n\n"+
+"śaṅkhe tiṣṭhanti viprendra tasmāt śaṅkhaṃ prapūjayet ||\n\n"+
 "oṃ pāñcajanyāya vidmahe mahādarāya dhīmahi |\n"+
 "tan naḥ śaṅkhaḥ pracodayāt ||\n\n"+
 "oṃ śaṅkha-devatābhyo namaḥ |\n"+
@@ -497,8 +503,8 @@
   },
   {
     id:"29", slug:"pitha-puja", group:"The Pūjā",
-    contemplate:"Worship the throne-deities before installing the Lord. The pīṭha's legs carry Dharma, Jñāna, Vairāgya and Aiśvarya (Yama, Vāyu, Śiva, Indra); the gurus sit outside-left in vyākhyāna-mudrā. Recall the whole cosmic ladder rising up to this seat.",
-    action:"Recite the concise pīṭha-pūjā verse and mentally worship Srihari's jewelled seat; retain the extended guru and āvaraṇa hierarchy as contemplation.",
+    contemplate:"Honour the seat before the Lord is seated on it: it is Vishnu's own asana, wrought of divine gems, belonging to the Lord of pradhana and purusha.",
+    action:"Chant 'vishno asana-bhutaya divya-ratna-mayaya cha, pradhana-purusheshaya maha-pithaya te namah' and offer flowers and mantrakshata on the place where the box holding the salagramas rests.",
     start:"35:39", end:"36:18", type:"mantra",
     title:"Pīṭha Pūjā",
     sanskrit:"Worship of the Seat",
@@ -509,8 +515,8 @@
   },
   {
     id:"30", slug:"dhyana", group:"The Pūjā",
-    contemplate:"Meditate on Srihari shining like the rising sun, his body pure jñāna-ānanda, bearing cakra, śaṅkha, gadā and padma, embraced by Śrī and Bhū, served by Brahmā, Vāyu and Rudra. He is the soul of the gods, the womb of the universe.",
-    action:"Chant 'Udyad-bhāsvat…' and meditate on the Lord's form before invoking Him.",
+    contemplate:"Meditate on Him blazing like the rising sun, His very body knowledge and bliss, bearing chakra, shankha, gada and padma, embraced by Lakshmi and Bhu, served with devotion by Brahma, Vayu, Shiva, Shesha and Indra. Those who touch the salagrama day after day — even Indra and the gods long for the touch of their hands.",
+    action:"Touching the salagramas with the right hand, chant 'udyad-bhasvat-samabhasah' and meditate on Hari manifest in the salagrama as one with the bimba-murti within your own heart.",
     start:"36:19", end:"37:06", type:"mantra",
     title:"Meditation on the Lord",
     sanskrit:"Dhyāna",
@@ -548,8 +554,8 @@
   },
   {
     id:"32", slug:"arghyadi-upachara", group:"The Pūjā",
-    contemplate:"Welcome Him as a revered guest. Imagine each service offered through Lakṣmī — Arghya by Lakṣmī, Pādya by Sarasvatī, Ācamana by Rati, Madhuparka by Brahmā — every welcome flowing through her hands.",
-    action:"Offer arghya, pādya, ācamanīya, madhuparka and punar-ācamana, touching the śaṅkha each time with its mantra ('Apohiṣṭha…', 'Madhuvātā…').",
+    contemplate:"The six vessels are not plain water: Lakshmi is invoked in the arghya cup, Sarasvati in the padya, Rati in the achamaniya, Brahma (Pitamaha) in the madhuparka, Shanti in the punarachamaniya and Varuna in the snaniya. Each welcome is offered through the devata who presides over it.",
+    action:"First pray Him to arise for the bath — 'uttishtha brahmanaspate... ehi sri bhagavan vishno snanartham majjanalayam'. Then offer arghya, padya, achamaniya, madhuparka and punarachamaniya from the first five of the six cups.",
     start:"38:03", end:"39:09", type:"mantra",
     title:"Arghya & Welcome Offerings",
     sanskrit:"Arghyādi Upacāra",
@@ -563,8 +569,8 @@
   },
   {
     id:"33", slug:"mahabhisheka-purusha-sukta", group:"The Pūjā",
-    contemplate:"Abhiṣeka becomes tīrtha only when chanted with the Puruṣa Sūkta — never omit it. Water pardons ten wrongs, milk a hundred, curd a thousand, ghee ten thousand, honey a lakh — bathe Him in this spirit of cleansing grace; then the kalaśa-rūpas merge into the idol.",
-    action:"Bathe Him with śaṅkha-water and the Puruṣa Sūkta, ringing the bell; then directly with the pūrṇa-kumbha naming the kalaśa-devatas Aja→Śiṃśumāra, and finally with svādūdaka.",
+    contemplate:"The Purusha Sukta is the sound in which He is bathed: Narayana is its rishi, Purusha its devata, Anushtup the chandas of the first fifteen and Trishtup of the last. The Purusha of a thousand heads, a thousand eyes and a thousand feet pervades the earth on every side and stands ten fingers beyond; all this is He, what has been and what is yet to be.",
+    action:"Fill the shankha from the snaniya kalasha and perform abhisheka to the salagramas with the Purusha Sukta, ringing the bell with the left hand. Then bathe them with the gandhodaka of the purna kalasha. Afterwards take the salagramas and pratimas from the plate one by one, dry them with the sanctified napkin, replace them in the sampushta, and collect the abhisheka water into the tirtha patra.",
     start:"39:10", end:"40:44", type:"mantra",
     title:"Grand Abhiṣeka — Puruṣa Sūkta",
     sanskrit:"Mahābhiṣeka · Puruṣa Sūkta",
@@ -583,8 +589,8 @@
   },
   {
     id:"34", slug:"vastra-abharana", group:"The Pūjā",
-    contemplate:"Srihari Himself is in the form of the cakra and weapons, and Ramā Devī in them; presiding deities dwell in the ornaments. Tulasī is supreme — pūjā without it is unacceptable; archana with tulasī, leaf by leaf with His names, yields immeasurable benefit.",
-    action:"Place the sālagrāmas on tulasī leaves in the sampuṭa, dry and dress the pratimās, then offer garments, the Kaustubha and ornaments, the weapons, sacred thread, gandha, akṣata, and fragrant flowers with tulasī (one daḷa at a time). During puṣpārcana, recite the Viṣṇu Sahasranāma or another Viṣṇu stotra.",
+    contemplate:"See who is really doing the serving: Garuda offers the pitambara, Shesha the seat, Shiva the kalasha, Manmatha the gopichandana, and Surya and Chandra the mirror. The flowers too have their presiding deities — Anjaneya in parijata, Bhimasena in saugandhika, Shiva in the white flowers, Garuda in punnaga, Varuna in durva grass, and Sri Lakshmi in tulasi.",
+    action:"Offer vastra, then ornaments and the chakra with the ten weapons, the yajnopavita, and the sandhya arghya on the Lord's behalf with the Vishnu Gayatri. Offer chandana and akshata, then perform archana with tulasi and fragrant flowers using the twenty-four Keshavadi namavali and the ten Dashavatara namavali — and, if time permits, the 564 Brahma Sutra namavali and the Vishnu Sahasranama. Finish with the flower garland.",
     start:"40:45", end:"41:48", type:"mantra",
     title:"Garments, Ornaments & Flowers",
     sanskrit:"Vastra · Ābharaṇa · Puṣpa",
@@ -602,8 +608,8 @@
   },
   {
     id:"35", slug:"dhupa-dipa", group:"The Pūjā",
-    contemplate:"Showing dhūpa and dīpa with full devotion prospers crores of generations of one's line; though we smell the dhūpa's fragrance, it is not thereby spoiled and does not become nirmālya.",
-    action:"Show dhūpa-ārati (ten fragrant components + ghee) ringing the bell — never fanned by hand, cloth or mouth; then the lamp of three wicks ('sājyaṃ tri-varti…'), foot to head.",
+    contemplate:"The incense is born of the forest trees, divine, first among fragrances and foremost of all that is offered to the gods. The lamp is the dispeller of the darkness of all three worlds — the prayer with it is bluntly personal: save me from dreadful hell, salutations to the divine light.",
+    action:"Place burning charcoal on the dhupa ladle, add a spoonful of dasanga, and wave it three times around the Lord while ringing the bell with the left hand. Then show the lamp of three wicks soaked in ghee or gingelly oil with 'sajyam trivarti samyuktam', ringing the bell and sounding the cymbals (jankatti).",
     start:"41:49", end:"43:00", type:"mantra",
     title:"Incense & Lamp",
     sanskrit:"Dhūpa · Dīpa",
@@ -618,8 +624,8 @@
   },
   {
     id:"36", slug:"naivedya", group:"The Pūjā",
-    contemplate:"Know firmly that the rūpa in your heart, the rūpa in the sālagrāma, and the food are one and the same. Imagine the devatas cooking, Śrī serving Nārāyaṇa, Mukhyaprāṇa fanning Him, and Bhāratī and the attendants assisting; behold His eyes (Kapila), nose (Narasiṃha), mouth (Paraśurāma), and tongue (Kūrma) receiving the offering.",
-    action:"Clean the Lord's right side and draw two maṇḍalas marked with śrī or oṃ. Arrange cooked food on one and milk or fruit on the other, add tulasī and ghee, consecrate the sprinkling water eight times and perform prokṣaṇa. Then do pariṣecana, āpośana and the five prāṇa-āhutis before offering the mahā-naivedya.",
+    contemplate:"Vasudeva is present in the cooked rice, Sankarshana in the side dishes, Pradyumna in the payasa, Aniruddha in the ghee, and Narayana in everything. Sri Lakshmi serves the food, Bharati the consort of Mukhyaprana has cooked it, and Vayudeva fans Him. As Kapila He sees the food, as Narasimha He smells it, as Parashurama He eats it, and as Kurma He tastes it — and so sanctifies what was offered.",
+    action:"Draw a square mandala before the Lord inscribed with SHRI and OM. Place cooked rice at the centre, bakshya to the southeast, dal to the southwest, vegetables to the northwest, payasa to the northeast, ghee between the payasa and the rice, and drinking water on the Lord's right. Sprinkle ghee on each item except water, milk and curd (abhigara) and add tulasi. Fill the shankha with water and tulasi, chant 'om namo narayanaya' eight times, then the Vishnu Gayatri and the Gayatri, and sprinkle it over the food (prokshana). Show the six mudras — Tarkshya, Dhenu, Shankha, Chakra, then Giri for increase and Shashi for cooling. Do parishechana with 'satyam tvartena parishinchami', aposhana with 'om amrita upastaranam asi', and the six ahutis: prana, apana, vyana, udana, samana and brahmane svaha.",
     start:"43:01", end:"44:51", type:"mantra",
     title:"Food Offering",
     sanskrit:"Naivedya · Prāṇa-āhuti",
@@ -637,8 +643,8 @@
   },
   {
     id:"37", slug:"dvadasha-stotra-naivedya", group:"The Pūjā",
-    contemplate:"As the Lord dines, praise Him with Madhva's Dvādaśa Stotra — saluting the lotus-feet of Śrīpati, polished by the crowns of bowing gods, that dispel the darkness of the heart.",
-    action:"Chant the Dvādaśa Stotra and the mūla mantra; formally offer the great food with tulasī, giving drinking-water intermittently ('madhye madhye pānīyam').",
+    contemplate:"Picture the meal as it is described — food served in golden vessels studded with clusters of gems, well cooked with cow's ghee, the chewable, the edible and the lickable, with vegetables, curd, honey, ghee, milk and water, and tambula after. Contemplate this daily as offered to Vishnu.",
+    action:"Chant the Dvadasha Stotra throughout the offering of naivedya, offering drinking water in between ('madhye paniyam samarpayami'), and submit the great offering with 'shrinivasa namas tubhyam mahanaivedyam uttamam'.",
     start:"44:52", end:"45:38", type:"mantra",
     title:"Dvādaśa Stotra & Offering",
     sanskrit:"Dvādaśa Stotra (Śrī Madhvācārya)",
@@ -653,8 +659,8 @@
   },
   {
     id:"38", slug:"tambula-rajopachara", group:"The Pūjā",
-    contemplate:"Śrī serves Nārāyaṇa while Brahmā and the devatas attend Him. The Lord accepts the meal and the post-meal services through Lakṣmī's hands.",
-    action:"Draw the curtain and recite the Nārāyaṇa aṣṭākṣara 108 times while contemplating that the Lord is dining. Offer uttara-āpośana, then hand-rinse, mouth-rinse, face cloth, tāmbūla and the golden flower.",
+    contemplate:"The meal is over and He has risen. What follows is simple hospitality — water for the hands, the mouth, the feet, and for achamana — offered exactly as one would to an honoured guest.",
+    action:"Offer uttara-aposhana with 'amrita-apidhanam asi', then hasta-prakshalana; let water flow on your left side for gandusha; then pada-prakshalana and achamaniya three times. Offer a variety of fruits, then tambula of areca nut with betel leaves and camphor powder, and dakshina.",
     start:"45:39", end:"46:29", type:"mantra",
     title:"Hand-rinse & Betel",
     sanskrit:"Hasta-prakṣālana · Tāmbūla",
@@ -670,8 +676,8 @@
   },
   {
     id:"39", slug:"maha-mangalarati", group:"The Pūjā",
-    contemplate:"Wave the five-wick ārati to the Lord — feet, middle, face, then whole form — the lights circling Hari, the sun of the self, destroyer of the darkness in his devotees' hearts.",
-    action:"With a five-wick lamp and the bell ringing, circle three times at the feet, three at the middle, three at the face, and three over the complete form while chanting the 'jayati' verses; then put out the wicks.",
+    contemplate:"Each lamp is first touched to the conch, and because the shankha is Sri Lakshmi, the Maha Neerajana is taken to be performed by her and on her behalf. Seeing that lamp-lit face of Vishnu burns away crores of sins, even Brahmahatya, by the mere sight of it.",
+    action:"Prepare a lamp of five wicks in ghee or gingelly oil, other multi-wick lamps, and a camphor lamp. Touch each to the shankha, then wave them one by one three times before the Lord, ringing the bell with the left hand and sounding the jankatti, chanting 'archata prarchata' and 'jayaty ajo khanda-gunoru-mandalah'. Show the arati to the shankha, Hanuman, Garuda, Shesha and the gurus' brindavanas, offer it to the elders, and then take it with the right hand only.",
     start:"46:30", end:"47:38", type:"mantra",
     title:"Great Ārati",
     sanskrit:"Mahā Maṅgaḷārati (Dvādaśa Stotra)",
@@ -692,8 +698,8 @@
   },
   {
     id:"40", slug:"mantra-pushpa", group:"The Pūjā",
-    contemplate:"Meditate on Śrī Kṛṣṇa appearing with a smiling lotus-face, wearing yellow garments and a flower garland, while offering flowers, tulasī and every desired good back to Him.",
-    action:"Hold flowers and tulasī, chant the Mantra-puṣpa and the Kṛṣṇa verse, then offer the puṣpāñjali to Bhagavān.",
+    contemplate:"He is our father and begetter, the ordainer who knows every abode and all the worlds, the one giver of names to the gods. And to those who praise Him, Shauri appears — lotus face smiling, robed in yellow, garlanded, the very Manmatha of Manmatha.",
+    action:"Take tulasi, flowers and mantrakshata and shower them on the Lord while chanting the Mantra Pushpa, offering the pushpanjali to Sri Lakshminarayana together with the pitha-avarana devatas.",
     start:"47:39", end:"48:46", type:"mantra",
     title:"Mantra Puṣpa",
     sanskrit:"Mantra-Puṣpa",
@@ -716,8 +722,8 @@
   },
   {
     id:"41", slug:"chatra-chamara-rajopachara", group:"The Pūjā",
-    contemplate:"Contemplate Srihari as the supreme sovereign, receiving every royal service with devotion.",
-    action:"Offer the umbrella, cāmara, fan, mirror, song, dance, instruments and praise mentally, placing flowers or tulasī for each service.",
+    contemplate:"Having fed and honoured Him, treat Him as the sovereign He is — the anu-upacharas are the courtesies due to a king, offered with tulasi and flowers when the article itself is not at hand.",
+    action:"Shower tulasi and flowers and offer the royal honours: paduka, chatra, chamara, vyajana, darpana, gita, nritya, vadya and andolika — 'samasta-rajopacharan samarpayami'.",
     start:"48:47", end:"49:25", type:"mantra",
     title:"Royal Honours",
     sanskrit:"Rājopacāra",
@@ -735,8 +741,8 @@
   },
   {
     id:"42", slug:"shankha-tirtha", group:"The Pūjā",
-    contemplate:"The mantra, tulasī and mudrās make the śaṅkha-water purifying and protective; its three rotations remove hostile sight and produce sacred śaṅkha-tīrtha.",
-    action:"Fill the śaṅkha with water, add tulasī, show the dhenu, śaṅkha and cakra mudrās, and repeat the aṣṭākṣara eight times. Rotate it clockwise feet-to-crown, navel-to-crown and heart-to-crown, then collect the water.",
+    contemplate:"This is done for drishti-parihara — to undo the harm of hostile or envious sight, and of yakshas, rakshasas and pishachas. The water that results is Shankha Tirtha, and it is treated differently from the gandhodaka tirtha: it goes on the head, never into the mouth.",
+    action:"Pour pure water and tulasi into the shankha and show the six mudras — Tarkshya, Dhenu, Shankha, Chakra, Giri and Shashi. Close it with the right hand and chant 'om namo narayanaya' eight times. Wave it clockwise three times before the Lord — feet to head, navel to head, heart to head — then transfer the water into a separate tirtha patra. Sprinkle it on your head only; it is never sipped.",
     start:"49:26", end:"50:18", type:"mantra",
     title:"Śaṅkha Tīrtha",
     sanskrit:"Śaṅkha Tīrtha & Ārati",
@@ -750,8 +756,8 @@
   },
   {
     id:"43", slug:"tirtha-distribution", group:"The Pūjā",
-    contemplate:"Srihari's prasāda descends through Ramā, Brahmā, Vāyu, Garuḍa, Śeṣa, the sages and the Vaiṣṇava hierarchy, each receiving it in the proper order.",
-    action:"Sprinkle the śaṅkha-tīrtha on the head, then offer Viṣṇu-pādodaka three times to Ramā, Vāyu, Garuḍa and Śeṣa with nirmālya, gandha, tulasī and flowers. Set aside the Vaiśvadeva portion of naivedya and distribute the remainder as prescribed.",
+    contemplate:"The parivara devatas receive after the Lord, in order — Sri in the conch, then Hanuman, Garuda and Shesha — each given gandha, pushpa and the Maha Abhisheka Tirtha three times.",
+    action:"Perform puja to Sri Lakshmi in the shankha with the Ambhrini Sukta, to Hanuman ('om hum hanumate namah'), to Garuda ('om gum garudaya namah') and to Shesha ('om shem sheshaya namah'), offering the tirtha thrice to each. Then offer Rama Naivedya with the six ahutis and 'rama brahmadayo devah... sri narasimha prasado yam sarve grihnantu vaishnavah'.",
     start:"50:19", end:"51:30", type:"mantra",
     title:"Receiving the Tīrtha",
     sanskrit:"Tīrtha-vitaraṇa",
@@ -765,8 +771,8 @@
   },
   {
     id:"44", slug:"kshamapana-samarpana", group:"The Pūjā",
-    contemplate:"Whatever is deficient in mantra, procedure or devotion is made whole by His remembrance. 'I am not the doer — Hari is the doer of this pūjā and of all action'; offer the whole rite at His feet.",
-    action:"Dedicate: 'By this worship may Śrī Lakṣmī-Nārāyaṇa within Mukhyaprāṇa be pleased — Śrī Kṛṣṇārpaṇam astu'; recite the Nāmatraya (Acyuta, Ananta, Govinda) to mend any lapse.",
+    contemplate:"Whatever was deficient in mantra, in procedure or in devotion is completed by His remembrance and by the utterance of His name. The doing was never yours to claim.",
+    action:"Chant 'yasya smritya cha namoktya' and 'mantra-hinam kriya-hinam bhakti-hinam rama-pate'. Shower mantrakshata and flowers on the seat to send off the devatas ('pitha-avaranadi devatah udvasayami'), and chanting the Manyu Sukta replace the salagramas and pratimas in their sampushtas and the box in its place. Conclude with Sri Krishnarpanam astu.",
     start:"51:31", end:"52:27", type:"mantra",
     title:"Completion & Dedication",
     sanskrit:"Samarpaṇa · Nāmatraya",
@@ -785,8 +791,8 @@
   },
   {
     id:"45", slug:"kshamapana-stotra", group:"The Pūjā",
-    contemplate:"Ask pardon sincerely for the thousands of faults and the 32 kinds of mistake committed day and night. 'I know nothing of the proper rites; you alone are my refuge — out of compassion, protect me.'",
-    action:"Chant the Kṣamāpaṇa Stotra ('na jāne…', 'aparādha-sahasrāṇi…', 'anyathā śaraṇaṃ nāsti…') with a humble, repentant heart.",
+    contemplate:"Thousands of offences are committed by me day and night. There is no sinner like me and none so full of compassion as you — knowing this, protect one who has come for refuge. What is asked for is not relief but constancy: freedom from wretchedness, soundness of body, and firm attachment to your lotus feet for as long as this life lasts.",
+    action:"Chant the prarthana verses — 'yache ham karunasindho', 'aparadha-sahasrani kriyante ahar-nisham maya', 'madrisho na parah papi tvadrisho na dayaparah', and 'anyatha sharanam nasti tvam eva sharanam mama'.",
     start:"52:28", end:"53:40", type:"mantra",
     title:"Asking Forgiveness",
     sanskrit:"Kṣamāpaṇa Stotra",
@@ -809,8 +815,8 @@
   },
   {
     id:"46", slug:"namaskara-mantras", group:"The Pūjā",
-    contemplate:"Bow to the infinite, thousand-formed Lord; sins of even former births perish step by step with each pradakṣiṇa. Then lead Srihari back into the tulasī and flowers and into your own heart.",
-    action:"Circumambulate slowly; do at least five (ideally 100/48/26/24/12) eight-limbed namaskāras on the Lord's right side, without an upper cloth, chanting the namaskāra mantras.",
+    contemplate:"Whatever sins were committed, even in other births, are destroyed step by step with each pradakshina. And a namaskara made to the wielder of the Sharnga, even done insincerely, destroys in that instant the sin accumulated over a hundred births.",
+    action:"Perform pradakshina with 'yani kani cha papani', then the eight-limbed namaskara — chest, head, eyes, mind, speech, feet, hands and knees — chanting 'urasa shirasa drishtya manasa vachasa tatha, padbhyam karabhyam janubhyam pranamo shtango ritah'.",
     start:"53:41", end:"54:43", type:"mantra",
     title:"Prostration",
     sanskrit:"Namaskāra",
