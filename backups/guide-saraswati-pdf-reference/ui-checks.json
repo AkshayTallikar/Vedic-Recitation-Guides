@@ -1,0 +1,16 @@
+{
+  "base": "http://127.0.0.1:8768/",
+  "correctedRowsRendered": 23,
+  "lineMeaningRows": 453,
+  "recitationBoxes": 94,
+  "instructionBoxes": 116,
+  "contemplateActionPairs": 81,
+  "pdfLinks": 15,
+  "referencePdfHashMatches": true,
+  "correctedLineAudioReplay": true,
+  "recordedCueOffset": 2.8900000000001,
+  "observedAudioOffset": 2.89,
+  "mobileOverflow": false,
+  "archivedGuidesHidden": true,
+  "pageErrors": []
+}

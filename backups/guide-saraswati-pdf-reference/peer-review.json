@@ -1,0 +1,235 @@
+{
+  "status": "complete",
+  "scope": "Independent semantic review of supplied PDF reference corrections. Read-only; only this peer-review artifact written. Source strings and audio must remain baseline.",
+  "inputs": [
+    "review-dhyanas.json",
+    "baseline-guide.json",
+    "pdf-pages.json",
+    "avahana/gpt-fine/original-part-012-transcript.json",
+    "previous independent Tantrasara Sanskrit/commentary review"
+  ],
+  "dhyanaDecisions": [
+    {
+      "sectionId": "07",
+      "lineIndex": 1,
+      "decision": "accept-with-meaning-refinement",
+      "text": "prodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir āpta samasta lokaṁ",
+      "reason": "PDF bhir āpta parsing is compatible with noisy acoustic virāpta; the matching complete verse makes this a compound description, not a new recited action.",
+      "suggestedMeaning": "Of a form like the rising sun, whose great radiance, like that of a thousand suns, reaches or pervades all worlds.",
+      "wordAdjustment": {
+        "āpta": "reached or pervaded; in āpta-samasta-loka, describes the worlds reached by his rays"
+      },
+      "blockIndex": 1
+    },
+    {
+      "sectionId": "07",
+      "lineIndex": 2,
+      "decision": "accept",
+      "reason": "jñānābhayāṅkitakaram is supported by PDF and acoustic shape; correction repairs only the first hand compound. Retaining jñānādi bhayāntikaram and kapilaś ca preserves the recorded restart and variant. Keep the second joining explicitly unresolved.",
+      "blockIndex": 1
+    },
+    {
+      "sectionId": "09",
+      "lineIndex": 0,
+      "decision": "accept-qualified-textual-repair",
+      "reason": "ravīndvamita matches ravi + indu + amita and the continuous acoustic ravīndu-mīti; PDF labels its printer repair. Keep that qualification. Do not import the PDF’s imperative interpretation of smaratorugīrbhiḥ in the following line: it qualifies the Hanuman-led recipients who remember/praise him.",
+      "blockIndex": 1
+    },
+    {
+      "sectionId": "10",
+      "lineIndex": 0,
+      "decision": "accept",
+      "reason": "Hari + maṇinibham is a defensible resegmentation of acoustic harirmaṇi and PDF reading. dhyāyed dharim reflects external t+h sandhi; word gloss must explicitly identify underlying harim so dharim is not taught as a separate deity/lexeme.",
+      "blockIndex": 1
+    },
+    {
+      "sectionId": "11",
+      "lineIndex": 0,
+      "decision": "accept-with-meaning-refinement",
+      "reason": "paraśvadhadhanurdharam correctly describes the axe-and-bow bearer; no recorded phrase is omitted. The proposed line-level active 'pervading' and word-level passive 'pervaded' should be phrased without a false certainty about the damaged radiance construction.",
+      "suggestedMeaning": "Ember-colored, with radiance extending all around beyond the cosmic sphere, bearing axe and bow, the unique hero.",
+      "blockIndex": 1
+    },
+    {
+      "sectionId": "12",
+      "lineIndex": 1,
+      "decision": "accept-qualified-textual-repair",
+      "reason": "agryaśaktim fits PDF's explicit minor correction and phonetic agra/samagra shape; preserve raw source and visible reference qualifier. The koṭi component can be explained as ten million/crore, rather than only vague plural millions.",
+      "wordAdjustment": {
+        "tigmāṁśukoṭyadhikatejasam": "whose brilliance exceeds that of a crore (ten million) suns; tigmāṃśu = sun, koṭi = crore, adhika = surpassing, tejas = radiance"
+      },
+      "blockIndex": 1
+    },
+    {
+      "sectionId": "13",
+      "lineIndex": 0,
+      "decision": "accept-with-gloss-refinement",
+      "reason": "Fine acoustic witness actually gives paripūritāntar bākṣyāṇḍakośam, compatible with supplied PDF antaḥ-bāhyāṇḍakośam and less compatible with baseline brahmāṇḍa. Do not overwrite with familiar parallel text. The parts form a whole inside/outside compound; bāhya should not be taught as an independently asserted new 'outer sphere'.",
+      "suggestedMeaning": "His radiance of knowledge fills the cosmic sphere within and without; his appearance is like an emerald.",
+      "wordAdjustments": {
+        "paripūritāntaḥ": "filled throughout within; first part of the reference compound paripūrita-antaḥ-bāhya-aṇḍakośam",
+        "bāhyāṇḍakośaṁ": "outside the cosmic sphere, joined with antaḥ 'within' in the preceding token; compound describes the cosmic sphere as filled within and without"
+      },
+      "blockIndex": 1
+    },
+    {
+      "sectionId": "13",
+      "lineIndex": 1,
+      "decision": "accept",
+      "reason": "ānato 'smi is supported by acoustic ānatoṣmi and PDF; the avagraha marks elided a rather than new speech. Knowledge/reasoning and fearlessness gestures are deity attributes supported directly by Tantrasara Sanskrit commentary. No practitioner hand gesture may be inferred.",
+      "blockIndex": 1
+    }
+  ],
+  "layoutAssessment": "Each proposal preserves the existing learning-line identity, source-local replay interval, block boundaries and null stanza breaks. Joining damaged compounds legitimately changes lexical row token count; it should not merge or duplicate learning lines. Recorded restarts remain in their original line. Every afterText whitespace token must still have an ordered word gloss, including attached punctuation if present.",
+  "sourceSafeguards": [
+    "Keep baseline sourceOriginal and sourceRoman byte-for-byte, even when displayed Sanskrit is repaired.",
+    "Keep section/block/line order, recorded repetitions, audio paths and all replay times.",
+    "Do not append booklet-only Hayagriva/Lakshmi nectar-bathing lines, repeated Gayatri, invocation formulas or alternative Visarjana mantras.",
+    "Do not copy a PDF English interpretation when the Sanskrit grammar or actual spoken variant contradicts it."
+  ],
+  "presenceDecisions": [
+    {
+      "sectionId": "15",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "decision": "accept",
+      "reason": "Accept feminine lotus-eyed epithet: independent acoustic netrāṃ plus PDF resolves the erroneous masculine ending. Preserve this distinct Lakshmi two-lotus description; do not replace it with booklet Bhu objects."
+    },
+    {
+      "sectionId": "16",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "decision": "accept",
+      "reason": "Accept feminine lotus-eyed recovery, with audible betel/blue flower and distinct Bhu attributes retained."
+    },
+    {
+      "sectionId": "17",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "decision": "accept",
+      "reason": "Accept tarjana over dara/conch: fine/coarse darjun and PDF tarjana supply a better compatible lexical parse. Both cakrābja occurrences and the actual triśūla word remain; no practitioner gesture is implied.",
+      "wordAdjustment": {
+        "tarjana": "admonishing or threatening gesture, an attribute of the deity; no practitioner motion prescribed"
+      }
+    },
+    {
+      "sectionId": "18",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "decision": "accept",
+      "reason": "Accept the supplied-booklet acyutāṅke lap reading: fine acchutāṅgē and coarse acyutāṅge do not support the added gh/r of baseline feet. This is a reference-backed recorded variant relative to the different Tantrasara feet text, not a claim that every edition reads lap. nutinityavacaḥ remains the recorded uncertain compound, rather than importing PDF nutinutya."
+    },
+    {
+      "sectionId": "18",
+      "blockIndex": 1,
+      "lineIndex": 1,
+      "decision": "accept",
+      "reason": "Accept gadābhayakaraṃ: both stored acoustic witnesses have gadā onset and PDF specifies mace. Preserve the separate añjali description; do not impose a number of hands or practitioner mudra."
+    },
+    {
+      "sectionId": "20",
+      "blockIndex": 2,
+      "lineIndex": 0,
+      "decision": "accept",
+      "reason": "Accept clarified technical Prana-line sense as reference-assisted interpretation. Retain the extra recorded śrī syllable and its unresolved status; do not assert a second goddess invocation or describe an unprinted ritual motion."
+    },
+    {
+      "sectionId": "20",
+      "blockIndex": 2,
+      "lineIndex": 2,
+      "decision": "accept-with-qualified-meaning",
+      "reason": "Accept sarvavidyā draṣṭṛ repair of acoustic sarvavedyādṛśkṛṣṭ while retaining both Veda-presiding utterances. Nested attribution of the compounds is not fully secure; explicitly qualify the line meaning rather than presenting the proposed plural seers as an exact resolved syntax.",
+      "suggestedMeaning": "[Reference-assisted reading; nested syntax remains provisional:] I bring Vyāsa in feminine form into my presence, indwelling revered Brahmāṇī and Bhāratī, associated with seeing all knowledge and presiding over the Vedas; the Veda-presiding expression is repeated."
+    },
+    {
+      "sectionId": "21",
+      "blockIndex": 2,
+      "lineIndex": 0,
+      "decision": "accept",
+      "reason": "Accept Jayanti proper-name recovery and Prīti decomposition supported by the supplied reference. Recorded śrīmāyā/kṛti/śānti remain; do not change to PDF hrīṃ Māyā or remove the first list before its restart."
+    },
+    {
+      "sectionId": "21",
+      "blockIndex": 2,
+      "lineIndex": 1,
+      "decision": "accept",
+      "reason": "Accept Prīti meaning correction while preserving the repeated Janaki/Satya/Rukmini list and compound word slot."
+    },
+    {
+      "sectionId": "21",
+      "blockIndex": 2,
+      "lineIndex": 4,
+      "decision": "accept",
+      "reason": "Accept Gungu and Sinivali reference-assisted name spellings. Preserve recorded Varuni ending and avoid unsupported substitution/equation with Kuhu."
+    },
+    {
+      "sectionId": "21",
+      "blockIndex": 2,
+      "lineIndex": 5,
+      "decision": "accept",
+      "reason": "Accept recognizable Jayatirtha proper-name recovery; retain actual kṛtān rather than imposing PDF kartṝn."
+    },
+    {
+      "sectionId": "22",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "decision": "reject-exclusive-label-interpretation;accept-balanced-meaning-and-gloss",
+      "reason": "Direct review of Aitareya Brahmana3.24 confirms gṛhā vai pratiṣṭhā sūktam as a Vedic identification in its original sequence of stotriya/soul, anurupa/offspring, dhayya/wife and pragatha/cattle. Haug explicitly interprets the hymn as house/firm footing. The booklet’s practical label does not justify erasing the original hymn/homes metaphor. Retain the spoken words and explain both homes/foundation and the hymn relationship.",
+      "suggestedMeaning": "The hymn represents homes, a firm foundation; it should be praised with speech that is most firmly established.",
+      "wordAdjustments": {
+        "gṛhā": "homes; Vedic nominative plural, here the image with which the hymn is identified",
+        "vai": "indeed",
+        "pratiṣṭhā": "firm foundation or footing",
+        "sūktaṁ": "the hymn, identified here with homes as a firm foundation; also used as the passage label in the puja booklet"
+      },
+      "evidence": {
+        "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/aitareya-brAhmaNam/sarva-prastutiH/3/12_khaNDaH_1-13/24/",
+        "passage": "gṛhā vai pratiṣṭhā sūktam, then tatpratiṣṭhitatamayā vācā śaṃstavyam; Haug house-as-firm-footing interpretation at displayed lines218–234"
+      }
+    },
+    {
+      "sectionId": "23",
+      "blockIndex": 1,
+      "lineIndex": 1,
+      "decision": "accept",
+      "reason": "Accept fuller translation of both yad and arghyādibhiḥ occurrences. Do not replace recorded yad-yad restart with PDF adya or erase repeated offering phrase."
+    },
+    {
+      "sectionId": "23",
+      "blockIndex": 1,
+      "lineIndex": 2,
+      "decision": "accept",
+      "reason": "Accept visibly marked reference-assisted tvaṃ nominative recovery; an ASR-lost nasal is plausible. The PDF confirms coherent second-person syntax. Keep actual yāgāvasāna rather than alternate pūjāvasāna; audio/source strings unchanged."
+    },
+    {
+      "sectionId": "32",
+      "blockIndex": 3,
+      "lineIndex": 2,
+      "decision": "accept",
+      "reason": "Accept Sarasvati+atmaka sandhi repair. Keep actual Navaratri/Ashtami and Vedavyasa formula; no imported Parashurama or new sankalpa."
+    },
+    {
+      "sectionId": "66",
+      "blockIndex": 1,
+      "lineIndex": 5,
+      "decision": "accept",
+      "reason": "Accept semantic clarification of singular bhagavān as the Lord in associated Vyasa/Parashurama forms, preserving Sarasvati/Mukhyaprana indwelling phrases and all source tokens. śrī is honorific here, not a separate Lakshmi invocation."
+    }
+  ],
+  "limits": "Stored ASR is an acoustic witness, not personal listening certification. Qualified reference repairs and unresolved variants must remain visible. The supplied English/IAST PDF itself marks several printer/grammatical repairs and should not be treated as an infallible edition.",
+  "presenceSectionUpdateDecisions": [
+    {
+      "sectionId": "18",
+      "field": "contemplate",
+      "decision": "accept",
+      "reason": "Necessary corresponding lap/praise/power correction; it describes meditation on the deity and adds no practitioner movement. Keep action unchanged."
+    }
+  ],
+  "rejectedOrPreservedDifferences": "Keep recorded Bharati echoes, Saraswati ātmavidyāṃ versus booklet ātmasaṃsthām, separate Śrī/Bhū descriptions, original Aitareya Vedic identification rather than replacing it with an exclusive modern passage-label explanation, and actual Visarjana formula. Booklet-only Brahmanaspati dismissal and book-moving action are not authorized additions.",
+  "complete": true,
+  "reviewedProposalCounts": {
+    "dhyanas": 8,
+    "presence": 16,
+    "sectionUpdates": 1
+  }
+}
