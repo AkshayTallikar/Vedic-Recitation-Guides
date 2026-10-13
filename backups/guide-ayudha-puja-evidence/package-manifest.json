@@ -1,0 +1,62 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 2617,
+    "sha256": "f64b9d9a8521e164e064b5b4b218dd8f69cf6e8b09f805d14d2efa88e169f7a0"
+  },
+  {
+    "path": "browser-check.json",
+    "bytes": 1130,
+    "sha256": "e235b908475613174454f1ea6ab42818d97629c3d52f346119b81baaaea63629"
+  },
+  {
+    "path": "build_guide.py",
+    "bytes": 23543,
+    "sha256": "5277f5362e2be77e0243a1c383dad02e8824547816bf28050c515b06ff9fa0b8"
+  },
+  {
+    "path": "content-review.json",
+    "bytes": 1108,
+    "sha256": "ac21eb0fa5b04b4b11983d4d38057eb3da2a62982fb4598efe94c34174896a04"
+  },
+  {
+    "path": "evidence-manifest.json",
+    "bytes": 34796,
+    "sha256": "321e66e80bc6acf885bd6d58029ccf662b5cde00ea6412dca46b33264b89db59"
+  },
+  {
+    "path": "mantras-first.json",
+    "bytes": 25984,
+    "sha256": "2b541dc1a926c7317d607e27b1566aea85b582a57b941b48b71fe5cc2a9a39d2"
+  },
+  {
+    "path": "mantras-later.json",
+    "bytes": 34801,
+    "sha256": "eece24af3f03f27be2fd1bee7a9fd011a6ed9677eb015167db19de705bf78698"
+  },
+  {
+    "path": "repository-check.json",
+    "bytes": 458,
+    "sha256": "4e0ca08db4686704468157c03276279bfbe00a75af1efe43d1bb59a6726b725e"
+  },
+  {
+    "path": "source-user.txt",
+    "bytes": 13060,
+    "sha256": "241d58b77b690df5219930263759836217679fd6d2750962516041e82da9280b"
+  },
+  {
+    "path": "validate_lossless_guide.mjs",
+    "bytes": 12271,
+    "sha256": "e1eb51294f7e488948d9039bc3be66a9210540da22753d06db73c60e79a48dce"
+  },
+  {
+    "path": "validation.json",
+    "bytes": 192,
+    "sha256": "ef1f72e5ec777decc08223353bf3f16f691a3e5f7990658a151f7fb5a0bcc869"
+  },
+  {
+    "path": "validator-check.json",
+    "bytes": 1296,
+    "sha256": "bfbcb5d58d2b1e53f6fb9934598b2780cec5eb118770eb8330ef00231c778bb7"
+  }
+]

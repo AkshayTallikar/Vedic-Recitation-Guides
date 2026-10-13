@@ -58,6 +58,10 @@
       title: 'Saraswati Puja', tabLabel: 'Complete (51 min)',
       subtitle: 'Avahana, puja and visarjana with Roman Sanskrit, English meanings, contemplation and ritual actions'
     },
+    'ayudha-puja': {
+      title: 'Ayudha Puja', tabLabel: 'Text (20 steps)',
+      subtitle: 'Preparation and puja with Roman Sanskrit, full English explanations, line and word meanings, contemplation and actions'
+    },
     'navaratri-nanda-deepa': {
       title: 'Navaratri Nanda Deepa Puja', tabLabel: 'Preparation and Puja (28 min)',
       subtitle: 'Preparation, Roman Sanskrit, line and word meanings, contemplation and ritual actions'

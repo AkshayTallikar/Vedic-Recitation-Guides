@@ -1,0 +1,832 @@
+{
+  "divine_weapons": {
+    "text": "cakrābhimāninyai durgāyai namaḥ\n\nśaṅkhābhimāninyai śriyai namaḥ\n\ngadābhimānine mukhyaprāṇāya namaḥ\n\npadmābhimāninyai bhūmyai namaḥ\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "cakrābhimāninyai durgāyai namaḥ",
+          "meaning": "Salutation to Durgā, the presiding deity of the discus.",
+          "words": [
+            {
+              "text": "cakrābhimāninyai",
+              "meaning": "to the female presiding deity of the discus"
+            },
+            {
+              "text": "durgāyai",
+              "meaning": "to Durgā"
+            },
+            {
+              "text": "namaḥ",
+              "meaning": "salutation"
+            }
+          ]
+        },
+        null,
+        {
+          "text": "śaṅkhābhimāninyai śriyai namaḥ",
+          "meaning": "Salutation to Śrī (Lakṣmī), the presiding deity of the conch.",
+          "words": [
+            {
+              "text": "śaṅkhābhimāninyai",
+              "meaning": "to the female presiding deity of the conch"
+            },
+            {
+              "text": "śriyai",
+              "meaning": "to Śrī, Lakṣmī"
+            },
+            {
+              "text": "namaḥ",
+              "meaning": "salutation"
+            }
+          ]
+        },
+        null,
+        {
+          "text": "gadābhimānine mukhyaprāṇāya namaḥ",
+          "meaning": "Salutation to Mukhyaprāṇa, the presiding deity of the mace.",
+          "words": [
+            {
+              "text": "gadābhimānine",
+              "meaning": "to the presiding deity of the mace"
+            },
+            {
+              "text": "mukhyaprāṇāya",
+              "meaning": "to Mukhyaprāṇa, the chief vital breath (Vāyu)"
+            },
+            {
+              "text": "namaḥ",
+              "meaning": "salutation"
+            }
+          ]
+        },
+        null,
+        {
+          "text": "padmābhimāninyai bhūmyai namaḥ",
+          "meaning": "Salutation to Bhūmi, the presiding deity of the lotus.",
+          "words": [
+            {
+              "text": "padmābhimāninyai",
+              "meaning": "to the female presiding deity of the lotus"
+            },
+            {
+              "text": "bhūmyai",
+              "meaning": "to Bhūmi, the Earth goddess"
+            },
+            {
+              "text": "namaḥ",
+              "meaning": "salutation"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "The dative endings distinguish the female deities Durgā, Śrī, and Bhūmi from Mukhyaprāṇa. These are four separate salutations."
+    ],
+    "corrections": [
+      {
+        "sourceReading": "ಶಂಖಾಭಿಮಾನಿನೈ",
+        "displayReading": "śaṅkhābhimāninyai",
+        "reason": "Restore the feminine dative ending for Śrī.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ಗದಾಭಿಮಾನಿನೈ",
+        "displayReading": "gadābhimānine",
+        "reason": "Restore the masculine dative ending for Mukhyaprāṇa.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ಪದ್ಮಾಭಿಮಾನಿನೈ ಭೂಮೈ",
+        "displayReading": "padmābhimāninyai bhūmyai",
+        "reason": "Restore the feminine dative forms for the presiding deity and Bhūmi.",
+        "confidence": "high"
+      }
+    ]
+  },
+  "sankalpa": {
+    "text": "evaṃguṇaviśeṣaṇaviśiṣṭāyām\nasmākaṃ sahakuṭumbānāṃ\nkṣema sthairya vijaya vīrya āyurārogyasiddhyartham\nsamasta sanmaṅgalārtham\napaghātādi aniṣṭa parihārārtham\nāyudha āghāta parihārārtham\nsamasta vighna parihārārtham\nvāhanābhimāni garuḍāntargata śrī durgāsameta\nśrī lakṣmī nārāyaṇa pūjāṃ kariṣye\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "evaṃguṇaviśeṣaṇaviśiṣṭāyām",
+          "meaning": "On the occasion thus qualified by these particular attributes,",
+          "words": [
+            {
+              "text": "evaṃguṇaviśeṣaṇaviśiṣṭāyām",
+              "meaning": "on the occasion qualified by such particular attributes"
+            }
+          ]
+        },
+        {
+          "text": "asmākaṃ sahakuṭumbānāṃ",
+          "meaning": "for us together with our families,",
+          "words": [
+            {
+              "text": "asmākaṃ",
+              "meaning": "of us; for us"
+            },
+            {
+              "text": "sahakuṭumbānāṃ",
+              "meaning": "of those together with their families"
+            }
+          ]
+        },
+        {
+          "text": "kṣema sthairya vijaya vīrya āyurārogyasiddhyartham",
+          "meaning": "for the attainment of well-being, steadiness, victory, strength, longevity, and health,",
+          "words": [
+            {
+              "text": "kṣema",
+              "meaning": "well-being; security"
+            },
+            {
+              "text": "sthairya",
+              "meaning": "steadiness"
+            },
+            {
+              "text": "vijaya",
+              "meaning": "victory"
+            },
+            {
+              "text": "vīrya",
+              "meaning": "strength; vigor"
+            },
+            {
+              "text": "āyurārogyasiddhyartham",
+              "meaning": "for the attainment of long life and health"
+            }
+          ]
+        },
+        {
+          "text": "samasta sanmaṅgalārtham",
+          "meaning": "for every good and auspicious blessing,",
+          "words": [
+            {
+              "text": "samasta",
+              "meaning": "all; every"
+            },
+            {
+              "text": "sanmaṅgalārtham",
+              "meaning": "for good and auspicious blessings"
+            }
+          ]
+        },
+        {
+          "text": "apaghātādi aniṣṭa parihārārtham",
+          "meaning": "for the removal of misfortunes such as accidents,",
+          "words": [
+            {
+              "text": "apaghātādi",
+              "meaning": "accidents and the like"
+            },
+            {
+              "text": "aniṣṭa",
+              "meaning": "misfortune; undesirable harm"
+            },
+            {
+              "text": "parihārārtham",
+              "meaning": "for removal; for averting"
+            }
+          ]
+        },
+        {
+          "text": "āyudha āghāta parihārārtham",
+          "meaning": "for averting injuries from weapons and implements,",
+          "words": [
+            {
+              "text": "āyudha",
+              "meaning": "weapon; implement"
+            },
+            {
+              "text": "āghāta",
+              "meaning": "blow; injury"
+            },
+            {
+              "text": "parihārārtham",
+              "meaning": "for removal; for averting"
+            }
+          ]
+        },
+        {
+          "text": "samasta vighna parihārārtham",
+          "meaning": "for the removal of all obstacles,",
+          "words": [
+            {
+              "text": "samasta",
+              "meaning": "all"
+            },
+            {
+              "text": "vighna",
+              "meaning": "obstacle"
+            },
+            {
+              "text": "parihārārtham",
+              "meaning": "for removal; for averting"
+            }
+          ]
+        },
+        {
+          "text": "vāhanābhimāni garuḍāntargata śrī durgāsameta",
+          "meaning": "with the contemplation of the Lord indwelling Garuḍa, the presiding deity of vehicles, and accompanied by revered Durgā,",
+          "words": [
+            {
+              "text": "vāhanābhimāni",
+              "meaning": "presiding deity of vehicles"
+            },
+            {
+              "text": "garuḍāntargata",
+              "meaning": "indwelling Garuḍa; present within Garuḍa"
+            },
+            {
+              "text": "śrī",
+              "meaning": "revered; auspicious"
+            },
+            {
+              "text": "durgāsameta",
+              "meaning": "accompanied by Durgā"
+            }
+          ]
+        },
+        {
+          "text": "śrī lakṣmī nārāyaṇa pūjāṃ kariṣye",
+          "meaning": "I shall perform worship of revered Lakṣmī and Nārāyaṇa.",
+          "words": [
+            {
+              "text": "śrī",
+              "meaning": "revered; auspicious"
+            },
+            {
+              "text": "lakṣmī",
+              "meaning": "Lakṣmī, the goddess of prosperity"
+            },
+            {
+              "text": "nārāyaṇa",
+              "meaning": "Nārāyaṇa, the Lord"
+            },
+            {
+              "text": "pūjāṃ",
+              "meaning": "worship"
+            },
+            {
+              "text": "kariṣye",
+              "meaning": "I shall perform"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "The source instructs the worshipper to state place and time before this formula; it does not supply those opening words.",
+      "The ending -āyām in the first line refers to the occasion or tithi stated in that preceding context.",
+      "The source spelling durgāsameka is edited to durgāsameta, “accompanied by Durgā.” The opening contemplation follows the source’s Garuḍa wording.",
+      "The source prints several compound elements separately; spacing is retained where it aids learning."
+    ],
+    "corrections": [
+      {
+        "sourceReading": "ಆಯುರಾರೋಗ್ಯಸಿದ್ದ್ಯರ್ಥಂ",
+        "displayReading": "āyurārogyasiddhyartham",
+        "reason": "Restore siddhi + artham → siddhyartham, “for the attainment.”",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ದುರ್ಗಾಸಮೇಕ",
+        "displayReading": "durgāsameta",
+        "reason": "The printed sameka has no suitable meaning here; sameta, “accompanied by,” fits the prayer formula.",
+        "confidence": "medium"
+      }
+    ]
+  },
+  "ganapati_intent": {
+    "text": "ādau nirvighnatārthaṃ siddhivināyaka pūjāṃ kariṣye\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "ādau nirvighnatārthaṃ siddhivināyaka pūjāṃ kariṣye",
+          "meaning": "First, for freedom from obstacles, I shall perform worship of Siddhivināyaka.",
+          "words": [
+            {
+              "text": "ādau",
+              "meaning": "at the beginning; first"
+            },
+            {
+              "text": "nirvighnatārthaṃ",
+              "meaning": "for the purpose of freedom from obstacles"
+            },
+            {
+              "text": "siddhivināyaka",
+              "meaning": "Siddhivināyaka, Gaṇeśa who grants accomplishment"
+            },
+            {
+              "text": "pūjāṃ",
+              "meaning": "worship"
+            },
+            {
+              "text": "kariṣye",
+              "meaning": "I shall perform"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [],
+    "corrections": []
+  },
+  "ganapati_invocation": {
+    "text": "śrī mahāgaṇapataye namaḥ\n\noṃ bhūḥ gaṇapatim āvāhayāmi\noṃ bhuvaḥ gaṇapatim āvāhayāmi\noṃ svaḥ gaṇapatim āvāhayāmi\noṃ bhūr-bhuvaḥ-svaḥ gaṇapatim āvāhayāmi\n\nśrī mahāgaṇapataye namaḥ\ndhyāyāmi dhyānaṃ samarpayāmi\nāvāhayāmi āvāhanaṃ samarpayāmi\nsvāgatam\nāsanaṃ samarpayāmi\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "śrī mahāgaṇapataye namaḥ",
+          "meaning": "Salutation to revered Mahāgaṇapati.",
+          "words": [
+            {
+              "text": "śrī",
+              "meaning": "revered; auspicious"
+            },
+            {
+              "text": "mahāgaṇapataye",
+              "meaning": "to Mahāgaṇapati, the great lord of the hosts"
+            },
+            {
+              "text": "namaḥ",
+              "meaning": "salutation"
+            }
+          ]
+        },
+        null,
+        {
+          "text": "oṃ bhūḥ gaṇapatim āvāhayāmi",
+          "meaning": "Oṃ, earth: I invoke Gaṇapati.",
+          "words": [
+            {
+              "text": "oṃ",
+              "meaning": "sacred syllable Oṃ"
+            },
+            {
+              "text": "bhūḥ",
+              "meaning": "earth; the earthly realm"
+            },
+            {
+              "text": "gaṇapatim",
+              "meaning": "Gaṇapati, lord of the hosts (object of invocation)"
+            },
+            {
+              "text": "āvāhayāmi",
+              "meaning": "I invoke"
+            }
+          ]
+        },
+        {
+          "text": "oṃ bhuvaḥ gaṇapatim āvāhayāmi",
+          "meaning": "Oṃ, the intermediate realm: I invoke Gaṇapati.",
+          "words": [
+            {
+              "text": "oṃ",
+              "meaning": "sacred syllable Oṃ"
+            },
+            {
+              "text": "bhuvaḥ",
+              "meaning": "the intermediate realm; atmosphere"
+            },
+            {
+              "text": "gaṇapatim",
+              "meaning": "Gaṇapati, lord of the hosts (object of invocation)"
+            },
+            {
+              "text": "āvāhayāmi",
+              "meaning": "I invoke"
+            }
+          ]
+        },
+        {
+          "text": "oṃ svaḥ gaṇapatim āvāhayāmi",
+          "meaning": "Oṃ, heaven: I invoke Gaṇapati.",
+          "words": [
+            {
+              "text": "oṃ",
+              "meaning": "sacred syllable Oṃ"
+            },
+            {
+              "text": "svaḥ",
+              "meaning": "heaven; the heavenly realm"
+            },
+            {
+              "text": "gaṇapatim",
+              "meaning": "Gaṇapati, lord of the hosts (object of invocation)"
+            },
+            {
+              "text": "āvāhayāmi",
+              "meaning": "I invoke"
+            }
+          ]
+        },
+        {
+          "text": "oṃ bhūr-bhuvaḥ-svaḥ gaṇapatim āvāhayāmi",
+          "meaning": "Oṃ, earth, the intermediate realm, and heaven: I invoke Gaṇapati.",
+          "words": [
+            {
+              "text": "oṃ",
+              "meaning": "sacred syllable Oṃ"
+            },
+            {
+              "text": "bhūr-bhuvaḥ-svaḥ",
+              "meaning": "earth, intermediate realm, and heaven"
+            },
+            {
+              "text": "gaṇapatim",
+              "meaning": "Gaṇapati, lord of the hosts (object of invocation)"
+            },
+            {
+              "text": "āvāhayāmi",
+              "meaning": "I invoke"
+            }
+          ]
+        },
+        null,
+        {
+          "text": "śrī mahāgaṇapataye namaḥ",
+          "meaning": "Salutation to revered Mahāgaṇapati.",
+          "words": [
+            {
+              "text": "śrī",
+              "meaning": "revered; auspicious"
+            },
+            {
+              "text": "mahāgaṇapataye",
+              "meaning": "to Mahāgaṇapati, the great lord of the hosts"
+            },
+            {
+              "text": "namaḥ",
+              "meaning": "salutation"
+            }
+          ]
+        },
+        {
+          "text": "dhyāyāmi dhyānaṃ samarpayāmi",
+          "meaning": "I meditate; I offer my meditation.",
+          "words": [
+            {
+              "text": "dhyāyāmi",
+              "meaning": "I meditate"
+            },
+            {
+              "text": "dhyānaṃ",
+              "meaning": "meditation"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        {
+          "text": "āvāhayāmi āvāhanaṃ samarpayāmi",
+          "meaning": "I invoke; I offer the act of invocation.",
+          "words": [
+            {
+              "text": "āvāhayāmi",
+              "meaning": "I invoke"
+            },
+            {
+              "text": "āvāhanaṃ",
+              "meaning": "invocation"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        {
+          "text": "svāgatam",
+          "meaning": "Welcome.",
+          "words": [
+            {
+              "text": "svāgatam",
+              "meaning": "welcome"
+            }
+          ]
+        },
+        {
+          "text": "āsanaṃ samarpayāmi",
+          "meaning": "I offer a seat.",
+          "words": [
+            {
+              "text": "āsanaṃ",
+              "meaning": "seat"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "Bhūḥ, bhuvaḥ, and svaḥ name the three realms. The hyphens in bhūr-bhuvaḥ-svaḥ show the components; bhūḥ becomes bhūr before bhuvaḥ.",
+      "The source directs offering mantra-akṣata while saying this invocation and welcome sequence."
+    ],
+    "corrections": [
+      {
+        "sourceReading": "ಶ್ರೀ ಮಹಾಗಣಪತಿಯೇ ನಮ:",
+        "displayReading": "śrī mahāgaṇapataye namaḥ",
+        "reason": "Restore the Sanskrit dative mahāgaṇapataye rather than the Kannada-influenced ending.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ಓಂ ಭೂ",
+        "displayReading": "oṃ bhūḥ",
+        "reason": "Restore the visarga in the realm-name bhūḥ.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ಶ್ರೀ ಮಹಗಣಪತಯೇ ನಮ:",
+        "displayReading": "śrī mahāgaṇapataye namaḥ",
+        "reason": "Restore long ā in mahā, “great.”",
+        "confidence": "high"
+      }
+    ]
+  },
+  "ganapati_water": {
+    "text": "pādayoḥ pādyaṃ samarpayāmi\narghyaṃ samarpayāmi\nācamanaṃ samarpayāmi\nmadhuparkaṃ samarpayāmi\npunarācamanaṃ samarpayāmi\nsnānaṃ samarpayāmi\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "pādayoḥ pādyaṃ samarpayāmi",
+          "meaning": "I offer water for washing the feet, at your feet.",
+          "words": [
+            {
+              "text": "pādayoḥ",
+              "meaning": "at the two feet"
+            },
+            {
+              "text": "pādyaṃ",
+              "meaning": "water for washing the feet"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        {
+          "text": "arghyaṃ samarpayāmi",
+          "meaning": "I offer the water of respectful reception.",
+          "words": [
+            {
+              "text": "arghyaṃ",
+              "meaning": "honorific water offering"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        {
+          "text": "ācamanaṃ samarpayāmi",
+          "meaning": "I offer water for ritual sipping.",
+          "words": [
+            {
+              "text": "ācamanaṃ",
+              "meaning": "ritual sipping; here the water offered for it"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        {
+          "text": "madhuparkaṃ samarpayāmi",
+          "meaning": "I offer madhuparka, the sweet mixture of respectful reception.",
+          "words": [
+            {
+              "text": "madhuparkaṃ",
+              "meaning": "madhuparka, a sweet ritual reception mixture"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        {
+          "text": "punarācamanaṃ samarpayāmi",
+          "meaning": "I again offer water for ritual sipping.",
+          "words": [
+            {
+              "text": "punarācamanaṃ",
+              "meaning": "renewed ritual sipping; here water for it"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        {
+          "text": "snānaṃ samarpayāmi",
+          "meaning": "I offer a ritual bath.",
+          "words": [
+            {
+              "text": "snānaṃ",
+              "meaning": "bathing; ritual bath"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "The source directs placing water in the arghya vessel during these offerings."
+    ],
+    "corrections": []
+  },
+  "ganapati_offerings": {
+    "text": "vastraṃ samarpayāmi\nupavītaṃ samarpayāmi\nābharaṇaṃ samarpayāmi\ngandhaṃ samarpayāmi\npuṣpāṇi samarpayāmi\ndhūpam āghrāpayāmi\ndīpaṃ darśayāmi\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "vastraṃ samarpayāmi",
+          "meaning": "I offer clothing.",
+          "words": [
+            {
+              "text": "vastraṃ",
+              "meaning": "clothing; cloth"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        {
+          "text": "upavītaṃ samarpayāmi",
+          "meaning": "I offer a sacred thread.",
+          "words": [
+            {
+              "text": "upavītaṃ",
+              "meaning": "sacred thread"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        {
+          "text": "ābharaṇaṃ samarpayāmi",
+          "meaning": "I offer an ornament.",
+          "words": [
+            {
+              "text": "ābharaṇaṃ",
+              "meaning": "ornament"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        {
+          "text": "gandhaṃ samarpayāmi",
+          "meaning": "I offer fragrant sandal paste.",
+          "words": [
+            {
+              "text": "gandhaṃ",
+              "meaning": "fragrance; fragrant paste"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        {
+          "text": "puṣpāṇi samarpayāmi",
+          "meaning": "I offer flowers.",
+          "words": [
+            {
+              "text": "puṣpāṇi",
+              "meaning": "flowers"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        {
+          "text": "dhūpam āghrāpayāmi",
+          "meaning": "I present incense for you to smell.",
+          "words": [
+            {
+              "text": "dhūpam",
+              "meaning": "incense (object of presentation)"
+            },
+            {
+              "text": "āghrāpayāmi",
+              "meaning": "I cause to smell; I present for smelling"
+            }
+          ]
+        },
+        {
+          "text": "dīpaṃ darśayāmi",
+          "meaning": "I show the lamp.",
+          "words": [
+            {
+              "text": "dīpaṃ",
+              "meaning": "lamp"
+            },
+            {
+              "text": "darśayāmi",
+              "meaning": "I show"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "Dhūpam āghrāpayāmi separates the source’s joined dhūpamāghrāpayāmi at the word boundary.",
+      "The source next directs offering any fruit as naivedya; it supplies no additional Sanskrit formula here."
+    ],
+    "corrections": []
+  },
+  "ganapati_prayer": {
+    "text": "vakratuṇḍa mahākāya bālasūrya samaprabha\nnirvighnaṃ kuru me deva sarvakāryeṣu sarvadā\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "vakratuṇḍa mahākāya bālasūrya samaprabha",
+          "meaning": "O curved-trunked, great-bodied Lord, whose radiance equals the rising sun,",
+          "words": [
+            {
+              "text": "vakratuṇḍa",
+              "meaning": "O one with a curved trunk"
+            },
+            {
+              "text": "mahākāya",
+              "meaning": "O one with a great body"
+            },
+            {
+              "text": "bālasūrya",
+              "meaning": "young sun; rising sun"
+            },
+            {
+              "text": "samaprabha",
+              "meaning": "O one whose radiance is equal (to that sun)"
+            }
+          ]
+        },
+        {
+          "text": "nirvighnaṃ kuru me deva sarvakāryeṣu sarvadā",
+          "meaning": "O Lord, make things free from obstacles for me, in all undertakings, always.",
+          "words": [
+            {
+              "text": "nirvighnaṃ",
+              "meaning": "free from obstacles"
+            },
+            {
+              "text": "kuru",
+              "meaning": "make; do"
+            },
+            {
+              "text": "me",
+              "meaning": "for me"
+            },
+            {
+              "text": "deva",
+              "meaning": "O god; O Lord"
+            },
+            {
+              "text": "sarvakāryeṣu",
+              "meaning": "in all tasks; in every undertaking"
+            },
+            {
+              "text": "sarvadā",
+              "meaning": "always"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "Bālasūrya (“young/rising sun”) and nirvighnam are the source’s readings and are retained.",
+      "Nirvighnaṃ is written with anusvāra before kuru; the source’s underlying word is nirvighnam."
+    ],
+    "corrections": []
+  }
+}

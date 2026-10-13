@@ -1,0 +1,1000 @@
+{
+  "apo_histha": {
+    "text": "Oṁ āpo hi ṣṭhā mayobhuvaḥ\ntā na ūrje dadhātana\nmahe raṇāya cakṣase\n\nyo vaḥ śivatamo rasaḥ\ntasya bhājayateha naḥ\nuśatīr iva mātaraḥ\n\ntasmā araṁ gamāma vaḥ\nyasya kṣayāya jinvatha\nāpo janayathā ca naḥ\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "Oṁ āpo hi ṣṭhā mayobhuvaḥ",
+          "meaning": "Oṁ. Waters, you are indeed bringers of well-being.",
+          "words": [
+            {
+              "text": "Oṁ",
+              "meaning": "sacred syllable"
+            },
+            {
+              "text": "āpo",
+              "meaning": "waters (āpaḥ in sandhi)"
+            },
+            {
+              "text": "hi",
+              "meaning": "indeed"
+            },
+            {
+              "text": "ṣṭhā",
+              "meaning": "you are (stha after hi)"
+            },
+            {
+              "text": "mayobhuvaḥ",
+              "meaning": "bringing joy/well-being (mayaḥ + bhuvaḥ)"
+            }
+          ]
+        },
+        {
+          "text": "tā na ūrje dadhātana",
+          "meaning": "As such, grant us nourishment and strength.",
+          "words": [
+            {
+              "text": "tā",
+              "meaning": "those; you waters"
+            },
+            {
+              "text": "na",
+              "meaning": "us (naḥ in sandhi)"
+            },
+            {
+              "text": "ūrje",
+              "meaning": "for nourishment/strength"
+            },
+            {
+              "text": "dadhātana",
+              "meaning": "grant; place"
+            }
+          ]
+        },
+        {
+          "text": "mahe raṇāya cakṣase",
+          "meaning": "For great, delightful vision/perception.",
+          "words": [
+            {
+              "text": "mahe",
+              "meaning": "for great; qualifying the requested vision/perception"
+            },
+            {
+              "text": "raṇāya",
+              "meaning": "for delight; taken with cakṣase as delightful vision/perception"
+            },
+            {
+              "text": "cakṣase",
+              "meaning": "for sight; vision; perception"
+            }
+          ]
+        },
+        null,
+        {
+          "text": "yo vaḥ śivatamo rasaḥ",
+          "meaning": "That essence of yours which is most auspicious—",
+          "words": [
+            {
+              "text": "yo",
+              "meaning": "which (yaḥ in sandhi)"
+            },
+            {
+              "text": "vaḥ",
+              "meaning": "your"
+            },
+            {
+              "text": "śivatamo",
+              "meaning": "most auspicious"
+            },
+            {
+              "text": "rasaḥ",
+              "meaning": "essence; sap"
+            }
+          ]
+        },
+        {
+          "text": "tasya bhājayateha naḥ",
+          "meaning": "Let us share in that essence here.",
+          "words": [
+            {
+              "text": "tasya",
+              "meaning": "of that"
+            },
+            {
+              "text": "bhājayateha",
+              "meaning": "let share here (bhājayata + iha)"
+            },
+            {
+              "text": "naḥ",
+              "meaning": "us"
+            }
+          ]
+        },
+        {
+          "text": "uśatīr iva mātaraḥ",
+          "meaning": "Like loving mothers.",
+          "words": [
+            {
+              "text": "uśatīr",
+              "meaning": "willing; loving (uśatīḥ in sandhi)"
+            },
+            {
+              "text": "iva",
+              "meaning": "like"
+            },
+            {
+              "text": "mātaraḥ",
+              "meaning": "mothers"
+            }
+          ]
+        },
+        null,
+        {
+          "text": "tasmā araṁ gamāma vaḥ",
+          "meaning": "For that, may we readily approach you—",
+          "words": [
+            {
+              "text": "tasmā",
+              "meaning": "for that one/that aim (tasmai in Vedic vowel sandhi)"
+            },
+            {
+              "text": "araṁ",
+              "meaning": "readily; suitably; sufficiently (aram)"
+            },
+            {
+              "text": "gamāma",
+              "meaning": "may we go/approach"
+            },
+            {
+              "text": "vaḥ",
+              "meaning": "to you, the waters"
+            }
+          ]
+        },
+        {
+          "text": "yasya kṣayāya jinvatha",
+          "meaning": "For whose dwelling you give vitality.",
+          "words": [
+            {
+              "text": "yasya",
+              "meaning": "whose; of which"
+            },
+            {
+              "text": "kṣayāya",
+              "meaning": "for dwelling/abode"
+            },
+            {
+              "text": "jinvatha",
+              "meaning": "you enliven; stimulate"
+            }
+          ]
+        },
+        {
+          "text": "āpo janayathā ca naḥ",
+          "meaning": "Waters, also bring us into renewed life.",
+          "words": [
+            {
+              "text": "āpo",
+              "meaning": "waters"
+            },
+            {
+              "text": "janayathā",
+              "meaning": "bring forth; generate (Vedic form)"
+            },
+            {
+              "text": "ca",
+              "meaning": "and; also"
+            },
+            {
+              "text": "naḥ",
+              "meaning": "us"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "This is the first three verses of Ṛgveda 10.9, arranged as three groups of three phrases. Vedic accent is not supplied.",
+      "ṣṭhā represents the recited sandhi hi + stha; do not silently change it to Classical Sanskrit sthā.",
+      "mahe raṇāya cakṣase is understood together as “for great, delightful vision/perception,” continuing the request to the waters for strength; the words are not three unrelated ritual requests. The syntax of tasmā ... yasya is disputed: the last verse can be understood as approaching the waters for the one whose dwelling they enliven. kṣaya here means dwelling/abode; no unsupported gloss “destruction of sins” is inserted. janayathā literally asks the waters to generate us, rendered as renewal of life.",
+      "Primary textual comparison: https://lrc.la.utexas.edu/books/rigveda/RV10 (10.009.01–03)."
+    ],
+    "corrections": [
+      {
+        "sourceReading": "ಮಯೋ ಭುವ:",
+        "displayReading": "mayobhuvaḥ",
+        "reason": "Joins the compound mayaḥ + bhuvaḥ and normalizes the visarga.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ಮಹೇರಣಾಯ",
+        "displayReading": "mahe raṇāya",
+        "reason": "Separates the two Vedic words; no text is added.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ತಸ್ಯಭಾಜಯತೇಹ",
+        "displayReading": "tasya bhājayateha",
+        "reason": "Separates tasya; bhājayateha retains bhājayata + iha sandhi.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ಉಶತೀರಿವ",
+        "displayReading": "uśatīr iva",
+        "reason": "Separates iva while preserving the sandhi r.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ಜನಯಾಥಾ",
+        "displayReading": "janayathā",
+        "reason": "Corrects the printed long vowel after y to the Rigvedic janayathā; final ā is retained.",
+        "confidence": "high"
+      }
+    ]
+  },
+  "narayana_touch": {
+    "text": "Oṁ namo nārāyaṇāya Oṁ\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "Oṁ namo nārāyaṇāya Oṁ",
+          "meaning": "Oṁ. Reverence to Nārāyaṇa. Oṁ.",
+          "words": [
+            {
+              "text": "Oṁ",
+              "meaning": "sacred syllable"
+            },
+            {
+              "text": "namo",
+              "meaning": "reverence (namaḥ in sandhi)"
+            },
+            {
+              "text": "nārāyaṇāya",
+              "meaning": "to Nārāyaṇa"
+            },
+            {
+              "text": "Oṁ",
+              "meaning": "sacred syllable"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "The source directs twelve repetitions while touching the vehicle or implement. The two printed Oṁ syllables are retained."
+    ],
+    "corrections": []
+  },
+  "deity_salutations": {
+    "text": "sarvebhyo devebhyo namaḥ\nsarvebhyo tattvābhimānibhyo devebhyo namaḥ\ntattvanāsikā devatābhyo namaḥ\nmātṛkānyāsa devatābhyo namaḥ\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "sarvebhyo devebhyo namaḥ",
+          "meaning": "Reverence to all the deities.",
+          "words": [
+            {
+              "text": "sarvebhyo",
+              "meaning": "to all (sarvebhyaḥ in sandhi)"
+            },
+            {
+              "text": "devebhyo",
+              "meaning": "to deities (devebhyaḥ in sandhi)"
+            },
+            {
+              "text": "namaḥ",
+              "meaning": "reverence"
+            }
+          ]
+        },
+        {
+          "text": "sarvebhyo tattvābhimānibhyo devebhyo namaḥ",
+          "meaning": "Reverence to all the deities presiding over the principles of existence.",
+          "words": [
+            {
+              "text": "sarvebhyo",
+              "meaning": "to all"
+            },
+            {
+              "text": "tattvābhimānibhyo",
+              "meaning": "to the presiders over principles of existence (tattva + abhimānin; plural dative in sandhi)"
+            },
+            {
+              "text": "devebhyo",
+              "meaning": "to deities"
+            },
+            {
+              "text": "namaḥ",
+              "meaning": "reverence"
+            }
+          ]
+        },
+        {
+          "text": "tattvanāsikā devatābhyo namaḥ",
+          "meaning": "Reverence to the deities designated by tattvanāsikā; literally “principle + nose,” its intended deity class is not securely identifiable.",
+          "words": [
+            {
+              "text": "tattvanāsikā",
+              "meaning": "tattva (principle of existence) + nāsikā (nose); intended deity class not securely identifiable"
+            },
+            {
+              "text": "devatābhyo",
+              "meaning": "to deities (devatābhyaḥ in sandhi)"
+            },
+            {
+              "text": "namaḥ",
+              "meaning": "reverence"
+            }
+          ]
+        },
+        {
+          "text": "mātṛkānyāsa devatābhyo namaḥ",
+          "meaning": "Reverence to the deities of mātṛkā-nyāsa, the ritual placement of sacred letters.",
+          "words": [
+            {
+              "text": "mātṛkānyāsa",
+              "meaning": "mātṛkā (sacred alphabet/letters) + nyāsa (ritual placement)"
+            },
+            {
+              "text": "devatābhyo",
+              "meaning": "to deities"
+            },
+            {
+              "text": "namaḥ",
+              "meaning": "reverence"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "The malformed printed tattvābhimāninai is corrected to the plural dative tattvābhimānibhyo, agreeing with sarvebhyo and devebhyo. This is a grammatical correction, not an addition of a deity class.",
+      "tattvanāsikā is retained exactly, not replaced with conjectural tattvanyāsikā. Its components literally mean principle + nose, but the intended deity class is not securely identifiable; it cannot safely be glossed as nyāsa (ritual placement)."
+    ],
+    "corrections": [
+      {
+        "sourceReading": "ತತ್ವ / ತತ್ವಾಭಿಮಾನಿನೈ",
+        "displayReading": "tattva (including the compound tattvābhimānibhyo)",
+        "reason": "Normalizes the Sanskrit consonant doubling in tattva. The malformed ending is corrected separately below.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ತತ್ವಾಭಿಮಾನಿನೈ",
+        "displayReading": "tattvābhimānibhyo",
+        "reason": "Corrects the malformed dative ending to the plural dative of tattvābhimānin, agreeing with sarvebhyo devebhyo; before d, final -bhyaḥ becomes -bhyo.",
+        "confidence": "high"
+      }
+    ]
+  },
+  "ayudha_prayer": {
+    "text": "sarvāyudhānāṁ prathamaṁ nirmitāsi pinākinā\nśūlāyudhād viniṣkṛṣya kṛtvā muṣṭigrahaṁ śubhaṁ\nchurike rakṣa māṁ nityaṁ śāntiṁ yaccha namo’stu te\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "sarvāyudhānāṁ prathamaṁ nirmitāsi pinākinā",
+          "meaning": "You were fashioned first among all weapons by Pinākin, Śiva.",
+          "words": [
+            {
+              "text": "sarvāyudhānāṁ",
+              "meaning": "of all weapons (sarva + āyudha)"
+            },
+            {
+              "text": "prathamaṁ",
+              "meaning": "first"
+            },
+            {
+              "text": "nirmitāsi",
+              "meaning": "you were fashioned (nirmitā + asi)"
+            },
+            {
+              "text": "pinākinā",
+              "meaning": "by Pinākin, the bearer of the Pināka bow"
+            }
+          ]
+        },
+        {
+          "text": "śūlāyudhād viniṣkṛṣya kṛtvā muṣṭigrahaṁ śubhaṁ",
+          "meaning": "Having drawn [you] out from the spear weapon and made an auspicious handgrip—",
+          "words": [
+            {
+              "text": "śūlāyudhād",
+              "meaning": "from the spear weapon (śūla + āyudha; ablative)"
+            },
+            {
+              "text": "viniṣkṛṣya",
+              "meaning": "having drawn/extracted"
+            },
+            {
+              "text": "kṛtvā",
+              "meaning": "having made"
+            },
+            {
+              "text": "muṣṭigrahaṁ",
+              "meaning": "handgrip (muṣṭi, fist + graha, grasp)"
+            },
+            {
+              "text": "śubhaṁ",
+              "meaning": "auspicious"
+            }
+          ]
+        },
+        {
+          "text": "churike rakṣa māṁ nityaṁ śāntiṁ yaccha namo’stu te",
+          "meaning": "O dagger, protect me always; grant peace. Reverence be to you.",
+          "words": [
+            {
+              "text": "churike",
+              "meaning": "O dagger/knife (vocative of churikā)"
+            },
+            {
+              "text": "rakṣa",
+              "meaning": "protect"
+            },
+            {
+              "text": "māṁ",
+              "meaning": "me"
+            },
+            {
+              "text": "nityaṁ",
+              "meaning": "always"
+            },
+            {
+              "text": "śāntiṁ",
+              "meaning": "peace"
+            },
+            {
+              "text": "yaccha",
+              "meaning": "grant"
+            },
+            {
+              "text": "namo’stu",
+              "meaning": "may reverence be (namaḥ + astu)"
+            },
+            {
+              "text": "te",
+              "meaning": "to you"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "This prayer addresses a churikā, a dagger or knife, as a feminine deity. Its literal wording is not a universal prayer to a computer or every tool.",
+      "The middle line is corrected using Kamalākara Bhaṭṭa’s Śūdrakamalākara, which quotes Viṣṇudharma: https://vishvasa.github.io/kalpAntaram/dharmaH/nibandhaH/shUdra-dharmaH/shUdra-kamalAkaraH/mUlam/ . The witness contains additional stanzas absent from the selected source; these are not added.",
+      "The subject of nirmitāsi is the feminine churikā addressed in the final line."
+    ],
+    "corrections": [
+      {
+        "sourceReading": "ರಕ್ಷಮಾಂ / रक्षमां",
+        "displayReading": "rakṣa māṁ",
+        "reason": "Separates the imperative and its object.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ನಮೋಸ್ತು / नमोस्तु",
+        "displayReading": "namo’stu",
+        "reason": "Marks the elided initial a of astu; pronunciation is unchanged.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ಶೂಲಾಯುಧಾನ್ ವಿನಿಷ್ಕೃತ್ಯ / शूलायुधान् विनिष्कृत्य",
+        "displayReading": "śūlāyudhād viniṣkṛṣya",
+        "reason": "Independent Śūdrakamalākara witness reads शूलायुधाद् विनिष्कृष्य; replaces the damaged case ending and participle without adding omitted stanzas.",
+        "confidence": "high"
+      }
+    ]
+  },
+  "kalasha_prayer": {
+    "text": "devadānavasaṁvāde mathyamāne mahodadhau\nutpanno’si tadā kumbha vidhṛto viṣṇunā svayaṁ\ntvayi tiṣṭhanti bhūtāni tvayi prāṇāḥ pratiṣṭhitāḥ\ntvatprasādāt imaṁ yajñaṁ kartumīhe jalodbhava\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "devadānavasaṁvāde mathyamāne mahodadhau",
+          "meaning": "At the encounter of gods and dānavas, while the great ocean was being churned—",
+          "words": [
+            {
+              "text": "devadānavasaṁvāde",
+              "meaning": "at the encounter of gods and dānavas (deva + dānava + saṁvāda)"
+            },
+            {
+              "text": "mathyamāne",
+              "meaning": "while being churned"
+            },
+            {
+              "text": "mahodadhau",
+              "meaning": "in the great ocean (mahā + udadhi)"
+            }
+          ]
+        },
+        {
+          "text": "utpanno’si tadā kumbha vidhṛto viṣṇunā svayaṁ",
+          "meaning": "O pot, you arose then and were held by Viṣṇu himself.",
+          "words": [
+            {
+              "text": "utpanno’si",
+              "meaning": "you arose (utpannaḥ + asi)"
+            },
+            {
+              "text": "tadā",
+              "meaning": "then"
+            },
+            {
+              "text": "kumbha",
+              "meaning": "O pot"
+            },
+            {
+              "text": "vidhṛto",
+              "meaning": "held (vidhṛtaḥ in sandhi)"
+            },
+            {
+              "text": "viṣṇunā",
+              "meaning": "by Viṣṇu"
+            },
+            {
+              "text": "svayaṁ",
+              "meaning": "himself"
+            }
+          ]
+        },
+        {
+          "text": "tvayi tiṣṭhanti bhūtāni tvayi prāṇāḥ pratiṣṭhitāḥ",
+          "meaning": "In you dwell the beings/elements; in you the vital breaths are established.",
+          "words": [
+            {
+              "text": "tvayi",
+              "meaning": "in you"
+            },
+            {
+              "text": "tiṣṭhanti",
+              "meaning": "dwell; stand"
+            },
+            {
+              "text": "bhūtāni",
+              "meaning": "beings; elements"
+            },
+            {
+              "text": "tvayi",
+              "meaning": "in you"
+            },
+            {
+              "text": "prāṇāḥ",
+              "meaning": "vital breaths/life forces"
+            },
+            {
+              "text": "pratiṣṭhitāḥ",
+              "meaning": "established"
+            }
+          ]
+        },
+        {
+          "text": "tvatprasādāt imaṁ yajñaṁ kartumīhe jalodbhava",
+          "meaning": "Through your favor I desire to perform this sacrifice, O water-born one.",
+          "words": [
+            {
+              "text": "tvatprasādāt",
+              "meaning": "through your favor (tvat + prasāda)"
+            },
+            {
+              "text": "imaṁ",
+              "meaning": "this"
+            },
+            {
+              "text": "yajñaṁ",
+              "meaning": "sacrifice; ritual"
+            },
+            {
+              "text": "kartumīhe",
+              "meaning": "I desire to perform (kartum + īhe)"
+            },
+            {
+              "text": "jalodbhava",
+              "meaning": "O water-born one (jala + udbhava)"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "Three damaged readings are corrected against an independent Sanskrit witness, Saṁskāraratnamālā, printed page 151: https://sa.wikisource.org/wiki/पृष्ठम्:संस्काररत्नमाला_(भागः_१).djvu/१५५ . Only the four source-selected lines are included; no additional stanzas are supplied.",
+      "kartumīhe joins kartum (to perform) and īhe (I desire/endeavor), not kartum + ihe.",
+      "The source allows water from the previously worshipped kalasha or worship of a new kalasha."
+    ],
+    "corrections": [
+      {
+        "sourceReading": "ಉತ್ಪನ್ನೋಸಿ / उत्पन्नोसि",
+        "displayReading": "utpanno’si",
+        "reason": "Marks the elided a in asi.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ತಿಷ್ಟಂತಿ / तिष्टंति",
+        "displayReading": "tiṣṭhanti",
+        "reason": "Normalizes the clear verb “dwell/stand” by restoring aspiration.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ಪ್ರತಿಷ್ಟಿತಾ: / प्रतिष्टिता:",
+        "displayReading": "pratiṣṭhitāḥ",
+        "reason": "Normalizes the clear participle “established” by restoring aspiration.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ಮಧ್ಯಮಾನಾಂ / मध्यमानां",
+        "displayReading": "mathyamāne",
+        "reason": "Saṁskāraratnamālā printed p.151 reads मथ्यमाने; locative participle agrees with mahodadhau.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ವಿಷ್ಣು ಸ್ವಯಂ / विष्णु स्वयं",
+        "displayReading": "viṣṇunā svayaṁ",
+        "reason": "Saṁskāraratnamālā printed p.151 reads विष्णुना स्वयम्; instrumental identifies who held the pot.",
+        "confidence": "high"
+      },
+      {
+        "sourceReading": "ಕರ್ತುಮಿಹೇ / कर्तुमिहे",
+        "displayReading": "kartumīhe",
+        "reason": "Saṁskāraratnamālā printed p.151 reads कर्तुमीहे, kartum + īhe.",
+        "confidence": "high"
+      }
+    ]
+  },
+  "upacara_list": {
+    "text": "dhyāna āvāhana āsana arghya pādya ācamana\nmadhuparkaṁ punarācamanaṁ snānaṁ vastraṁ upavītaṁ gandhaṁ\nābharaṇāni akṣata dhūpaṁ dīpaṁ naivedyaṁ samarpayāmi\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "dhyāna āvāhana āsana arghya pādya ācamana",
+          "meaning": "Meditation, invocation, a seat, an honorific water offering, water for the feet, and water for sipping.",
+          "words": [
+            {
+              "text": "dhyāna",
+              "meaning": "meditation"
+            },
+            {
+              "text": "āvāhana",
+              "meaning": "invocation"
+            },
+            {
+              "text": "āsana",
+              "meaning": "seat"
+            },
+            {
+              "text": "arghya",
+              "meaning": "honorific water offering"
+            },
+            {
+              "text": "pādya",
+              "meaning": "water for washing feet"
+            },
+            {
+              "text": "ācamana",
+              "meaning": "ritual sipping of water"
+            }
+          ]
+        },
+        {
+          "text": "madhuparkaṁ punarācamanaṁ snānaṁ vastraṁ upavītaṁ gandhaṁ",
+          "meaning": "Madhuparka, water for sipping again, bathing, clothing, a sacred thread, and sandal paste/fragrance.",
+          "words": [
+            {
+              "text": "madhuparkaṁ",
+              "meaning": "sweet hospitable offering (madhu + parka)"
+            },
+            {
+              "text": "punarācamanaṁ",
+              "meaning": "sipping water again (punar + ācamana)"
+            },
+            {
+              "text": "snānaṁ",
+              "meaning": "bathing"
+            },
+            {
+              "text": "vastraṁ",
+              "meaning": "clothing"
+            },
+            {
+              "text": "upavītaṁ",
+              "meaning": "sacred thread"
+            },
+            {
+              "text": "gandhaṁ",
+              "meaning": "fragrance; sandal paste"
+            }
+          ]
+        },
+        {
+          "text": "ābharaṇāni akṣata dhūpaṁ dīpaṁ naivedyaṁ samarpayāmi",
+          "meaning": "I offer ornaments, unbroken rice, incense, a lamp, and food.",
+          "words": [
+            {
+              "text": "ābharaṇāni",
+              "meaning": "ornaments"
+            },
+            {
+              "text": "akṣata",
+              "meaning": "unbroken rice (printed uninflected list form)"
+            },
+            {
+              "text": "dhūpaṁ",
+              "meaning": "incense"
+            },
+            {
+              "text": "dīpaṁ",
+              "meaning": "lamp"
+            },
+            {
+              "text": "naivedyaṁ",
+              "meaning": "food offering"
+            },
+            {
+              "text": "samarpayāmi",
+              "meaning": "I offer"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "This preserves the source’s shortened noun list and its single final samarpayāmi. It does not supply sixteen individual offering formulas.",
+      "Several nouns appear as list labels rather than uniformly inflected accusatives. The heading calls this ṣoḍaśopacāra, but the printed enumeration has seventeen named items; do not silently omit one."
+    ],
+    "corrections": []
+  },
+  "completion": {
+    "text": "yasya smṛtyā ca nāmoktyā\ntapaḥ pūjākriyādiṣu\nnyūnaṁ saṁpūrṇatāṁ yāti\nsadyo vande tam acyutaṁ\n\nmantrahīnaṁ kriyāhīnaṁ bhaktihīnaṁ ramāpate\nyatkṛtaṁ tu mayā deva paripūrṇaṁ tad astu me\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "yasya smṛtyā ca nāmoktyā",
+          "meaning": "By remembrance of whom and by utterance of whose name—",
+          "words": [
+            {
+              "text": "yasya",
+              "meaning": "of whom"
+            },
+            {
+              "text": "smṛtyā",
+              "meaning": "by remembrance"
+            },
+            {
+              "text": "ca",
+              "meaning": "and"
+            },
+            {
+              "text": "nāmoktyā",
+              "meaning": "by utterance of the name (nāma + ukti)"
+            }
+          ]
+        },
+        {
+          "text": "tapaḥ pūjākriyādiṣu",
+          "meaning": "In austerities, acts of worship, and the like—",
+          "words": [
+            {
+              "text": "tapaḥ",
+              "meaning": "austerity; penance (printed form)"
+            },
+            {
+              "text": "pūjākriyādiṣu",
+              "meaning": "in worship rites and the like (pūjā + kriyā + ādi)"
+            }
+          ]
+        },
+        {
+          "text": "nyūnaṁ saṁpūrṇatāṁ yāti",
+          "meaning": "What is deficient becomes complete.",
+          "words": [
+            {
+              "text": "nyūnaṁ",
+              "meaning": "deficient; incomplete"
+            },
+            {
+              "text": "saṁpūrṇatāṁ",
+              "meaning": "completeness"
+            },
+            {
+              "text": "yāti",
+              "meaning": "attains; goes to"
+            }
+          ]
+        },
+        {
+          "text": "sadyo vande tam acyutaṁ",
+          "meaning": "I bow to that Acyuta, who makes this happen at once.",
+          "words": [
+            {
+              "text": "sadyo",
+              "meaning": "at once"
+            },
+            {
+              "text": "vande",
+              "meaning": "I bow to; honor"
+            },
+            {
+              "text": "tam",
+              "meaning": "that one"
+            },
+            {
+              "text": "acyutaṁ",
+              "meaning": "Acyuta, the unfailing Lord"
+            }
+          ]
+        },
+        null,
+        {
+          "text": "mantrahīnaṁ kriyāhīnaṁ bhaktihīnaṁ ramāpate",
+          "meaning": "O Lord of Ramā, [this worship is] deficient in mantra, action, and devotion.",
+          "words": [
+            {
+              "text": "mantrahīnaṁ",
+              "meaning": "lacking mantras (mantra + hīna)"
+            },
+            {
+              "text": "kriyāhīnaṁ",
+              "meaning": "lacking ritual action (kriyā + hīna)"
+            },
+            {
+              "text": "bhaktihīnaṁ",
+              "meaning": "lacking devotion (bhakti + hīna)"
+            },
+            {
+              "text": "ramāpate",
+              "meaning": "O Lord of Ramā/Lakṣmī (Ramā + pati)"
+            }
+          ]
+        },
+        {
+          "text": "yatkṛtaṁ tu mayā deva paripūrṇaṁ tad astu me",
+          "meaning": "O Lord, may what I have done become fully complete for me.",
+          "words": [
+            {
+              "text": "yatkṛtaṁ",
+              "meaning": "what was done (yat + kṛtaṁ)"
+            },
+            {
+              "text": "tu",
+              "meaning": "but; indeed"
+            },
+            {
+              "text": "mayā",
+              "meaning": "by me"
+            },
+            {
+              "text": "deva",
+              "meaning": "O Lord"
+            },
+            {
+              "text": "paripūrṇaṁ",
+              "meaning": "fully complete"
+            },
+            {
+              "text": "tad",
+              "meaning": "that"
+            },
+            {
+              "text": "astu",
+              "meaning": "may it be"
+            },
+            {
+              "text": "me",
+              "meaning": "for me"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "Preserves the printed yatkṛtaṁ ... tad astu me. It does not substitute yatpūjanaṁ or tad astu te from other versions.",
+      "tapaḥ is printed separately before pūjākriyādiṣu; the intended collective sense is “in austerity, worship rites, and so on,” but the printed nominal construction is retained.",
+      "sadyaḥ appears as sadyo before vande by sandhi."
+    ],
+    "corrections": []
+  },
+  "samarpana": {
+    "text": "anena vāhanapūjākaraṇena\nasmadgurvantargata bhāratīramaṇa mukhyaprāṇāntargata\nśrī durgāsahita śrī lakṣmīnārāyaṇa prīyatāṁ\n\nkṛṣṇārpaṇam astu\n",
+    "gloss": {
+      "lines": [
+        {
+          "text": "anena vāhanapūjākaraṇena",
+          "meaning": "By this performance of vehicle worship—",
+          "words": [
+            {
+              "text": "anena",
+              "meaning": "by this"
+            },
+            {
+              "text": "vāhanapūjākaraṇena",
+              "meaning": "by performing vehicle worship (vāhana + pūjā + karaṇa)"
+            }
+          ]
+        },
+        {
+          "text": "asmadgurvantargata bhāratīramaṇa mukhyaprāṇāntargata",
+          "meaning": "[The Lord] indwelling our guru and indwelling Mukhyaprāṇa, the husband of Bhāratī—",
+          "words": [
+            {
+              "text": "asmadgurvantargata",
+              "meaning": "indwelling our guru (asmad + guru + antargata); the printed source has an extra u before v; the display uses regular guru + antargata sandhi"
+            },
+            {
+              "text": "bhāratīramaṇa",
+              "meaning": "husband of Bhāratī (Bhāratī + ramaṇa), qualifying Mukhyaprāṇa"
+            },
+            {
+              "text": "mukhyaprāṇāntargata",
+              "meaning": "indwelling Mukhyaprāṇa (mukhya, chief + prāṇa, vital breath + antargata)"
+            }
+          ]
+        },
+        {
+          "text": "śrī durgāsahita śrī lakṣmīnārāyaṇa prīyatāṁ",
+          "meaning": "May Śrī Lakṣmī-Nārāyaṇa, accompanied by Śrī Durgā, be pleased.",
+          "words": [
+            {
+              "text": "śrī",
+              "meaning": "honorific auspicious title"
+            },
+            {
+              "text": "durgāsahita",
+              "meaning": "accompanied by Durgā (Durgā + sahita)"
+            },
+            {
+              "text": "śrī",
+              "meaning": "honorific auspicious title"
+            },
+            {
+              "text": "lakṣmīnārāyaṇa",
+              "meaning": "Lakṣmī and Nārāyaṇa"
+            },
+            {
+              "text": "prīyatāṁ",
+              "meaning": "may be pleased"
+            }
+          ]
+        },
+        null,
+        {
+          "text": "kṛṣṇārpaṇam astu",
+          "meaning": "May this be an offering to Kṛṣṇa.",
+          "words": [
+            {
+              "text": "kṛṣṇārpaṇam",
+              "meaning": "offering to Kṛṣṇa (Kṛṣṇa + arpaṇa)"
+            },
+            {
+              "text": "astu",
+              "meaning": "may it be"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    "readingNotes": [
+      "The source says vāhana (vehicle) here; it is not silently changed to āyudha (implement).",
+      "The indwelling chain is preserved as an uninflected source sequence; it is interpreted in the source’s Mādhva context, not expanded into a new hierarchy.",
+      "The printed asmadguruvantargata has been normalized to asmadgurvantargata by the regular guru + antargata vowel sandhi. This is explicitly a proposed grammatical normalization; confirm the intended recitation."
+    ],
+    "corrections": [
+      {
+        "sourceReading": "ಅಸ್ಮದ್ಗುರುವಂತರ್ಗತ",
+        "displayReading": "asmadgurvantargata",
+        "reason": "Proposed normalization of guru + antargata to gurvantargata; removes the extra printed u before v.",
+        "confidence": "medium"
+      },
+      {
+        "sourceReading": "ಕೃಷ್ಣಾರ್ಪಣಮಸ್ತು",
+        "displayReading": "kṛṣṇārpaṇam astu",
+        "reason": "Separates arpaṇam and astu for learning without changing the recited sounds.",
+        "confidence": "high"
+      }
+    ]
+  }
+}

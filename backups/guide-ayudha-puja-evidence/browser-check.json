@@ -1,0 +1,60 @@
+{
+  "base": "http://127.0.0.1:8768",
+  "counts": {
+    "title": "Ayudha Puja",
+    "tabs": 14,
+    "cards": 20,
+    "lines": 80,
+    "meanings": 80,
+    "words": 80,
+    "contemplate": 20,
+    "action": 20,
+    "sourceDetails": 82,
+    "corrections": 10,
+    "playButtons": 0,
+    "playerHidden": true,
+    "sourceLabel": "Sumadhwa Seva",
+    "recordedLabel": false,
+    "archiveTitles": [],
+    "blanks": 0
+  },
+  "layouts": [
+    {
+      "width": 320,
+      "inner": 320,
+      "scroll": 320,
+      "playerHidden": true
+    },
+    {
+      "width": 375,
+      "inner": 375,
+      "scroll": 375,
+      "playerHidden": true
+    },
+    {
+      "width": 390,
+      "inner": 390,
+      "scroll": 390,
+      "playerHidden": true
+    },
+    {
+      "width": 768,
+      "inner": 768,
+      "scroll": 768,
+      "playerHidden": true
+    },
+    {
+      "width": 1440,
+      "inner": 1440,
+      "scroll": 1440,
+      "playerHidden": true
+    }
+  ],
+  "audio": {
+    "src": "audio17/01-avahana-welcome-and-the-four-nakshatra-days.mp3",
+    "paused": false,
+    "player": true
+  },
+  "errors": [],
+  "print": "20 cards exported as A4 PDF"
+}

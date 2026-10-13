@@ -1,0 +1,71 @@
+[
+  {
+    "name": "complete-text",
+    "expectedPass": true,
+    "passed": true
+  },
+  {
+    "name": "wrong-offset",
+    "expectedPass": false,
+    "passed": false
+  },
+  {
+    "name": "missing-last-segment",
+    "expectedPass": false,
+    "passed": false
+  },
+  {
+    "name": "source-drift",
+    "expectedPass": false,
+    "passed": false
+  },
+  {
+    "name": "segment-reordered",
+    "expectedPass": false,
+    "passed": false
+  },
+  {
+    "name": "fake-duration",
+    "expectedPass": false,
+    "passed": false
+  },
+  {
+    "name": "fake-seconds",
+    "expectedPass": false,
+    "passed": false
+  },
+  {
+    "name": "missing-action",
+    "expectedPass": false,
+    "passed": false
+  },
+  {
+    "name": "missing-word-gloss",
+    "expectedPass": false,
+    "passed": false
+  },
+  {
+    "name": "utf16-surrogate-range",
+    "expectedPass": true,
+    "passed": true
+  },
+  {
+    "name": "codepoint-offset-rejected",
+    "expectedPass": false,
+    "passed": false
+  },
+  {
+    "name": "existing-three-source-media-manifest",
+    "passed": true,
+    "result": {
+      "guideKey": "saraswati-puja",
+      "sections": 81,
+      "sourceCharacters": 30626,
+      "mantraBoxes": 94,
+      "actionBoxes": 116,
+      "paragraphBreaks": 54,
+      "audioFiles": 0,
+      "baselineChecked": false
+    }
+  }
+]
