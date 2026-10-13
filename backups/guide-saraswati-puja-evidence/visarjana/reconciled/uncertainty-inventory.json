@@ -1,0 +1,142 @@
+[
+  {
+    "segmentId": "visarjana-V01-01",
+    "startSeconds": 0.48,
+    "endSeconds": 42.079,
+    "notes": [
+      "“The fourth day, Thursday” is the 2025 recording’s calendar context, not a current-date instruction. “Fruit and coconut” interprets the spoken haṇṇu-kāyi; exact offering quantities are not supplied."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V02-02",
+    "startSeconds": 44.0,
+    "endSeconds": 61.76,
+    "notes": [
+      "The fine acoustic witness gives gṛhītva and iṣṭakāmyāṃśca dadyātaṃ. The last inflections are uncertain; they have not been silently regularized to a memorized verse."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V02-03",
+    "startSeconds": 61.76,
+    "endSeconds": 68.0,
+    "notes": [
+      "The transition after hākiri is noisy; the witnesses give “āvāga”/a similarly sounding continuation. The placement instruction is clear."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V02-04",
+    "startSeconds": 68.0,
+    "endSeconds": 73.92,
+    "notes": [
+      "The captions give dēvatāśagita and vēdavyāsaṃsthānaṃ; fine GPT gives dēvatā śakita and gatāsthānaṃ. The audible śakita and gatāsthānaṃ are retained; antargata is supported by the coarse witness. No remembered establishment formula has been substituted."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V03-01",
+    "startSeconds": 80.88,
+    "endSeconds": 128.8,
+    "notes": [
+      "The work-title Narasimha Nakha Stuti is split/noisy in both caption and fine acoustic witnesses. “Sumadhvavijaya” is a contextual title reading of the acoustic sumadvavijaya. The speaker’s incomplete “our Madhva tradition” phrase is retained."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V03-02",
+    "startSeconds": 128.8,
+    "endSeconds": 135.19,
+    "notes": [
+      "The displayed opening is textually reconciled as abhramaṃ bhaṅgarahitam: local UTM-book data4.js, page 33, and independent guide data10.js both supply this reading. Fine acoustic GPT has abrahmaṃ baṅgaragitaṃ, coarse GPT abrahmaṃ baṅgāragitaṃ, targeted GPT-4o abramam-baṅkāritam. These phonetic shapes and the shared ajaḍaṃ vimalaṃ sadā/ānandatīrtha continuation support the candidate. This is an explicitly marked textual correction, not exact acoustic certainty; sourceOriginal and raw sourceRoman remain unchanged."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V03-03",
+    "startSeconds": 135.2,
+    "endSeconds": 137.28,
+    "notes": [
+      "The captions and fine witness give vāra, with no secure preceding count. A repetition count must not be invented."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V03-04",
+    "startSeconds": 137.28,
+    "endSeconds": 145.92,
+    "notes": [
+      "The fine witness and captions disagree on tadvākya/tatvākya and tajña/tadgya. The displayed forms are provisional lexical readings, not acoustic certification."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V04-02",
+    "startSeconds": 162.64,
+    "endSeconds": 175.99,
+    "notes": [
+      "The second half is damaged across captions and fine GPT; the source-shaped phonetic cluster is retained. It is unsuitable for confident recitation until independently verified.",
+      "A dictionary quotation of Nirnayasindhu supplies śamīyuktaṃ jagannāthaṃ bhaktānāmabhayaṅkaram / arcayitvā śamīvṛkṣamarcayecca tataḥ punaḥ. This explains the prayer’s object: Jagannatha associated with shami, granting devotees fearlessness, followed by tree worship. The recording’s arcayāmi tvāṃ and damaged ending differ; the candidate is not substituted."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V04-03",
+    "startSeconds": 176.0,
+    "endSeconds": 180.72,
+    "notes": [
+      "The speaker restarts the “near/to the shami” phrase; both phrases are retained."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V06-01",
+    "startSeconds": 191.84,
+    "endSeconds": 206.239,
+    "notes": [
+      "The second line is unresolved in both caption and acoustic witnesses. All audible clusters are retained with specific lexical uncertainty; no standard shami verse is supplied from memory.",
+      "Digitized Prativarshikapujakathasangraha, Shami worship passage, supplies duḥkhapraṇaśinīṃ dhanyāṃ prapadyēhaṃ śamīṃ śubhām; another tradition reads duḥsvapnanāśinīm. This supports a prayer to the auspicious shami as remover of suffering, approached for refuge. The recording’s duḥkhāpnu sanīṃ cluster does not securely distinguish these variants, so it remains retained."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V06-03",
+    "startSeconds": 208.56,
+    "endSeconds": 212.48,
+    "notes": [
+      "The speaker’s quoted procedural Sanskrit is retained separately; captions read dhyānabihi and fine GPT dhyānābhiḥ."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V06-04",
+    "startSeconds": 212.48,
+    "endSeconds": 217.44,
+    "notes": [
+      "The caption merges sampūjya with the following turmeric word; the actual embedded marker at 212.48 is used for the language split.",
+      "Fine GPT reads aṣṭāṅgakuṃkumadinda, coarse GPT reads aṣṭāṅga namaskāradinda, targeted GPT-4o reads a compressed …aśnāguṃkumadinda, while native captions give turmeric/kumkuma. The turmeric/kumkuma reading is provisional; an additional bodily gesture is not securely established."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V07-01",
+    "startSeconds": 217.44,
+    "endSeconds": 243.36,
+    "notes": [
+      "The opening dharaṇi dhāriṇyārjuna and prajñavādini is acoustically unresolved, not silently replaced with a familiar shami prayer. Other uncertain endings are visible in the gloss.",
+      "Digitized Prativarshikapujakathasangraha supplies dhāriṇyārjunabāṇānāṃ rāmasya priyavādinī / kariṣyamāṇayātrāyāṃ … nirvighnakartrī tvaṃ. These candidates explain shami as bearer of Arjuna’s arrows, dear-speaking to Rama, and remover of journey obstacles. The recording has an initial dharaṇi restart and noisy prajñavādini/kartritvaṃ; original wording remains rather than silently inserting the standard verse."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V07-02",
+    "startSeconds": 243.36,
+    "endSeconds": 262.639,
+    "notes": [
+      "The spoken self-repair “ēnu saṃsārāṃbō” is retained; the explanation clearly compares household life to the journey."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V08-02",
+    "startSeconds": 284.08,
+    "endSeconds": 301.28,
+    "notes": [
+      "The quoted verses are not a clean text witness. śāpapuṇyā jagatā naṇaṃ and taistaisadā manmūrtiṃ remain specifically uncertain. The following Kannada supplies the speaker’s explanation without repairing the Sanskrit from memory."
+    ]
+  },
+  {
+    "segmentId": "visarjana-V10-02",
+    "startSeconds": 372.08,
+    "endSeconds": 373.52,
+    "notes": [
+      "The captions compress the quoted recall into vijayaganāma kālō; fine GPT gives vijayanāma kālōyaṃ. This short recall is preserved, not expanded into the earlier verse."
+    ]
+  }
+]

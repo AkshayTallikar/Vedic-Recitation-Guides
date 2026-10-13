@@ -1,0 +1,41 @@
+{
+  "base": "http://127.0.0.1:8768/",
+  "sections": 81,
+  "lineMeanings": 453,
+  "contemplateActionPairs": 81,
+  "sourcePlaybackChecks": [
+    {
+      "sourceId": "avahana",
+      "section": "01",
+      "clip": "audio17/01-avahana-welcome-and-the-four-nakshatra-days.mp3",
+      "correctSourceLink": true,
+      "lineReplay": true,
+      "observedClipTime": 0.25
+    },
+    {
+      "sourceId": "puja",
+      "section": "30",
+      "clip": "audio17/30-puja-acamana.mp3",
+      "correctSourceLink": true,
+      "lineReplay": true,
+      "observedClipTime": 2.25
+    },
+    {
+      "sourceId": "visarjana",
+      "section": "72",
+      "clip": "audio17/72-visarjana-saraswati-dismissal.mp3",
+      "correctSourceLink": true,
+      "lineReplay": true,
+      "observedClipTime": 2.290747
+    }
+  ],
+  "mobileOverflow": false,
+  "visibleGuides": 13,
+  "archivedGuidesHidden": true,
+  "priorGuideSectionCounts": {
+    "achar": 47,
+    "navaratri": 50,
+    "jyeshtha": 33
+  },
+  "pageErrors": []
+}

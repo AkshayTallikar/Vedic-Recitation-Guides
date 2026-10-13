@@ -18,6 +18,9 @@ build/*
 # OS / editor cruft
 .DS_Store
 *.log
+.env
+.env.*
+!.env.example
 
 # Local deployment packaging
 dist/

@@ -1,0 +1,62 @@
+{
+  "scope": "Read-only semantic review of Avahana Sanskrit learning enrichment, excluding A22. No Avahana source, guide, or skill files edited.",
+  "references": [
+    {"path":"/tmp/vedic-saraswati-guide/tantrasara-sangraha/text/ch4.md","passages":"4.36 Rama; 4.45 Vyasa with Sanskrit commentary; 4.50–51 Hayagriva; 4.53 Kapila/Datta; 4.60–61 Bhu/Durga; 4.72 Saraswati"},
+    {"path":"/tmp/vedic-saraswati-guide/tantrasara-sangraha/text/ch1.md","passages":"1.18–20 Narayana, including Sanskrit commentary identifying vipa as Garuda and nitya-nihsesha as eternal complete powers"},
+    {"path":"/tmp/vedic-saraswati-guide/padyamala/source.tsv","passages":"60 meditation cue udyadbhāsvad; no additional ritual motions imported"},
+    {"path":"/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/avahana/reconciled/sections.json","role":"Current read-only reviewed guide"},
+    {"path":"/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/avahana/reconciled/kapila-gpt4o.json","role":"Noisy independent acoustic witness inspected"},
+    {"path":"/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/avahana/reconciled/saraswati-gpt4o.json","role":"Noisy independent acoustic witness inspected"}
+  ],
+  "findings": [
+    {
+      "sectionId":"A09",
+      "line":"svātmasvarūpam amitaṁ hanumanmukheṣu sandarśayantaṁ ajitaṁ smaratorugīrbhiḥ",
+      "priority":2,
+      "problem":"The line/word gloss treats smaratorugīrbhiḥ as an imperative 'remember [the unconquered Lord] with great praises'. In the matching Tantrasara 4.36 text, smarataḥ + urugīrbhiḥ qualifies Hanuman and the others who remember/praise him; it is not a fresh imperative. This changes the pictured relationship and makes the word gloss grammatically misleading.",
+      "recommendedMeaning":"[Provisional joining phrase:] Showing his boundless own essential nature to Hanuman and the others who remember him with mighty hymns—the unconquered Lord.",
+      "recommendedWordGloss":"smaratorugīrbhiḥ: to/those remembering him with mighty praises (smarataḥ + uru-gīrbhiḥ), qualifying the Hanuman-led recipients; recorded joining remains provisional.",
+      "evidence":"Tantrasara ch4.md verse 36 Sanskrit plus its translation, lines 474–483. Current acoustic note already marks the final great-praise phrase provisional; preserve that flag and source wording."
+    },
+    {
+      "sectionId":"A06",
+      "line":"śubhe śobhane muhūrte ādya brahmaṇaḥ dvitīya parārdhe …",
+      "priority":2,
+      "problem":"The ādya token is glossed 'primordial' even though the line meaning omits that sense and the sankalpa construction strongly points to adya, 'today/now'. A phonetic long-vowel transcript is being assigned a different secure lexical meaning.",
+      "recommendation":"Retain the acoustic spelling if required, but gloss 'recorded ādya, probably adya “today/now”; vowel reading uncertain', or reconcile the displayed vowel only after checking the original witnesses. Do not leave the unqualified primordial gloss.",
+      "evidence":"Current line syntax and the normal adya + Brahma-lifespan dating construction; this is a linguistic inference rather than an independently verified word-level hearing."
+    },
+    {
+      "sectionId":"A06",
+      "line":"… śālivāhana śake bhautāvatāre rāmakṣetre",
+      "priority":2,
+      "problem":"bhautāvatāre is glossed 'literally material incarnation'. That is not a secure parse of the retained phonetic cluster. It converts an unknown dating/locality formula into a substantive metaphysical claim.",
+      "recommendation":"Use 'uncertain recorded dating/formula expression; intended lexical form unresolved' rather than a confident literal material-incarnation gloss. bauddhāvatāre is a plausible textual candidate for targeted review, not a license to replace the source or invent its meaning.",
+      "evidence":"The current sourceScript itself is phonetic/provisional. No primary textual passage identifying this exact local formula was supplied in the reviewed sources."
+    },
+    {
+      "sectionId":"A14",
+      "line":"sevyamāno adhikaṁ bhaktyā nitya nirdoṣaśaktimān … nitya nirdoṣaśaktimān",
+      "priority":2,
+      "problem":"Potential reading/meaning divergence requiring an explicit candidate note: matching Tantrasara 1.20 reads nitya-niḥśeṣaśaktimān, 'ever possessing complete/all powers'; Sanskrit commentary explicitly gives nityā anapāyinyo niḥśeṣāḥ pūrṇāḥ śaktayaḥ. The current guide gives nirdoṣa and confidently means 'faultless power' without flagging this primary-text divergence. The speaker may actually have said nirdoṣa, so this is not grounds for silent correction.",
+      "recommendation":"Compare both raw acoustic passes/captions at the repeated phrases; record the niḥśeṣa candidate and distinguish an actual spoken variant from ASR substitution. Keep both repetitions and do not add the omitted continuation about the eight forms.",
+      "evidence":"Tantrasara ch1.md 1.18–20, especially Sanskrit commentary at line 359; current A14 notes call this a faultless-power phrase without acknowledging the textual difference."
+    },
+    {
+      "sectionId":"A20",
+      "line":"etat śāstra pustaka … prāṇaśrī rekhāyāṁ sthitaṁ",
+      "priority":2,
+      "problem":"The section correctly flags the cluster as disputed, but the lexical row still confidently equates prāṇaśrī with two deity names 'Prana and Shri'. The disputed syllables do not securely establish that two-name parse, and no primary source confirmation is supplied.",
+      "recommendation":"Use 'audible prāṇaśrī cluster; proposed Prana/Shri division unresolved' and keep the line meaning explicitly provisional. Do not present deity identity as a resolved lexical meaning.",
+      "evidence":"Current A20 note explicitly calls the Prana-Shri expression disputed across fine/coarse/targeted witnesses."
+    }
+  ],
+  "confirmedInterpretations": [
+    {"sectionId":"A14","point":"vipaiḥ as Garuda is supported directly by Sanskrit commentary 'vipena garuḍena'; this is not an invented deity from a phonetic fragment."},
+    {"sectionId":"A13","point":"tarkābhayetaṁ as knowledge/reasoning and fearlessness hand gestures is supported by Sanskrit commentary explicitly identifying jñānamudrā/abhayamudrā. It describes the deity; it does not authorize the practitioner to perform a new gesture."},
+    {"sectionId":"A16","point":"Betel and blue lotus in Bhu’s description have direct Tantrasara 4.61/commentary support. Do not reject tāmbūla as an ASR hallucination simply because it seems unusual."},
+    {"sectionId":"A19","point":"varapustakaṁ as 'excellent book' is linguistically defensible in the recorded four-arm description: first pair abhaya/vara; second pair teaching mudra/book. The existing local English primary-text translation appears to add another boon redundantly. Do not change the guide to five held items merely to mirror that translation."},
+    {"sectionId":"A07","point":"Kapila/Datta knowledge/fearlessness hands and awakening the Brahma-led assembly are supported by the matching primary verse; raw acoustic restarts should remain."}
+  ],
+  "limits":"This review used Sanskrit grammar, matching local textual witnesses and available raw ASR. It does not claim personal acoustic hearing or certify damaged phonetic words. Unresolved source words must remain visibly uncertain even when a plausible book candidate exists."
+}

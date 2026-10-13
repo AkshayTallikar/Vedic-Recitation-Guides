@@ -1,0 +1,43 @@
+{
+  "section": "puja",
+  "source_file": "original.kn-orig.vtt",
+  "cue_count": 967,
+  "inspection_timeline_count": 967,
+  "collapsed_exact_timestamp_cues": 0,
+  "source_duration_seconds": 1613.763628,
+  "duration_basis": "ffprobe:original.mp3",
+  "metadata_duration_seconds": 1614.0,
+  "first_cue": "00:00:01.680",
+  "last_cue_end": "00:26:55.159",
+  "caption_end_overruns": [
+    {
+      "cue_index": 967,
+      "start_time": "00:26:52.159",
+      "end_time": "00:26:55.159",
+      "overrun_seconds": 1.395,
+      "text": "ಧನ್ಯವಾದ"
+    }
+  ],
+  "caption_end_overrun_count": 1,
+  "native_event_count": 1782,
+  "skipped_short_cue_count": 483,
+  "native_event_end_overrun_count": 1,
+  "music_cues": [
+    {
+      "cue_index": 889,
+      "start_time": "00:24:53.200",
+      "end_time": "00:24:55.669",
+      "text": "[ಸಂಗೀತ]",
+      "short_redisplay_candidate": false
+    },
+    {
+      "cue_index": 890,
+      "start_time": "00:24:55.669",
+      "end_time": "00:24:55.679",
+      "text": "[ಸಂಗೀತ]",
+      "short_redisplay_candidate": true
+    }
+  ],
+  "suspected_caption_gaps_over_5s": [],
+  "note": "Timeline is an inspection aid; raw VTT and full raw cue lines are preserved. Gap/music flags require listening review and are not language or ritual judgments."
+}

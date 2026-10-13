@@ -1,0 +1,28 @@
+{
+  "section": "visarjana",
+  "source_file": "original.kn-orig.vtt",
+  "cue_count": 247,
+  "inspection_timeline_count": 247,
+  "collapsed_exact_timestamp_cues": 0,
+  "source_duration_seconds": 416.612438,
+  "duration_basis": "ffprobe:original.mp3",
+  "metadata_duration_seconds": 417.0,
+  "first_cue": "00:00:00.480",
+  "last_cue_end": "00:06:57.560",
+  "caption_end_overruns": [
+    {
+      "cue_index": 247,
+      "start_time": "00:06:53.440",
+      "end_time": "00:06:57.560",
+      "overrun_seconds": 0.948,
+      "text": "ಒಳ್ಳೆದುಗಳು ಆಗಲಿ ಧನ್ಯವಾದ."
+    }
+  ],
+  "caption_end_overrun_count": 1,
+  "native_event_count": 454,
+  "skipped_short_cue_count": 123,
+  "native_event_end_overrun_count": 1,
+  "music_cues": [],
+  "suspected_caption_gaps_over_5s": [],
+  "note": "Timeline is an inspection aid; raw VTT and full raw cue lines are preserved. Gap/music flags require listening review and are not language or ritual judgments."
+}

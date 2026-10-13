@@ -1,0 +1,38 @@
+[
+  {
+    "id": "dismissal",
+    "startSeconds": 43,
+    "endSeconds": 79,
+    "model": "gpt-4o-transcribe"
+  },
+  {
+    "id": "madhva",
+    "startSeconds": 126,
+    "endSeconds": 147,
+    "model": "gpt-4o-transcribe"
+  },
+  {
+    "id": "shami-one",
+    "startSeconds": 160,
+    "endSeconds": 177,
+    "model": "gpt-4o-transcribe"
+  },
+  {
+    "id": "shami-two",
+    "startSeconds": 191,
+    "endSeconds": 216,
+    "model": "gpt-4o-transcribe"
+  },
+  {
+    "id": "shami-three",
+    "startSeconds": 217,
+    "endSeconds": 244,
+    "model": "gpt-4o-transcribe"
+  },
+  {
+    "id": "charity",
+    "startSeconds": 283,
+    "endSeconds": 303,
+    "model": "gpt-4o-transcribe"
+  }
+]

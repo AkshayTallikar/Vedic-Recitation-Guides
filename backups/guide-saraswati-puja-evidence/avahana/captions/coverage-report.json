@@ -1,0 +1,43 @@
+{
+  "section": "avahana",
+  "source_file": "original.kn-orig.vtt",
+  "cue_count": 615,
+  "inspection_timeline_count": 615,
+  "collapsed_exact_timestamp_cues": 0,
+  "source_duration_seconds": 1035.633208,
+  "duration_basis": "ffprobe:original.mp3",
+  "metadata_duration_seconds": 1036.0,
+  "first_cue": "00:00:00.560",
+  "last_cue_end": "00:17:17.160",
+  "caption_end_overruns": [
+    {
+      "cue_index": 615,
+      "start_time": "00:17:12.559",
+      "end_time": "00:17:17.160",
+      "overrun_seconds": 1.527,
+      "text": "ವಿಡಿಯೋವನ್ನ ನೋಡೋಣ ಧನ್ಯವಾದ"
+    }
+  ],
+  "caption_end_overrun_count": 1,
+  "native_event_count": 1021,
+  "skipped_short_cue_count": 307,
+  "native_event_end_overrun_count": 1,
+  "music_cues": [
+    {
+      "cue_index": 221,
+      "start_time": "00:05:56.130",
+      "end_time": "00:05:57.270",
+      "text": "[ಸಂಗೀತ]",
+      "short_redisplay_candidate": false
+    },
+    {
+      "cue_index": 222,
+      "start_time": "00:05:57.270",
+      "end_time": "00:05:57.280",
+      "text": "[ಸಂಗೀತ]",
+      "short_redisplay_candidate": true
+    }
+  ],
+  "suspected_caption_gaps_over_5s": [],
+  "note": "Timeline is an inspection aid; raw VTT and full raw cue lines are preserved. Gap/music flags require listening review and are not language or ritual judgments."
+}

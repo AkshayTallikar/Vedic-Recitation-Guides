@@ -1,0 +1,18 @@
+{
+  "javascriptSyntaxPassed": [
+    "data17.js",
+    "app.js",
+    "guide-catalog.js"
+  ],
+  "existingGuideDataFilesPreservedByteForByte": 18,
+  "acharEnrichmentCheckPassed": true,
+  "visibleGuides": 13,
+  "sections": 538,
+  "playableClips": 480,
+  "archivedKeys": [
+    "nda",
+    "utm"
+  ],
+  "archiveStatusPreserved": true,
+  "githubBaseCommit": "b2e833d24bccc330f1ff4c35459bb9891df8da0b"
+}

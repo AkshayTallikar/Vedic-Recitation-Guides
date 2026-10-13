@@ -1,0 +1,295 @@
+{
+  "source": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/source/original.mp3",
+  "duration_seconds": 1613.764,
+  "segment_seconds": 45.0,
+  "overlap_seconds": 5.0,
+  "chunks": [
+    {
+      "index": 1,
+      "file": "original-part-001.mp3",
+      "start_seconds": 0.0,
+      "end_seconds": 45.0,
+      "overlap_seconds": 0
+    },
+    {
+      "index": 2,
+      "file": "original-part-002.mp3",
+      "start_seconds": 40.0,
+      "end_seconds": 85.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 3,
+      "file": "original-part-003.mp3",
+      "start_seconds": 80.0,
+      "end_seconds": 125.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 4,
+      "file": "original-part-004.mp3",
+      "start_seconds": 120.0,
+      "end_seconds": 165.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 5,
+      "file": "original-part-005.mp3",
+      "start_seconds": 160.0,
+      "end_seconds": 205.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 6,
+      "file": "original-part-006.mp3",
+      "start_seconds": 200.0,
+      "end_seconds": 245.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 7,
+      "file": "original-part-007.mp3",
+      "start_seconds": 240.0,
+      "end_seconds": 285.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 8,
+      "file": "original-part-008.mp3",
+      "start_seconds": 280.0,
+      "end_seconds": 325.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 9,
+      "file": "original-part-009.mp3",
+      "start_seconds": 320.0,
+      "end_seconds": 365.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 10,
+      "file": "original-part-010.mp3",
+      "start_seconds": 360.0,
+      "end_seconds": 405.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 11,
+      "file": "original-part-011.mp3",
+      "start_seconds": 400.0,
+      "end_seconds": 445.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 12,
+      "file": "original-part-012.mp3",
+      "start_seconds": 440.0,
+      "end_seconds": 485.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 13,
+      "file": "original-part-013.mp3",
+      "start_seconds": 480.0,
+      "end_seconds": 525.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 14,
+      "file": "original-part-014.mp3",
+      "start_seconds": 520.0,
+      "end_seconds": 565.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 15,
+      "file": "original-part-015.mp3",
+      "start_seconds": 560.0,
+      "end_seconds": 605.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 16,
+      "file": "original-part-016.mp3",
+      "start_seconds": 600.0,
+      "end_seconds": 645.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 17,
+      "file": "original-part-017.mp3",
+      "start_seconds": 640.0,
+      "end_seconds": 685.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 18,
+      "file": "original-part-018.mp3",
+      "start_seconds": 680.0,
+      "end_seconds": 725.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 19,
+      "file": "original-part-019.mp3",
+      "start_seconds": 720.0,
+      "end_seconds": 765.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 20,
+      "file": "original-part-020.mp3",
+      "start_seconds": 760.0,
+      "end_seconds": 805.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 21,
+      "file": "original-part-021.mp3",
+      "start_seconds": 800.0,
+      "end_seconds": 845.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 22,
+      "file": "original-part-022.mp3",
+      "start_seconds": 840.0,
+      "end_seconds": 885.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 23,
+      "file": "original-part-023.mp3",
+      "start_seconds": 880.0,
+      "end_seconds": 925.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 24,
+      "file": "original-part-024.mp3",
+      "start_seconds": 920.0,
+      "end_seconds": 965.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 25,
+      "file": "original-part-025.mp3",
+      "start_seconds": 960.0,
+      "end_seconds": 1005.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 26,
+      "file": "original-part-026.mp3",
+      "start_seconds": 1000.0,
+      "end_seconds": 1045.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 27,
+      "file": "original-part-027.mp3",
+      "start_seconds": 1040.0,
+      "end_seconds": 1085.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 28,
+      "file": "original-part-028.mp3",
+      "start_seconds": 1080.0,
+      "end_seconds": 1125.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 29,
+      "file": "original-part-029.mp3",
+      "start_seconds": 1120.0,
+      "end_seconds": 1165.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 30,
+      "file": "original-part-030.mp3",
+      "start_seconds": 1160.0,
+      "end_seconds": 1205.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 31,
+      "file": "original-part-031.mp3",
+      "start_seconds": 1200.0,
+      "end_seconds": 1245.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 32,
+      "file": "original-part-032.mp3",
+      "start_seconds": 1240.0,
+      "end_seconds": 1285.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 33,
+      "file": "original-part-033.mp3",
+      "start_seconds": 1280.0,
+      "end_seconds": 1325.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 34,
+      "file": "original-part-034.mp3",
+      "start_seconds": 1320.0,
+      "end_seconds": 1365.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 35,
+      "file": "original-part-035.mp3",
+      "start_seconds": 1360.0,
+      "end_seconds": 1405.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 36,
+      "file": "original-part-036.mp3",
+      "start_seconds": 1400.0,
+      "end_seconds": 1445.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 37,
+      "file": "original-part-037.mp3",
+      "start_seconds": 1440.0,
+      "end_seconds": 1485.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 38,
+      "file": "original-part-038.mp3",
+      "start_seconds": 1480.0,
+      "end_seconds": 1525.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 39,
+      "file": "original-part-039.mp3",
+      "start_seconds": 1520.0,
+      "end_seconds": 1565.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 40,
+      "file": "original-part-040.mp3",
+      "start_seconds": 1560.0,
+      "end_seconds": 1605.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 41,
+      "file": "original-part-041.mp3",
+      "start_seconds": 1600.0,
+      "end_seconds": 1613.764,
+      "overlap_seconds": 5.0
+    }
+  ]
+}

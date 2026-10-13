@@ -1,0 +1,51 @@
+{
+  "madhvaOpening": {
+    "status": "textually-reconciled-audio-compatible",
+    "previousDisplay": "abrahmaṃ baṅgaragitaṃ ajaḍaṃ vimalaṃ sadā |\nānandatīrthamatulaṃ bhajē tāpatrayāpaham ||",
+    "retainedSourceRoman": "abrahmaṃ baṅgaragitaṃ ajaḍaṃ vimalaṃ sadā |\nānandatīrthamatulaṃ bhajē tāpatrayāpaham ||",
+    "displayReading": "abhramaṃ bhaṅgarahitam ajaḍaṃ vimalaṃ sadā |\nānandatīrthamatulaṃ bhajē tāpatrayāpaham ||",
+    "timingBasis": "Native embedded VTT markers unchanged",
+    "references": [
+      {
+        "path": "/tmp/vedic-saraswati-guide/site/data4.js",
+        "sha256": "a36963cf1d313e405e4ae014644aecaceacf486cb1b18cf6cf55f566ce3665c1",
+        "role": "Independent existing local guide textual candidate; not this recording’s acoustic or timing authority."
+      },
+      {
+        "path": "/tmp/vedic-saraswati-guide/site/data10.js",
+        "sha256": "1f2cd61fd9d0ba659009f389c1d917f9b6d3705d2269a71724d81feafb0e5e46",
+        "role": "Independent existing local guide textual candidate; not this recording’s acoustic or timing authority."
+      }
+    ],
+    "acousticWitnesses": [
+      {
+        "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-004-transcript.json",
+        "reading": "ಅಬ್ರಹ್ಮಂ ಬಂಗರಗಿತಂ, ಅಜಡಂ ವಿಮಲಂ ಸದಾ ಆನಂದತೀರ್ಥಮದುಲಂ"
+      },
+      {
+        "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt/original-part-001-transcript.json",
+        "reading": "ಅಬ್ರಹ್ಮಂ ಬಂಗಾರಗಿತಂ, ಅಜಡಂ ವಿಮಲಂ ಸದಾ ಆನಂದತೀರ್ಥಮುದಲಂ"
+      },
+      {
+        "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/reconciled/madhva-gpt4o.json",
+        "reading": "ಅಬ್ರಮಮ್ಬಂಕಾರಿತಂ ಗಚತಂ ವಿಮಲಂ ಸದ ಆನಂದ ತೀರ್ಥಮುದುಲಂ"
+      }
+    ]
+  },
+  "shamiCandidates": [
+    {
+      "url": "https://www.transliteral.org/pages/z130122224142/view",
+      "title": "Prativarshikapujakathasangraha, Navaratrotthapanavidhi, Shami-vriksha-pujanavidhi",
+      "role": "Digitized ritual text candidate; publisher page supplies no edition/primary-source references, so it is not represented as an official authenticated edition.",
+      "support": "Shami suffering-removal and journey-prayer candidates; differing transmitted variants remain visible."
+    },
+    {
+      "url": "https://kosha.app/word/sa/%E0%A4%A8%E0%A4%B5%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0",
+      "title": "Kosha Shabdakalpadruma Navaratra entry, quoting Nirnayasindhu",
+      "role": "Secondary dictionary quotation of a primary ritual text, not official authenticated primary edition.",
+      "support": "Jagannatha/shami worship candidate; source-specific audible wording retained."
+    }
+  ],
+  "charity": "No reliable official primary textual witness was identified in the scoped search. Damaged quotation remains unchanged.",
+  "scope": "Display/gloss interpretation improved with explicit candidate provenance; originalScript/sourceOriginal/raw sourceRoman and source-local timing retained byte-for-byte."
+}

@@ -1,0 +1,4542 @@
+[
+  {
+    "start": 0.48,
+    "end": 1.199,
+    "rawWord": "ನಮಸ್ಕಾರ",
+    "cueIndex": 1,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 1.199,
+    "end": 1.76,
+    "rawWord": "ಶರಣಂ",
+    "cueIndex": 1,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 1.76,
+    "end": 2.399,
+    "rawWord": "ಪವಿತ್ರಂ",
+    "cueIndex": 1,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 2.399,
+    "end": 2.639,
+    "rawWord": "YouTube",
+    "cueIndex": 1,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 2.639,
+    "end": 3.19,
+    "rawWord": "ಚಾನೆಲ್ನ",
+    "cueIndex": 1,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 3.2,
+    "end": 3.439,
+    "rawWord": "ಪ್ರಿಯ",
+    "cueIndex": 3,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 3.439,
+    "end": 4.24,
+    "rawWord": "ವೀಕ್ಷಕರಿಗೆ",
+    "cueIndex": 3,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 4.24,
+    "end": 5.359,
+    "rawWord": "ನಮಸ್ಕಾರ",
+    "cueIndex": 3,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 5.359,
+    "end": 5.839,
+    "rawWord": "ದಶಮಿ",
+    "cueIndex": 3,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 5.839,
+    "end": 6.23,
+    "rawWord": "ಅಂದ್ರೆ",
+    "cueIndex": 3,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 6.24,
+    "end": 7.279,
+    "rawWord": "ವಿಜಯದಶಮಿ",
+    "cueIndex": 5,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 7.279,
+    "end": 8.79,
+    "rawWord": "ದಿನ",
+    "cueIndex": 5,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 8.8,
+    "end": 9.599,
+    "rawWord": "ನಾಲ್ಕನೇ",
+    "cueIndex": 7,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 9.599,
+    "end": 10.32,
+    "rawWord": "ದಿನ",
+    "cueIndex": 7,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 10.32,
+    "end": 11.44,
+    "rawWord": "ಗುರುವಾರ",
+    "cueIndex": 7,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 11.44,
+    "end": 12.4,
+    "rawWord": "ಬೆಳಿಗ್ಗೆ",
+    "cueIndex": 7,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 12.4,
+    "end": 12.8,
+    "rawWord": "ನಿಮ್ಮ",
+    "cueIndex": 7,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 12.8,
+    "end": 13.11,
+    "rawWord": "ನಿತ್ಯ",
+    "cueIndex": 7,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 13.12,
+    "end": 14.48,
+    "rawWord": "ಕರ್ಮಾನುಷ್ಠಾನಗಳು",
+    "cueIndex": 9,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 14.48,
+    "end": 14.96,
+    "rawWord": "ಅಂದ್ರೆ",
+    "cueIndex": 9,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 14.96,
+    "end": 15.44,
+    "rawWord": "ಸ್ನಾನ",
+    "cueIndex": 9,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 15.44,
+    "end": 16.31,
+    "rawWord": "ಗೋಪಿಚಂದನ",
+    "cueIndex": 9,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 16.32,
+    "end": 16.72,
+    "rawWord": "ಧಾರಣೆ",
+    "cueIndex": 11,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 16.72,
+    "end": 17.6,
+    "rawWord": "ಸಂಧ್ಯಾವಂದನೆ",
+    "cueIndex": 11,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 17.6,
+    "end": 17.92,
+    "rawWord": "ದೇವರ",
+    "cueIndex": 11,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 17.92,
+    "end": 18.48,
+    "rawWord": "ಪೂಜೆಯನ್ನ",
+    "cueIndex": 11,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 18.48,
+    "end": 18.87,
+    "rawWord": "ಪೂರ್ಣ",
+    "cueIndex": 11,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 18.88,
+    "end": 20.39,
+    "rawWord": "ಮುಗಿಸಿ",
+    "cueIndex": 13,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 20.4,
+    "end": 20.96,
+    "rawWord": "ನೀವೇನು",
+    "cueIndex": 15,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 20.96,
+    "end": 21.52,
+    "rawWord": "ಆವಾಹನ",
+    "cueIndex": 15,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 21.52,
+    "end": 22.24,
+    "rawWord": "ಮಾಡಿಟ್ಟಿದ್ರಿ",
+    "cueIndex": 15,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 22.24,
+    "end": 22.96,
+    "rawWord": "ಸರಸ್ವತಿ",
+    "cueIndex": 15,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 22.96,
+    "end": 23.509,
+    "rawWord": "ದೇವಿ",
+    "cueIndex": 15,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 23.519,
+    "end": 24.0,
+    "rawWord": "ಅದಕ್ಕೆ",
+    "cueIndex": 17,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 24.0,
+    "end": 25.039,
+    "rawWord": "ಪುನರ್ಪೂಜೆಯನ್ನ",
+    "cueIndex": 17,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 25.039,
+    "end": 29.189,
+    "rawWord": "ಮಾಡರಿ",
+    "cueIndex": 17,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 29.199,
+    "end": 30.0,
+    "rawWord": "ಅಕ್ಷತ",
+    "cueIndex": 19,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 30.0,
+    "end": 30.64,
+    "rawWord": "ಸಮರ್ಪಣ",
+    "cueIndex": 19,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 30.64,
+    "end": 31.679,
+    "rawWord": "ಹೂವಿನಿಂದ",
+    "cueIndex": 19,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 31.679,
+    "end": 32.32,
+    "rawWord": "ಅರ್ಶಿಣ",
+    "cueIndex": 19,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 32.32,
+    "end": 32.96,
+    "rawWord": "ಕುಂಕುಮ",
+    "cueIndex": 19,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 32.96,
+    "end": 33.75,
+    "rawWord": "ಗಂಧ",
+    "cueIndex": 19,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 33.76,
+    "end": 34.559,
+    "rawWord": "ಎಲ್ಲವಂದ",
+    "cueIndex": 21,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 34.559,
+    "end": 35.36,
+    "rawWord": "ಪೂಜೆಯನ್ನ",
+    "cueIndex": 21,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 35.36,
+    "end": 35.84,
+    "rawWord": "ಮಾಡಿ",
+    "cueIndex": 21,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 35.84,
+    "end": 36.16,
+    "rawWord": "ಒಂದು",
+    "cueIndex": 21,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 36.16,
+    "end": 38.229,
+    "rawWord": "ನೈವೇದ್ಯ",
+    "cueIndex": 21,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 38.239,
+    "end": 39.2,
+    "rawWord": "ಹಣ್ಣುಕಾಯಿ",
+    "cueIndex": 23,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 39.2,
+    "end": 40.16,
+    "rawWord": "ನೈವೇದ್ಯವನ್ನ",
+    "cueIndex": 23,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 40.16,
+    "end": 42.069,
+    "rawWord": "ಮಾಡಿ",
+    "cueIndex": 23,
+    "retainedSegmentIds": [
+      "visarjana-V01-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 42.079,
+    "end": 42.399,
+    "rawWord": "ಹೂ",
+    "cueIndex": 25,
+    "retainedSegmentIds": [
+      "visarjana-V02-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 42.399,
+    "end": 43.12,
+    "rawWord": "ಮಂತ್ರಸ್ತ",
+    "cueIndex": 25,
+    "retainedSegmentIds": [
+      "visarjana-V02-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 43.12,
+    "end": 43.44,
+    "rawWord": "ಕೈಯಲ್ಲಿ",
+    "cueIndex": 25,
+    "retainedSegmentIds": [
+      "visarjana-V02-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 43.44,
+    "end": 44.0,
+    "rawWord": "ಇಟ್ಕೊಂಡು",
+    "cueIndex": 25,
+    "retainedSegmentIds": [
+      "visarjana-V02-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 44.0,
+    "end": 44.709,
+    "rawWord": "ಉತ್ತಿಷ್ಟ",
+    "cueIndex": 25,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 44.719,
+    "end": 45.12,
+    "rawWord": "ದೇವಿ",
+    "cueIndex": 27,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 45.12,
+    "end": 46.48,
+    "rawWord": "ಕಲ್ಯಾಣಿ",
+    "cueIndex": 27,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 46.48,
+    "end": 47.28,
+    "rawWord": "ಗಹಿತ್ವ",
+    "cueIndex": 27,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 47.28,
+    "end": 47.84,
+    "rawWord": "ಪೂಜನಂ",
+    "cueIndex": 27,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 47.84,
+    "end": 49.35,
+    "rawWord": "ಮಮ",
+    "cueIndex": 27,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 49.36,
+    "end": 50.239,
+    "rawWord": "ಸ್ವಸ್ಥಾನಂ",
+    "cueIndex": 29,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 50.239,
+    "end": 51.36,
+    "rawWord": "ಗಚ್ಚಸುಭಗೆ",
+    "cueIndex": 29,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 51.36,
+    "end": 52.48,
+    "rawWord": "ಕಾಮಂದೇಹಿ",
+    "cueIndex": 29,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 52.48,
+    "end": 53.75,
+    "rawWord": "ಸರಸ್ವತಿ",
+    "cueIndex": 29,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 53.76,
+    "end": 55.83,
+    "rawWord": "ಯಾಂತುದೇವಗಣಸತ್ವ",
+    "cueIndex": 31,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 55.84,
+    "end": 58.069,
+    "rawWord": "ಪೂಜಾಮಾದಾಯಮಕೃತ",
+    "cueIndex": 33,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 58.079,
+    "end": 59.75,
+    "rawWord": "ಇಷ್ಟಕಾಮ್ಯ",
+    "cueIndex": 35,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 59.76,
+    "end": 60.079,
+    "rawWord": "ತಂ",
+    "cueIndex": 37,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 60.079,
+    "end": 60.719,
+    "rawWord": "ಪುನಃ",
+    "cueIndex": 37,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 60.719,
+    "end": 61.76,
+    "rawWord": "ಆಗಮನಯಚ",
+    "cueIndex": 37,
+    "retainedSegmentIds": [
+      "visarjana-V02-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 61.76,
+    "end": 62.16,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 37,
+    "retainedSegmentIds": [
+      "visarjana-V02-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 62.16,
+    "end": 63.12,
+    "rawWord": "ಪುಸ್ತಕ",
+    "cueIndex": 37,
+    "retainedSegmentIds": [
+      "visarjana-V02-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 63.12,
+    "end": 64.08,
+    "rawWord": "ಸರಸ್ವತಿಯ",
+    "cueIndex": 37,
+    "retainedSegmentIds": [
+      "visarjana-V02-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 64.08,
+    "end": 64.63,
+    "rawWord": "ಮೇಲೆ",
+    "cueIndex": 37,
+    "retainedSegmentIds": [
+      "visarjana-V02-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 64.64,
+    "end": 65.519,
+    "rawWord": "ಮಂತ್ರಸ್ಥೆಯನ್ನ",
+    "cueIndex": 39,
+    "retainedSegmentIds": [
+      "visarjana-V02-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 65.519,
+    "end": 67.99,
+    "rawWord": "ಹಾಕಿರವಾಗಿ",
+    "cueIndex": 39,
+    "retainedSegmentIds": [
+      "visarjana-V02-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 68.0,
+    "end": 69.2,
+    "rawWord": "ಅಕ್ಷರಾಭಿಮಾನಿ",
+    "cueIndex": 41,
+    "retainedSegmentIds": [
+      "visarjana-V02-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 69.2,
+    "end": 70.08,
+    "rawWord": "ದೇವತಾಶಗಿತ",
+    "cueIndex": 41,
+    "retainedSegmentIds": [
+      "visarjana-V02-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 70.08,
+    "end": 71.109,
+    "rawWord": "ಸರಸ್ವತ್ಯಂತ",
+    "cueIndex": 41,
+    "retainedSegmentIds": [
+      "visarjana-V02-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 71.119,
+    "end": 72.789,
+    "rawWord": "ವೇದವ್ಯಾಸಂಸ್ಥಾನಂ",
+    "cueIndex": 43,
+    "retainedSegmentIds": [
+      "visarjana-V02-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 72.799,
+    "end": 73.92,
+    "rawWord": "ಪ್ರತಿಷ್ಠಾಪಯಾಮಿ",
+    "cueIndex": 45,
+    "retainedSegmentIds": [
+      "visarjana-V02-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 73.92,
+    "end": 75.36,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 45,
+    "retainedSegmentIds": [
+      "visarjana-V02-05"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 75.36,
+    "end": 75.92,
+    "rawWord": "ಅದಕ್ಕೆ",
+    "cueIndex": 45,
+    "retainedSegmentIds": [
+      "visarjana-V02-05"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 75.92,
+    "end": 76.799,
+    "rawWord": "ಪೂಜೆಯನ್ನ",
+    "cueIndex": 45,
+    "retainedSegmentIds": [
+      "visarjana-V02-05"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 76.799,
+    "end": 77.109,
+    "rawWord": "ಮಾಡಿ",
+    "cueIndex": 45,
+    "retainedSegmentIds": [
+      "visarjana-V02-05"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 77.119,
+    "end": 79.109,
+    "rawWord": "ಮುಗಿಸಿರಿ",
+    "cueIndex": 47,
+    "retainedSegmentIds": [
+      "visarjana-V02-05"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 79.119,
+    "end": 80.87,
+    "rawWord": "ಮುಗಿಸುಟ್ಟು",
+    "cueIndex": 49,
+    "retainedSegmentIds": [
+      "visarjana-V02-05"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 80.88,
+    "end": 81.28,
+    "rawWord": "ಈ",
+    "cueIndex": 51,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 81.28,
+    "end": 81.92,
+    "rawWord": "ದಿನ",
+    "cueIndex": 51,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 81.92,
+    "end": 83.119,
+    "rawWord": "ವಿಶೇಷವಾಗಿ",
+    "cueIndex": 51,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 83.119,
+    "end": 84.0,
+    "rawWord": "ಶ್ರೀಮದಾನಂದ",
+    "cueIndex": 51,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 84.0,
+    "end": 84.31,
+    "rawWord": "ತೀರ್ಥ",
+    "cueIndex": 51,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 84.32,
+    "end": 85.759,
+    "rawWord": "ಭಗವತ್ಪಾದಾಚಾರ್ಯರು",
+    "cueIndex": 53,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 85.759,
+    "end": 86.08,
+    "rawWord": "ಲೋಕ",
+    "cueIndex": 53,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 86.08,
+    "end": 87.36,
+    "rawWord": "ಗುರುಗಳು",
+    "cueIndex": 53,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 87.36,
+    "end": 88.23,
+    "rawWord": "ನಮ್ಮನೆಲ್ಲ",
+    "cueIndex": 53,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 88.24,
+    "end": 88.88,
+    "rawWord": "ಉದ್ಧಾರಣ",
+    "cueIndex": 55,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 88.88,
+    "end": 89.92,
+    "rawWord": "ಮಾಡಲಿಕಾಗಿ",
+    "cueIndex": 55,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 89.92,
+    "end": 90.72,
+    "rawWord": "ಅವತಾರ",
+    "cueIndex": 55,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 90.72,
+    "end": 91.84,
+    "rawWord": "ಮಾಡಿದಂತ",
+    "cueIndex": 55,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 91.84,
+    "end": 92.72,
+    "rawWord": "ದಿನ",
+    "cueIndex": 55,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 92.72,
+    "end": 94.63,
+    "rawWord": "ಈ",
+    "cueIndex": 55,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 94.64,
+    "end": 96.71,
+    "rawWord": "ವಿಜಯದಶಮಿ",
+    "cueIndex": 57,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 96.72,
+    "end": 98.23,
+    "rawWord": "ಶ್ರೀಮದಆಚಾರ್ಯರನ್ನ",
+    "cueIndex": 59,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 98.24,
+    "end": 98.64,
+    "rawWord": "ನಾವು",
+    "cueIndex": 61,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 98.64,
+    "end": 99.92,
+    "rawWord": "ವಿಶೇಷವಾಗಿ",
+    "cueIndex": 61,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 99.92,
+    "end": 100.479,
+    "rawWord": "ಅವರನ್ನ",
+    "cueIndex": 61,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 100.479,
+    "end": 101.84,
+    "rawWord": "ಕೊಂಡಾಡಬೇಕಾದನ",
+    "cueIndex": 61,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 101.84,
+    "end": 102.95,
+    "rawWord": "ನಮ್ಮ",
+    "cueIndex": 61,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 102.96,
+    "end": 103.52,
+    "rawWord": "ಮದ್ವ",
+    "cueIndex": 63,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 103.52,
+    "end": 106.789,
+    "rawWord": "ಸಂಪ್ರದಾಯವನ್ನ",
+    "cueIndex": 63,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 106.799,
+    "end": 107.36,
+    "rawWord": "ಮದ್ವ",
+    "cueIndex": 65,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 107.36,
+    "end": 108.159,
+    "rawWord": "ಸಂಪ್ರದಾಯದ",
+    "cueIndex": 65,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 108.159,
+    "end": 109.2,
+    "rawWord": "ಆದಿಗುರುಗಳಾದ",
+    "cueIndex": 65,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 109.2,
+    "end": 113.51,
+    "rawWord": "ಶ್ರೀಮದಾಚಾರ್ಯರ",
+    "cueIndex": 65,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 113.52,
+    "end": 114.159,
+    "rawWord": "ಜಯಂತಿ",
+    "cueIndex": 67,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 114.159,
+    "end": 114.64,
+    "rawWord": "ಮದ್ವ",
+    "cueIndex": 67,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 114.64,
+    "end": 115.84,
+    "rawWord": "ಜಯಂತಿ",
+    "cueIndex": 67,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 115.84,
+    "end": 116.479,
+    "rawWord": "ಮತ್ತು",
+    "cueIndex": 67,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 116.479,
+    "end": 118.23,
+    "rawWord": "ಆದಷ್ಟು",
+    "cueIndex": 67,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 118.24,
+    "end": 118.56,
+    "rawWord": "ಅವರು",
+    "cueIndex": 69,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 118.56,
+    "end": 119.04,
+    "rawWord": "ಮಾಡಿರುವ",
+    "cueIndex": 69,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 119.04,
+    "end": 119.68,
+    "rawWord": "ದ್ವಾದಶ",
+    "cueIndex": 69,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 119.68,
+    "end": 120.24,
+    "rawWord": "ಸ್ತೋತ್ರ",
+    "cueIndex": 69,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 120.24,
+    "end": 120.95,
+    "rawWord": "ನರಸಿಂಹನ",
+    "cueIndex": 69,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 120.96,
+    "end": 123.59,
+    "rawWord": "ಕಸ್ತುತಿ",
+    "cueIndex": 71,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 123.6,
+    "end": 124.96,
+    "rawWord": "ಶ್ರೀಮದಾಚಾರ್ಯರ",
+    "cueIndex": 73,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 124.96,
+    "end": 126.079,
+    "rawWord": "ಸುಮದ್ಭವಜಯ",
+    "cueIndex": 73,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 126.079,
+    "end": 126.95,
+    "rawWord": "ಇತ್ಯಾದಿಗಳನ್ನ",
+    "cueIndex": 73,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 126.96,
+    "end": 127.439,
+    "rawWord": "ಪಾರಾಯಣ",
+    "cueIndex": 75,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 127.439,
+    "end": 128.8,
+    "rawWord": "ಇಲ್ಲದಿದ್ದರೆ",
+    "cueIndex": 75,
+    "retainedSegmentIds": [
+      "visarjana-V03-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 128.8,
+    "end": 129.44,
+    "rawWord": "ಅಬ್ರಹಮಂ",
+    "cueIndex": 75,
+    "retainedSegmentIds": [
+      "visarjana-V03-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 129.44,
+    "end": 130.239,
+    "rawWord": "ಬಂಗರಗಿದಂ",
+    "cueIndex": 75,
+    "retainedSegmentIds": [
+      "visarjana-V03-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 130.239,
+    "end": 130.71,
+    "rawWord": "ನಜಂ",
+    "cueIndex": 75,
+    "retainedSegmentIds": [
+      "visarjana-V03-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 130.72,
+    "end": 131.2,
+    "rawWord": "ವಿಮಲಂ",
+    "cueIndex": 77,
+    "retainedSegmentIds": [
+      "visarjana-V03-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 131.2,
+    "end": 131.52,
+    "rawWord": "ಸದ",
+    "cueIndex": 77,
+    "retainedSegmentIds": [
+      "visarjana-V03-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 131.52,
+    "end": 132.0,
+    "rawWord": "ಆನಂದ",
+    "cueIndex": 77,
+    "retainedSegmentIds": [
+      "visarjana-V03-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 132.0,
+    "end": 132.319,
+    "rawWord": "ತೀರ್ಥ",
+    "cueIndex": 77,
+    "retainedSegmentIds": [
+      "visarjana-V03-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 132.319,
+    "end": 133.52,
+    "rawWord": "ಮೊದಲಂ",
+    "cueIndex": 77,
+    "retainedSegmentIds": [
+      "visarjana-V03-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 133.52,
+    "end": 135.19,
+    "rawWord": "ಭಜತಪತ್ರಯಂ",
+    "cueIndex": 77,
+    "retainedSegmentIds": [
+      "visarjana-V03-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 135.2,
+    "end": 135.52,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 79,
+    "retainedSegmentIds": [
+      "visarjana-V03-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 135.52,
+    "end": 136.0,
+    "rawWord": "ಇದನ್ನ",
+    "cueIndex": 79,
+    "retainedSegmentIds": [
+      "visarjana-V03-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 136.0,
+    "end": 136.239,
+    "rawWord": "ವಾರ",
+    "cueIndex": 79,
+    "retainedSegmentIds": [
+      "visarjana-V03-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 136.239,
+    "end": 137.28,
+    "rawWord": "ಹೇಳಬೇಕು",
+    "cueIndex": 79,
+    "retainedSegmentIds": [
+      "visarjana-V03-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 137.28,
+    "end": 138.0,
+    "rawWord": "ನಮಾದವ",
+    "cueIndex": 79,
+    "retainedSegmentIds": [
+      "visarjana-V03-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 138.0,
+    "end": 138.63,
+    "rawWord": "ಸಮೋದೇವ",
+    "cueIndex": 79,
+    "retainedSegmentIds": [
+      "visarjana-V03-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 138.64,
+    "end": 139.68,
+    "rawWord": "ನಚಮದ್ವಸಮೋ",
+    "cueIndex": 81,
+    "retainedSegmentIds": [
+      "visarjana-V03-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 139.68,
+    "end": 140.64,
+    "rawWord": "ಗುರು",
+    "cueIndex": 81,
+    "retainedSegmentIds": [
+      "visarjana-V03-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 140.64,
+    "end": 141.76,
+    "rawWord": "ನತತ್ವಾಕ್ಯ",
+    "cueIndex": 81,
+    "retainedSegmentIds": [
+      "visarjana-V03-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 141.76,
+    "end": 143.589,
+    "rawWord": "ಸಮಂಶಸ್ತ್ರಂ",
+    "cueIndex": 81,
+    "retainedSegmentIds": [
+      "visarjana-V03-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 143.599,
+    "end": 144.879,
+    "rawWord": "ನಚತಜ್ಞ",
+    "cueIndex": 83,
+    "retainedSegmentIds": [
+      "visarjana-V03-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 144.879,
+    "end": 145.92,
+    "rawWord": "ಸಮಪ",
+    "cueIndex": 83,
+    "retainedSegmentIds": [
+      "visarjana-V03-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 145.92,
+    "end": 147.2,
+    "rawWord": "ಶ್ರೀಮದಾಚಾರ್ಯರನ್ನ",
+    "cueIndex": 83,
+    "retainedSegmentIds": [
+      "visarjana-V03-05"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 147.2,
+    "end": 148.15,
+    "rawWord": "ಸ್ಮರಣೆಯನ್ನಾ",
+    "cueIndex": 83,
+    "retainedSegmentIds": [
+      "visarjana-V03-05"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 148.16,
+    "end": 149.28,
+    "rawWord": "ಡಬೇಕು",
+    "cueIndex": 85,
+    "retainedSegmentIds": [
+      "visarjana-V03-05"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 149.28,
+    "end": 150.0,
+    "rawWord": "ಮುಗಿಸಿ",
+    "cueIndex": 85,
+    "retainedSegmentIds": [
+      "visarjana-V03-05"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 150.0,
+    "end": 151.83,
+    "rawWord": "ಸಂಜೆ",
+    "cueIndex": 85,
+    "retainedSegmentIds": [
+      "visarjana-V03-05"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 151.84,
+    "end": 152.959,
+    "rawWord": "ಸಮಿ",
+    "cueIndex": 87,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 152.959,
+    "end": 153.68,
+    "rawWord": "ಅಂದ್ರೆ",
+    "cueIndex": 87,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 153.68,
+    "end": 154.48,
+    "rawWord": "ಮನ್ನಿಮರ",
+    "cueIndex": 87,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 154.48,
+    "end": 154.64,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 87,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 154.64,
+    "end": 155.04,
+    "rawWord": "ಹೇಳ್ತಾರೆ",
+    "cueIndex": 87,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 155.04,
+    "end": 155.43,
+    "rawWord": "ಸಮಿ",
+    "cueIndex": 87,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 155.44,
+    "end": 157.589,
+    "rawWord": "ವೃಕ್ಷ",
+    "cueIndex": 89,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 157.599,
+    "end": 158.08,
+    "rawWord": "ಅದರ",
+    "cueIndex": 91,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 158.08,
+    "end": 158.64,
+    "rawWord": "ಭಾಗಕ್ಕೆ",
+    "cueIndex": 91,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 158.64,
+    "end": 158.959,
+    "rawWord": "ಹೋಗಿ",
+    "cueIndex": 91,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 158.959,
+    "end": 159.12,
+    "rawWord": "ಅಲ್ಲಿ",
+    "cueIndex": 91,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 159.12,
+    "end": 159.84,
+    "rawWord": "ಅರ್ಚನೆಯನ್ನ",
+    "cueIndex": 91,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 159.84,
+    "end": 160.15,
+    "rawWord": "ಅದಕ್ಕೆ",
+    "cueIndex": 91,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 160.16,
+    "end": 160.4,
+    "rawWord": "ಹೂ",
+    "cueIndex": 93,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 160.4,
+    "end": 161.2,
+    "rawWord": "ಮಂತ್ರಾಸ್ತೆಯನ್ನ",
+    "cueIndex": 93,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 161.2,
+    "end": 161.68,
+    "rawWord": "ಸಮರ್ಪಣ",
+    "cueIndex": 93,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 161.68,
+    "end": 162.63,
+    "rawWord": "ಮಾಡಬೇಕು",
+    "cueIndex": 93,
+    "retainedSegmentIds": [
+      "visarjana-V04-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 162.64,
+    "end": 163.68,
+    "rawWord": "ಸಮೀಯುಕ್ತಂ",
+    "cueIndex": 95,
+    "retainedSegmentIds": [
+      "visarjana-V04-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 163.68,
+    "end": 165.27,
+    "rawWord": "ಜಗನ್ನಾಥಂ",
+    "cueIndex": 95,
+    "retainedSegmentIds": [
+      "visarjana-V04-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 165.28,
+    "end": 168.15,
+    "rawWord": "ಭಕ್ತನಯರಂ",
+    "cueIndex": 97,
+    "retainedSegmentIds": [
+      "visarjana-V04-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 168.16,
+    "end": 171.03,
+    "rawWord": "ಅರ್ಚಯಮಿತ್ವ",
+    "cueIndex": 99,
+    "retainedSegmentIds": [
+      "visarjana-V04-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 171.04,
+    "end": 172.48,
+    "rawWord": "ಸಿಷ್ಟ",
+    "cueIndex": 101,
+    "retainedSegmentIds": [
+      "visarjana-V04-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 172.48,
+    "end": 175.99,
+    "rawWord": "ವಿರ್ಚಮರ್ಚಗಪುನ",
+    "cueIndex": 101,
+    "retainedSegmentIds": [
+      "visarjana-V04-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 176.0,
+    "end": 176.56,
+    "rawWord": "ಎಲ್ಲರೂ",
+    "cueIndex": 103,
+    "retainedSegmentIds": [
+      "visarjana-V04-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 176.56,
+    "end": 177.04,
+    "rawWord": "ಕೂಡ",
+    "cueIndex": 103,
+    "retainedSegmentIds": [
+      "visarjana-V04-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 177.04,
+    "end": 178.15,
+    "rawWord": "ಸಮೀಪಕ್",
+    "cueIndex": 103,
+    "retainedSegmentIds": [
+      "visarjana-V04-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 178.16,
+    "end": 178.72,
+    "rawWord": "ಸಮೀಕ",
+    "cueIndex": 105,
+    "retainedSegmentIds": [
+      "visarjana-V04-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 178.72,
+    "end": 179.2,
+    "rawWord": "ಹೋಗಿ",
+    "cueIndex": 105,
+    "retainedSegmentIds": [
+      "visarjana-V04-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 179.2,
+    "end": 180.0,
+    "rawWord": "ಪೂಜೆಯನ್ನ",
+    "cueIndex": 105,
+    "retainedSegmentIds": [
+      "visarjana-V04-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 180.0,
+    "end": 180.72,
+    "rawWord": "ಮಾಡಬೇಕು",
+    "cueIndex": 105,
+    "retainedSegmentIds": [
+      "visarjana-V04-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 180.72,
+    "end": 181.589,
+    "rawWord": "ಭಾರತೀರಮಣ",
+    "cueIndex": 105,
+    "retainedSegmentIds": [
+      "visarjana-V05-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 181.599,
+    "end": 181.92,
+    "rawWord": "ಮುಖ್ಯ",
+    "cueIndex": 107,
+    "retainedSegmentIds": [
+      "visarjana-V05-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 181.92,
+    "end": 182.239,
+    "rawWord": "ಪ್ರಾಣ",
+    "cueIndex": 107,
+    "retainedSegmentIds": [
+      "visarjana-V05-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 182.239,
+    "end": 185.19,
+    "rawWord": "ಅಂತರ್ಗತ",
+    "cueIndex": 107,
+    "retainedSegmentIds": [
+      "visarjana-V05-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 185.2,
+    "end": 185.519,
+    "rawWord": "ಶ್ರೀ",
+    "cueIndex": 109,
+    "retainedSegmentIds": [
+      "visarjana-V05-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 185.519,
+    "end": 185.92,
+    "rawWord": "ವಿಷ್ಣು",
+    "cueIndex": 109,
+    "retainedSegmentIds": [
+      "visarjana-V05-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 185.92,
+    "end": 186.56,
+    "rawWord": "ಪ್ರೇರಣೆಯ",
+    "cueIndex": 109,
+    "retainedSegmentIds": [
+      "visarjana-V05-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 186.56,
+    "end": 186.879,
+    "rawWord": "ವಿಷ್ಣು",
+    "cueIndex": 109,
+    "retainedSegmentIds": [
+      "visarjana-V05-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 186.879,
+    "end": 187.589,
+    "rawWord": "ಪ್ರೀತಿತ್",
+    "cueIndex": 109,
+    "retainedSegmentIds": [
+      "visarjana-V05-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 187.599,
+    "end": 187.92,
+    "rawWord": "ಸಮಮಿ",
+    "cueIndex": 111,
+    "retainedSegmentIds": [
+      "visarjana-V05-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 187.92,
+    "end": 188.879,
+    "rawWord": "ಪೂಜಂರ",
+    "cueIndex": 111,
+    "retainedSegmentIds": [
+      "visarjana-V05-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 188.879,
+    "end": 189.2,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 111,
+    "retainedSegmentIds": [
+      "visarjana-V05-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 189.2,
+    "end": 189.599,
+    "rawWord": "ಸಮ",
+    "cueIndex": 111,
+    "retainedSegmentIds": [
+      "visarjana-V05-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 189.599,
+    "end": 190.08,
+    "rawWord": "ವೃಕ್ಷಕ",
+    "cueIndex": 111,
+    "retainedSegmentIds": [
+      "visarjana-V05-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 190.08,
+    "end": 190.63,
+    "rawWord": "ಪೂಜೆಯನ್ನ",
+    "cueIndex": 111,
+    "retainedSegmentIds": [
+      "visarjana-V05-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 190.64,
+    "end": 191.84,
+    "rawWord": "ಮಾಡಬೇಕು",
+    "cueIndex": 113,
+    "retainedSegmentIds": [
+      "visarjana-V05-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 191.84,
+    "end": 193.509,
+    "rawWord": "ಅಮಂಗಲನಂ",
+    "cueIndex": 113,
+    "retainedSegmentIds": [
+      "visarjana-V06-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 193.519,
+    "end": 194.879,
+    "rawWord": "ಸಮನಿ",
+    "cueIndex": 115,
+    "retainedSegmentIds": [
+      "visarjana-V06-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 194.879,
+    "end": 195.84,
+    "rawWord": "ಸಮನಿ",
+    "cueIndex": 115,
+    "retainedSegmentIds": [
+      "visarjana-V06-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 195.84,
+    "end": 199.27,
+    "rawWord": "ದುಷ್ಟಕೃತಸ್ಯಚ",
+    "cueIndex": 115,
+    "retainedSegmentIds": [
+      "visarjana-V06-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 199.28,
+    "end": 200.72,
+    "rawWord": "ದುಃಖಪನ",
+    "cueIndex": 117,
+    "retainedSegmentIds": [
+      "visarjana-V06-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 200.72,
+    "end": 201.76,
+    "rawWord": "ಸನಿ",
+    "cueIndex": 117,
+    "retainedSegmentIds": [
+      "visarjana-V06-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 201.76,
+    "end": 203.43,
+    "rawWord": "ಧಾನ್ಯಂ",
+    "cueIndex": 117,
+    "retainedSegmentIds": [
+      "visarjana-V06-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 203.44,
+    "end": 205.11,
+    "rawWord": "ಪ್ರಾಪ್ತಯಹಂಸಮ",
+    "cueIndex": 119,
+    "retainedSegmentIds": [
+      "visarjana-V06-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 205.12,
+    "end": 206.239,
+    "rawWord": "ಶುಭ",
+    "cueIndex": 121,
+    "retainedSegmentIds": [
+      "visarjana-V06-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 206.239,
+    "end": 206.879,
+    "rawWord": "ಹೀಗೆ",
+    "cueIndex": 121,
+    "retainedSegmentIds": [
+      "visarjana-V06-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 206.879,
+    "end": 207.76,
+    "rawWord": "ಪ್ರಾರ್ಥನ",
+    "cueIndex": 121,
+    "retainedSegmentIds": [
+      "visarjana-V06-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 207.76,
+    "end": 207.92,
+    "rawWord": "ನ್ನ",
+    "cueIndex": 121,
+    "retainedSegmentIds": [
+      "visarjana-V06-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 207.92,
+    "end": 208.56,
+    "rawWord": "ಮಾಡಬೇಕು",
+    "cueIndex": 121,
+    "retainedSegmentIds": [
+      "visarjana-V06-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 208.56,
+    "end": 209.04,
+    "rawWord": "ಇತಿ",
+    "cueIndex": 121,
+    "retainedSegmentIds": [
+      "visarjana-V06-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 209.04,
+    "end": 210.309,
+    "rawWord": "ಶಮಿ",
+    "cueIndex": 121,
+    "retainedSegmentIds": [
+      "visarjana-V06-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 210.319,
+    "end": 211.44,
+    "rawWord": "ಧ್ಯಾನಬಿಹಿ",
+    "cueIndex": 123,
+    "retainedSegmentIds": [
+      "visarjana-V06-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 211.44,
+    "end": 212.48,
+    "rawWord": "ಸಂಪೂಜ್ಯಶಣ",
+    "cueIndex": 123,
+    "retainedSegmentIds": [
+      "visarjana-V06-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 212.48,
+    "end": 213.92,
+    "rawWord": "ಕುಂಕುಮದಿಂದ",
+    "cueIndex": 123,
+    "retainedSegmentIds": [
+      "visarjana-V06-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 213.92,
+    "end": 214.71,
+    "rawWord": "ಪೂಜೆಯನ್ನ",
+    "cueIndex": 123,
+    "retainedSegmentIds": [
+      "visarjana-V06-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 214.72,
+    "end": 215.599,
+    "rawWord": "ಮಾಡರಿ",
+    "cueIndex": 125,
+    "retainedSegmentIds": [
+      "visarjana-V06-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 215.599,
+    "end": 217.43,
+    "rawWord": "ಮಾಡಿಟ್ಟು",
+    "cueIndex": 125,
+    "retainedSegmentIds": [
+      "visarjana-V06-04"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 217.44,
+    "end": 219.99,
+    "rawWord": "ಧರಣಿ",
+    "cueIndex": 127,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 220.0,
+    "end": 223.67,
+    "rawWord": "ದಾರಿಣ್ಯಾರ್ಜುನ",
+    "cueIndex": 129,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 223.68,
+    "end": 224.799,
+    "rawWord": "ಬಾಣನಂ",
+    "cueIndex": 131,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 224.799,
+    "end": 226.55,
+    "rawWord": "ರಾಮಸ್ಯ",
+    "cueIndex": 131,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 226.56,
+    "end": 229.03,
+    "rawWord": "ಪ್ರಜ್ಞವಾದಿನಿ",
+    "cueIndex": 133,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 229.04,
+    "end": 230.949,
+    "rawWord": "ಕರಿಶಯಾಮಾನಂ",
+    "cueIndex": 135,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 230.959,
+    "end": 232.789,
+    "rawWord": "ಯಾತ್ರಾಯಂ",
+    "cueIndex": 137,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 232.799,
+    "end": 233.84,
+    "rawWord": "ಯಥಾಕಾಲಂ",
+    "cueIndex": 139,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 233.84,
+    "end": 235.35,
+    "rawWord": "ಶುಕಂ",
+    "cueIndex": 139,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 235.36,
+    "end": 236.799,
+    "rawWord": "ಮಯ",
+    "cueIndex": 141,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 236.799,
+    "end": 237.68,
+    "rawWord": "ತತ್ರ",
+    "cueIndex": 141,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 237.68,
+    "end": 238.48,
+    "rawWord": "ನಿರ್ವಿಘ್ನ",
+    "cueIndex": 141,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 238.48,
+    "end": 239.92,
+    "rawWord": "ಕತ್ರಿತ್ವಂ",
+    "cueIndex": 141,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 239.92,
+    "end": 241.2,
+    "rawWord": "ಭವ",
+    "cueIndex": 141,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 241.2,
+    "end": 242.39,
+    "rawWord": "ಶ್ರೀರಾಮ",
+    "cueIndex": 141,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 242.4,
+    "end": 243.36,
+    "rawWord": "ಪೂಜಿತೆ",
+    "cueIndex": 143,
+    "retainedSegmentIds": [
+      "visarjana-V07-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 243.36,
+    "end": 244.0,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 143,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 244.0,
+    "end": 244.959,
+    "rawWord": "ಪ್ರಾರ್ಥನೆಯನ್ನ",
+    "cueIndex": 143,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 244.959,
+    "end": 245.439,
+    "rawWord": "ಮಾಡಬೇಕು",
+    "cueIndex": 143,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 245.439,
+    "end": 245.76,
+    "rawWord": "ನಮ್ಮ",
+    "cueIndex": 143,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 245.76,
+    "end": 246.71,
+    "rawWord": "ಈ",
+    "cueIndex": 143,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 246.72,
+    "end": 247.12,
+    "rawWord": "ಏನು",
+    "cueIndex": 145,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 247.12,
+    "end": 250.07,
+    "rawWord": "ಸಂಸಾರಾಂಬು",
+    "cueIndex": 145,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 250.08,
+    "end": 250.56,
+    "rawWord": "ಈ",
+    "cueIndex": 147,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 250.56,
+    "end": 250.959,
+    "rawWord": "ಯಾತ್ರೆ",
+    "cueIndex": 147,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 250.959,
+    "end": 251.2,
+    "rawWord": "ಇದೆ",
+    "cueIndex": 147,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 251.2,
+    "end": 251.68,
+    "rawWord": "ಇದರಲ್ಲಿ",
+    "cueIndex": 147,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 251.68,
+    "end": 252.159,
+    "rawWord": "ಎಲ್ಲವೂ",
+    "cueIndex": 147,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 252.159,
+    "end": 252.72,
+    "rawWord": "ಕೂಡ",
+    "cueIndex": 147,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 252.72,
+    "end": 255.19,
+    "rawWord": "ನನಗೆ",
+    "cueIndex": 147,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 255.2,
+    "end": 256.32,
+    "rawWord": "ಅನುಕೂಲವಾಗಲಿ",
+    "cueIndex": 149,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 256.32,
+    "end": 257.04,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 149,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 257.04,
+    "end": 258.239,
+    "rawWord": "ಪ್ರಾರ್ಥನೆಯನ್ನ",
+    "cueIndex": 149,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 258.239,
+    "end": 258.469,
+    "rawWord": "ಮಾಡಿ",
+    "cueIndex": 149,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 258.479,
+    "end": 259.12,
+    "rawWord": "ತಾಂಬೂಲ",
+    "cueIndex": 151,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 259.12,
+    "end": 260.0,
+    "rawWord": "ದಕ್ಷಿಣೆಗಳನ್ನ",
+    "cueIndex": 151,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 260.0,
+    "end": 260.639,
+    "rawWord": "ಕೊಡಬೇಕು",
+    "cueIndex": 151,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 260.639,
+    "end": 261.519,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 151,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 261.519,
+    "end": 262.629,
+    "rawWord": "ಮತ್ತೆ",
+    "cueIndex": 151,
+    "retainedSegmentIds": [
+      "visarjana-V07-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 262.639,
+    "end": 263.6,
+    "rawWord": "ವಿಜಯದಶಮಿ",
+    "cueIndex": 153,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 263.6,
+    "end": 264.0,
+    "rawWord": "ದಿನ",
+    "cueIndex": 153,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 264.0,
+    "end": 264.639,
+    "rawWord": "ಇನ್ನೊಂದು",
+    "cueIndex": 153,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 264.639,
+    "end": 265.44,
+    "rawWord": "ವಿಶೇಷ",
+    "cueIndex": 153,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 265.44,
+    "end": 265.83,
+    "rawWord": "ಯಾವುದು",
+    "cueIndex": 153,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 265.84,
+    "end": 267.03,
+    "rawWord": "ಅಂದ್ರೆ",
+    "cueIndex": 155,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 267.04,
+    "end": 269.67,
+    "rawWord": "ಗುರುಗಳನ್ನ",
+    "cueIndex": 157,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 269.68,
+    "end": 270.16,
+    "rawWord": "ನಮ್ಮ",
+    "cueIndex": 159,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 270.16,
+    "end": 272.31,
+    "rawWord": "ಆಚಾರ್ಯರುಗಳನ್ನ",
+    "cueIndex": 159,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 272.32,
+    "end": 272.8,
+    "rawWord": "ನಮಗೆ",
+    "cueIndex": 161,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 272.8,
+    "end": 273.12,
+    "rawWord": "ಯಾರು",
+    "cueIndex": 161,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 273.12,
+    "end": 273.919,
+    "rawWord": "ಗುರುವಾಗಿದ್ದು",
+    "cueIndex": 161,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 273.919,
+    "end": 274.15,
+    "rawWord": "ದಾರಿ",
+    "cueIndex": 161,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 274.16,
+    "end": 274.96,
+    "rawWord": "ತೋರಿಸ್ತಇದ್ದಾರೆ",
+    "cueIndex": 163,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 274.96,
+    "end": 275.6,
+    "rawWord": "ಅವರನ್ನ",
+    "cueIndex": 163,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 275.6,
+    "end": 276.4,
+    "rawWord": "ನಮಸ್ಕಾರ",
+    "cueIndex": 163,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 276.4,
+    "end": 277.67,
+    "rawWord": "ಮಾಡೋದು",
+    "cueIndex": 163,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 277.68,
+    "end": 278.4,
+    "rawWord": "ಅವರಿಗೆ",
+    "cueIndex": 165,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 278.4,
+    "end": 278.72,
+    "rawWord": "ದಾನ",
+    "cueIndex": 165,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 278.72,
+    "end": 279.6,
+    "rawWord": "ದಕ್ಷಣಗಳನ್ನ",
+    "cueIndex": 165,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 279.6,
+    "end": 279.919,
+    "rawWord": "ಕೊಟ್ಟು",
+    "cueIndex": 165,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 279.919,
+    "end": 280.469,
+    "rawWord": "ಅವರಿಂದ",
+    "cueIndex": 165,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 280.479,
+    "end": 281.12,
+    "rawWord": "ಆಶೀರ್ವಾದ",
+    "cueIndex": 167,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 281.12,
+    "end": 281.759,
+    "rawWord": "ಪಡೆಯುದು",
+    "cueIndex": 167,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 281.759,
+    "end": 282.0,
+    "rawWord": "ತುಂಬಾ",
+    "cueIndex": 167,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 282.0,
+    "end": 282.56,
+    "rawWord": "ವಿಶೇಷ",
+    "cueIndex": 167,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 282.56,
+    "end": 283.59,
+    "rawWord": "ವಿಜಯದಶಮಿಯ",
+    "cueIndex": 167,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 283.6,
+    "end": 284.08,
+    "rawWord": "ದಿನ",
+    "cueIndex": 169,
+    "retainedSegmentIds": [
+      "visarjana-V08-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 284.08,
+    "end": 285.12,
+    "rawWord": "ವಿಜಯೋನಾಮ",
+    "cueIndex": 169,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 285.12,
+    "end": 285.759,
+    "rawWord": "ಕಾಲೋಯಂ",
+    "cueIndex": 169,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 285.759,
+    "end": 286.639,
+    "rawWord": "ಸರ್ವಕಾರ್ಯತ",
+    "cueIndex": 169,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 286.639,
+    "end": 288.469,
+    "rawWord": "ಸಿದ್ಿತ",
+    "cueIndex": 169,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 288.479,
+    "end": 288.96,
+    "rawWord": "ದಾನ",
+    "cueIndex": 171,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 288.96,
+    "end": 289.44,
+    "rawWord": "ಕೋಟಿ",
+    "cueIndex": 171,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 289.44,
+    "end": 289.759,
+    "rawWord": "ಗುಣಂ",
+    "cueIndex": 171,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 289.759,
+    "end": 290.24,
+    "rawWord": "ಪುಣ್ಯಂ",
+    "cueIndex": 171,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 290.24,
+    "end": 290.88,
+    "rawWord": "ತದೈವ",
+    "cueIndex": 171,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 290.88,
+    "end": 291.36,
+    "rawWord": "ದಶಮಿ",
+    "cueIndex": 171,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 291.36,
+    "end": 291.6,
+    "rawWord": "ದಿನೇ",
+    "cueIndex": 171,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 291.6,
+    "end": 292.07,
+    "rawWord": "ವಿಜಯ",
+    "cueIndex": 171,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 292.08,
+    "end": 292.56,
+    "rawWord": "ದಶಮಿ",
+    "cueIndex": 173,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 292.56,
+    "end": 295.51,
+    "rawWord": "ಪ್ರೋಕ್ತಶಪುಣ್ಯಜಾಗತನಂ",
+    "cueIndex": 173,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 295.52,
+    "end": 296.32,
+    "rawWord": "ದ್ರವ್ಯೈಹಿ",
+    "cueIndex": 175,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 296.32,
+    "end": 297.28,
+    "rawWord": "ಸುಗಂಧಿಬಿಹಿ",
+    "cueIndex": 175,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 297.28,
+    "end": 298.479,
+    "rawWord": "ತೈಸ",
+    "cueIndex": 175,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 298.479,
+    "end": 299.28,
+    "rawWord": "ತೈಸದ",
+    "cueIndex": 175,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 299.28,
+    "end": 300.07,
+    "rawWord": "ಮನ್ಮೂರ್ತಿ",
+    "cueIndex": 175,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 300.08,
+    "end": 301.28,
+    "rawWord": "ಬ್ರಾಹ್ಮಣಾನಪಿ",
+    "cueIndex": 177,
+    "retainedSegmentIds": [
+      "visarjana-V08-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 301.28,
+    "end": 302.56,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 177,
+    "retainedSegmentIds": [
+      "visarjana-V09-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 302.56,
+    "end": 302.88,
+    "rawWord": "ಈ",
+    "cueIndex": 177,
+    "retainedSegmentIds": [
+      "visarjana-V09-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 302.88,
+    "end": 303.199,
+    "rawWord": "ಒಂದು",
+    "cueIndex": 177,
+    "retainedSegmentIds": [
+      "visarjana-V09-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 303.199,
+    "end": 304.0,
+    "rawWord": "ಅಶ್ವೀಜ",
+    "cueIndex": 177,
+    "retainedSegmentIds": [
+      "visarjana-V09-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 304.0,
+    "end": 305.67,
+    "rawWord": "ಮಾಸದ",
+    "cueIndex": 177,
+    "retainedSegmentIds": [
+      "visarjana-V09-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 305.68,
+    "end": 305.84,
+    "rawWord": "ಈ",
+    "cueIndex": 179,
+    "retainedSegmentIds": [
+      "visarjana-V09-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 305.84,
+    "end": 306.88,
+    "rawWord": "ವಿಜಯದಶಮಿಯ",
+    "cueIndex": 179,
+    "retainedSegmentIds": [
+      "visarjana-V09-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 306.88,
+    "end": 307.36,
+    "rawWord": "ದಿನ",
+    "cueIndex": 179,
+    "retainedSegmentIds": [
+      "visarjana-V09-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 307.36,
+    "end": 308.0,
+    "rawWord": "ನೀವಏನು",
+    "cueIndex": 179,
+    "retainedSegmentIds": [
+      "visarjana-V09-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 308.0,
+    "end": 308.32,
+    "rawWord": "ದಾನ",
+    "cueIndex": 179,
+    "retainedSegmentIds": [
+      "visarjana-V09-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 308.32,
+    "end": 309.83,
+    "rawWord": "ಕೊಡುತೀರಿ",
+    "cueIndex": 179,
+    "retainedSegmentIds": [
+      "visarjana-V09-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 309.84,
+    "end": 310.16,
+    "rawWord": "ದಾನ",
+    "cueIndex": 181,
+    "retainedSegmentIds": [
+      "visarjana-V09-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 310.16,
+    "end": 310.56,
+    "rawWord": "ಕೋಟಿ",
+    "cueIndex": 181,
+    "retainedSegmentIds": [
+      "visarjana-V09-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 310.56,
+    "end": 310.88,
+    "rawWord": "ಗುಣಂ",
+    "cueIndex": 181,
+    "retainedSegmentIds": [
+      "visarjana-V09-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 310.88,
+    "end": 311.28,
+    "rawWord": "ಪುಣ್ಯಂ",
+    "cueIndex": 181,
+    "retainedSegmentIds": [
+      "visarjana-V09-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 311.28,
+    "end": 311.759,
+    "rawWord": "ಕೋಟಿ",
+    "cueIndex": 181,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 311.759,
+    "end": 312.8,
+    "rawWord": "ಗುಣಗಳನ್ನ",
+    "cueIndex": 181,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 312.8,
+    "end": 313.189,
+    "rawWord": "ಈ",
+    "cueIndex": 181,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 313.199,
+    "end": 313.68,
+    "rawWord": "ದಿನದಲ್ಲಿ",
+    "cueIndex": 183,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 313.68,
+    "end": 314.16,
+    "rawWord": "ಮಾಡುವ",
+    "cueIndex": 183,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 314.16,
+    "end": 314.96,
+    "rawWord": "ದಾನ",
+    "cueIndex": 183,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 314.96,
+    "end": 316.0,
+    "rawWord": "ವಿಶೇಷವಾಗಿ",
+    "cueIndex": 183,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 316.0,
+    "end": 316.55,
+    "rawWord": "ಕೊಡುತ್ತೆ",
+    "cueIndex": 183,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 316.56,
+    "end": 317.36,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 185,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 317.36,
+    "end": 318.0,
+    "rawWord": "ದ್ರವ್ಯಗಳು",
+    "cueIndex": 185,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 318.0,
+    "end": 318.56,
+    "rawWord": "ಸುಗಂಧ",
+    "cueIndex": 185,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 318.56,
+    "end": 319.199,
+    "rawWord": "ದ್ರವ್ಯಗಳು",
+    "cueIndex": 185,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 319.199,
+    "end": 319.99,
+    "rawWord": "ವಸ್ತ್ರಗಳು",
+    "cueIndex": 185,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 320.0,
+    "end": 321.67,
+    "rawWord": "ಅದರಿಂದ",
+    "cueIndex": 187,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 321.68,
+    "end": 322.639,
+    "rawWord": "ಆಚಾರ್ಯರನ್ನ",
+    "cueIndex": 189,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 322.639,
+    "end": 326.23,
+    "rawWord": "ಬ್ರಾಹ್ಮಣರನ್ನ",
+    "cueIndex": 189,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 326.24,
+    "end": 326.88,
+    "rawWord": "ಸಂತೋಷ",
+    "cueIndex": 191,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 326.88,
+    "end": 327.44,
+    "rawWord": "ಪಡಿಸಬೇಕು",
+    "cueIndex": 191,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 327.44,
+    "end": 327.84,
+    "rawWord": "ಅವರ",
+    "cueIndex": 191,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 327.84,
+    "end": 328.479,
+    "rawWord": "ದಕ್ಷಣದಿಂದ",
+    "cueIndex": 191,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 328.479,
+    "end": 328.87,
+    "rawWord": "ಅವರನ್ನ",
+    "cueIndex": 191,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 328.88,
+    "end": 329.36,
+    "rawWord": "ಸಂತೋಷ",
+    "cueIndex": 193,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 329.36,
+    "end": 330.0,
+    "rawWord": "ಪಡಿಸಬೇಕು",
+    "cueIndex": 193,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 330.0,
+    "end": 331.909,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 193,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 331.919,
+    "end": 332.4,
+    "rawWord": "ಸ್ಮೃತಿ",
+    "cueIndex": 195,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 332.4,
+    "end": 333.12,
+    "rawWord": "ಮುಕ್ತಾವಳಿ",
+    "cueIndex": 195,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 333.12,
+    "end": 337.27,
+    "rawWord": "ಎನ್ನುವ",
+    "cueIndex": 195,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 337.28,
+    "end": 337.68,
+    "rawWord": "ಒಂದು",
+    "cueIndex": 197,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 337.68,
+    "end": 338.4,
+    "rawWord": "ಗ್ರಂಥದಲ್ಲಿ",
+    "cueIndex": 197,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 338.4,
+    "end": 338.96,
+    "rawWord": "ಹೇಳಿದ್ದಾರೆ",
+    "cueIndex": 197,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 338.96,
+    "end": 339.67,
+    "rawWord": "ಮುಖ್ಯವಾಗಿ",
+    "cueIndex": 197,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 339.68,
+    "end": 340.72,
+    "rawWord": "ಗುರುಗಳನ್ನ",
+    "cueIndex": 199,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 340.72,
+    "end": 341.36,
+    "rawWord": "ಗುರುಗಳನ್ನ",
+    "cueIndex": 199,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 341.36,
+    "end": 341.84,
+    "rawWord": "ಸ್ಮರಣೆ",
+    "cueIndex": 199,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 341.84,
+    "end": 342.15,
+    "rawWord": "ಮಾಡಿ",
+    "cueIndex": 199,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 342.16,
+    "end": 343.039,
+    "rawWord": "ಗುರುಗಳಲ್ಲಿ",
+    "cueIndex": 201,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 343.039,
+    "end": 343.68,
+    "rawWord": "ಅವರಿಗೆ",
+    "cueIndex": 201,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 343.68,
+    "end": 344.479,
+    "rawWord": "ದಕ್ಷಿಣೆಗಳನ್ನ",
+    "cueIndex": 201,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 344.479,
+    "end": 344.79,
+    "rawWord": "ಕೊಟ್ಟು",
+    "cueIndex": 201,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 344.8,
+    "end": 348.79,
+    "rawWord": "ಗುರುಗಳಿಗೆ",
+    "cueIndex": 203,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 348.8,
+    "end": 349.52,
+    "rawWord": "ಸಮರ್ಪಣೆ",
+    "cueIndex": 205,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 349.52,
+    "end": 349.759,
+    "rawWord": "ಮಾಡಿ",
+    "cueIndex": 205,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 349.759,
+    "end": 350.24,
+    "rawWord": "ಅವರಿಂದ",
+    "cueIndex": 205,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 350.24,
+    "end": 351.189,
+    "rawWord": "ಆಶೀರ್ವಾದಗಳನ್ನ",
+    "cueIndex": 205,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 351.199,
+    "end": 351.759,
+    "rawWord": "ಪಡೆಬೇಕು",
+    "cueIndex": 207,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 351.759,
+    "end": 352.0,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 207,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 352.0,
+    "end": 352.96,
+    "rawWord": "ವಿಜಯದಶಮಿಯ",
+    "cueIndex": 207,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 352.96,
+    "end": 353.52,
+    "rawWord": "ಆಚರಣೆ",
+    "cueIndex": 207,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 353.52,
+    "end": 354.16,
+    "rawWord": "ಇಷ್ಟೇ",
+    "cueIndex": 207,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 354.16,
+    "end": 354.39,
+    "rawWord": "ಸ",
+    "cueIndex": 207,
+    "retainedSegmentIds": [
+      "visarjana-V09-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 354.4,
+    "end": 355.199,
+    "rawWord": "ವಿಜಯದಶಮಿ",
+    "cueIndex": 209,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 355.199,
+    "end": 355.36,
+    "rawWord": "ದಿನ",
+    "cueIndex": 209,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 355.36,
+    "end": 356.08,
+    "rawWord": "ಸರಸ್ವತಿಯನ್ನ",
+    "cueIndex": 209,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 356.08,
+    "end": 356.72,
+    "rawWord": "ವಿಸರ್ಜನೆ",
+    "cueIndex": 209,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 356.72,
+    "end": 357.029,
+    "rawWord": "ಮಾಡಿ",
+    "cueIndex": 209,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 357.039,
+    "end": 357.28,
+    "rawWord": "ಒಂದು",
+    "cueIndex": 211,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 357.28,
+    "end": 357.6,
+    "rawWord": "ಎರಡು",
+    "cueIndex": 211,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 357.6,
+    "end": 358.4,
+    "rawWord": "ಅಕ್ಷರಗಳನ್ನ",
+    "cueIndex": 211,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 358.4,
+    "end": 359.039,
+    "rawWord": "ಮಕ್ಕಳನ್ನು",
+    "cueIndex": 211,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 359.039,
+    "end": 359.28,
+    "rawWord": "ಓದು",
+    "cueIndex": 211,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 359.28,
+    "end": 359.51,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 211,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 359.52,
+    "end": 360.08,
+    "rawWord": "ಹೇಳ್ರಿ",
+    "cueIndex": 213,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 360.08,
+    "end": 361.28,
+    "rawWord": "ಮಕ್ಕಳಲ್ಲಿಗೆಲ್ಲ",
+    "cueIndex": 213,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 361.28,
+    "end": 366.07,
+    "rawWord": "ವಿಶೇಷವಾಗಿ",
+    "cueIndex": 213,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 366.08,
+    "end": 367.199,
+    "rawWord": "ವಿದ್ಯಾಭ್ಯಾಸಗಳು",
+    "cueIndex": 215,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 367.199,
+    "end": 368.24,
+    "rawWord": "ಮೇಧಾವಿಲಾಸಗಳು",
+    "cueIndex": 215,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 368.24,
+    "end": 368.72,
+    "rawWord": "ಎಲ್ಲವೂ",
+    "cueIndex": 215,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 368.72,
+    "end": 369.43,
+    "rawWord": "ಕೂಡ",
+    "cueIndex": 215,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 369.44,
+    "end": 370.08,
+    "rawWord": "ಬರಲಿ",
+    "cueIndex": 217,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 370.08,
+    "end": 372.07,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 217,
+    "retainedSegmentIds": [
+      "visarjana-V10-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 372.08,
+    "end": 372.88,
+    "rawWord": "ವಿಜಯಗನಾಮ",
+    "cueIndex": 219,
+    "retainedSegmentIds": [
+      "visarjana-V10-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 372.88,
+    "end": 373.52,
+    "rawWord": "ಕಾಲೋ",
+    "cueIndex": 219,
+    "retainedSegmentIds": [
+      "visarjana-V10-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 373.52,
+    "end": 373.84,
+    "rawWord": "ಎಲ್ಲ",
+    "cueIndex": 219,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 373.84,
+    "end": 374.4,
+    "rawWord": "ಕಾರ್ಯಗಳು",
+    "cueIndex": 219,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 374.4,
+    "end": 375.11,
+    "rawWord": "ಸಿದ್ಧಿಯಾಗಲಿ",
+    "cueIndex": 219,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 375.12,
+    "end": 376.71,
+    "rawWord": "ಒಳ್ಳ",
+    "cueIndex": 221,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 376.72,
+    "end": 377.84,
+    "rawWord": "ಮೇಧಾವಿಲಾಸ",
+    "cueIndex": 223,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 377.84,
+    "end": 378.479,
+    "rawWord": "ವಿದ್ಯಾ",
+    "cueIndex": 223,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 378.479,
+    "end": 379.84,
+    "rawWord": "ವಿಲಾಸಗಳು",
+    "cueIndex": 223,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 379.84,
+    "end": 381.029,
+    "rawWord": "ನಿಮಗೆಲ್ಲರಿಗೂ",
+    "cueIndex": 223,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 381.039,
+    "end": 381.28,
+    "rawWord": "ಕೂಡ",
+    "cueIndex": 225,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 381.28,
+    "end": 381.68,
+    "rawWord": "ಜ್ಞಾನ",
+    "cueIndex": 225,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 381.68,
+    "end": 382.08,
+    "rawWord": "ಭಕ್ತಿ",
+    "cueIndex": 225,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 382.08,
+    "end": 382.639,
+    "rawWord": "ವೈರಾಗ್ಯ",
+    "cueIndex": 225,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 382.639,
+    "end": 382.96,
+    "rawWord": "ಬರಲಿ",
+    "cueIndex": 225,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 382.96,
+    "end": 383.83,
+    "rawWord": "ಆಯುರಾರೋಗ್",
+    "cueIndex": 225,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 383.84,
+    "end": 384.24,
+    "rawWord": "ಐಶ್ವರ್ಯ",
+    "cueIndex": 227,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 384.24,
+    "end": 385.039,
+    "rawWord": "ಇರಲಿ",
+    "cueIndex": 227,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 385.039,
+    "end": 385.6,
+    "rawWord": "ಅನಂತ",
+    "cueIndex": 227,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 385.6,
+    "end": 386.319,
+    "rawWord": "ಕಲ್ಯಾಣಗಳು",
+    "cueIndex": 227,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 386.319,
+    "end": 386.87,
+    "rawWord": "ಮನೆಯಲ್ಲಿ",
+    "cueIndex": 227,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 386.88,
+    "end": 387.199,
+    "rawWord": "ತುಂಬಿ",
+    "cueIndex": 229,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 387.199,
+    "end": 387.6,
+    "rawWord": "ಬರಲಿ",
+    "cueIndex": 229,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 387.6,
+    "end": 389.51,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 229,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 389.52,
+    "end": 390.319,
+    "rawWord": "ಹರಿವಾಯು",
+    "cueIndex": 231,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 390.319,
+    "end": 391.44,
+    "rawWord": "ಗುರುಗಳ",
+    "cueIndex": 231,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 391.44,
+    "end": 391.919,
+    "rawWord": "ಅನ್ನ",
+    "cueIndex": 231,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 391.919,
+    "end": 392.319,
+    "rawWord": "ನಾನು",
+    "cueIndex": 231,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 392.319,
+    "end": 393.189,
+    "rawWord": "ಪ್ರಾರ್ಥನೆಯನ್ನ",
+    "cueIndex": 231,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 393.199,
+    "end": 393.44,
+    "rawWord": "ಮಾಡಿ",
+    "cueIndex": 233,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 393.44,
+    "end": 394.72,
+    "rawWord": "ನಿಮಗೆಲ್ಲರಿಗೂ",
+    "cueIndex": 233,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 394.72,
+    "end": 395.12,
+    "rawWord": "ಈ",
+    "cueIndex": 233,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 395.12,
+    "end": 395.759,
+    "rawWord": "ದಸ",
+    "cueIndex": 233,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 395.759,
+    "end": 396.96,
+    "rawWord": "ದಸರ",
+    "cueIndex": 233,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 396.96,
+    "end": 397.99,
+    "rawWord": "ವಿಜಯದಶಮಿಯ",
+    "cueIndex": 233,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 398.0,
+    "end": 399.36,
+    "rawWord": "ಶುಭಾಶ್ರಯಗಳನ್ನ",
+    "cueIndex": 235,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 399.36,
+    "end": 400.56,
+    "rawWord": "ನಿಮಗೆಲ್ಲರಿಗೂ",
+    "cueIndex": 235,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 400.56,
+    "end": 400.87,
+    "rawWord": "ಕೂಡ",
+    "cueIndex": 235,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 400.88,
+    "end": 401.52,
+    "rawWord": "ತಿಳಿಸುತ್ತೇವೆ",
+    "cueIndex": 237,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 401.52,
+    "end": 401.919,
+    "rawWord": "ಎಲ್ಲರಿಗೂ",
+    "cueIndex": 237,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 401.919,
+    "end": 402.24,
+    "rawWord": "ಹ್ಯಾಪಿ",
+    "cueIndex": 237,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 402.24,
+    "end": 403.27,
+    "rawWord": "ವಿಜಯದಶಮಿ",
+    "cueIndex": 237,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 403.28,
+    "end": 403.68,
+    "rawWord": "ಎಲ್ಲ",
+    "cueIndex": 239,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 403.68,
+    "end": 404.319,
+    "rawWord": "ಕಾರ್ಯಗಳು",
+    "cueIndex": 239,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 404.319,
+    "end": 405.28,
+    "rawWord": "ವಿಜಯವಾಗಲಿ",
+    "cueIndex": 239,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 405.28,
+    "end": 405.99,
+    "rawWord": "ಅಂತ",
+    "cueIndex": 239,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 406.0,
+    "end": 406.72,
+    "rawWord": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ",
+    "cueIndex": 241,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 406.72,
+    "end": 408.71,
+    "rawWord": "ಆಶೀರ್ವಾದಗಳನ್ನ",
+    "cueIndex": 241,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 408.72,
+    "end": 409.44,
+    "rawWord": "ಹರಿವಾಯು",
+    "cueIndex": 243,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 409.44,
+    "end": 410.08,
+    "rawWord": "ಗುರುಗಳಿಂದ",
+    "cueIndex": 243,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 410.08,
+    "end": 410.56,
+    "rawWord": "ಮಾಡಿಸ್ತಾ",
+    "cueIndex": 243,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 410.56,
+    "end": 411.11,
+    "rawWord": "ಇದ್ದೇವೆ",
+    "cueIndex": 243,
+    "retainedSegmentIds": [
+      "visarjana-V11-01"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 411.12,
+    "end": 412.16,
+    "rawWord": "ಶ್ರೀಕೃಷ್ಣಾರ್ಪಣ",
+    "cueIndex": 245,
+    "retainedSegmentIds": [
+      "visarjana-V11-02"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 412.16,
+    "end": 413.12,
+    "rawWord": "ಎಲ್ಲರಿಗೂಎ",
+    "cueIndex": 245,
+    "retainedSegmentIds": [
+      "visarjana-V11-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 413.12,
+    "end": 413.43,
+    "rawWord": "ಎಲ್ಲಾ",
+    "cueIndex": 245,
+    "retainedSegmentIds": [
+      "visarjana-V11-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 413.44,
+    "end": 414.16,
+    "rawWord": "ಒಳ್ಳೆದುಗಳು",
+    "cueIndex": 247,
+    "retainedSegmentIds": [
+      "visarjana-V11-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 414.16,
+    "end": 414.56,
+    "rawWord": "ಆಗಲಿ",
+    "cueIndex": 247,
+    "retainedSegmentIds": [
+      "visarjana-V11-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  },
+  {
+    "start": 414.56,
+    "end": 416.612,
+    "rawWord": "ಧನ್ಯವಾದ.",
+    "cueIndex": 247,
+    "retainedSegmentIds": [
+      "visarjana-V11-03"
+    ],
+    "disposition": "Mapped to retained speech; captions are a noisy independent witness, not canonical lexical authority."
+  }
+]

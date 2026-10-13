@@ -1,0 +1,51 @@
+{
+  "sourceId": "puja",
+  "policy": "References resolve plausible lexical readings only when this recording's phonetic witnesses support them; references never supply a different recording's timestamps or unspoken extra ritual text. Immutable raw acoustic outputs remain retained.",
+  "corrections": [
+    {
+      "sectionId": "P06",
+      "sourceSeconds": [286.479, 298.88],
+      "rawWitnessFile": "guru-open-transcript.json",
+      "rawWitnessPhrase": "ಅಬ್ರಹ್ಮಂ ಬಂಗರಗಿತಂ, ಅಜನಂ ವಿಮಲಂ ಶತ",
+      "displayReading": "abhramaṁ bhaṅgarahitaṁ ajaḍaṁ vimalaṁ sadā",
+      "reference": "Existing primary-book transcription site/data4.js p33 and source parallel at https://dvaitavedanta.in/category-details/13901/4778/sharav/nayaya/parath/managa",
+      "meaningCorrection": "free from error and division; not inert; spotless. Earlier candidate cloudless/unborn meanings were corrected.",
+      "status": "explicit lexical correction supported by phonetics and primary text; no direct human listening claim"
+    },
+    {
+      "sectionId": "P06",
+      "sourceSeconds": [292.24, 300.8],
+      "rawWitnessFile": "../gpt-fine/original-part-008-transcript.json",
+      "rawWitnessPhrase": "ಚಿತ್ರೇ ಬದಿಶ್ಚಗಂ ಬೀರೈ, ವಾಕ್ಕೈ ಮಾನೈರಗಂಡದೆ",
+      "displayReading": "citraiḥ padaiśca gambhīraiḥ vākyaiḥ mānair akhaṇḍitaiḥ; gurubhāvaṁ vyañjayantī bhāti śrījayatīrthavāk",
+      "reference": {
+        "title": "Sri Jaya Tirtha — Sri Vyasaraja Matha, Charama Shloka",
+        "url": "https://vyasarajamatha.org/parampara-details.php?p_id=8",
+        "passage": "Charama Shloka in Kannada, Devanagari and Roman script"
+      },
+      "meaningCorrection": "The speech shines, revealing the guru's intent; bhāti is not pāti (protects).",
+      "status": "phonetic correction with official matha textual support; raw outputs preserved"
+    },
+    {
+      "sectionId": "P06",
+      "sourceSeconds": [311.44, 317.44],
+      "rawWitnessFile": "guru-open-transcript.json",
+      "rawWitnessPhrase": "ಪ್ರಣಮತ್ ಕಾಮಧೇನುಂಚ, ಭಜತ್ ಸ್ರುತರೂಪಂ, ಶ್ರೀಭಾವಬೋಧಕ ಪಾದಂ ಚಿಂತಾಮಣಿಪ್ವಾಸ್ಮಹೇ",
+      "displayReading": "praṇamatkāmadhenum ca bhajatsuratarūpamam; śrībhāvabodhakṛtpādaṁ cintāmaṇim upāsmahe",
+      "reference": {
+        "title": "E-Bharatisampat — primary Sanskrit text, Vyaptipanchaka commentary mangalacharana",
+        "url": "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ3NTc0MDQ3MDQ4OTgz",
+        "passage": "Invocation of Raghuttama at the beginning/end of the Sanskrit commentary"
+      },
+      "status": "ca retained from actual phonetic cha; compound resolved against primary text; final compound inflection remains flagged for review"
+    }
+  ],
+  "recordingSpecificResolvedReading": {
+    "sectionId": "P04",
+    "seconds": [149, 165],
+    "rawWitnessFile": "sankalpa-year-transcript.json",
+    "rawWitnessPhrase": "शुभ विश्वावसु नाम संवत्सरे",
+    "displayReading": "śubha vaiśvavasunāma saṁvatsare",
+    "status": "year recovered directly from targeted acoustic transcription rather than merely inferred from date"
+  }
+}

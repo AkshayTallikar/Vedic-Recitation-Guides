@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "checks": [
+    "exact section reconstruction",
+    "exact complete-source reconstruction",
+    "all native caption word events mapped",
+    "all boundaries actual embedded VTT markers, except measured media end",
+    "source-local interval order and bounds",
+    "all nonblank Sanskrit lines glossed",
+    "all lexical tokens covered by ordered gloss entries",
+    "all sections contain evidence-backed Contemplate and Action",
+    "complete Kannada Roman/English fields",
+    "no adjacent mantra blocks"
+  ],
+  "sectionCount": 11,
+  "blockCount": 32,
+  "nativeEventCount": 454,
+  "fineWindowCount": 11,
+  "limits": [
+    "Specific lexical uncertainties remain; see uncertainty-inventory.json.",
+    "Native timing is caption-marker alignment, not exact acoustic certification.",
+    "Original-caption final cue exceeds measured audio; final marker bounded to 416.612438 seconds."
+  ]
+}

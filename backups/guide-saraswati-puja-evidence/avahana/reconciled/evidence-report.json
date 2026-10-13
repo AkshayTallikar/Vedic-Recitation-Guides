@@ -1,0 +1,17 @@
+{
+  "status": "Complete chronological draft reconciled against both acoustic passes; specifically uncertain Sanskrit variants are visible, shared cue ranges explicitly labelled; no human-listening claim.",
+  "sections": 28,
+  "blocks": 60,
+  "nativeMarkerSpans": 1021,
+  "fineWindows": 26,
+  "coarseWindows": 7,
+  "independentTargetedClips": 4,
+  "checks": {
+    "sourceReconstruction": true,
+    "sectionReconstruction": true,
+    "allFineWindowsMapped": true,
+    "allNativeMarkersRetained": true,
+    "allBounds": true,
+    "allLexicalGlosses": true
+  }
+}

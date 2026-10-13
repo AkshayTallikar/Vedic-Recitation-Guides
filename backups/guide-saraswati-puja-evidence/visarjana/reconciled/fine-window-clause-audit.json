@@ -1,0 +1,1108 @@
+[
+  {
+    "windowIndex": 1,
+    "startSeconds": 0.0,
+    "endSeconds": 45.0,
+    "rawWitnessPath": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-001-transcript.json",
+    "rawWitnessSha256": "b7a217db90d9503a718b9417b0d67f0f3c64b54b67c3a985bd56ba917fa48c54",
+    "retainedSegmentIds": [
+      "visarjana-V01-01",
+      "visarjana-V02-01",
+      "visarjana-V02-02"
+    ],
+    "review": "Greeting, dated Thursday/fourth-day context, all morning duties, renewed worship, all offerings and hand-held flowers/mantra-akshata retained. Final two-word prayer fragment joins the next overlapping witness at the same occurrence.",
+    "clauses": [
+      {
+        "rawClause": "ನಮಸ್ಕಾರ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ಚರಣಂ ಪವಿತ್ರಂ ಯೂಟ್ಯೂಬ್ ಚಾನೆಲ್ನ ಪ್ರಿಯ ವೀಕ್ಷಕರಿಗೆ ನಮಸ್ಕಾರ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ದಶಮಿ ಅಂದರೆ ವಿಜಯದಶಮಿ ದಿನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ನಾಲ್ಕನೇ ದಿನ ಗುರುವಾರ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ಬೆಳಿಗ್ಗೆ ನಿಮ್ಮ ನಿತ್ಯಕರ್ಮಾನುಷ್ಠಾನಗಳು ಅಂದರೆ ಸ್ನಾನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ಗೋಪೀಚಂದನ ಧಾರಣೆ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ಸಂಧ್ಯಾವಂದನೆ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ದೇವರ ಪೂಜೆಯನ್ನು ಪೂರ್ಣ ಮುಗಿಸಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ಇವೇನ ಅವಾಹನ ಮಾಡಿಟ್ಟಿದ್ದ್ರೀ ಸರಸ್ವತಿ ದೇವಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ಅದಕ್ಕೆ ಪುನಃ ಪೂಜೆಯನ್ನು ಮಾಡಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ಅಕ್ಷತ ಸಮರ್ಪಣ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ಹೂವಿನಿಂದ ಅರ್ಷ್ಣಾ ಕುಂಕುಮ ಗಂಧ ಎಲ್ಲವಂದ ಪೂಜೆಯನ್ನು ಮಾಡಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ಒಂದು ನೈವೇದ್ಯ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ಹಣ್ಣು ಕಾಯಿ ನೈವೇದ್ಯವನ್ನು ಮಾಡಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ಹೂ ಮಂತ್ರಾಸ್ತ ಕೈಯಲ್ಲಿ ಹಿಡ್ಕೊಂಡು,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-01"
+        ]
+      },
+      {
+        "rawClause": "ಉತ್ತಿಷ್ಠ ದೇವಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-02"
+        ]
+      }
+    ]
+  },
+  {
+    "windowIndex": 2,
+    "startSeconds": 40.0,
+    "endSeconds": 85.0,
+    "rawWitnessPath": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-002-transcript.json",
+    "rawWitnessSha256": "94420aec828d3db087c1fabd7a77de7aa402f0b8bbf449ce9606e112bc8bf3d3",
+    "retainedSegmentIds": [
+      "visarjana-V01-01",
+      "visarjana-V02-01",
+      "visarjana-V02-02",
+      "visarjana-V02-03",
+      "visarjana-V02-04",
+      "visarjana-V02-05",
+      "visarjana-V03-01"
+    ],
+    "review": "Dismissal prayer and book-akshata placement retained. Closing wishes/inflections and establishment middle words remain uncertain in three acoustic witnesses. Source-shaped śakita/gatāsthānam retained. The end-window Acharya introduction continues into window 3.",
+    "clauses": [
+      {
+        "rawClause": "ಮಾಡಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V01-01"
+        ]
+      },
+      {
+        "rawClause": "ಹೂ ಮಂತ್ರಾಸ್ತ ಕೈಯಲ್ಲಿ ಹಿಡ್ಕೊಂಡು,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-01"
+        ]
+      },
+      {
+        "rawClause": "ಉತ್ತಿಷ್ಠ ದೇವಿ ಕಲ್ಯಾಣಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-02"
+        ]
+      },
+      {
+        "rawClause": "ಗೃಹೀತ್ವ ಪೂಜನಂ ಮಮ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-02"
+        ]
+      },
+      {
+        "rawClause": "ಸ್ವಸ್ಥಾನಂ ಗಚ್ಛ ಶುಭಗೆ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-02"
+        ]
+      },
+      {
+        "rawClause": "ಕಾಮಾನ್ ದೇಹಿ ಸರಸ್ವತಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-02"
+        ]
+      },
+      {
+        "rawClause": "ಯಾಂತು ದೇವಗಣಾಃ ಸರ್ವೇ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-02"
+        ]
+      },
+      {
+        "rawClause": "ಪೂಜಾಮಾದಾಯ ಮತ್ಕೃತಾಂ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-02"
+        ]
+      },
+      {
+        "rawClause": "ಇಷ್ಟಕಾಮ್ಯಾಂಶ್ಚ ದದ್ಯಾತಂ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-02"
+        ]
+      },
+      {
+        "rawClause": "ಪುನಃ ಆಗಮನಾಯ ಚಾಂತಾ ಪುಸ್ತಕಾ ಸರಸ್ವತಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-02",
+          "visarjana-V02-03"
+        ]
+      },
+      {
+        "rawClause": "ಆಮೇಲೆ ಮಂತ್ರಸ್ತೇನ ಹಾಗ್ರಾವಾಗಿತ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-03"
+        ]
+      },
+      {
+        "rawClause": "ಅಕ್ಷರಾಭಿಮಾನಿ ದೇವತಾ ಶಕಿತ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-04"
+        ]
+      },
+      {
+        "rawClause": "ಸರಸ್ವತ್ಯಂತ್ರಕತ ವೇದವ್ಯಾಸಂ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-04"
+        ]
+      },
+      {
+        "rawClause": "ಗತಾಸ್ಥಾನಂ ಪ್ರತಿಷ್ಠಾಪಯಾಮಿ ಅಂತ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-04"
+        ]
+      },
+      {
+        "rawClause": "ಅದಕ್ಕೆ ಪೂಜೆಯನ್ನು ಮಾಡಿ ಮುಗಿಸಿರಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-05"
+        ]
+      },
+      {
+        "rawClause": "ಮುಗಿಸುತ್ತು ಈ ದಿನ ವಿಶೇಷವಾಗಿ ಶ್ರೀಮದಾನಂದ ತೀರ್ಥ ಭಗವತ್ಪಾದ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V02-05",
+          "visarjana-V03-01"
+        ]
+      },
+      {
+        "rawClause": ".",
+        "disposition": "Raw ASR punctuation-only ellipsis artifact; preserved in raw witness. No spoken lexical item is assigned to these punctuation characters.",
+        "retainedSegmentIds": []
+      },
+      {
+        "rawClause": ".",
+        "disposition": "Raw ASR punctuation-only ellipsis artifact; preserved in raw witness. No spoken lexical item is assigned to these punctuation characters.",
+        "retainedSegmentIds": []
+      }
+    ]
+  },
+  {
+    "windowIndex": 3,
+    "startSeconds": 80.0,
+    "endSeconds": 125.0,
+    "rawWitnessPath": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-003-transcript.json",
+    "rawWitnessSha256": "1b7b3baf2026a3e5b8fb99540777a96f33cea0d7a5d866ccdd61f47385dc9f3d",
+    "retainedSegmentIds": [
+      "visarjana-V02-05",
+      "visarjana-V03-01"
+    ],
+    "review": "Complete Anandatirtha appearance-day explanation retained, including repeated “Madhva tradition”, Madhva Jayanti, named works and unfinished work-title continuation. It has not been reduced to a ritual instruction.",
+    "clauses": [
+      {
+        "rawClause": "ಈ ದಿನ ವಿಶೇಷವಾಗಿ ಶ್ರೀಮದಾನಂದ ತೀರ್ಥ ಭಗವತ್ಪಾದಾಚಾರ್ಯರು ಲೋಕಗುರುಗಳು ನಮ್ಮನ್ನೆಲ್ಲ ಉದ್ಧಾರಣ ಮಾಡಲಿಕ್ಕಾಗಿ ಅವತಾರ ಮಾಡಿದಂತ ದಿನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-01"
+        ]
+      },
+      {
+        "rawClause": "ಈ ವಿಜಯದಶಮಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-01"
+        ]
+      },
+      {
+        "rawClause": "ಶ್ರೀಮದಾಚಾರ್ಯರನ್ನ ನಾವು ವಿಶೇಷವಾಗಿ ಅವರನ್ನ ಕೊಂಡಾಡಬೇಕಾಗಿದ್ನಾ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-01"
+        ]
+      },
+      {
+        "rawClause": "ನಮ್ಮ ಮಧ್ವಸಂಪ್ರದಾಯವನ್ನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-01"
+        ]
+      },
+      {
+        "rawClause": "ಮಧ್ವಸಂಪ್ರದಾಯದ ಆದಿಗುರುಗಳಾದ ಶ್ರೀಮದಾಚಾರ್ಯರ ಜಯಂತಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-01"
+        ]
+      },
+      {
+        "rawClause": "ಮಧ್ವ ಜಯಂತಿ ಮತ್ತು ಅದಷ್ಟು ಅವರು ಮಾಡಿರುವ ದ್ವಾದಶ ಸ್ತೋತ್ರ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-01"
+        ]
+      },
+      {
+        "rawClause": "ನರಸಿಂಹನ ಕಸ್ತುತಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-01"
+        ]
+      },
+      {
+        "rawClause": "ಶ್ರೀಮದಾಚಾರ್ಯರ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-01"
+        ]
+      },
+      {
+        "rawClause": ".",
+        "disposition": "Raw ASR punctuation-only ellipsis artifact; preserved in raw witness. No spoken lexical item is assigned to these punctuation characters.",
+        "retainedSegmentIds": []
+      },
+      {
+        "rawClause": ".",
+        "disposition": "Raw ASR punctuation-only ellipsis artifact; preserved in raw witness. No spoken lexical item is assigned to these punctuation characters.",
+        "retainedSegmentIds": []
+      }
+    ]
+  },
+  {
+    "windowIndex": 4,
+    "startSeconds": 120.0,
+    "endSeconds": 165.0,
+    "rawWitnessPath": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-004-transcript.json",
+    "rawWitnessSha256": "df6c7dcdfc4a0fe4d1d20edad63040edfb1d413a3cefcd92454ddacdfed701c4",
+    "retainedSegmentIds": [
+      "visarjana-V03-01",
+      "visarjana-V03-02",
+      "visarjana-V03-03",
+      "visarjana-V03-04",
+      "visarjana-V03-05",
+      "visarjana-V04-01",
+      "visarjana-V04-02"
+    ],
+    "review": "Both Madhva prayers retained; damaged opening abrahmam/baṅgaragitam and unclear repetition-count word vāra remain flagged. Sumadhvavijaya title restored by coarse/caption comparison; exact uncertain compound endings flagged. Evening transition, tree-name explanation and offerings retained.",
+    "clauses": [
+      {
+        "rawClause": "ಶ್ರೀಮದಾಚಾರ್ಯರ ಸುಮದ್ವವಿಜಯಾದಿಗಳನ್ನ ಪಾರಾಯಣ ಇಲ್ಲದಿದ್ದರೆ ಅಬ್ರಹ್ಮಂ ಬಂಗರಗಿತಂ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-01",
+          "visarjana-V03-02"
+        ]
+      },
+      {
+        "rawClause": "ಅಜಡಂ ವಿಮಲಂ ಸದಾ ಆನಂದತೀರ್ಥಮದುಲಂ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-02"
+        ]
+      },
+      {
+        "rawClause": "ಭಜೇ ತಾಪತ್ರಯಾಪಹಂ ತಾ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-02"
+        ]
+      },
+      {
+        "rawClause": "ಇದನ್ನ ವಾರ ಹೇಳಬೇಕು.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-03"
+        ]
+      },
+      {
+        "rawClause": "ನಮಾದಬ ಸಮೋ ದೇವೋ ನ ಚ ಮದ್ವಃ ಸಮೋ ಗುರುಃ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-04"
+        ]
+      },
+      {
+        "rawClause": "ನ ತತ್ವಾಕ್ಯ ಸಮಂ ಶಾಸ್ತ್ರಂ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-04"
+        ]
+      },
+      {
+        "rawClause": "ನ ಚ ತದ್ಗ್ಯ ಸಮಃ ಪುಮಾನ್.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-04"
+        ]
+      },
+      {
+        "rawClause": "ತಾ ಶ್ರೀಮದಾಚಾರ್ಯರನ್ನ ಸ್ಮರಣೆಯನ್ನ ಮಾಡಬೇಕು.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-05"
+        ]
+      },
+      {
+        "rawClause": "ಮುಗಿಸಿ ಸಂಜೆ ಸಮೀ ಅಂದರೆ ವನ್ನಿ ಮರ ಅಂತ ಹೇಳ್ತಾರೆ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V03-05",
+          "visarjana-V04-01"
+        ]
+      },
+      {
+        "rawClause": "ಸಮೀ ವೃಕ್ಷ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V04-01"
+        ]
+      },
+      {
+        "rawClause": "ಅದರ ಬಾಗಕ್ಕೋಗಿ ಅಲ್ಲಿ ಅರ್ಚನೆ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V04-01"
+        ]
+      },
+      {
+        "rawClause": "ಅದಕ್ಕೆ ಹೂವು ಮಂತ್ರ ಹಾಕ್ತೀನಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V04-01"
+        ]
+      },
+      {
+        "rawClause": "ಸಮರ್ಪಣೆ ಮಾಡಬೇಕು.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V04-01"
+        ]
+      },
+      {
+        "rawClause": "ಸಮೀ ಯುಕ್ತಂ ಜಗನ್ನಾಥಂ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V04-02"
+        ]
+      }
+    ]
+  },
+  {
+    "windowIndex": 5,
+    "startSeconds": 160.0,
+    "endSeconds": 205.0,
+    "rawWitnessPath": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-005-transcript.json",
+    "rawWitnessSha256": "c0a5cb015eade1197f6bf4a3a200b32906b2a305a19fe10ce36ff7ce6e9da9e2",
+    "retainedSegmentIds": [
+      "visarjana-V04-01",
+      "visarjana-V04-02",
+      "visarjana-V04-03",
+      "visarjana-V05-01",
+      "visarjana-V05-02",
+      "visarjana-V06-01"
+    ],
+    "review": "All shami worship speech and self-restart near/to the tree retained. First prayer ending damaged in all acoustic witnesses; the whole phonetic cluster retained. Vishnu sankalpa and repeated pacification word śamanīm retained. End fragment continues into window 6.",
+    "clauses": [
+      {
+        "rawClause": "ಕೆಫು ಮಂತ್ರ ಹಾಕ್ತೇನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V04-01"
+        ]
+      },
+      {
+        "rawClause": "ಸಮರ್ಪಣ ಮಾಡಬೇಕು.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V04-01"
+        ]
+      },
+      {
+        "rawClause": "ಸಮಿ ಯುಕ್ತಂ ಜಗನ್ನಾಥಂ ಭಕ್ತಾನಾಮಭಯಂಕರಂ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V04-02"
+        ]
+      },
+      {
+        "rawClause": "ಅರ್ಚಯಾಮಿತ್ವಾಂ ಸಬೀಷ್ಟ ವೃಕ್ಷಮರ್ಚಗೇಷ್ಟದಃ ಪುನಃ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V04-02"
+        ]
+      },
+      {
+        "rawClause": "ಎಲ್ಲರೂ ಕೂಡ ಸಮೀಪತ್ರ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V04-03"
+        ]
+      },
+      {
+        "rawClause": "ಸಮೀಪ ಹೋಗಿ ಪೂಜೆಯನ್ನು ಮಾಡಬೇಕು.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V04-03"
+        ]
+      },
+      {
+        "rawClause": "ಭಾರತೀರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಶ್ರೀ ವಿಷ್ಣು ಪ್ರೇರಣಯಾ ಶ್ರೀ ವಿಷ್ಣು ಪ್ರೀತ್ಯರ್ಥಂ ಸಮೀಪೂಜಾಂ ಕರಿಷ್ಯೆ ಅಂತ ಸಮೀ ವೃಕ್ಷಕ ಪೂಜೆಯನ್ನು ಮಾಡಬೇಕು.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V05-01",
+          "visarjana-V05-02"
+        ]
+      },
+      {
+        "rawClause": "ಅಮಂಗಲಾನಾಂ ಶಮನೀಂ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V06-01"
+        ]
+      },
+      {
+        "rawClause": "ಶಮನೀಂ ದುಷ್ಟಕೃತಸ್ಯ ಚ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V06-01"
+        ]
+      },
+      {
+        "rawClause": "ದುಃಖಾಪ್ನು ಸನೀಂ ಧಾನ್ಯಂ ಪ್ರಾಪ್ತಯೇಹಂ ಸಮೀಂ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V06-01"
+        ]
+      },
+      {
+        "rawClause": ".",
+        "disposition": "Raw ASR punctuation-only ellipsis artifact; preserved in raw witness. No spoken lexical item is assigned to these punctuation characters.",
+        "retainedSegmentIds": []
+      },
+      {
+        "rawClause": ".",
+        "disposition": "Raw ASR punctuation-only ellipsis artifact; preserved in raw witness. No spoken lexical item is assigned to these punctuation characters.",
+        "retainedSegmentIds": []
+      }
+    ]
+  },
+  {
+    "windowIndex": 6,
+    "startSeconds": 200.0,
+    "endSeconds": 245.0,
+    "rawWitnessPath": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-006-transcript.json",
+    "rawWitnessSha256": "e6a3de5062d64e1e8ac46d129bd74ceb9351f5ea604a7f7d4c80f98c944d4edc",
+    "retainedSegmentIds": [
+      "visarjana-V06-01",
+      "visarjana-V06-02",
+      "visarjana-V06-03",
+      "visarjana-V06-04",
+      "visarjana-V07-01",
+      "visarjana-V07-02"
+    ],
+    "review": "Devanagari partial overlap maps to the same pacification-prayer occurrence. iti…sampūjya is a separately retained quoted Sanskrit instruction. Material wording is disputed: coarse aṣṭāṅga namaskāra, fine aṣṭāṅga-kumkuma, caption turmeric/kumkuma; provisional turmeric/kumkuma displayed with visible note and no invented gesture. Journey prayer preserved as actually witnessed with damaged opening and endings.",
+    "clauses": [
+      {
+        "rawClause": "पुनः सनीम् धान्यं प्राप्तयेहं समीम् शुभाम्.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V06-01"
+        ]
+      },
+      {
+        "rawClause": "ಹೀಗೆ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಬೇಕು.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V06-02"
+        ]
+      },
+      {
+        "rawClause": "ಇತಿ ಸಮಿ ಧ್ಯಾನಾಭಿಃ ಸಂಪೂಜ್ಯ ಅಷ್ಟಾಂಗಂಗುಮದಿಂದ ಪೂಜೆಯನ್ನು ಮಾಡಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V06-03",
+          "visarjana-V06-04"
+        ]
+      },
+      {
+        "rawClause": "ಮಾಡುತ್ತು.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V06-04"
+        ]
+      },
+      {
+        "rawClause": "दरणी दारिण्यार्जुन बाणानां रामस्य प्रज्ञावाधिनी करिष्यामाणां यात्रायां यताकालं शुकं मया तत्र निर्विघ्नकत्रित्वां भव श्रीराम पूजिते ಅಂತ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡು.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V07-01",
+          "visarjana-V07-02"
+        ]
+      }
+    ]
+  },
+  {
+    "windowIndex": 7,
+    "startSeconds": 240.0,
+    "endSeconds": 285.0,
+    "rawWitnessPath": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-007-transcript.json",
+    "rawWitnessSha256": "5717351e6329e9b59d4f4da4171840fdbdb096fc574aa5ef84ff505c578d653e",
+    "retainedSegmentIds": [
+      "visarjana-V07-01",
+      "visarjana-V07-02",
+      "visarjana-V08-01",
+      "visarjana-V08-02"
+    ],
+    "review": "Journey ending is overlap, not an extra repeat. Complete household-life explanation, tambula/dakshina, teacher/acharya homage, gifts and blessing instructions retained. The Vijayadashami quotation begins and continues in window 8.",
+    "clauses": [
+      {
+        "rawClause": "ಭವ ಶ್ರೀರಾಮ ಪೂಜಿತೇ ಅಂತ ಪ್ರಾರ್ಥನೆಯನ್ನ ಮಾಡಬೇಕು.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V07-01",
+          "visarjana-V07-02"
+        ]
+      },
+      {
+        "rawClause": "ನಮ್ಮ ಈ ಏನೆ ಸಂಸಾರಾಂಬೋ ಈ ಯಾತ್ರೆದ ಇದರಲ್ಲಿ ಎಲ್ಲವೂ ಕೂಡ ನನಗೆ ಅನುಕೂಲವಾಗಲಿ ಅಂತ ಪ್ರಾರ್ಥನೆಯನ್ನ ಮಾಡಿ ತಾಂಬೂಲ ದಕ್ಷಿಣೆಗಳನ್ನ ಕೊಡಬೇಕು ಅಂತ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V07-02"
+        ]
+      },
+      {
+        "rawClause": "ಮತ್ತು ವಿಜಯದಶಮಿ ದಿನ ಇನ್ನೊಂದು ವಿಶೇಷ ಅವುದು ಅಂದರೆ ಗುರುಗಳನ್ನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V08-01"
+        ]
+      },
+      {
+        "rawClause": "ನಮ್ಮ ಆಚಾರ್ಯರಗಳನ್ನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V08-01"
+        ]
+      },
+      {
+        "rawClause": "ನಮಗೆ ಯಾರು ಗುರುವಾಗಿದ್ದು ದಾರಿ ತೋರಿಸ್ತಾ ಇದ್ದಾರೆ ಅವರನ್ನ ನಮಸ್ಕಾರ ಮಾಡೋದು,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V08-01"
+        ]
+      },
+      {
+        "rawClause": "ಅವರಗೆ ದಾನ ದಕ್ಷಿಣೆಗಳನ್ನ ಕೊಟ್ಟು ಅವರಿಂದ ಆಶೀರ್ವಾದ ಪಡೆಯೋದು ತುಂಬ ವಿಶೇಷ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V08-01"
+        ]
+      },
+      {
+        "rawClause": "ವಿಜಯದಶಮಿ ದಿನ ವಿಜಯೋ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V08-01",
+          "visarjana-V08-02"
+        ]
+      },
+      {
+        "rawClause": ".",
+        "disposition": "Raw ASR punctuation-only ellipsis artifact; preserved in raw witness. No spoken lexical item is assigned to these punctuation characters.",
+        "retainedSegmentIds": []
+      },
+      {
+        "rawClause": ".",
+        "disposition": "Raw ASR punctuation-only ellipsis artifact; preserved in raw witness. No spoken lexical item is assigned to these punctuation characters.",
+        "retainedSegmentIds": []
+      }
+    ]
+  },
+  {
+    "windowIndex": 8,
+    "startSeconds": 280.0,
+    "endSeconds": 325.0,
+    "rawWitnessPath": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-008-transcript.json",
+    "rawWitnessSha256": "4ae3d73585399e6c5a6fbccbcf5c047c8ed6667d4da5fbe02d8c06db0a4b245c",
+    "retainedSegmentIds": [
+      "visarjana-V08-01",
+      "visarjana-V08-02",
+      "visarjana-V09-01",
+      "visarjana-V09-02",
+      "visarjana-V09-03"
+    ],
+    "review": "Complete charity quotation retained with damaged śāpapuṇyā/jagatā naṇaṃ and taistaisadā/manmūrtiṃ explicitly unresolved. All following Kannada explanation retained, including repeated dāna kōṭi guṇam puṇyam as a Sanskrit recall. Fragrant materials/clothing are not omitted.",
+    "clauses": [
+      {
+        "rawClause": "ಅವರಿಂದ ಆಶೀರ್ವಾದ ಪಡೆಯೋದು ತುಂಬ ವಿಶೇಷ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V08-01"
+        ]
+      },
+      {
+        "rawClause": "ವಿಜಯದಶಮಿಯ ದಿನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V08-01"
+        ]
+      },
+      {
+        "rawClause": "ವಿಜಯೋ ನಾಮ ಕಾಲೋಯಂ ಸರ್ವಕಾರ್ಯಾರ್ಥ ಸಿದ್ಧಿತಃ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V08-02"
+        ]
+      },
+      {
+        "rawClause": "ದಾನಕೋಟಿ ಗುಣಂ ಪುಣ್ಯಂ ತದೈವ ದಶಮೀ ದಿನೇ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V08-02"
+        ]
+      },
+      {
+        "rawClause": "ವಿಜಯದಶಮೀ ಪ್ರೋಕ್ತಾ ಶಾಪಪುಣ್ಯಾ ಜಾಗತಾ ನಣಂ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V08-02"
+        ]
+      },
+      {
+        "rawClause": "ದ್ರವ್ಯೈಃ ಸುಗಂಧಿಭಿಃ ತೈಸ್ಸದಾ ಮನ್ಮೂರ್ತಿಂ ಬ್ರಾಹ್ಮಣಾನಪಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V08-02"
+        ]
+      },
+      {
+        "rawClause": "ಇವೊಂದು ಅಶ್ವೀಜ ಮಾಸದ ವಿಜಯದಶಮಿಯ ದಿನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-01"
+        ]
+      },
+      {
+        "rawClause": "ನೀವೇನು ದಾನ ಕೊಡ್ತೀರಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-01"
+        ]
+      },
+      {
+        "rawClause": "ದಾನ ಕೋಟಿ ಗುಣ ಪುಣ್ಯ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-02"
+        ]
+      },
+      {
+        "rawClause": "ಕೋಟಿ ಗುಣಗಳನ್ನು ಈ ದಿನದಲ್ಲಿ ಮಾಡುವ ದಾನ ವಿಶೇಷವಾಗಿ ಕೊಡತ್ತೆ ಅಂತ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ದ್ರವ್ಯಗಳು,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ಸುಗಂಧ ದ್ರವ್ಯಗಳು,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ವಸ್ತ್ರಗಳು,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ಅದರಿಂದ ಆಚಾರ್ಯರನ್ನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ಬ್ರಾಹ್ಮಣರನ್ನ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": ".",
+        "disposition": "Raw ASR punctuation-only ellipsis artifact; preserved in raw witness. No spoken lexical item is assigned to these punctuation characters.",
+        "retainedSegmentIds": []
+      },
+      {
+        "rawClause": ".",
+        "disposition": "Raw ASR punctuation-only ellipsis artifact; preserved in raw witness. No spoken lexical item is assigned to these punctuation characters.",
+        "retainedSegmentIds": []
+      }
+    ]
+  },
+  {
+    "windowIndex": 9,
+    "startSeconds": 320.0,
+    "endSeconds": 365.0,
+    "rawWitnessPath": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-009-transcript.json",
+    "rawWitnessSha256": "9d9040cd61d71bddfae1a089bc6d2ab103f240d00515c13e85caafed97a9ba3f",
+    "retainedSegmentIds": [
+      "visarjana-V09-03",
+      "visarjana-V10-01"
+    ],
+    "review": "The same overlapped gift list is retained once by timing. Complete gift/dakshina explanation, Smriti Muktavali attribution, repeated “gurus, gurus”, teacher offering/blessings, “so”, Saraswati dismissal and children reading one/two letters retained. Final children clause continues into window 10.",
+    "clauses": [
+      {
+        "rawClause": "ಅದರಿಂದ ಆಚಾರ್ಯರನ್ನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ಬ್ರಾಹ್ಮಣರನ್ನ ಸಂತೋಷಪಡಿಸಬೇಕು.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ಅವರು ದಕ್ಷಿಣೆಯಿಂದ ಅವರನ್ನು ಸಂತೋಷಪಡಿಸಬೇಕು ಅಂತ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ಸ್ಮೃತಿ ಮುಕ್ತಾವಳಿ ಎನ್ನುವ ಒಂದು ಗ್ರಂಥದಲ್ಲಿ ಹೇಳಿದ್ದೆರೆ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ಮುಖ್ಯವಾಗಿ ಗುರುಗಳನ್ನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ಗುರುಗಳನ್ನ ಸ್ಮರಣ ಮಾಡಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ಗುರುಗಳಲ್ಲಿ ಅವರಿಗೆ ದಕ್ಷಿಣೆಗಳನ್ನ ಕೊಟ್ಟು,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ಗುರುಗಳಿಗೆ ಸಮರ್ಪಣೆ ಮಾಡಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ಅವರಿಂದ ಆಶೀರ್ವಾದಗಳನ್ನ ಪಡೆಯಬೇಕು ಅಂತ ವಿಜಯದಶಮಿಯ ಆಚರಣೆ ಇಷ್ಟೆ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03"
+        ]
+      },
+      {
+        "rawClause": "ಸೋ ವಿಜಯದಶಮಿಯ ದಿನ ಸರಸ್ವತಿಯನ್ನ ವಿಸರ್ಜನೆ ಮಾಡಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V09-03",
+          "visarjana-V10-01"
+        ]
+      },
+      {
+        "rawClause": "ಒಂದು ಎರಡು ಅಕ್ಷರಗಳನ್ನ ಮಕ್ಕಳನ್ನ ಓದು ಅಂತ ಹೇಳಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V10-01"
+        ]
+      },
+      {
+        "rawClause": "ಮಕ್ಕಳಲ್ಲಿ ಗೆಲ್ಲ ವಿಶೇಷವಾಗಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V10-01"
+        ]
+      },
+      {
+        "rawClause": ".",
+        "disposition": "Raw ASR punctuation-only ellipsis artifact; preserved in raw witness. No spoken lexical item is assigned to these punctuation characters.",
+        "retainedSegmentIds": []
+      },
+      {
+        "rawClause": ".",
+        "disposition": "Raw ASR punctuation-only ellipsis artifact; preserved in raw witness. No spoken lexical item is assigned to these punctuation characters.",
+        "retainedSegmentIds": []
+      }
+    ]
+  },
+  {
+    "windowIndex": 10,
+    "startSeconds": 360.0,
+    "endSeconds": 405.0,
+    "rawWitnessPath": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-010-transcript.json",
+    "rawWitnessSha256": "08c40cbd6dc7886bd9abebf84ef365b4994855c432e9b0a822846fab5769cb77",
+    "retainedSegmentIds": [
+      "visarjana-V10-01",
+      "visarjana-V10-02",
+      "visarjana-V11-01"
+    ],
+    "review": "Children’s learning/intelligence wish completes window 9. Source “ī” before the short Vijaya quotation retained. Complete learning, knowledge/devotion/detachment, longevity/health/prosperity, household auspiciousness, Hari-Vayu-guru prayer, festival greetings and victory wishes retained. Caption-supported “das—Dasara” self-repair retained despite ASR smoothing.",
+    "clauses": [
+      {
+        "rawClause": "ಅಕ್ಕುಳಲಿಗೆಲ್ಲ ವಿಶೇಷವಾಗಿ ವಿದ್ಯಾಭ್ಯಾಸಗಳು,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V10-01"
+        ]
+      },
+      {
+        "rawClause": "ಮೇಧಾವಿಲಾಸಗಳು ಎಲ್ಲವೂ ಕೂಡ ಬರಲಿ ಅಂತ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V10-01"
+        ]
+      },
+      {
+        "rawClause": "ಈ ವಿಜಯನಾಮ ಕಾಲೋಯಿಂ ಎಲ್ಲ ಕಾರ್ಯಗಳು ಸಿದ್ಧಿಯಾಗಲಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V10-01",
+          "visarjana-V10-02",
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ಒಳ್ಳೆ ಮೇಧಾವಿಲಾಸ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ವಿದ್ಯಾವಿಲಾಸಗಳು ನಿಮಗೆ ಎಲ್ಲರಿಗೂ ಕೂಡ ಜ್ಞಾನ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ಭಕ್ತಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ವೈರಾಗ್ಯ ಬರಲಿ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ಆಯುರಾರೋಗ್ಯ,",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ಐಶ್ವರ್ಯ ಬರಲಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ಅನಂತ ಕಲ್ಯಾಣಗಳು ಮನೆಯಲ್ಲಿ ತುಂಬಿ ಬರಲಿ ಅಂತ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ಹರಿವಾಯು ಗುರುಗಳನ್ನ ನಾನು ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಿ ನಿಮಗೆ ಎಲ್ಲರಿಗೂ ಈ ದಸರಾ ವಿಜಯದಶಮಿಯ ಸುಭಾಶಯಗಳನ್ನ ನಿಮಗೆಲ್ಲರಿಗೂ ಕೂಡ ತಿಳಸ್ತೇವೆ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ಎಲ್ಲರಿಗೂ ಹ್ಯಾಪಿ ವಿಜಯದಶಮಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ಎಲ್ಲ ಕಾರ್ಯಗಳು ವಿಜಯವಾಗಲಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      }
+    ]
+  },
+  {
+    "windowIndex": 11,
+    "startSeconds": 400.0,
+    "endSeconds": 416.612,
+    "rawWitnessPath": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-011-transcript.json",
+    "rawWitnessSha256": "f39ddf97bf6596eb2b51d9a1b6783e1ffe2d3ce09d7db3523a73651770dd81b6",
+    "retainedSegmentIds": [
+      "visarjana-V11-01",
+      "visarjana-V11-02",
+      "visarjana-V11-03"
+    ],
+    "review": "Greeting overlap maps to the same occurrence; blessings from Hari/Vayu/gurus, short Sri Krishna dedication, all final good wishes and thanks retained through measured media end.",
+    "clauses": [
+      {
+        "rawClause": "ಎಲ್ಲರಿಗೂ ಕೂಡ ತಿಳಿಸ್ತೇವೆ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ಎಲ್ಲರಿಗೂ ಹ್ಯಾಪಿ ವಿಜಯದಶಮಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ಎಲ್ಲ ಕಾರ್ಯಗಳು ವಿಜಯವಾಗಲಿ ಅಂತ ಮೆಲ್ಲರಿಗೂ ಆಶೀರ್ವಾದಗಳನ್ನ ಹರಿವಾಯು ಗುರುಗಳಿಂದ ಮಾಡಿಸ್ತಾ ಇದ್ದೇವೆ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-01"
+        ]
+      },
+      {
+        "rawClause": "ಶ್ರೀಕೃಷ್ಣಾರ್ಪಣ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-02"
+        ]
+      },
+      {
+        "rawClause": "ಎಲ್ಲರಿಗೂ ಎಲ್ಲ ಒಳ್ಳೆದುಗಳು ಆಗಲಿ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-03"
+        ]
+      },
+      {
+        "rawClause": "ಧನ್ಯವಾದ.",
+        "disposition": "Retained in the identified ordered block(s); window-boundary overlap maps to the same occurrence. ASR clause-local timestamps are unavailable, and block timing uses native embedded VTT markers.",
+        "retainedSegmentIds": [
+          "visarjana-V11-03"
+        ]
+      }
+    ]
+  }
+]
