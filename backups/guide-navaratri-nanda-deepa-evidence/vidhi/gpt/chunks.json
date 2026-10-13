@@ -1,0 +1,43 @@
+{
+  "source": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/source/original.mp3",
+  "duration_seconds": 850.617,
+  "segment_seconds": 180.0,
+  "overlap_seconds": 10.0,
+  "chunks": [
+    {
+      "index": 1,
+      "file": "original-part-001.mp3",
+      "start_seconds": 0.0,
+      "end_seconds": 180.0,
+      "overlap_seconds": 0
+    },
+    {
+      "index": 2,
+      "file": "original-part-002.mp3",
+      "start_seconds": 170.0,
+      "end_seconds": 350.0,
+      "overlap_seconds": 10.0
+    },
+    {
+      "index": 3,
+      "file": "original-part-003.mp3",
+      "start_seconds": 340.0,
+      "end_seconds": 520.0,
+      "overlap_seconds": 10.0
+    },
+    {
+      "index": 4,
+      "file": "original-part-004.mp3",
+      "start_seconds": 510.0,
+      "end_seconds": 690.0,
+      "overlap_seconds": 10.0
+    },
+    {
+      "index": 5,
+      "file": "original-part-005.mp3",
+      "start_seconds": 680.0,
+      "end_seconds": 850.617,
+      "overlap_seconds": 10.0
+    }
+  ]
+}

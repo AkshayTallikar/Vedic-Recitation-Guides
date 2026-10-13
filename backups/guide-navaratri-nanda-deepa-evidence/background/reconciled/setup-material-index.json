@@ -1,0 +1,115 @@
+[
+  {
+    "item": "large lamp vessel: earthen, brass, silver, or gold if available",
+    "sectionIds": [
+      "B09"
+    ],
+    "sourceTimes": [
+      374.4,
+      429.759
+    ],
+    "vidhiUse": "lamp preparation"
+  },
+  {
+    "item": "good standing/burning wick; replenish ghee or oil",
+    "sectionIds": [
+      "B09",
+      "B15",
+      "B18"
+    ],
+    "sourceTimes": [
+      374.4,
+      645.839,
+      724.56
+    ],
+    "vidhiUse": "wick and fuel preparation; continuity of lamp"
+  },
+  {
+    "item": "ghee or sesame oil",
+    "sectionIds": [
+      "B05",
+      "B15",
+      "B18"
+    ],
+    "sourceTimes": [
+      235.04,
+      645.839,
+      724.56
+    ],
+    "vidhiUse": "fuel offering and lighting"
+  },
+  {
+    "item": "turmeric, kuṅkuma, gandha, flowers",
+    "sectionIds": [
+      "B15",
+      "B18"
+    ],
+    "sourceTimes": [
+      645.839,
+      724.56
+    ],
+    "vidhiUse": "lamp decoration and worship offerings"
+  },
+  {
+    "item": "rice or plate; gomaya placement in some family traditions",
+    "sectionIds": [
+      "B15"
+    ],
+    "sourceTimes": [
+      645.839
+    ],
+    "vidhiUse": "lamp support; preserve described alternatives"
+  },
+  {
+    "item": "fruit, betel leaves, areca nut, gaja-vastra, incense, camphor",
+    "sectionIds": [
+      "B18"
+    ],
+    "sourceTimes": [
+      724.56
+    ],
+    "vidhiUse": "offerings; exact gaja-vastra reading still provisional"
+  },
+  {
+    "item": "first-day oil rite/bath, madi, gopīcandana, sandhyāvandana, complete daily worship",
+    "sectionIds": [
+      "B17"
+    ],
+    "sourceTimes": [
+      702.32
+    ],
+    "vidhiUse": "prerequisites before lamp rite"
+  },
+  {
+    "item": "family-deity identification and hymns; Lakṣmī Hṛdaya and Śrī Sūkta optional invited recitation",
+    "sectionIds": [
+      "B03",
+      "B10"
+    ],
+    "sourceTimes": [
+      63.52,
+      429.759
+    ],
+    "vidhiUse": "saṅkalpa intention and daily observance"
+  },
+  {
+    "item": "27 nakṣatra deities under lamp; Ādiśeṣa in wick; Sūrya/Candra in flame",
+    "sectionIds": [
+      "B16"
+    ],
+    "sourceTimes": [
+      677.04
+    ],
+    "vidhiUse": "invocation and contemplation"
+  },
+  {
+    "item": "historical Sunday timing; 11:45–12:00 and provisional 7:15–10:15",
+    "sectionIds": [
+      "B19"
+    ],
+    "sourceTimes": [
+      759.2
+    ],
+    "vidhiUse": "recorded context only; not a current-calendar prescription"
+  }
+]

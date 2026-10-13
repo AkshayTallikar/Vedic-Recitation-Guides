@@ -1,0 +1,297 @@
+{
+  "status": "REVIEW REQUIRED; not certified lossless acoustic transcript",
+  "sourceId": "vidhi",
+  "durationSeconds": 850.617,
+  "sectionCount": 31,
+  "blockCount": 118,
+  "mantraLineCount": 181,
+  "witnesses": {
+    "coarseChunks": 5,
+    "fineChunks": 22,
+    "targetedChecks": 8,
+    "captions": "Kannada original auto-caption track"
+  },
+  "sourceReconstructionPassed": true,
+  "glossLineCoveragePassed": true,
+  "individualLineTiming": "Native VTT word-marker phrase matching where supported; otherwise explicitly shared whole-run intervals. No invented even subdivisions and no human listening claim.",
+  "directHumanListening": false,
+  "sourceCompletenessCertification": false,
+  "unresolvedGlossTokens": [],
+  "uncertainBlocks": [
+    {
+      "section": "opening-invocation",
+      "blockIndex": 0,
+      "startSeconds": 0.56,
+      "endSeconds": 35.04,
+      "notes": "Opening lagnaṁ supported by captions; GPT repeatedly hears lakṣmīṁ. Reading remains flagged pending listening. Second complete repetition retained; exact final syllables under music not separately timed."
+    },
+    {
+      "section": "acamana",
+      "blockIndex": 1,
+      "startSeconds": 36.54,
+      "endSeconds": 57.92,
+      "notes": "Short names after the first three are retained as heard in fine transcription/captions; not expanded into unspoken full datives."
+    },
+    {
+      "section": "acamana",
+      "blockIndex": 3,
+      "startSeconds": 59.42,
+      "endSeconds": 78.88,
+      "notes": "Short names after the first three are retained as heard in fine transcription/captions; not expanded into unspoken full datives."
+    },
+    {
+      "section": "guru-kuladevata",
+      "blockIndex": 1,
+      "startSeconds": 79.7,
+      "endSeconds": 96.48,
+      "notes": "vāgīśebhyo and ekādaśasthāne/asmat remain uncertain: GPT variants vāgbhe, ekāsanasthāne/aśvattha; captions favor eleventh-place formulation."
+    },
+    {
+      "section": "guru-kuladevata",
+      "blockIndex": 7,
+      "startSeconds": 104.5,
+      "endSeconds": 109.68,
+      "notes": "Eleventh-place wording uncertain as above."
+    },
+    {
+      "section": "sankalpa-main",
+      "blockIndex": 0,
+      "startSeconds": 136,
+      "endSeconds": 140.959,
+      "notes": "Raw ASR varies ಮಂತ್ರಾಸ್ತೆ/ಮಂತ್ರಾಸ್ತೇ; interpreted ritual object mantra-akṣata is editorial correction supported by repeated usage."
+    },
+    {
+      "section": "sankalpa-main",
+      "blockIndex": 1,
+      "startSeconds": 140.959,
+      "endSeconds": 226.799,
+      "notes": "Retains recorded calendar/location examples; śālivāhanaśake/rāmakṣetre, exact tithi inflection, and antaryāmi form remain uncertain witness readings. Do not substitute present-day calendar. Repeated list deliberately retained."
+    },
+    {
+      "section": "sankalpa-observances",
+      "blockIndex": 0,
+      "startSeconds": 262,
+      "endSeconds": 285.12,
+      "notes": "tadaṅgapūrvaka/ghṛta and sāyaṁ/sāyāhna inflections uncertain; complete recorded meaning retained."
+    },
+    {
+      "section": "nakshatra-worship",
+      "blockIndex": 1,
+      "startSeconds": 291.04,
+      "endSeconds": 303.68,
+      "notes": "Opening Kṛttikādi retained despite subsequent list starting Aśvinī. Rohiṇī is interrupted by instruction then repeated."
+    },
+    {
+      "section": "nakshatra-worship",
+      "blockIndex": 3,
+      "startSeconds": 306.79,
+      "endSeconds": 365.68,
+      "notes": "Punarvasu inflection and final nārāyaṇāya/nārāyaṇābhyāṁ differ among witnesses; list retains all27 stars. Individual rapid lines share whole-run playback until independently aligned."
+    },
+    {
+      "section": "lamp-parts-deities",
+      "blockIndex": 0,
+      "startSeconds": 368.8,
+      "endSeconds": 374.24,
+      "notes": "ನಾಳೆ/nāḷe may be Sanskrit nāle (in the tube) or Kannada sound; preserved rather than translated as tomorrow, which would not fit the placement context."
+    },
+    {
+      "section": "lamp-parts-deities",
+      "blockIndex": 1,
+      "startSeconds": 374.24,
+      "endSeconds": 386.8,
+      "notes": "Exact jyotiṣi/jyotyau and sūryacandrāya inflection uncertain. Do not invent additional placements for Ananta or Candra–Arka."
+    },
+    {
+      "section": "lighting-preparation",
+      "blockIndex": 0,
+      "startSeconds": 386.8,
+      "endSeconds": 413.6,
+      "notes": "Hālagārati plate name retained as spoken; purpose is a separate lighting flame."
+    },
+    {
+      "section": "lighting-agni",
+      "blockIndex": 3,
+      "startSeconds": 417.4,
+      "endSeconds": 433.28,
+      "notes": "Prompted agninā, samidhyate and gṛhapatir repetitions retained. Final juhvāsyaḥ is an uncertain reading: ASR yuktvāsyā/yukvāsyā."
+    },
+    {
+      "section": "narasimha-avahana",
+      "blockIndex": 5,
+      "startSeconds": 457.28,
+      "endSeconds": 459.909,
+      "notes": "Brief object prompt; shares native caption cue457.28–459.909 with final invocation because ASR collapses words to ಮಂತ್ರ. Exact inter-word partition unresolved."
+    },
+    {
+      "section": "durga-avahana",
+      "blockIndex": 1,
+      "startSeconds": 481,
+      "endSeconds": 488.48,
+      "notes": "Kātyāyanī inflection and kanyakumāri ending uncertain. GPT hears durgāṁ tarpayāmi; captions favor durgāntaryāmi. Retain review flag rather than claim exact lexical resolution."
+    },
+    {
+      "section": "cloth-ornaments-flowers",
+      "blockIndex": 0,
+      "startSeconds": 510.479,
+      "endSeconds": 513.12,
+      "notes": "Exact cloth name sounds gajavastra/gajabastra; retained as technical spoken term."
+    },
+    {
+      "section": "cloth-ornaments-flowers",
+      "blockIndex": 2,
+      "startSeconds": 522.8,
+      "endSeconds": 526.08,
+      "notes": "Kannada phrase heavily corrupted across ASR; full object list preserved; exact connector requires review."
+    },
+    {
+      "section": "nama-archana",
+      "blockIndex": 0,
+      "startSeconds": 532,
+      "endSeconds": 576.64,
+      "notes": "Oṁ occurrence retained from captions/fine pass rather than uniformly added. Final nānā parimala patra puṣpārcanaṁ differs in GPT (nānāvidha/pūṣpādi); caption form chosen, review flagged."
+    },
+    {
+      "section": "dhupa-dipa",
+      "blockIndex": 1,
+      "startSeconds": 580.24,
+      "endSeconds": 590.9,
+      "notes": "guggulopetaṁ and āghreyaṁ restored as intelligible reading from repeated corrupted acoustic ASR (kukkulo/betaṁ, āgre); exact phonemes remain review flagged. ASR includes mantra-akṣata object sounds; see following action; exact dīpārthe/dīpārādhane phrase uncertain."
+    },
+    {
+      "section": "dhupa-dipa",
+      "blockIndex": 2,
+      "startSeconds": 590.9,
+      "endSeconds": 592.08,
+      "notes": "Object prompt occurs within/alongside the dīpa formula; exact ordering uncertain."
+    },
+    {
+      "section": "naivedya-preparation",
+      "blockIndex": 0,
+      "startSeconds": 595.6,
+      "endSeconds": 604.64,
+      "notes": "Clause after tambiṭṭu is acoustically unclear (pērasōdādgere/ērisōdādgere); preserve this as a provisional full translation rather than inventing another food item."
+    },
+    {
+      "section": "naivedya-preparation",
+      "blockIndex": 3,
+      "startSeconds": 607.68,
+      "endSeconds": 608.5,
+      "notes": "tvartena is the joined spoken ṛtena form; lexical pronunciation not independently heard."
+    },
+    {
+      "section": "naivedya-preparation",
+      "blockIndex": 7,
+      "startSeconds": 612.72,
+      "endSeconds": 623.92,
+      "notes": "The joined brahmaṇi ma ātmā syllables remain uncertain across all witnesses; line meaning is provisional Sanskrit interpretation, not certified verbatim gloss."
+    },
+    {
+      "section": "naivedya-completion",
+      "blockIndex": 0,
+      "startSeconds": 635.68,
+      "endSeconds": 638.88,
+      "notes": "Recorded instruction says four, followed by five formulas. This discrepancy is retained rather than silently corrected."
+    },
+    {
+      "section": "tambula",
+      "blockIndex": 0,
+      "startSeconds": 647.36,
+      "endSeconds": 651,
+      "notes": "Repeated reformulation retained as spoken."
+    },
+    {
+      "section": "tambula",
+      "blockIndex": 1,
+      "startSeconds": 651,
+      "endSeconds": 660.079,
+      "notes": "Ending pratigṛhyatāṁ/pratigṛhṇa differs among witnesses. Standard intelligible reading is provisional, visible review flag retained."
+    },
+    {
+      "section": "mangalarati",
+      "blockIndex": 1,
+      "startSeconds": 668.3,
+      "endSeconds": 670.64,
+      "notes": "Introduced phrase repeated before full recitation; preserve both occurrences."
+    },
+    {
+      "section": "mangalarati",
+      "blockIndex": 3,
+      "startSeconds": 671.3,
+      "endSeconds": 685.92,
+      "notes": "prasahyasāhine/kāmakāmāya are intelligible Sanskrit readings of heavily corrupted shared ASR; not certified exact pronunciation."
+    },
+    {
+      "section": "mangalarati",
+      "blockIndex": 4,
+      "startSeconds": 685.92,
+      "endSeconds": 690.96,
+      "notes": "Exact flower movement wording slightly unclear, no further motion invented."
+    },
+    {
+      "section": "mangalarati",
+      "blockIndex": 5,
+      "startSeconds": 690.96,
+      "endSeconds": 692,
+      "notes": "ASR sarakṣāṁ/rakṣāṁ dhārayāmi; exact prefix uncertain."
+    },
+    {
+      "section": "final-prayers",
+      "blockIndex": 1,
+      "startSeconds": 720.399,
+      "endSeconds": 729.12,
+      "notes": "All acoustic ASR outputs hear dānavāraṇya pālake / jñānadāgine / sadveśe. Here pāvake/jñānadāyini are provisional intelligible readings, not certified. Entire verse requires close listening."
+    },
+    {
+      "section": "final-prayers",
+      "blockIndex": 3,
+      "startSeconds": 733.519,
+      "endSeconds": 740.639,
+      "notes": "Severe unresolved exact reading in final Manyu prayer. GPT gives varuṇasya manyuḥ and bhiyam dadānaḥ hṛdayeṣu śatrā/aparājitāśo; current Sanskrit reconstruction and meaning explicitly provisional, not claimed acoustic exactness."
+    },
+    {
+      "section": "lamp-maintenance",
+      "blockIndex": 0,
+      "startSeconds": 768.959,
+      "endSeconds": 809.68,
+      "notes": "Recorded dates/tomorrow are historical examples. Hour count remains unresolved; no contextual silent correction."
+    },
+    {
+      "section": "daily-recitation-timing",
+      "blockIndex": 0,
+      "startSeconds": 809.68,
+      "endSeconds": 834.48,
+      "notes": "Repeated time advice preserved. “Tomorrow” is relative to the original recording, not today’s auspicious-time advice."
+    },
+    {
+      "section": "closing-thanks",
+      "blockIndex": 0,
+      "startSeconds": 834.48,
+      "endSeconds": 850.0,
+      "notes": "Final audio end is850.617; captions overrun852.32. Last Śrī Kṛṣṇa retained separately from Kannada thanks."
+    }
+  ],
+  "coverageGaps": [
+    {
+      "startSeconds": 0,
+      "endSeconds": 0.56,
+      "kind": "opening musical lead-in inferred from firstcaption; acoustic confirmation pending"
+    }
+  ],
+  "captionOverrunSeconds": 1.703,
+  "knownLimitation": "Textual reconciliation includes explicitly provisional Sanskrit lexical reconstruction at listed uncertain blocks; full source integrity cannot be certified until those are acoustically resolved. Kannada instruction translations are complete editorial translations of the retained reconciled spans, with unclear phrases flagged.",
+  "nativeVttLineMatches": 159,
+  "sharedRunLineIntervals": 22,
+  "manualBlockTimingAudit": "All118blocks mapped manually to actual native VTT word-event transitions. One documented shared event at457.28–459.909 for invocation and mantra-akṣata prompt; no other block interval overlaps.",
+  "unresolvedOverlaps": [
+    {
+      "section": "narasimha-avahana",
+      "nativeCueInterval": [
+        457.28,
+        459.909
+      ],
+      "words": "ಮಂತ್ರ",
+      "reason": "ā vāhayāmi and mantra-akṣata prompt not separately represented in source ASR"
+    }
+  ]
+}

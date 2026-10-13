@@ -1,0 +1,5037 @@
+[
+  {
+    "id": "background-caption-0000",
+    "timelineIndex": 0,
+    "sourceId": "background",
+    "startSeconds": 0.4,
+    "endSeconds": 7.349,
+    "captionStartSeconds": 0.4,
+    "captionEndSeconds": 7.349,
+    "sourceOriginal": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ ",
+    "sourceRoman": "hari ōṁ namō nārāyaṇa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0001",
+    "timelineIndex": 1,
+    "sourceId": "background",
+    "startSeconds": 7.359,
+    "endSeconds": 14.07,
+    "captionStartSeconds": 7.359,
+    "captionEndSeconds": 14.07,
+    "sourceOriginal": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ ",
+    "sourceRoman": "hari ōṁ namō nārāyaṇa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0002",
+    "timelineIndex": 2,
+    "sourceId": "background",
+    "startSeconds": 14.08,
+    "endSeconds": 16.31,
+    "captionStartSeconds": 14.08,
+    "captionEndSeconds": 16.31,
+    "sourceOriginal": "ಗೋವಿಂದ ",
+    "sourceRoman": "gōviṁda ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಗೋವಿಂದ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0004",
+    "timelineIndex": 4,
+    "sourceId": "background",
+    "startSeconds": 16.32,
+    "endSeconds": 20.95,
+    "captionStartSeconds": 16.32,
+    "captionEndSeconds": 20.95,
+    "sourceOriginal": "ನಾರಾಯಣ ",
+    "sourceRoman": "nārāyaṇa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಾರಾಯಣ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0005",
+    "timelineIndex": 5,
+    "sourceId": "background",
+    "startSeconds": 20.96,
+    "endSeconds": 23.189,
+    "captionStartSeconds": 20.96,
+    "captionEndSeconds": 23.189,
+    "sourceOriginal": "ಗೋಪಾಲ ",
+    "sourceRoman": "gōpāla ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಗೋಪಾಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0007",
+    "timelineIndex": 7,
+    "sourceId": "background",
+    "startSeconds": 23.199,
+    "endSeconds": 27.91,
+    "captionStartSeconds": 23.199,
+    "captionEndSeconds": 27.91,
+    "sourceOriginal": "ನಾರಾಯಣ ",
+    "sourceRoman": "nārāyaṇa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಾರಾಯಣನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0008",
+    "timelineIndex": 8,
+    "sourceId": "background",
+    "startSeconds": 27.92,
+    "endSeconds": 34.709,
+    "captionStartSeconds": 27.92,
+    "captionEndSeconds": 34.709,
+    "sourceOriginal": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ ",
+    "sourceRoman": "hari ōṁ namō nārāyaṇa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹರಿ ಓಂ ಓಂ ನಮೋ ನಾರಾಯಣ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0009",
+    "timelineIndex": 9,
+    "sourceId": "background",
+    "startSeconds": 34.719,
+    "endSeconds": 41.19,
+    "captionStartSeconds": 34.719,
+    "captionEndSeconds": 41.19,
+    "sourceOriginal": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ ",
+    "sourceRoman": "hari ōṁ namō nārāyaṇa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0010",
+    "timelineIndex": 10,
+    "sourceId": "background",
+    "startSeconds": 41.2,
+    "endSeconds": 44.15,
+    "captionStartSeconds": 41.2,
+    "captionEndSeconds": 44.15,
+    "sourceOriginal": "ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ ಹರಿ ಓಂ ಶರಣಂ ಪವಿತ್ರಂ ",
+    "sourceRoman": "śrī gurubhyō namaḥ hari ōṁ śaraṇaṁ pavitraṁ ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ ಹರಿ ಓಂ ಶರಣಂ ಪವಿತ್ರಂ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0012",
+    "timelineIndex": 12,
+    "sourceId": "background",
+    "startSeconds": 44.16,
+    "endSeconds": 49.35,
+    "captionStartSeconds": 44.16,
+    "captionEndSeconds": 49.35,
+    "sourceOriginal": "YouTubeಟ್ಯೂಬ್ ಚಾನೆಲ್ಿನ ಪ್ರಿಯ ವೀಕ್ಷಕರಿಗೆ ",
+    "sourceRoman": "YouTubeṭyūb cānelina priya vīkṣakarige ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "YouTubeಟ್ಯೂಬ್ ಚಾನೆಲ್ಿನ ಪ್ರಿಯ ವೀಕ್ಷಕರಿಗೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0013",
+    "timelineIndex": 13,
+    "sourceId": "background",
+    "startSeconds": 49.36,
+    "endSeconds": 53.59,
+    "captionStartSeconds": 49.36,
+    "captionEndSeconds": 53.59,
+    "sourceOriginal": "ನನ್ನ ಪ್ರೀತಿಯ ಹೃದಯಗಳಿಗೆ ನಮಸ್ಕಾರ ನಮಗೆ ಆದರ ",
+    "sourceRoman": "nanna prītiya hṛdayagaḷige namaskāra namage ādara ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನನ್ನ ಪ್ರೀತಿಯ ಹೃದಯಗಳಿಗೆ ನಮಸ್ಕಾರ ನಮಗೆ ಆದರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0015",
+    "timelineIndex": 15,
+    "sourceId": "background",
+    "startSeconds": 53.6,
+    "endSeconds": 55.189,
+    "captionStartSeconds": 53.6,
+    "captionEndSeconds": 55.189,
+    "sourceOriginal": "ಕೊಟ್ಟು ",
+    "sourceRoman": "koṭṭu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕೊಟ್ಟು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0017",
+    "timelineIndex": 17,
+    "sourceId": "background",
+    "startSeconds": 55.199,
+    "endSeconds": 57.67,
+    "captionStartSeconds": 55.199,
+    "captionEndSeconds": 57.67,
+    "sourceOriginal": "ನಮ್ಮನ್ನ ಇನ್ನಿಷ್ಟು ಉತ್ಸಾಹ ಮಾಡುತ್ತಿರುವ ",
+    "sourceRoman": "nammanna inniṣṭu utsāha māḍuttiruva ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಮ್ಮನ್ನ ಇನ್ನಿಷ್ಟು ಉತ್ಸಾಹ ಮಾಡುತ್ತಿರುವ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0019",
+    "timelineIndex": 19,
+    "sourceId": "background",
+    "startSeconds": 57.68,
+    "endSeconds": 60.709,
+    "captionStartSeconds": 57.68,
+    "captionEndSeconds": 60.709,
+    "sourceOriginal": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ನನ್ನ ಧನ್ಯವಾದಗಳನ್ನ ",
+    "sourceRoman": "nimmellarigū kūḍa nanna dhanyavādagaḷanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ನನ್ನ ಧನ್ಯವಾದಗಳನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0021",
+    "timelineIndex": 21,
+    "sourceId": "background",
+    "startSeconds": 60.719,
+    "endSeconds": 63.51,
+    "captionStartSeconds": 60.719,
+    "captionEndSeconds": 63.51,
+    "sourceOriginal": "ತಿಳಿಸುತ್ತಾ ನವರಾತ್ರಿ ",
+    "sourceRoman": "tiḷisuttā navarātri ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ತಿಳಿಸುತ್ತಾ ನವರಾತ್ರಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0023",
+    "timelineIndex": 23,
+    "sourceId": "background",
+    "startSeconds": 63.52,
+    "endSeconds": 68.789,
+    "captionStartSeconds": 63.52,
+    "captionEndSeconds": 68.789,
+    "sourceOriginal": "ನವರಾತ್ರಿಯ ಆರಂಭ ಸರಿಯಾಗಿ ನೋಡಿ ಕುಲದೇವತೆಯ ",
+    "sourceRoman": "navarātriya āraṁbha sariyāgi nōḍi kuladēvateya ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನವರಾತ್ರಿಯ ಆರಂಭ ಸರಿಯಾಗಿ ನೋಡಿ ಕುಲದೇವತೆಯ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0025",
+    "timelineIndex": 25,
+    "sourceId": "background",
+    "startSeconds": 68.799,
+    "endSeconds": 71.67,
+    "captionStartSeconds": 68.799,
+    "captionEndSeconds": 71.67,
+    "sourceOriginal": "ಆರಾಧನೆ ಎಂಬುದು ಪಿತೃಗಳ ಆರಾಧನೆ ಮುಗಿದಮೇಲೆ ",
+    "sourceRoman": "ārādhane eṁbudu pitṛgaḷa ārādhane mugidamēle ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆರಾಧನೆ ಎಂಬುದು ಪಿತೃಗಳ ಆರಾಧನೆ ಮುಗಿದಮೇಲೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0027",
+    "timelineIndex": 27,
+    "sourceId": "background",
+    "startSeconds": 71.68,
+    "endSeconds": 74.789,
+    "captionStartSeconds": 71.68,
+    "captionEndSeconds": 74.789,
+    "sourceOriginal": "ಕುಲದೇವತೆಯ ಆರಾಧನೆಯನ್ನ ನಾವು ಪ್ರಾರಂಭ ",
+    "sourceRoman": "kuladēvateya ārādhaneyanna nāvu prāraṁbha ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕುಲದೇವತೆಯ ಆರಾಧನೆಯನ್ನ ನಾವು ಪ್ರಾರಂಭ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0029",
+    "timelineIndex": 29,
+    "sourceId": "background",
+    "startSeconds": 74.799,
+    "endSeconds": 78.07,
+    "captionStartSeconds": 74.799,
+    "captionEndSeconds": 78.07,
+    "sourceOriginal": "ಮಾಡ್ತೀವಿ ಮದುವೆಯಲ್ಲಿ ಮುಂಜಿಯಲ್ಲಿ ನಾಂದಿ ",
+    "sourceRoman": "māḍtīvi maduveyalli muṁjiyalli nāṁdi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮಾಡ್ತೀವಿ ಮದುವೆಯಲ್ಲಿ ಮುಂಜಿಯಲ್ಲಿ ನಾಂದಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0031",
+    "timelineIndex": 31,
+    "sourceId": "background",
+    "startSeconds": 78.08,
+    "endSeconds": 81.35,
+    "captionStartSeconds": 78.08,
+    "captionEndSeconds": 81.35,
+    "sourceOriginal": "ಕರೆಯುದು ನೋಡಿದರೆ ಪುಣ್ಯಾಹ ವಾಚನ ಮುಡಿದು ಪಾದ ",
+    "sourceRoman": "kareyudu nōḍidare puṇyāha vācana muḍidu pāda ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕರೆಯುದು ನೋಡಿದರೆ ಪುಣ್ಯಾಹ ವಾಚನ ಮುಡಿದು ಪಾದ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0033",
+    "timelineIndex": 33,
+    "sourceId": "background",
+    "startSeconds": 81.36,
+    "endSeconds": 84.55,
+    "captionStartSeconds": 81.36,
+    "captionEndSeconds": 84.55,
+    "sourceOriginal": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಾಂದಿಯನ್ನ ಕರೆಯುದು ನಾಂದಿ ",
+    "sourceRoman": "pūjeyanna māḍi nāṁdiyanna kareyudu nāṁdi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಾಂದಿಯನ್ನ ಕರೆಯುದು ನಾಂದಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0035",
+    "timelineIndex": 35,
+    "sourceId": "background",
+    "startSeconds": 84.56,
+    "endSeconds": 87.429,
+    "captionStartSeconds": 84.56,
+    "captionEndSeconds": 87.429,
+    "sourceOriginal": "ಕರೆದಮೇಲೆ ಕುಲದೇವರನ್ನ ಕೂಡಿಸೋದು ಅಂತ ",
+    "sourceRoman": "karedamēle kuladēvaranna kūḍisōdu aṁta ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕರೆದಮೇಲೆ ಕುಲದೇವರನ್ನ ಕೂಡಿಸೋದು ಅಂತ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0037",
+    "timelineIndex": 37,
+    "sourceId": "background",
+    "startSeconds": 87.439,
+    "endSeconds": 89.109,
+    "captionStartSeconds": 87.439,
+    "captionEndSeconds": 89.109,
+    "sourceOriginal": "ಇಟ್ಕೊಂಡಿದ್ದೆ ",
+    "sourceRoman": "iṭkoṁḍidde ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇಟ್ಕೊಂಡಿದ್ದೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0039",
+    "timelineIndex": 39,
+    "sourceId": "background",
+    "startSeconds": 89.119,
+    "endSeconds": 93.91,
+    "captionStartSeconds": 89.119,
+    "captionEndSeconds": 93.91,
+    "sourceOriginal": "ಸೋ ಹಿರಿಯರ ಆಶೀರ್ವಾದ ಪೂರ್ಣ ಆದಮೇಲೆ ಕುಲದೇವರ ",
+    "sourceRoman": "sō hiriyara āśīrvāda pūrṇa ādamēle kuladēvara ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸೋ ಹಿರಿಯರ ಆಶೀರ್ವಾದ ಪೂರ್ಣ ಆದಮೇಲೆ ಕುಲದೇವರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0041",
+    "timelineIndex": 41,
+    "sourceId": "background",
+    "startSeconds": 93.92,
+    "endSeconds": 95.749,
+    "captionStartSeconds": 93.92,
+    "captionEndSeconds": 95.749,
+    "sourceOriginal": "ಆಶೀರ್ವಾದಕ್ಕೆ ",
+    "sourceRoman": "āśīrvādakke ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆಶೀರ್ವಾದಕ್ಕೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0043",
+    "timelineIndex": 43,
+    "sourceId": "background",
+    "startSeconds": 95.759,
+    "endSeconds": 99.99,
+    "captionStartSeconds": 95.759,
+    "captionEndSeconds": 99.99,
+    "sourceOriginal": "ನವರಾತ್ರಿಯನ್ನ ಕೊಂಡಾಡುದು ನವರಾತ್ರಿ ",
+    "sourceRoman": "navarātriyanna koṁḍāḍudu navarātri ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನವರಾತ್ರಿಯನ್ನ ಕೊಂಡಾಡುದು ನವರಾತ್ರಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0045",
+    "timelineIndex": 45,
+    "sourceId": "background",
+    "startSeconds": 100.0,
+    "endSeconds": 101.67,
+    "captionStartSeconds": 100.0,
+    "captionEndSeconds": 101.67,
+    "sourceOriginal": "ಬುರಿಯ ",
+    "sourceRoman": "buriya ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಬುರಿಯ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0047",
+    "timelineIndex": 47,
+    "sourceId": "background",
+    "startSeconds": 101.68,
+    "endSeconds": 104.23,
+    "captionStartSeconds": 101.68,
+    "captionEndSeconds": 104.23,
+    "sourceOriginal": "ದುರ್ಗಾಲಕ್ಷ್ಮಿ ಸರಸ್ವತಿ ಪೂಜೆ ಮಾತ್ರ ಅಲ್ಲ ",
+    "sourceRoman": "durgālakṣmi sarasvati pūje mātra alla ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದುರ್ಗಾಲಕ್ಷ್ಮಿ ಸರಸ್ವತಿ ಪೂಜೆ ಮಾತ್ರ ಅಲ್ಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0049",
+    "timelineIndex": 49,
+    "sourceId": "background",
+    "startSeconds": 104.24,
+    "endSeconds": 106.389,
+    "captionStartSeconds": 104.24,
+    "captionEndSeconds": 106.389,
+    "sourceOriginal": "ನಮ್ಮ ಕುಲದೇವರು ಏನಿದ್ದಾರೆ ವೆಂಕಟರಮಣ ",
+    "sourceRoman": "namma kuladēvaru ēniddāre veṁkaṭaramaṇa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಮ್ಮ ಕುಲದೇವರು ಏನಿದ್ದಾರೆ ವೆಂಕಟರಮಣ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0051",
+    "timelineIndex": 51,
+    "sourceId": "background",
+    "startSeconds": 106.399,
+    "endSeconds": 110.789,
+    "captionStartSeconds": 106.399,
+    "captionEndSeconds": 110.789,
+    "sourceOriginal": "ದೇವರಾಗಿರಲಿ ನರಸಿಂಹ ದೇವರಾಗಿರಲಿ ",
+    "sourceRoman": "dēvarāgirali narasiṁha dēvarāgirali ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದೇವರಾಗಿರಲಿ ನರಸಿಂಹ ದೇವರಾಗಿರಲಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0053",
+    "timelineIndex": 53,
+    "sourceId": "background",
+    "startSeconds": 110.799,
+    "endSeconds": 113.91,
+    "captionStartSeconds": 110.799,
+    "captionEndSeconds": 113.91,
+    "sourceOriginal": "ಒಬ್ಬರಿಗೆ ಒಬ್ಬೊಂದು ದೇವರು ಕುಲದೇವರು ಇರ್ತಾರೆ ",
+    "sourceRoman": "obbarige obboṁdu dēvaru kuladēvaru irtāre ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಒಬ್ಬರಿಗೆ ಒಬ್ಬೊಂದು ದೇವರು ಕುಲದೇವರು ಇರ್ತಾರೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0055",
+    "timelineIndex": 55,
+    "sourceId": "background",
+    "startSeconds": 113.92,
+    "endSeconds": 116.87,
+    "captionStartSeconds": 113.92,
+    "captionEndSeconds": 116.87,
+    "sourceOriginal": "ಆ ದೇವರನ್ನ ಈ ಒಂಬತ್ತು ದಿನಗಳಲ್ಲಿಯೂ ",
+    "sourceRoman": "ā dēvaranna ī oṁbattu dinagaḷalliyū ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆ ದೇವರನ್ನ ಈ ಒಂಬತ್ತು ದಿನಗಳಲ್ಲಿಯೂ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0057",
+    "timelineIndex": 57,
+    "sourceId": "background",
+    "startSeconds": 116.88,
+    "endSeconds": 118.31,
+    "captionStartSeconds": 116.88,
+    "captionEndSeconds": 118.31,
+    "sourceOriginal": "ಪೂಜೆಯನ್ನಾ ",
+    "sourceRoman": "pūjeyannā ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪೂಜೆಯನ್ನಾ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0059",
+    "timelineIndex": 59,
+    "sourceId": "background",
+    "startSeconds": 118.32,
+    "endSeconds": 121.67,
+    "captionStartSeconds": 118.32,
+    "captionEndSeconds": 121.67,
+    "sourceOriginal": "ಕುಲದೇವತೆಯ ಅನುಗ್ರಹವನ್ನ ಪಡೆಯುವುದು ಮಾಹಾಳ್ಯ ",
+    "sourceRoman": "kuladēvateya anugrahavanna paḍeyuvudu māhāḷya ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕುಲದೇವತೆಯ ಅನುಗ್ರಹವನ್ನ ಪಡೆಯುವುದು ಮಾಹಾಳ್ಯ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0061",
+    "timelineIndex": 61,
+    "sourceId": "background",
+    "startSeconds": 121.68,
+    "endSeconds": 125.19,
+    "captionStartSeconds": 121.68,
+    "captionEndSeconds": 125.19,
+    "sourceOriginal": "ಪಕ್ಷ ಅಂಬುದು ಪಾಸ್ಟ್ ನಮ್ಮ ಪಾಸ್ಟ್ ಏನಿದೆ ",
+    "sourceRoman": "pakṣa aṁbudu pāsṭ namma pāsṭ ēnide ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪಕ್ಷ ಅಂಬುದು ಪಾಸ್ಟ್ ನಮ್ಮ ಪಾಸ್ಟ್ ಏನಿದೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0063",
+    "timelineIndex": 63,
+    "sourceId": "background",
+    "startSeconds": 125.2,
+    "endSeconds": 128.869,
+    "captionStartSeconds": 125.2,
+    "captionEndSeconds": 128.869,
+    "sourceOriginal": "ಅದನ್ನ ಸರಿ ಮಾಡುವುದು ಅಂತ ಹೇಳುತ್ತವೆ ",
+    "sourceRoman": "adanna sari māḍuvudu aṁta hēḷuttave ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದನ್ನ ಸರಿ ಮಾಡುವುದು ಅಂತ ಹೇಳುತ್ತವೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0065",
+    "timelineIndex": 65,
+    "sourceId": "background",
+    "startSeconds": 128.879,
+    "endSeconds": 131.83,
+    "captionStartSeconds": 128.879,
+    "captionEndSeconds": 131.83,
+    "sourceOriginal": "ನಮ್ಮ ಹಿರಿಯರನ್ನ ",
+    "sourceRoman": "namma hiriyaranna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಮ್ಮ ಹಿರಿಯರನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0067",
+    "timelineIndex": 67,
+    "sourceId": "background",
+    "startSeconds": 131.84,
+    "endSeconds": 135.43,
+    "captionStartSeconds": 131.84,
+    "captionEndSeconds": 135.43,
+    "sourceOriginal": "ನೆನಪು ಮಾಡಿಕೊಂಡು ಅವರು ನಮಗೆ ಈ ದೇಹ ಏನು ನಮಗೆ ",
+    "sourceRoman": "nenapu māḍikoṁḍu avaru namage ī dēha ēnu namage ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನೆನಪು ಮಾಡಿಕೊಂಡು ಅವರು ನಮಗೆ ಈ ದೇಹ ಏನು ನಮಗೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0069",
+    "timelineIndex": 69,
+    "sourceId": "background",
+    "startSeconds": 135.44,
+    "endSeconds": 139.03,
+    "captionStartSeconds": 135.44,
+    "captionEndSeconds": 139.03,
+    "sourceOriginal": "ಬುದ್ಧಿವಿಲಾಸ ನಮಗಏನೊಂದು ಅದ್ಭುತವಾದ ರೂಪ ",
+    "sourceRoman": "buddhivilāsa namagaēnoṁdu adbhutavāda rūpa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಬುದ್ಧಿವಿಲಾಸ ನಮಗಏನೊಂದು ಅದ್ಭುತವಾದ ರೂಪ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0071",
+    "timelineIndex": 71,
+    "sourceId": "background",
+    "startSeconds": 139.04,
+    "endSeconds": 141.19,
+    "captionStartSeconds": 139.04,
+    "captionEndSeconds": 141.19,
+    "sourceOriginal": "ಲಾವಣ್ಯಗಳನ್ನೆಲ್ಲ ಕೊಟ್ಟದ್ದು ಯಾರು ನಮ್ಮ ",
+    "sourceRoman": "lāvaṇyagaḷannella koṭṭaddu yāru namma ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಲಾವಣ್ಯಗಳನ್ನೆಲ್ಲ ಕೊಟ್ಟದ್ದು ಯಾರು ನಮ್ಮ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0073",
+    "timelineIndex": 73,
+    "sourceId": "background",
+    "startSeconds": 141.2,
+    "endSeconds": 142.71,
+    "captionStartSeconds": 141.2,
+    "captionEndSeconds": 142.71,
+    "sourceOriginal": "ಹಿರಿಯರು ",
+    "sourceRoman": "hiriyaru ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹಿರಿಯರು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0075",
+    "timelineIndex": 75,
+    "sourceId": "background",
+    "startSeconds": 142.72,
+    "endSeconds": 145.67,
+    "captionStartSeconds": 142.72,
+    "captionEndSeconds": 145.67,
+    "sourceOriginal": "ಅವರಿಗೆ ಥ್ಯಾಂಕ್ಸ್ ಹೇಳಿದ್ದೇವೆ ",
+    "sourceRoman": "avarige thyāṁks hēḷiddēve ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅವರಿಗೆ ಥ್ಯಾಂಕ್ಸ್ ಹೇಳಿದ್ದೇವೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0077",
+    "timelineIndex": 77,
+    "sourceId": "background",
+    "startSeconds": 145.68,
+    "endSeconds": 149.11,
+    "captionStartSeconds": 145.68,
+    "captionEndSeconds": 149.11,
+    "sourceOriginal": "ಸೋ ಮನಸ್ಸಿನಲ್ಲಿರುವ ಅಂಜಿಕೆ ಏನಿದೆ ಅದನ್ನೆಲ್ಲ ",
+    "sourceRoman": "sō manassinalliruva aṁjike ēnide adannella ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸೋ ಮನಸ್ಸಿನಲ್ಲಿರುವ ಹಂಜಿಕೆ ಏನಿದೆ ಅದನ್ನೆಲ್ಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0079",
+    "timelineIndex": 79,
+    "sourceId": "background",
+    "startSeconds": 149.12,
+    "endSeconds": 152.47,
+    "captionStartSeconds": 149.12,
+    "captionEndSeconds": 152.47,
+    "sourceOriginal": "ಕೂಡ ನಿವಾರಣೆ ಮಾಡಿಕೊಂಡು ಗ್ರಾಟಿಟ್ಯೂಡ್ ಥೆರಪಿ ",
+    "sourceRoman": "kūḍa nivāraṇe māḍikoṁḍu grāṭiṭyūḍ therapi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕೂಡ ನಿವಾರಣೆ ಮಾಡಿಕೊಂಡು ಗ್ರಾಟಿಟ್ಯೂಡ್ ಥೆರಪಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0081",
+    "timelineIndex": 81,
+    "sourceId": "background",
+    "startSeconds": 152.48,
+    "endSeconds": 156.71,
+    "captionStartSeconds": 152.48,
+    "captionEndSeconds": 156.71,
+    "sourceOriginal": "ಅಂತ ಹೆಸರು ಅದಕ್ಕೆ ಮಹಾಳಯ ನಮ್ಮ ಡಿಎನ್ಎ ನಮ್ಮ ",
+    "sourceRoman": "aṁta hesaru adakke mahāḷaya namma ḍiene namma ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಂತ ಹೆಸರು ಅದಕ್ಕೆ ಮಹಾಳಯ ನಮ್ಮ ಡಿಎನ್ಎ ನಮ್ಮ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0083",
+    "timelineIndex": 83,
+    "sourceId": "background",
+    "startSeconds": 156.72,
+    "endSeconds": 159.83,
+    "captionStartSeconds": 156.72,
+    "captionEndSeconds": 159.83,
+    "sourceOriginal": "ಡಿಎನ್ಎ ವನ್ನ ",
+    "sourceRoman": "ḍiene vanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಡಿಎನ್ಎ ವನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0085",
+    "timelineIndex": 85,
+    "sourceId": "background",
+    "startSeconds": 159.84,
+    "endSeconds": 162.15,
+    "captionStartSeconds": 159.84,
+    "captionEndSeconds": 162.15,
+    "sourceOriginal": "ಎಪಿಕ್ ಜೆನೆಟಿಕ್ಸ್ ಅಂತ ಹೇಳ್ತಾರೆ ಎಪಿಕ್ ",
+    "sourceRoman": "epik jeneṭiks aṁta hēḷtāre epik ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಎಪಿಕ್ ಜೆನೆಟಿಕ್ಸ್ ಅಂತ ಹೇಳ್ತಾರೆ ಎಪಿಕ್ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0087",
+    "timelineIndex": 87,
+    "sourceId": "background",
+    "startSeconds": 162.16,
+    "endSeconds": 165.27,
+    "captionStartSeconds": 162.16,
+    "captionEndSeconds": 165.27,
+    "sourceOriginal": "ಜೆನೆಟಿಕ್ಸ್ ಅವರಿಗೆ ",
+    "sourceRoman": "jeneṭiks avarige ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಜೆನೆಟಿಕ್ಸ್ ಅವರಿಗೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0089",
+    "timelineIndex": 89,
+    "sourceId": "background",
+    "startSeconds": 165.28,
+    "endSeconds": 170.229,
+    "captionStartSeconds": 165.28,
+    "captionEndSeconds": 170.229,
+    "sourceOriginal": "ನಾವು ಕೃತಜ್ಞತೆಯನ್ನ ಥ್ಯಾಂಕ್ಸ್ ಅನ್ನ ಹೇಳಿ ",
+    "sourceRoman": "nāvu kṛtajñateyanna thyāṁks anna hēḷi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಾವು ಕೃತಜ್ಞತೆಯನ್ನ ಥ್ಯಾಂಕ್ಸ್ ಅನ್ನ ಹೇಳಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0091",
+    "timelineIndex": 91,
+    "sourceId": "background",
+    "startSeconds": 170.239,
+    "endSeconds": 174.39,
+    "captionStartSeconds": 170.239,
+    "captionEndSeconds": 174.39,
+    "sourceOriginal": "ಆಸ್ವೀಜ ಮಾಸದಲ್ಲಿ ನವರಾತ್ರಿಯನ್ನ ",
+    "sourceRoman": "āsvīja māsadalli navarātriyanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆಸ್ವೀಜ ಮಾಸದಲ್ಲಿ ನವರಾತ್ರಿಯನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0093",
+    "timelineIndex": 93,
+    "sourceId": "background",
+    "startSeconds": 174.4,
+    "endSeconds": 176.07,
+    "captionStartSeconds": 174.4,
+    "captionEndSeconds": 176.07,
+    "sourceOriginal": "ತೊಡಗುತ್ತೇವೆ ",
+    "sourceRoman": "toḍaguttēve ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ತೊಡಗುತ್ತೇವೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0095",
+    "timelineIndex": 95,
+    "sourceId": "background",
+    "startSeconds": 176.08,
+    "endSeconds": 178.869,
+    "captionStartSeconds": 176.08,
+    "captionEndSeconds": 178.869,
+    "sourceOriginal": "ಈನ ನವರಾತ್ರಿ ಕಾಲ ",
+    "sourceRoman": "īna navarātri kāla ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಈನ ನವರಾತ್ರಿ ಕಾಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0097",
+    "timelineIndex": 97,
+    "sourceId": "background",
+    "startSeconds": 178.879,
+    "endSeconds": 182.149,
+    "captionStartSeconds": 178.879,
+    "captionEndSeconds": 182.149,
+    "sourceOriginal": "ಏನ್ ಹೇಳೋದು ಕ್ಲೈಮೇಟ್ ಚೇಂಜಿಂಗ್ ಕಾಲ ಅಂತ ",
+    "sourceRoman": "ēn hēḷōdu klaimēṭ cēṁjiṁg kāla aṁta ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಏನ್ ಹೇಳೋದು ಕ್ಲೈಮೇಟ್ ಚೇಂಜಿಂಗ್ ಕಾಲ ಅಂತ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0099",
+    "timelineIndex": 99,
+    "sourceId": "background",
+    "startSeconds": 182.159,
+    "endSeconds": 185.27,
+    "captionStartSeconds": 182.159,
+    "captionEndSeconds": 185.27,
+    "sourceOriginal": "ಆದ್ಮರಂದ ವ್ರತವನ್ನ ಮಾಡು ಮೈಯನ್ನ ಡಿಟಾಕ್ಸ್ ",
+    "sourceRoman": "ādmaraṁda vratavanna māḍu maiyanna ḍiṭāks ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆದ್ಮರಂದ ವ್ರತವನ್ನ ಮಾಡು ಮೈಯನ್ನ ಡಿಟಾಕ್ಸ್ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0101",
+    "timelineIndex": 101,
+    "sourceId": "background",
+    "startSeconds": 185.28,
+    "endSeconds": 187.91,
+    "captionStartSeconds": 185.28,
+    "captionEndSeconds": 187.91,
+    "sourceOriginal": "ಮಾಡಿಕೊಳ್ಳು ಅಂತ ಇದರಲ್ಲಿ ಮೊದಲು ಮೂರು ದಿನ ",
+    "sourceRoman": "māḍikoḷḷu aṁta idaralli modalu mūru dina ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮಾಡಿಕೊಳ್ಳು ಅಂತ ಇದರಲ್ಲಿ ಮೊದಲು ಮೂರು ದಿನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0103",
+    "timelineIndex": 103,
+    "sourceId": "background",
+    "startSeconds": 187.92,
+    "endSeconds": 191.35,
+    "captionStartSeconds": 187.92,
+    "captionEndSeconds": 191.35,
+    "sourceOriginal": "ದುರ್ಗೆ ದುರ್ಗೆ ",
+    "sourceRoman": "durge durge ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದುರ್ಗೆ ದುರ್ಗೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0105",
+    "timelineIndex": 105,
+    "sourceId": "background",
+    "startSeconds": 191.36,
+    "endSeconds": 192.869,
+    "captionStartSeconds": 191.36,
+    "captionEndSeconds": 192.869,
+    "sourceOriginal": "ದುರ್ಗತಿನಾಸಿನಿ ",
+    "sourceRoman": "durgatināsini ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದುರ್ಗತಿನಾಸಿನಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0107",
+    "timelineIndex": 107,
+    "sourceId": "background",
+    "startSeconds": 192.879,
+    "endSeconds": 195.35,
+    "captionStartSeconds": 192.879,
+    "captionEndSeconds": 195.35,
+    "sourceOriginal": "ಅಂತ ಹೇಳ್ತಾರೆ ",
+    "sourceRoman": "aṁta hēḷtāre ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಂತ ಹೇಳ್ತಾರೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0109",
+    "timelineIndex": 109,
+    "sourceId": "background",
+    "startSeconds": 195.36,
+    "endSeconds": 198.869,
+    "captionStartSeconds": 195.36,
+    "captionEndSeconds": 198.869,
+    "sourceOriginal": "ಅಂದರೆ ನಮಗೇನು ದುಃಖಗಳು ದುರ್ಗತಿಗಳು ",
+    "sourceRoman": "aṁdare namagēnu duḥkhagaḷu durgatigaḷu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಂದರೆ ನಮಗೇನು ದುಃಖಗಳು ದುರ್ಗತಿಗಳು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0111",
+    "timelineIndex": 111,
+    "sourceId": "background",
+    "startSeconds": 198.879,
+    "endSeconds": 202.39,
+    "captionStartSeconds": 198.879,
+    "captionEndSeconds": 202.39,
+    "sourceOriginal": "ಇದನ್ನೆಲ್ಲ ನಾಶನ ಮಾಡುತ್ತಾಳೆ ",
+    "sourceRoman": "idannella nāśana māḍuttāḷe ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇದನ್ನೆಲ್ಲ ನಾಶನ ಮಾಡುತ್ತಾಳೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0113",
+    "timelineIndex": 113,
+    "sourceId": "background",
+    "startSeconds": 202.4,
+    "endSeconds": 206.07,
+    "captionStartSeconds": 202.4,
+    "captionEndSeconds": 206.07,
+    "sourceOriginal": "ಆದ್ದರಿಂದ ಮೊದಲು ಮೂರು ದಿನ ಕೆಟ್ಟದಗಳನ್ನೆಲ್ಲ ",
+    "sourceRoman": "āddariṁda modalu mūru dina keṭṭadagaḷannella ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆದ್ದರಿಂದ ಮೊದಲು ಮೂರು ದಿನ ಕೆಟ್ಟದಗಳನ್ನೆಲ್ಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0115",
+    "timelineIndex": 115,
+    "sourceId": "background",
+    "startSeconds": 206.08,
+    "endSeconds": 208.869,
+    "captionStartSeconds": 206.08,
+    "captionEndSeconds": 208.869,
+    "sourceOriginal": "ನಾಶನ ಮಾಡಿ ಮತ್ತೆ ಮೂರು ದಿನ ಮಹಾಲಕ್ಷ್ಮಿ ",
+    "sourceRoman": "nāśana māḍi matte mūru dina mahālakṣmi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಾಶನ ಮಾಡಿ ಮತ್ತೆ ಮೂರು ದಿನ ಮಹಾಲಕ್ಷ್ಮಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0117",
+    "timelineIndex": 117,
+    "sourceId": "background",
+    "startSeconds": 208.879,
+    "endSeconds": 213.589,
+    "captionStartSeconds": 208.879,
+    "captionEndSeconds": 213.589,
+    "sourceOriginal": "ಆರಾಧನೆ ಒಳ್ಳದು ಸಂಪತ್ತು ಐಶ್ವರ್ಯ ಬೆಳಿಬೇಕು ",
+    "sourceRoman": "ārādhane oḷḷadu saṁpattu aiśvarya beḷibēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆರಾಧನೆ ಒಳ್ಳದು ಸಂಪತ್ತು ಐಶ್ವರ್ಯ ಬೆಳಿಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0119",
+    "timelineIndex": 119,
+    "sourceId": "background",
+    "startSeconds": 213.599,
+    "endSeconds": 216.229,
+    "captionStartSeconds": 213.599,
+    "captionEndSeconds": 216.229,
+    "sourceOriginal": "ಮೂರು ಸರಸ್ವತಿ ಐಶ್ವರ್ಯ ಬೆಳೆದರೆ ಬರಿ ಐಶ್ವರ್ಯ ",
+    "sourceRoman": "mūru sarasvati aiśvarya beḷedare bari aiśvarya ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮೂರು ಸರಸ್ವತಿ ಐಶ್ವರ್ಯ ಬೆಳೆದರೆ ಬರಿ ಐಶ್ವರ್ಯ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0121",
+    "timelineIndex": 121,
+    "sourceId": "background",
+    "startSeconds": 216.239,
+    "endSeconds": 218.869,
+    "captionStartSeconds": 216.239,
+    "captionEndSeconds": 218.869,
+    "sourceOriginal": "ಇದ್ದರೆ ಸಾಕ ಬುದ್ಧಿವಂತನಾಗಿರೋದು ಬೇಡವ ಕಾಸು ",
+    "sourceRoman": "iddare sāka buddhivaṁtanāgirōdu bēḍava kāsu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇದ್ದರೆ ಸಾಕ ಬುದ್ಧಿವಂತನಾಗಿರೋದು ಬೇಡವ ಕಾಸು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0123",
+    "timelineIndex": 123,
+    "sourceId": "background",
+    "startSeconds": 218.879,
+    "endSeconds": 222.229,
+    "captionStartSeconds": 218.879,
+    "captionEndSeconds": 222.229,
+    "sourceOriginal": "ಸಂಪಾದನೆ ಮಾಡಿದೆ ಕಾಸನ್ನ ಹೇಗೆ ಖರ್ಚು ಮಾಡಬೇಕು ",
+    "sourceRoman": "saṁpādane māḍide kāsanna hēge kharcu māḍabēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸಂಪಾದನೆ ಮಾಡಿದೆ ಕಾಸನ್ನ ಹೇಗೆ ಖರ್ಚು ಮಾಡಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0125",
+    "timelineIndex": 125,
+    "sourceId": "background",
+    "startSeconds": 222.239,
+    "endSeconds": 225.83,
+    "captionStartSeconds": 222.239,
+    "captionEndSeconds": 225.83,
+    "sourceOriginal": "ಅಂಬುದು ತಿಳಿಬೇಕು ಅದರಲ್ಲಿ ತಿಳುವಳಿಕೆ ಇರಬೇಕು ",
+    "sourceRoman": "aṁbudu tiḷibēku adaralli tiḷuvaḷike irabēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಂಬುದು ತಿಳಿಬೇಕು ಅದರಲ್ಲಿ ತಿಳುವಳಿಕೆ ಇರಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0127",
+    "timelineIndex": 127,
+    "sourceId": "background",
+    "startSeconds": 225.84,
+    "endSeconds": 230.55,
+    "captionStartSeconds": 225.84,
+    "captionEndSeconds": 230.55,
+    "sourceOriginal": "ಅದಕ್ಕೆ ಜ್ಞಾನ ಬೇಕು ಜ್ಞಾನಕ್ಕೆ ಸರಸ್ವತಿ ಅಂತ ",
+    "sourceRoman": "adakke jñāna bēku jñānakke sarasvati aṁta ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದಕ್ಕೆ ಜ್ಞಾನ ಬೇಕು ಜ್ಞಾನಕ್ಕೆ ಸರಸ್ವತಿ ಅಂತ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0129",
+    "timelineIndex": 129,
+    "sourceId": "background",
+    "startSeconds": 230.56,
+    "endSeconds": 235.03,
+    "captionStartSeconds": 230.56,
+    "captionEndSeconds": 235.03,
+    "sourceOriginal": "ಮೂರು ದೇವಿಯನ್ನ ಕೊಂಡಾಡುದು ಮಾತ್ರ ಅಲ್ಲ ",
+    "sourceRoman": "mūru dēviyanna koṁḍāḍudu mātra alla ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮೂರು ದೇವಿಯನ್ನ ಕೊಂಡಾಡುದು ಮಾತ್ರ ಅಲ್ಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0131",
+    "timelineIndex": 131,
+    "sourceId": "background",
+    "startSeconds": 235.04,
+    "endSeconds": 238.55,
+    "captionStartSeconds": 235.04,
+    "captionEndSeconds": 238.55,
+    "sourceOriginal": "ಮುಖ್ಯವಾ ಗಿ ನವರಾತ್ರಿಯಲ್ಲಿ ನಮ್ಮ ಕುಲದೇವರನ್ನ ",
+    "sourceRoman": "mukhyavā gi navarātriyalli namma kuladēvaranna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮುಖ್ಯವಾ ಗಿ ನವರಾತ್ರಿಯಲ್ಲಿ ನಮ್ಮ ಕುಲದೇವರನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0133",
+    "timelineIndex": 133,
+    "sourceId": "background",
+    "startSeconds": 238.56,
+    "endSeconds": 242.789,
+    "captionStartSeconds": 238.56,
+    "captionEndSeconds": 242.789,
+    "sourceOriginal": "ವಿಶೇಷವಾಗಿ ಆರಾಧನೆ ಮಾಡುವುದೇ ನವರಾತ್ರಿ ಅಖಂಠ ",
+    "sourceRoman": "viśēṣavāgi ārādhane māḍuvudē navarātri akhaṁṭha ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ವಿಶೇಷವಾಗಿ ಆರಾಧನೆ ಮಾಡುವುದೇ ನವರಾತ್ರಿ ಅಖಂಠ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0135",
+    "timelineIndex": 135,
+    "sourceId": "background",
+    "startSeconds": 242.799,
+    "endSeconds": 247.27,
+    "captionStartSeconds": 242.799,
+    "captionEndSeconds": 247.27,
+    "sourceOriginal": "ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ ಮಾಡಿ ಅದರಲ್ಲಿ ತುಪ್ಪದ ದೀಪ ",
+    "sourceRoman": "dīpa sthāpaneyanna māḍi adaralli tuppada dīpa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ ಮಾಡಿ ಅದರಲ್ಲಿ ತುಪ್ಪದ ದೀಪ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0137",
+    "timelineIndex": 137,
+    "sourceId": "background",
+    "startSeconds": 247.28,
+    "endSeconds": 251.35,
+    "captionStartSeconds": 247.28,
+    "captionEndSeconds": 251.35,
+    "sourceOriginal": "ಮುಖ್ಯವಾಗಿ ತುಪ್ಪದಿಂದ ದೀಪ ಏರಿಸಿದಾಗ ಆ ತುಪ್ಪ ",
+    "sourceRoman": "mukhyavāgi tuppadiṁda dīpa ērisidāga ā tuppa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮುಖ್ಯವಾಗಿ ತುಪ್ಪದಿಂದ ದೀಪ ಏರಿಸಿದಾಗ ಆ ತುಪ್ಪ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0139",
+    "timelineIndex": 139,
+    "sourceId": "background",
+    "startSeconds": 251.36,
+    "endSeconds": 254.949,
+    "captionStartSeconds": 251.36,
+    "captionEndSeconds": 254.949,
+    "sourceOriginal": "ನಮ್ಮ ಏನು ವಾತಾವರಣದಲ್ಲಿರುವ ಆಕ್ಸಿಜನ್ ಇದೆ ",
+    "sourceRoman": "namma ēnu vātāvaraṇadalliruva āksijan ide ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಮ್ಮ ಏನು ವಾತಾವರಣದಲ್ಲಿರುವ ಆಕ್ಸಿಜನ್ ಇದೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0141",
+    "timelineIndex": 141,
+    "sourceId": "background",
+    "startSeconds": 254.959,
+    "endSeconds": 258.15,
+    "captionStartSeconds": 254.959,
+    "captionEndSeconds": 258.15,
+    "sourceOriginal": "ಅದನ್ನ ಪ್ಯೂರಿಫೈ ಮಾಡುತ್ತೆ ಅಂತ ಗಾಳಿಯನ್ನ ",
+    "sourceRoman": "adanna pyūriphai māḍutte aṁta gāḷiyanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದನ್ನ ಪ್ಯೂರಿಫೈ ಮಾಡುತ್ತೆ ಅಂತ ಗಾಳಿಯನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0143",
+    "timelineIndex": 143,
+    "sourceId": "background",
+    "startSeconds": 258.16,
+    "endSeconds": 260.71,
+    "captionStartSeconds": 258.16,
+    "captionEndSeconds": 260.71,
+    "sourceOriginal": "ಶುದ್ಧ ಮಾಡಿಕೊಡುತ್ತೆ ",
+    "sourceRoman": "śuddha māḍikoḍutte ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಶುದ್ಧ ಮಾಡಿಕೊಡುತ್ತೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0145",
+    "timelineIndex": 145,
+    "sourceId": "background",
+    "startSeconds": 260.72,
+    "endSeconds": 264.629,
+    "captionStartSeconds": 260.72,
+    "captionEndSeconds": 264.629,
+    "sourceOriginal": "ಆಮೇಲೆ ಒಂದೇ ದೀಪ ನಂದಾದೀಪ ಒಂದೇ ದೀಪವನ್ನ ",
+    "sourceRoman": "āmēle oṁdē dīpa naṁdādīpa oṁdē dīpavanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆಮೇಲೆ ಒಂದೇ ದೀಪ ನಂದಾದೀಪ ಒಂದೇ ದೀಪವನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0147",
+    "timelineIndex": 147,
+    "sourceId": "background",
+    "startSeconds": 264.639,
+    "endSeconds": 267.03,
+    "captionStartSeconds": 264.639,
+    "captionEndSeconds": 267.03,
+    "sourceOriginal": "ಅದಲ್ಲ ಅಲ್ಲಾಡದೆ ಇರುವ ದೀಪವನ್ನ ನೇರಾಗಿ ",
+    "sourceRoman": "adalla allāḍade iruva dīpavanna nērāgi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದಲ್ಲ ಅಲ್ಲಾಡದೆ ಇರುವ ದೀಪವನ್ನ ನೇರಾಗಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0149",
+    "timelineIndex": 149,
+    "sourceId": "background",
+    "startSeconds": 267.04,
+    "endSeconds": 269.67,
+    "captionStartSeconds": 267.04,
+    "captionEndSeconds": 269.67,
+    "sourceOriginal": "ಕಣ್ಣಿಂದ ನೋಡಿ ನೋಡಿ ನೋಡಿ ಹತ್ತು ನಿಮಿಷದಾಗಲೂ ",
+    "sourceRoman": "kaṇṇiṁda nōḍi nōḍi nōḍi hattu nimiṣadāgalū ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕಣ್ಣಿಂದ ನೋಡಿ ನೋಡಿ ನೋಡಿಹ ನಿಮಿಷದಾಗಲೂ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0151",
+    "timelineIndex": 151,
+    "sourceId": "background",
+    "startSeconds": 269.68,
+    "endSeconds": 273.749,
+    "captionStartSeconds": 269.68,
+    "captionEndSeconds": 273.749,
+    "sourceOriginal": "ನೋಡಿದರೆ ಅದೊಂದು ಯೋಗ ತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ ",
+    "sourceRoman": "nōḍidare adoṁdu yōga trāṭaka yōga aṁta idanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನೋಡಿದರೆ ಅದೊಂದು ಯೋಗ ತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0153",
+    "timelineIndex": 153,
+    "sourceId": "background",
+    "startSeconds": 273.759,
+    "endSeconds": 277.67,
+    "captionStartSeconds": 273.759,
+    "captionEndSeconds": 277.67,
+    "sourceOriginal": "ಹೇಳ್ತಾರೆ ತ್ರಾಟಕ ಅಭ್ಯಾಸ ಅಂತ ಹೇಳ್ತಾರೆ ಇದು ",
+    "sourceRoman": "hēḷtāre trāṭaka abhyāsa aṁta hēḷtāre idu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹೇಳ್ತಾರೆ ತ್ರಾಟಕ ಅಭ್ಯಾಸ ಅಂತ ಹೇಳ್ತಾರೆ ಇದು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0155",
+    "timelineIndex": 155,
+    "sourceId": "background",
+    "startSeconds": 277.68,
+    "endSeconds": 279.35,
+    "captionStartSeconds": 277.68,
+    "captionEndSeconds": 279.35,
+    "sourceOriginal": "ಮನಸ್ಸಿನ ",
+    "sourceRoman": "manassina ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮನಸ್ಸಿನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0157",
+    "timelineIndex": 157,
+    "sourceId": "background",
+    "startSeconds": 279.36,
+    "endSeconds": 281.749,
+    "captionStartSeconds": 279.36,
+    "captionEndSeconds": 281.749,
+    "sourceOriginal": "ಒಂದು ಸ್ಥಿತಿಯಲ್ಲಿ ಇಡುತ್ತೆ ಮನಸ್ಸು ಒಂದು ",
+    "sourceRoman": "oṁdu sthitiyalli iḍutte manassu oṁdu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಒಂದು ಸ್ಥಿತಿಯಲ್ಲಿ ಇಡುತ್ತೆ ಮನಸ್ಸು ಒಂದು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0159",
+    "timelineIndex": 159,
+    "sourceId": "background",
+    "startSeconds": 281.759,
+    "endSeconds": 285.59,
+    "captionStartSeconds": 281.759,
+    "captionEndSeconds": 285.59,
+    "sourceOriginal": "ಸ್ಥಿತಿಯಲ್ಲಿ ಆಗಿತು ಅಂದ್ರೆ ನಾವು ಏನನ್ನ ",
+    "sourceRoman": "sthitiyalli āgitu aṁdre nāvu ēnanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸ್ಥಿತಿಯಲ್ಲಿ ಆಗಿತು ಅಂದ್ರೆ ನಾವು ಏನನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0161",
+    "timelineIndex": 161,
+    "sourceId": "background",
+    "startSeconds": 285.6,
+    "endSeconds": 288.87,
+    "captionStartSeconds": 285.6,
+    "captionEndSeconds": 288.87,
+    "sourceOriginal": "ಬಯಸುತ್ತೇವೆ ಏನನ್ನ ಅಪೇಕ್ಷೆ ಪಡುತ್ತೇವೆ ಅದನ್ನ ",
+    "sourceRoman": "bayasuttēve ēnanna apēkṣe paḍuttēve adanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಬಯಸುತ್ತೇವೆ ಏನನ್ನ ಅಪೇಕ್ಷೆ ಪಡುತ್ತೇವೆ ಅದನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0163",
+    "timelineIndex": 163,
+    "sourceId": "background",
+    "startSeconds": 288.88,
+    "endSeconds": 292.71,
+    "captionStartSeconds": 288.88,
+    "captionEndSeconds": 292.71,
+    "sourceOriginal": "ಈ ಮನಸ್ಸೇ ನಿರ್ಣಯ ಮಾಡುತ್ತೆ ",
+    "sourceRoman": "ī manassē nirṇaya māḍutte ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಈ ಮನಸ್ಸೇ ನಿರ್ಣಯ ಮಾಡುತ್ತೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0165",
+    "timelineIndex": 165,
+    "sourceId": "background",
+    "startSeconds": 292.72,
+    "endSeconds": 296.95,
+    "captionStartSeconds": 292.72,
+    "captionEndSeconds": 296.95,
+    "sourceOriginal": "ನಾವೇನು ದೇವರು ಪ್ರಪಂಚದ ಮಹಾಶಕ್ತಿಯೇ ದೇವರು ",
+    "sourceRoman": "nāvēnu dēvaru prapaṁcada mahāśaktiyē dēvaru ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಾವೇನು ದೇವರು ಪ್ರಪಂಚ ಪಂಚದ ಮಹಾಶಕ್ತಿಯ ದೇವರು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0167",
+    "timelineIndex": 167,
+    "sourceId": "background",
+    "startSeconds": 296.96,
+    "endSeconds": 299.909,
+    "captionStartSeconds": 296.96,
+    "captionEndSeconds": 299.909,
+    "sourceOriginal": "ಈ ಪ್ರಪಂಚದ ಮಹಾಶಕ್ತಿಯಾಗಿರುವ ಭಗವಂತನ ",
+    "sourceRoman": "ī prapaṁcada mahāśaktiyāgiruva bhagavaṁtana ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಈ ಪ್ರಪಂಚದ ಮಹಾಶಕ್ತಿಯಾಗಿರುವ ಭಗವಂತನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0169",
+    "timelineIndex": 169,
+    "sourceId": "background",
+    "startSeconds": 299.919,
+    "endSeconds": 302.71,
+    "captionStartSeconds": 299.919,
+    "captionEndSeconds": 302.71,
+    "sourceOriginal": "ಮೂಲ್ಯಕವಾಗಿ ನಮ್ಮ ಆಸೆಗಳನ್ನ ಪೂರ್ಣ ಮಾಡಕೊಬೇಕು ",
+    "sourceRoman": "mūlyakavāgi namma āsegaḷanna pūrṇa māḍakobēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮೂಲ್ಯಕವಾಗಿ ನಮ್ಮ ಆಸೆಗಳನ್ನ ಪೂರ್ಣ ಮಾಡಕೊಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0171",
+    "timelineIndex": 171,
+    "sourceId": "background",
+    "startSeconds": 302.72,
+    "endSeconds": 306.31,
+    "captionStartSeconds": 302.72,
+    "captionEndSeconds": 306.31,
+    "sourceOriginal": "ಅಂದ್ರೆ ಮನಸ್ಸು ಸರಿಯಾದಿ ಸ್ಥಿತಿಯಲ್ಲಿ ಇರಬೇಕು ",
+    "sourceRoman": "aṁdre manassu sariyādi sthitiyalli irabēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಂದ್ರೆ ಮನಸ್ಸು ಸರಿಯಾದಿ ಸ್ಥಿತಿಯಲ್ಲಿ ಇರಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0173",
+    "timelineIndex": 173,
+    "sourceId": "background",
+    "startSeconds": 306.32,
+    "endSeconds": 309.43,
+    "captionStartSeconds": 306.32,
+    "captionEndSeconds": 309.43,
+    "sourceOriginal": "ಮನಸ್ಸು ಸರಿಯಾದ ಸ್ಥಿತಿಯಲ್ಲಿ ಇದ್ದಾಗ ನೀವು ",
+    "sourceRoman": "manassu sariyāda sthitiyalli iddāga nīvu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮನಸ್ಸು ಸರಿಯಾದ ಸ್ಥಿತಿಯಲ್ಲಿ ಇದ್ದಾಗ ನೀವು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0175",
+    "timelineIndex": 175,
+    "sourceId": "background",
+    "startSeconds": 309.44,
+    "endSeconds": 312.39,
+    "captionStartSeconds": 309.44,
+    "captionEndSeconds": 312.39,
+    "sourceOriginal": "ಏನು ಕೇಳಿದ್ರಿ ಅದು ನಡತೆ ",
+    "sourceRoman": "ēnu kēḷidri adu naḍate ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಏನು ಕೇಳಿದ್ರಿ ಅದು ನಡತೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0177",
+    "timelineIndex": 177,
+    "sourceId": "background",
+    "startSeconds": 312.4,
+    "endSeconds": 317.749,
+    "captionStartSeconds": 312.4,
+    "captionEndSeconds": 317.749,
+    "sourceOriginal": "ಅದಕ್ಕೆ ಈ ದೀಪ ಇತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ ",
+    "sourceRoman": "adakke ī dīpa itrāṭaka yōga aṁta idanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದಕ್ಕೆ ಈ ದೀಪ ಇತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0179",
+    "timelineIndex": 179,
+    "sourceId": "background",
+    "startSeconds": 317.759,
+    "endSeconds": 319.749,
+    "captionStartSeconds": 317.759,
+    "captionEndSeconds": 319.749,
+    "sourceOriginal": "ಮಾಡಿದಾಗ ",
+    "sourceRoman": "māḍidāga ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮಾಡಿದಾಗ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0181",
+    "timelineIndex": 181,
+    "sourceId": "background",
+    "startSeconds": 319.759,
+    "endSeconds": 323.029,
+    "captionStartSeconds": 319.759,
+    "captionEndSeconds": 323.029,
+    "sourceOriginal": "ನಾವು ಹಿರಿಯರನ್ನ ಕೊಂಡಾಡಿ ಕುಲದೇವತೆಯನ್ನು ",
+    "sourceRoman": "nāvu hiriyaranna koṁḍāḍi kuladēvateyannu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಾವು ಹಿರಿಯರನ್ನ ಕೊಂಡಾಡಿ ಕುಲದೇವತೆಯನ್ನು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0183",
+    "timelineIndex": 183,
+    "sourceId": "background",
+    "startSeconds": 323.039,
+    "endSeconds": 326.55,
+    "captionStartSeconds": 323.039,
+    "captionEndSeconds": 326.55,
+    "sourceOriginal": "ಕೊಂಡಾಡಿ ನಮಗೆಕುಲ ಕುಲದೇವರ ಮಾಡದೆ ಕುಲದೇವರ ",
+    "sourceRoman": "koṁḍāḍi namagekula kuladēvara māḍade kuladēvara ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕೊಂಡಾಡಿ ನಮಗೆಕುಲ ಕುಲದೇವರ ಮಾಡದೆ ಕುಲದೇವರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0185",
+    "timelineIndex": 185,
+    "sourceId": "background",
+    "startSeconds": 326.56,
+    "endSeconds": 329.67,
+    "captionStartSeconds": 326.56,
+    "captionEndSeconds": 329.67,
+    "sourceOriginal": "ಅನುಗ್ರಹ ಇಲ್ಲದೆ ಯಾವ ದೇವರ ಅನುಗ್ರಹವು ಇಲ್ಲ ",
+    "sourceRoman": "anugraha illade yāva dēvara anugrahavu illa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅನುಗ್ರಹ ಇಲ್ಲದೆ ಯಾವ ದೇವರ ಅನುಗ್ರಹವು ಇಲ್ಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0187",
+    "timelineIndex": 187,
+    "sourceId": "background",
+    "startSeconds": 329.68,
+    "endSeconds": 332.39,
+    "captionStartSeconds": 329.68,
+    "captionEndSeconds": 332.39,
+    "sourceOriginal": "ಏನೇ ಕಾರ್ಯಗಳು ಮಾಡಲಿ ಕುಲದೇವತೆಯನ್ನ ಆರಾಧನೆ ",
+    "sourceRoman": "ēnē kāryagaḷu māḍali kuladēvateyanna ārādhane ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಏನೇ ಕಾರ್ಯಗಳು ಮಾಡಲಿ ಕುಲದೇವತೆಯನ್ನ ಆರಾಧನೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0189",
+    "timelineIndex": 189,
+    "sourceId": "background",
+    "startSeconds": 332.4,
+    "endSeconds": 334.629,
+    "captionStartSeconds": 332.4,
+    "captionEndSeconds": 334.629,
+    "sourceOriginal": "ಮಾಡುತ್ತೇವೆ ಅದರಿಂದ ಒಂಬತ್ತು ದಿನಗಳು ನಿಮ್ಮ ",
+    "sourceRoman": "māḍuttēve adariṁda oṁbattu dinagaḷu nimma ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮಾಡುತ್ತೇವೆ ಅದರಿಂದ ಒಂಬತ್ತು ದಿನಗಳು ನಿಮ್ಮ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0191",
+    "timelineIndex": 191,
+    "sourceId": "background",
+    "startSeconds": 334.639,
+    "endSeconds": 336.95,
+    "captionStartSeconds": 334.639,
+    "captionEndSeconds": 336.95,
+    "sourceOriginal": "ಕುಲದೇವರ ನಿಮಿತ್ತವಾಗಿ ",
+    "sourceRoman": "kuladēvara nimittavāgi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕುಲದೇವರ ನಿಮಿತ್ತವಾಗಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0193",
+    "timelineIndex": 193,
+    "sourceId": "background",
+    "startSeconds": 336.96,
+    "endSeconds": 340.23,
+    "captionStartSeconds": 336.96,
+    "captionEndSeconds": 340.23,
+    "sourceOriginal": "ಅಖಂಠ ದೀಪವನ್ನ ಸ್ಥಾಪನೆ ಮಾಡಿದ ಸಂಪ್ರದಾಯ ಇದೆ ",
+    "sourceRoman": "akhaṁṭha dīpavanna sthāpane māḍida saṁpradāya ide ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಖಂಠ ದೀಪವನ್ನ ಸ್ಥಾಪನೆ ಮಾಡಿದ ಸಂಪ್ರದಾಯ ಇದೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0195",
+    "timelineIndex": 195,
+    "sourceId": "background",
+    "startSeconds": 340.24,
+    "endSeconds": 342.55,
+    "captionStartSeconds": 340.24,
+    "captionEndSeconds": 342.55,
+    "sourceOriginal": "ಸಂಪ್ರದಾಯ ದೀಪ ಏರಿಸುದಲ್ಲಿ ಏನು ಸಂಪ್ರದಾಯ ",
+    "sourceRoman": "saṁpradāya dīpa ērisudalli ēnu saṁpradāya ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸಂಪ್ರದಾಯ ದೀಪ ಏರಿಸುದಲ್ಲಿ ಏನು ಸಂಪ್ರದಾಯ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0197",
+    "timelineIndex": 197,
+    "sourceId": "background",
+    "startSeconds": 342.56,
+    "endSeconds": 345.51,
+    "captionStartSeconds": 342.56,
+    "captionEndSeconds": 345.51,
+    "sourceOriginal": "ಹಾಗೆ ಅಂತಿಲ್ಲ ಏನೋ ಕಾರಣದಿಂದ ದೊಡ್ಡವರು ",
+    "sourceRoman": "hāge aṁtilla ēnō kāraṇadiṁda doḍḍavaru ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹಾಗೆ ಅಂತಿಲ್ಲ ಏನೋ ಕಾರಣದಿಂದ ದೊಡ್ಡವರು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0199",
+    "timelineIndex": 199,
+    "sourceId": "background",
+    "startSeconds": 345.52,
+    "endSeconds": 349.43,
+    "captionStartSeconds": 345.52,
+    "captionEndSeconds": 349.43,
+    "sourceOriginal": "ಬಿಟ್ಟಿರಬಹುದು ಇದನಲ್ಲಿ ಒಂಬತ್ತು ದಿನವೂ ಅಖಂಡ ",
+    "sourceRoman": "biṭṭirabahudu idanalli oṁbattu dinavū akhaṁḍa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಬಿಟ್ಟಿರಬಹುದು ಇದನಲ್ಲಿ ಒಂಬತ್ತು ದಿನವೂ ಅಖಂಡ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0201",
+    "timelineIndex": 201,
+    "sourceId": "background",
+    "startSeconds": 349.44,
+    "endSeconds": 351.99,
+    "captionStartSeconds": 349.44,
+    "captionEndSeconds": 351.99,
+    "sourceOriginal": "ದೀಪ ಏರಿಸುದು ಒಂದು ಸಂಪ್ರದಾಯ ಐದು ದಿನ ಮಾತ್ರ ",
+    "sourceRoman": "dīpa ērisudu oṁdu saṁpradāya aidu dina mātra ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದೀಪ ಏರಿಸುದು ಒಂದು ಸಂಪ್ರದಾಯ ಐದು ದಿನ ಮಾತ್ರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0203",
+    "timelineIndex": 203,
+    "sourceId": "background",
+    "startSeconds": 352.0,
+    "endSeconds": 355.189,
+    "captionStartSeconds": 352.0,
+    "captionEndSeconds": 355.189,
+    "sourceOriginal": "ಏರಿಸುದು ಅಥವಾ ಮೂಲ ನಕ್ಷತ್ರ ಆರಂಭಿಸಿ ಮೂಲ ",
+    "sourceRoman": "ērisudu athavā mūla nakṣatra āraṁbhisi mūla ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಏರಿಸುದು ಅಥವಾ ಮೂಲ ನಕ್ಷತ್ರ ಆರಂಭಿಸಿ ಮೂಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0205",
+    "timelineIndex": 205,
+    "sourceId": "background",
+    "startSeconds": 355.199,
+    "endSeconds": 358.629,
+    "captionStartSeconds": 355.199,
+    "captionEndSeconds": 358.629,
+    "sourceOriginal": "ಪೂರ್ವಾಷಡ ಉತ್ತರಾಷಾಡ ಮೂರು ದಿನ ಶ್ರವಣ ",
+    "sourceRoman": "pūrvāṣaḍa uttarāṣāḍa mūru dina śravaṇa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪೂರ್ವಾಷಡ ಉತ್ತರಾಷಾಡ ಮೂರು ದಿನ ಶ್ರವಣ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0207",
+    "timelineIndex": 207,
+    "sourceId": "background",
+    "startSeconds": 358.639,
+    "endSeconds": 361.11,
+    "captionStartSeconds": 358.639,
+    "captionEndSeconds": 361.11,
+    "sourceOriginal": "ನಕ್ಷತ್ರದನ್ನ ವಿಸರ್ಜನೆ ಮಾಡುುದು ಕೊನೆ ಮೂರು ",
+    "sourceRoman": "nakṣatradanna visarjane māḍuudu kone mūru ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಕ್ಷತ್ರದನ್ನ ವಿಸರ್ಜನೆ ಮಾಡುುದು ಕೊನೆ ಮೂರು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0209",
+    "timelineIndex": 209,
+    "sourceId": "background",
+    "startSeconds": 361.12,
+    "endSeconds": 364.23,
+    "captionStartSeconds": 361.12,
+    "captionEndSeconds": 364.23,
+    "sourceOriginal": "ದಿನದಲ್ಲಿ ಅಖಂಠ ದೀಪವನ್ನ ಕುಲದೇವರನ್ನ ನಿಮಿತ್ತ ",
+    "sourceRoman": "dinadalli akhaṁṭha dīpavanna kuladēvaranna nimitta ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದಿನದಲ್ಲಿ ಅಖಂಠ ದೀಪವನ್ನ ಕುಲದೇವರನ್ನ ನಿಮಿತ್ತ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0211",
+    "timelineIndex": 211,
+    "sourceId": "background",
+    "startSeconds": 364.24,
+    "endSeconds": 366.79,
+    "captionStartSeconds": 364.24,
+    "captionEndSeconds": 366.79,
+    "sourceOriginal": "ಮಾಡಿಕೊಂಡು ಏರಿಸುುದು ಅಂತ ಅದೇ ರೀತಿಯಲ್ಲಿ ",
+    "sourceRoman": "māḍikoṁḍu ērisuudu aṁta adē rītiyalli ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮಾಡಿಕೊಂಡು ಏರಿಸುುದು ಅಂತ ಅದೇ ರೀತಿಯಲ್ಲಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0213",
+    "timelineIndex": 213,
+    "sourceId": "background",
+    "startSeconds": 366.8,
+    "endSeconds": 369.189,
+    "captionStartSeconds": 366.8,
+    "captionEndSeconds": 369.189,
+    "sourceOriginal": "ಹಿಟ್ಟಿನ ದೀಪ ನಿತ್ಯವು ಏರಿಸುವುದು ಅಂತ ",
+    "sourceRoman": "hiṭṭina dīpa nityavu ērisuvudu aṁta ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹಿಟ್ಟಿನ ದೀಪ ನಿತ್ಯವು ಏರಿಸುವುದು ಅಂತ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0215",
+    "timelineIndex": 215,
+    "sourceId": "background",
+    "startSeconds": 369.199,
+    "endSeconds": 372.87,
+    "captionStartSeconds": 369.199,
+    "captionEndSeconds": 372.87,
+    "sourceOriginal": "ನವರಾತ್ರಿಯಲ್ಲಿ ಇರುವ ವಿಷಯಗಳು ಸೋ ಇವತ್ತು ",
+    "sourceRoman": "navarātriyalli iruva viṣayagaḷu sō ivattu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನವರಾತ್ರಿಯಲ್ಲಿ ಇರುವ ವಿಷಯಗಳು ಸೋ ಇವತ್ತು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0217",
+    "timelineIndex": 217,
+    "sourceId": "background",
+    "startSeconds": 372.88,
+    "endSeconds": 374.39,
+    "captionStartSeconds": 372.88,
+    "captionEndSeconds": 374.39,
+    "sourceOriginal": "ನಾವು ",
+    "sourceRoman": "nāvu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಾವು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0219",
+    "timelineIndex": 219,
+    "sourceId": "background",
+    "startSeconds": 374.4,
+    "endSeconds": 377.35,
+    "captionStartSeconds": 374.4,
+    "captionEndSeconds": 377.35,
+    "sourceOriginal": "ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ ಅಖಂ ದೀಪದ ಸ್ಥಾಪನೆ ",
+    "sourceRoman": "muṁde baruva viḍiyōnalli akhaṁ dīpada sthāpane ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ ಅಖಂ ದೀಪದ ಸ್ಥಾಪನೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0221",
+    "timelineIndex": 221,
+    "sourceId": "background",
+    "startSeconds": 377.36,
+    "endSeconds": 380.469,
+    "captionStartSeconds": 377.36,
+    "captionEndSeconds": 380.469,
+    "sourceOriginal": "ಅದಕ್ಕೆ ಸಂಕಲ್ಪ ಏನು ಮಾಡಬೇಕು ಅಂಬುದನ್ನೆಲ್ಲ ",
+    "sourceRoman": "adakke saṁkalpa ēnu māḍabēku aṁbudannella ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದಕ್ಕೆ ಸಂಕಲ್ಪ ಏನು ಮಾಡಬೇಕು ಅಂಬುದನ್ನೆಲ್ಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0223",
+    "timelineIndex": 223,
+    "sourceId": "background",
+    "startSeconds": 380.479,
+    "endSeconds": 383.11,
+    "captionStartSeconds": 380.479,
+    "captionEndSeconds": 383.11,
+    "sourceOriginal": "ಕೊಡ್ತಾ ಇದ್ದೇವೆ ಮೊದಲು ಮುಖ್ಯವಾಗಿ ದೊಡ್ಡ ದೀಪ ",
+    "sourceRoman": "koḍtā iddēve modalu mukhyavāgi doḍḍa dīpa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕೊಡ್ತಾ ಇದ್ದೇವೆ ಮೊದಲು ಮುಖ್ಯವಾಗಿ ದೊಡ್ಡ ದೀಪ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0225",
+    "timelineIndex": 225,
+    "sourceId": "background",
+    "startSeconds": 383.12,
+    "endSeconds": 386.39,
+    "captionStartSeconds": 383.12,
+    "captionEndSeconds": 386.39,
+    "sourceOriginal": "ಬೇಕು ಅದು ಮಣ್ಣಿನದ್ದು ಹಿತ್ತಾಳಿದು ನಮ್ಮ ",
+    "sourceRoman": "bēku adu maṇṇinaddu hittāḷidu namma ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಬೇಕು ಅದು ಮಣ್ಣಿನದ್ದು ಹಿತ್ತಾಳಿದು ನಮ್ಮ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0227",
+    "timelineIndex": 227,
+    "sourceId": "background",
+    "startSeconds": 386.4,
+    "endSeconds": 387.909,
+    "captionStartSeconds": 386.4,
+    "captionEndSeconds": 387.909,
+    "sourceOriginal": "ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿಯದೆ ಆಚಾರ್ಯರ ಬೆಳ್ಳಿ ",
+    "sourceRoman": "maneyalli beḷḷiyade ācāryara beḷḷi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿಯದೆ ಆಚಾರ್ಯರ ಬೆಳ್ಳಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0229",
+    "timelineIndex": 229,
+    "sourceId": "background",
+    "startSeconds": 387.919,
+    "endSeconds": 389.909,
+    "captionStartSeconds": 387.919,
+    "captionEndSeconds": 389.909,
+    "sourceOriginal": "ಇಡಬಹುದು ಬೆಳ್ಳಿ ಬಂಗಾರ ಇದ್ರೆ ಬಂಗಾರ ",
+    "sourceRoman": "iḍabahudu beḷḷi baṁgāra idre baṁgāra ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇಡಬಹುದು ಬೆಳ್ಳಿ ಬಂಗಾರ ಇದ್ರೆ ಬಂಗಾರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0231",
+    "timelineIndex": 231,
+    "sourceId": "background",
+    "startSeconds": 389.919,
+    "endSeconds": 393.51,
+    "captionStartSeconds": 389.919,
+    "captionEndSeconds": 393.51,
+    "sourceOriginal": "ದೀಪವನ್ನು ಬೆಳಗಬಹುದು ಒಳ್ಳ ಬತ್ತಿ ನಿಂತು ",
+    "sourceRoman": "dīpavannu beḷagabahudu oḷḷa batti niṁtu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದೀಪವನ್ನು ಬೆಳಗಬಹುದು ಒಳ್ಳ ಬತ್ತಿ ನಿಂತು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0233",
+    "timelineIndex": 233,
+    "sourceId": "background",
+    "startSeconds": 393.52,
+    "endSeconds": 396.87,
+    "captionStartSeconds": 393.52,
+    "captionEndSeconds": 396.87,
+    "sourceOriginal": "ಉರಿವಂತ ಬತ್ತಿ ಅದನ್ನ ಆಗಾಗ ನೋಡಿ ಅದನಲ್ಲಿ ",
+    "sourceRoman": "urivaṁta batti adanna āgāga nōḍi adanalli ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಉರಿವಂತ ಬತ್ತಿ ಅದನ್ನ ಆಗಾಗ ನೋಡಿ ಅದನಲ್ಲಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0235",
+    "timelineIndex": 235,
+    "sourceId": "background",
+    "startSeconds": 396.88,
+    "endSeconds": 399.11,
+    "captionStartSeconds": 396.88,
+    "captionEndSeconds": 399.11,
+    "sourceOriginal": "ಎಣ್ಣೆಯೋ ತುಪ್ಪವೋ ಸೇರಿಸ್ತ್ತಾ ಬರಬೇಕು ಅದು ",
+    "sourceRoman": "eṇṇeyō tuppavō sēristtā barabēku adu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಎಣ್ಣೆಯೋ ತುಪ್ಪವೋ ಸೇರಿಸ್ತ್ತಾ ಬರಬೇಕು ಅದು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0237",
+    "timelineIndex": 237,
+    "sourceId": "background",
+    "startSeconds": 399.12,
+    "endSeconds": 402.95,
+    "captionStartSeconds": 399.12,
+    "captionEndSeconds": 402.95,
+    "sourceOriginal": "ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅಖಂಠ ಹಾಗಂದ್ರೆ ಏನು ",
+    "sourceRoman": "oṁbattu dinagaḷu biḍade akhaṁṭha hāgaṁdre ēnu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅಖಂಠ ಹಾಗಂದ್ರೆ ಏನು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0239",
+    "timelineIndex": 239,
+    "sourceId": "background",
+    "startSeconds": 402.96,
+    "endSeconds": 406.07,
+    "captionStartSeconds": 402.96,
+    "captionEndSeconds": 406.07,
+    "sourceOriginal": "ಅಖಂಠವಾಗಿ ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅದುಇದ್ದು ",
+    "sourceRoman": "akhaṁṭhavāgi oṁbattu dinagaḷu biḍade aduiddu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಖಂಠವಾಗಿ ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅದುಇದ್ದು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0241",
+    "timelineIndex": 241,
+    "sourceId": "background",
+    "startSeconds": 406.08,
+    "endSeconds": 408.87,
+    "captionStartSeconds": 406.08,
+    "captionEndSeconds": 408.87,
+    "sourceOriginal": "ನಮ್ಮನ್ನ ಕುಲದೇವರ ಜ್ಯೋತಿ ರೂಪದಿಂದ ",
+    "sourceRoman": "nammanna kuladēvara jyōti rūpadiṁda ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಮ್ಮನ್ನ ಕುಲದೇವರ ಜ್ಯೋತಿ ರೂಪದಿಂದ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0243",
+    "timelineIndex": 243,
+    "sourceId": "background",
+    "startSeconds": 408.88,
+    "endSeconds": 411.51,
+    "captionStartSeconds": 408.88,
+    "captionEndSeconds": 411.51,
+    "sourceOriginal": "ಸಂರಕ್ಷಣೆಯನ್ನ ಮಾಡಬೇಕು ಅಂತ ಪ್ರಾರ್ಥನಾ ",
+    "sourceRoman": "saṁrakṣaṇeyanna māḍabēku aṁta prārthanā ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸಂರಕ್ಷಣೆಯನ್ನ ಮಾಡಬೇಕು ಅಂತ ಪ್ರಾರ್ಥನಾ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0245",
+    "timelineIndex": 245,
+    "sourceId": "background",
+    "startSeconds": 411.52,
+    "endSeconds": 414.469,
+    "captionStartSeconds": 411.52,
+    "captionEndSeconds": 414.469,
+    "sourceOriginal": "ಪೂರ್ವಕವಾಗಿ ದೀಪವನ್ನ ಬೆಳಕು ಬಹುದು ಹೇಗೆ ",
+    "sourceRoman": "pūrvakavāgi dīpavanna beḷaku bahudu hēge ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪೂರ್ವಕವಾಗಿ ದೀಪವನ್ನ ಬೆಳಕು ಬಹುದು ಹೇಗೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0247",
+    "timelineIndex": 247,
+    "sourceId": "background",
+    "startSeconds": 414.479,
+    "endSeconds": 417.59,
+    "captionStartSeconds": 414.479,
+    "captionEndSeconds": 417.59,
+    "sourceOriginal": "ಹಿರಿಯರ ಮೂಲಿಕವಾಗಿ ಕುಲದೇವತೆಯ ಆಶೀರ್ವಾದವನ್ನ ",
+    "sourceRoman": "hiriyara mūlikavāgi kuladēvateya āśīrvādavanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹಿರಿಯರ ಮೂಲಿಕವಾಗಿ ಕುಲದೇವತೆಯ ಆಶೀರ್ವಾದವನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0249",
+    "timelineIndex": 249,
+    "sourceId": "background",
+    "startSeconds": 417.6,
+    "endSeconds": 422.309,
+    "captionStartSeconds": 417.6,
+    "captionEndSeconds": 422.309,
+    "sourceOriginal": "ಪಡೆದಾಗ ನಮ್ಮ ಜೀವನ ದೀಪಾವಳಿ ಆಗುತ್ತೆ ",
+    "sourceRoman": "paḍedāga namma jīvana dīpāvaḷi āgutte ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪಡೆದಾಗ ನಮ್ಮ ಜೀವನ ದೀಪಾವಳಿ ಆಗುತ್ತೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0251",
+    "timelineIndex": 251,
+    "sourceId": "background",
+    "startSeconds": 422.319,
+    "endSeconds": 426.55,
+    "captionStartSeconds": 422.319,
+    "captionEndSeconds": 426.55,
+    "sourceOriginal": "ದೀಪದ ಆವಳಿ ಆಗುತ್ತೆ ಸೋ ಸಂತೋಷವನ್ನ ಕೊಡುತ್ತೆ ",
+    "sourceRoman": "dīpada āvaḷi āgutte sō saṁtōṣavanna koḍutte ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದೀಪದ ಆವಳಿ ಆಗುತ್ತೆ ಸೋ ಸಂತೋಷವನ್ನ ಕೊಡುತ್ತೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0253",
+    "timelineIndex": 253,
+    "sourceId": "background",
+    "startSeconds": 426.56,
+    "endSeconds": 429.749,
+    "captionStartSeconds": 426.56,
+    "captionEndSeconds": 429.749,
+    "sourceOriginal": "ಅದೇ ಹಿರಿಯರು ಮಾಡಿಕೊಟ್ಟಿರುವ ಹಬ್ಬದ ",
+    "sourceRoman": "adē hiriyaru māḍikoṭṭiruva habbada ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದೇ ಹಿರಿಯರು ಮಾಡಿಕೊಟ್ಟಿರುವ ಹಬ್ಬದ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0255",
+    "timelineIndex": 255,
+    "sourceId": "background",
+    "startSeconds": 429.759,
+    "endSeconds": 433.43,
+    "captionStartSeconds": 429.759,
+    "captionEndSeconds": 433.43,
+    "sourceOriginal": "ವಿವರಣೆಗಳು ಅಂತ ಸೋ ದೀಪಕ್ಕೆ ಮುಂಚೆ ದೇವರ ",
+    "sourceRoman": "vivaraṇegaḷu aṁta sō dīpakke muṁce dēvara ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ವಿವರಣೆಗಳು ಅಂತ ಸೋ ದೀಪಕ್ಕೆ ಮುಂಚೆ ದೇವರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0257",
+    "timelineIndex": 257,
+    "sourceId": "background",
+    "startSeconds": 433.44,
+    "endSeconds": 435.67,
+    "captionStartSeconds": 433.44,
+    "captionEndSeconds": 435.67,
+    "sourceOriginal": "ಪೂಜೆಯನ್ನ ಪೂರ್ಣ ಸಂಧ್ಯಾವಂದನ ಮಾಡಿ ದೇವರ ",
+    "sourceRoman": "pūjeyanna pūrṇa saṁdhyāvaṁdana māḍi dēvara ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪೂಜೆಯನ್ನ ಪೂರ್ಣ ಸಂಧ್ಯಾವಂದನ ಮಾಡಿ ದೇವರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0259",
+    "timelineIndex": 259,
+    "sourceId": "background",
+    "startSeconds": 435.68,
+    "endSeconds": 438.23,
+    "captionStartSeconds": 435.68,
+    "captionEndSeconds": 438.23,
+    "sourceOriginal": "ಪೂಜೆಯನ್ನ ನಿತ್ಯವು ಕೂಡ ಒಂಬತ್ತು ದಿನಗಳು ದೇವರ ",
+    "sourceRoman": "pūjeyanna nityavu kūḍa oṁbattu dinagaḷu dēvara ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪೂಜೆಯನ್ನ ನಿತ್ಯವು ಕೂಡ ಒಂಬತ್ತು ದಿನಗಳು ದೇವರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0261",
+    "timelineIndex": 261,
+    "sourceId": "background",
+    "startSeconds": 438.24,
+    "endSeconds": 441.51,
+    "captionStartSeconds": 438.24,
+    "captionEndSeconds": 441.51,
+    "sourceOriginal": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಿತ್ಯ ನಿಮ್ಮೇನು ಕುಲದೇವರು ",
+    "sourceRoman": "pūjeyanna māḍi nitya nimmēnu kuladēvaru ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಿತ್ಯ ನಿಮ್ಮೇನು ಕುಲದೇವರು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0263",
+    "timelineIndex": 263,
+    "sourceId": "background",
+    "startSeconds": 441.52,
+    "endSeconds": 443.589,
+    "captionStartSeconds": 441.52,
+    "captionEndSeconds": 443.589,
+    "sourceOriginal": "ವೆಂಕಟೇಶ ದೇವರಾದರೆ ಅಂದ್ರೆ ವೆಂಕಟೇಶ ಸ್ತೋತ್ರ ",
+    "sourceRoman": "veṁkaṭēśa dēvarādare aṁdre veṁkaṭēśa stōtra ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ವೆಂಕಟೇಶ ದೇವರಾದರೆ ಅಂದ್ರೆ ವೆಂಕಟೇಶ ಸ್ತೋತ್ರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0265",
+    "timelineIndex": 265,
+    "sourceId": "background",
+    "startSeconds": 443.599,
+    "endSeconds": 446.15,
+    "captionStartSeconds": 443.599,
+    "captionEndSeconds": 446.15,
+    "sourceOriginal": "ನರಸಿಂಹ ದೇವದ ಆಗಿದ್ರೆ ನರಸಿಂಹ ಸ್ತುತಿ ನರಸಿಂಹ ",
+    "sourceRoman": "narasiṁha dēvada āgidre narasiṁha stuti narasiṁha ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನರಸಿಂಹ ದೇವದ ಆಗಿದ್ರೆ ನರಸಿಂಹ ಸ್ತುತಿ ನರಸಿಂಹ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0267",
+    "timelineIndex": 267,
+    "sourceId": "background",
+    "startSeconds": 446.16,
+    "endSeconds": 449.11,
+    "captionStartSeconds": 446.16,
+    "captionEndSeconds": 449.11,
+    "sourceOriginal": "ಅಷ್ಟೋತ್ರ ಇಲ್ಲರಿ ನಮಗೆ ಬಂದು ನಂಜನಗೂಡು ",
+    "sourceRoman": "aṣṭōtra illari namage baṁdu naṁjanagūḍu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಷ್ಟೋತ್ರ ಇಲ್ಲರಿ ನಮಗೆ ಬಂದು ನಂಜನಗೂಡು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0269",
+    "timelineIndex": 269,
+    "sourceId": "background",
+    "startSeconds": 449.12,
+    "endSeconds": 452.07,
+    "captionStartSeconds": 449.12,
+    "captionEndSeconds": 452.07,
+    "sourceOriginal": "ನಂಜುಂಡೇಶ್ವರ ಅಂದ್ರೆ ನಂಜುಂಡೇಶ್ವರನ ಸ್ತೋತ್ರ ",
+    "sourceRoman": "naṁjuṁḍēśvara aṁdre naṁjuṁḍēśvarana stōtra ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಂಜುಂಡೇಶ್ವರ ಅಂದ್ರೆ ನಂಜುಂಡೇಶ್ವರನ ಸ್ತೋತ್ರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0271",
+    "timelineIndex": 271,
+    "sourceId": "background",
+    "startSeconds": 452.08,
+    "endSeconds": 455.43,
+    "captionStartSeconds": 452.08,
+    "captionEndSeconds": 455.43,
+    "sourceOriginal": "ಒಬ್ಬರಿಗೆನು ದೇವಿಗಳು ಎಲ್ಲಮ್ಮ ಹೀಗೆಲ್ಲ ",
+    "sourceRoman": "obbarigenu dēvigaḷu ellamma hīgella ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಒಬ್ಬರಿಗೆನು ದೇವಿಗಳು ಎಲ್ಲಮ್ಮ ಹೀಗೆಲ್ಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0273",
+    "timelineIndex": 273,
+    "sourceId": "background",
+    "startSeconds": 455.44,
+    "endSeconds": 457.99,
+    "captionStartSeconds": 455.44,
+    "captionEndSeconds": 457.99,
+    "sourceOriginal": "ಇರ್ತಾರೆ ಆ ದೇವಿಯ ಸ್ತುತಿಗಳು ದುರ್ಗಾ ",
+    "sourceRoman": "irtāre ā dēviya stutigaḷu durgā ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇರ್ತಾರೆ ಆ ದೇವಿಯ ಸ್ತುತಿಗಳು ದುರ್ಗಾ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0275",
+    "timelineIndex": 275,
+    "sourceId": "background",
+    "startSeconds": 458.0,
+    "endSeconds": 460.71,
+    "captionStartSeconds": 458.0,
+    "captionEndSeconds": 460.71,
+    "sourceOriginal": "ಸ್ತುತಿಗಳನ್ನ ನಿತ್ಯವೂ ಪಠನ ಮಾಡೋದು ಬೆಳಿಗ್ಗೆ ",
+    "sourceRoman": "stutigaḷanna nityavū paṭhana māḍōdu beḷigge ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸ್ತುತಿಗಳನ್ನ ನಿತ್ಯವೂ ಪಠನ ಮಾಡೋದು ಬೆಳಿಗ್ಗೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0277",
+    "timelineIndex": 277,
+    "sourceId": "background",
+    "startSeconds": 460.72,
+    "endSeconds": 463.589,
+    "captionStartSeconds": 460.72,
+    "captionEndSeconds": 463.589,
+    "sourceOriginal": "ಪೂಜೆ ಸಂಜೆ ಕೂತು ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಬೇಕು ",
+    "sourceRoman": "pūje saṁje kūtu pārāyaṇagaḷanna māḍabēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪೂಜೆ ಸಂಜೆ ಕೂತು ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0279",
+    "timelineIndex": 279,
+    "sourceId": "background",
+    "startSeconds": 463.599,
+    "endSeconds": 467.35,
+    "captionStartSeconds": 463.599,
+    "captionEndSeconds": 467.35,
+    "sourceOriginal": "ಹಾಡುಗಳನ್ನ ಹೇಳೋದು ಲಕ್ಷ್ಮಿ ಸೋಭಾನೆ ",
+    "sourceRoman": "hāḍugaḷanna hēḷōdu lakṣmi sōbhāne ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹಾಡುಗಳನ್ನ ಹೇಳೋದು ಲಕ್ಷ್ಮಿ ಸೋಭಾನೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0281",
+    "timelineIndex": 281,
+    "sourceId": "background",
+    "startSeconds": 467.36,
+    "endSeconds": 469.909,
+    "captionStartSeconds": 467.36,
+    "captionEndSeconds": 469.909,
+    "sourceOriginal": "ಯಾರಿಗೆ ಆಗುತ್ತೆ ನಿಮ್ಮ ಪಕ್ಕದಲ್ಲಿರುವ ",
+    "sourceRoman": "yārige āgutte nimma pakkadalliruva ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಯಾರಿಗೆ ಆಗುತ್ತೆ ನಿಮ್ಮ ಪಕ್ಕದಲ್ಲಿರುವ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0283",
+    "timelineIndex": 283,
+    "sourceId": "background",
+    "startSeconds": 469.919,
+    "endSeconds": 472.71,
+    "captionStartSeconds": 469.919,
+    "captionEndSeconds": 472.71,
+    "sourceOriginal": "ಆಚಾರ್ಯರನ್ನ ಕರಿಸಿ ಲಕ್ಷ್ಮಿ ಹೃದಯ ",
+    "sourceRoman": "ācāryaranna karisi lakṣmi hṛdaya ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆಚಾರ್ಯರನ್ನ ಕರಿಸಿ ಲಕ್ಷ್ಮಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0285",
+    "timelineIndex": 285,
+    "sourceId": "background",
+    "startSeconds": 472.72,
+    "endSeconds": 476.15,
+    "captionStartSeconds": 472.72,
+    "captionEndSeconds": 476.15,
+    "sourceOriginal": "ಪಾರಾಯಣ ಶ್ರೀಸೂಕ್ತ ಪಾರಾಯಣ ಇತ್ಯಾದಿ ",
+    "sourceRoman": "pārāyaṇa śrīsūkta pārāyaṇa ityādi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪಾರಾಯಣ ಶ್ರೀಸೂಕ್ತ ಪಾರಾಯಣ ಇತ್ಯಾದಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0287",
+    "timelineIndex": 287,
+    "sourceId": "background",
+    "startSeconds": 476.16,
+    "endSeconds": 479.909,
+    "captionStartSeconds": 476.16,
+    "captionEndSeconds": 479.909,
+    "sourceOriginal": "ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಿಸಿದಾಗ ಮನೆಯಲ್ಲಿ ಕಲ್ಯಾಣಗಳು ",
+    "sourceRoman": "pārāyaṇagaḷanna māḍisidāga maneyalli kalyāṇagaḷu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಿಸಿದಾಗ ಮನೆಯಲ್ಲಿ ಕಲ್ಯಾಣಗಳು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0289",
+    "timelineIndex": 289,
+    "sourceId": "background",
+    "startSeconds": 479.919,
+    "endSeconds": 481.749,
+    "captionStartSeconds": 479.919,
+    "captionEndSeconds": 481.749,
+    "sourceOriginal": "ತುಂಬಿ ಬರುತ್ತೆ ಮನೆಯ ವೈಬ್ರೇಷನ್ ",
+    "sourceRoman": "tuṁbi barutte maneya vaibrēṣan ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ತುಂಬಿ ಬರುತ್ತೆ ಮನೆಯ ವೈಬ್ರೇಷನ್ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0291",
+    "timelineIndex": 291,
+    "sourceId": "background",
+    "startSeconds": 481.759,
+    "endSeconds": 483.99,
+    "captionStartSeconds": 481.759,
+    "captionEndSeconds": 483.99,
+    "sourceOriginal": "ಚೆನ್ನಾಗಿರುತ್ತೆ ಮನೆಯನ್ನ ವಾತಾವರಣ ಚೇಂಜ್ ",
+    "sourceRoman": "cennāgirutte maneyanna vātāvaraṇa cēṁj ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಚೆನ್ನಾಗಿರುತ್ತೆ ಮನೆಯನ್ನ ವಾತಾವರಣ ಚೇಂಜ್ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0293",
+    "timelineIndex": 293,
+    "sourceId": "background",
+    "startSeconds": 484.0,
+    "endSeconds": 486.79,
+    "captionStartSeconds": 484.0,
+    "captionEndSeconds": 486.79,
+    "sourceOriginal": "ಆಗಿರುದನ್ನ ವರ್ಷಕ್ಕೊಂದು ಸಲ ",
+    "sourceRoman": "āgirudanna varṣakkoṁdu sala ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆಗಿರುದನ್ನ ವರ್ಷಕ್ಕೊಂದು ಸಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0295",
+    "timelineIndex": 295,
+    "sourceId": "background",
+    "startSeconds": 486.8,
+    "endSeconds": 489.43,
+    "captionStartSeconds": 486.8,
+    "captionEndSeconds": 489.43,
+    "sourceOriginal": "ಅದನ್ನ ಸರಿ ಮಾಡೋದೇ ನವರಾತ್ರಿ ಅಂತ ತಕೊಬೇಕು ",
+    "sourceRoman": "adanna sari māḍōdē navarātri aṁta takobēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದನ್ನ ಸರಿ ಮಾಡೋದೇ ನವರಾತ್ರಿ ಅಂತ ತಕೊಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0297",
+    "timelineIndex": 297,
+    "sourceId": "background",
+    "startSeconds": 489.44,
+    "endSeconds": 491.43,
+    "captionStartSeconds": 489.44,
+    "captionEndSeconds": 491.43,
+    "sourceOriginal": "ಅದಕ್ಕೆ ಪೂಜೆಗಳು ಮತ್ತೆ ಮತ್ತೆ ಯಾಕೆ ಪೂಜೆಗಳು ",
+    "sourceRoman": "adakke pūjegaḷu matte matte yāke pūjegaḷu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದಕ್ಕೆ ಪೂಜೆಗಳು ಮತ್ತೆ ಮತ್ತೆ ಯಾಕೆ ಪೂಜೆಗಳು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0299",
+    "timelineIndex": 299,
+    "sourceId": "background",
+    "startSeconds": 491.44,
+    "endSeconds": 493.67,
+    "captionStartSeconds": 491.44,
+    "captionEndSeconds": 493.67,
+    "sourceOriginal": "ಮಾಡ್ತಾ ಇರ್ತ್ತೇವೆ ಅಂದ್ರೆ ಮನೆಯಲ್ಲಿ ಇರುವ ",
+    "sourceRoman": "māḍtā irttēve aṁdre maneyalli iruva ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮಾಡ್ತಾ ಇರ್ತ್ತೇವೆ ಅಂದ್ರೆ ಮನೆಯಲ್ಲಿ ಇರುವ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0301",
+    "timelineIndex": 301,
+    "sourceId": "background",
+    "startSeconds": 493.68,
+    "endSeconds": 496.71,
+    "captionStartSeconds": 493.68,
+    "captionEndSeconds": 496.71,
+    "sourceOriginal": "ಅದೇನು ವೈಬ್ರೇಶನ್ ಇದೆ ಮನೆಯ ವಾತಾವರಣ ",
+    "sourceRoman": "adēnu vaibrēśan ide maneya vātāvaraṇa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದೇನು ವೈಬ್ರೇಶನ್ ಇದೆ ಮನೆಯ ವಾತಾವರಣ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0303",
+    "timelineIndex": 303,
+    "sourceId": "background",
+    "startSeconds": 496.72,
+    "endSeconds": 498.95,
+    "captionStartSeconds": 496.72,
+    "captionEndSeconds": 498.95,
+    "sourceOriginal": "ಚೆನ್ನಾಗಿ ಆಗಬೇಕು ಅಂತ ಆಗಾಗ ಗಂಟೆ ಬಾಡಿಸ್ತ್ತ ",
+    "sourceRoman": "cennāgi āgabēku aṁta āgāga gaṁṭe bāḍistta ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಚೆನ್ನಾಗಿ ಆಗಬೇಕು ಅಂತ ಆಗಾಗ ಗಂಟೆ ಬಾಡಿಸ್ತ್ತ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0305",
+    "timelineIndex": 305,
+    "sourceId": "background",
+    "startSeconds": 498.96,
+    "endSeconds": 501.589,
+    "captionStartSeconds": 498.96,
+    "captionEndSeconds": 501.589,
+    "sourceOriginal": "ಇರಬೇಕು ಆಗಮಾರ್ಥಂ ತು ದೇವಾನಾಂ ",
+    "sourceRoman": "irabēku āgamārthaṁ tu dēvānāṁ ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇರಬೇಕು ಆಗಮದೇವನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0307",
+    "timelineIndex": 307,
+    "sourceId": "background",
+    "startSeconds": 501.599,
+    "endSeconds": 507.27,
+    "captionStartSeconds": 501.599,
+    "captionEndSeconds": 507.27,
+    "sourceOriginal": "ಗಮನಾರ್ಥಂ ತು ರಾಕ್ಷಸ ದೇವರಗಳೆಲ್ಲ ಆ ಬರಬೇಕು ",
+    "sourceRoman": "gamanārthaṁ tu rākṣasa dēvaragaḷella ā barabēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಗಮನಾರ್ಥಂತು ರಾಕ್ಷಸ ದೇವರಗಳೆಲ್ಲ ಆ ಬರಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0309",
+    "timelineIndex": 309,
+    "sourceId": "background",
+    "startSeconds": 507.28,
+    "endSeconds": 509.11,
+    "captionStartSeconds": 507.28,
+    "captionEndSeconds": 509.11,
+    "sourceOriginal": "ರಾಕ್ಷಸರೆಲ್ಲ ಹೋಗಬೇಕು ಅಂದರೆ ರಾಕ್ಷಸರು ",
+    "sourceRoman": "rākṣasarella hōgabēku aṁdare rākṣasaru ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ರಾಕ್ಷಸರೆಲ್ಲ ಹೋಗಬೇಕು ಅಂದರೆ ರಾಕ್ಷಸರು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0311",
+    "timelineIndex": 311,
+    "sourceId": "background",
+    "startSeconds": 509.12,
+    "endSeconds": 511.11,
+    "captionStartSeconds": 509.12,
+    "captionEndSeconds": 511.11,
+    "sourceOriginal": "ಅಂದ್ರೆ ಯಾರು ಏರು ಪಿಶಾಚಿಗಳು ಬಂದು ಮನೆಯಲ್ಲಿ ",
+    "sourceRoman": "aṁdre yāru ēru piśācigaḷu baṁdu maneyalli ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಂದ್ರೆ ಯಾರು ಏರು ಪಿಶಾಚಿಗಳು ಬಂದು ಮನೆಯಲ್ಲಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0313",
+    "timelineIndex": 313,
+    "sourceId": "background",
+    "startSeconds": 511.12,
+    "endSeconds": 513.19,
+    "captionStartSeconds": 511.12,
+    "captionEndSeconds": 513.19,
+    "sourceOriginal": "ಕೂತ ಹಾಗಲ್ಲ ನಮ್ಮಲ್ಲಿ ಇರುವ ಕೆಟ್ಟ ಗುಣಗಳು ",
+    "sourceRoman": "kūta hāgalla nammalli iruva keṭṭa guṇagaḷu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕೂತ ಹಾಗಲ್ಲ ನಮ್ಮಲ್ಲಿ ಇರುವ ಕೆಟ್ಟ ಗುಣಗಳು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0315",
+    "timelineIndex": 315,
+    "sourceId": "background",
+    "startSeconds": 513.2,
+    "endSeconds": 515.11,
+    "captionStartSeconds": 513.2,
+    "captionEndSeconds": 515.11,
+    "sourceOriginal": "ಮನೆಯಲ್ಲಿ ಮಾತಾಡಿದ ಮಾತುಗಳು ಅಲ್ಲಿಯೇ ",
+    "sourceRoman": "maneyalli mātāḍida mātugaḷu alliyē ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮನೆಯಲ್ಲಿ ಮಾತಾಡಿದ ಮಾತುಗಳು ಅಲ್ಲಿಯೇ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0317",
+    "timelineIndex": 317,
+    "sourceId": "background",
+    "startSeconds": 515.12,
+    "endSeconds": 517.509,
+    "captionStartSeconds": 515.12,
+    "captionEndSeconds": 517.509,
+    "sourceOriginal": "ನಿಂತಿರುತ್ತೆ ಅದರ ವೈಬ್ರೇಷನ್ ಅಲ್ಲಿಯೇ ",
+    "sourceRoman": "niṁtirutte adara vaibrēṣan alliyē ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಿಂತಿರುತ್ತೆ ಅದರ ವೈಬ್ರೇಷನ್ ಅಲ್ಲಿಯೇ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0319",
+    "timelineIndex": 319,
+    "sourceId": "background",
+    "startSeconds": 517.519,
+    "endSeconds": 519.589,
+    "captionStartSeconds": 517.519,
+    "captionEndSeconds": 519.589,
+    "sourceOriginal": "ಇರುತ್ತೆ ನಿತ್ಯ ಜಗಳ ಮಾಡುತ್ತಿದ್ರೆ ಅಲ್ಲಿ ",
+    "sourceRoman": "irutte nitya jagaḷa māḍuttidre alli ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇರುತ್ತೆ ನಿತ್ಯ ಜಗಳ ಮಾಡುತ್ತಿದ್ರೆ ಅಲ್ಲಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0321",
+    "timelineIndex": 321,
+    "sourceId": "background",
+    "startSeconds": 519.599,
+    "endSeconds": 521.99,
+    "captionStartSeconds": 519.599,
+    "captionEndSeconds": 521.99,
+    "sourceOriginal": "ವೈಬ್ರೇಷನ್ ಜಗಳದ ವೈಬ್ರೇಷನ್ ಇರುತ್ತೆ ",
+    "sourceRoman": "vaibrēṣan jagaḷada vaibrēṣan irutte ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ವೈಬ್ರೇಷನ್ ಜಗಳದ ವೈಬ್ರೇಷನ್ ಇರುತ್ತೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0323",
+    "timelineIndex": 323,
+    "sourceId": "background",
+    "startSeconds": 522.0,
+    "endSeconds": 524.07,
+    "captionStartSeconds": 522.0,
+    "captionEndSeconds": 524.07,
+    "sourceOriginal": "ಮನೆಯೊಳಗೆ ಬಂದ್ರೆ ಯಾಕಪ್ಪ ಮನೆಗೆ ಬಂದೆ ಅಂತ ",
+    "sourceRoman": "maneyoḷage baṁdre yākappa manege baṁde aṁta ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮನೆಯೊಳಗೆ ಬಂದ್ರೆ ಯಾಕಪ್ಪ ಮನೆಗೆ ಬಂದೆ ಅಂತ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0325",
+    "timelineIndex": 325,
+    "sourceId": "background",
+    "startSeconds": 524.08,
+    "endSeconds": 528.71,
+    "captionStartSeconds": 524.08,
+    "captionEndSeconds": 528.71,
+    "sourceOriginal": "ಆಗುತ್ತೆ ಇಲ್ಲ ನಾವಏನೋ ಒಂದು ಹಲುವುತಾ ಇರ್ತೀವಿ ",
+    "sourceRoman": "āgutte illa nāvaēnō oṁdu haluvutā irtīvi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆಗುತ್ತೆ ಇಲ್ಲ ನಾವಏನೋ ಒಂದು ಹಲುವುತಾ ಇರ್ತೀವಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0327",
+    "timelineIndex": 327,
+    "sourceId": "background",
+    "startSeconds": 528.72,
+    "endSeconds": 532.47,
+    "captionStartSeconds": 528.72,
+    "captionEndSeconds": 532.47,
+    "sourceOriginal": "ದಿನ ಸಂತೋಷವ ಅಂದ್ರೆ ಅಲ್ಲ ಒಂದು ದಿನ ಸಂತೋಷ ",
+    "sourceRoman": "dina saṁtōṣava aṁdre alla oṁdu dina saṁtōṣa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದಿನ ಸಂತೋಷವ ಅಂದ್ರೆ ಅಲ್ಲ ಒಂದು ದಿನ ಸಂತೋಷ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0329",
+    "timelineIndex": 329,
+    "sourceId": "background",
+    "startSeconds": 532.48,
+    "endSeconds": 534.55,
+    "captionStartSeconds": 532.48,
+    "captionEndSeconds": 534.55,
+    "sourceOriginal": "ಒಂದು ದಿನ ದುಃಖ ಒಂದು ದಿನ ಹಲುವಾನ ಒಂದು ದಿನ ",
+    "sourceRoman": "oṁdu dina duḥkha oṁdu dina haluvāna oṁdu dina ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಒಂದು ದಿನ ದುಃಖ ಒಂದು ದಿನ ಹಲುವಾನ ಒಂದು ದಿನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0331",
+    "timelineIndex": 331,
+    "sourceId": "background",
+    "startSeconds": 534.56,
+    "endSeconds": 537.829,
+    "captionStartSeconds": 534.56,
+    "captionEndSeconds": 537.829,
+    "sourceOriginal": "ಕಷ್ಟನ ಹೇಳಿಕೊಳ್ಳೋಣ ಒಂದು ದಿನ ಜಗಳ ",
+    "sourceRoman": "kaṣṭana hēḷikoḷḷōṇa oṁdu dina jagaḷa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕಷ್ಟನ ಹೇಳಿಕೊಳ್ಳೋಣ ಒಂದು ದಿನ ಜಗಳ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0333",
+    "timelineIndex": 333,
+    "sourceId": "background",
+    "startSeconds": 537.839,
+    "endSeconds": 541.59,
+    "captionStartSeconds": 537.839,
+    "captionEndSeconds": 541.59,
+    "sourceOriginal": "ಬೊಯ್ಯನ ಈ ರೀತಿಯ ಒಂದು ವಾತಾವರಣ ಮನೆಯಲ್ಲಿ ",
+    "sourceRoman": "boyyana ī rītiya oṁdu vātāvaraṇa maneyalli ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಬೊಯ್ಯನ ಈ ರೀತಿಯ ಒಂದು ವಾತಾವರಣ ಮನೆಯಲ್ಲಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0335",
+    "timelineIndex": 335,
+    "sourceId": "background",
+    "startSeconds": 541.6,
+    "endSeconds": 545.03,
+    "captionStartSeconds": 541.6,
+    "captionEndSeconds": 545.03,
+    "sourceOriginal": "ಇದ್ದೆ ಇರುತ್ತೆ ಅಲ್ವಾ ಈ ವಾತಾವರಣವನ್ನ ",
+    "sourceRoman": "idde irutte alvā ī vātāvaraṇavanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇದ್ದೆ ಇರುತ್ತೆ ಅಲ್ವಾ ಈ ವಾತಾವರಣವನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0337",
+    "timelineIndex": 337,
+    "sourceId": "background",
+    "startSeconds": 545.04,
+    "endSeconds": 548.79,
+    "captionStartSeconds": 545.04,
+    "captionEndSeconds": 548.79,
+    "sourceOriginal": "ಕೆಟ್ಟದಾಗಿರುವ ವಾತಾವರಣವೇ ರಾಚಸರು ಇವರೆಲ್ಲ ",
+    "sourceRoman": "keṭṭadāgiruva vātāvaraṇavē rācasaru ivarella ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕೆಟ್ಟದಾಗಿರುವ ವಾತಾವರಣವೇ ರಾಚಸರು ಇವರೆಲ್ಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0339",
+    "timelineIndex": 339,
+    "sourceId": "background",
+    "startSeconds": 548.8,
+    "endSeconds": 552.63,
+    "captionStartSeconds": 548.8,
+    "captionEndSeconds": 552.63,
+    "sourceOriginal": "ಹೊರಗೆಹೋಗಿ ನಮಗೆ ದೇವತಾಂಸ ಅಂದ ಸಾತ್ವಿಕವಾದ ",
+    "sourceRoman": "horagehōgi namage dēvatāṁsa aṁda sātvikavāda ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹೊರಗೆಹೋಗಿ ನಮಗೆ ದೇವತಾಂಸ ಅಂದ ಸಾತ್ವಿಕವಾದ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0341",
+    "timelineIndex": 341,
+    "sourceId": "background",
+    "startSeconds": 552.64,
+    "endSeconds": 554.71,
+    "captionStartSeconds": 552.64,
+    "captionEndSeconds": 554.71,
+    "sourceOriginal": "ಮನಸ್ಸು ಯವತ್ತು ಕೊಡಲಿ ಅಂತ ಹೇಳಿ ",
+    "sourceRoman": "manassu yavattu koḍali aṁta hēḷi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮನಸ್ಸು ಯವತ್ತು ಕೊಡಲಿ ಅಂತ ಹೇಳಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0343",
+    "timelineIndex": 343,
+    "sourceId": "background",
+    "startSeconds": 554.72,
+    "endSeconds": 558.31,
+    "captionStartSeconds": 554.72,
+    "captionEndSeconds": 558.31,
+    "sourceOriginal": "ನವರಾತ್ರಿಯನ್ನ ಆಚರಣೆ ಮಾಡುವುದು ಅಂತ ",
+    "sourceRoman": "navarātriyanna ācaraṇe māḍuvudu aṁta ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನವರಾತ್ರಿಯನ್ನ ಆಚರಣೆ ಮಾಡುವುದು ಅಂತ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0345",
+    "timelineIndex": 345,
+    "sourceId": "background",
+    "startSeconds": 558.32,
+    "endSeconds": 560.87,
+    "captionStartSeconds": 558.32,
+    "captionEndSeconds": 560.87,
+    "sourceOriginal": "ಹೇಳಿದ್ದಾರೆ ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ ",
+    "sourceRoman": "hēḷiddāre muṁde baruva viḍiyōnalli ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹೇಳಿದ್ದಾರೆ ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0347",
+    "timelineIndex": 347,
+    "sourceId": "background",
+    "startSeconds": 560.88,
+    "endSeconds": 565.75,
+    "captionStartSeconds": 560.88,
+    "captionEndSeconds": 565.75,
+    "sourceOriginal": "ನವರಾತ್ರಿಯ ಆಚರಣೆ ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆ ಇದರ ",
+    "sourceRoman": "navarātriya ācaraṇe akhaṁḍa dīpa sthāpane idara ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನವರಾತ್ರಿಯ ಆಚರಣೆ ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆ ಇದರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0349",
+    "timelineIndex": 349,
+    "sourceId": "background",
+    "startSeconds": 565.76,
+    "endSeconds": 569.269,
+    "captionStartSeconds": 565.76,
+    "captionEndSeconds": 569.269,
+    "sourceOriginal": "ಬಗೆಯನ್ನ ತಿಳಿಸಿಕೊಡುತ್ತೇವೆ ನಿಮ್ಮ ಆದರಕ್ಕೆ ",
+    "sourceRoman": "bageyanna tiḷisikoḍuttēve nimma ādarakke ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಬಗೆಯನ್ನ ತಿಳಿಸಿಕೊಡುತ್ತೇವೆ ನಿಮ್ಮ ಆದರಕ್ಕೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0351",
+    "timelineIndex": 351,
+    "sourceId": "background",
+    "startSeconds": 569.279,
+    "endSeconds": 571.67,
+    "captionStartSeconds": 569.279,
+    "captionEndSeconds": 571.67,
+    "sourceOriginal": "ಮತ್ತೊಮ್ಮೆ ನನ್ನ ಹೃದಯಪೂರ್ವಕವಾದ ",
+    "sourceRoman": "mattomme nanna hṛdayapūrvakavāda ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮತ್ತೊಮ್ಮೆ ನನ್ನ ಹೃದಯಪೂರ್ವಕವಾದ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0353",
+    "timelineIndex": 353,
+    "sourceId": "background",
+    "startSeconds": 571.68,
+    "endSeconds": 574.47,
+    "captionStartSeconds": 571.68,
+    "captionEndSeconds": 574.47,
+    "sourceOriginal": "ಕೃತಜ್ಞತೆಗಳು ಥ್ಯಾಂಕ್ಸ್ ಎಲ್ಲ ತುಂಬಾ ",
+    "sourceRoman": "kṛtajñategaḷu thyāṁks ella tuṁbā ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕೃತಜ್ಞತೆಗಳು ಥ್ಯಾಂಕ್ಸ್ ಎಲ್ಲ ತುಂಬಾ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0355",
+    "timelineIndex": 355,
+    "sourceId": "background",
+    "startSeconds": 574.48,
+    "endSeconds": 577.509,
+    "captionStartSeconds": 574.48,
+    "captionEndSeconds": 577.509,
+    "sourceOriginal": "ವಿಶೇಷವಾದ ಸೇವೆಯನ್ನ ಮಾಡಿದ್ದೀರ ",
+    "sourceRoman": "viśēṣavāda sēveyanna māḍiddīra ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ವಿಶೇಷವಾದ ಸೇವೆಯನ್ನ ಮಾಡಿದ್ದೀರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0357",
+    "timelineIndex": 357,
+    "sourceId": "background",
+    "startSeconds": 577.519,
+    "endSeconds": 579.91,
+    "captionStartSeconds": 577.519,
+    "captionEndSeconds": 579.91,
+    "sourceOriginal": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ಹರಿವಾಯು ಗುರುಗಳ ಅನುಗ್ರಹ ",
+    "sourceRoman": "nimmellarigū kūḍa harivāyu gurugaḷa anugraha ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ಹರಿವಾಯು ಗುರುಗಳ ಅನುಗ್ರಹ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0359",
+    "timelineIndex": 359,
+    "sourceId": "background",
+    "startSeconds": 579.92,
+    "endSeconds": 582.63,
+    "captionStartSeconds": 579.92,
+    "captionEndSeconds": 582.63,
+    "sourceOriginal": "ಕುಲದೇವರು ಮತ್ತು ನಿಮ್ಮ ಹಿರಿಯರ ಆಶೀರ್ವಾದ ",
+    "sourceRoman": "kuladēvaru mattu nimma hiriyara āśīrvāda ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕುಲದೇವರು ಮತ್ತು ನಿಮ್ಮ ಹಿರಿಯರ ಆಶೀರ್ವಾದ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0361",
+    "timelineIndex": 361,
+    "sourceId": "background",
+    "startSeconds": 582.64,
+    "endSeconds": 585.829,
+    "captionStartSeconds": 582.64,
+    "captionEndSeconds": 585.829,
+    "sourceOriginal": "ಪೂರ್ಣವಾಗಲಿ ಅಂತ ಪ್ರಾರ್ಥನೆ ಮಾಡು ",
+    "sourceRoman": "pūrṇavāgali aṁta prārthane māḍu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಪೂರ್ಣವಾಗಲಿ ಅಂತ ಪ್ರಾರ್ಥನೆ ಮಾಡು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0363",
+    "timelineIndex": 363,
+    "sourceId": "background",
+    "startSeconds": 585.839,
+    "endSeconds": 588.87,
+    "captionStartSeconds": 585.839,
+    "captionEndSeconds": 588.87,
+    "sourceOriginal": "ಅದೇ ರೀತಿಯಲ್ಲಿ ನವರಾತ್ರಿ ವ್ರದೇಹಿ ಅಶಕ್ತಃ ",
+    "sourceRoman": "adē rītiyalli navarātri vradēhi aśaktaḥ ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದೇ ರೀತಿಯಲ್ಲಿ ನವರಾತ್ರಿ ವೃದೇಹಿ ಅಸಕ್ತಹ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0365",
+    "timelineIndex": 365,
+    "sourceId": "background",
+    "startSeconds": 588.88,
+    "endSeconds": 593.35,
+    "captionStartSeconds": 588.88,
+    "captionEndSeconds": 593.35,
+    "sourceOriginal": "ತ್ರಿರಾತ್ರಂ ಏಕರಾತ್ರಂ ವಾ ವ್ರತಂ ರಾತ್ರಿ ಯೋ ಭಕ್ತಃ ",
+    "sourceRoman": "trirātraṁ ēkarātraṁ vā vrataṁ rātri yō bhaktaḥ ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ತ್ರಿರಾತ್ರಂ ಏಕರಾತ್ರಂ ರತರಯಭಕ್ತ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0367",
+    "timelineIndex": 367,
+    "sourceId": "background",
+    "startSeconds": 593.36,
+    "endSeconds": 598.15,
+    "captionStartSeconds": 593.36,
+    "captionEndSeconds": 598.15,
+    "sourceOriginal": "ತಸ್ಮೈ ದಾಸ್ಯಾಮಿ ವಾಂಛಿತಂ ಅಂತ ದೇವರು ಒಂದು ವರವನ್ನ ",
+    "sourceRoman": "tasmai dāsyāmi vāṁchitaṁ aṁta dēvaru oṁdu varavanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ತಸ್ಮದಶಯಮಿ ವಾಂಚಿತಂ ಅಂತ ದೇವರು ಒಂದು ವರವನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0369",
+    "timelineIndex": 369,
+    "sourceId": "background",
+    "startSeconds": 598.16,
+    "endSeconds": 600.389,
+    "captionStartSeconds": 598.16,
+    "captionEndSeconds": 600.389,
+    "sourceOriginal": "ಕೊಟ್ಟಿದ್ದ ",
+    "sourceRoman": "koṭṭidda ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕೊಟ್ಟಿದ್ದ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0371",
+    "timelineIndex": 371,
+    "sourceId": "background",
+    "startSeconds": 600.399,
+    "endSeconds": 604.79,
+    "captionStartSeconds": 600.399,
+    "captionEndSeconds": 604.79,
+    "sourceOriginal": "ನವರಾತ್ರಿಯ ವ್ರತ ",
+    "sourceRoman": "navarātriya vrata ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನವರಾತ್ರಿಯ ವ್ರತ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0372",
+    "timelineIndex": 372,
+    "sourceId": "background",
+    "startSeconds": 604.8,
+    "endSeconds": 607.35,
+    "captionStartSeconds": 604.8,
+    "captionEndSeconds": 607.35,
+    "sourceOriginal": "ತ್ರಿರಾತ್ರಿ ನವರಾತ್ರಿ ಅಂದರೆ ಒಂಬತ್ತು ",
+    "sourceRoman": "trirātri navarātri aṁdare oṁbattu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ತ್ರಿರಾತ್ರಿ ನವರಾತ್ರಿ ಅಂದರೆ ಒಂಬತ್ತು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0374",
+    "timelineIndex": 374,
+    "sourceId": "background",
+    "startSeconds": 607.36,
+    "endSeconds": 609.75,
+    "captionStartSeconds": 607.36,
+    "captionEndSeconds": 609.75,
+    "sourceOriginal": "ರಾತ್ರಿಯಲ್ಲಿ ಮಾಡಿದರೆ ವಿಶೇಷ ಅಸಕ್ತರು ",
+    "sourceRoman": "rātriyalli māḍidare viśēṣa asaktaru ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ರಾತ್ರಿಯಲ್ಲಿ ಮಾಡಿದರೆ ವಿಶೇಷ ಅಸಕ್ತರು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0376",
+    "timelineIndex": 376,
+    "sourceId": "background",
+    "startSeconds": 609.76,
+    "endSeconds": 612.31,
+    "captionStartSeconds": 609.76,
+    "captionEndSeconds": 612.31,
+    "sourceOriginal": "ನನ್ನಿಂದ ಆಗುದಿಲ್ಲ ಅಂದ್ರೆ ತ್ರಿರಾತ್ರಿ ಮೂರು ",
+    "sourceRoman": "nanniṁda āgudilla aṁdre trirātri mūru ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನನ್ನಿಂದ ಆಗುದಿಲ್ಲ ಅಂದ್ರೆ ತ್ರಿರಾತ್ರಿ ಮೂರು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0378",
+    "timelineIndex": 378,
+    "sourceId": "background",
+    "startSeconds": 612.32,
+    "endSeconds": 615.35,
+    "captionStartSeconds": 612.32,
+    "captionEndSeconds": 615.35,
+    "sourceOriginal": "ರಾತ್ರಿಗಳು ಇಲ್ಲವ ಏಕರಾತ್ರಿ ಒಂದು ದಿನವಾದರೆ ",
+    "sourceRoman": "rātrigaḷu illava ēkarātri oṁdu dinavādare ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ರಾತ್ರಿಗಳು ಇಲ್ಲವ ಏಕರಾತ್ರಿ ಒಂದು ದಿನವಾದರೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0380",
+    "timelineIndex": 380,
+    "sourceId": "background",
+    "startSeconds": 615.36,
+    "endSeconds": 618.47,
+    "captionStartSeconds": 615.36,
+    "captionEndSeconds": 618.47,
+    "sourceOriginal": "ವ್ರತಂ ಚರತಿ ಯೋ ಭಕ್ತಃ ",
+    "sourceRoman": "vrataṁ carati yō bhaktaḥ ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ವರತಂ ಚರತಿಯೋಭಕ್ತ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0382",
+    "timelineIndex": 382,
+    "sourceId": "background",
+    "startSeconds": 618.48,
+    "endSeconds": 620.15,
+    "captionStartSeconds": 618.48,
+    "captionEndSeconds": 620.15,
+    "sourceOriginal": "ತಸ್ಮೈ ದಾಸ್ಯಾಮಿ ",
+    "sourceRoman": "tasmai dāsyāmi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ತಸ್ಮೈದಾಮಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0384",
+    "timelineIndex": 384,
+    "sourceId": "background",
+    "startSeconds": 620.16,
+    "endSeconds": 622.87,
+    "captionStartSeconds": 620.16,
+    "captionEndSeconds": 622.87,
+    "sourceOriginal": "ವಾಂಛಿತಂ ಯಾರು ಮಾಡುತ್ತಾರೆ ಅವರ ವಾಂಚಿತಾರ್ಥಗಳು ",
+    "sourceRoman": "vāṁchitaṁ yāru māḍuttāre avara vāṁcitārthagaḷu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ವಾಂಚಿತ ಯಾರು ಮಾಡುತ್ತಾರೆ ಅವರ ವಾಂಚಿತಾರ್ಥಗಳು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0386",
+    "timelineIndex": 386,
+    "sourceId": "background",
+    "startSeconds": 622.88,
+    "endSeconds": 626.23,
+    "captionStartSeconds": 622.88,
+    "captionEndSeconds": 626.23,
+    "sourceOriginal": "ಇಷ್ಟಾರ್ಥಿಗಳು ಪೂರ್ತಿ ಆಗುತ್ತೆ ",
+    "sourceRoman": "iṣṭārthigaḷu pūrti āgutte ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇಷ್ಟಾರ್ಥಿಗಳು ಪೂರ್ತಿ ಆಗುತ್ತೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0388",
+    "timelineIndex": 388,
+    "sourceId": "background",
+    "startSeconds": 626.24,
+    "endSeconds": 629.03,
+    "captionStartSeconds": 626.24,
+    "captionEndSeconds": 629.03,
+    "sourceOriginal": "ಅಖಂಠ ದೀಪ ಎನ್ನೋದು ನಮ್ಮ ತಿರುಪತಿಯ ",
+    "sourceRoman": "akhaṁṭha dīpa ennōdu namma tirupatiya ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಖಂಠ ದೀಪ ಎನ್ನೋದು ನಮ್ಮ ತಿರುಪತಿಯ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0390",
+    "timelineIndex": 390,
+    "sourceId": "background",
+    "startSeconds": 629.04,
+    "endSeconds": 631.509,
+    "captionStartSeconds": 629.04,
+    "captionEndSeconds": 631.509,
+    "sourceOriginal": "ದಿಮ್ಮಪ್ಪನಿಗೆ ಅಥವಾ ಲಕ್ಷ್ಮಿ ನರಸಿಂಹನಿಗೆ ",
+    "sourceRoman": "dimmappanige athavā lakṣmi narasiṁhanige ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದಿಮ್ಮಪ್ಪನಿಗೆ ಅಥವಾ ಲಕ್ಷ್ಮಿ ನರಸಿಂಹನಿಗೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0392",
+    "timelineIndex": 392,
+    "sourceId": "background",
+    "startSeconds": 631.519,
+    "endSeconds": 635.35,
+    "captionStartSeconds": 631.519,
+    "captionEndSeconds": 635.35,
+    "sourceOriginal": "ಅಥವಾ ನಿಮ್ಮ ಕುಲದೇವತೆಯನ್ನ ",
+    "sourceRoman": "athavā nimma kuladēvateyanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಥವಾ ನಿಮ್ಮ ಕುಲದೇವತೆಯನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0393",
+    "timelineIndex": 393,
+    "sourceId": "background",
+    "startSeconds": 635.36,
+    "endSeconds": 639.75,
+    "captionStartSeconds": 635.36,
+    "captionEndSeconds": 639.75,
+    "sourceOriginal": "ಗುರಿಸುವ ಒಂದು ದೀಪ ಅದರಿಂದ ನಮ್ಮ ಮನೆಯಲ್ಲಿ ",
+    "sourceRoman": "gurisuva oṁdu dīpa adariṁda namma maneyalli ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಗುರಿಸುವ ಒಂದು ದೀಪ ಅದರಿಂದ ನಮ್ಮ ಮನೆಯಲ್ಲಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0395",
+    "timelineIndex": 395,
+    "sourceId": "background",
+    "startSeconds": 639.76,
+    "endSeconds": 643.59,
+    "captionStartSeconds": 639.76,
+    "captionEndSeconds": 643.59,
+    "sourceOriginal": "ದೇವರ ಮನೆಯಲ್ಲಿ ಶುದ್ಧವಾದ ಮಡಿಯಿಂದ ಈ ದೀಪವನ್ನ ",
+    "sourceRoman": "dēvara maneyalli śuddhavāda maḍiyiṁda ī dīpavanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದೇವರ ಮನೆಯಲ್ಲಿ ಶುದ್ಧವಾದ ಮಡಿಯಿಂದ ಈ ದೀಪವನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0397",
+    "timelineIndex": 397,
+    "sourceId": "background",
+    "startSeconds": 643.6,
+    "endSeconds": 645.829,
+    "captionStartSeconds": 643.6,
+    "captionEndSeconds": 645.829,
+    "sourceOriginal": "ಬೆಳಗಬೇಕು ",
+    "sourceRoman": "beḷagabēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಬೆಳಗಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0399",
+    "timelineIndex": 399,
+    "sourceId": "background",
+    "startSeconds": 645.839,
+    "endSeconds": 651.35,
+    "captionStartSeconds": 645.839,
+    "captionEndSeconds": 651.35,
+    "sourceOriginal": "ದೀಪ ಏರಿಸುವ ಪಾತ್ರೆ ಅಂದ್ರೆ ದೀಪದಲ್ಲಿ ದಲ್ಲಿ ",
+    "sourceRoman": "dīpa ērisuva pātre aṁdre dīpadalli dalli ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದೀಪ ಏರಿಸುವ ಪಾತ್ರೆ ಅಂದ್ರೆ ದೀಪದಲ್ಲಿ ದಲ್ಲಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0401",
+    "timelineIndex": 401,
+    "sourceId": "background",
+    "startSeconds": 651.36,
+    "endSeconds": 655.19,
+    "captionStartSeconds": 651.36,
+    "captionEndSeconds": 655.19,
+    "sourceOriginal": "ಸೂರ್ಯ ಚಂದ್ರರು ಇರ್ತಾರೆ ಅವರು ಭಗವಂತನಿಗೆ ",
+    "sourceRoman": "sūrya caṁdraru irtāre avaru bhagavaṁtanige ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸೂರ್ಯ ಚಂದ್ರರು ಇರ್ತಾರೆ ಅವರು ಭಗವಂತನಿಗೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0403",
+    "timelineIndex": 403,
+    "sourceId": "background",
+    "startSeconds": 655.2,
+    "endSeconds": 657.75,
+    "captionStartSeconds": 655.2,
+    "captionEndSeconds": 657.75,
+    "sourceOriginal": "ಸೇವೆ ಮಾಡುತ್ತಾರೆ ದೀಪ ಪಾತ್ರೆಯನ್ನ ಅಶ್ನ ",
+    "sourceRoman": "sēve māḍuttāre dīpa pātreyanna aśna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸೇವೆ ಮಾಡುತ್ತಾರೆ ದೀಪ ಪಾತ್ರೆಯನ್ನ ಅಶ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0405",
+    "timelineIndex": 405,
+    "sourceId": "background",
+    "startSeconds": 657.76,
+    "endSeconds": 660.55,
+    "captionStartSeconds": 657.76,
+    "captionEndSeconds": 660.55,
+    "sourceOriginal": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಪುಷ್ಪದಿಂದ ಅಲಂಕಾರ ಮಾಡಿ ",
+    "sourceRoman": "kuṁkumagaḷella hacci puṣpadiṁda alaṁkāra māḍi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಪುಷ್ಪದಿಂದ ಅಲಂಕಾರ ಮಾಡಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0407",
+    "timelineIndex": 407,
+    "sourceId": "background",
+    "startSeconds": 660.56,
+    "endSeconds": 662.79,
+    "captionStartSeconds": 660.56,
+    "captionEndSeconds": 662.79,
+    "sourceOriginal": "ಅದೊಂದು ಅಕ್ಕಿ ಅಥವಾ ತಟ್ಟೆಯಲ್ಲಿಇಟ್ಟು ಒಬ್ಬರ ",
+    "sourceRoman": "adoṁdu akki athavā taṭṭeyalliiṭṭu obbara ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದೊಂದು ಅಕ್ಕಿ ಅಥವಾ ತಟ್ಟೆಯಲ್ಲಿಇಟ್ಟು ಒಬ್ಬರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0409",
+    "timelineIndex": 409,
+    "sourceId": "background",
+    "startSeconds": 662.8,
+    "endSeconds": 666.63,
+    "captionStartSeconds": 662.8,
+    "captionEndSeconds": 666.63,
+    "sourceOriginal": "ಮನೆಯಲ್ಲಿ ಗೋಮಯ ಅಂದರೆ ಸೆಗಣಿಯಲ್ಲಿ ದೀಪವನ್ನ ",
+    "sourceRoman": "maneyalli gōmaya aṁdare segaṇiyalli dīpavanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮನೆಯಲ್ಲಿ ಗೋಮಯ ಅಂದರೆ ಸೆಗಣಿಯಲ್ಲಿ ದೀಪವನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0411",
+    "timelineIndex": 411,
+    "sourceId": "background",
+    "startSeconds": 666.64,
+    "endSeconds": 669.59,
+    "captionStartSeconds": 666.64,
+    "captionEndSeconds": 669.59,
+    "sourceOriginal": "ಇಡುವುದು ಅಂತ ಸಂಪ್ರದಾಯಗಳು ಇರುತ್ತೆ ಅದರಲ್ಲಿ ",
+    "sourceRoman": "iḍuvudu aṁta saṁpradāyagaḷu irutte adaralli ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇಡುವುದು ಅಂತ ಸಂಪ್ರದಾಯಗಳು ಇರುತ್ತೆ ಅದರಲ್ಲಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0413",
+    "timelineIndex": 413,
+    "sourceId": "background",
+    "startSeconds": 669.6,
+    "endSeconds": 673.91,
+    "captionStartSeconds": 669.6,
+    "captionEndSeconds": 673.91,
+    "sourceOriginal": "ತುಪ್ಪ ಅಥವಾ ಒಳ್ಳೆಣ್ಣೆ ಎಳ್ಳೆಣ್ಣೆಯನ್ನ ತುಂಬಿ ",
+    "sourceRoman": "tuppa athavā oḷḷeṇṇe eḷḷeṇṇeyanna tuṁbi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ತುಪ್ಪ ಅಥವಾ ಒಳ್ಳೆಣ್ಣೆ ಎಳ್ಳೆಣ್ಣೆಯನ್ನ ತುಂಬಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0415",
+    "timelineIndex": 415,
+    "sourceId": "background",
+    "startSeconds": 673.92,
+    "endSeconds": 677.03,
+    "captionStartSeconds": 673.92,
+    "captionEndSeconds": 677.03,
+    "sourceOriginal": "ಒಳ್ಳೆ ಒಂದು ಬತ್ತಿಯನ್ನ ಹಾಕಿ ತಯಾರಾಗಿ ",
+    "sourceRoman": "oḷḷe oṁdu battiyanna hāki tayārāgi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಒಳ್ಳೆ ಒಂದು ಬತ್ತಿಯನ್ನ ಹಾಕಿ ತಯಾರಾಗಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0417",
+    "timelineIndex": 417,
+    "sourceId": "background",
+    "startSeconds": 677.04,
+    "endSeconds": 679.509,
+    "captionStartSeconds": 677.04,
+    "captionEndSeconds": 679.509,
+    "sourceOriginal": "ಇಟ್ಕೊಬೇಕು ಅದರಲ್ಲಿ 27 ನಕ್ಷ ನಕ್ಷತ್ರ ",
+    "sourceRoman": "iṭkobēku adaralli 27 nakṣa nakṣatra ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇಟ್ಕೊಬೇಕು ಅದರಲ್ಲಿ 27 ನಕ್ಷ ನಕ್ಷತ್ರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0419",
+    "timelineIndex": 419,
+    "sourceId": "background",
+    "startSeconds": 679.519,
+    "endSeconds": 681.03,
+    "captionStartSeconds": 679.519,
+    "captionEndSeconds": 681.03,
+    "sourceOriginal": "ದೇವತೆಗಳನ್ನ ",
+    "sourceRoman": "dēvategaḷanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದೇವತೆಗಳನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0421",
+    "timelineIndex": 421,
+    "sourceId": "background",
+    "startSeconds": 681.04,
+    "endSeconds": 683.35,
+    "captionStartSeconds": 681.04,
+    "captionEndSeconds": 683.35,
+    "sourceOriginal": "ದೀಪದ ",
+    "sourceRoman": "dīpada ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದೀಪದ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0423",
+    "timelineIndex": 423,
+    "sourceId": "background",
+    "startSeconds": 683.36,
+    "endSeconds": 684.949,
+    "captionStartSeconds": 683.36,
+    "captionEndSeconds": 684.949,
+    "sourceOriginal": "ಅಡಿಯಲ್ಲಿ ",
+    "sourceRoman": "aḍiyalli ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಡಿಯಲ್ಲಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0425",
+    "timelineIndex": 425,
+    "sourceId": "background",
+    "startSeconds": 684.959,
+    "endSeconds": 690.15,
+    "captionStartSeconds": 684.959,
+    "captionEndSeconds": 690.15,
+    "sourceOriginal": "ಆವಾಹನವನ್ನ ಮಾಡಿ ಆ ಒಂದು ಏನು ಬತ್ತಿ ಇದೆ ",
+    "sourceRoman": "āvāhanavanna māḍi ā oṁdu ēnu batti ide ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆವಾಹನವನ್ನ ಮಾಡಿ ಆ ಒಂದು ಏನು ಭಕ್ತಿ ಇದೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0427",
+    "timelineIndex": 427,
+    "sourceId": "background",
+    "startSeconds": 690.16,
+    "endSeconds": 693.509,
+    "captionStartSeconds": 690.16,
+    "captionEndSeconds": 693.509,
+    "sourceOriginal": "ಅದರಲ್ಲಿ ಆದಿಶೇಷ ಜ್ಯೋತಿಯಲ್ಲಿ ಸೂರ್ಯ ಚಂದ್ರ ",
+    "sourceRoman": "adaralli ādiśēṣa jyōtiyalli sūrya caṁdra ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅದರಲ್ಲಿ ಆದಿಶೇಷ ಜ್ಯೋತಿಯಲ್ಲಿ ಸೂರ್ಯ ಚಂದ್ರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0429",
+    "timelineIndex": 429,
+    "sourceId": "background",
+    "startSeconds": 693.519,
+    "endSeconds": 697.829,
+    "captionStartSeconds": 693.519,
+    "captionEndSeconds": 697.829,
+    "sourceOriginal": "ಇವರು ಸೇವೆ ಮಾಡಲಿಕ್ಕೆ ಇರ್ತಾರೆ ಅಂತ ನಾವು ",
+    "sourceRoman": "ivaru sēve māḍalikke irtāre aṁta nāvu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇವರು ಸೇವೆ ಮಾಡಲಿಕ್ಕೆ ಇರ್ತಾರೆ ಅಂತ ನಾವು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0431",
+    "timelineIndex": 431,
+    "sourceId": "background",
+    "startSeconds": 697.839,
+    "endSeconds": 702.31,
+    "captionStartSeconds": 697.839,
+    "captionEndSeconds": 702.31,
+    "sourceOriginal": "ಚಿಂತನೆಯನ್ನ ಮಾಡತ ಈ ದೀಪವನ್ನ ಏರಿಸಬೇಕು ",
+    "sourceRoman": "ciṁtaneyanna māḍata ī dīpavanna ērisabēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಚಿಂತನೆಯನ್ನ ಮಾಡತ ಈ ದೀಪವನ್ನ ಏರಿಸಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0433",
+    "timelineIndex": 433,
+    "sourceId": "background",
+    "startSeconds": 702.32,
+    "endSeconds": 705.75,
+    "captionStartSeconds": 702.32,
+    "captionEndSeconds": 705.75,
+    "sourceOriginal": "ಸೋ ಮೊದಲ ದಿನ ಪ್ರಥಮ ದಿನ ಬೆಳಿಗ್ಗೆ ಮಂಗಳ ",
+    "sourceRoman": "sō modala dina prathama dina beḷigge maṁgaḷa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸೋ ಮೊದಲ ದಿನ ಪ್ರಥಮ ದಿನ ಬೆಳಿಗ್ಗೆ ಮಂಗಳ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0435",
+    "timelineIndex": 435,
+    "sourceId": "background",
+    "startSeconds": 705.76,
+    "endSeconds": 708.31,
+    "captionStartSeconds": 705.76,
+    "captionEndSeconds": 708.31,
+    "sourceOriginal": "ಸ್ನಾನ ಅಂದರೆ ಎಣ್ಣೆ ಶಾಸ್ತ್ರ ಮಾಡಿಕೊಂಡು ",
+    "sourceRoman": "snāna aṁdare eṇṇe śāstra māḍikoṁḍu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸ್ನಾನ ಅಂದರೆ ಎಣ್ಣೆ ಶಾಸ್ತ್ರ ಮಾಡಿಕೊಂಡು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0437",
+    "timelineIndex": 437,
+    "sourceId": "background",
+    "startSeconds": 708.32,
+    "endSeconds": 712.389,
+    "captionStartSeconds": 708.32,
+    "captionEndSeconds": 712.389,
+    "sourceOriginal": "ಸ್ನಾನ ಸ್ನಾನವನ್ನ ಮಾಡಿ ಮಡಿಯಾಗಿ ",
+    "sourceRoman": "snāna snānavanna māḍi maḍiyāgi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸ್ನಾನ ಸ್ನಾನವನ್ನ ಮಾಡಿ ಮಡಿಯಾಗಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0439",
+    "timelineIndex": 439,
+    "sourceId": "background",
+    "startSeconds": 712.399,
+    "endSeconds": 715.43,
+    "captionStartSeconds": 712.399,
+    "captionEndSeconds": 715.43,
+    "sourceOriginal": "ಗೋಪಿ ಚಂದನ ಧಾರಣೆ ಸಂಧ್ಯಾಬಂಧನೆಯನ್ನ ಮುಗಿಸಿ ",
+    "sourceRoman": "gōpi caṁdana dhāraṇe saṁdhyābaṁdhaneyanna mugisi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಗೋಪಿ ಚಂದನ ಧಾರಣೆ ಸಂಧ್ಯಾಬಂಧನೆಯನ್ನ ಮುಗಿಸಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0441",
+    "timelineIndex": 441,
+    "sourceId": "background",
+    "startSeconds": 715.44,
+    "endSeconds": 717.67,
+    "captionStartSeconds": 715.44,
+    "captionEndSeconds": 717.67,
+    "sourceOriginal": "ದೇವರ ಪೂಜೆ ಪೂರ್ಣ ಮುಗಿಸಿಬಿಡುದು ದೇವರ ಪೂಜೆ ",
+    "sourceRoman": "dēvara pūje pūrṇa mugisibiḍudu dēvara pūje ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದೇವರ ಪೂಜೆ ಪೂರ್ಣ ಮುಗಿಸಿಬಿಡುದು ದೇವರ ಪೂಜೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0443",
+    "timelineIndex": 443,
+    "sourceId": "background",
+    "startSeconds": 717.68,
+    "endSeconds": 719.03,
+    "captionStartSeconds": 717.68,
+    "captionEndSeconds": 719.03,
+    "sourceOriginal": "ವಿಡಿಯೋ ಇದೆ ಅದನ್ನ ನೋಡಿ ಪೂರ್ಣ ",
+    "sourceRoman": "viḍiyō ide adanna nōḍi pūrṇa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ವಿಡಿಯೋ ಇದೆ ಅದನ್ನ ನೋಡಿ ಪೂರ್ಣ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0445",
+    "timelineIndex": 445,
+    "sourceId": "background",
+    "startSeconds": 719.04,
+    "endSeconds": 721.35,
+    "captionStartSeconds": 719.04,
+    "captionEndSeconds": 721.35,
+    "sourceOriginal": "ಸಂಕ್ಷಿಪ್ತವಾಗಿದೆ ಪೂರ್ಣ ದೇವರ ಪೂಜೆಯನ್ನು ",
+    "sourceRoman": "saṁkṣiptavāgide pūrṇa dēvara pūjeyannu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸಂಕ್ಷಿಪ್ತವಾಗಿದೆ ಪೂರ್ಣ ದೇವರ ಪೂಜೆಯನ್ನು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0447",
+    "timelineIndex": 447,
+    "sourceId": "background",
+    "startSeconds": 721.36,
+    "endSeconds": 724.55,
+    "captionStartSeconds": 721.36,
+    "captionEndSeconds": 724.55,
+    "sourceOriginal": "ಮುಗಿಸಿ ದೇವರ ಪಟ್ಟಿಗೆಯನ್ನ ಕಟ್ಟಿಟ್ಟು ಆಮೇಲೆ ",
+    "sourceRoman": "mugisi dēvara paṭṭigeyanna kaṭṭiṭṭu āmēle ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮುಗಿಸಿ ದೇವರ ಪಟ್ಟಿಗೆಯನ್ನ ಕಟ್ಟಿಟ್ಟು ಆಮೇಲೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0449",
+    "timelineIndex": 449,
+    "sourceId": "background",
+    "startSeconds": 724.56,
+    "endSeconds": 727.19,
+    "captionStartSeconds": 724.56,
+    "captionEndSeconds": 727.19,
+    "sourceOriginal": "ಇದನ್ನೆಲ್ಲ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಹಣ್ಣು ವಿಳದಲೆ ",
+    "sourceRoman": "idannella siddhapaḍisikoṁḍu haṇṇu viḷadale ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇದನ್ನೆಲ್ಲ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಹಣ್ಣು ವಿಳದಲೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0451",
+    "timelineIndex": 451,
+    "sourceId": "background",
+    "startSeconds": 727.2,
+    "endSeconds": 730.069,
+    "captionStartSeconds": 727.2,
+    "captionEndSeconds": 730.069,
+    "sourceOriginal": "ಅಡಿಕೆ ಈಗೇನು ವ್ರತ ಅಂದ್ರೆ ಹಾಲು ಮಾತ್ರ ವರತಕ ",
+    "sourceRoman": "aḍike īgēnu vrata aṁdre hālu mātra varataka ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಡಿಕೆ ಈಗೇನು ವ್ರತ ಅಂದ್ರೆ ಹಾಲು ಮಾತ್ರ ವರತಕ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0453",
+    "timelineIndex": 453,
+    "sourceId": "background",
+    "startSeconds": 730.079,
+    "endSeconds": 732.79,
+    "captionStartSeconds": 730.079,
+    "captionEndSeconds": 732.79,
+    "sourceOriginal": "ಇದೆಲ್ಲವೂ ಕೂಡ ಬರುತ್ತೆ ಅದರಿಂದ ಹಣ್ಣು ಬೆಳದಲೆ ",
+    "sourceRoman": "idellavū kūḍa barutte adariṁda haṇṇu beḷadale ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇದೆಲ್ಲವೂ ಕೂಡ ಬರುತ್ತೆ ಅದರಿಂದ ಹಣ್ಣು ಬೆಳದಲೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0455",
+    "timelineIndex": 455,
+    "sourceId": "background",
+    "startSeconds": 732.8,
+    "endSeconds": 735.67,
+    "captionStartSeconds": 732.8,
+    "captionEndSeconds": 735.67,
+    "sourceOriginal": "ಅಡಿಕೆ ಹೂವು ಗಜವಸ್ತ್ರ ",
+    "sourceRoman": "aḍike hūvu gajavastra ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಡಿಕೆ ಹೂವು ಗಜವಸ್ತ್ರ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0457",
+    "timelineIndex": 457,
+    "sourceId": "background",
+    "startSeconds": 735.68,
+    "endSeconds": 740.069,
+    "captionStartSeconds": 735.68,
+    "captionEndSeconds": 740.069,
+    "sourceOriginal": "ತುಪ್ಪ ಅಥವಾ ಎಳ್ಳಣ್ಣೆ ಅರಿಶಿಣ ಕುಂಕುಮ ಗಂಧ ",
+    "sourceRoman": "tuppa athavā eḷḷaṇṇe ariśiṇa kuṁkuma gaṁdha ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ತುಪ್ಪ ಅಥವಾ ಎಳ್ಳಣ್ಣೆ ಅರಿಶಿಣ ಕುಂಕುಮ ಗಂಧ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0459",
+    "timelineIndex": 459,
+    "sourceId": "background",
+    "startSeconds": 740.079,
+    "endSeconds": 744.069,
+    "captionStartSeconds": 740.079,
+    "captionEndSeconds": 744.069,
+    "sourceOriginal": "ಊದುಗಡ್ಡಿ ಕರ್ಪೂರ ಬಿಳದಲೆ ಅಡಿಕೆ ಇದನ್ನೆಲ್ಲ ",
+    "sourceRoman": "ūdugaḍḍi karpūra biḷadale aḍike idannella ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಊದುಗಡ್ಡಿ ಕರ್ಪೂರ ಬಿಳದಲೆ ಅಡಿಕೆ ಇದನ್ನೆಲ್ಲ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0461",
+    "timelineIndex": 461,
+    "sourceId": "background",
+    "startSeconds": 744.079,
+    "endSeconds": 746.47,
+    "captionStartSeconds": 744.079,
+    "captionEndSeconds": 746.47,
+    "sourceOriginal": "ಸಿದ್ಧಪಡಿಸಿ ಇಟ್ಟುಕೊಂಡು ದೀಪವನ್ನ ಚೆನ್ನಾಗಿ ",
+    "sourceRoman": "siddhapaḍisi iṭṭukoṁḍu dīpavanna cennāgi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಸಿದ್ಧಪಡಿಸಿ ಇಟ್ಟುಕೊಂಡು ದೀಪವನ್ನ ಚೆನ್ನಾಗಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0463",
+    "timelineIndex": 463,
+    "sourceId": "background",
+    "startSeconds": 746.48,
+    "endSeconds": 748.069,
+    "captionStartSeconds": 746.48,
+    "captionEndSeconds": 748.069,
+    "sourceOriginal": "ತಯಾರು ಮಾಡಿಇಟ್ಟುಕೊಂಡು ಅದಕ್ಕೆ ಅರಿಶಿಣ ",
+    "sourceRoman": "tayāru māḍiiṭṭukoṁḍu adakke ariśiṇa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ತಯಾರು ಮಾಡಿಇಟ್ಟುಕೊಂಡು ಅದಕ್ಕೆ ಅರಿಶಿಣ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0465",
+    "timelineIndex": 465,
+    "sourceId": "background",
+    "startSeconds": 748.079,
+    "endSeconds": 750.15,
+    "captionStartSeconds": 748.079,
+    "captionEndSeconds": 750.15,
+    "sourceOriginal": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಅದರಲ್ಲಿ ಬತ್ತಿ ಹಾಕಿ ",
+    "sourceRoman": "kuṁkumagaḷella hacci adaralli batti hāki ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಅದರಲ್ಲಿ ಬತ್ತಿ ಹಾಕಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0467",
+    "timelineIndex": 467,
+    "sourceId": "background",
+    "startSeconds": 750.16,
+    "endSeconds": 753.19,
+    "captionStartSeconds": 750.16,
+    "captionEndSeconds": 753.19,
+    "sourceOriginal": "ಎಣ್ಣೆ ಹಾಕಿ ಅಥವಾ ತುಪ್ಪವನ್ನ ಹಾಕಿ ತಯಾರು ",
+    "sourceRoman": "eṇṇe hāki athavā tuppavanna hāki tayāru ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಎಣ್ಣೆ ಹಾಕಿ ಅಥವಾ ತುಪ್ಪವನ್ನ ಹಾಕಿ ತಯಾರು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0469",
+    "timelineIndex": 469,
+    "sourceId": "background",
+    "startSeconds": 753.2,
+    "endSeconds": 756.79,
+    "captionStartSeconds": 753.2,
+    "captionEndSeconds": 756.79,
+    "sourceOriginal": "ಮಾಡಿ ಇಟ್ಟುಕೊಂಡು ನಾವು ಸಂಕಲ್ಪಗಳನ್ನ ",
+    "sourceRoman": "māḍi iṭṭukoṁḍu nāvu saṁkalpagaḷanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮಾಡಿ ಇಟ್ಟುಕೊಂಡು ನಾವು ಸಂಕಲ್ಪಗಳನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0471",
+    "timelineIndex": 471,
+    "sourceId": "background",
+    "startSeconds": 756.8,
+    "endSeconds": 759.19,
+    "captionStartSeconds": 756.8,
+    "captionEndSeconds": 759.19,
+    "sourceOriginal": "ಮಾಡಿಕೊಳ್ಳಬೇಕು ",
+    "sourceRoman": "māḍikoḷḷabēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮಾಡಿಕೊಳ್ಳಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0473",
+    "timelineIndex": 473,
+    "sourceId": "background",
+    "startSeconds": 759.2,
+    "endSeconds": 763.19,
+    "captionStartSeconds": 759.2,
+    "captionEndSeconds": 763.19,
+    "sourceOriginal": "ಈ ದೀಪ ಬೆಳಗುವ ಟೈಮು ಮತ್ತು ಕಲಸ ಸ್ಥಾಪನಕ್ಕೆ ",
+    "sourceRoman": "ī dīpa beḷaguva ṭaimu mattu kalasa sthāpanakke ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಈ ದೀಪ ಬೆಳಗುವ ಟೈಮು ಮತ್ತು ಕೆಲಸ ಸ್ಥಾಪನಕ್ಕೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0475",
+    "timelineIndex": 475,
+    "sourceId": "background",
+    "startSeconds": 763.2,
+    "endSeconds": 766.23,
+    "captionStartSeconds": 763.2,
+    "captionEndSeconds": 766.23,
+    "sourceOriginal": "ಉಂಟಾದ ಟೈಮಿಂಗ್ ಅಂತ ಎಲ್ಲ ಕೇಳಿದ್ರಿ ನಾಳೆ ",
+    "sourceRoman": "uṁṭāda ṭaimiṁg aṁta ella kēḷidri nāḷe ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಉಂಟಾದ ಟೈಮಿಂಗ್ ಅಂತ ಎಲ್ಲ ಕೇಳಿದ್ರಿ ನಾಳೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0477",
+    "timelineIndex": 477,
+    "sourceId": "background",
+    "startSeconds": 766.24,
+    "endSeconds": 770.55,
+    "captionStartSeconds": 766.24,
+    "captionEndSeconds": 770.55,
+    "sourceOriginal": "ಭಾನುವಾರ 12 ಗಂಟೆವರೆಗೂ ಏನು ದೊಡ್ಡ ಅಡ್ಡಿ ",
+    "sourceRoman": "bhānuvāra 12 gaṁṭevaregū ēnu doḍḍa aḍḍi ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಭಾನುವಾರ 12 ಗಂಟೆವರೆಗೂ ಏನು ದೊಡ್ಡ ಅಡ್ಡಿ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0479",
+    "timelineIndex": 479,
+    "sourceId": "background",
+    "startSeconds": 770.56,
+    "endSeconds": 773.59,
+    "captionStartSeconds": 770.56,
+    "captionEndSeconds": 773.59,
+    "sourceOriginal": "ಇಲ್ಲ ಅಂತ ಹೇಳಬಹುದು ಆದರೆ ನಾವು ಸ್ವಲ್ಪ ",
+    "sourceRoman": "illa aṁta hēḷabahudu ādare nāvu svalpa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇಲ್ಲ ಅಂತ ಹೇಳಬಹುದು ಆದರೆ ನಾವು ಸ್ವಲ್ಪ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0481",
+    "timelineIndex": 481,
+    "sourceId": "background",
+    "startSeconds": 773.6,
+    "endSeconds": 776.949,
+    "captionStartSeconds": 773.6,
+    "captionEndSeconds": 776.949,
+    "sourceOriginal": "ನೋಡಬೇಕಲ್ವಾ ನಮಗೆ ಅದರಿಂದ ಸ್ವಲ್ಪ ನೋಡಬೇಕು ",
+    "sourceRoman": "nōḍabēkalvā namage adariṁda svalpa nōḍabēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನೋಡಬೇಕಲ್ವಾ ನಮಗೆ ಅದರಿಂದ ಸ್ವಲ್ಪ ನೋಡಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0483",
+    "timelineIndex": 483,
+    "sourceId": "background",
+    "startSeconds": 776.959,
+    "endSeconds": 778.79,
+    "captionStartSeconds": 776.959,
+    "captionEndSeconds": 778.79,
+    "sourceOriginal": "ಅಂದ್ರೆ ",
+    "sourceRoman": "aṁdre ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಂದ್ರೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0485",
+    "timelineIndex": 485,
+    "sourceId": "background",
+    "startSeconds": 778.8,
+    "endSeconds": 780.389,
+    "captionStartSeconds": 778.8,
+    "captionEndSeconds": 780.389,
+    "sourceOriginal": "ನಾವು ",
+    "sourceRoman": "nāvu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನಾವು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0487",
+    "timelineIndex": 487,
+    "sourceId": "background",
+    "startSeconds": 780.399,
+    "endSeconds": 783.19,
+    "captionStartSeconds": 780.399,
+    "captionEndSeconds": 783.19,
+    "sourceOriginal": "ಇದನ್ನ ನೋಡಿ ಇಟ್ಕೋಬಹುದು ಇದನ್ನ ಹೇಗೆ ಅಂದ್ರೆ ",
+    "sourceRoman": "idanna nōḍi iṭkōbahudu idanna hēge aṁdre ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇದನ್ನ ನೋಡಿ ಇಟ್ಕೋಬಹುದು ಇದನ್ನ ಹೇಗೆ ಅಂದ್ರೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0489",
+    "timelineIndex": 489,
+    "sourceId": "background",
+    "startSeconds": 783.2,
+    "endSeconds": 787.03,
+    "captionStartSeconds": 783.2,
+    "captionEndSeconds": 787.03,
+    "sourceOriginal": "ಹೋರೆಗಳು ಅಂತ ಹೇಳ್ತಾರೆ ಆ ಹೋರೆಗಳನ್ನ ನೋಡಿದಾಗ ",
+    "sourceRoman": "hōregaḷu aṁta hēḷtāre ā hōregaḷanna nōḍidāga ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಹೋರೆಗಳು ಅಂತ ಹೇಳ್ತಾರೆ ಆ ಹೋರೆಗಳನ್ನ ನೋಡಿದಾಗ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0491",
+    "timelineIndex": 491,
+    "sourceId": "background",
+    "startSeconds": 787.04,
+    "endSeconds": 790.87,
+    "captionStartSeconds": 787.04,
+    "captionEndSeconds": 790.87,
+    "sourceOriginal": "ಆ ಟೈಮ್ಗಳು ಚೆನ್ನಾಗಿರುತ್ತವೆ ಅಂತ ಹೇಳಬೇಕು ",
+    "sourceRoman": "ā ṭaimgaḷu cennāgiruttave aṁta hēḷabēku ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಆ ಟೈಮ್ಗಳು ಚೆನ್ನಾಗಿರುತ್ತವೆ ಅಂತ ಹೇಳಬೇಕು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0493",
+    "timelineIndex": 493,
+    "sourceId": "background",
+    "startSeconds": 790.88,
+    "endSeconds": 794.55,
+    "captionStartSeconds": 790.88,
+    "captionEndSeconds": 794.55,
+    "sourceOriginal": "ಅಭಿಜಿತ್ ಮುಗುರ್ತ ಅಂಬುದು 11:45 ರಿಂದ 12 ",
+    "sourceRoman": "abhijit mugurta aṁbudu 11:45 riṁda 12 ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಭಿಜಿತ್ ಮುಗುರ್ತ ಅಂಬುದು 11:45 ರಿಂದ 12 ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0495",
+    "timelineIndex": 495,
+    "sourceId": "background",
+    "startSeconds": 794.56,
+    "endSeconds": 797.03,
+    "captionStartSeconds": 794.56,
+    "captionEndSeconds": 797.03,
+    "sourceOriginal": "ಒಳಗೆ ಯಾಕಂದ್ರೆ 12 ರಿಂದ ಒಂದುವರೆ ಯಮಗಂಡ ",
+    "sourceRoman": "oḷage yākaṁdre 12 riṁda oṁduvare yamagaṁḍa ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಒಳಗೆ ಯಾಕಂದ್ರೆ 12 ರಿಂದ ಒಂದುವರೆ ಯಮಗಂಡ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0497",
+    "timelineIndex": 497,
+    "sourceId": "background",
+    "startSeconds": 797.04,
+    "endSeconds": 798.47,
+    "captionStartSeconds": 797.04,
+    "captionEndSeconds": 798.47,
+    "sourceOriginal": "ಬರುತ್ತೆ ",
+    "sourceRoman": "barutte ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಬರುತ್ತೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0499",
+    "timelineIndex": 499,
+    "sourceId": "background",
+    "startSeconds": 798.48,
+    "endSeconds": 802.47,
+    "captionStartSeconds": 798.48,
+    "captionEndSeconds": 802.47,
+    "sourceOriginal": "11 45 ರಿಂದ 12ರಒಳಗೆ ಕಲಸ ಸ್ಥಾಪನವನ್ನ ",
+    "sourceRoman": "11 45 riṁda 12raoḷage kalasa sthāpanavanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "11 45 ರಿಂದ 12ರಒಳಗೆ ಕೆಲಸ ಸ್ಥಾಪನವನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0501",
+    "timelineIndex": 501,
+    "sourceId": "background",
+    "startSeconds": 802.48,
+    "endSeconds": 805.19,
+    "captionStartSeconds": 802.48,
+    "captionEndSeconds": 805.19,
+    "sourceOriginal": "ಮಾಡಲಿಕ್ಕೆ ಸಾಧ್ಯತೆ ಇರುವವರು ಮಾಡಬಹುದು ",
+    "sourceRoman": "māḍalikke sādhyate iruvavaru māḍabahudu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮಾಡಲಿಕ್ಕೆ ಸಾಧ್ಯತೆ ಇರುವವರು ಮಾಡಬಹುದು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0503",
+    "timelineIndex": 503,
+    "sourceId": "background",
+    "startSeconds": 805.2,
+    "endSeconds": 807.99,
+    "captionStartSeconds": 805.2,
+    "captionEndSeconds": 807.99,
+    "sourceOriginal": "ಇಲ್ಲದಿದ್ದರೆ ಬೆಳಿಗ್ಗೆ ನೋಡಿದೆ ಅಂದ್ರೆ ",
+    "sourceRoman": "illadiddare beḷigge nōḍide aṁdre ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಇಲ್ಲದಿದ್ದರೆ ಬೆಳಿಗ್ಗೆ ನೋಡಿದೆ ಅಂದ್ರೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0505",
+    "timelineIndex": 505,
+    "sourceId": "background",
+    "startSeconds": 808.0,
+    "endSeconds": 810.23,
+    "captionStartSeconds": 808.0,
+    "captionEndSeconds": 810.23,
+    "sourceOriginal": "ಬೆಳಿಗ್ಗೆ ಚೆನ್ನಾಗಿ ಇದೆ ಶುಕ್ರ ಹೋರೆ ಮತ್ತು ",
+    "sourceRoman": "beḷigge cennāgi ide śukra hōre mattu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಬೆಳಿಗ್ಗೆ ಚೆನ್ನಾಗಿ ಇದೆ ಶುಕ್ರ ಹೋರೆ ಮತ್ತು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0507",
+    "timelineIndex": 507,
+    "sourceId": "background",
+    "startSeconds": 810.24,
+    "endSeconds": 815.91,
+    "captionStartSeconds": 810.24,
+    "captionEndSeconds": 815.91,
+    "sourceOriginal": "ಬುಧ ಚಂದ್ರ ಹೋರೆಗಳು ಅಂತಏಳು ಕಾಲಿಂದಹವರೆಗೂ ",
+    "sourceRoman": "budha caṁdra hōregaḷu aṁtaēḷu kāliṁdahavaregū ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಬುಧ ಚಂದ್ರ ಹೋರೆಗಳು ಅಂತಏಳು ಕಾಲಿಂದಹವರೆಗೂ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0509",
+    "timelineIndex": 509,
+    "sourceId": "background",
+    "startSeconds": 815.92,
+    "endSeconds": 818.31,
+    "captionStartSeconds": 815.92,
+    "captionEndSeconds": 818.31,
+    "sourceOriginal": "ನೀವು ಕಲಸ ಸ್ಥಾಪನೆ ",
+    "sourceRoman": "nīvu kalasa sthāpane ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ನೀವು ಕಲಸ ಸ್ಥಾಪನೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0511",
+    "timelineIndex": 511,
+    "sourceId": "background",
+    "startSeconds": 818.32,
+    "endSeconds": 822.47,
+    "captionStartSeconds": 818.32,
+    "captionEndSeconds": 822.47,
+    "sourceOriginal": "ದೀಪ ಸಂಯೋಜನೆ ಇದನ್ನ ನವರಾತ್ರಿ ಕಲಸ ಸ್ಥಾಪನೆ ",
+    "sourceRoman": "dīpa saṁyōjane idanna navarātri kalasa sthāpane ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ದೀಪ ಸಂಯೋಜನೆ ಇದನ್ನ ನವರಾತ್ರಿ ಕಲಸ ಸ್ಥಾಪನೆ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0513",
+    "timelineIndex": 513,
+    "sourceId": "background",
+    "startSeconds": 822.48,
+    "endSeconds": 824.71,
+    "captionStartSeconds": 822.48,
+    "captionEndSeconds": 824.71,
+    "sourceOriginal": "ಮಾಡೋದು ಮತ್ತು ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ ",
+    "sourceRoman": "māḍōdu mattu akhaṁḍa dīpa sthāpaneyanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮಾಡೋದು ಮತ್ತು ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0515",
+    "timelineIndex": 515,
+    "sourceId": "background",
+    "startSeconds": 824.72,
+    "endSeconds": 829.03,
+    "captionStartSeconds": 824.72,
+    "captionEndSeconds": 829.03,
+    "sourceOriginal": "ಮಾಡುವರು ಬೆಳಿಗ್ಗೆಏಳು 15 ರಿಂದ 10ಕಾ ವರೆಗೂ ",
+    "sourceRoman": "māḍuvaru beḷiggeēḷu 15 riṁda 10kā varegū ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮಾಡುವರು ಬೆಳಿಗ್ಗೆಏಳು 15 ರಿಂದ 10ಕಾ ವರೆಗೂ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0517",
+    "timelineIndex": 517,
+    "sourceId": "background",
+    "startSeconds": 829.04,
+    "endSeconds": 831.67,
+    "captionStartSeconds": 829.04,
+    "captionEndSeconds": 831.67,
+    "sourceOriginal": "ಅಂತ ಇತ್ತಲ್ರಿ ಈ ಟೈಮ್ ಒಳಗೆ ಸ್ಥಾಪನವನ್ನ ",
+    "sourceRoman": "aṁta ittalri ī ṭaim oḷage sthāpanavanna ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಅಂತ ಇತ್ತಲ್ರಿ ಈ ಟೈಮ್ ಒಳಗೆ ಸ್ಥಾಪನವನ್ನ ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  },
+  {
+    "id": "background-caption-0519",
+    "timelineIndex": 519,
+    "sourceId": "background",
+    "startSeconds": 831.68,
+    "endSeconds": 833.457,
+    "captionStartSeconds": 831.68,
+    "captionEndSeconds": 834.68,
+    "sourceOriginal": "ಮಾಡಬಹುದು ",
+    "sourceRoman": "māḍabahudu ",
+    "status": "caption-and-gpt-reconciled-provisional",
+    "timingBasis": "native Kannada automatic caption cue, not word-aligned audio",
+    "captionOriginal": "ಮಾಡಬಹುದು ",
+    "evidenceSources": [
+      "native-kn-orig-caption",
+      "gpt-coarse",
+      "gpt-fine"
+    ]
+  }
+]

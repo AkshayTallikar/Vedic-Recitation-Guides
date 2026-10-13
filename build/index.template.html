@@ -127,6 +127,14 @@
   .gloss-token b{color:#6a3d26;font-weight:600}
   .chant-break{height:10px}
   .chant-direction{font-size:13px;color:var(--muted);font-style:italic;padding:6px 0}
+  .spoken-action{margin:14px 0 4px;padding:14px 16px;background:#f2f3f4;border-left:3px solid #a7adb1;border-radius:8px;white-space:pre-wrap;font-size:15px;line-height:1.65}
+  .cue-play{float:right;margin:0 0 5px 12px;background:transparent;border:1px solid #d5c3a8;border-radius:5px;color:#6a3d26;font:inherit;font-size:12px;padding:3px 7px;cursor:pointer}
+  .reciting{background:#fff0c9;box-shadow:inset 3px 0 #b78132}
+  .source-transcript{margin:4px 0 10px;font-size:12px;color:var(--muted)}
+  .source-transcript summary{cursor:pointer}
+  .source-transcript p{white-space:pre-wrap;line-height:1.6}
+  .reading-note{font-size:12px;line-height:1.5;margin:8px 0;color:#765923}
+  @media print{.cue-play,.source-transcript{display:none}.reciting{background:transparent;box-shadow:none}}
   .devanagari{
     font-family:'Noto Serif Devanagari','Noto Serif',serif;color:#302820;
     font-size:18px;line-height:1.9;white-space:pre-wrap;margin:10px 0 4px;
@@ -395,6 +403,7 @@
 <script src="data13.js"></script>
 <script src="data14.js"></script>
 <script src="data15.js"></script>
+<script src="data16.js"></script>
 <script src="achar-glosses.js"></script>
 <script src="achar-enrichment.js"></script>
 <script src="achar-rahasya-map.js"></script>

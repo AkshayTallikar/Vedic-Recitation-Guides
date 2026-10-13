@@ -1,0 +1,36 @@
+{
+  "B02": [
+    "Channel name varies śaraṇaṁ/ caraṇaṁ pavitraṁ across native/GPT witnesses; avoid treating it as extra Sanskrit recitation."
+  ],
+  "B03": [
+    "Epigenetics analogy is the speaker’s recorded claim, not added scientific guidance."
+  ],
+  "B08": [
+    "Family-tradition phrase at340–345s is awkward ASR; English retains the sense without adding a prohibition."
+  ],
+  "B09": [
+    "Silver/ācārya phrase around386–389s remains unclear."
+  ],
+  "B11": [
+    "Bell-verse terminal rākṣasa inflection remains incomplete; no canonical ending invented.",
+    "Weeping/scolding colloquial words around524–537s remain noisy in both GPT and captions."
+  ],
+  "B13": [
+    "First verse opening vradēhi and middle vrataṁ rātri yō bhaktaḥ are provisional, not a canonical supplied text."
+  ],
+  "B15": [
+    "Turmeric-related aśna/aṣṭanā caption/GPT wording around655s remains unclear; the rice-or-plate placement and gomaya family-custom alternative are independently supported."
+  ],
+  "B17": [
+    "Closing the deity casket wording around721s needs targeted listening."
+  ],
+  "B18": [
+    "Milk-only vrata aside is supported by the independent model; its trailing connective remains unclear.",
+    "Gajabastra/gajavastra is preserved provisionally; no gejje-vastra normalization inferred without evidence."
+  ],
+  "B19": [
+    "Final hattu kālu (tentatively10:15) agrees across model families; earlier hattu hattuvare remains inconsistent.",
+    "Historical Sunday timings are tied to recording, not current date/location.",
+    "Final caption exceeds media duration by1.223s; raw timing retained and display clamped."
+  ]
+}

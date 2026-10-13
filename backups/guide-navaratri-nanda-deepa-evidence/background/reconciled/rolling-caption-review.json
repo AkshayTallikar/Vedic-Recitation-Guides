@@ -1,0 +1,4682 @@
+[
+  {
+    "timelineIndex": 0,
+    "start": 0.4,
+    "end": 7.349,
+    "captionText": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ",
+    "removedRollingPrefix": "",
+    "retainedText": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ",
+    "reason": "retained including possible spoken repetition"
+  },
+  {
+    "timelineIndex": 1,
+    "start": 7.359,
+    "end": 14.07,
+    "captionText": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ",
+    "removedRollingPrefix": "",
+    "retainedText": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ",
+    "reason": "retained including possible spoken repetition"
+  },
+  {
+    "timelineIndex": 2,
+    "start": 14.08,
+    "end": 16.31,
+    "captionText": "ಗೋವಿಂದ",
+    "removedRollingPrefix": "",
+    "retainedText": "ಗೋವಿಂದ",
+    "reason": "retained including possible spoken repetition"
+  },
+  {
+    "timelineIndex": 3,
+    "start": 16.31,
+    "end": 16.32,
+    "captionText": "ಗೋವಿಂದ",
+    "removedRollingPrefix": "ಗೋವಿಂದ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 4,
+    "start": 16.32,
+    "end": 20.95,
+    "captionText": "ಗೋವಿಂದ ನಾರಾಯಣ",
+    "removedRollingPrefix": "ಗೋವಿಂದ",
+    "retainedText": "ನಾರಾಯಣ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 5,
+    "start": 20.96,
+    "end": 23.189,
+    "captionText": "ಗೋಪಾಲ",
+    "removedRollingPrefix": "",
+    "retainedText": "ಗೋಪಾಲ",
+    "reason": "retained including possible spoken repetition"
+  },
+  {
+    "timelineIndex": 6,
+    "start": 23.189,
+    "end": 23.199,
+    "captionText": "ಗೋಪಾಲ",
+    "removedRollingPrefix": "ಗೋಪಾಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 7,
+    "start": 23.199,
+    "end": 27.91,
+    "captionText": "ಗೋಪಾಲ ನಾರಾಯಣನ",
+    "removedRollingPrefix": "ಗೋಪಾಲ",
+    "retainedText": "ನಾರಾಯಣನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 8,
+    "start": 27.92,
+    "end": 34.709,
+    "captionText": "ಹರಿ ಓಂ ಓಂ ನಮೋ ನಾರಾಯಣ",
+    "removedRollingPrefix": "",
+    "retainedText": "ಹರಿ ಓಂ ಓಂ ನಮೋ ನಾರಾಯಣ",
+    "reason": "retained including possible spoken repetition"
+  },
+  {
+    "timelineIndex": 9,
+    "start": 34.719,
+    "end": 41.19,
+    "captionText": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ",
+    "removedRollingPrefix": "",
+    "retainedText": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ",
+    "reason": "retained including possible spoken repetition"
+  },
+  {
+    "timelineIndex": 10,
+    "start": 41.2,
+    "end": 44.15,
+    "captionText": ">> ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ ಹರಿ ಓಂ ಶರಣಂ ಪವಿತ್ರಂ",
+    "removedRollingPrefix": "",
+    "retainedText": "ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ ಹರಿ ಓಂ ಶರಣಂ ಪವಿತ್ರಂ",
+    "reason": "retained including possible spoken repetition"
+  },
+  {
+    "timelineIndex": 11,
+    "start": 44.15,
+    "end": 44.16,
+    "captionText": ">> ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ ಹರಿ ಓಂ ಶರಣಂ ಪವಿತ್ರಂ",
+    "removedRollingPrefix": "ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ ಹರಿ ಓಂ ಶರಣಂ ಪವಿತ್ರಂ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 12,
+    "start": 44.16,
+    "end": 49.35,
+    "captionText": ">> ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ ಹರಿ ಓಂ ಶರಣಂ ಪವಿತ್ರಂ YouTubeಟ್ಯೂಬ್ ಚಾನೆಲ್ಿನ ಪ್ರಿಯ ವೀಕ್ಷಕರಿಗೆ",
+    "removedRollingPrefix": "ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ ಹರಿ ಓಂ ಶರಣಂ ಪವಿತ್ರಂ",
+    "retainedText": "YouTubeಟ್ಯೂಬ್ ಚಾನೆಲ್ಿನ ಪ್ರಿಯ ವೀಕ್ಷಕರಿಗೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 13,
+    "start": 49.36,
+    "end": 53.59,
+    "captionText": "ನನ್ನ ಪ್ರೀತಿಯ ಹೃದಯಗಳಿಗೆ ನಮಸ್ಕಾರ ನಮಗೆ ಆದರ",
+    "removedRollingPrefix": "",
+    "retainedText": "ನನ್ನ ಪ್ರೀತಿಯ ಹೃದಯಗಳಿಗೆ ನಮಸ್ಕಾರ ನಮಗೆ ಆದರ",
+    "reason": "retained including possible spoken repetition"
+  },
+  {
+    "timelineIndex": 14,
+    "start": 53.59,
+    "end": 53.6,
+    "captionText": "ನನ್ನ ಪ್ರೀತಿಯ ಹೃದಯಗಳಿಗೆ ನಮಸ್ಕಾರ ನಮಗೆ ಆದರ",
+    "removedRollingPrefix": "ನನ್ನ ಪ್ರೀತಿಯ ಹೃದಯಗಳಿಗೆ ನಮಸ್ಕಾರ ನಮಗೆ ಆದರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 15,
+    "start": 53.6,
+    "end": 55.189,
+    "captionText": "ನನ್ನ ಪ್ರೀತಿಯ ಹೃದಯಗಳಿಗೆ ನಮಸ್ಕಾರ ನಮಗೆ ಆದರ ಕೊಟ್ಟು",
+    "removedRollingPrefix": "ನನ್ನ ಪ್ರೀತಿಯ ಹೃದಯಗಳಿಗೆ ನಮಸ್ಕಾರ ನಮಗೆ ಆದರ",
+    "retainedText": "ಕೊಟ್ಟು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 16,
+    "start": 55.189,
+    "end": 55.199,
+    "captionText": "ಕೊಟ್ಟು",
+    "removedRollingPrefix": "ಕೊಟ್ಟು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 17,
+    "start": 55.199,
+    "end": 57.67,
+    "captionText": "ಕೊಟ್ಟು ನಮ್ಮನ್ನ ಇನ್ನಿಷ್ಟು ಉತ್ಸಾಹ ಮಾಡುತ್ತಿರುವ",
+    "removedRollingPrefix": "ಕೊಟ್ಟು",
+    "retainedText": "ನಮ್ಮನ್ನ ಇನ್ನಿಷ್ಟು ಉತ್ಸಾಹ ಮಾಡುತ್ತಿರುವ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 18,
+    "start": 57.67,
+    "end": 57.68,
+    "captionText": "ನಮ್ಮನ್ನ ಇನ್ನಿಷ್ಟು ಉತ್ಸಾಹ ಮಾಡುತ್ತಿರುವ",
+    "removedRollingPrefix": "ನಮ್ಮನ್ನ ಇನ್ನಿಷ್ಟು ಉತ್ಸಾಹ ಮಾಡುತ್ತಿರುವ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 19,
+    "start": 57.68,
+    "end": 60.709,
+    "captionText": "ನಮ್ಮನ್ನ ಇನ್ನಿಷ್ಟು ಉತ್ಸಾಹ ಮಾಡುತ್ತಿರುವ ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ನನ್ನ ಧನ್ಯವಾದಗಳನ್ನ",
+    "removedRollingPrefix": "ನಮ್ಮನ್ನ ಇನ್ನಿಷ್ಟು ಉತ್ಸಾಹ ಮಾಡುತ್ತಿರುವ",
+    "retainedText": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ನನ್ನ ಧನ್ಯವಾದಗಳನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 20,
+    "start": 60.709,
+    "end": 60.719,
+    "captionText": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ನನ್ನ ಧನ್ಯವಾದಗಳನ್ನ",
+    "removedRollingPrefix": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ನನ್ನ ಧನ್ಯವಾದಗಳನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 21,
+    "start": 60.719,
+    "end": 63.51,
+    "captionText": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ನನ್ನ ಧನ್ಯವಾದಗಳನ್ನ ತಿಳಿಸುತ್ತಾ ನವರಾತ್ರಿ",
+    "removedRollingPrefix": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ನನ್ನ ಧನ್ಯವಾದಗಳನ್ನ",
+    "retainedText": "ತಿಳಿಸುತ್ತಾ ನವರಾತ್ರಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 22,
+    "start": 63.51,
+    "end": 63.52,
+    "captionText": "ತಿಳಿಸುತ್ತಾ ನವರಾತ್ರಿ",
+    "removedRollingPrefix": "ತಿಳಿಸುತ್ತಾ ನವರಾತ್ರಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 23,
+    "start": 63.52,
+    "end": 68.789,
+    "captionText": "ತಿಳಿಸುತ್ತಾ ನವರಾತ್ರಿ ನವರಾತ್ರಿಯ ಆರಂಭ ಸರಿಯಾಗಿ ನೋಡಿ ಕುಲದೇವತೆಯ",
+    "removedRollingPrefix": "ತಿಳಿಸುತ್ತಾ ನವರಾತ್ರಿ",
+    "retainedText": "ನವರಾತ್ರಿಯ ಆರಂಭ ಸರಿಯಾಗಿ ನೋಡಿ ಕುಲದೇವತೆಯ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 24,
+    "start": 68.789,
+    "end": 68.799,
+    "captionText": "ನವರಾತ್ರಿಯ ಆರಂಭ ಸರಿಯಾಗಿ ನೋಡಿ ಕುಲದೇವತೆಯ",
+    "removedRollingPrefix": "ನವರಾತ್ರಿಯ ಆರಂಭ ಸರಿಯಾಗಿ ನೋಡಿ ಕುಲದೇವತೆಯ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 25,
+    "start": 68.799,
+    "end": 71.67,
+    "captionText": "ನವರಾತ್ರಿಯ ಆರಂಭ ಸರಿಯಾಗಿ ನೋಡಿ ಕುಲದೇವತೆಯ ಆರಾಧನೆ ಎಂಬುದು ಪಿತೃಗಳ ಆರಾಧನೆ ಮುಗಿದಮೇಲೆ",
+    "removedRollingPrefix": "ನವರಾತ್ರಿಯ ಆರಂಭ ಸರಿಯಾಗಿ ನೋಡಿ ಕುಲದೇವತೆಯ",
+    "retainedText": "ಆರಾಧನೆ ಎಂಬುದು ಪಿತೃಗಳ ಆರಾಧನೆ ಮುಗಿದಮೇಲೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 26,
+    "start": 71.67,
+    "end": 71.68,
+    "captionText": "ಆರಾಧನೆ ಎಂಬುದು ಪಿತೃಗಳ ಆರಾಧನೆ ಮುಗಿದಮೇಲೆ",
+    "removedRollingPrefix": "ಆರಾಧನೆ ಎಂಬುದು ಪಿತೃಗಳ ಆರಾಧನೆ ಮುಗಿದಮೇಲೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 27,
+    "start": 71.68,
+    "end": 74.789,
+    "captionText": "ಆರಾಧನೆ ಎಂಬುದು ಪಿತೃಗಳ ಆರಾಧನೆ ಮುಗಿದಮೇಲೆ ಕುಲದೇವತೆಯ ಆರಾಧನೆಯನ್ನ ನಾವು ಪ್ರಾರಂಭ",
+    "removedRollingPrefix": "ಆರಾಧನೆ ಎಂಬುದು ಪಿತೃಗಳ ಆರಾಧನೆ ಮುಗಿದಮೇಲೆ",
+    "retainedText": "ಕುಲದೇವತೆಯ ಆರಾಧನೆಯನ್ನ ನಾವು ಪ್ರಾರಂಭ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 28,
+    "start": 74.789,
+    "end": 74.799,
+    "captionText": "ಕುಲದೇವತೆಯ ಆರಾಧನೆಯನ್ನ ನಾವು ಪ್ರಾರಂಭ",
+    "removedRollingPrefix": "ಕುಲದೇವತೆಯ ಆರಾಧನೆಯನ್ನ ನಾವು ಪ್ರಾರಂಭ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 29,
+    "start": 74.799,
+    "end": 78.07,
+    "captionText": "ಕುಲದೇವತೆಯ ಆರಾಧನೆಯನ್ನ ನಾವು ಪ್ರಾರಂಭ ಮಾಡ್ತೀವಿ ಮದುವೆಯಲ್ಲಿ ಮುಂಜಿಯಲ್ಲಿ ನಾಂದಿ",
+    "removedRollingPrefix": "ಕುಲದೇವತೆಯ ಆರಾಧನೆಯನ್ನ ನಾವು ಪ್ರಾರಂಭ",
+    "retainedText": "ಮಾಡ್ತೀವಿ ಮದುವೆಯಲ್ಲಿ ಮುಂಜಿಯಲ್ಲಿ ನಾಂದಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 30,
+    "start": 78.07,
+    "end": 78.08,
+    "captionText": "ಮಾಡ್ತೀವಿ ಮದುವೆಯಲ್ಲಿ ಮುಂಜಿಯಲ್ಲಿ ನಾಂದಿ",
+    "removedRollingPrefix": "ಮಾಡ್ತೀವಿ ಮದುವೆಯಲ್ಲಿ ಮುಂಜಿಯಲ್ಲಿ ನಾಂದಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 31,
+    "start": 78.08,
+    "end": 81.35,
+    "captionText": "ಮಾಡ್ತೀವಿ ಮದುವೆಯಲ್ಲಿ ಮುಂಜಿಯಲ್ಲಿ ನಾಂದಿ ಕರೆಯುದು ನೋಡಿದರೆ ಪುಣ್ಯಾಹ ವಾಚನ ಮುಡಿದು ಪಾದ",
+    "removedRollingPrefix": "ಮಾಡ್ತೀವಿ ಮದುವೆಯಲ್ಲಿ ಮುಂಜಿಯಲ್ಲಿ ನಾಂದಿ",
+    "retainedText": "ಕರೆಯುದು ನೋಡಿದರೆ ಪುಣ್ಯಾಹ ವಾಚನ ಮುಡಿದು ಪಾದ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 32,
+    "start": 81.35,
+    "end": 81.36,
+    "captionText": "ಕರೆಯುದು ನೋಡಿದರೆ ಪುಣ್ಯಾಹ ವಾಚನ ಮುಡಿದು ಪಾದ",
+    "removedRollingPrefix": "ಕರೆಯುದು ನೋಡಿದರೆ ಪುಣ್ಯಾಹ ವಾಚನ ಮುಡಿದು ಪಾದ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 33,
+    "start": 81.36,
+    "end": 84.55,
+    "captionText": "ಕರೆಯುದು ನೋಡಿದರೆ ಪುಣ್ಯಾಹ ವಾಚನ ಮುಡಿದು ಪಾದ ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಾಂದಿಯನ್ನ ಕರೆಯುದು ನಾಂದಿ",
+    "removedRollingPrefix": "ಕರೆಯುದು ನೋಡಿದರೆ ಪುಣ್ಯಾಹ ವಾಚನ ಮುಡಿದು ಪಾದ",
+    "retainedText": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಾಂದಿಯನ್ನ ಕರೆಯುದು ನಾಂದಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 34,
+    "start": 84.55,
+    "end": 84.56,
+    "captionText": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಾಂದಿಯನ್ನ ಕರೆಯುದು ನಾಂದಿ",
+    "removedRollingPrefix": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಾಂದಿಯನ್ನ ಕರೆಯುದು ನಾಂದಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 35,
+    "start": 84.56,
+    "end": 87.429,
+    "captionText": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಾಂದಿಯನ್ನ ಕರೆಯುದು ನಾಂದಿ ಕರೆದಮೇಲೆ ಕುಲದೇವರನ್ನ ಕೂಡಿಸೋದು ಅಂತ",
+    "removedRollingPrefix": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಾಂದಿಯನ್ನ ಕರೆಯುದು ನಾಂದಿ",
+    "retainedText": "ಕರೆದಮೇಲೆ ಕುಲದೇವರನ್ನ ಕೂಡಿಸೋದು ಅಂತ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 36,
+    "start": 87.429,
+    "end": 87.439,
+    "captionText": "ಕರೆದಮೇಲೆ ಕುಲದೇವರನ್ನ ಕೂಡಿಸೋದು ಅಂತ",
+    "removedRollingPrefix": "ಕರೆದಮೇಲೆ ಕುಲದೇವರನ್ನ ಕೂಡಿಸೋದು ಅಂತ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 37,
+    "start": 87.439,
+    "end": 89.10900000000001,
+    "captionText": "ಕರೆದಮೇಲೆ ಕುಲದೇವರನ್ನ ಕೂಡಿಸೋದು ಅಂತ ಇಟ್ಕೊಂಡಿದ್ದೆ",
+    "removedRollingPrefix": "ಕರೆದಮೇಲೆ ಕುಲದೇವರನ್ನ ಕೂಡಿಸೋದು ಅಂತ",
+    "retainedText": "ಇಟ್ಕೊಂಡಿದ್ದೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 38,
+    "start": 89.10900000000001,
+    "end": 89.119,
+    "captionText": "ಇಟ್ಕೊಂಡಿದ್ದೆ",
+    "removedRollingPrefix": "ಇಟ್ಕೊಂಡಿದ್ದೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 39,
+    "start": 89.119,
+    "end": 93.91,
+    "captionText": "ಇಟ್ಕೊಂಡಿದ್ದೆ ಸೋ ಹಿರಿಯರ ಆಶೀರ್ವಾದ ಪೂರ್ಣ ಆದಮೇಲೆ ಕುಲದೇವರ",
+    "removedRollingPrefix": "ಇಟ್ಕೊಂಡಿದ್ದೆ",
+    "retainedText": "ಸೋ ಹಿರಿಯರ ಆಶೀರ್ವಾದ ಪೂರ್ಣ ಆದಮೇಲೆ ಕುಲದೇವರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 40,
+    "start": 93.91,
+    "end": 93.92,
+    "captionText": "ಸೋ ಹಿರಿಯರ ಆಶೀರ್ವಾದ ಪೂರ್ಣ ಆದಮೇಲೆ ಕುಲದೇವರ",
+    "removedRollingPrefix": "ಸೋ ಹಿರಿಯರ ಆಶೀರ್ವಾದ ಪೂರ್ಣ ಆದಮೇಲೆ ಕುಲದೇವರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 41,
+    "start": 93.92,
+    "end": 95.749,
+    "captionText": "ಸೋ ಹಿರಿಯರ ಆಶೀರ್ವಾದ ಪೂರ್ಣ ಆದಮೇಲೆ ಕುಲದೇವರ ಆಶೀರ್ವಾದಕ್ಕೆ",
+    "removedRollingPrefix": "ಸೋ ಹಿರಿಯರ ಆಶೀರ್ವಾದ ಪೂರ್ಣ ಆದಮೇಲೆ ಕುಲದೇವರ",
+    "retainedText": "ಆಶೀರ್ವಾದಕ್ಕೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 42,
+    "start": 95.749,
+    "end": 95.759,
+    "captionText": "ಆಶೀರ್ವಾದಕ್ಕೆ",
+    "removedRollingPrefix": "ಆಶೀರ್ವಾದಕ್ಕೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 43,
+    "start": 95.759,
+    "end": 99.99000000000001,
+    "captionText": "ಆಶೀರ್ವಾದಕ್ಕೆ ನವರಾತ್ರಿಯನ್ನ ಕೊಂಡಾಡುದು ನವರಾತ್ರಿ",
+    "removedRollingPrefix": "ಆಶೀರ್ವಾದಕ್ಕೆ",
+    "retainedText": "ನವರಾತ್ರಿಯನ್ನ ಕೊಂಡಾಡುದು ನವರಾತ್ರಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 44,
+    "start": 99.99000000000001,
+    "end": 100.0,
+    "captionText": "ನವರಾತ್ರಿಯನ್ನ ಕೊಂಡಾಡುದು ನವರಾತ್ರಿ",
+    "removedRollingPrefix": "ನವರಾತ್ರಿಯನ್ನ ಕೊಂಡಾಡುದು ನವರಾತ್ರಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 45,
+    "start": 100.0,
+    "end": 101.67,
+    "captionText": "ನವರಾತ್ರಿಯನ್ನ ಕೊಂಡಾಡುದು ನವರಾತ್ರಿ ಬುರಿಯ",
+    "removedRollingPrefix": "ನವರಾತ್ರಿಯನ್ನ ಕೊಂಡಾಡುದು ನವರಾತ್ರಿ",
+    "retainedText": "ಬುರಿಯ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 46,
+    "start": 101.67,
+    "end": 101.68,
+    "captionText": "ಬುರಿಯ",
+    "removedRollingPrefix": "ಬುರಿಯ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 47,
+    "start": 101.68,
+    "end": 104.22999999999999,
+    "captionText": "ಬುರಿಯ ದುರ್ಗಾಲಕ್ಷ್ಮಿ ಸರಸ್ವತಿ ಪೂಜೆ ಮಾತ್ರ ಅಲ್ಲ",
+    "removedRollingPrefix": "ಬುರಿಯ",
+    "retainedText": "ದುರ್ಗಾಲಕ್ಷ್ಮಿ ಸರಸ್ವತಿ ಪೂಜೆ ಮಾತ್ರ ಅಲ್ಲ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 48,
+    "start": 104.22999999999999,
+    "end": 104.24000000000001,
+    "captionText": "ದುರ್ಗಾಲಕ್ಷ್ಮಿ ಸರಸ್ವತಿ ಪೂಜೆ ಮಾತ್ರ ಅಲ್ಲ",
+    "removedRollingPrefix": "ದುರ್ಗಾಲಕ್ಷ್ಮಿ ಸರಸ್ವತಿ ಪೂಜೆ ಮಾತ್ರ ಅಲ್ಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 49,
+    "start": 104.24000000000001,
+    "end": 106.38900000000001,
+    "captionText": "ದುರ್ಗಾಲಕ್ಷ್ಮಿ ಸರಸ್ವತಿ ಪೂಜೆ ಮಾತ್ರ ಅಲ್ಲ ನಮ್ಮ ಕುಲದೇವರು ಏನಿದ್ದಾರೆ ವೆಂಕಟರಮಣ",
+    "removedRollingPrefix": "ದುರ್ಗಾಲಕ್ಷ್ಮಿ ಸರಸ್ವತಿ ಪೂಜೆ ಮಾತ್ರ ಅಲ್ಲ",
+    "retainedText": "ನಮ್ಮ ಕುಲದೇವರು ಏನಿದ್ದಾರೆ ವೆಂಕಟರಮಣ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 50,
+    "start": 106.38900000000001,
+    "end": 106.399,
+    "captionText": "ನಮ್ಮ ಕುಲದೇವರು ಏನಿದ್ದಾರೆ ವೆಂಕಟರಮಣ",
+    "removedRollingPrefix": "ನಮ್ಮ ಕುಲದೇವರು ಏನಿದ್ದಾರೆ ವೆಂಕಟರಮಣ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 51,
+    "start": 106.399,
+    "end": 110.789,
+    "captionText": "ನಮ್ಮ ಕುಲದೇವರು ಏನಿದ್ದಾರೆ ವೆಂಕಟರಮಣ ದೇವರಾಗಿರಲಿ ನರಸಿಂಹ ದೇವರಾಗಿರಲಿ",
+    "removedRollingPrefix": "ನಮ್ಮ ಕುಲದೇವರು ಏನಿದ್ದಾರೆ ವೆಂಕಟರಮಣ",
+    "retainedText": "ದೇವರಾಗಿರಲಿ ನರಸಿಂಹ ದೇವರಾಗಿರಲಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 52,
+    "start": 110.789,
+    "end": 110.799,
+    "captionText": "ದೇವರಾಗಿರಲಿ ನರಸಿಂಹ ದೇವರಾಗಿರಲಿ",
+    "removedRollingPrefix": "ದೇವರಾಗಿರಲಿ ನರಸಿಂಹ ದೇವರಾಗಿರಲಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 53,
+    "start": 110.799,
+    "end": 113.91,
+    "captionText": "ದೇವರಾಗಿರಲಿ ನರಸಿಂಹ ದೇವರಾಗಿರಲಿ ಒಬ್ಬರಿಗೆ ಒಬ್ಬೊಂದು ದೇವರು ಕುಲದೇವರು ಇರ್ತಾರೆ",
+    "removedRollingPrefix": "ದೇವರಾಗಿರಲಿ ನರಸಿಂಹ ದೇವರಾಗಿರಲಿ",
+    "retainedText": "ಒಬ್ಬರಿಗೆ ಒಬ್ಬೊಂದು ದೇವರು ಕುಲದೇವರು ಇರ್ತಾರೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 54,
+    "start": 113.91,
+    "end": 113.92,
+    "captionText": "ಒಬ್ಬರಿಗೆ ಒಬ್ಬೊಂದು ದೇವರು ಕುಲದೇವರು ಇರ್ತಾರೆ",
+    "removedRollingPrefix": "ಒಬ್ಬರಿಗೆ ಒಬ್ಬೊಂದು ದೇವರು ಕುಲದೇವರು ಇರ್ತಾರೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 55,
+    "start": 113.92,
+    "end": 116.87,
+    "captionText": "ಒಬ್ಬರಿಗೆ ಒಬ್ಬೊಂದು ದೇವರು ಕುಲದೇವರು ಇರ್ತಾರೆ ಆ ದೇವರನ್ನ ಈ ಒಂಬತ್ತು ದಿನಗಳಲ್ಲಿಯೂ",
+    "removedRollingPrefix": "ಒಬ್ಬರಿಗೆ ಒಬ್ಬೊಂದು ದೇವರು ಕುಲದೇವರು ಇರ್ತಾರೆ",
+    "retainedText": "ಆ ದೇವರನ್ನ ಈ ಒಂಬತ್ತು ದಿನಗಳಲ್ಲಿಯೂ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 56,
+    "start": 116.87,
+    "end": 116.88,
+    "captionText": "ಆ ದೇವರನ್ನ ಈ ಒಂಬತ್ತು ದಿನಗಳಲ್ಲಿಯೂ",
+    "removedRollingPrefix": "ಆ ದೇವರನ್ನ ಈ ಒಂಬತ್ತು ದಿನಗಳಲ್ಲಿಯೂ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 57,
+    "start": 116.88,
+    "end": 118.31,
+    "captionText": "ಆ ದೇವರನ್ನ ಈ ಒಂಬತ್ತು ದಿನಗಳಲ್ಲಿಯೂ ಪೂಜೆಯನ್ನಾ",
+    "removedRollingPrefix": "ಆ ದೇವರನ್ನ ಈ ಒಂಬತ್ತು ದಿನಗಳಲ್ಲಿಯೂ",
+    "retainedText": "ಪೂಜೆಯನ್ನಾ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 58,
+    "start": 118.31,
+    "end": 118.32,
+    "captionText": "ಪೂಜೆಯನ್ನಾ",
+    "removedRollingPrefix": "ಪೂಜೆಯನ್ನಾ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 59,
+    "start": 118.32,
+    "end": 121.67,
+    "captionText": "ಪೂಜೆಯನ್ನಾ ಕುಲದೇವತೆಯ ಅನುಗ್ರಹವನ್ನ ಪಡೆಯುವುದು ಮಾಹಾಳ್ಯ",
+    "removedRollingPrefix": "ಪೂಜೆಯನ್ನಾ",
+    "retainedText": "ಕುಲದೇವತೆಯ ಅನುಗ್ರಹವನ್ನ ಪಡೆಯುವುದು ಮಾಹಾಳ್ಯ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 60,
+    "start": 121.67,
+    "end": 121.68,
+    "captionText": "ಕುಲದೇವತೆಯ ಅನುಗ್ರಹವನ್ನ ಪಡೆಯುವುದು ಮಾಹಾಳ್ಯ",
+    "removedRollingPrefix": "ಕುಲದೇವತೆಯ ಅನುಗ್ರಹವನ್ನ ಪಡೆಯುವುದು ಮಾಹಾಳ್ಯ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 61,
+    "start": 121.68,
+    "end": 125.19,
+    "captionText": "ಕುಲದೇವತೆಯ ಅನುಗ್ರಹವನ್ನ ಪಡೆಯುವುದು ಮಾಹಾಳ್ಯ ಪಕ್ಷ ಅಂಬುದು ಪಾಸ್ಟ್ ನಮ್ಮ ಪಾಸ್ಟ್ ಏನಿದೆ",
+    "removedRollingPrefix": "ಕುಲದೇವತೆಯ ಅನುಗ್ರಹವನ್ನ ಪಡೆಯುವುದು ಮಾಹಾಳ್ಯ",
+    "retainedText": "ಪಕ್ಷ ಅಂಬುದು ಪಾಸ್ಟ್ ನಮ್ಮ ಪಾಸ್ಟ್ ಏನಿದೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 62,
+    "start": 125.19,
+    "end": 125.2,
+    "captionText": "ಪಕ್ಷ ಅಂಬುದು ಪಾಸ್ಟ್ ನಮ್ಮ ಪಾಸ್ಟ್ ಏನಿದೆ",
+    "removedRollingPrefix": "ಪಕ್ಷ ಅಂಬುದು ಪಾಸ್ಟ್ ನಮ್ಮ ಪಾಸ್ಟ್ ಏನಿದೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 63,
+    "start": 125.2,
+    "end": 128.869,
+    "captionText": "ಪಕ್ಷ ಅಂಬುದು ಪಾಸ್ಟ್ ನಮ್ಮ ಪಾಸ್ಟ್ ಏನಿದೆ ಅದನ್ನ ಸರಿ ಮಾಡುವುದು ಅಂತ ಹೇಳುತ್ತವೆ",
+    "removedRollingPrefix": "ಪಕ್ಷ ಅಂಬುದು ಪಾಸ್ಟ್ ನಮ್ಮ ಪಾಸ್ಟ್ ಏನಿದೆ",
+    "retainedText": "ಅದನ್ನ ಸರಿ ಮಾಡುವುದು ಅಂತ ಹೇಳುತ್ತವೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 64,
+    "start": 128.869,
+    "end": 128.879,
+    "captionText": "ಅದನ್ನ ಸರಿ ಮಾಡುವುದು ಅಂತ ಹೇಳುತ್ತವೆ",
+    "removedRollingPrefix": "ಅದನ್ನ ಸರಿ ಮಾಡುವುದು ಅಂತ ಹೇಳುತ್ತವೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 65,
+    "start": 128.879,
+    "end": 131.83,
+    "captionText": "ಅದನ್ನ ಸರಿ ಮಾಡುವುದು ಅಂತ ಹೇಳುತ್ತವೆ ನಮ್ಮ ಹಿರಿಯರನ್ನ",
+    "removedRollingPrefix": "ಅದನ್ನ ಸರಿ ಮಾಡುವುದು ಅಂತ ಹೇಳುತ್ತವೆ",
+    "retainedText": "ನಮ್ಮ ಹಿರಿಯರನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 66,
+    "start": 131.83,
+    "end": 131.84,
+    "captionText": "ನಮ್ಮ ಹಿರಿಯರನ್ನ",
+    "removedRollingPrefix": "ನಮ್ಮ ಹಿರಿಯರನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 67,
+    "start": 131.84,
+    "end": 135.43,
+    "captionText": "ನಮ್ಮ ಹಿರಿಯರನ್ನ ನೆನಪು ಮಾಡಿಕೊಂಡು ಅವರು ನಮಗೆ ಈ ದೇಹ ಏನು ನಮಗೆ",
+    "removedRollingPrefix": "ನಮ್ಮ ಹಿರಿಯರನ್ನ",
+    "retainedText": "ನೆನಪು ಮಾಡಿಕೊಂಡು ಅವರು ನಮಗೆ ಈ ದೇಹ ಏನು ನಮಗೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 68,
+    "start": 135.43,
+    "end": 135.44,
+    "captionText": "ನೆನಪು ಮಾಡಿಕೊಂಡು ಅವರು ನಮಗೆ ಈ ದೇಹ ಏನು ನಮಗೆ",
+    "removedRollingPrefix": "ನೆನಪು ಮಾಡಿಕೊಂಡು ಅವರು ನಮಗೆ ಈ ದೇಹ ಏನು ನಮಗೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 69,
+    "start": 135.44,
+    "end": 139.03,
+    "captionText": "ನೆನಪು ಮಾಡಿಕೊಂಡು ಅವರು ನಮಗೆ ಈ ದೇಹ ಏನು ನಮಗೆ ಬುದ್ಧಿವಿಲಾಸ ನಮಗಏನೊಂದು ಅದ್ಭುತವಾದ ರೂಪ",
+    "removedRollingPrefix": "ನೆನಪು ಮಾಡಿಕೊಂಡು ಅವರು ನಮಗೆ ಈ ದೇಹ ಏನು ನಮಗೆ",
+    "retainedText": "ಬುದ್ಧಿವಿಲಾಸ ನಮಗಏನೊಂದು ಅದ್ಭುತವಾದ ರೂಪ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 70,
+    "start": 139.03,
+    "end": 139.04,
+    "captionText": "ಬುದ್ಧಿವಿಲಾಸ ನಮಗಏನೊಂದು ಅದ್ಭುತವಾದ ರೂಪ",
+    "removedRollingPrefix": "ಬುದ್ಧಿವಿಲಾಸ ನಮಗಏನೊಂದು ಅದ್ಭುತವಾದ ರೂಪ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 71,
+    "start": 139.04,
+    "end": 141.19,
+    "captionText": "ಬುದ್ಧಿವಿಲಾಸ ನಮಗಏನೊಂದು ಅದ್ಭುತವಾದ ರೂಪ ಲಾವಣ್ಯಗಳನ್ನೆಲ್ಲ ಕೊಟ್ಟದ್ದು ಯಾರು ನಮ್ಮ",
+    "removedRollingPrefix": "ಬುದ್ಧಿವಿಲಾಸ ನಮಗಏನೊಂದು ಅದ್ಭುತವಾದ ರೂಪ",
+    "retainedText": "ಲಾವಣ್ಯಗಳನ್ನೆಲ್ಲ ಕೊಟ್ಟದ್ದು ಯಾರು ನಮ್ಮ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 72,
+    "start": 141.19,
+    "end": 141.2,
+    "captionText": "ಲಾವಣ್ಯಗಳನ್ನೆಲ್ಲ ಕೊಟ್ಟದ್ದು ಯಾರು ನಮ್ಮ",
+    "removedRollingPrefix": "ಲಾವಣ್ಯಗಳನ್ನೆಲ್ಲ ಕೊಟ್ಟದ್ದು ಯಾರು ನಮ್ಮ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 73,
+    "start": 141.2,
+    "end": 142.71,
+    "captionText": "ಲಾವಣ್ಯಗಳನ್ನೆಲ್ಲ ಕೊಟ್ಟದ್ದು ಯಾರು ನಮ್ಮ ಹಿರಿಯರು",
+    "removedRollingPrefix": "ಲಾವಣ್ಯಗಳನ್ನೆಲ್ಲ ಕೊಟ್ಟದ್ದು ಯಾರು ನಮ್ಮ",
+    "retainedText": "ಹಿರಿಯರು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 74,
+    "start": 142.71,
+    "end": 142.72,
+    "captionText": "ಹಿರಿಯರು",
+    "removedRollingPrefix": "ಹಿರಿಯರು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 75,
+    "start": 142.72,
+    "end": 145.67000000000002,
+    "captionText": "ಹಿರಿಯರು ಅವರಿಗೆ ಥ್ಯಾಂಕ್ಸ್ ಹೇಳಿದ್ದೇವೆ",
+    "removedRollingPrefix": "ಹಿರಿಯರು",
+    "retainedText": "ಅವರಿಗೆ ಥ್ಯಾಂಕ್ಸ್ ಹೇಳಿದ್ದೇವೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 76,
+    "start": 145.67000000000002,
+    "end": 145.68,
+    "captionText": "ಅವರಿಗೆ ಥ್ಯಾಂಕ್ಸ್ ಹೇಳಿದ್ದೇವೆ",
+    "removedRollingPrefix": "ಅವರಿಗೆ ಥ್ಯಾಂಕ್ಸ್ ಹೇಳಿದ್ದೇವೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 77,
+    "start": 145.68,
+    "end": 149.11,
+    "captionText": "ಅವರಿಗೆ ಥ್ಯಾಂಕ್ಸ್ ಹೇಳಿದ್ದೇವೆ ಸೋ ಮನಸ್ಸಿನಲ್ಲಿರುವ ಹಂಜಿಕೆ ಏನಿದೆ ಅದನ್ನೆಲ್ಲ",
+    "removedRollingPrefix": "ಅವರಿಗೆ ಥ್ಯಾಂಕ್ಸ್ ಹೇಳಿದ್ದೇವೆ",
+    "retainedText": "ಸೋ ಮನಸ್ಸಿನಲ್ಲಿರುವ ಹಂಜಿಕೆ ಏನಿದೆ ಅದನ್ನೆಲ್ಲ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 78,
+    "start": 149.11,
+    "end": 149.12,
+    "captionText": "ಸೋ ಮನಸ್ಸಿನಲ್ಲಿರುವ ಹಂಜಿಕೆ ಏನಿದೆ ಅದನ್ನೆಲ್ಲ",
+    "removedRollingPrefix": "ಸೋ ಮನಸ್ಸಿನಲ್ಲಿರುವ ಹಂಜಿಕೆ ಏನಿದೆ ಅದನ್ನೆಲ್ಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 79,
+    "start": 149.12,
+    "end": 152.47,
+    "captionText": "ಸೋ ಮನಸ್ಸಿನಲ್ಲಿರುವ ಹಂಜಿಕೆ ಏನಿದೆ ಅದನ್ನೆಲ್ಲ ಕೂಡ ನಿವಾರಣೆ ಮಾಡಿಕೊಂಡು ಗ್ರಾಟಿಟ್ಯೂಡ್ ಥೆರಪಿ",
+    "removedRollingPrefix": "ಸೋ ಮನಸ್ಸಿನಲ್ಲಿರುವ ಹಂಜಿಕೆ ಏನಿದೆ ಅದನ್ನೆಲ್ಲ",
+    "retainedText": "ಕೂಡ ನಿವಾರಣೆ ಮಾಡಿಕೊಂಡು ಗ್ರಾಟಿಟ್ಯೂಡ್ ಥೆರಪಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 80,
+    "start": 152.47,
+    "end": 152.48,
+    "captionText": "ಕೂಡ ನಿವಾರಣೆ ಮಾಡಿಕೊಂಡು ಗ್ರಾಟಿಟ್ಯೂಡ್ ಥೆರಪಿ",
+    "removedRollingPrefix": "ಕೂಡ ನಿವಾರಣೆ ಮಾಡಿಕೊಂಡು ಗ್ರಾಟಿಟ್ಯೂಡ್ ಥೆರಪಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 81,
+    "start": 152.48,
+    "end": 156.71,
+    "captionText": "ಕೂಡ ನಿವಾರಣೆ ಮಾಡಿಕೊಂಡು ಗ್ರಾಟಿಟ್ಯೂಡ್ ಥೆರಪಿ ಅಂತ ಹೆಸರು ಅದಕ್ಕೆ ಮಹಾಳಯ ನಮ್ಮ ಡಿಎನ್ಎ ನಮ್ಮ",
+    "removedRollingPrefix": "ಕೂಡ ನಿವಾರಣೆ ಮಾಡಿಕೊಂಡು ಗ್ರಾಟಿಟ್ಯೂಡ್ ಥೆರಪಿ",
+    "retainedText": "ಅಂತ ಹೆಸರು ಅದಕ್ಕೆ ಮಹಾಳಯ ನಮ್ಮ ಡಿಎನ್ಎ ನಮ್ಮ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 82,
+    "start": 156.71,
+    "end": 156.72,
+    "captionText": "ಅಂತ ಹೆಸರು ಅದಕ್ಕೆ ಮಹಾಳಯ ನಮ್ಮ ಡಿಎನ್ಎ ನಮ್ಮ",
+    "removedRollingPrefix": "ಅಂತ ಹೆಸರು ಅದಕ್ಕೆ ಮಹಾಳಯ ನಮ್ಮ ಡಿಎನ್ಎ ನಮ್ಮ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 83,
+    "start": 156.72,
+    "end": 159.82999999999998,
+    "captionText": "ಅಂತ ಹೆಸರು ಅದಕ್ಕೆ ಮಹಾಳಯ ನಮ್ಮ ಡಿಎನ್ಎ ನಮ್ಮ ಡಿಎನ್ಎ ವನ್ನ",
+    "removedRollingPrefix": "ಅಂತ ಹೆಸರು ಅದಕ್ಕೆ ಮಹಾಳಯ ನಮ್ಮ ಡಿಎನ್ಎ ನಮ್ಮ",
+    "retainedText": "ಡಿಎನ್ಎ ವನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 84,
+    "start": 159.82999999999998,
+    "end": 159.84,
+    "captionText": "ಡಿಎನ್ಎ ವನ್ನ",
+    "removedRollingPrefix": "ಡಿಎನ್ಎ ವನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 85,
+    "start": 159.84,
+    "end": 162.15,
+    "captionText": "ಡಿಎನ್ಎ ವನ್ನ ಎಪಿಕ್ ಜೆನೆಟಿಕ್ಸ್ ಅಂತ ಹೇಳ್ತಾರೆ ಎಪಿಕ್",
+    "removedRollingPrefix": "ಡಿಎನ್ಎ ವನ್ನ",
+    "retainedText": "ಎಪಿಕ್ ಜೆನೆಟಿಕ್ಸ್ ಅಂತ ಹೇಳ್ತಾರೆ ಎಪಿಕ್",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 86,
+    "start": 162.15,
+    "end": 162.16,
+    "captionText": "ಎಪಿಕ್ ಜೆನೆಟಿಕ್ಸ್ ಅಂತ ಹೇಳ್ತಾರೆ ಎಪಿಕ್",
+    "removedRollingPrefix": "ಎಪಿಕ್ ಜೆನೆಟಿಕ್ಸ್ ಅಂತ ಹೇಳ್ತಾರೆ ಎಪಿಕ್",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 87,
+    "start": 162.16,
+    "end": 165.27,
+    "captionText": "ಎಪಿಕ್ ಜೆನೆಟಿಕ್ಸ್ ಅಂತ ಹೇಳ್ತಾರೆ ಎಪಿಕ್ ಜೆನೆಟಿಕ್ಸ್ ಅವರಿಗೆ",
+    "removedRollingPrefix": "ಎಪಿಕ್ ಜೆನೆಟಿಕ್ಸ್ ಅಂತ ಹೇಳ್ತಾರೆ ಎಪಿಕ್",
+    "retainedText": "ಜೆನೆಟಿಕ್ಸ್ ಅವರಿಗೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 88,
+    "start": 165.27,
+    "end": 165.28,
+    "captionText": "ಜೆನೆಟಿಕ್ಸ್ ಅವರಿಗೆ",
+    "removedRollingPrefix": "ಜೆನೆಟಿಕ್ಸ್ ಅವರಿಗೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 89,
+    "start": 165.28,
+    "end": 170.22899999999998,
+    "captionText": "ಜೆನೆಟಿಕ್ಸ್ ಅವರಿಗೆ ನಾವು ಕೃತಜ್ಞತೆಯನ್ನ ಥ್ಯಾಂಕ್ಸ್ ಅನ್ನ ಹೇಳಿ",
+    "removedRollingPrefix": "ಜೆನೆಟಿಕ್ಸ್ ಅವರಿಗೆ",
+    "retainedText": "ನಾವು ಕೃತಜ್ಞತೆಯನ್ನ ಥ್ಯಾಂಕ್ಸ್ ಅನ್ನ ಹೇಳಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 90,
+    "start": 170.22899999999998,
+    "end": 170.239,
+    "captionText": "ನಾವು ಕೃತಜ್ಞತೆಯನ್ನ ಥ್ಯಾಂಕ್ಸ್ ಅನ್ನ ಹೇಳಿ",
+    "removedRollingPrefix": "ನಾವು ಕೃತಜ್ಞತೆಯನ್ನ ಥ್ಯಾಂಕ್ಸ್ ಅನ್ನ ಹೇಳಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 91,
+    "start": 170.239,
+    "end": 174.39,
+    "captionText": "ನಾವು ಕೃತಜ್ಞತೆಯನ್ನ ಥ್ಯಾಂಕ್ಸ್ ಅನ್ನ ಹೇಳಿ ಆಸ್ವೀಜ ಮಾಸದಲ್ಲಿ ನವರಾತ್ರಿಯನ್ನ",
+    "removedRollingPrefix": "ನಾವು ಕೃತಜ್ಞತೆಯನ್ನ ಥ್ಯಾಂಕ್ಸ್ ಅನ್ನ ಹೇಳಿ",
+    "retainedText": "ಆಸ್ವೀಜ ಮಾಸದಲ್ಲಿ ನವರಾತ್ರಿಯನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 92,
+    "start": 174.39,
+    "end": 174.4,
+    "captionText": "ಆಸ್ವೀಜ ಮಾಸದಲ್ಲಿ ನವರಾತ್ರಿಯನ್ನ",
+    "removedRollingPrefix": "ಆಸ್ವೀಜ ಮಾಸದಲ್ಲಿ ನವರಾತ್ರಿಯನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 93,
+    "start": 174.4,
+    "end": 176.07,
+    "captionText": "ಆಸ್ವೀಜ ಮಾಸದಲ್ಲಿ ನವರಾತ್ರಿಯನ್ನ ತೊಡಗುತ್ತೇವೆ",
+    "removedRollingPrefix": "ಆಸ್ವೀಜ ಮಾಸದಲ್ಲಿ ನವರಾತ್ರಿಯನ್ನ",
+    "retainedText": "ತೊಡಗುತ್ತೇವೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 94,
+    "start": 176.07,
+    "end": 176.07999999999998,
+    "captionText": "ತೊಡಗುತ್ತೇವೆ",
+    "removedRollingPrefix": "ತೊಡಗುತ್ತೇವೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 95,
+    "start": 176.07999999999998,
+    "end": 178.869,
+    "captionText": "ತೊಡಗುತ್ತೇವೆ ಈನ ನವರಾತ್ರಿ ಕಾಲ",
+    "removedRollingPrefix": "ತೊಡಗುತ್ತೇವೆ",
+    "retainedText": "ಈನ ನವರಾತ್ರಿ ಕಾಲ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 96,
+    "start": 178.869,
+    "end": 178.879,
+    "captionText": "ಈನ ನವರಾತ್ರಿ ಕಾಲ",
+    "removedRollingPrefix": "ಈನ ನವರಾತ್ರಿ ಕಾಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 97,
+    "start": 178.879,
+    "end": 182.149,
+    "captionText": "ಈನ ನವರಾತ್ರಿ ಕಾಲ ಏನ್ ಹೇಳೋದು ಕ್ಲೈಮೇಟ್ ಚೇಂಜಿಂಗ್ ಕಾಲ ಅಂತ",
+    "removedRollingPrefix": "ಈನ ನವರಾತ್ರಿ ಕಾಲ",
+    "retainedText": "ಏನ್ ಹೇಳೋದು ಕ್ಲೈಮೇಟ್ ಚೇಂಜಿಂಗ್ ಕಾಲ ಅಂತ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 98,
+    "start": 182.149,
+    "end": 182.159,
+    "captionText": "ಏನ್ ಹೇಳೋದು ಕ್ಲೈಮೇಟ್ ಚೇಂಜಿಂಗ್ ಕಾಲ ಅಂತ",
+    "removedRollingPrefix": "ಏನ್ ಹೇಳೋದು ಕ್ಲೈಮೇಟ್ ಚೇಂಜಿಂಗ್ ಕಾಲ ಅಂತ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 99,
+    "start": 182.159,
+    "end": 185.27,
+    "captionText": "ಏನ್ ಹೇಳೋದು ಕ್ಲೈಮೇಟ್ ಚೇಂಜಿಂಗ್ ಕಾಲ ಅಂತ ಆದ್ಮರಂದ ವ್ರತವನ್ನ ಮಾಡು ಮೈಯನ್ನ ಡಿಟಾಕ್ಸ್",
+    "removedRollingPrefix": "ಏನ್ ಹೇಳೋದು ಕ್ಲೈಮೇಟ್ ಚೇಂಜಿಂಗ್ ಕಾಲ ಅಂತ",
+    "retainedText": "ಆದ್ಮರಂದ ವ್ರತವನ್ನ ಮಾಡು ಮೈಯನ್ನ ಡಿಟಾಕ್ಸ್",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 100,
+    "start": 185.27,
+    "end": 185.28,
+    "captionText": "ಆದ್ಮರಂದ ವ್ರತವನ್ನ ಮಾಡು ಮೈಯನ್ನ ಡಿಟಾಕ್ಸ್",
+    "removedRollingPrefix": "ಆದ್ಮರಂದ ವ್ರತವನ್ನ ಮಾಡು ಮೈಯನ್ನ ಡಿಟಾಕ್ಸ್",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 101,
+    "start": 185.28,
+    "end": 187.91,
+    "captionText": "ಆದ್ಮರಂದ ವ್ರತವನ್ನ ಮಾಡು ಮೈಯನ್ನ ಡಿಟಾಕ್ಸ್ ಮಾಡಿಕೊಳ್ಳು ಅಂತ ಇದರಲ್ಲಿ ಮೊದಲು ಮೂರು ದಿನ",
+    "removedRollingPrefix": "ಆದ್ಮರಂದ ವ್ರತವನ್ನ ಮಾಡು ಮೈಯನ್ನ ಡಿಟಾಕ್ಸ್",
+    "retainedText": "ಮಾಡಿಕೊಳ್ಳು ಅಂತ ಇದರಲ್ಲಿ ಮೊದಲು ಮೂರು ದಿನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 102,
+    "start": 187.91,
+    "end": 187.92,
+    "captionText": "ಮಾಡಿಕೊಳ್ಳು ಅಂತ ಇದರಲ್ಲಿ ಮೊದಲು ಮೂರು ದಿನ",
+    "removedRollingPrefix": "ಮಾಡಿಕೊಳ್ಳು ಅಂತ ಇದರಲ್ಲಿ ಮೊದಲು ಮೂರು ದಿನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 103,
+    "start": 187.92,
+    "end": 191.35,
+    "captionText": "ಮಾಡಿಕೊಳ್ಳು ಅಂತ ಇದರಲ್ಲಿ ಮೊದಲು ಮೂರು ದಿನ ದುರ್ಗೆ ದುರ್ಗೆ",
+    "removedRollingPrefix": "ಮಾಡಿಕೊಳ್ಳು ಅಂತ ಇದರಲ್ಲಿ ಮೊದಲು ಮೂರು ದಿನ",
+    "retainedText": "ದುರ್ಗೆ ದುರ್ಗೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 104,
+    "start": 191.35,
+    "end": 191.36,
+    "captionText": "ದುರ್ಗೆ ದುರ್ಗೆ",
+    "removedRollingPrefix": "ದುರ್ಗೆ ದುರ್ಗೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 105,
+    "start": 191.36,
+    "end": 192.869,
+    "captionText": "ದುರ್ಗೆ ದುರ್ಗೆ ದುರ್ಗತಿನಾಸಿನಿ",
+    "removedRollingPrefix": "ದುರ್ಗೆ ದುರ್ಗೆ",
+    "retainedText": "ದುರ್ಗತಿನಾಸಿನಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 106,
+    "start": 192.869,
+    "end": 192.879,
+    "captionText": "ದುರ್ಗತಿನಾಸಿನಿ",
+    "removedRollingPrefix": "ದುರ್ಗತಿನಾಸಿನಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 107,
+    "start": 192.879,
+    "end": 195.35,
+    "captionText": "ದುರ್ಗತಿನಾಸಿನಿ ಅಂತ ಹೇಳ್ತಾರೆ",
+    "removedRollingPrefix": "ದುರ್ಗತಿನಾಸಿನಿ",
+    "retainedText": "ಅಂತ ಹೇಳ್ತಾರೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 108,
+    "start": 195.35,
+    "end": 195.36,
+    "captionText": "ಅಂತ ಹೇಳ್ತಾರೆ",
+    "removedRollingPrefix": "ಅಂತ ಹೇಳ್ತಾರೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 109,
+    "start": 195.36,
+    "end": 198.869,
+    "captionText": "ಅಂತ ಹೇಳ್ತಾರೆ ಅಂದರೆ ನಮಗೇನು ದುಃಖಗಳು ದುರ್ಗತಿಗಳು",
+    "removedRollingPrefix": "ಅಂತ ಹೇಳ್ತಾರೆ",
+    "retainedText": "ಅಂದರೆ ನಮಗೇನು ದುಃಖಗಳು ದುರ್ಗತಿಗಳು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 110,
+    "start": 198.869,
+    "end": 198.879,
+    "captionText": "ಅಂದರೆ ನಮಗೇನು ದುಃಖಗಳು ದುರ್ಗತಿಗಳು",
+    "removedRollingPrefix": "ಅಂದರೆ ನಮಗೇನು ದುಃಖಗಳು ದುರ್ಗತಿಗಳು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 111,
+    "start": 198.879,
+    "end": 202.39,
+    "captionText": "ಅಂದರೆ ನಮಗೇನು ದುಃಖಗಳು ದುರ್ಗತಿಗಳು ಇದನ್ನೆಲ್ಲ ನಾಶನ ಮಾಡುತ್ತಾಳೆ",
+    "removedRollingPrefix": "ಅಂದರೆ ನಮಗೇನು ದುಃಖಗಳು ದುರ್ಗತಿಗಳು",
+    "retainedText": "ಇದನ್ನೆಲ್ಲ ನಾಶನ ಮಾಡುತ್ತಾಳೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 112,
+    "start": 202.39,
+    "end": 202.4,
+    "captionText": "ಇದನ್ನೆಲ್ಲ ನಾಶನ ಮಾಡುತ್ತಾಳೆ",
+    "removedRollingPrefix": "ಇದನ್ನೆಲ್ಲ ನಾಶನ ಮಾಡುತ್ತಾಳೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 113,
+    "start": 202.4,
+    "end": 206.07,
+    "captionText": "ಇದನ್ನೆಲ್ಲ ನಾಶನ ಮಾಡುತ್ತಾಳೆ ಆದ್ದರಿಂದ ಮೊದಲು ಮೂರು ದಿನ ಕೆಟ್ಟದಗಳನ್ನೆಲ್ಲ",
+    "removedRollingPrefix": "ಇದನ್ನೆಲ್ಲ ನಾಶನ ಮಾಡುತ್ತಾಳೆ",
+    "retainedText": "ಆದ್ದರಿಂದ ಮೊದಲು ಮೂರು ದಿನ ಕೆಟ್ಟದಗಳನ್ನೆಲ್ಲ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 114,
+    "start": 206.07,
+    "end": 206.07999999999998,
+    "captionText": "ಆದ್ದರಿಂದ ಮೊದಲು ಮೂರು ದಿನ ಕೆಟ್ಟದಗಳನ್ನೆಲ್ಲ",
+    "removedRollingPrefix": "ಆದ್ದರಿಂದ ಮೊದಲು ಮೂರು ದಿನ ಕೆಟ್ಟದಗಳನ್ನೆಲ್ಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 115,
+    "start": 206.07999999999998,
+    "end": 208.869,
+    "captionText": "ಆದ್ದರಿಂದ ಮೊದಲು ಮೂರು ದಿನ ಕೆಟ್ಟದಗಳನ್ನೆಲ್ಲ ನಾಶನ ಮಾಡಿ ಮತ್ತೆ ಮೂರು ದಿನ ಮಹಾಲಕ್ಷ್ಮಿ",
+    "removedRollingPrefix": "ಆದ್ದರಿಂದ ಮೊದಲು ಮೂರು ದಿನ ಕೆಟ್ಟದಗಳನ್ನೆಲ್ಲ",
+    "retainedText": "ನಾಶನ ಮಾಡಿ ಮತ್ತೆ ಮೂರು ದಿನ ಮಹಾಲಕ್ಷ್ಮಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 116,
+    "start": 208.869,
+    "end": 208.879,
+    "captionText": "ನಾಶನ ಮಾಡಿ ಮತ್ತೆ ಮೂರು ದಿನ ಮಹಾಲಕ್ಷ್ಮಿ",
+    "removedRollingPrefix": "ನಾಶನ ಮಾಡಿ ಮತ್ತೆ ಮೂರು ದಿನ ಮಹಾಲಕ್ಷ್ಮಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 117,
+    "start": 208.879,
+    "end": 213.589,
+    "captionText": "ನಾಶನ ಮಾಡಿ ಮತ್ತೆ ಮೂರು ದಿನ ಮಹಾಲಕ್ಷ್ಮಿ ಆರಾಧನೆ ಒಳ್ಳದು ಸಂಪತ್ತು ಐಶ್ವರ್ಯ ಬೆಳಿಬೇಕು",
+    "removedRollingPrefix": "ನಾಶನ ಮಾಡಿ ಮತ್ತೆ ಮೂರು ದಿನ ಮಹಾಲಕ್ಷ್ಮಿ",
+    "retainedText": "ಆರಾಧನೆ ಒಳ್ಳದು ಸಂಪತ್ತು ಐಶ್ವರ್ಯ ಬೆಳಿಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 118,
+    "start": 213.589,
+    "end": 213.599,
+    "captionText": "ಆರಾಧನೆ ಒಳ್ಳದು ಸಂಪತ್ತು ಐಶ್ವರ್ಯ ಬೆಳಿಬೇಕು",
+    "removedRollingPrefix": "ಆರಾಧನೆ ಒಳ್ಳದು ಸಂಪತ್ತು ಐಶ್ವರ್ಯ ಬೆಳಿಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 119,
+    "start": 213.599,
+    "end": 216.22899999999998,
+    "captionText": "ಆರಾಧನೆ ಒಳ್ಳದು ಸಂಪತ್ತು ಐಶ್ವರ್ಯ ಬೆಳಿಬೇಕು ಮೂರು ಸರಸ್ವತಿ ಐಶ್ವರ್ಯ ಬೆಳೆದರೆ ಬರಿ ಐಶ್ವರ್ಯ",
+    "removedRollingPrefix": "ಆರಾಧನೆ ಒಳ್ಳದು ಸಂಪತ್ತು ಐಶ್ವರ್ಯ ಬೆಳಿಬೇಕು",
+    "retainedText": "ಮೂರು ಸರಸ್ವತಿ ಐಶ್ವರ್ಯ ಬೆಳೆದರೆ ಬರಿ ಐಶ್ವರ್ಯ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 120,
+    "start": 216.22899999999998,
+    "end": 216.239,
+    "captionText": "ಮೂರು ಸರಸ್ವತಿ ಐಶ್ವರ್ಯ ಬೆಳೆದರೆ ಬರಿ ಐಶ್ವರ್ಯ",
+    "removedRollingPrefix": "ಮೂರು ಸರಸ್ವತಿ ಐಶ್ವರ್ಯ ಬೆಳೆದರೆ ಬರಿ ಐಶ್ವರ್ಯ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 121,
+    "start": 216.239,
+    "end": 218.869,
+    "captionText": "ಮೂರು ಸರಸ್ವತಿ ಐಶ್ವರ್ಯ ಬೆಳೆದರೆ ಬರಿ ಐಶ್ವರ್ಯ ಇದ್ದರೆ ಸಾಕ ಬುದ್ಧಿವಂತನಾಗಿರೋದು ಬೇಡವ ಕಾಸು",
+    "removedRollingPrefix": "ಮೂರು ಸರಸ್ವತಿ ಐಶ್ವರ್ಯ ಬೆಳೆದರೆ ಬರಿ ಐಶ್ವರ್ಯ",
+    "retainedText": "ಇದ್ದರೆ ಸಾಕ ಬುದ್ಧಿವಂತನಾಗಿರೋದು ಬೇಡವ ಕಾಸು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 122,
+    "start": 218.869,
+    "end": 218.879,
+    "captionText": "ಇದ್ದರೆ ಸಾಕ ಬುದ್ಧಿವಂತನಾಗಿರೋದು ಬೇಡವ ಕಾಸು",
+    "removedRollingPrefix": "ಇದ್ದರೆ ಸಾಕ ಬುದ್ಧಿವಂತನಾಗಿರೋದು ಬೇಡವ ಕಾಸು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 123,
+    "start": 218.879,
+    "end": 222.22899999999998,
+    "captionText": "ಇದ್ದರೆ ಸಾಕ ಬುದ್ಧಿವಂತನಾಗಿರೋದು ಬೇಡವ ಕಾಸು ಸಂಪಾದನೆ ಮಾಡಿದೆ ಕಾಸನ್ನ ಹೇಗೆ ಖರ್ಚು ಮಾಡಬೇಕು",
+    "removedRollingPrefix": "ಇದ್ದರೆ ಸಾಕ ಬುದ್ಧಿವಂತನಾಗಿರೋದು ಬೇಡವ ಕಾಸು",
+    "retainedText": "ಸಂಪಾದನೆ ಮಾಡಿದೆ ಕಾಸನ್ನ ಹೇಗೆ ಖರ್ಚು ಮಾಡಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 124,
+    "start": 222.22899999999998,
+    "end": 222.239,
+    "captionText": "ಸಂಪಾದನೆ ಮಾಡಿದೆ ಕಾಸನ್ನ ಹೇಗೆ ಖರ್ಚು ಮಾಡಬೇಕು",
+    "removedRollingPrefix": "ಸಂಪಾದನೆ ಮಾಡಿದೆ ಕಾಸನ್ನ ಹೇಗೆ ಖರ್ಚು ಮಾಡಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 125,
+    "start": 222.239,
+    "end": 225.82999999999998,
+    "captionText": "ಸಂಪಾದನೆ ಮಾಡಿದೆ ಕಾಸನ್ನ ಹೇಗೆ ಖರ್ಚು ಮಾಡಬೇಕು ಅಂಬುದು ತಿಳಿಬೇಕು ಅದರಲ್ಲಿ ತಿಳುವಳಿಕೆ ಇರಬೇಕು",
+    "removedRollingPrefix": "ಸಂಪಾದನೆ ಮಾಡಿದೆ ಕಾಸನ್ನ ಹೇಗೆ ಖರ್ಚು ಮಾಡಬೇಕು",
+    "retainedText": "ಅಂಬುದು ತಿಳಿಬೇಕು ಅದರಲ್ಲಿ ತಿಳುವಳಿಕೆ ಇರಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 126,
+    "start": 225.82999999999998,
+    "end": 225.84,
+    "captionText": "ಅಂಬುದು ತಿಳಿಬೇಕು ಅದರಲ್ಲಿ ತಿಳುವಳಿಕೆ ಇರಬೇಕು",
+    "removedRollingPrefix": "ಅಂಬುದು ತಿಳಿಬೇಕು ಅದರಲ್ಲಿ ತಿಳುವಳಿಕೆ ಇರಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 127,
+    "start": 225.84,
+    "end": 230.55,
+    "captionText": "ಅಂಬುದು ತಿಳಿಬೇಕು ಅದರಲ್ಲಿ ತಿಳುವಳಿಕೆ ಇರಬೇಕು ಅದಕ್ಕೆ ಜ್ಞಾನ ಬೇಕು ಜ್ಞಾನಕ್ಕೆ ಸರಸ್ವತಿ ಅಂತ",
+    "removedRollingPrefix": "ಅಂಬುದು ತಿಳಿಬೇಕು ಅದರಲ್ಲಿ ತಿಳುವಳಿಕೆ ಇರಬೇಕು",
+    "retainedText": "ಅದಕ್ಕೆ ಜ್ಞಾನ ಬೇಕು ಜ್ಞಾನಕ್ಕೆ ಸರಸ್ವತಿ ಅಂತ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 128,
+    "start": 230.55,
+    "end": 230.56,
+    "captionText": "ಅದಕ್ಕೆ ಜ್ಞಾನ ಬೇಕು ಜ್ಞಾನಕ್ಕೆ ಸರಸ್ವತಿ ಅಂತ",
+    "removedRollingPrefix": "ಅದಕ್ಕೆ ಜ್ಞಾನ ಬೇಕು ಜ್ಞಾನಕ್ಕೆ ಸರಸ್ವತಿ ಅಂತ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 129,
+    "start": 230.56,
+    "end": 235.03,
+    "captionText": "ಅದಕ್ಕೆ ಜ್ಞಾನ ಬೇಕು ಜ್ಞಾನಕ್ಕೆ ಸರಸ್ವತಿ ಅಂತ ಮೂರು ದೇವಿಯನ್ನ ಕೊಂಡಾಡುದು ಮಾತ್ರ ಅಲ್ಲ",
+    "removedRollingPrefix": "ಅದಕ್ಕೆ ಜ್ಞಾನ ಬೇಕು ಜ್ಞಾನಕ್ಕೆ ಸರಸ್ವತಿ ಅಂತ",
+    "retainedText": "ಮೂರು ದೇವಿಯನ್ನ ಕೊಂಡಾಡುದು ಮಾತ್ರ ಅಲ್ಲ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 130,
+    "start": 235.03,
+    "end": 235.04,
+    "captionText": "ಮೂರು ದೇವಿಯನ್ನ ಕೊಂಡಾಡುದು ಮಾತ್ರ ಅಲ್ಲ",
+    "removedRollingPrefix": "ಮೂರು ದೇವಿಯನ್ನ ಕೊಂಡಾಡುದು ಮಾತ್ರ ಅಲ್ಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 131,
+    "start": 235.04,
+    "end": 238.55,
+    "captionText": "ಮೂರು ದೇವಿಯನ್ನ ಕೊಂಡಾಡುದು ಮಾತ್ರ ಅಲ್ಲ ಮುಖ್ಯವಾ ಗಿ ನವರಾತ್ರಿಯಲ್ಲಿ ನಮ್ಮ ಕುಲದೇವರನ್ನ",
+    "removedRollingPrefix": "ಮೂರು ದೇವಿಯನ್ನ ಕೊಂಡಾಡುದು ಮಾತ್ರ ಅಲ್ಲ",
+    "retainedText": "ಮುಖ್ಯವಾ ಗಿ ನವರಾತ್ರಿಯಲ್ಲಿ ನಮ್ಮ ಕುಲದೇವರನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 132,
+    "start": 238.55,
+    "end": 238.56,
+    "captionText": "ಮುಖ್ಯವಾ ಗಿ ನವರಾತ್ರಿಯಲ್ಲಿ ನಮ್ಮ ಕುಲದೇವರನ್ನ",
+    "removedRollingPrefix": "ಮುಖ್ಯವಾ ಗಿ ನವರಾತ್ರಿಯಲ್ಲಿ ನಮ್ಮ ಕುಲದೇವರನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 133,
+    "start": 238.56,
+    "end": 242.789,
+    "captionText": "ಮುಖ್ಯವಾ ಗಿ ನವರಾತ್ರಿಯಲ್ಲಿ ನಮ್ಮ ಕುಲದೇವರನ್ನ ವಿಶೇಷವಾಗಿ ಆರಾಧನೆ ಮಾಡುವುದೇ ನವರಾತ್ರಿ ಅಖಂಠ",
+    "removedRollingPrefix": "ಮುಖ್ಯವಾ ಗಿ ನವರಾತ್ರಿಯಲ್ಲಿ ನಮ್ಮ ಕುಲದೇವರನ್ನ",
+    "retainedText": "ವಿಶೇಷವಾಗಿ ಆರಾಧನೆ ಮಾಡುವುದೇ ನವರಾತ್ರಿ ಅಖಂಠ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 134,
+    "start": 242.789,
+    "end": 242.799,
+    "captionText": "ವಿಶೇಷವಾಗಿ ಆರಾಧನೆ ಮಾಡುವುದೇ ನವರಾತ್ರಿ ಅಖಂಠ",
+    "removedRollingPrefix": "ವಿಶೇಷವಾಗಿ ಆರಾಧನೆ ಮಾಡುವುದೇ ನವರಾತ್ರಿ ಅಖಂಠ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 135,
+    "start": 242.799,
+    "end": 247.27,
+    "captionText": "ವಿಶೇಷವಾಗಿ ಆರಾಧನೆ ಮಾಡುವುದೇ ನವರಾತ್ರಿ ಅಖಂಠ ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ ಮಾಡಿ ಅದರಲ್ಲಿ ತುಪ್ಪದ ದೀಪ",
+    "removedRollingPrefix": "ವಿಶೇಷವಾಗಿ ಆರಾಧನೆ ಮಾಡುವುದೇ ನವರಾತ್ರಿ ಅಖಂಠ",
+    "retainedText": "ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ ಮಾಡಿ ಅದರಲ್ಲಿ ತುಪ್ಪದ ದೀಪ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 136,
+    "start": 247.27,
+    "end": 247.28,
+    "captionText": "ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ ಮಾಡಿ ಅದರಲ್ಲಿ ತುಪ್ಪದ ದೀಪ",
+    "removedRollingPrefix": "ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ ಮಾಡಿ ಅದರಲ್ಲಿ ತುಪ್ಪದ ದೀಪ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 137,
+    "start": 247.28,
+    "end": 251.35,
+    "captionText": "ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ ಮಾಡಿ ಅದರಲ್ಲಿ ತುಪ್ಪದ ದೀಪ ಮುಖ್ಯವಾಗಿ ತುಪ್ಪದಿಂದ ದೀಪ ಏರಿಸಿದಾಗ ಆ ತುಪ್ಪ",
+    "removedRollingPrefix": "ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ ಮಾಡಿ ಅದರಲ್ಲಿ ತುಪ್ಪದ ದೀಪ",
+    "retainedText": "ಮುಖ್ಯವಾಗಿ ತುಪ್ಪದಿಂದ ದೀಪ ಏರಿಸಿದಾಗ ಆ ತುಪ್ಪ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 138,
+    "start": 251.35,
+    "end": 251.36,
+    "captionText": "ಮುಖ್ಯವಾಗಿ ತುಪ್ಪದಿಂದ ದೀಪ ಏರಿಸಿದಾಗ ಆ ತುಪ್ಪ",
+    "removedRollingPrefix": "ಮುಖ್ಯವಾಗಿ ತುಪ್ಪದಿಂದ ದೀಪ ಏರಿಸಿದಾಗ ಆ ತುಪ್ಪ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 139,
+    "start": 251.36,
+    "end": 254.949,
+    "captionText": "ಮುಖ್ಯವಾಗಿ ತುಪ್ಪದಿಂದ ದೀಪ ಏರಿಸಿದಾಗ ಆ ತುಪ್ಪ ನಮ್ಮ ಏನು ವಾತಾವರಣದಲ್ಲಿರುವ ಆಕ್ಸಿಜನ್ ಇದೆ",
+    "removedRollingPrefix": "ಮುಖ್ಯವಾಗಿ ತುಪ್ಪದಿಂದ ದೀಪ ಏರಿಸಿದಾಗ ಆ ತುಪ್ಪ",
+    "retainedText": "ನಮ್ಮ ಏನು ವಾತಾವರಣದಲ್ಲಿರುವ ಆಕ್ಸಿಜನ್ ಇದೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 140,
+    "start": 254.949,
+    "end": 254.959,
+    "captionText": "ನಮ್ಮ ಏನು ವಾತಾವರಣದಲ್ಲಿರುವ ಆಕ್ಸಿಜನ್ ಇದೆ",
+    "removedRollingPrefix": "ನಮ್ಮ ಏನು ವಾತಾವರಣದಲ್ಲಿರುವ ಆಕ್ಸಿಜನ್ ಇದೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 141,
+    "start": 254.959,
+    "end": 258.15,
+    "captionText": "ನಮ್ಮ ಏನು ವಾತಾವರಣದಲ್ಲಿರುವ ಆಕ್ಸಿಜನ್ ಇದೆ ಅದನ್ನ ಪ್ಯೂರಿಫೈ ಮಾಡುತ್ತೆ ಅಂತ ಗಾಳಿಯನ್ನ",
+    "removedRollingPrefix": "ನಮ್ಮ ಏನು ವಾತಾವರಣದಲ್ಲಿರುವ ಆಕ್ಸಿಜನ್ ಇದೆ",
+    "retainedText": "ಅದನ್ನ ಪ್ಯೂರಿಫೈ ಮಾಡುತ್ತೆ ಅಂತ ಗಾಳಿಯನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 142,
+    "start": 258.15,
+    "end": 258.16,
+    "captionText": "ಅದನ್ನ ಪ್ಯೂರಿಫೈ ಮಾಡುತ್ತೆ ಅಂತ ಗಾಳಿಯನ್ನ",
+    "removedRollingPrefix": "ಅದನ್ನ ಪ್ಯೂರಿಫೈ ಮಾಡುತ್ತೆ ಅಂತ ಗಾಳಿಯನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 143,
+    "start": 258.16,
+    "end": 260.71,
+    "captionText": "ಅದನ್ನ ಪ್ಯೂರಿಫೈ ಮಾಡುತ್ತೆ ಅಂತ ಗಾಳಿಯನ್ನ ಶುದ್ಧ ಮಾಡಿಕೊಡುತ್ತೆ",
+    "removedRollingPrefix": "ಅದನ್ನ ಪ್ಯೂರಿಫೈ ಮಾಡುತ್ತೆ ಅಂತ ಗಾಳಿಯನ್ನ",
+    "retainedText": "ಶುದ್ಧ ಮಾಡಿಕೊಡುತ್ತೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 144,
+    "start": 260.71,
+    "end": 260.72,
+    "captionText": "ಶುದ್ಧ ಮಾಡಿಕೊಡುತ್ತೆ",
+    "removedRollingPrefix": "ಶುದ್ಧ ಮಾಡಿಕೊಡುತ್ತೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 145,
+    "start": 260.72,
+    "end": 264.629,
+    "captionText": "ಶುದ್ಧ ಮಾಡಿಕೊಡುತ್ತೆ ಆಮೇಲೆ ಒಂದೇ ದೀಪ ನಂದಾದೀಪ ಒಂದೇ ದೀಪವನ್ನ",
+    "removedRollingPrefix": "ಶುದ್ಧ ಮಾಡಿಕೊಡುತ್ತೆ",
+    "retainedText": "ಆಮೇಲೆ ಒಂದೇ ದೀಪ ನಂದಾದೀಪ ಒಂದೇ ದೀಪವನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 146,
+    "start": 264.629,
+    "end": 264.639,
+    "captionText": "ಆಮೇಲೆ ಒಂದೇ ದೀಪ ನಂದಾದೀಪ ಒಂದೇ ದೀಪವನ್ನ",
+    "removedRollingPrefix": "ಆಮೇಲೆ ಒಂದೇ ದೀಪ ನಂದಾದೀಪ ಒಂದೇ ದೀಪವನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 147,
+    "start": 264.639,
+    "end": 267.03,
+    "captionText": "ಆಮೇಲೆ ಒಂದೇ ದೀಪ ನಂದಾದೀಪ ಒಂದೇ ದೀಪವನ್ನ ಅದಲ್ಲ ಅಲ್ಲಾಡದೆ ಇರುವ ದೀಪವನ್ನ ನೇರಾಗಿ",
+    "removedRollingPrefix": "ಆಮೇಲೆ ಒಂದೇ ದೀಪ ನಂದಾದೀಪ ಒಂದೇ ದೀಪವನ್ನ",
+    "retainedText": "ಅದಲ್ಲ ಅಲ್ಲಾಡದೆ ಇರುವ ದೀಪವನ್ನ ನೇರಾಗಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 148,
+    "start": 267.03,
+    "end": 267.04,
+    "captionText": "ಅದಲ್ಲ ಅಲ್ಲಾಡದೆ ಇರುವ ದೀಪವನ್ನ ನೇರಾಗಿ",
+    "removedRollingPrefix": "ಅದಲ್ಲ ಅಲ್ಲಾಡದೆ ಇರುವ ದೀಪವನ್ನ ನೇರಾಗಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 149,
+    "start": 267.04,
+    "end": 269.67,
+    "captionText": "ಅದಲ್ಲ ಅಲ್ಲಾಡದೆ ಇರುವ ದೀಪವನ್ನ ನೇರಾಗಿ ಕಣ್ಣಿಂದ ನೋಡಿ ನೋಡಿ ನೋಡಿಹ ನಿಮಿಷದಾಗಲೂ",
+    "removedRollingPrefix": "ಅದಲ್ಲ ಅಲ್ಲಾಡದೆ ಇರುವ ದೀಪವನ್ನ ನೇರಾಗಿ",
+    "retainedText": "ಕಣ್ಣಿಂದ ನೋಡಿ ನೋಡಿ ನೋಡಿಹ ನಿಮಿಷದಾಗಲೂ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 150,
+    "start": 269.67,
+    "end": 269.68,
+    "captionText": "ಕಣ್ಣಿಂದ ನೋಡಿ ನೋಡಿ ನೋಡಿಹ ನಿಮಿಷದಾಗಲೂ",
+    "removedRollingPrefix": "ಕಣ್ಣಿಂದ ನೋಡಿ ನೋಡಿ ನೋಡಿಹ ನಿಮಿಷದಾಗಲೂ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 151,
+    "start": 269.68,
+    "end": 273.749,
+    "captionText": "ಕಣ್ಣಿಂದ ನೋಡಿ ನೋಡಿ ನೋಡಿಹ ನಿಮಿಷದಾಗಲೂ ನೋಡಿದರೆ ಅದೊಂದು ಯೋಗ ತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ",
+    "removedRollingPrefix": "ಕಣ್ಣಿಂದ ನೋಡಿ ನೋಡಿ ನೋಡಿಹ ನಿಮಿಷದಾಗಲೂ",
+    "retainedText": "ನೋಡಿದರೆ ಅದೊಂದು ಯೋಗ ತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 152,
+    "start": 273.749,
+    "end": 273.759,
+    "captionText": "ನೋಡಿದರೆ ಅದೊಂದು ಯೋಗ ತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ",
+    "removedRollingPrefix": "ನೋಡಿದರೆ ಅದೊಂದು ಯೋಗ ತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 153,
+    "start": 273.759,
+    "end": 277.67,
+    "captionText": "ನೋಡಿದರೆ ಅದೊಂದು ಯೋಗ ತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ ಹೇಳ್ತಾರೆ ತ್ರಾಟಕ ಅಭ್ಯಾಸ ಅಂತ ಹೇಳ್ತಾರೆ ಇದು",
+    "removedRollingPrefix": "ನೋಡಿದರೆ ಅದೊಂದು ಯೋಗ ತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ",
+    "retainedText": "ಹೇಳ್ತಾರೆ ತ್ರಾಟಕ ಅಭ್ಯಾಸ ಅಂತ ಹೇಳ್ತಾರೆ ಇದು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 154,
+    "start": 277.67,
+    "end": 277.68,
+    "captionText": "ಹೇಳ್ತಾರೆ ತ್ರಾಟಕ ಅಭ್ಯಾಸ ಅಂತ ಹೇಳ್ತಾರೆ ಇದು",
+    "removedRollingPrefix": "ಹೇಳ್ತಾರೆ ತ್ರಾಟಕ ಅಭ್ಯಾಸ ಅಂತ ಹೇಳ್ತಾರೆ ಇದು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 155,
+    "start": 277.68,
+    "end": 279.35,
+    "captionText": "ಹೇಳ್ತಾರೆ ತ್ರಾಟಕ ಅಭ್ಯಾಸ ಅಂತ ಹೇಳ್ತಾರೆ ಇದು ಮನಸ್ಸಿನ",
+    "removedRollingPrefix": "ಹೇಳ್ತಾರೆ ತ್ರಾಟಕ ಅಭ್ಯಾಸ ಅಂತ ಹೇಳ್ತಾರೆ ಇದು",
+    "retainedText": "ಮನಸ್ಸಿನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 156,
+    "start": 279.35,
+    "end": 279.36,
+    "captionText": "ಮನಸ್ಸಿನ",
+    "removedRollingPrefix": "ಮನಸ್ಸಿನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 157,
+    "start": 279.36,
+    "end": 281.749,
+    "captionText": "ಮನಸ್ಸಿನ ಒಂದು ಸ್ಥಿತಿಯಲ್ಲಿ ಇಡುತ್ತೆ ಮನಸ್ಸು ಒಂದು",
+    "removedRollingPrefix": "ಮನಸ್ಸಿನ",
+    "retainedText": "ಒಂದು ಸ್ಥಿತಿಯಲ್ಲಿ ಇಡುತ್ತೆ ಮನಸ್ಸು ಒಂದು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 158,
+    "start": 281.749,
+    "end": 281.759,
+    "captionText": "ಒಂದು ಸ್ಥಿತಿಯಲ್ಲಿ ಇಡುತ್ತೆ ಮನಸ್ಸು ಒಂದು",
+    "removedRollingPrefix": "ಒಂದು ಸ್ಥಿತಿಯಲ್ಲಿ ಇಡುತ್ತೆ ಮನಸ್ಸು ಒಂದು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 159,
+    "start": 281.759,
+    "end": 285.59000000000003,
+    "captionText": "ಒಂದು ಸ್ಥಿತಿಯಲ್ಲಿ ಇಡುತ್ತೆ ಮನಸ್ಸು ಒಂದು ಸ್ಥಿತಿಯಲ್ಲಿ ಆಗಿತು ಅಂದ್ರೆ ನಾವು ಏನನ್ನ",
+    "removedRollingPrefix": "ಒಂದು ಸ್ಥಿತಿಯಲ್ಲಿ ಇಡುತ್ತೆ ಮನಸ್ಸು ಒಂದು",
+    "retainedText": "ಸ್ಥಿತಿಯಲ್ಲಿ ಆಗಿತು ಅಂದ್ರೆ ನಾವು ಏನನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 160,
+    "start": 285.59000000000003,
+    "end": 285.6,
+    "captionText": "ಸ್ಥಿತಿಯಲ್ಲಿ ಆಗಿತು ಅಂದ್ರೆ ನಾವು ಏನನ್ನ",
+    "removedRollingPrefix": "ಸ್ಥಿತಿಯಲ್ಲಿ ಆಗಿತು ಅಂದ್ರೆ ನಾವು ಏನನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 161,
+    "start": 285.6,
+    "end": 288.87,
+    "captionText": "ಸ್ಥಿತಿಯಲ್ಲಿ ಆಗಿತು ಅಂದ್ರೆ ನಾವು ಏನನ್ನ ಬಯಸುತ್ತೇವೆ ಏನನ್ನ ಅಪೇಕ್ಷೆ ಪಡುತ್ತೇವೆ ಅದನ್ನ",
+    "removedRollingPrefix": "ಸ್ಥಿತಿಯಲ್ಲಿ ಆಗಿತು ಅಂದ್ರೆ ನಾವು ಏನನ್ನ",
+    "retainedText": "ಬಯಸುತ್ತೇವೆ ಏನನ್ನ ಅಪೇಕ್ಷೆ ಪಡುತ್ತೇವೆ ಅದನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 162,
+    "start": 288.87,
+    "end": 288.88,
+    "captionText": "ಬಯಸುತ್ತೇವೆ ಏನನ್ನ ಅಪೇಕ್ಷೆ ಪಡುತ್ತೇವೆ ಅದನ್ನ",
+    "removedRollingPrefix": "ಬಯಸುತ್ತೇವೆ ಏನನ್ನ ಅಪೇಕ್ಷೆ ಪಡುತ್ತೇವೆ ಅದನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 163,
+    "start": 288.88,
+    "end": 292.71,
+    "captionText": "ಬಯಸುತ್ತೇವೆ ಏನನ್ನ ಅಪೇಕ್ಷೆ ಪಡುತ್ತೇವೆ ಅದನ್ನ ಈ ಮನಸ್ಸೇ ನಿರ್ಣಯ ಮಾಡುತ್ತೆ",
+    "removedRollingPrefix": "ಬಯಸುತ್ತೇವೆ ಏನನ್ನ ಅಪೇಕ್ಷೆ ಪಡುತ್ತೇವೆ ಅದನ್ನ",
+    "retainedText": "ಈ ಮನಸ್ಸೇ ನಿರ್ಣಯ ಮಾಡುತ್ತೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 164,
+    "start": 292.71,
+    "end": 292.72,
+    "captionText": "ಈ ಮನಸ್ಸೇ ನಿರ್ಣಯ ಮಾಡುತ್ತೆ",
+    "removedRollingPrefix": "ಈ ಮನಸ್ಸೇ ನಿರ್ಣಯ ಮಾಡುತ್ತೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 165,
+    "start": 292.72,
+    "end": 296.95,
+    "captionText": "ಈ ಮನಸ್ಸೇ ನಿರ್ಣಯ ಮಾಡುತ್ತೆ ನಾವೇನು ದೇವರು ಪ್ರಪಂಚ ಪಂಚದ ಮಹಾಶಕ್ತಿಯ ದೇವರು",
+    "removedRollingPrefix": "ಈ ಮನಸ್ಸೇ ನಿರ್ಣಯ ಮಾಡುತ್ತೆ",
+    "retainedText": "ನಾವೇನು ದೇವರು ಪ್ರಪಂಚ ಪಂಚದ ಮಹಾಶಕ್ತಿಯ ದೇವರು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 166,
+    "start": 296.95,
+    "end": 296.96,
+    "captionText": "ನಾವೇನು ದೇವರು ಪ್ರಪಂಚ ಪಂಚದ ಮಹಾಶಕ್ತಿಯ ದೇವರು",
+    "removedRollingPrefix": "ನಾವೇನು ದೇವರು ಪ್ರಪಂಚ ಪಂಚದ ಮಹಾಶಕ್ತಿಯ ದೇವರು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 167,
+    "start": 296.96,
+    "end": 299.909,
+    "captionText": "ನಾವೇನು ದೇವರು ಪ್ರಪಂಚ ಪಂಚದ ಮಹಾಶಕ್ತಿಯ ದೇವರು ಈ ಪ್ರಪಂಚದ ಮಹಾಶಕ್ತಿಯಾಗಿರುವ ಭಗವಂತನ",
+    "removedRollingPrefix": "ನಾವೇನು ದೇವರು ಪ್ರಪಂಚ ಪಂಚದ ಮಹಾಶಕ್ತಿಯ ದೇವರು",
+    "retainedText": "ಈ ಪ್ರಪಂಚದ ಮಹಾಶಕ್ತಿಯಾಗಿರುವ ಭಗವಂತನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 168,
+    "start": 299.909,
+    "end": 299.919,
+    "captionText": "ಈ ಪ್ರಪಂಚದ ಮಹಾಶಕ್ತಿಯಾಗಿರುವ ಭಗವಂತನ",
+    "removedRollingPrefix": "ಈ ಪ್ರಪಂಚದ ಮಹಾಶಕ್ತಿಯಾಗಿರುವ ಭಗವಂತನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 169,
+    "start": 299.919,
+    "end": 302.71,
+    "captionText": "ಈ ಪ್ರಪಂಚದ ಮಹಾಶಕ್ತಿಯಾಗಿರುವ ಭಗವಂತನ ಮೂಲ್ಯಕವಾಗಿ ನಮ್ಮ ಆಸೆಗಳನ್ನ ಪೂರ್ಣ ಮಾಡಕೊಬೇಕು",
+    "removedRollingPrefix": "ಈ ಪ್ರಪಂಚದ ಮಹಾಶಕ್ತಿಯಾಗಿರುವ ಭಗವಂತನ",
+    "retainedText": "ಮೂಲ್ಯಕವಾಗಿ ನಮ್ಮ ಆಸೆಗಳನ್ನ ಪೂರ್ಣ ಮಾಡಕೊಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 170,
+    "start": 302.71,
+    "end": 302.72,
+    "captionText": "ಮೂಲ್ಯಕವಾಗಿ ನಮ್ಮ ಆಸೆಗಳನ್ನ ಪೂರ್ಣ ಮಾಡಕೊಬೇಕು",
+    "removedRollingPrefix": "ಮೂಲ್ಯಕವಾಗಿ ನಮ್ಮ ಆಸೆಗಳನ್ನ ಪೂರ್ಣ ಮಾಡಕೊಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 171,
+    "start": 302.72,
+    "end": 306.31,
+    "captionText": "ಮೂಲ್ಯಕವಾಗಿ ನಮ್ಮ ಆಸೆಗಳನ್ನ ಪೂರ್ಣ ಮಾಡಕೊಬೇಕು ಅಂದ್ರೆ ಮನಸ್ಸು ಸರಿಯಾದಿ ಸ್ಥಿತಿಯಲ್ಲಿ ಇರಬೇಕು",
+    "removedRollingPrefix": "ಮೂಲ್ಯಕವಾಗಿ ನಮ್ಮ ಆಸೆಗಳನ್ನ ಪೂರ್ಣ ಮಾಡಕೊಬೇಕು",
+    "retainedText": "ಅಂದ್ರೆ ಮನಸ್ಸು ಸರಿಯಾದಿ ಸ್ಥಿತಿಯಲ್ಲಿ ಇರಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 172,
+    "start": 306.31,
+    "end": 306.32,
+    "captionText": "ಅಂದ್ರೆ ಮನಸ್ಸು ಸರಿಯಾದಿ ಸ್ಥಿತಿಯಲ್ಲಿ ಇರಬೇಕು",
+    "removedRollingPrefix": "ಅಂದ್ರೆ ಮನಸ್ಸು ಸರಿಯಾದಿ ಸ್ಥಿತಿಯಲ್ಲಿ ಇರಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 173,
+    "start": 306.32,
+    "end": 309.43,
+    "captionText": "ಅಂದ್ರೆ ಮನಸ್ಸು ಸರಿಯಾದಿ ಸ್ಥಿತಿಯಲ್ಲಿ ಇರಬೇಕು ಮನಸ್ಸು ಸರಿಯಾದ ಸ್ಥಿತಿಯಲ್ಲಿ ಇದ್ದಾಗ ನೀವು",
+    "removedRollingPrefix": "ಅಂದ್ರೆ ಮನಸ್ಸು ಸರಿಯಾದಿ ಸ್ಥಿತಿಯಲ್ಲಿ ಇರಬೇಕು",
+    "retainedText": "ಮನಸ್ಸು ಸರಿಯಾದ ಸ್ಥಿತಿಯಲ್ಲಿ ಇದ್ದಾಗ ನೀವು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 174,
+    "start": 309.43,
+    "end": 309.44,
+    "captionText": "ಮನಸ್ಸು ಸರಿಯಾದ ಸ್ಥಿತಿಯಲ್ಲಿ ಇದ್ದಾಗ ನೀವು",
+    "removedRollingPrefix": "ಮನಸ್ಸು ಸರಿಯಾದ ಸ್ಥಿತಿಯಲ್ಲಿ ಇದ್ದಾಗ ನೀವು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 175,
+    "start": 309.44,
+    "end": 312.39,
+    "captionText": "ಮನಸ್ಸು ಸರಿಯಾದ ಸ್ಥಿತಿಯಲ್ಲಿ ಇದ್ದಾಗ ನೀವು ಏನು ಕೇಳಿದ್ರಿ ಅದು ನಡತೆ",
+    "removedRollingPrefix": "ಮನಸ್ಸು ಸರಿಯಾದ ಸ್ಥಿತಿಯಲ್ಲಿ ಇದ್ದಾಗ ನೀವು",
+    "retainedText": "ಏನು ಕೇಳಿದ್ರಿ ಅದು ನಡತೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 176,
+    "start": 312.39,
+    "end": 312.4,
+    "captionText": "ಏನು ಕೇಳಿದ್ರಿ ಅದು ನಡತೆ",
+    "removedRollingPrefix": "ಏನು ಕೇಳಿದ್ರಿ ಅದು ನಡತೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 177,
+    "start": 312.4,
+    "end": 317.749,
+    "captionText": "ಏನು ಕೇಳಿದ್ರಿ ಅದು ನಡತೆ ಅದಕ್ಕೆ ಈ ದೀಪ ಇತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ",
+    "removedRollingPrefix": "ಏನು ಕೇಳಿದ್ರಿ ಅದು ನಡತೆ",
+    "retainedText": "ಅದಕ್ಕೆ ಈ ದೀಪ ಇತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 178,
+    "start": 317.749,
+    "end": 317.759,
+    "captionText": "ಅದಕ್ಕೆ ಈ ದೀಪ ಇತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ",
+    "removedRollingPrefix": "ಅದಕ್ಕೆ ಈ ದೀಪ ಇತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 179,
+    "start": 317.759,
+    "end": 319.749,
+    "captionText": "ಅದಕ್ಕೆ ಈ ದೀಪ ಇತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ ಮಾಡಿದಾಗ",
+    "removedRollingPrefix": "ಅದಕ್ಕೆ ಈ ದೀಪ ಇತ್ರಾಟಕ ಯೋಗ ಅಂತ ಇದನ್ನ",
+    "retainedText": "ಮಾಡಿದಾಗ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 180,
+    "start": 319.749,
+    "end": 319.759,
+    "captionText": "ಮಾಡಿದಾಗ",
+    "removedRollingPrefix": "ಮಾಡಿದಾಗ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 181,
+    "start": 319.759,
+    "end": 323.029,
+    "captionText": "ಮಾಡಿದಾಗ ನಾವು ಹಿರಿಯರನ್ನ ಕೊಂಡಾಡಿ ಕುಲದೇವತೆಯನ್ನು",
+    "removedRollingPrefix": "ಮಾಡಿದಾಗ",
+    "retainedText": "ನಾವು ಹಿರಿಯರನ್ನ ಕೊಂಡಾಡಿ ಕುಲದೇವತೆಯನ್ನು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 182,
+    "start": 323.029,
+    "end": 323.039,
+    "captionText": "ನಾವು ಹಿರಿಯರನ್ನ ಕೊಂಡಾಡಿ ಕುಲದೇವತೆಯನ್ನು",
+    "removedRollingPrefix": "ನಾವು ಹಿರಿಯರನ್ನ ಕೊಂಡಾಡಿ ಕುಲದೇವತೆಯನ್ನು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 183,
+    "start": 323.039,
+    "end": 326.55,
+    "captionText": "ನಾವು ಹಿರಿಯರನ್ನ ಕೊಂಡಾಡಿ ಕುಲದೇವತೆಯನ್ನು ಕೊಂಡಾಡಿ ನಮಗೆಕುಲ ಕುಲದೇವರ ಮಾಡದೆ ಕುಲದೇವರ",
+    "removedRollingPrefix": "ನಾವು ಹಿರಿಯರನ್ನ ಕೊಂಡಾಡಿ ಕುಲದೇವತೆಯನ್ನು",
+    "retainedText": "ಕೊಂಡಾಡಿ ನಮಗೆಕುಲ ಕುಲದೇವರ ಮಾಡದೆ ಕುಲದೇವರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 184,
+    "start": 326.55,
+    "end": 326.56,
+    "captionText": "ಕೊಂಡಾಡಿ ನಮಗೆಕುಲ ಕುಲದೇವರ ಮಾಡದೆ ಕುಲದೇವರ",
+    "removedRollingPrefix": "ಕೊಂಡಾಡಿ ನಮಗೆಕುಲ ಕುಲದೇವರ ಮಾಡದೆ ಕುಲದೇವರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 185,
+    "start": 326.56,
+    "end": 329.67,
+    "captionText": "ಕೊಂಡಾಡಿ ನಮಗೆಕುಲ ಕುಲದೇವರ ಮಾಡದೆ ಕುಲದೇವರ ಅನುಗ್ರಹ ಇಲ್ಲದೆ ಯಾವ ದೇವರ ಅನುಗ್ರಹವು ಇಲ್ಲ",
+    "removedRollingPrefix": "ಕೊಂಡಾಡಿ ನಮಗೆಕುಲ ಕುಲದೇವರ ಮಾಡದೆ ಕುಲದೇವರ",
+    "retainedText": "ಅನುಗ್ರಹ ಇಲ್ಲದೆ ಯಾವ ದೇವರ ಅನುಗ್ರಹವು ಇಲ್ಲ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 186,
+    "start": 329.67,
+    "end": 329.68,
+    "captionText": "ಅನುಗ್ರಹ ಇಲ್ಲದೆ ಯಾವ ದೇವರ ಅನುಗ್ರಹವು ಇಲ್ಲ",
+    "removedRollingPrefix": "ಅನುಗ್ರಹ ಇಲ್ಲದೆ ಯಾವ ದೇವರ ಅನುಗ್ರಹವು ಇಲ್ಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 187,
+    "start": 329.68,
+    "end": 332.39,
+    "captionText": "ಅನುಗ್ರಹ ಇಲ್ಲದೆ ಯಾವ ದೇವರ ಅನುಗ್ರಹವು ಇಲ್ಲ ಏನೇ ಕಾರ್ಯಗಳು ಮಾಡಲಿ ಕುಲದೇವತೆಯನ್ನ ಆರಾಧನೆ",
+    "removedRollingPrefix": "ಅನುಗ್ರಹ ಇಲ್ಲದೆ ಯಾವ ದೇವರ ಅನುಗ್ರಹವು ಇಲ್ಲ",
+    "retainedText": "ಏನೇ ಕಾರ್ಯಗಳು ಮಾಡಲಿ ಕುಲದೇವತೆಯನ್ನ ಆರಾಧನೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 188,
+    "start": 332.39,
+    "end": 332.4,
+    "captionText": "ಏನೇ ಕಾರ್ಯಗಳು ಮಾಡಲಿ ಕುಲದೇವತೆಯನ್ನ ಆರಾಧನೆ",
+    "removedRollingPrefix": "ಏನೇ ಕಾರ್ಯಗಳು ಮಾಡಲಿ ಕುಲದೇವತೆಯನ್ನ ಆರಾಧನೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 189,
+    "start": 332.4,
+    "end": 334.629,
+    "captionText": "ಏನೇ ಕಾರ್ಯಗಳು ಮಾಡಲಿ ಕುಲದೇವತೆಯನ್ನ ಆರಾಧನೆ ಮಾಡುತ್ತೇವೆ ಅದರಿಂದ ಒಂಬತ್ತು ದಿನಗಳು ನಿಮ್ಮ",
+    "removedRollingPrefix": "ಏನೇ ಕಾರ್ಯಗಳು ಮಾಡಲಿ ಕುಲದೇವತೆಯನ್ನ ಆರಾಧನೆ",
+    "retainedText": "ಮಾಡುತ್ತೇವೆ ಅದರಿಂದ ಒಂಬತ್ತು ದಿನಗಳು ನಿಮ್ಮ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 190,
+    "start": 334.629,
+    "end": 334.639,
+    "captionText": "ಮಾಡುತ್ತೇವೆ ಅದರಿಂದ ಒಂಬತ್ತು ದಿನಗಳು ನಿಮ್ಮ",
+    "removedRollingPrefix": "ಮಾಡುತ್ತೇವೆ ಅದರಿಂದ ಒಂಬತ್ತು ದಿನಗಳು ನಿಮ್ಮ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 191,
+    "start": 334.639,
+    "end": 336.95,
+    "captionText": "ಮಾಡುತ್ತೇವೆ ಅದರಿಂದ ಒಂಬತ್ತು ದಿನಗಳು ನಿಮ್ಮ ಕುಲದೇವರ ನಿಮಿತ್ತವಾಗಿ",
+    "removedRollingPrefix": "ಮಾಡುತ್ತೇವೆ ಅದರಿಂದ ಒಂಬತ್ತು ದಿನಗಳು ನಿಮ್ಮ",
+    "retainedText": "ಕುಲದೇವರ ನಿಮಿತ್ತವಾಗಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 192,
+    "start": 336.95,
+    "end": 336.96,
+    "captionText": "ಕುಲದೇವರ ನಿಮಿತ್ತವಾಗಿ",
+    "removedRollingPrefix": "ಕುಲದೇವರ ನಿಮಿತ್ತವಾಗಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 193,
+    "start": 336.96,
+    "end": 340.23,
+    "captionText": "ಕುಲದೇವರ ನಿಮಿತ್ತವಾಗಿ ಅಖಂಠ ದೀಪವನ್ನ ಸ್ಥಾಪನೆ ಮಾಡಿದ ಸಂಪ್ರದಾಯ ಇದೆ",
+    "removedRollingPrefix": "ಕುಲದೇವರ ನಿಮಿತ್ತವಾಗಿ",
+    "retainedText": "ಅಖಂಠ ದೀಪವನ್ನ ಸ್ಥಾಪನೆ ಮಾಡಿದ ಸಂಪ್ರದಾಯ ಇದೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 194,
+    "start": 340.23,
+    "end": 340.24,
+    "captionText": "ಅಖಂಠ ದೀಪವನ್ನ ಸ್ಥಾಪನೆ ಮಾಡಿದ ಸಂಪ್ರದಾಯ ಇದೆ",
+    "removedRollingPrefix": "ಅಖಂಠ ದೀಪವನ್ನ ಸ್ಥಾಪನೆ ಮಾಡಿದ ಸಂಪ್ರದಾಯ ಇದೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 195,
+    "start": 340.24,
+    "end": 342.55,
+    "captionText": "ಅಖಂಠ ದೀಪವನ್ನ ಸ್ಥಾಪನೆ ಮಾಡಿದ ಸಂಪ್ರದಾಯ ಇದೆ ಸಂಪ್ರದಾಯ ದೀಪ ಏರಿಸುದಲ್ಲಿ ಏನು ಸಂಪ್ರದಾಯ",
+    "removedRollingPrefix": "ಅಖಂಠ ದೀಪವನ್ನ ಸ್ಥಾಪನೆ ಮಾಡಿದ ಸಂಪ್ರದಾಯ ಇದೆ",
+    "retainedText": "ಸಂಪ್ರದಾಯ ದೀಪ ಏರಿಸುದಲ್ಲಿ ಏನು ಸಂಪ್ರದಾಯ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 196,
+    "start": 342.55,
+    "end": 342.56,
+    "captionText": "ಸಂಪ್ರದಾಯ ದೀಪ ಏರಿಸುದಲ್ಲಿ ಏನು ಸಂಪ್ರದಾಯ",
+    "removedRollingPrefix": "ಸಂಪ್ರದಾಯ ದೀಪ ಏರಿಸುದಲ್ಲಿ ಏನು ಸಂಪ್ರದಾಯ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 197,
+    "start": 342.56,
+    "end": 345.51,
+    "captionText": "ಸಂಪ್ರದಾಯ ದೀಪ ಏರಿಸುದಲ್ಲಿ ಏನು ಸಂಪ್ರದಾಯ ಹಾಗೆ ಅಂತಿಲ್ಲ ಏನೋ ಕಾರಣದಿಂದ ದೊಡ್ಡವರು",
+    "removedRollingPrefix": "ಸಂಪ್ರದಾಯ ದೀಪ ಏರಿಸುದಲ್ಲಿ ಏನು ಸಂಪ್ರದಾಯ",
+    "retainedText": "ಹಾಗೆ ಅಂತಿಲ್ಲ ಏನೋ ಕಾರಣದಿಂದ ದೊಡ್ಡವರು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 198,
+    "start": 345.51,
+    "end": 345.52,
+    "captionText": "ಹಾಗೆ ಅಂತಿಲ್ಲ ಏನೋ ಕಾರಣದಿಂದ ದೊಡ್ಡವರು",
+    "removedRollingPrefix": "ಹಾಗೆ ಅಂತಿಲ್ಲ ಏನೋ ಕಾರಣದಿಂದ ದೊಡ್ಡವರು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 199,
+    "start": 345.52,
+    "end": 349.43,
+    "captionText": "ಹಾಗೆ ಅಂತಿಲ್ಲ ಏನೋ ಕಾರಣದಿಂದ ದೊಡ್ಡವರು ಬಿಟ್ಟಿರಬಹುದು ಇದನಲ್ಲಿ ಒಂಬತ್ತು ದಿನವೂ ಅಖಂಡ",
+    "removedRollingPrefix": "ಹಾಗೆ ಅಂತಿಲ್ಲ ಏನೋ ಕಾರಣದಿಂದ ದೊಡ್ಡವರು",
+    "retainedText": "ಬಿಟ್ಟಿರಬಹುದು ಇದನಲ್ಲಿ ಒಂಬತ್ತು ದಿನವೂ ಅಖಂಡ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 200,
+    "start": 349.43,
+    "end": 349.44,
+    "captionText": "ಬಿಟ್ಟಿರಬಹುದು ಇದನಲ್ಲಿ ಒಂಬತ್ತು ದಿನವೂ ಅಖಂಡ",
+    "removedRollingPrefix": "ಬಿಟ್ಟಿರಬಹುದು ಇದನಲ್ಲಿ ಒಂಬತ್ತು ದಿನವೂ ಅಖಂಡ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 201,
+    "start": 349.44,
+    "end": 351.99,
+    "captionText": "ಬಿಟ್ಟಿರಬಹುದು ಇದನಲ್ಲಿ ಒಂಬತ್ತು ದಿನವೂ ಅಖಂಡ ದೀಪ ಏರಿಸುದು ಒಂದು ಸಂಪ್ರದಾಯ ಐದು ದಿನ ಮಾತ್ರ",
+    "removedRollingPrefix": "ಬಿಟ್ಟಿರಬಹುದು ಇದನಲ್ಲಿ ಒಂಬತ್ತು ದಿನವೂ ಅಖಂಡ",
+    "retainedText": "ದೀಪ ಏರಿಸುದು ಒಂದು ಸಂಪ್ರದಾಯ ಐದು ದಿನ ಮಾತ್ರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 202,
+    "start": 351.99,
+    "end": 352.0,
+    "captionText": "ದೀಪ ಏರಿಸುದು ಒಂದು ಸಂಪ್ರದಾಯ ಐದು ದಿನ ಮಾತ್ರ",
+    "removedRollingPrefix": "ದೀಪ ಏರಿಸುದು ಒಂದು ಸಂಪ್ರದಾಯ ಐದು ದಿನ ಮಾತ್ರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 203,
+    "start": 352.0,
+    "end": 355.189,
+    "captionText": "ದೀಪ ಏರಿಸುದು ಒಂದು ಸಂಪ್ರದಾಯ ಐದು ದಿನ ಮಾತ್ರ ಏರಿಸುದು ಅಥವಾ ಮೂಲ ನಕ್ಷತ್ರ ಆರಂಭಿಸಿ ಮೂಲ",
+    "removedRollingPrefix": "ದೀಪ ಏರಿಸುದು ಒಂದು ಸಂಪ್ರದಾಯ ಐದು ದಿನ ಮಾತ್ರ",
+    "retainedText": "ಏರಿಸುದು ಅಥವಾ ಮೂಲ ನಕ್ಷತ್ರ ಆರಂಭಿಸಿ ಮೂಲ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 204,
+    "start": 355.189,
+    "end": 355.199,
+    "captionText": "ಏರಿಸುದು ಅಥವಾ ಮೂಲ ನಕ್ಷತ್ರ ಆರಂಭಿಸಿ ಮೂಲ",
+    "removedRollingPrefix": "ಏರಿಸುದು ಅಥವಾ ಮೂಲ ನಕ್ಷತ್ರ ಆರಂಭಿಸಿ ಮೂಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 205,
+    "start": 355.199,
+    "end": 358.629,
+    "captionText": "ಏರಿಸುದು ಅಥವಾ ಮೂಲ ನಕ್ಷತ್ರ ಆರಂಭಿಸಿ ಮೂಲ ಪೂರ್ವಾಷಡ ಉತ್ತರಾಷಾಡ ಮೂರು ದಿನ ಶ್ರವಣ",
+    "removedRollingPrefix": "ಏರಿಸುದು ಅಥವಾ ಮೂಲ ನಕ್ಷತ್ರ ಆರಂಭಿಸಿ ಮೂಲ",
+    "retainedText": "ಪೂರ್ವಾಷಡ ಉತ್ತರಾಷಾಡ ಮೂರು ದಿನ ಶ್ರವಣ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 206,
+    "start": 358.629,
+    "end": 358.639,
+    "captionText": "ಪೂರ್ವಾಷಡ ಉತ್ತರಾಷಾಡ ಮೂರು ದಿನ ಶ್ರವಣ",
+    "removedRollingPrefix": "ಪೂರ್ವಾಷಡ ಉತ್ತರಾಷಾಡ ಮೂರು ದಿನ ಶ್ರವಣ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 207,
+    "start": 358.639,
+    "end": 361.11,
+    "captionText": "ಪೂರ್ವಾಷಡ ಉತ್ತರಾಷಾಡ ಮೂರು ದಿನ ಶ್ರವಣ ನಕ್ಷತ್ರದನ್ನ ವಿಸರ್ಜನೆ ಮಾಡುುದು ಕೊನೆ ಮೂರು",
+    "removedRollingPrefix": "ಪೂರ್ವಾಷಡ ಉತ್ತರಾಷಾಡ ಮೂರು ದಿನ ಶ್ರವಣ",
+    "retainedText": "ನಕ್ಷತ್ರದನ್ನ ವಿಸರ್ಜನೆ ಮಾಡುುದು ಕೊನೆ ಮೂರು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 208,
+    "start": 361.11,
+    "end": 361.12,
+    "captionText": "ನಕ್ಷತ್ರದನ್ನ ವಿಸರ್ಜನೆ ಮಾಡುುದು ಕೊನೆ ಮೂರು",
+    "removedRollingPrefix": "ನಕ್ಷತ್ರದನ್ನ ವಿಸರ್ಜನೆ ಮಾಡುುದು ಕೊನೆ ಮೂರು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 209,
+    "start": 361.12,
+    "end": 364.23,
+    "captionText": "ನಕ್ಷತ್ರದನ್ನ ವಿಸರ್ಜನೆ ಮಾಡುುದು ಕೊನೆ ಮೂರು ದಿನದಲ್ಲಿ ಅಖಂಠ ದೀಪವನ್ನ ಕುಲದೇವರನ್ನ ನಿಮಿತ್ತ",
+    "removedRollingPrefix": "ನಕ್ಷತ್ರದನ್ನ ವಿಸರ್ಜನೆ ಮಾಡುುದು ಕೊನೆ ಮೂರು",
+    "retainedText": "ದಿನದಲ್ಲಿ ಅಖಂಠ ದೀಪವನ್ನ ಕುಲದೇವರನ್ನ ನಿಮಿತ್ತ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 210,
+    "start": 364.23,
+    "end": 364.24,
+    "captionText": "ದಿನದಲ್ಲಿ ಅಖಂಠ ದೀಪವನ್ನ ಕುಲದೇವರನ್ನ ನಿಮಿತ್ತ",
+    "removedRollingPrefix": "ದಿನದಲ್ಲಿ ಅಖಂಠ ದೀಪವನ್ನ ಕುಲದೇವರನ್ನ ನಿಮಿತ್ತ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 211,
+    "start": 364.24,
+    "end": 366.79,
+    "captionText": "ದಿನದಲ್ಲಿ ಅಖಂಠ ದೀಪವನ್ನ ಕುಲದೇವರನ್ನ ನಿಮಿತ್ತ ಮಾಡಿಕೊಂಡು ಏರಿಸುುದು ಅಂತ ಅದೇ ರೀತಿಯಲ್ಲಿ",
+    "removedRollingPrefix": "ದಿನದಲ್ಲಿ ಅಖಂಠ ದೀಪವನ್ನ ಕುಲದೇವರನ್ನ ನಿಮಿತ್ತ",
+    "retainedText": "ಮಾಡಿಕೊಂಡು ಏರಿಸುುದು ಅಂತ ಅದೇ ರೀತಿಯಲ್ಲಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 212,
+    "start": 366.79,
+    "end": 366.8,
+    "captionText": "ಮಾಡಿಕೊಂಡು ಏರಿಸುುದು ಅಂತ ಅದೇ ರೀತಿಯಲ್ಲಿ",
+    "removedRollingPrefix": "ಮಾಡಿಕೊಂಡು ಏರಿಸುುದು ಅಂತ ಅದೇ ರೀತಿಯಲ್ಲಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 213,
+    "start": 366.8,
+    "end": 369.189,
+    "captionText": "ಮಾಡಿಕೊಂಡು ಏರಿಸುುದು ಅಂತ ಅದೇ ರೀತಿಯಲ್ಲಿ ಹಿಟ್ಟಿನ ದೀಪ ನಿತ್ಯವು ಏರಿಸುವುದು ಅಂತ",
+    "removedRollingPrefix": "ಮಾಡಿಕೊಂಡು ಏರಿಸುುದು ಅಂತ ಅದೇ ರೀತಿಯಲ್ಲಿ",
+    "retainedText": "ಹಿಟ್ಟಿನ ದೀಪ ನಿತ್ಯವು ಏರಿಸುವುದು ಅಂತ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 214,
+    "start": 369.189,
+    "end": 369.199,
+    "captionText": "ಹಿಟ್ಟಿನ ದೀಪ ನಿತ್ಯವು ಏರಿಸುವುದು ಅಂತ",
+    "removedRollingPrefix": "ಹಿಟ್ಟಿನ ದೀಪ ನಿತ್ಯವು ಏರಿಸುವುದು ಅಂತ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 215,
+    "start": 369.199,
+    "end": 372.87,
+    "captionText": "ಹಿಟ್ಟಿನ ದೀಪ ನಿತ್ಯವು ಏರಿಸುವುದು ಅಂತ ನವರಾತ್ರಿಯಲ್ಲಿ ಇರುವ ವಿಷಯಗಳು ಸೋ ಇವತ್ತು",
+    "removedRollingPrefix": "ಹಿಟ್ಟಿನ ದೀಪ ನಿತ್ಯವು ಏರಿಸುವುದು ಅಂತ",
+    "retainedText": "ನವರಾತ್ರಿಯಲ್ಲಿ ಇರುವ ವಿಷಯಗಳು ಸೋ ಇವತ್ತು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 216,
+    "start": 372.87,
+    "end": 372.88,
+    "captionText": "ನವರಾತ್ರಿಯಲ್ಲಿ ಇರುವ ವಿಷಯಗಳು ಸೋ ಇವತ್ತು",
+    "removedRollingPrefix": "ನವರಾತ್ರಿಯಲ್ಲಿ ಇರುವ ವಿಷಯಗಳು ಸೋ ಇವತ್ತು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 217,
+    "start": 372.88,
+    "end": 374.39,
+    "captionText": "ನವರಾತ್ರಿಯಲ್ಲಿ ಇರುವ ವಿಷಯಗಳು ಸೋ ಇವತ್ತು ನಾವು",
+    "removedRollingPrefix": "ನವರಾತ್ರಿಯಲ್ಲಿ ಇರುವ ವಿಷಯಗಳು ಸೋ ಇವತ್ತು",
+    "retainedText": "ನಾವು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 218,
+    "start": 374.39,
+    "end": 374.4,
+    "captionText": "ನಾವು",
+    "removedRollingPrefix": "ನಾವು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 219,
+    "start": 374.4,
+    "end": 377.35,
+    "captionText": "ನಾವು ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ ಅಖಂ ದೀಪದ ಸ್ಥಾಪನೆ",
+    "removedRollingPrefix": "ನಾವು",
+    "retainedText": "ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ ಅಖಂ ದೀಪದ ಸ್ಥಾಪನೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 220,
+    "start": 377.35,
+    "end": 377.36,
+    "captionText": "ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ ಅಖಂ ದೀಪದ ಸ್ಥಾಪನೆ",
+    "removedRollingPrefix": "ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ ಅಖಂ ದೀಪದ ಸ್ಥಾಪನೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 221,
+    "start": 377.36,
+    "end": 380.469,
+    "captionText": "ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ ಅಖಂ ದೀಪದ ಸ್ಥಾಪನೆ ಅದಕ್ಕೆ ಸಂಕಲ್ಪ ಏನು ಮಾಡಬೇಕು ಅಂಬುದನ್ನೆಲ್ಲ",
+    "removedRollingPrefix": "ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ ಅಖಂ ದೀಪದ ಸ್ಥಾಪನೆ",
+    "retainedText": "ಅದಕ್ಕೆ ಸಂಕಲ್ಪ ಏನು ಮಾಡಬೇಕು ಅಂಬುದನ್ನೆಲ್ಲ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 222,
+    "start": 380.469,
+    "end": 380.479,
+    "captionText": "ಅದಕ್ಕೆ ಸಂಕಲ್ಪ ಏನು ಮಾಡಬೇಕು ಅಂಬುದನ್ನೆಲ್ಲ",
+    "removedRollingPrefix": "ಅದಕ್ಕೆ ಸಂಕಲ್ಪ ಏನು ಮಾಡಬೇಕು ಅಂಬುದನ್ನೆಲ್ಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 223,
+    "start": 380.479,
+    "end": 383.11,
+    "captionText": "ಅದಕ್ಕೆ ಸಂಕಲ್ಪ ಏನು ಮಾಡಬೇಕು ಅಂಬುದನ್ನೆಲ್ಲ ಕೊಡ್ತಾ ಇದ್ದೇವೆ ಮೊದಲು ಮುಖ್ಯವಾಗಿ ದೊಡ್ಡ ದೀಪ",
+    "removedRollingPrefix": "ಅದಕ್ಕೆ ಸಂಕಲ್ಪ ಏನು ಮಾಡಬೇಕು ಅಂಬುದನ್ನೆಲ್ಲ",
+    "retainedText": "ಕೊಡ್ತಾ ಇದ್ದೇವೆ ಮೊದಲು ಮುಖ್ಯವಾಗಿ ದೊಡ್ಡ ದೀಪ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 224,
+    "start": 383.11,
+    "end": 383.12,
+    "captionText": "ಕೊಡ್ತಾ ಇದ್ದೇವೆ ಮೊದಲು ಮುಖ್ಯವಾಗಿ ದೊಡ್ಡ ದೀಪ",
+    "removedRollingPrefix": "ಕೊಡ್ತಾ ಇದ್ದೇವೆ ಮೊದಲು ಮುಖ್ಯವಾಗಿ ದೊಡ್ಡ ದೀಪ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 225,
+    "start": 383.12,
+    "end": 386.39,
+    "captionText": "ಕೊಡ್ತಾ ಇದ್ದೇವೆ ಮೊದಲು ಮುಖ್ಯವಾಗಿ ದೊಡ್ಡ ದೀಪ ಬೇಕು ಅದು ಮಣ್ಣಿನದ್ದು ಹಿತ್ತಾಳಿದು ನಮ್ಮ",
+    "removedRollingPrefix": "ಕೊಡ್ತಾ ಇದ್ದೇವೆ ಮೊದಲು ಮುಖ್ಯವಾಗಿ ದೊಡ್ಡ ದೀಪ",
+    "retainedText": "ಬೇಕು ಅದು ಮಣ್ಣಿನದ್ದು ಹಿತ್ತಾಳಿದು ನಮ್ಮ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 226,
+    "start": 386.39,
+    "end": 386.4,
+    "captionText": "ಬೇಕು ಅದು ಮಣ್ಣಿನದ್ದು ಹಿತ್ತಾಳಿದು ನಮ್ಮ",
+    "removedRollingPrefix": "ಬೇಕು ಅದು ಮಣ್ಣಿನದ್ದು ಹಿತ್ತಾಳಿದು ನಮ್ಮ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 227,
+    "start": 386.4,
+    "end": 387.909,
+    "captionText": "ಬೇಕು ಅದು ಮಣ್ಣಿನದ್ದು ಹಿತ್ತಾಳಿದು ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿಯದೆ ಆಚಾರ್ಯರ ಬೆಳ್ಳಿ",
+    "removedRollingPrefix": "ಬೇಕು ಅದು ಮಣ್ಣಿನದ್ದು ಹಿತ್ತಾಳಿದು ನಮ್ಮ",
+    "retainedText": "ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿಯದೆ ಆಚಾರ್ಯರ ಬೆಳ್ಳಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 228,
+    "start": 387.909,
+    "end": 387.919,
+    "captionText": "ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿಯದೆ ಆಚಾರ್ಯರ ಬೆಳ್ಳಿ",
+    "removedRollingPrefix": "ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿಯದೆ ಆಚಾರ್ಯರ ಬೆಳ್ಳಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 229,
+    "start": 387.919,
+    "end": 389.909,
+    "captionText": "ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿಯದೆ ಆಚಾರ್ಯರ ಬೆಳ್ಳಿ ಇಡಬಹುದು ಬೆಳ್ಳಿ ಬಂಗಾರ ಇದ್ರೆ ಬಂಗಾರ",
+    "removedRollingPrefix": "ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿಯದೆ ಆಚಾರ್ಯರ ಬೆಳ್ಳಿ",
+    "retainedText": "ಇಡಬಹುದು ಬೆಳ್ಳಿ ಬಂಗಾರ ಇದ್ರೆ ಬಂಗಾರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 230,
+    "start": 389.909,
+    "end": 389.919,
+    "captionText": "ಇಡಬಹುದು ಬೆಳ್ಳಿ ಬಂಗಾರ ಇದ್ರೆ ಬಂಗಾರ",
+    "removedRollingPrefix": "ಇಡಬಹುದು ಬೆಳ್ಳಿ ಬಂಗಾರ ಇದ್ರೆ ಬಂಗಾರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 231,
+    "start": 389.919,
+    "end": 393.51,
+    "captionText": "ಇಡಬಹುದು ಬೆಳ್ಳಿ ಬಂಗಾರ ಇದ್ರೆ ಬಂಗಾರ ದೀಪವನ್ನು ಬೆಳಗಬಹುದು ಒಳ್ಳ ಬತ್ತಿ ನಿಂತು",
+    "removedRollingPrefix": "ಇಡಬಹುದು ಬೆಳ್ಳಿ ಬಂಗಾರ ಇದ್ರೆ ಬಂಗಾರ",
+    "retainedText": "ದೀಪವನ್ನು ಬೆಳಗಬಹುದು ಒಳ್ಳ ಬತ್ತಿ ನಿಂತು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 232,
+    "start": 393.51,
+    "end": 393.52,
+    "captionText": "ದೀಪವನ್ನು ಬೆಳಗಬಹುದು ಒಳ್ಳ ಬತ್ತಿ ನಿಂತು",
+    "removedRollingPrefix": "ದೀಪವನ್ನು ಬೆಳಗಬಹುದು ಒಳ್ಳ ಬತ್ತಿ ನಿಂತು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 233,
+    "start": 393.52,
+    "end": 396.87,
+    "captionText": "ದೀಪವನ್ನು ಬೆಳಗಬಹುದು ಒಳ್ಳ ಬತ್ತಿ ನಿಂತು ಉರಿವಂತ ಬತ್ತಿ ಅದನ್ನ ಆಗಾಗ ನೋಡಿ ಅದನಲ್ಲಿ",
+    "removedRollingPrefix": "ದೀಪವನ್ನು ಬೆಳಗಬಹುದು ಒಳ್ಳ ಬತ್ತಿ ನಿಂತು",
+    "retainedText": "ಉರಿವಂತ ಬತ್ತಿ ಅದನ್ನ ಆಗಾಗ ನೋಡಿ ಅದನಲ್ಲಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 234,
+    "start": 396.87,
+    "end": 396.88,
+    "captionText": "ಉರಿವಂತ ಬತ್ತಿ ಅದನ್ನ ಆಗಾಗ ನೋಡಿ ಅದನಲ್ಲಿ",
+    "removedRollingPrefix": "ಉರಿವಂತ ಬತ್ತಿ ಅದನ್ನ ಆಗಾಗ ನೋಡಿ ಅದನಲ್ಲಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 235,
+    "start": 396.88,
+    "end": 399.11,
+    "captionText": "ಉರಿವಂತ ಬತ್ತಿ ಅದನ್ನ ಆಗಾಗ ನೋಡಿ ಅದನಲ್ಲಿ ಎಣ್ಣೆಯೋ ತುಪ್ಪವೋ ಸೇರಿಸ್ತ್ತಾ ಬರಬೇಕು ಅದು",
+    "removedRollingPrefix": "ಉರಿವಂತ ಬತ್ತಿ ಅದನ್ನ ಆಗಾಗ ನೋಡಿ ಅದನಲ್ಲಿ",
+    "retainedText": "ಎಣ್ಣೆಯೋ ತುಪ್ಪವೋ ಸೇರಿಸ್ತ್ತಾ ಬರಬೇಕು ಅದು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 236,
+    "start": 399.11,
+    "end": 399.12,
+    "captionText": "ಎಣ್ಣೆಯೋ ತುಪ್ಪವೋ ಸೇರಿಸ್ತ್ತಾ ಬರಬೇಕು ಅದು",
+    "removedRollingPrefix": "ಎಣ್ಣೆಯೋ ತುಪ್ಪವೋ ಸೇರಿಸ್ತ್ತಾ ಬರಬೇಕು ಅದು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 237,
+    "start": 399.12,
+    "end": 402.95,
+    "captionText": "ಎಣ್ಣೆಯೋ ತುಪ್ಪವೋ ಸೇರಿಸ್ತ್ತಾ ಬರಬೇಕು ಅದು ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅಖಂಠ ಹಾಗಂದ್ರೆ ಏನು",
+    "removedRollingPrefix": "ಎಣ್ಣೆಯೋ ತುಪ್ಪವೋ ಸೇರಿಸ್ತ್ತಾ ಬರಬೇಕು ಅದು",
+    "retainedText": "ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅಖಂಠ ಹಾಗಂದ್ರೆ ಏನು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 238,
+    "start": 402.95,
+    "end": 402.96,
+    "captionText": "ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅಖಂಠ ಹಾಗಂದ್ರೆ ಏನು",
+    "removedRollingPrefix": "ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅಖಂಠ ಹಾಗಂದ್ರೆ ಏನು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 239,
+    "start": 402.96,
+    "end": 406.07,
+    "captionText": "ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅಖಂಠ ಹಾಗಂದ್ರೆ ಏನು ಅಖಂಠವಾಗಿ ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅದುಇದ್ದು",
+    "removedRollingPrefix": "ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅಖಂಠ ಹಾಗಂದ್ರೆ ಏನು",
+    "retainedText": "ಅಖಂಠವಾಗಿ ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅದುಇದ್ದು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 240,
+    "start": 406.07,
+    "end": 406.08,
+    "captionText": "ಅಖಂಠವಾಗಿ ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅದುಇದ್ದು",
+    "removedRollingPrefix": "ಅಖಂಠವಾಗಿ ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅದುಇದ್ದು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 241,
+    "start": 406.08,
+    "end": 408.87,
+    "captionText": "ಅಖಂಠವಾಗಿ ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅದುಇದ್ದು ನಮ್ಮನ್ನ ಕುಲದೇವರ ಜ್ಯೋತಿ ರೂಪದಿಂದ",
+    "removedRollingPrefix": "ಅಖಂಠವಾಗಿ ಒಂಬತ್ತು ದಿನಗಳು ಬಿಡದೆ ಅದುಇದ್ದು",
+    "retainedText": "ನಮ್ಮನ್ನ ಕುಲದೇವರ ಜ್ಯೋತಿ ರೂಪದಿಂದ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 242,
+    "start": 408.87,
+    "end": 408.88,
+    "captionText": "ನಮ್ಮನ್ನ ಕುಲದೇವರ ಜ್ಯೋತಿ ರೂಪದಿಂದ",
+    "removedRollingPrefix": "ನಮ್ಮನ್ನ ಕುಲದೇವರ ಜ್ಯೋತಿ ರೂಪದಿಂದ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 243,
+    "start": 408.88,
+    "end": 411.51,
+    "captionText": "ನಮ್ಮನ್ನ ಕುಲದೇವರ ಜ್ಯೋತಿ ರೂಪದಿಂದ ಸಂರಕ್ಷಣೆಯನ್ನ ಮಾಡಬೇಕು ಅಂತ ಪ್ರಾರ್ಥನಾ",
+    "removedRollingPrefix": "ನಮ್ಮನ್ನ ಕುಲದೇವರ ಜ್ಯೋತಿ ರೂಪದಿಂದ",
+    "retainedText": "ಸಂರಕ್ಷಣೆಯನ್ನ ಮಾಡಬೇಕು ಅಂತ ಪ್ರಾರ್ಥನಾ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 244,
+    "start": 411.51,
+    "end": 411.52,
+    "captionText": "ಸಂರಕ್ಷಣೆಯನ್ನ ಮಾಡಬೇಕು ಅಂತ ಪ್ರಾರ್ಥನಾ",
+    "removedRollingPrefix": "ಸಂರಕ್ಷಣೆಯನ್ನ ಮಾಡಬೇಕು ಅಂತ ಪ್ರಾರ್ಥನಾ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 245,
+    "start": 411.52,
+    "end": 414.469,
+    "captionText": "ಸಂರಕ್ಷಣೆಯನ್ನ ಮಾಡಬೇಕು ಅಂತ ಪ್ರಾರ್ಥನಾ ಪೂರ್ವಕವಾಗಿ ದೀಪವನ್ನ ಬೆಳಕು ಬಹುದು ಹೇಗೆ",
+    "removedRollingPrefix": "ಸಂರಕ್ಷಣೆಯನ್ನ ಮಾಡಬೇಕು ಅಂತ ಪ್ರಾರ್ಥನಾ",
+    "retainedText": "ಪೂರ್ವಕವಾಗಿ ದೀಪವನ್ನ ಬೆಳಕು ಬಹುದು ಹೇಗೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 246,
+    "start": 414.469,
+    "end": 414.479,
+    "captionText": "ಪೂರ್ವಕವಾಗಿ ದೀಪವನ್ನ ಬೆಳಕು ಬಹುದು ಹೇಗೆ",
+    "removedRollingPrefix": "ಪೂರ್ವಕವಾಗಿ ದೀಪವನ್ನ ಬೆಳಕು ಬಹುದು ಹೇಗೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 247,
+    "start": 414.479,
+    "end": 417.59000000000003,
+    "captionText": "ಪೂರ್ವಕವಾಗಿ ದೀಪವನ್ನ ಬೆಳಕು ಬಹುದು ಹೇಗೆ ಹಿರಿಯರ ಮೂಲಿಕವಾಗಿ ಕುಲದೇವತೆಯ ಆಶೀರ್ವಾದವನ್ನ",
+    "removedRollingPrefix": "ಪೂರ್ವಕವಾಗಿ ದೀಪವನ್ನ ಬೆಳಕು ಬಹುದು ಹೇಗೆ",
+    "retainedText": "ಹಿರಿಯರ ಮೂಲಿಕವಾಗಿ ಕುಲದೇವತೆಯ ಆಶೀರ್ವಾದವನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 248,
+    "start": 417.59000000000003,
+    "end": 417.6,
+    "captionText": "ಹಿರಿಯರ ಮೂಲಿಕವಾಗಿ ಕುಲದೇವತೆಯ ಆಶೀರ್ವಾದವನ್ನ",
+    "removedRollingPrefix": "ಹಿರಿಯರ ಮೂಲಿಕವಾಗಿ ಕುಲದೇವತೆಯ ಆಶೀರ್ವಾದವನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 249,
+    "start": 417.6,
+    "end": 422.309,
+    "captionText": "ಹಿರಿಯರ ಮೂಲಿಕವಾಗಿ ಕುಲದೇವತೆಯ ಆಶೀರ್ವಾದವನ್ನ ಪಡೆದಾಗ ನಮ್ಮ ಜೀವನ ದೀಪಾವಳಿ ಆಗುತ್ತೆ",
+    "removedRollingPrefix": "ಹಿರಿಯರ ಮೂಲಿಕವಾಗಿ ಕುಲದೇವತೆಯ ಆಶೀರ್ವಾದವನ್ನ",
+    "retainedText": "ಪಡೆದಾಗ ನಮ್ಮ ಜೀವನ ದೀಪಾವಳಿ ಆಗುತ್ತೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 250,
+    "start": 422.309,
+    "end": 422.319,
+    "captionText": "ಪಡೆದಾಗ ನಮ್ಮ ಜೀವನ ದೀಪಾವಳಿ ಆಗುತ್ತೆ",
+    "removedRollingPrefix": "ಪಡೆದಾಗ ನಮ್ಮ ಜೀವನ ದೀಪಾವಳಿ ಆಗುತ್ತೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 251,
+    "start": 422.319,
+    "end": 426.55,
+    "captionText": "ಪಡೆದಾಗ ನಮ್ಮ ಜೀವನ ದೀಪಾವಳಿ ಆಗುತ್ತೆ ದೀಪದ ಆವಳಿ ಆಗುತ್ತೆ ಸೋ ಸಂತೋಷವನ್ನ ಕೊಡುತ್ತೆ",
+    "removedRollingPrefix": "ಪಡೆದಾಗ ನಮ್ಮ ಜೀವನ ದೀಪಾವಳಿ ಆಗುತ್ತೆ",
+    "retainedText": "ದೀಪದ ಆವಳಿ ಆಗುತ್ತೆ ಸೋ ಸಂತೋಷವನ್ನ ಕೊಡುತ್ತೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 252,
+    "start": 426.55,
+    "end": 426.56,
+    "captionText": "ದೀಪದ ಆವಳಿ ಆಗುತ್ತೆ ಸೋ ಸಂತೋಷವನ್ನ ಕೊಡುತ್ತೆ",
+    "removedRollingPrefix": "ದೀಪದ ಆವಳಿ ಆಗುತ್ತೆ ಸೋ ಸಂತೋಷವನ್ನ ಕೊಡುತ್ತೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 253,
+    "start": 426.56,
+    "end": 429.749,
+    "captionText": "ದೀಪದ ಆವಳಿ ಆಗುತ್ತೆ ಸೋ ಸಂತೋಷವನ್ನ ಕೊಡುತ್ತೆ ಅದೇ ಹಿರಿಯರು ಮಾಡಿಕೊಟ್ಟಿರುವ ಹಬ್ಬದ",
+    "removedRollingPrefix": "ದೀಪದ ಆವಳಿ ಆಗುತ್ತೆ ಸೋ ಸಂತೋಷವನ್ನ ಕೊಡುತ್ತೆ",
+    "retainedText": "ಅದೇ ಹಿರಿಯರು ಮಾಡಿಕೊಟ್ಟಿರುವ ಹಬ್ಬದ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 254,
+    "start": 429.749,
+    "end": 429.759,
+    "captionText": "ಅದೇ ಹಿರಿಯರು ಮಾಡಿಕೊಟ್ಟಿರುವ ಹಬ್ಬದ",
+    "removedRollingPrefix": "ಅದೇ ಹಿರಿಯರು ಮಾಡಿಕೊಟ್ಟಿರುವ ಹಬ್ಬದ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 255,
+    "start": 429.759,
+    "end": 433.43,
+    "captionText": "ಅದೇ ಹಿರಿಯರು ಮಾಡಿಕೊಟ್ಟಿರುವ ಹಬ್ಬದ ವಿವರಣೆಗಳು ಅಂತ ಸೋ ದೀಪಕ್ಕೆ ಮುಂಚೆ ದೇವರ",
+    "removedRollingPrefix": "ಅದೇ ಹಿರಿಯರು ಮಾಡಿಕೊಟ್ಟಿರುವ ಹಬ್ಬದ",
+    "retainedText": "ವಿವರಣೆಗಳು ಅಂತ ಸೋ ದೀಪಕ್ಕೆ ಮುಂಚೆ ದೇವರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 256,
+    "start": 433.43,
+    "end": 433.44,
+    "captionText": "ವಿವರಣೆಗಳು ಅಂತ ಸೋ ದೀಪಕ್ಕೆ ಮುಂಚೆ ದೇವರ",
+    "removedRollingPrefix": "ವಿವರಣೆಗಳು ಅಂತ ಸೋ ದೀಪಕ್ಕೆ ಮುಂಚೆ ದೇವರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 257,
+    "start": 433.44,
+    "end": 435.67,
+    "captionText": "ವಿವರಣೆಗಳು ಅಂತ ಸೋ ದೀಪಕ್ಕೆ ಮುಂಚೆ ದೇವರ ಪೂಜೆಯನ್ನ ಪೂರ್ಣ ಸಂಧ್ಯಾವಂದನ ಮಾಡಿ ದೇವರ",
+    "removedRollingPrefix": "ವಿವರಣೆಗಳು ಅಂತ ಸೋ ದೀಪಕ್ಕೆ ಮುಂಚೆ ದೇವರ",
+    "retainedText": "ಪೂಜೆಯನ್ನ ಪೂರ್ಣ ಸಂಧ್ಯಾವಂದನ ಮಾಡಿ ದೇವರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 258,
+    "start": 435.67,
+    "end": 435.68,
+    "captionText": "ಪೂಜೆಯನ್ನ ಪೂರ್ಣ ಸಂಧ್ಯಾವಂದನ ಮಾಡಿ ದೇವರ",
+    "removedRollingPrefix": "ಪೂಜೆಯನ್ನ ಪೂರ್ಣ ಸಂಧ್ಯಾವಂದನ ಮಾಡಿ ದೇವರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 259,
+    "start": 435.68,
+    "end": 438.23,
+    "captionText": "ಪೂಜೆಯನ್ನ ಪೂರ್ಣ ಸಂಧ್ಯಾವಂದನ ಮಾಡಿ ದೇವರ ಪೂಜೆಯನ್ನ ನಿತ್ಯವು ಕೂಡ ಒಂಬತ್ತು ದಿನಗಳು ದೇವರ",
+    "removedRollingPrefix": "ಪೂಜೆಯನ್ನ ಪೂರ್ಣ ಸಂಧ್ಯಾವಂದನ ಮಾಡಿ ದೇವರ",
+    "retainedText": "ಪೂಜೆಯನ್ನ ನಿತ್ಯವು ಕೂಡ ಒಂಬತ್ತು ದಿನಗಳು ದೇವರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 260,
+    "start": 438.23,
+    "end": 438.24,
+    "captionText": "ಪೂಜೆಯನ್ನ ನಿತ್ಯವು ಕೂಡ ಒಂಬತ್ತು ದಿನಗಳು ದೇವರ",
+    "removedRollingPrefix": "ಪೂಜೆಯನ್ನ ನಿತ್ಯವು ಕೂಡ ಒಂಬತ್ತು ದಿನಗಳು ದೇವರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 261,
+    "start": 438.24,
+    "end": 441.51,
+    "captionText": "ಪೂಜೆಯನ್ನ ನಿತ್ಯವು ಕೂಡ ಒಂಬತ್ತು ದಿನಗಳು ದೇವರ ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಿತ್ಯ ನಿಮ್ಮೇನು ಕುಲದೇವರು",
+    "removedRollingPrefix": "ಪೂಜೆಯನ್ನ ನಿತ್ಯವು ಕೂಡ ಒಂಬತ್ತು ದಿನಗಳು ದೇವರ",
+    "retainedText": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಿತ್ಯ ನಿಮ್ಮೇನು ಕುಲದೇವರು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 262,
+    "start": 441.51,
+    "end": 441.52,
+    "captionText": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಿತ್ಯ ನಿಮ್ಮೇನು ಕುಲದೇವರು",
+    "removedRollingPrefix": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಿತ್ಯ ನಿಮ್ಮೇನು ಕುಲದೇವರು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 263,
+    "start": 441.52,
+    "end": 443.589,
+    "captionText": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಿತ್ಯ ನಿಮ್ಮೇನು ಕುಲದೇವರು ವೆಂಕಟೇಶ ದೇವರಾದರೆ ಅಂದ್ರೆ ವೆಂಕಟೇಶ ಸ್ತೋತ್ರ",
+    "removedRollingPrefix": "ಪೂಜೆಯನ್ನ ಮಾಡಿ ನಿತ್ಯ ನಿಮ್ಮೇನು ಕುಲದೇವರು",
+    "retainedText": "ವೆಂಕಟೇಶ ದೇವರಾದರೆ ಅಂದ್ರೆ ವೆಂಕಟೇಶ ಸ್ತೋತ್ರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 264,
+    "start": 443.589,
+    "end": 443.599,
+    "captionText": "ವೆಂಕಟೇಶ ದೇವರಾದರೆ ಅಂದ್ರೆ ವೆಂಕಟೇಶ ಸ್ತೋತ್ರ",
+    "removedRollingPrefix": "ವೆಂಕಟೇಶ ದೇವರಾದರೆ ಅಂದ್ರೆ ವೆಂಕಟೇಶ ಸ್ತೋತ್ರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 265,
+    "start": 443.599,
+    "end": 446.15,
+    "captionText": "ವೆಂಕಟೇಶ ದೇವರಾದರೆ ಅಂದ್ರೆ ವೆಂಕಟೇಶ ಸ್ತೋತ್ರ ನರಸಿಂಹ ದೇವದ ಆಗಿದ್ರೆ ನರಸಿಂಹ ಸ್ತುತಿ ನರಸಿಂಹ",
+    "removedRollingPrefix": "ವೆಂಕಟೇಶ ದೇವರಾದರೆ ಅಂದ್ರೆ ವೆಂಕಟೇಶ ಸ್ತೋತ್ರ",
+    "retainedText": "ನರಸಿಂಹ ದೇವದ ಆಗಿದ್ರೆ ನರಸಿಂಹ ಸ್ತುತಿ ನರಸಿಂಹ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 266,
+    "start": 446.15,
+    "end": 446.16,
+    "captionText": "ನರಸಿಂಹ ದೇವದ ಆಗಿದ್ರೆ ನರಸಿಂಹ ಸ್ತುತಿ ನರಸಿಂಹ",
+    "removedRollingPrefix": "ನರಸಿಂಹ ದೇವದ ಆಗಿದ್ರೆ ನರಸಿಂಹ ಸ್ತುತಿ ನರಸಿಂಹ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 267,
+    "start": 446.16,
+    "end": 449.11,
+    "captionText": "ನರಸಿಂಹ ದೇವದ ಆಗಿದ್ರೆ ನರಸಿಂಹ ಸ್ತುತಿ ನರಸಿಂಹ ಅಷ್ಟೋತ್ರ ಇಲ್ಲರಿ ನಮಗೆ ಬಂದು ನಂಜನಗೂಡು",
+    "removedRollingPrefix": "ನರಸಿಂಹ ದೇವದ ಆಗಿದ್ರೆ ನರಸಿಂಹ ಸ್ತುತಿ ನರಸಿಂಹ",
+    "retainedText": "ಅಷ್ಟೋತ್ರ ಇಲ್ಲರಿ ನಮಗೆ ಬಂದು ನಂಜನಗೂಡು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 268,
+    "start": 449.11,
+    "end": 449.12,
+    "captionText": "ಅಷ್ಟೋತ್ರ ಇಲ್ಲರಿ ನಮಗೆ ಬಂದು ನಂಜನಗೂಡು",
+    "removedRollingPrefix": "ಅಷ್ಟೋತ್ರ ಇಲ್ಲರಿ ನಮಗೆ ಬಂದು ನಂಜನಗೂಡು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 269,
+    "start": 449.12,
+    "end": 452.07,
+    "captionText": "ಅಷ್ಟೋತ್ರ ಇಲ್ಲರಿ ನಮಗೆ ಬಂದು ನಂಜನಗೂಡು ನಂಜುಂಡೇಶ್ವರ ಅಂದ್ರೆ ನಂಜುಂಡೇಶ್ವರನ ಸ್ತೋತ್ರ",
+    "removedRollingPrefix": "ಅಷ್ಟೋತ್ರ ಇಲ್ಲರಿ ನಮಗೆ ಬಂದು ನಂಜನಗೂಡು",
+    "retainedText": "ನಂಜುಂಡೇಶ್ವರ ಅಂದ್ರೆ ನಂಜುಂಡೇಶ್ವರನ ಸ್ತೋತ್ರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 270,
+    "start": 452.07,
+    "end": 452.08,
+    "captionText": "ನಂಜುಂಡೇಶ್ವರ ಅಂದ್ರೆ ನಂಜುಂಡೇಶ್ವರನ ಸ್ತೋತ್ರ",
+    "removedRollingPrefix": "ನಂಜುಂಡೇಶ್ವರ ಅಂದ್ರೆ ನಂಜುಂಡೇಶ್ವರನ ಸ್ತೋತ್ರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 271,
+    "start": 452.08,
+    "end": 455.43,
+    "captionText": "ನಂಜುಂಡೇಶ್ವರ ಅಂದ್ರೆ ನಂಜುಂಡೇಶ್ವರನ ಸ್ತೋತ್ರ ಒಬ್ಬರಿಗೆನು ದೇವಿಗಳು ಎಲ್ಲಮ್ಮ ಹೀಗೆಲ್ಲ",
+    "removedRollingPrefix": "ನಂಜುಂಡೇಶ್ವರ ಅಂದ್ರೆ ನಂಜುಂಡೇಶ್ವರನ ಸ್ತೋತ್ರ",
+    "retainedText": "ಒಬ್ಬರಿಗೆನು ದೇವಿಗಳು ಎಲ್ಲಮ್ಮ ಹೀಗೆಲ್ಲ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 272,
+    "start": 455.43,
+    "end": 455.44,
+    "captionText": "ಒಬ್ಬರಿಗೆನು ದೇವಿಗಳು ಎಲ್ಲಮ್ಮ ಹೀಗೆಲ್ಲ",
+    "removedRollingPrefix": "ಒಬ್ಬರಿಗೆನು ದೇವಿಗಳು ಎಲ್ಲಮ್ಮ ಹೀಗೆಲ್ಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 273,
+    "start": 455.44,
+    "end": 457.99,
+    "captionText": "ಒಬ್ಬರಿಗೆನು ದೇವಿಗಳು ಎಲ್ಲಮ್ಮ ಹೀಗೆಲ್ಲ ಇರ್ತಾರೆ ಆ ದೇವಿಯ ಸ್ತುತಿಗಳು ದುರ್ಗಾ",
+    "removedRollingPrefix": "ಒಬ್ಬರಿಗೆನು ದೇವಿಗಳು ಎಲ್ಲಮ್ಮ ಹೀಗೆಲ್ಲ",
+    "retainedText": "ಇರ್ತಾರೆ ಆ ದೇವಿಯ ಸ್ತುತಿಗಳು ದುರ್ಗಾ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 274,
+    "start": 457.99,
+    "end": 458.0,
+    "captionText": "ಇರ್ತಾರೆ ಆ ದೇವಿಯ ಸ್ತುತಿಗಳು ದುರ್ಗಾ",
+    "removedRollingPrefix": "ಇರ್ತಾರೆ ಆ ದೇವಿಯ ಸ್ತುತಿಗಳು ದುರ್ಗಾ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 275,
+    "start": 458.0,
+    "end": 460.71,
+    "captionText": "ಇರ್ತಾರೆ ಆ ದೇವಿಯ ಸ್ತುತಿಗಳು ದುರ್ಗಾ ಸ್ತುತಿಗಳನ್ನ ನಿತ್ಯವೂ ಪಠನ ಮಾಡೋದು ಬೆಳಿಗ್ಗೆ",
+    "removedRollingPrefix": "ಇರ್ತಾರೆ ಆ ದೇವಿಯ ಸ್ತುತಿಗಳು ದುರ್ಗಾ",
+    "retainedText": "ಸ್ತುತಿಗಳನ್ನ ನಿತ್ಯವೂ ಪಠನ ಮಾಡೋದು ಬೆಳಿಗ್ಗೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 276,
+    "start": 460.71,
+    "end": 460.72,
+    "captionText": "ಸ್ತುತಿಗಳನ್ನ ನಿತ್ಯವೂ ಪಠನ ಮಾಡೋದು ಬೆಳಿಗ್ಗೆ",
+    "removedRollingPrefix": "ಸ್ತುತಿಗಳನ್ನ ನಿತ್ಯವೂ ಪಠನ ಮಾಡೋದು ಬೆಳಿಗ್ಗೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 277,
+    "start": 460.72,
+    "end": 463.589,
+    "captionText": "ಸ್ತುತಿಗಳನ್ನ ನಿತ್ಯವೂ ಪಠನ ಮಾಡೋದು ಬೆಳಿಗ್ಗೆ ಪೂಜೆ ಸಂಜೆ ಕೂತು ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಬೇಕು",
+    "removedRollingPrefix": "ಸ್ತುತಿಗಳನ್ನ ನಿತ್ಯವೂ ಪಠನ ಮಾಡೋದು ಬೆಳಿಗ್ಗೆ",
+    "retainedText": "ಪೂಜೆ ಸಂಜೆ ಕೂತು ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 278,
+    "start": 463.589,
+    "end": 463.599,
+    "captionText": "ಪೂಜೆ ಸಂಜೆ ಕೂತು ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಬೇಕು",
+    "removedRollingPrefix": "ಪೂಜೆ ಸಂಜೆ ಕೂತು ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 279,
+    "start": 463.599,
+    "end": 467.35,
+    "captionText": "ಪೂಜೆ ಸಂಜೆ ಕೂತು ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಬೇಕು ಹಾಡುಗಳನ್ನ ಹೇಳೋದು ಲಕ್ಷ್ಮಿ ಸೋಭಾನೆ",
+    "removedRollingPrefix": "ಪೂಜೆ ಸಂಜೆ ಕೂತು ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಬೇಕು",
+    "retainedText": "ಹಾಡುಗಳನ್ನ ಹೇಳೋದು ಲಕ್ಷ್ಮಿ ಸೋಭಾನೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 280,
+    "start": 467.35,
+    "end": 467.36,
+    "captionText": "ಹಾಡುಗಳನ್ನ ಹೇಳೋದು ಲಕ್ಷ್ಮಿ ಸೋಭಾನೆ",
+    "removedRollingPrefix": "ಹಾಡುಗಳನ್ನ ಹೇಳೋದು ಲಕ್ಷ್ಮಿ ಸೋಭಾನೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 281,
+    "start": 467.36,
+    "end": 469.909,
+    "captionText": "ಹಾಡುಗಳನ್ನ ಹೇಳೋದು ಲಕ್ಷ್ಮಿ ಸೋಭಾನೆ ಯಾರಿಗೆ ಆಗುತ್ತೆ ನಿಮ್ಮ ಪಕ್ಕದಲ್ಲಿರುವ",
+    "removedRollingPrefix": "ಹಾಡುಗಳನ್ನ ಹೇಳೋದು ಲಕ್ಷ್ಮಿ ಸೋಭಾನೆ",
+    "retainedText": "ಯಾರಿಗೆ ಆಗುತ್ತೆ ನಿಮ್ಮ ಪಕ್ಕದಲ್ಲಿರುವ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 282,
+    "start": 469.909,
+    "end": 469.919,
+    "captionText": "ಯಾರಿಗೆ ಆಗುತ್ತೆ ನಿಮ್ಮ ಪಕ್ಕದಲ್ಲಿರುವ",
+    "removedRollingPrefix": "ಯಾರಿಗೆ ಆಗುತ್ತೆ ನಿಮ್ಮ ಪಕ್ಕದಲ್ಲಿರುವ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 283,
+    "start": 469.919,
+    "end": 472.71,
+    "captionText": "ಯಾರಿಗೆ ಆಗುತ್ತೆ ನಿಮ್ಮ ಪಕ್ಕದಲ್ಲಿರುವ ಆಚಾರ್ಯರನ್ನ ಕರಿಸಿ ಲಕ್ಷ್ಮಿ",
+    "removedRollingPrefix": "ಯಾರಿಗೆ ಆಗುತ್ತೆ ನಿಮ್ಮ ಪಕ್ಕದಲ್ಲಿರುವ",
+    "retainedText": "ಆಚಾರ್ಯರನ್ನ ಕರಿಸಿ ಲಕ್ಷ್ಮಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 284,
+    "start": 472.71,
+    "end": 472.72,
+    "captionText": "ಆಚಾರ್ಯರನ್ನ ಕರಿಸಿ ಲಕ್ಷ್ಮಿ",
+    "removedRollingPrefix": "ಆಚಾರ್ಯರನ್ನ ಕರಿಸಿ ಲಕ್ಷ್ಮಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 285,
+    "start": 472.72,
+    "end": 476.15,
+    "captionText": "ಆಚಾರ್ಯರನ್ನ ಕರಿಸಿ ಲಕ್ಷ್ಮಿ ಪಾರಾಯಣ ಶ್ರೀಸೂಕ್ತ ಪಾರಾಯಣ ಇತ್ಯಾದಿ",
+    "removedRollingPrefix": "ಆಚಾರ್ಯರನ್ನ ಕರಿಸಿ ಲಕ್ಷ್ಮಿ",
+    "retainedText": "ಪಾರಾಯಣ ಶ್ರೀಸೂಕ್ತ ಪಾರಾಯಣ ಇತ್ಯಾದಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 286,
+    "start": 476.15,
+    "end": 476.15999999999997,
+    "captionText": "ಪಾರಾಯಣ ಶ್ರೀಸೂಕ್ತ ಪಾರಾಯಣ ಇತ್ಯಾದಿ",
+    "removedRollingPrefix": "ಪಾರಾಯಣ ಶ್ರೀಸೂಕ್ತ ಪಾರಾಯಣ ಇತ್ಯಾದಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 287,
+    "start": 476.15999999999997,
+    "end": 479.909,
+    "captionText": "ಪಾರಾಯಣ ಶ್ರೀಸೂಕ್ತ ಪಾರಾಯಣ ಇತ್ಯಾದಿ ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಿಸಿದಾಗ ಮನೆಯಲ್ಲಿ ಕಲ್ಯಾಣಗಳು",
+    "removedRollingPrefix": "ಪಾರಾಯಣ ಶ್ರೀಸೂಕ್ತ ಪಾರಾಯಣ ಇತ್ಯಾದಿ",
+    "retainedText": "ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಿಸಿದಾಗ ಮನೆಯಲ್ಲಿ ಕಲ್ಯಾಣಗಳು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 288,
+    "start": 479.909,
+    "end": 479.919,
+    "captionText": "ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಿಸಿದಾಗ ಮನೆಯಲ್ಲಿ ಕಲ್ಯಾಣಗಳು",
+    "removedRollingPrefix": "ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಿಸಿದಾಗ ಮನೆಯಲ್ಲಿ ಕಲ್ಯಾಣಗಳು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 289,
+    "start": 479.919,
+    "end": 481.749,
+    "captionText": "ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಿಸಿದಾಗ ಮನೆಯಲ್ಲಿ ಕಲ್ಯಾಣಗಳು ತುಂಬಿ ಬರುತ್ತೆ ಮನೆಯ ವೈಬ್ರೇಷನ್",
+    "removedRollingPrefix": "ಪಾರಾಯಣಗಳನ್ನ ಮಾಡಿಸಿದಾಗ ಮನೆಯಲ್ಲಿ ಕಲ್ಯಾಣಗಳು",
+    "retainedText": "ತುಂಬಿ ಬರುತ್ತೆ ಮನೆಯ ವೈಬ್ರೇಷನ್",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 290,
+    "start": 481.749,
+    "end": 481.759,
+    "captionText": "ತುಂಬಿ ಬರುತ್ತೆ ಮನೆಯ ವೈಬ್ರೇಷನ್",
+    "removedRollingPrefix": "ತುಂಬಿ ಬರುತ್ತೆ ಮನೆಯ ವೈಬ್ರೇಷನ್",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 291,
+    "start": 481.759,
+    "end": 483.99,
+    "captionText": "ತುಂಬಿ ಬರುತ್ತೆ ಮನೆಯ ವೈಬ್ರೇಷನ್ ಚೆನ್ನಾಗಿರುತ್ತೆ ಮನೆಯನ್ನ ವಾತಾವರಣ ಚೇಂಜ್",
+    "removedRollingPrefix": "ತುಂಬಿ ಬರುತ್ತೆ ಮನೆಯ ವೈಬ್ರೇಷನ್",
+    "retainedText": "ಚೆನ್ನಾಗಿರುತ್ತೆ ಮನೆಯನ್ನ ವಾತಾವರಣ ಚೇಂಜ್",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 292,
+    "start": 483.99,
+    "end": 484.0,
+    "captionText": "ಚೆನ್ನಾಗಿರುತ್ತೆ ಮನೆಯನ್ನ ವಾತಾವರಣ ಚೇಂಜ್",
+    "removedRollingPrefix": "ಚೆನ್ನಾಗಿರುತ್ತೆ ಮನೆಯನ್ನ ವಾತಾವರಣ ಚೇಂಜ್",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 293,
+    "start": 484.0,
+    "end": 486.79,
+    "captionText": "ಚೆನ್ನಾಗಿರುತ್ತೆ ಮನೆಯನ್ನ ವಾತಾವರಣ ಚೇಂಜ್ ಆಗಿರುದನ್ನ ವರ್ಷಕ್ಕೊಂದು ಸಲ",
+    "removedRollingPrefix": "ಚೆನ್ನಾಗಿರುತ್ತೆ ಮನೆಯನ್ನ ವಾತಾವರಣ ಚೇಂಜ್",
+    "retainedText": "ಆಗಿರುದನ್ನ ವರ್ಷಕ್ಕೊಂದು ಸಲ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 294,
+    "start": 486.79,
+    "end": 486.8,
+    "captionText": "ಆಗಿರುದನ್ನ ವರ್ಷಕ್ಕೊಂದು ಸಲ",
+    "removedRollingPrefix": "ಆಗಿರುದನ್ನ ವರ್ಷಕ್ಕೊಂದು ಸಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 295,
+    "start": 486.8,
+    "end": 489.43,
+    "captionText": "ಆಗಿರುದನ್ನ ವರ್ಷಕ್ಕೊಂದು ಸಲ ಅದನ್ನ ಸರಿ ಮಾಡೋದೇ ನವರಾತ್ರಿ ಅಂತ ತಕೊಬೇಕು",
+    "removedRollingPrefix": "ಆಗಿರುದನ್ನ ವರ್ಷಕ್ಕೊಂದು ಸಲ",
+    "retainedText": "ಅದನ್ನ ಸರಿ ಮಾಡೋದೇ ನವರಾತ್ರಿ ಅಂತ ತಕೊಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 296,
+    "start": 489.43,
+    "end": 489.44,
+    "captionText": "ಅದನ್ನ ಸರಿ ಮಾಡೋದೇ ನವರಾತ್ರಿ ಅಂತ ತಕೊಬೇಕು",
+    "removedRollingPrefix": "ಅದನ್ನ ಸರಿ ಮಾಡೋದೇ ನವರಾತ್ರಿ ಅಂತ ತಕೊಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 297,
+    "start": 489.44,
+    "end": 491.43,
+    "captionText": "ಅದನ್ನ ಸರಿ ಮಾಡೋದೇ ನವರಾತ್ರಿ ಅಂತ ತಕೊಬೇಕು ಅದಕ್ಕೆ ಪೂಜೆಗಳು ಮತ್ತೆ ಮತ್ತೆ ಯಾಕೆ ಪೂಜೆಗಳು",
+    "removedRollingPrefix": "ಅದನ್ನ ಸರಿ ಮಾಡೋದೇ ನವರಾತ್ರಿ ಅಂತ ತಕೊಬೇಕು",
+    "retainedText": "ಅದಕ್ಕೆ ಪೂಜೆಗಳು ಮತ್ತೆ ಮತ್ತೆ ಯಾಕೆ ಪೂಜೆಗಳು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 298,
+    "start": 491.43,
+    "end": 491.44,
+    "captionText": "ಅದಕ್ಕೆ ಪೂಜೆಗಳು ಮತ್ತೆ ಮತ್ತೆ ಯಾಕೆ ಪೂಜೆಗಳು",
+    "removedRollingPrefix": "ಅದಕ್ಕೆ ಪೂಜೆಗಳು ಮತ್ತೆ ಮತ್ತೆ ಯಾಕೆ ಪೂಜೆಗಳು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 299,
+    "start": 491.44,
+    "end": 493.67,
+    "captionText": "ಅದಕ್ಕೆ ಪೂಜೆಗಳು ಮತ್ತೆ ಮತ್ತೆ ಯಾಕೆ ಪೂಜೆಗಳು ಮಾಡ್ತಾ ಇರ್ತ್ತೇವೆ ಅಂದ್ರೆ ಮನೆಯಲ್ಲಿ ಇರುವ",
+    "removedRollingPrefix": "ಅದಕ್ಕೆ ಪೂಜೆಗಳು ಮತ್ತೆ ಮತ್ತೆ ಯಾಕೆ ಪೂಜೆಗಳು",
+    "retainedText": "ಮಾಡ್ತಾ ಇರ್ತ್ತೇವೆ ಅಂದ್ರೆ ಮನೆಯಲ್ಲಿ ಇರುವ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 300,
+    "start": 493.67,
+    "end": 493.68,
+    "captionText": "ಮಾಡ್ತಾ ಇರ್ತ್ತೇವೆ ಅಂದ್ರೆ ಮನೆಯಲ್ಲಿ ಇರುವ",
+    "removedRollingPrefix": "ಮಾಡ್ತಾ ಇರ್ತ್ತೇವೆ ಅಂದ್ರೆ ಮನೆಯಲ್ಲಿ ಇರುವ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 301,
+    "start": 493.68,
+    "end": 496.71,
+    "captionText": "ಮಾಡ್ತಾ ಇರ್ತ್ತೇವೆ ಅಂದ್ರೆ ಮನೆಯಲ್ಲಿ ಇರುವ ಅದೇನು ವೈಬ್ರೇಶನ್ ಇದೆ ಮನೆಯ ವಾತಾವರಣ",
+    "removedRollingPrefix": "ಮಾಡ್ತಾ ಇರ್ತ್ತೇವೆ ಅಂದ್ರೆ ಮನೆಯಲ್ಲಿ ಇರುವ",
+    "retainedText": "ಅದೇನು ವೈಬ್ರೇಶನ್ ಇದೆ ಮನೆಯ ವಾತಾವರಣ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 302,
+    "start": 496.71,
+    "end": 496.72,
+    "captionText": "ಅದೇನು ವೈಬ್ರೇಶನ್ ಇದೆ ಮನೆಯ ವಾತಾವರಣ",
+    "removedRollingPrefix": "ಅದೇನು ವೈಬ್ರೇಶನ್ ಇದೆ ಮನೆಯ ವಾತಾವರಣ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 303,
+    "start": 496.72,
+    "end": 498.95,
+    "captionText": "ಅದೇನು ವೈಬ್ರೇಶನ್ ಇದೆ ಮನೆಯ ವಾತಾವರಣ ಚೆನ್ನಾಗಿ ಆಗಬೇಕು ಅಂತ ಆಗಾಗ ಗಂಟೆ ಬಾಡಿಸ್ತ್ತ",
+    "removedRollingPrefix": "ಅದೇನು ವೈಬ್ರೇಶನ್ ಇದೆ ಮನೆಯ ವಾತಾವರಣ",
+    "retainedText": "ಚೆನ್ನಾಗಿ ಆಗಬೇಕು ಅಂತ ಆಗಾಗ ಗಂಟೆ ಬಾಡಿಸ್ತ್ತ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 304,
+    "start": 498.95,
+    "end": 498.96,
+    "captionText": "ಚೆನ್ನಾಗಿ ಆಗಬೇಕು ಅಂತ ಆಗಾಗ ಗಂಟೆ ಬಾಡಿಸ್ತ್ತ",
+    "removedRollingPrefix": "ಚೆನ್ನಾಗಿ ಆಗಬೇಕು ಅಂತ ಆಗಾಗ ಗಂಟೆ ಬಾಡಿಸ್ತ್ತ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 305,
+    "start": 498.96,
+    "end": 501.589,
+    "captionText": "ಚೆನ್ನಾಗಿ ಆಗಬೇಕು ಅಂತ ಆಗಾಗ ಗಂಟೆ ಬಾಡಿಸ್ತ್ತ ಇರಬೇಕು ಆಗಮದೇವನ",
+    "removedRollingPrefix": "ಚೆನ್ನಾಗಿ ಆಗಬೇಕು ಅಂತ ಆಗಾಗ ಗಂಟೆ ಬಾಡಿಸ್ತ್ತ",
+    "retainedText": "ಇರಬೇಕು ಆಗಮದೇವನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 306,
+    "start": 501.589,
+    "end": 501.599,
+    "captionText": "ಇರಬೇಕು ಆಗಮದೇವನ",
+    "removedRollingPrefix": "ಇರಬೇಕು ಆಗಮದೇವನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 307,
+    "start": 501.599,
+    "end": 507.27,
+    "captionText": "ಇರಬೇಕು ಆಗಮದೇವನ ಗಮನಾರ್ಥಂತು ರಾಕ್ಷಸ ದೇವರಗಳೆಲ್ಲ ಆ ಬರಬೇಕು",
+    "removedRollingPrefix": "ಇರಬೇಕು ಆಗಮದೇವನ",
+    "retainedText": "ಗಮನಾರ್ಥಂತು ರಾಕ್ಷಸ ದೇವರಗಳೆಲ್ಲ ಆ ಬರಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 308,
+    "start": 507.27,
+    "end": 507.28,
+    "captionText": "ಗಮನಾರ್ಥಂತು ರಾಕ್ಷಸ ದೇವರಗಳೆಲ್ಲ ಆ ಬರಬೇಕು",
+    "removedRollingPrefix": "ಗಮನಾರ್ಥಂತು ರಾಕ್ಷಸ ದೇವರಗಳೆಲ್ಲ ಆ ಬರಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 309,
+    "start": 507.28,
+    "end": 509.11,
+    "captionText": "ಗಮನಾರ್ಥಂತು ರಾಕ್ಷಸ ದೇವರಗಳೆಲ್ಲ ಆ ಬರಬೇಕು ರಾಕ್ಷಸರೆಲ್ಲ ಹೋಗಬೇಕು ಅಂದರೆ ರಾಕ್ಷಸರು",
+    "removedRollingPrefix": "ಗಮನಾರ್ಥಂತು ರಾಕ್ಷಸ ದೇವರಗಳೆಲ್ಲ ಆ ಬರಬೇಕು",
+    "retainedText": "ರಾಕ್ಷಸರೆಲ್ಲ ಹೋಗಬೇಕು ಅಂದರೆ ರಾಕ್ಷಸರು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 310,
+    "start": 509.11,
+    "end": 509.12,
+    "captionText": "ರಾಕ್ಷಸರೆಲ್ಲ ಹೋಗಬೇಕು ಅಂದರೆ ರಾಕ್ಷಸರು",
+    "removedRollingPrefix": "ರಾಕ್ಷಸರೆಲ್ಲ ಹೋಗಬೇಕು ಅಂದರೆ ರಾಕ್ಷಸರು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 311,
+    "start": 509.12,
+    "end": 511.11,
+    "captionText": "ರಾಕ್ಷಸರೆಲ್ಲ ಹೋಗಬೇಕು ಅಂದರೆ ರಾಕ್ಷಸರು ಅಂದ್ರೆ ಯಾರು ಏರು ಪಿಶಾಚಿಗಳು ಬಂದು ಮನೆಯಲ್ಲಿ",
+    "removedRollingPrefix": "ರಾಕ್ಷಸರೆಲ್ಲ ಹೋಗಬೇಕು ಅಂದರೆ ರಾಕ್ಷಸರು",
+    "retainedText": "ಅಂದ್ರೆ ಯಾರು ಏರು ಪಿಶಾಚಿಗಳು ಬಂದು ಮನೆಯಲ್ಲಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 312,
+    "start": 511.11,
+    "end": 511.12,
+    "captionText": "ಅಂದ್ರೆ ಯಾರು ಏರು ಪಿಶಾಚಿಗಳು ಬಂದು ಮನೆಯಲ್ಲಿ",
+    "removedRollingPrefix": "ಅಂದ್ರೆ ಯಾರು ಏರು ಪಿಶಾಚಿಗಳು ಬಂದು ಮನೆಯಲ್ಲಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 313,
+    "start": 511.12,
+    "end": 513.19,
+    "captionText": "ಅಂದ್ರೆ ಯಾರು ಏರು ಪಿಶಾಚಿಗಳು ಬಂದು ಮನೆಯಲ್ಲಿ ಕೂತ ಹಾಗಲ್ಲ ನಮ್ಮಲ್ಲಿ ಇರುವ ಕೆಟ್ಟ ಗುಣಗಳು",
+    "removedRollingPrefix": "ಅಂದ್ರೆ ಯಾರು ಏರು ಪಿಶಾಚಿಗಳು ಬಂದು ಮನೆಯಲ್ಲಿ",
+    "retainedText": "ಕೂತ ಹಾಗಲ್ಲ ನಮ್ಮಲ್ಲಿ ಇರುವ ಕೆಟ್ಟ ಗುಣಗಳು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 314,
+    "start": 513.19,
+    "end": 513.2,
+    "captionText": "ಕೂತ ಹಾಗಲ್ಲ ನಮ್ಮಲ್ಲಿ ಇರುವ ಕೆಟ್ಟ ಗುಣಗಳು",
+    "removedRollingPrefix": "ಕೂತ ಹಾಗಲ್ಲ ನಮ್ಮಲ್ಲಿ ಇರುವ ಕೆಟ್ಟ ಗುಣಗಳು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 315,
+    "start": 513.2,
+    "end": 515.11,
+    "captionText": "ಕೂತ ಹಾಗಲ್ಲ ನಮ್ಮಲ್ಲಿ ಇರುವ ಕೆಟ್ಟ ಗುಣಗಳು ಮನೆಯಲ್ಲಿ ಮಾತಾಡಿದ ಮಾತುಗಳು ಅಲ್ಲಿಯೇ",
+    "removedRollingPrefix": "ಕೂತ ಹಾಗಲ್ಲ ನಮ್ಮಲ್ಲಿ ಇರುವ ಕೆಟ್ಟ ಗುಣಗಳು",
+    "retainedText": "ಮನೆಯಲ್ಲಿ ಮಾತಾಡಿದ ಮಾತುಗಳು ಅಲ್ಲಿಯೇ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 316,
+    "start": 515.11,
+    "end": 515.12,
+    "captionText": "ಮನೆಯಲ್ಲಿ ಮಾತಾಡಿದ ಮಾತುಗಳು ಅಲ್ಲಿಯೇ",
+    "removedRollingPrefix": "ಮನೆಯಲ್ಲಿ ಮಾತಾಡಿದ ಮಾತುಗಳು ಅಲ್ಲಿಯೇ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 317,
+    "start": 515.12,
+    "end": 517.509,
+    "captionText": "ಮನೆಯಲ್ಲಿ ಮಾತಾಡಿದ ಮಾತುಗಳು ಅಲ್ಲಿಯೇ ನಿಂತಿರುತ್ತೆ ಅದರ ವೈಬ್ರೇಷನ್ ಅಲ್ಲಿಯೇ",
+    "removedRollingPrefix": "ಮನೆಯಲ್ಲಿ ಮಾತಾಡಿದ ಮಾತುಗಳು ಅಲ್ಲಿಯೇ",
+    "retainedText": "ನಿಂತಿರುತ್ತೆ ಅದರ ವೈಬ್ರೇಷನ್ ಅಲ್ಲಿಯೇ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 318,
+    "start": 517.509,
+    "end": 517.519,
+    "captionText": "ನಿಂತಿರುತ್ತೆ ಅದರ ವೈಬ್ರೇಷನ್ ಅಲ್ಲಿಯೇ",
+    "removedRollingPrefix": "ನಿಂತಿರುತ್ತೆ ಅದರ ವೈಬ್ರೇಷನ್ ಅಲ್ಲಿಯೇ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 319,
+    "start": 517.519,
+    "end": 519.5889999999999,
+    "captionText": "ನಿಂತಿರುತ್ತೆ ಅದರ ವೈಬ್ರೇಷನ್ ಅಲ್ಲಿಯೇ ಇರುತ್ತೆ ನಿತ್ಯ ಜಗಳ ಮಾಡುತ್ತಿದ್ರೆ ಅಲ್ಲಿ",
+    "removedRollingPrefix": "ನಿಂತಿರುತ್ತೆ ಅದರ ವೈಬ್ರೇಷನ್ ಅಲ್ಲಿಯೇ",
+    "retainedText": "ಇರುತ್ತೆ ನಿತ್ಯ ಜಗಳ ಮಾಡುತ್ತಿದ್ರೆ ಅಲ್ಲಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 320,
+    "start": 519.5889999999999,
+    "end": 519.599,
+    "captionText": "ಇರುತ್ತೆ ನಿತ್ಯ ಜಗಳ ಮಾಡುತ್ತಿದ್ರೆ ಅಲ್ಲಿ",
+    "removedRollingPrefix": "ಇರುತ್ತೆ ನಿತ್ಯ ಜಗಳ ಮಾಡುತ್ತಿದ್ರೆ ಅಲ್ಲಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 321,
+    "start": 519.599,
+    "end": 521.99,
+    "captionText": "ಇರುತ್ತೆ ನಿತ್ಯ ಜಗಳ ಮಾಡುತ್ತಿದ್ರೆ ಅಲ್ಲಿ ವೈಬ್ರೇಷನ್ ಜಗಳದ ವೈಬ್ರೇಷನ್ ಇರುತ್ತೆ",
+    "removedRollingPrefix": "ಇರುತ್ತೆ ನಿತ್ಯ ಜಗಳ ಮಾಡುತ್ತಿದ್ರೆ ಅಲ್ಲಿ",
+    "retainedText": "ವೈಬ್ರೇಷನ್ ಜಗಳದ ವೈಬ್ರೇಷನ್ ಇರುತ್ತೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 322,
+    "start": 521.99,
+    "end": 522.0,
+    "captionText": "ವೈಬ್ರೇಷನ್ ಜಗಳದ ವೈಬ್ರೇಷನ್ ಇರುತ್ತೆ",
+    "removedRollingPrefix": "ವೈಬ್ರೇಷನ್ ಜಗಳದ ವೈಬ್ರೇಷನ್ ಇರುತ್ತೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 323,
+    "start": 522.0,
+    "end": 524.07,
+    "captionText": "ವೈಬ್ರೇಷನ್ ಜಗಳದ ವೈಬ್ರೇಷನ್ ಇರುತ್ತೆ ಮನೆಯೊಳಗೆ ಬಂದ್ರೆ ಯಾಕಪ್ಪ ಮನೆಗೆ ಬಂದೆ ಅಂತ",
+    "removedRollingPrefix": "ವೈಬ್ರೇಷನ್ ಜಗಳದ ವೈಬ್ರೇಷನ್ ಇರುತ್ತೆ",
+    "retainedText": "ಮನೆಯೊಳಗೆ ಬಂದ್ರೆ ಯಾಕಪ್ಪ ಮನೆಗೆ ಬಂದೆ ಅಂತ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 324,
+    "start": 524.07,
+    "end": 524.08,
+    "captionText": "ಮನೆಯೊಳಗೆ ಬಂದ್ರೆ ಯಾಕಪ್ಪ ಮನೆಗೆ ಬಂದೆ ಅಂತ",
+    "removedRollingPrefix": "ಮನೆಯೊಳಗೆ ಬಂದ್ರೆ ಯಾಕಪ್ಪ ಮನೆಗೆ ಬಂದೆ ಅಂತ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 325,
+    "start": 524.08,
+    "end": 528.71,
+    "captionText": "ಮನೆಯೊಳಗೆ ಬಂದ್ರೆ ಯಾಕಪ್ಪ ಮನೆಗೆ ಬಂದೆ ಅಂತ ಆಗುತ್ತೆ ಇಲ್ಲ ನಾವಏನೋ ಒಂದು ಹಲುವುತಾ ಇರ್ತೀವಿ",
+    "removedRollingPrefix": "ಮನೆಯೊಳಗೆ ಬಂದ್ರೆ ಯಾಕಪ್ಪ ಮನೆಗೆ ಬಂದೆ ಅಂತ",
+    "retainedText": "ಆಗುತ್ತೆ ಇಲ್ಲ ನಾವಏನೋ ಒಂದು ಹಲುವುತಾ ಇರ್ತೀವಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 326,
+    "start": 528.71,
+    "end": 528.72,
+    "captionText": "ಆಗುತ್ತೆ ಇಲ್ಲ ನಾವಏನೋ ಒಂದು ಹಲುವುತಾ ಇರ್ತೀವಿ",
+    "removedRollingPrefix": "ಆಗುತ್ತೆ ಇಲ್ಲ ನಾವಏನೋ ಒಂದು ಹಲುವುತಾ ಇರ್ತೀವಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 327,
+    "start": 528.72,
+    "end": 532.47,
+    "captionText": "ಆಗುತ್ತೆ ಇಲ್ಲ ನಾವಏನೋ ಒಂದು ಹಲುವುತಾ ಇರ್ತೀವಿ ದಿನ ಸಂತೋಷವ ಅಂದ್ರೆ ಅಲ್ಲ ಒಂದು ದಿನ ಸಂತೋಷ",
+    "removedRollingPrefix": "ಆಗುತ್ತೆ ಇಲ್ಲ ನಾವಏನೋ ಒಂದು ಹಲುವುತಾ ಇರ್ತೀವಿ",
+    "retainedText": "ದಿನ ಸಂತೋಷವ ಅಂದ್ರೆ ಅಲ್ಲ ಒಂದು ದಿನ ಸಂತೋಷ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 328,
+    "start": 532.47,
+    "end": 532.48,
+    "captionText": "ದಿನ ಸಂತೋಷವ ಅಂದ್ರೆ ಅಲ್ಲ ಒಂದು ದಿನ ಸಂತೋಷ",
+    "removedRollingPrefix": "ದಿನ ಸಂತೋಷವ ಅಂದ್ರೆ ಅಲ್ಲ ಒಂದು ದಿನ ಸಂತೋಷ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 329,
+    "start": 532.48,
+    "end": 534.55,
+    "captionText": "ದಿನ ಸಂತೋಷವ ಅಂದ್ರೆ ಅಲ್ಲ ಒಂದು ದಿನ ಸಂತೋಷ ಒಂದು ದಿನ ದುಃಖ ಒಂದು ದಿನ ಹಲುವಾನ ಒಂದು ದಿನ",
+    "removedRollingPrefix": "ದಿನ ಸಂತೋಷವ ಅಂದ್ರೆ ಅಲ್ಲ ಒಂದು ದಿನ ಸಂತೋಷ",
+    "retainedText": "ಒಂದು ದಿನ ದುಃಖ ಒಂದು ದಿನ ಹಲುವಾನ ಒಂದು ದಿನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 330,
+    "start": 534.55,
+    "end": 534.56,
+    "captionText": "ಒಂದು ದಿನ ದುಃಖ ಒಂದು ದಿನ ಹಲುವಾನ ಒಂದು ದಿನ",
+    "removedRollingPrefix": "ಒಂದು ದಿನ ದುಃಖ ಒಂದು ದಿನ ಹಲುವಾನ ಒಂದು ದಿನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 331,
+    "start": 534.56,
+    "end": 537.829,
+    "captionText": "ಒಂದು ದಿನ ದುಃಖ ಒಂದು ದಿನ ಹಲುವಾನ ಒಂದು ದಿನ ಕಷ್ಟನ ಹೇಳಿಕೊಳ್ಳೋಣ ಒಂದು ದಿನ ಜಗಳ",
+    "removedRollingPrefix": "ಒಂದು ದಿನ ದುಃಖ ಒಂದು ದಿನ ಹಲುವಾನ ಒಂದು ದಿನ",
+    "retainedText": "ಕಷ್ಟನ ಹೇಳಿಕೊಳ್ಳೋಣ ಒಂದು ದಿನ ಜಗಳ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 332,
+    "start": 537.829,
+    "end": 537.8389999999999,
+    "captionText": "ಕಷ್ಟನ ಹೇಳಿಕೊಳ್ಳೋಣ ಒಂದು ದಿನ ಜಗಳ",
+    "removedRollingPrefix": "ಕಷ್ಟನ ಹೇಳಿಕೊಳ್ಳೋಣ ಒಂದು ದಿನ ಜಗಳ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 333,
+    "start": 537.8389999999999,
+    "end": 541.59,
+    "captionText": "ಕಷ್ಟನ ಹೇಳಿಕೊಳ್ಳೋಣ ಒಂದು ದಿನ ಜಗಳ ಬೊಯ್ಯನ ಈ ರೀತಿಯ ಒಂದು ವಾತಾವರಣ ಮನೆಯಲ್ಲಿ",
+    "removedRollingPrefix": "ಕಷ್ಟನ ಹೇಳಿಕೊಳ್ಳೋಣ ಒಂದು ದಿನ ಜಗಳ",
+    "retainedText": "ಬೊಯ್ಯನ ಈ ರೀತಿಯ ಒಂದು ವಾತಾವರಣ ಮನೆಯಲ್ಲಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 334,
+    "start": 541.59,
+    "end": 541.6,
+    "captionText": "ಬೊಯ್ಯನ ಈ ರೀತಿಯ ಒಂದು ವಾತಾವರಣ ಮನೆಯಲ್ಲಿ",
+    "removedRollingPrefix": "ಬೊಯ್ಯನ ಈ ರೀತಿಯ ಒಂದು ವಾತಾವರಣ ಮನೆಯಲ್ಲಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 335,
+    "start": 541.6,
+    "end": 545.03,
+    "captionText": "ಬೊಯ್ಯನ ಈ ರೀತಿಯ ಒಂದು ವಾತಾವರಣ ಮನೆಯಲ್ಲಿ ಇದ್ದೆ ಇರುತ್ತೆ ಅಲ್ವಾ ಈ ವಾತಾವರಣವನ್ನ",
+    "removedRollingPrefix": "ಬೊಯ್ಯನ ಈ ರೀತಿಯ ಒಂದು ವಾತಾವರಣ ಮನೆಯಲ್ಲಿ",
+    "retainedText": "ಇದ್ದೆ ಇರುತ್ತೆ ಅಲ್ವಾ ಈ ವಾತಾವರಣವನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 336,
+    "start": 545.03,
+    "end": 545.04,
+    "captionText": "ಇದ್ದೆ ಇರುತ್ತೆ ಅಲ್ವಾ ಈ ವಾತಾವರಣವನ್ನ",
+    "removedRollingPrefix": "ಇದ್ದೆ ಇರುತ್ತೆ ಅಲ್ವಾ ಈ ವಾತಾವರಣವನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 337,
+    "start": 545.04,
+    "end": 548.79,
+    "captionText": "ಇದ್ದೆ ಇರುತ್ತೆ ಅಲ್ವಾ ಈ ವಾತಾವರಣವನ್ನ ಕೆಟ್ಟದಾಗಿರುವ ವಾತಾವರಣವೇ ರಾಚಸರು ಇವರೆಲ್ಲ",
+    "removedRollingPrefix": "ಇದ್ದೆ ಇರುತ್ತೆ ಅಲ್ವಾ ಈ ವಾತಾವರಣವನ್ನ",
+    "retainedText": "ಕೆಟ್ಟದಾಗಿರುವ ವಾತಾವರಣವೇ ರಾಚಸರು ಇವರೆಲ್ಲ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 338,
+    "start": 548.79,
+    "end": 548.8,
+    "captionText": "ಕೆಟ್ಟದಾಗಿರುವ ವಾತಾವರಣವೇ ರಾಚಸರು ಇವರೆಲ್ಲ",
+    "removedRollingPrefix": "ಕೆಟ್ಟದಾಗಿರುವ ವಾತಾವರಣವೇ ರಾಚಸರು ಇವರೆಲ್ಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 339,
+    "start": 548.8,
+    "end": 552.63,
+    "captionText": "ಕೆಟ್ಟದಾಗಿರುವ ವಾತಾವರಣವೇ ರಾಚಸರು ಇವರೆಲ್ಲ ಹೊರಗೆಹೋಗಿ ನಮಗೆ ದೇವತಾಂಸ ಅಂದ ಸಾತ್ವಿಕವಾದ",
+    "removedRollingPrefix": "ಕೆಟ್ಟದಾಗಿರುವ ವಾತಾವರಣವೇ ರಾಚಸರು ಇವರೆಲ್ಲ",
+    "retainedText": "ಹೊರಗೆಹೋಗಿ ನಮಗೆ ದೇವತಾಂಸ ಅಂದ ಸಾತ್ವಿಕವಾದ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 340,
+    "start": 552.63,
+    "end": 552.64,
+    "captionText": "ಹೊರಗೆಹೋಗಿ ನಮಗೆ ದೇವತಾಂಸ ಅಂದ ಸಾತ್ವಿಕವಾದ",
+    "removedRollingPrefix": "ಹೊರಗೆಹೋಗಿ ನಮಗೆ ದೇವತಾಂಸ ಅಂದ ಸಾತ್ವಿಕವಾದ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 341,
+    "start": 552.64,
+    "end": 554.71,
+    "captionText": "ಹೊರಗೆಹೋಗಿ ನಮಗೆ ದೇವತಾಂಸ ಅಂದ ಸಾತ್ವಿಕವಾದ ಮನಸ್ಸು ಯವತ್ತು ಕೊಡಲಿ ಅಂತ ಹೇಳಿ",
+    "removedRollingPrefix": "ಹೊರಗೆಹೋಗಿ ನಮಗೆ ದೇವತಾಂಸ ಅಂದ ಸಾತ್ವಿಕವಾದ",
+    "retainedText": "ಮನಸ್ಸು ಯವತ್ತು ಕೊಡಲಿ ಅಂತ ಹೇಳಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 342,
+    "start": 554.71,
+    "end": 554.72,
+    "captionText": "ಮನಸ್ಸು ಯವತ್ತು ಕೊಡಲಿ ಅಂತ ಹೇಳಿ",
+    "removedRollingPrefix": "ಮನಸ್ಸು ಯವತ್ತು ಕೊಡಲಿ ಅಂತ ಹೇಳಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 343,
+    "start": 554.72,
+    "end": 558.31,
+    "captionText": "ಮನಸ್ಸು ಯವತ್ತು ಕೊಡಲಿ ಅಂತ ಹೇಳಿ ನವರಾತ್ರಿಯನ್ನ ಆಚರಣೆ ಮಾಡುವುದು ಅಂತ",
+    "removedRollingPrefix": "ಮನಸ್ಸು ಯವತ್ತು ಕೊಡಲಿ ಅಂತ ಹೇಳಿ",
+    "retainedText": "ನವರಾತ್ರಿಯನ್ನ ಆಚರಣೆ ಮಾಡುವುದು ಅಂತ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 344,
+    "start": 558.31,
+    "end": 558.32,
+    "captionText": "ನವರಾತ್ರಿಯನ್ನ ಆಚರಣೆ ಮಾಡುವುದು ಅಂತ",
+    "removedRollingPrefix": "ನವರಾತ್ರಿಯನ್ನ ಆಚರಣೆ ಮಾಡುವುದು ಅಂತ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 345,
+    "start": 558.32,
+    "end": 560.87,
+    "captionText": "ನವರಾತ್ರಿಯನ್ನ ಆಚರಣೆ ಮಾಡುವುದು ಅಂತ ಹೇಳಿದ್ದಾರೆ ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ",
+    "removedRollingPrefix": "ನವರಾತ್ರಿಯನ್ನ ಆಚರಣೆ ಮಾಡುವುದು ಅಂತ",
+    "retainedText": "ಹೇಳಿದ್ದಾರೆ ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 346,
+    "start": 560.87,
+    "end": 560.88,
+    "captionText": "ಹೇಳಿದ್ದಾರೆ ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ",
+    "removedRollingPrefix": "ಹೇಳಿದ್ದಾರೆ ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 347,
+    "start": 560.88,
+    "end": 565.75,
+    "captionText": "ಹೇಳಿದ್ದಾರೆ ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ ನವರಾತ್ರಿಯ ಆಚರಣೆ ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆ ಇದರ",
+    "removedRollingPrefix": "ಹೇಳಿದ್ದಾರೆ ಮುಂದೆ ಬರುವ ವಿಡಿಯೋನಲ್ಲಿ",
+    "retainedText": "ನವರಾತ್ರಿಯ ಆಚರಣೆ ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆ ಇದರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 348,
+    "start": 565.75,
+    "end": 565.76,
+    "captionText": "ನವರಾತ್ರಿಯ ಆಚರಣೆ ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆ ಇದರ",
+    "removedRollingPrefix": "ನವರಾತ್ರಿಯ ಆಚರಣೆ ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆ ಇದರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 349,
+    "start": 565.76,
+    "end": 569.269,
+    "captionText": "ನವರಾತ್ರಿಯ ಆಚರಣೆ ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆ ಇದರ ಬಗೆಯನ್ನ ತಿಳಿಸಿಕೊಡುತ್ತೇವೆ ನಿಮ್ಮ ಆದರಕ್ಕೆ",
+    "removedRollingPrefix": "ನವರಾತ್ರಿಯ ಆಚರಣೆ ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆ ಇದರ",
+    "retainedText": "ಬಗೆಯನ್ನ ತಿಳಿಸಿಕೊಡುತ್ತೇವೆ ನಿಮ್ಮ ಆದರಕ್ಕೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 350,
+    "start": 569.269,
+    "end": 569.279,
+    "captionText": "ಬಗೆಯನ್ನ ತಿಳಿಸಿಕೊಡುತ್ತೇವೆ ನಿಮ್ಮ ಆದರಕ್ಕೆ",
+    "removedRollingPrefix": "ಬಗೆಯನ್ನ ತಿಳಿಸಿಕೊಡುತ್ತೇವೆ ನಿಮ್ಮ ಆದರಕ್ಕೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 351,
+    "start": 569.279,
+    "end": 571.67,
+    "captionText": "ಬಗೆಯನ್ನ ತಿಳಿಸಿಕೊಡುತ್ತೇವೆ ನಿಮ್ಮ ಆದರಕ್ಕೆ ಮತ್ತೊಮ್ಮೆ ನನ್ನ ಹೃದಯಪೂರ್ವಕವಾದ",
+    "removedRollingPrefix": "ಬಗೆಯನ್ನ ತಿಳಿಸಿಕೊಡುತ್ತೇವೆ ನಿಮ್ಮ ಆದರಕ್ಕೆ",
+    "retainedText": "ಮತ್ತೊಮ್ಮೆ ನನ್ನ ಹೃದಯಪೂರ್ವಕವಾದ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 352,
+    "start": 571.67,
+    "end": 571.68,
+    "captionText": "ಮತ್ತೊಮ್ಮೆ ನನ್ನ ಹೃದಯಪೂರ್ವಕವಾದ",
+    "removedRollingPrefix": "ಮತ್ತೊಮ್ಮೆ ನನ್ನ ಹೃದಯಪೂರ್ವಕವಾದ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 353,
+    "start": 571.68,
+    "end": 574.47,
+    "captionText": "ಮತ್ತೊಮ್ಮೆ ನನ್ನ ಹೃದಯಪೂರ್ವಕವಾದ ಕೃತಜ್ಞತೆಗಳು ಥ್ಯಾಂಕ್ಸ್ ಎಲ್ಲ ತುಂಬಾ",
+    "removedRollingPrefix": "ಮತ್ತೊಮ್ಮೆ ನನ್ನ ಹೃದಯಪೂರ್ವಕವಾದ",
+    "retainedText": "ಕೃತಜ್ಞತೆಗಳು ಥ್ಯಾಂಕ್ಸ್ ಎಲ್ಲ ತುಂಬಾ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 354,
+    "start": 574.47,
+    "end": 574.48,
+    "captionText": "ಕೃತಜ್ಞತೆಗಳು ಥ್ಯಾಂಕ್ಸ್ ಎಲ್ಲ ತುಂಬಾ",
+    "removedRollingPrefix": "ಕೃತಜ್ಞತೆಗಳು ಥ್ಯಾಂಕ್ಸ್ ಎಲ್ಲ ತುಂಬಾ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 355,
+    "start": 574.48,
+    "end": 577.509,
+    "captionText": "ಕೃತಜ್ಞತೆಗಳು ಥ್ಯಾಂಕ್ಸ್ ಎಲ್ಲ ತುಂಬಾ ವಿಶೇಷವಾದ ಸೇವೆಯನ್ನ ಮಾಡಿದ್ದೀರ",
+    "removedRollingPrefix": "ಕೃತಜ್ಞತೆಗಳು ಥ್ಯಾಂಕ್ಸ್ ಎಲ್ಲ ತುಂಬಾ",
+    "retainedText": "ವಿಶೇಷವಾದ ಸೇವೆಯನ್ನ ಮಾಡಿದ್ದೀರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 356,
+    "start": 577.509,
+    "end": 577.519,
+    "captionText": "ವಿಶೇಷವಾದ ಸೇವೆಯನ್ನ ಮಾಡಿದ್ದೀರ",
+    "removedRollingPrefix": "ವಿಶೇಷವಾದ ಸೇವೆಯನ್ನ ಮಾಡಿದ್ದೀರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 357,
+    "start": 577.519,
+    "end": 579.91,
+    "captionText": "ವಿಶೇಷವಾದ ಸೇವೆಯನ್ನ ಮಾಡಿದ್ದೀರ ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ಹರಿವಾಯು ಗುರುಗಳ ಅನುಗ್ರಹ",
+    "removedRollingPrefix": "ವಿಶೇಷವಾದ ಸೇವೆಯನ್ನ ಮಾಡಿದ್ದೀರ",
+    "retainedText": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ಹರಿವಾಯು ಗುರುಗಳ ಅನುಗ್ರಹ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 358,
+    "start": 579.91,
+    "end": 579.92,
+    "captionText": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ಹರಿವಾಯು ಗುರುಗಳ ಅನುಗ್ರಹ",
+    "removedRollingPrefix": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ಹರಿವಾಯು ಗುರುಗಳ ಅನುಗ್ರಹ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 359,
+    "start": 579.92,
+    "end": 582.63,
+    "captionText": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ಹರಿವಾಯು ಗುರುಗಳ ಅನುಗ್ರಹ ಕುಲದೇವರು ಮತ್ತು ನಿಮ್ಮ ಹಿರಿಯರ ಆಶೀರ್ವಾದ",
+    "removedRollingPrefix": "ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಕೂಡ ಹರಿವಾಯು ಗುರುಗಳ ಅನುಗ್ರಹ",
+    "retainedText": "ಕುಲದೇವರು ಮತ್ತು ನಿಮ್ಮ ಹಿರಿಯರ ಆಶೀರ್ವಾದ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 360,
+    "start": 582.63,
+    "end": 582.64,
+    "captionText": "ಕುಲದೇವರು ಮತ್ತು ನಿಮ್ಮ ಹಿರಿಯರ ಆಶೀರ್ವಾದ",
+    "removedRollingPrefix": "ಕುಲದೇವರು ಮತ್ತು ನಿಮ್ಮ ಹಿರಿಯರ ಆಶೀರ್ವಾದ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 361,
+    "start": 582.64,
+    "end": 585.829,
+    "captionText": "ಕುಲದೇವರು ಮತ್ತು ನಿಮ್ಮ ಹಿರಿಯರ ಆಶೀರ್ವಾದ ಪೂರ್ಣವಾಗಲಿ ಅಂತ ಪ್ರಾರ್ಥನೆ ಮಾಡು",
+    "removedRollingPrefix": "ಕುಲದೇವರು ಮತ್ತು ನಿಮ್ಮ ಹಿರಿಯರ ಆಶೀರ್ವಾದ",
+    "retainedText": "ಪೂರ್ಣವಾಗಲಿ ಅಂತ ಪ್ರಾರ್ಥನೆ ಮಾಡು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 362,
+    "start": 585.829,
+    "end": 585.8389999999999,
+    "captionText": "ಪೂರ್ಣವಾಗಲಿ ಅಂತ ಪ್ರಾರ್ಥನೆ ಮಾಡು",
+    "removedRollingPrefix": "ಪೂರ್ಣವಾಗಲಿ ಅಂತ ಪ್ರಾರ್ಥನೆ ಮಾಡು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 363,
+    "start": 585.8389999999999,
+    "end": 588.87,
+    "captionText": "ಪೂರ್ಣವಾಗಲಿ ಅಂತ ಪ್ರಾರ್ಥನೆ ಮಾಡು ಅದೇ ರೀತಿಯಲ್ಲಿ ನವರಾತ್ರಿ ವೃದೇಹಿ ಅಸಕ್ತಹ",
+    "removedRollingPrefix": "ಪೂರ್ಣವಾಗಲಿ ಅಂತ ಪ್ರಾರ್ಥನೆ ಮಾಡು",
+    "retainedText": "ಅದೇ ರೀತಿಯಲ್ಲಿ ನವರಾತ್ರಿ ವೃದೇಹಿ ಅಸಕ್ತಹ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 364,
+    "start": 588.87,
+    "end": 588.88,
+    "captionText": "ಅದೇ ರೀತಿಯಲ್ಲಿ ನವರಾತ್ರಿ ವೃದೇಹಿ ಅಸಕ್ತಹ",
+    "removedRollingPrefix": "ಅದೇ ರೀತಿಯಲ್ಲಿ ನವರಾತ್ರಿ ವೃದೇಹಿ ಅಸಕ್ತಹ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 365,
+    "start": 588.88,
+    "end": 593.35,
+    "captionText": "ಅದೇ ರೀತಿಯಲ್ಲಿ ನವರಾತ್ರಿ ವೃದೇಹಿ ಅಸಕ್ತಹ ತ್ರಿರಾತ್ರಂ ಏಕರಾತ್ರಂ ರತರಯಭಕ್ತ",
+    "removedRollingPrefix": "ಅದೇ ರೀತಿಯಲ್ಲಿ ನವರಾತ್ರಿ ವೃದೇಹಿ ಅಸಕ್ತಹ",
+    "retainedText": "ತ್ರಿರಾತ್ರಂ ಏಕರಾತ್ರಂ ರತರಯಭಕ್ತ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 366,
+    "start": 593.35,
+    "end": 593.36,
+    "captionText": "ತ್ರಿರಾತ್ರಂ ಏಕರಾತ್ರಂ ರತರಯಭಕ್ತ",
+    "removedRollingPrefix": "ತ್ರಿರಾತ್ರಂ ಏಕರಾತ್ರಂ ರತರಯಭಕ್ತ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 367,
+    "start": 593.36,
+    "end": 598.15,
+    "captionText": "ತ್ರಿರಾತ್ರಂ ಏಕರಾತ್ರಂ ರತರಯಭಕ್ತ ತಸ್ಮದಶಯಮಿ ವಾಂಚಿತಂ ಅಂತ ದೇವರು ಒಂದು ವರವನ್ನ",
+    "removedRollingPrefix": "ತ್ರಿರಾತ್ರಂ ಏಕರಾತ್ರಂ ರತರಯಭಕ್ತ",
+    "retainedText": "ತಸ್ಮದಶಯಮಿ ವಾಂಚಿತಂ ಅಂತ ದೇವರು ಒಂದು ವರವನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 368,
+    "start": 598.15,
+    "end": 598.16,
+    "captionText": "ತಸ್ಮದಶಯಮಿ ವಾಂಚಿತಂ ಅಂತ ದೇವರು ಒಂದು ವರವನ್ನ",
+    "removedRollingPrefix": "ತಸ್ಮದಶಯಮಿ ವಾಂಚಿತಂ ಅಂತ ದೇವರು ಒಂದು ವರವನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 369,
+    "start": 598.16,
+    "end": 600.389,
+    "captionText": "ತಸ್ಮದಶಯಮಿ ವಾಂಚಿತಂ ಅಂತ ದೇವರು ಒಂದು ವರವನ್ನ ಕೊಟ್ಟಿದ್ದ",
+    "removedRollingPrefix": "ತಸ್ಮದಶಯಮಿ ವಾಂಚಿತಂ ಅಂತ ದೇವರು ಒಂದು ವರವನ್ನ",
+    "retainedText": "ಕೊಟ್ಟಿದ್ದ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 370,
+    "start": 600.389,
+    "end": 600.399,
+    "captionText": "ಕೊಟ್ಟಿದ್ದ",
+    "removedRollingPrefix": "ಕೊಟ್ಟಿದ್ದ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 371,
+    "start": 600.399,
+    "end": 604.79,
+    "captionText": "ಕೊಟ್ಟಿದ್ದ ನವರಾತ್ರಿಯ ವ್ರತ",
+    "removedRollingPrefix": "ಕೊಟ್ಟಿದ್ದ",
+    "retainedText": "ನವರಾತ್ರಿಯ ವ್ರತ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 372,
+    "start": 604.8,
+    "end": 607.35,
+    "captionText": "ತ್ರಿರಾತ್ರಿ ನವರಾತ್ರಿ ಅಂದರೆ ಒಂಬತ್ತು",
+    "removedRollingPrefix": "",
+    "retainedText": "ತ್ರಿರಾತ್ರಿ ನವರಾತ್ರಿ ಅಂದರೆ ಒಂಬತ್ತು",
+    "reason": "retained including possible spoken repetition"
+  },
+  {
+    "timelineIndex": 373,
+    "start": 607.35,
+    "end": 607.36,
+    "captionText": "ತ್ರಿರಾತ್ರಿ ನವರಾತ್ರಿ ಅಂದರೆ ಒಂಬತ್ತು",
+    "removedRollingPrefix": "ತ್ರಿರಾತ್ರಿ ನವರಾತ್ರಿ ಅಂದರೆ ಒಂಬತ್ತು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 374,
+    "start": 607.36,
+    "end": 609.75,
+    "captionText": "ತ್ರಿರಾತ್ರಿ ನವರಾತ್ರಿ ಅಂದರೆ ಒಂಬತ್ತು ರಾತ್ರಿಯಲ್ಲಿ ಮಾಡಿದರೆ ವಿಶೇಷ ಅಸಕ್ತರು",
+    "removedRollingPrefix": "ತ್ರಿರಾತ್ರಿ ನವರಾತ್ರಿ ಅಂದರೆ ಒಂಬತ್ತು",
+    "retainedText": "ರಾತ್ರಿಯಲ್ಲಿ ಮಾಡಿದರೆ ವಿಶೇಷ ಅಸಕ್ತರು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 375,
+    "start": 609.75,
+    "end": 609.76,
+    "captionText": "ರಾತ್ರಿಯಲ್ಲಿ ಮಾಡಿದರೆ ವಿಶೇಷ ಅಸಕ್ತರು",
+    "removedRollingPrefix": "ರಾತ್ರಿಯಲ್ಲಿ ಮಾಡಿದರೆ ವಿಶೇಷ ಅಸಕ್ತರು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 376,
+    "start": 609.76,
+    "end": 612.31,
+    "captionText": "ರಾತ್ರಿಯಲ್ಲಿ ಮಾಡಿದರೆ ವಿಶೇಷ ಅಸಕ್ತರು ನನ್ನಿಂದ ಆಗುದಿಲ್ಲ ಅಂದ್ರೆ ತ್ರಿರಾತ್ರಿ ಮೂರು",
+    "removedRollingPrefix": "ರಾತ್ರಿಯಲ್ಲಿ ಮಾಡಿದರೆ ವಿಶೇಷ ಅಸಕ್ತರು",
+    "retainedText": "ನನ್ನಿಂದ ಆಗುದಿಲ್ಲ ಅಂದ್ರೆ ತ್ರಿರಾತ್ರಿ ಮೂರು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 377,
+    "start": 612.31,
+    "end": 612.32,
+    "captionText": "ನನ್ನಿಂದ ಆಗುದಿಲ್ಲ ಅಂದ್ರೆ ತ್ರಿರಾತ್ರಿ ಮೂರು",
+    "removedRollingPrefix": "ನನ್ನಿಂದ ಆಗುದಿಲ್ಲ ಅಂದ್ರೆ ತ್ರಿರಾತ್ರಿ ಮೂರು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 378,
+    "start": 612.32,
+    "end": 615.35,
+    "captionText": "ನನ್ನಿಂದ ಆಗುದಿಲ್ಲ ಅಂದ್ರೆ ತ್ರಿರಾತ್ರಿ ಮೂರು ರಾತ್ರಿಗಳು ಇಲ್ಲವ ಏಕರಾತ್ರಿ ಒಂದು ದಿನವಾದರೆ",
+    "removedRollingPrefix": "ನನ್ನಿಂದ ಆಗುದಿಲ್ಲ ಅಂದ್ರೆ ತ್ರಿರಾತ್ರಿ ಮೂರು",
+    "retainedText": "ರಾತ್ರಿಗಳು ಇಲ್ಲವ ಏಕರಾತ್ರಿ ಒಂದು ದಿನವಾದರೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 379,
+    "start": 615.35,
+    "end": 615.36,
+    "captionText": "ರಾತ್ರಿಗಳು ಇಲ್ಲವ ಏಕರಾತ್ರಿ ಒಂದು ದಿನವಾದರೆ",
+    "removedRollingPrefix": "ರಾತ್ರಿಗಳು ಇಲ್ಲವ ಏಕರಾತ್ರಿ ಒಂದು ದಿನವಾದರೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 380,
+    "start": 615.36,
+    "end": 618.47,
+    "captionText": "ರಾತ್ರಿಗಳು ಇಲ್ಲವ ಏಕರಾತ್ರಿ ಒಂದು ದಿನವಾದರೆ ವರತಂ ಚರತಿಯೋಭಕ್ತ",
+    "removedRollingPrefix": "ರಾತ್ರಿಗಳು ಇಲ್ಲವ ಏಕರಾತ್ರಿ ಒಂದು ದಿನವಾದರೆ",
+    "retainedText": "ವರತಂ ಚರತಿಯೋಭಕ್ತ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 381,
+    "start": 618.47,
+    "end": 618.48,
+    "captionText": "ವರತಂ ಚರತಿಯೋಭಕ್ತ",
+    "removedRollingPrefix": "ವರತಂ ಚರತಿಯೋಭಕ್ತ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 382,
+    "start": 618.48,
+    "end": 620.15,
+    "captionText": "ವರತಂ ಚರತಿಯೋಭಕ್ತ ತಸ್ಮೈದಾಮಿ",
+    "removedRollingPrefix": "ವರತಂ ಚರತಿಯೋಭಕ್ತ",
+    "retainedText": "ತಸ್ಮೈದಾಮಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 383,
+    "start": 620.15,
+    "end": 620.16,
+    "captionText": "ತಸ್ಮೈದಾಮಿ",
+    "removedRollingPrefix": "ತಸ್ಮೈದಾಮಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 384,
+    "start": 620.16,
+    "end": 622.87,
+    "captionText": "ತಸ್ಮೈದಾಮಿ ವಾಂಚಿತ ಯಾರು ಮಾಡುತ್ತಾರೆ ಅವರ ವಾಂಚಿತಾರ್ಥಗಳು",
+    "removedRollingPrefix": "ತಸ್ಮೈದಾಮಿ",
+    "retainedText": "ವಾಂಚಿತ ಯಾರು ಮಾಡುತ್ತಾರೆ ಅವರ ವಾಂಚಿತಾರ್ಥಗಳು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 385,
+    "start": 622.87,
+    "end": 622.88,
+    "captionText": "ವಾಂಚಿತ ಯಾರು ಮಾಡುತ್ತಾರೆ ಅವರ ವಾಂಚಿತಾರ್ಥಗಳು",
+    "removedRollingPrefix": "ವಾಂಚಿತ ಯಾರು ಮಾಡುತ್ತಾರೆ ಅವರ ವಾಂಚಿತಾರ್ಥಗಳು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 386,
+    "start": 622.88,
+    "end": 626.23,
+    "captionText": "ವಾಂಚಿತ ಯಾರು ಮಾಡುತ್ತಾರೆ ಅವರ ವಾಂಚಿತಾರ್ಥಗಳು ಇಷ್ಟಾರ್ಥಿಗಳು ಪೂರ್ತಿ ಆಗುತ್ತೆ",
+    "removedRollingPrefix": "ವಾಂಚಿತ ಯಾರು ಮಾಡುತ್ತಾರೆ ಅವರ ವಾಂಚಿತಾರ್ಥಗಳು",
+    "retainedText": "ಇಷ್ಟಾರ್ಥಿಗಳು ಪೂರ್ತಿ ಆಗುತ್ತೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 387,
+    "start": 626.23,
+    "end": 626.24,
+    "captionText": "ಇಷ್ಟಾರ್ಥಿಗಳು ಪೂರ್ತಿ ಆಗುತ್ತೆ",
+    "removedRollingPrefix": "ಇಷ್ಟಾರ್ಥಿಗಳು ಪೂರ್ತಿ ಆಗುತ್ತೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 388,
+    "start": 626.24,
+    "end": 629.03,
+    "captionText": "ಇಷ್ಟಾರ್ಥಿಗಳು ಪೂರ್ತಿ ಆಗುತ್ತೆ ಅಖಂಠ ದೀಪ ಎನ್ನೋದು ನಮ್ಮ ತಿರುಪತಿಯ",
+    "removedRollingPrefix": "ಇಷ್ಟಾರ್ಥಿಗಳು ಪೂರ್ತಿ ಆಗುತ್ತೆ",
+    "retainedText": "ಅಖಂಠ ದೀಪ ಎನ್ನೋದು ನಮ್ಮ ತಿರುಪತಿಯ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 389,
+    "start": 629.03,
+    "end": 629.04,
+    "captionText": "ಅಖಂಠ ದೀಪ ಎನ್ನೋದು ನಮ್ಮ ತಿರುಪತಿಯ",
+    "removedRollingPrefix": "ಅಖಂಠ ದೀಪ ಎನ್ನೋದು ನಮ್ಮ ತಿರುಪತಿಯ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 390,
+    "start": 629.04,
+    "end": 631.509,
+    "captionText": "ಅಖಂಠ ದೀಪ ಎನ್ನೋದು ನಮ್ಮ ತಿರುಪತಿಯ ದಿಮ್ಮಪ್ಪನಿಗೆ ಅಥವಾ ಲಕ್ಷ್ಮಿ ನರಸಿಂಹನಿಗೆ",
+    "removedRollingPrefix": "ಅಖಂಠ ದೀಪ ಎನ್ನೋದು ನಮ್ಮ ತಿರುಪತಿಯ",
+    "retainedText": "ದಿಮ್ಮಪ್ಪನಿಗೆ ಅಥವಾ ಲಕ್ಷ್ಮಿ ನರಸಿಂಹನಿಗೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 391,
+    "start": 631.509,
+    "end": 631.519,
+    "captionText": "ದಿಮ್ಮಪ್ಪನಿಗೆ ಅಥವಾ ಲಕ್ಷ್ಮಿ ನರಸಿಂಹನಿಗೆ",
+    "removedRollingPrefix": "ದಿಮ್ಮಪ್ಪನಿಗೆ ಅಥವಾ ಲಕ್ಷ್ಮಿ ನರಸಿಂಹನಿಗೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 392,
+    "start": 631.519,
+    "end": 635.35,
+    "captionText": "ದಿಮ್ಮಪ್ಪನಿಗೆ ಅಥವಾ ಲಕ್ಷ್ಮಿ ನರಸಿಂಹನಿಗೆ ಅಥವಾ ನಿಮ್ಮ ಕುಲದೇವತೆಯನ್ನ",
+    "removedRollingPrefix": "ದಿಮ್ಮಪ್ಪನಿಗೆ ಅಥವಾ ಲಕ್ಷ್ಮಿ ನರಸಿಂಹನಿಗೆ",
+    "retainedText": "ಅಥವಾ ನಿಮ್ಮ ಕುಲದೇವತೆಯನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 393,
+    "start": 635.36,
+    "end": 639.75,
+    "captionText": "ಗುರಿಸುವ ಒಂದು ದೀಪ ಅದರಿಂದ ನಮ್ಮ ಮನೆಯಲ್ಲಿ",
+    "removedRollingPrefix": "",
+    "retainedText": "ಗುರಿಸುವ ಒಂದು ದೀಪ ಅದರಿಂದ ನಮ್ಮ ಮನೆಯಲ್ಲಿ",
+    "reason": "retained including possible spoken repetition"
+  },
+  {
+    "timelineIndex": 394,
+    "start": 639.75,
+    "end": 639.76,
+    "captionText": "ಗುರಿಸುವ ಒಂದು ದೀಪ ಅದರಿಂದ ನಮ್ಮ ಮನೆಯಲ್ಲಿ",
+    "removedRollingPrefix": "ಗುರಿಸುವ ಒಂದು ದೀಪ ಅದರಿಂದ ನಮ್ಮ ಮನೆಯಲ್ಲಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 395,
+    "start": 639.76,
+    "end": 643.59,
+    "captionText": "ಗುರಿಸುವ ಒಂದು ದೀಪ ಅದರಿಂದ ನಮ್ಮ ಮನೆಯಲ್ಲಿ ದೇವರ ಮನೆಯಲ್ಲಿ ಶುದ್ಧವಾದ ಮಡಿಯಿಂದ ಈ ದೀಪವನ್ನ",
+    "removedRollingPrefix": "ಗುರಿಸುವ ಒಂದು ದೀಪ ಅದರಿಂದ ನಮ್ಮ ಮನೆಯಲ್ಲಿ",
+    "retainedText": "ದೇವರ ಮನೆಯಲ್ಲಿ ಶುದ್ಧವಾದ ಮಡಿಯಿಂದ ಈ ದೀಪವನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 396,
+    "start": 643.59,
+    "end": 643.6,
+    "captionText": "ದೇವರ ಮನೆಯಲ್ಲಿ ಶುದ್ಧವಾದ ಮಡಿಯಿಂದ ಈ ದೀಪವನ್ನ",
+    "removedRollingPrefix": "ದೇವರ ಮನೆಯಲ್ಲಿ ಶುದ್ಧವಾದ ಮಡಿಯಿಂದ ಈ ದೀಪವನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 397,
+    "start": 643.6,
+    "end": 645.829,
+    "captionText": "ದೇವರ ಮನೆಯಲ್ಲಿ ಶುದ್ಧವಾದ ಮಡಿಯಿಂದ ಈ ದೀಪವನ್ನ ಬೆಳಗಬೇಕು",
+    "removedRollingPrefix": "ದೇವರ ಮನೆಯಲ್ಲಿ ಶುದ್ಧವಾದ ಮಡಿಯಿಂದ ಈ ದೀಪವನ್ನ",
+    "retainedText": "ಬೆಳಗಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 398,
+    "start": 645.829,
+    "end": 645.8389999999999,
+    "captionText": "ಬೆಳಗಬೇಕು",
+    "removedRollingPrefix": "ಬೆಳಗಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 399,
+    "start": 645.8389999999999,
+    "end": 651.35,
+    "captionText": "ಬೆಳಗಬೇಕು ದೀಪ ಏರಿಸುವ ಪಾತ್ರೆ ಅಂದ್ರೆ ದೀಪದಲ್ಲಿ ದಲ್ಲಿ",
+    "removedRollingPrefix": "ಬೆಳಗಬೇಕು",
+    "retainedText": "ದೀಪ ಏರಿಸುವ ಪಾತ್ರೆ ಅಂದ್ರೆ ದೀಪದಲ್ಲಿ ದಲ್ಲಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 400,
+    "start": 651.35,
+    "end": 651.36,
+    "captionText": "ದೀಪ ಏರಿಸುವ ಪಾತ್ರೆ ಅಂದ್ರೆ ದೀಪದಲ್ಲಿ ದಲ್ಲಿ",
+    "removedRollingPrefix": "ದೀಪ ಏರಿಸುವ ಪಾತ್ರೆ ಅಂದ್ರೆ ದೀಪದಲ್ಲಿ ದಲ್ಲಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 401,
+    "start": 651.36,
+    "end": 655.19,
+    "captionText": "ದೀಪ ಏರಿಸುವ ಪಾತ್ರೆ ಅಂದ್ರೆ ದೀಪದಲ್ಲಿ ದಲ್ಲಿ ಸೂರ್ಯ ಚಂದ್ರರು ಇರ್ತಾರೆ ಅವರು ಭಗವಂತನಿಗೆ",
+    "removedRollingPrefix": "ದೀಪ ಏರಿಸುವ ಪಾತ್ರೆ ಅಂದ್ರೆ ದೀಪದಲ್ಲಿ ದಲ್ಲಿ",
+    "retainedText": "ಸೂರ್ಯ ಚಂದ್ರರು ಇರ್ತಾರೆ ಅವರು ಭಗವಂತನಿಗೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 402,
+    "start": 655.19,
+    "end": 655.2,
+    "captionText": "ಸೂರ್ಯ ಚಂದ್ರರು ಇರ್ತಾರೆ ಅವರು ಭಗವಂತನಿಗೆ",
+    "removedRollingPrefix": "ಸೂರ್ಯ ಚಂದ್ರರು ಇರ್ತಾರೆ ಅವರು ಭಗವಂತನಿಗೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 403,
+    "start": 655.2,
+    "end": 657.75,
+    "captionText": "ಸೂರ್ಯ ಚಂದ್ರರು ಇರ್ತಾರೆ ಅವರು ಭಗವಂತನಿಗೆ ಸೇವೆ ಮಾಡುತ್ತಾರೆ ದೀಪ ಪಾತ್ರೆಯನ್ನ ಅಶ್ನ",
+    "removedRollingPrefix": "ಸೂರ್ಯ ಚಂದ್ರರು ಇರ್ತಾರೆ ಅವರು ಭಗವಂತನಿಗೆ",
+    "retainedText": "ಸೇವೆ ಮಾಡುತ್ತಾರೆ ದೀಪ ಪಾತ್ರೆಯನ್ನ ಅಶ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 404,
+    "start": 657.75,
+    "end": 657.76,
+    "captionText": "ಸೇವೆ ಮಾಡುತ್ತಾರೆ ದೀಪ ಪಾತ್ರೆಯನ್ನ ಅಶ್ನ",
+    "removedRollingPrefix": "ಸೇವೆ ಮಾಡುತ್ತಾರೆ ದೀಪ ಪಾತ್ರೆಯನ್ನ ಅಶ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 405,
+    "start": 657.76,
+    "end": 660.55,
+    "captionText": "ಸೇವೆ ಮಾಡುತ್ತಾರೆ ದೀಪ ಪಾತ್ರೆಯನ್ನ ಅಶ್ನ ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಪುಷ್ಪದಿಂದ ಅಲಂಕಾರ ಮಾಡಿ",
+    "removedRollingPrefix": "ಸೇವೆ ಮಾಡುತ್ತಾರೆ ದೀಪ ಪಾತ್ರೆಯನ್ನ ಅಶ್ನ",
+    "retainedText": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಪುಷ್ಪದಿಂದ ಅಲಂಕಾರ ಮಾಡಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 406,
+    "start": 660.55,
+    "end": 660.56,
+    "captionText": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಪುಷ್ಪದಿಂದ ಅಲಂಕಾರ ಮಾಡಿ",
+    "removedRollingPrefix": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಪುಷ್ಪದಿಂದ ಅಲಂಕಾರ ಮಾಡಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 407,
+    "start": 660.56,
+    "end": 662.79,
+    "captionText": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಪುಷ್ಪದಿಂದ ಅಲಂಕಾರ ಮಾಡಿ ಅದೊಂದು ಅಕ್ಕಿ ಅಥವಾ ತಟ್ಟೆಯಲ್ಲಿಇಟ್ಟು ಒಬ್ಬರ",
+    "removedRollingPrefix": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಪುಷ್ಪದಿಂದ ಅಲಂಕಾರ ಮಾಡಿ",
+    "retainedText": "ಅದೊಂದು ಅಕ್ಕಿ ಅಥವಾ ತಟ್ಟೆಯಲ್ಲಿಇಟ್ಟು ಒಬ್ಬರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 408,
+    "start": 662.79,
+    "end": 662.8,
+    "captionText": "ಅದೊಂದು ಅಕ್ಕಿ ಅಥವಾ ತಟ್ಟೆಯಲ್ಲಿಇಟ್ಟು ಒಬ್ಬರ",
+    "removedRollingPrefix": "ಅದೊಂದು ಅಕ್ಕಿ ಅಥವಾ ತಟ್ಟೆಯಲ್ಲಿಇಟ್ಟು ಒಬ್ಬರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 409,
+    "start": 662.8,
+    "end": 666.63,
+    "captionText": "ಅದೊಂದು ಅಕ್ಕಿ ಅಥವಾ ತಟ್ಟೆಯಲ್ಲಿಇಟ್ಟು ಒಬ್ಬರ ಮನೆಯಲ್ಲಿ ಗೋಮಯ ಅಂದರೆ ಸೆಗಣಿಯಲ್ಲಿ ದೀಪವನ್ನ",
+    "removedRollingPrefix": "ಅದೊಂದು ಅಕ್ಕಿ ಅಥವಾ ತಟ್ಟೆಯಲ್ಲಿಇಟ್ಟು ಒಬ್ಬರ",
+    "retainedText": "ಮನೆಯಲ್ಲಿ ಗೋಮಯ ಅಂದರೆ ಸೆಗಣಿಯಲ್ಲಿ ದೀಪವನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 410,
+    "start": 666.63,
+    "end": 666.64,
+    "captionText": "ಮನೆಯಲ್ಲಿ ಗೋಮಯ ಅಂದರೆ ಸೆಗಣಿಯಲ್ಲಿ ದೀಪವನ್ನ",
+    "removedRollingPrefix": "ಮನೆಯಲ್ಲಿ ಗೋಮಯ ಅಂದರೆ ಸೆಗಣಿಯಲ್ಲಿ ದೀಪವನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 411,
+    "start": 666.64,
+    "end": 669.59,
+    "captionText": "ಮನೆಯಲ್ಲಿ ಗೋಮಯ ಅಂದರೆ ಸೆಗಣಿಯಲ್ಲಿ ದೀಪವನ್ನ ಇಡುವುದು ಅಂತ ಸಂಪ್ರದಾಯಗಳು ಇರುತ್ತೆ ಅದರಲ್ಲಿ",
+    "removedRollingPrefix": "ಮನೆಯಲ್ಲಿ ಗೋಮಯ ಅಂದರೆ ಸೆಗಣಿಯಲ್ಲಿ ದೀಪವನ್ನ",
+    "retainedText": "ಇಡುವುದು ಅಂತ ಸಂಪ್ರದಾಯಗಳು ಇರುತ್ತೆ ಅದರಲ್ಲಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 412,
+    "start": 669.59,
+    "end": 669.6,
+    "captionText": "ಇಡುವುದು ಅಂತ ಸಂಪ್ರದಾಯಗಳು ಇರುತ್ತೆ ಅದರಲ್ಲಿ",
+    "removedRollingPrefix": "ಇಡುವುದು ಅಂತ ಸಂಪ್ರದಾಯಗಳು ಇರುತ್ತೆ ಅದರಲ್ಲಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 413,
+    "start": 669.6,
+    "end": 673.91,
+    "captionText": "ಇಡುವುದು ಅಂತ ಸಂಪ್ರದಾಯಗಳು ಇರುತ್ತೆ ಅದರಲ್ಲಿ ತುಪ್ಪ ಅಥವಾ ಒಳ್ಳೆಣ್ಣೆ ಎಳ್ಳೆಣ್ಣೆಯನ್ನ ತುಂಬಿ",
+    "removedRollingPrefix": "ಇಡುವುದು ಅಂತ ಸಂಪ್ರದಾಯಗಳು ಇರುತ್ತೆ ಅದರಲ್ಲಿ",
+    "retainedText": "ತುಪ್ಪ ಅಥವಾ ಒಳ್ಳೆಣ್ಣೆ ಎಳ್ಳೆಣ್ಣೆಯನ್ನ ತುಂಬಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 414,
+    "start": 673.91,
+    "end": 673.92,
+    "captionText": "ತುಪ್ಪ ಅಥವಾ ಒಳ್ಳೆಣ್ಣೆ ಎಳ್ಳೆಣ್ಣೆಯನ್ನ ತುಂಬಿ",
+    "removedRollingPrefix": "ತುಪ್ಪ ಅಥವಾ ಒಳ್ಳೆಣ್ಣೆ ಎಳ್ಳೆಣ್ಣೆಯನ್ನ ತುಂಬಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 415,
+    "start": 673.92,
+    "end": 677.03,
+    "captionText": "ತುಪ್ಪ ಅಥವಾ ಒಳ್ಳೆಣ್ಣೆ ಎಳ್ಳೆಣ್ಣೆಯನ್ನ ತುಂಬಿ ಒಳ್ಳೆ ಒಂದು ಬತ್ತಿಯನ್ನ ಹಾಕಿ ತಯಾರಾಗಿ",
+    "removedRollingPrefix": "ತುಪ್ಪ ಅಥವಾ ಒಳ್ಳೆಣ್ಣೆ ಎಳ್ಳೆಣ್ಣೆಯನ್ನ ತುಂಬಿ",
+    "retainedText": "ಒಳ್ಳೆ ಒಂದು ಬತ್ತಿಯನ್ನ ಹಾಕಿ ತಯಾರಾಗಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 416,
+    "start": 677.03,
+    "end": 677.04,
+    "captionText": "ಒಳ್ಳೆ ಒಂದು ಬತ್ತಿಯನ್ನ ಹಾಕಿ ತಯಾರಾಗಿ",
+    "removedRollingPrefix": "ಒಳ್ಳೆ ಒಂದು ಬತ್ತಿಯನ್ನ ಹಾಕಿ ತಯಾರಾಗಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 417,
+    "start": 677.04,
+    "end": 679.509,
+    "captionText": "ಒಳ್ಳೆ ಒಂದು ಬತ್ತಿಯನ್ನ ಹಾಕಿ ತಯಾರಾಗಿ ಇಟ್ಕೊಬೇಕು ಅದರಲ್ಲಿ 27 ನಕ್ಷ ನಕ್ಷತ್ರ",
+    "removedRollingPrefix": "ಒಳ್ಳೆ ಒಂದು ಬತ್ತಿಯನ್ನ ಹಾಕಿ ತಯಾರಾಗಿ",
+    "retainedText": "ಇಟ್ಕೊಬೇಕು ಅದರಲ್ಲಿ 27 ನಕ್ಷ ನಕ್ಷತ್ರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 418,
+    "start": 679.509,
+    "end": 679.519,
+    "captionText": "ಇಟ್ಕೊಬೇಕು ಅದರಲ್ಲಿ 27 ನಕ್ಷ ನಕ್ಷತ್ರ",
+    "removedRollingPrefix": "ಇಟ್ಕೊಬೇಕು ಅದರಲ್ಲಿ 27 ನಕ್ಷ ನಕ್ಷತ್ರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 419,
+    "start": 679.519,
+    "end": 681.03,
+    "captionText": "ಇಟ್ಕೊಬೇಕು ಅದರಲ್ಲಿ 27 ನಕ್ಷ ನಕ್ಷತ್ರ ದೇವತೆಗಳನ್ನ",
+    "removedRollingPrefix": "ಇಟ್ಕೊಬೇಕು ಅದರಲ್ಲಿ 27 ನಕ್ಷ ನಕ್ಷತ್ರ",
+    "retainedText": "ದೇವತೆಗಳನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 420,
+    "start": 681.03,
+    "end": 681.04,
+    "captionText": "ದೇವತೆಗಳನ್ನ",
+    "removedRollingPrefix": "ದೇವತೆಗಳನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 421,
+    "start": 681.04,
+    "end": 683.35,
+    "captionText": "ದೇವತೆಗಳನ್ನ ದೀಪದ",
+    "removedRollingPrefix": "ದೇವತೆಗಳನ್ನ",
+    "retainedText": "ದೀಪದ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 422,
+    "start": 683.35,
+    "end": 683.36,
+    "captionText": "ದೀಪದ",
+    "removedRollingPrefix": "ದೀಪದ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 423,
+    "start": 683.36,
+    "end": 684.949,
+    "captionText": "ದೀಪದ ಅಡಿಯಲ್ಲಿ",
+    "removedRollingPrefix": "ದೀಪದ",
+    "retainedText": "ಅಡಿಯಲ್ಲಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 424,
+    "start": 684.949,
+    "end": 684.959,
+    "captionText": "ಅಡಿಯಲ್ಲಿ",
+    "removedRollingPrefix": "ಅಡಿಯಲ್ಲಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 425,
+    "start": 684.959,
+    "end": 690.15,
+    "captionText": "ಅಡಿಯಲ್ಲಿ ಆವಾಹನವನ್ನ ಮಾಡಿ ಆ ಒಂದು ಏನು ಭಕ್ತಿ ಇದೆ",
+    "removedRollingPrefix": "ಅಡಿಯಲ್ಲಿ",
+    "retainedText": "ಆವಾಹನವನ್ನ ಮಾಡಿ ಆ ಒಂದು ಏನು ಭಕ್ತಿ ಇದೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 426,
+    "start": 690.15,
+    "end": 690.16,
+    "captionText": "ಆವಾಹನವನ್ನ ಮಾಡಿ ಆ ಒಂದು ಏನು ಭಕ್ತಿ ಇದೆ",
+    "removedRollingPrefix": "ಆವಾಹನವನ್ನ ಮಾಡಿ ಆ ಒಂದು ಏನು ಭಕ್ತಿ ಇದೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 427,
+    "start": 690.16,
+    "end": 693.509,
+    "captionText": "ಆವಾಹನವನ್ನ ಮಾಡಿ ಆ ಒಂದು ಏನು ಭಕ್ತಿ ಇದೆ ಅದರಲ್ಲಿ ಆದಿಶೇಷ ಜ್ಯೋತಿಯಲ್ಲಿ ಸೂರ್ಯ ಚಂದ್ರ",
+    "removedRollingPrefix": "ಆವಾಹನವನ್ನ ಮಾಡಿ ಆ ಒಂದು ಏನು ಭಕ್ತಿ ಇದೆ",
+    "retainedText": "ಅದರಲ್ಲಿ ಆದಿಶೇಷ ಜ್ಯೋತಿಯಲ್ಲಿ ಸೂರ್ಯ ಚಂದ್ರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 428,
+    "start": 693.509,
+    "end": 693.519,
+    "captionText": "ಅದರಲ್ಲಿ ಆದಿಶೇಷ ಜ್ಯೋತಿಯಲ್ಲಿ ಸೂರ್ಯ ಚಂದ್ರ",
+    "removedRollingPrefix": "ಅದರಲ್ಲಿ ಆದಿಶೇಷ ಜ್ಯೋತಿಯಲ್ಲಿ ಸೂರ್ಯ ಚಂದ್ರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 429,
+    "start": 693.519,
+    "end": 697.829,
+    "captionText": "ಅದರಲ್ಲಿ ಆದಿಶೇಷ ಜ್ಯೋತಿಯಲ್ಲಿ ಸೂರ್ಯ ಚಂದ್ರ ಇವರು ಸೇವೆ ಮಾಡಲಿಕ್ಕೆ ಇರ್ತಾರೆ ಅಂತ ನಾವು",
+    "removedRollingPrefix": "ಅದರಲ್ಲಿ ಆದಿಶೇಷ ಜ್ಯೋತಿಯಲ್ಲಿ ಸೂರ್ಯ ಚಂದ್ರ",
+    "retainedText": "ಇವರು ಸೇವೆ ಮಾಡಲಿಕ್ಕೆ ಇರ್ತಾರೆ ಅಂತ ನಾವು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 430,
+    "start": 697.829,
+    "end": 697.8389999999999,
+    "captionText": "ಇವರು ಸೇವೆ ಮಾಡಲಿಕ್ಕೆ ಇರ್ತಾರೆ ಅಂತ ನಾವು",
+    "removedRollingPrefix": "ಇವರು ಸೇವೆ ಮಾಡಲಿಕ್ಕೆ ಇರ್ತಾರೆ ಅಂತ ನಾವು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 431,
+    "start": 697.8389999999999,
+    "end": 702.31,
+    "captionText": "ಇವರು ಸೇವೆ ಮಾಡಲಿಕ್ಕೆ ಇರ್ತಾರೆ ಅಂತ ನಾವು ಚಿಂತನೆಯನ್ನ ಮಾಡತ ಈ ದೀಪವನ್ನ ಏರಿಸಬೇಕು",
+    "removedRollingPrefix": "ಇವರು ಸೇವೆ ಮಾಡಲಿಕ್ಕೆ ಇರ್ತಾರೆ ಅಂತ ನಾವು",
+    "retainedText": "ಚಿಂತನೆಯನ್ನ ಮಾಡತ ಈ ದೀಪವನ್ನ ಏರಿಸಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 432,
+    "start": 702.31,
+    "end": 702.32,
+    "captionText": "ಚಿಂತನೆಯನ್ನ ಮಾಡತ ಈ ದೀಪವನ್ನ ಏರಿಸಬೇಕು",
+    "removedRollingPrefix": "ಚಿಂತನೆಯನ್ನ ಮಾಡತ ಈ ದೀಪವನ್ನ ಏರಿಸಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 433,
+    "start": 702.32,
+    "end": 705.75,
+    "captionText": "ಚಿಂತನೆಯನ್ನ ಮಾಡತ ಈ ದೀಪವನ್ನ ಏರಿಸಬೇಕು ಸೋ ಮೊದಲ ದಿನ ಪ್ರಥಮ ದಿನ ಬೆಳಿಗ್ಗೆ ಮಂಗಳ",
+    "removedRollingPrefix": "ಚಿಂತನೆಯನ್ನ ಮಾಡತ ಈ ದೀಪವನ್ನ ಏರಿಸಬೇಕು",
+    "retainedText": "ಸೋ ಮೊದಲ ದಿನ ಪ್ರಥಮ ದಿನ ಬೆಳಿಗ್ಗೆ ಮಂಗಳ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 434,
+    "start": 705.75,
+    "end": 705.76,
+    "captionText": "ಸೋ ಮೊದಲ ದಿನ ಪ್ರಥಮ ದಿನ ಬೆಳಿಗ್ಗೆ ಮಂಗಳ",
+    "removedRollingPrefix": "ಸೋ ಮೊದಲ ದಿನ ಪ್ರಥಮ ದಿನ ಬೆಳಿಗ್ಗೆ ಮಂಗಳ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 435,
+    "start": 705.76,
+    "end": 708.31,
+    "captionText": "ಸೋ ಮೊದಲ ದಿನ ಪ್ರಥಮ ದಿನ ಬೆಳಿಗ್ಗೆ ಮಂಗಳ ಸ್ನಾನ ಅಂದರೆ ಎಣ್ಣೆ ಶಾಸ್ತ್ರ ಮಾಡಿಕೊಂಡು",
+    "removedRollingPrefix": "ಸೋ ಮೊದಲ ದಿನ ಪ್ರಥಮ ದಿನ ಬೆಳಿಗ್ಗೆ ಮಂಗಳ",
+    "retainedText": "ಸ್ನಾನ ಅಂದರೆ ಎಣ್ಣೆ ಶಾಸ್ತ್ರ ಮಾಡಿಕೊಂಡು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 436,
+    "start": 708.31,
+    "end": 708.32,
+    "captionText": "ಸ್ನಾನ ಅಂದರೆ ಎಣ್ಣೆ ಶಾಸ್ತ್ರ ಮಾಡಿಕೊಂಡು",
+    "removedRollingPrefix": "ಸ್ನಾನ ಅಂದರೆ ಎಣ್ಣೆ ಶಾಸ್ತ್ರ ಮಾಡಿಕೊಂಡು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 437,
+    "start": 708.32,
+    "end": 712.389,
+    "captionText": "ಸ್ನಾನ ಅಂದರೆ ಎಣ್ಣೆ ಶಾಸ್ತ್ರ ಮಾಡಿಕೊಂಡು ಸ್ನಾನ ಸ್ನಾನವನ್ನ ಮಾಡಿ ಮಡಿಯಾಗಿ",
+    "removedRollingPrefix": "ಸ್ನಾನ ಅಂದರೆ ಎಣ್ಣೆ ಶಾಸ್ತ್ರ ಮಾಡಿಕೊಂಡು",
+    "retainedText": "ಸ್ನಾನ ಸ್ನಾನವನ್ನ ಮಾಡಿ ಮಡಿಯಾಗಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 438,
+    "start": 712.389,
+    "end": 712.399,
+    "captionText": "ಸ್ನಾನ ಸ್ನಾನವನ್ನ ಮಾಡಿ ಮಡಿಯಾಗಿ",
+    "removedRollingPrefix": "ಸ್ನಾನ ಸ್ನಾನವನ್ನ ಮಾಡಿ ಮಡಿಯಾಗಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 439,
+    "start": 712.399,
+    "end": 715.43,
+    "captionText": "ಸ್ನಾನ ಸ್ನಾನವನ್ನ ಮಾಡಿ ಮಡಿಯಾಗಿ ಗೋಪಿ ಚಂದನ ಧಾರಣೆ ಸಂಧ್ಯಾಬಂಧನೆಯನ್ನ ಮುಗಿಸಿ",
+    "removedRollingPrefix": "ಸ್ನಾನ ಸ್ನಾನವನ್ನ ಮಾಡಿ ಮಡಿಯಾಗಿ",
+    "retainedText": "ಗೋಪಿ ಚಂದನ ಧಾರಣೆ ಸಂಧ್ಯಾಬಂಧನೆಯನ್ನ ಮುಗಿಸಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 440,
+    "start": 715.43,
+    "end": 715.44,
+    "captionText": "ಗೋಪಿ ಚಂದನ ಧಾರಣೆ ಸಂಧ್ಯಾಬಂಧನೆಯನ್ನ ಮುಗಿಸಿ",
+    "removedRollingPrefix": "ಗೋಪಿ ಚಂದನ ಧಾರಣೆ ಸಂಧ್ಯಾಬಂಧನೆಯನ್ನ ಮುಗಿಸಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 441,
+    "start": 715.44,
+    "end": 717.67,
+    "captionText": "ಗೋಪಿ ಚಂದನ ಧಾರಣೆ ಸಂಧ್ಯಾಬಂಧನೆಯನ್ನ ಮುಗಿಸಿ ದೇವರ ಪೂಜೆ ಪೂರ್ಣ ಮುಗಿಸಿಬಿಡುದು ದೇವರ ಪೂಜೆ",
+    "removedRollingPrefix": "ಗೋಪಿ ಚಂದನ ಧಾರಣೆ ಸಂಧ್ಯಾಬಂಧನೆಯನ್ನ ಮುಗಿಸಿ",
+    "retainedText": "ದೇವರ ಪೂಜೆ ಪೂರ್ಣ ಮುಗಿಸಿಬಿಡುದು ದೇವರ ಪೂಜೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 442,
+    "start": 717.67,
+    "end": 717.68,
+    "captionText": "ದೇವರ ಪೂಜೆ ಪೂರ್ಣ ಮುಗಿಸಿಬಿಡುದು ದೇವರ ಪೂಜೆ",
+    "removedRollingPrefix": "ದೇವರ ಪೂಜೆ ಪೂರ್ಣ ಮುಗಿಸಿಬಿಡುದು ದೇವರ ಪೂಜೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 443,
+    "start": 717.68,
+    "end": 719.03,
+    "captionText": "ದೇವರ ಪೂಜೆ ಪೂರ್ಣ ಮುಗಿಸಿಬಿಡುದು ದೇವರ ಪೂಜೆ ವಿಡಿಯೋ ಇದೆ ಅದನ್ನ ನೋಡಿ ಪೂರ್ಣ",
+    "removedRollingPrefix": "ದೇವರ ಪೂಜೆ ಪೂರ್ಣ ಮುಗಿಸಿಬಿಡುದು ದೇವರ ಪೂಜೆ",
+    "retainedText": "ವಿಡಿಯೋ ಇದೆ ಅದನ್ನ ನೋಡಿ ಪೂರ್ಣ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 444,
+    "start": 719.03,
+    "end": 719.04,
+    "captionText": "ವಿಡಿಯೋ ಇದೆ ಅದನ್ನ ನೋಡಿ ಪೂರ್ಣ",
+    "removedRollingPrefix": "ವಿಡಿಯೋ ಇದೆ ಅದನ್ನ ನೋಡಿ ಪೂರ್ಣ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 445,
+    "start": 719.04,
+    "end": 721.35,
+    "captionText": "ವಿಡಿಯೋ ಇದೆ ಅದನ್ನ ನೋಡಿ ಪೂರ್ಣ ಸಂಕ್ಷಿಪ್ತವಾಗಿದೆ ಪೂರ್ಣ ದೇವರ ಪೂಜೆಯನ್ನು",
+    "removedRollingPrefix": "ವಿಡಿಯೋ ಇದೆ ಅದನ್ನ ನೋಡಿ ಪೂರ್ಣ",
+    "retainedText": "ಸಂಕ್ಷಿಪ್ತವಾಗಿದೆ ಪೂರ್ಣ ದೇವರ ಪೂಜೆಯನ್ನು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 446,
+    "start": 721.35,
+    "end": 721.36,
+    "captionText": "ಸಂಕ್ಷಿಪ್ತವಾಗಿದೆ ಪೂರ್ಣ ದೇವರ ಪೂಜೆಯನ್ನು",
+    "removedRollingPrefix": "ಸಂಕ್ಷಿಪ್ತವಾಗಿದೆ ಪೂರ್ಣ ದೇವರ ಪೂಜೆಯನ್ನು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 447,
+    "start": 721.36,
+    "end": 724.55,
+    "captionText": "ಸಂಕ್ಷಿಪ್ತವಾಗಿದೆ ಪೂರ್ಣ ದೇವರ ಪೂಜೆಯನ್ನು ಮುಗಿಸಿ ದೇವರ ಪಟ್ಟಿಗೆಯನ್ನ ಕಟ್ಟಿಟ್ಟು ಆಮೇಲೆ",
+    "removedRollingPrefix": "ಸಂಕ್ಷಿಪ್ತವಾಗಿದೆ ಪೂರ್ಣ ದೇವರ ಪೂಜೆಯನ್ನು",
+    "retainedText": "ಮುಗಿಸಿ ದೇವರ ಪಟ್ಟಿಗೆಯನ್ನ ಕಟ್ಟಿಟ್ಟು ಆಮೇಲೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 448,
+    "start": 724.55,
+    "end": 724.56,
+    "captionText": "ಮುಗಿಸಿ ದೇವರ ಪಟ್ಟಿಗೆಯನ್ನ ಕಟ್ಟಿಟ್ಟು ಆಮೇಲೆ",
+    "removedRollingPrefix": "ಮುಗಿಸಿ ದೇವರ ಪಟ್ಟಿಗೆಯನ್ನ ಕಟ್ಟಿಟ್ಟು ಆಮೇಲೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 449,
+    "start": 724.56,
+    "end": 727.19,
+    "captionText": "ಮುಗಿಸಿ ದೇವರ ಪಟ್ಟಿಗೆಯನ್ನ ಕಟ್ಟಿಟ್ಟು ಆಮೇಲೆ ಇದನ್ನೆಲ್ಲ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಹಣ್ಣು ವಿಳದಲೆ",
+    "removedRollingPrefix": "ಮುಗಿಸಿ ದೇವರ ಪಟ್ಟಿಗೆಯನ್ನ ಕಟ್ಟಿಟ್ಟು ಆಮೇಲೆ",
+    "retainedText": "ಇದನ್ನೆಲ್ಲ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಹಣ್ಣು ವಿಳದಲೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 450,
+    "start": 727.19,
+    "end": 727.2,
+    "captionText": "ಇದನ್ನೆಲ್ಲ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಹಣ್ಣು ವಿಳದಲೆ",
+    "removedRollingPrefix": "ಇದನ್ನೆಲ್ಲ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಹಣ್ಣು ವಿಳದಲೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 451,
+    "start": 727.2,
+    "end": 730.069,
+    "captionText": "ಇದನ್ನೆಲ್ಲ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಹಣ್ಣು ವಿಳದಲೆ ಅಡಿಕೆ ಈಗೇನು ವ್ರತ ಅಂದ್ರೆ ಹಾಲು ಮಾತ್ರ ವರತಕ",
+    "removedRollingPrefix": "ಇದನ್ನೆಲ್ಲ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಹಣ್ಣು ವಿಳದಲೆ",
+    "retainedText": "ಅಡಿಕೆ ಈಗೇನು ವ್ರತ ಅಂದ್ರೆ ಹಾಲು ಮಾತ್ರ ವರತಕ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 452,
+    "start": 730.069,
+    "end": 730.079,
+    "captionText": "ಅಡಿಕೆ ಈಗೇನು ವ್ರತ ಅಂದ್ರೆ ಹಾಲು ಮಾತ್ರ ವರತಕ",
+    "removedRollingPrefix": "ಅಡಿಕೆ ಈಗೇನು ವ್ರತ ಅಂದ್ರೆ ಹಾಲು ಮಾತ್ರ ವರತಕ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 453,
+    "start": 730.079,
+    "end": 732.79,
+    "captionText": "ಅಡಿಕೆ ಈಗೇನು ವ್ರತ ಅಂದ್ರೆ ಹಾಲು ಮಾತ್ರ ವರತಕ ಇದೆಲ್ಲವೂ ಕೂಡ ಬರುತ್ತೆ ಅದರಿಂದ ಹಣ್ಣು ಬೆಳದಲೆ",
+    "removedRollingPrefix": "ಅಡಿಕೆ ಈಗೇನು ವ್ರತ ಅಂದ್ರೆ ಹಾಲು ಮಾತ್ರ ವರತಕ",
+    "retainedText": "ಇದೆಲ್ಲವೂ ಕೂಡ ಬರುತ್ತೆ ಅದರಿಂದ ಹಣ್ಣು ಬೆಳದಲೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 454,
+    "start": 732.79,
+    "end": 732.8,
+    "captionText": "ಇದೆಲ್ಲವೂ ಕೂಡ ಬರುತ್ತೆ ಅದರಿಂದ ಹಣ್ಣು ಬೆಳದಲೆ",
+    "removedRollingPrefix": "ಇದೆಲ್ಲವೂ ಕೂಡ ಬರುತ್ತೆ ಅದರಿಂದ ಹಣ್ಣು ಬೆಳದಲೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 455,
+    "start": 732.8,
+    "end": 735.67,
+    "captionText": "ಇದೆಲ್ಲವೂ ಕೂಡ ಬರುತ್ತೆ ಅದರಿಂದ ಹಣ್ಣು ಬೆಳದಲೆ ಅಡಿಕೆ ಹೂವು ಗಜವಸ್ತ್ರ",
+    "removedRollingPrefix": "ಇದೆಲ್ಲವೂ ಕೂಡ ಬರುತ್ತೆ ಅದರಿಂದ ಹಣ್ಣು ಬೆಳದಲೆ",
+    "retainedText": "ಅಡಿಕೆ ಹೂವು ಗಜವಸ್ತ್ರ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 456,
+    "start": 735.67,
+    "end": 735.68,
+    "captionText": "ಅಡಿಕೆ ಹೂವು ಗಜವಸ್ತ್ರ",
+    "removedRollingPrefix": "ಅಡಿಕೆ ಹೂವು ಗಜವಸ್ತ್ರ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 457,
+    "start": 735.68,
+    "end": 740.069,
+    "captionText": "ಅಡಿಕೆ ಹೂವು ಗಜವಸ್ತ್ರ ತುಪ್ಪ ಅಥವಾ ಎಳ್ಳಣ್ಣೆ ಅರಿಶಿಣ ಕುಂಕುಮ ಗಂಧ",
+    "removedRollingPrefix": "ಅಡಿಕೆ ಹೂವು ಗಜವಸ್ತ್ರ",
+    "retainedText": "ತುಪ್ಪ ಅಥವಾ ಎಳ್ಳಣ್ಣೆ ಅರಿಶಿಣ ಕುಂಕುಮ ಗಂಧ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 458,
+    "start": 740.069,
+    "end": 740.079,
+    "captionText": "ತುಪ್ಪ ಅಥವಾ ಎಳ್ಳಣ್ಣೆ ಅರಿಶಿಣ ಕುಂಕುಮ ಗಂಧ",
+    "removedRollingPrefix": "ತುಪ್ಪ ಅಥವಾ ಎಳ್ಳಣ್ಣೆ ಅರಿಶಿಣ ಕುಂಕುಮ ಗಂಧ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 459,
+    "start": 740.079,
+    "end": 744.069,
+    "captionText": "ತುಪ್ಪ ಅಥವಾ ಎಳ್ಳಣ್ಣೆ ಅರಿಶಿಣ ಕುಂಕುಮ ಗಂಧ ಊದುಗಡ್ಡಿ ಕರ್ಪೂರ ಬಿಳದಲೆ ಅಡಿಕೆ ಇದನ್ನೆಲ್ಲ",
+    "removedRollingPrefix": "ತುಪ್ಪ ಅಥವಾ ಎಳ್ಳಣ್ಣೆ ಅರಿಶಿಣ ಕುಂಕುಮ ಗಂಧ",
+    "retainedText": "ಊದುಗಡ್ಡಿ ಕರ್ಪೂರ ಬಿಳದಲೆ ಅಡಿಕೆ ಇದನ್ನೆಲ್ಲ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 460,
+    "start": 744.069,
+    "end": 744.079,
+    "captionText": "ಊದುಗಡ್ಡಿ ಕರ್ಪೂರ ಬಿಳದಲೆ ಅಡಿಕೆ ಇದನ್ನೆಲ್ಲ",
+    "removedRollingPrefix": "ಊದುಗಡ್ಡಿ ಕರ್ಪೂರ ಬಿಳದಲೆ ಅಡಿಕೆ ಇದನ್ನೆಲ್ಲ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 461,
+    "start": 744.079,
+    "end": 746.47,
+    "captionText": "ಊದುಗಡ್ಡಿ ಕರ್ಪೂರ ಬಿಳದಲೆ ಅಡಿಕೆ ಇದನ್ನೆಲ್ಲ ಸಿದ್ಧಪಡಿಸಿ ಇಟ್ಟುಕೊಂಡು ದೀಪವನ್ನ ಚೆನ್ನಾಗಿ",
+    "removedRollingPrefix": "ಊದುಗಡ್ಡಿ ಕರ್ಪೂರ ಬಿಳದಲೆ ಅಡಿಕೆ ಇದನ್ನೆಲ್ಲ",
+    "retainedText": "ಸಿದ್ಧಪಡಿಸಿ ಇಟ್ಟುಕೊಂಡು ದೀಪವನ್ನ ಚೆನ್ನಾಗಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 462,
+    "start": 746.47,
+    "end": 746.48,
+    "captionText": "ಸಿದ್ಧಪಡಿಸಿ ಇಟ್ಟುಕೊಂಡು ದೀಪವನ್ನ ಚೆನ್ನಾಗಿ",
+    "removedRollingPrefix": "ಸಿದ್ಧಪಡಿಸಿ ಇಟ್ಟುಕೊಂಡು ದೀಪವನ್ನ ಚೆನ್ನಾಗಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 463,
+    "start": 746.48,
+    "end": 748.069,
+    "captionText": "ಸಿದ್ಧಪಡಿಸಿ ಇಟ್ಟುಕೊಂಡು ದೀಪವನ್ನ ಚೆನ್ನಾಗಿ ತಯಾರು ಮಾಡಿಇಟ್ಟುಕೊಂಡು ಅದಕ್ಕೆ ಅರಿಶಿಣ",
+    "removedRollingPrefix": "ಸಿದ್ಧಪಡಿಸಿ ಇಟ್ಟುಕೊಂಡು ದೀಪವನ್ನ ಚೆನ್ನಾಗಿ",
+    "retainedText": "ತಯಾರು ಮಾಡಿಇಟ್ಟುಕೊಂಡು ಅದಕ್ಕೆ ಅರಿಶಿಣ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 464,
+    "start": 748.069,
+    "end": 748.079,
+    "captionText": "ತಯಾರು ಮಾಡಿಇಟ್ಟುಕೊಂಡು ಅದಕ್ಕೆ ಅರಿಶಿಣ",
+    "removedRollingPrefix": "ತಯಾರು ಮಾಡಿಇಟ್ಟುಕೊಂಡು ಅದಕ್ಕೆ ಅರಿಶಿಣ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 465,
+    "start": 748.079,
+    "end": 750.15,
+    "captionText": "ತಯಾರು ಮಾಡಿಇಟ್ಟುಕೊಂಡು ಅದಕ್ಕೆ ಅರಿಶಿಣ ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಅದರಲ್ಲಿ ಬತ್ತಿ ಹಾಕಿ",
+    "removedRollingPrefix": "ತಯಾರು ಮಾಡಿಇಟ್ಟುಕೊಂಡು ಅದಕ್ಕೆ ಅರಿಶಿಣ",
+    "retainedText": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಅದರಲ್ಲಿ ಬತ್ತಿ ಹಾಕಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 466,
+    "start": 750.15,
+    "end": 750.16,
+    "captionText": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಅದರಲ್ಲಿ ಬತ್ತಿ ಹಾಕಿ",
+    "removedRollingPrefix": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಅದರಲ್ಲಿ ಬತ್ತಿ ಹಾಕಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 467,
+    "start": 750.16,
+    "end": 753.19,
+    "captionText": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಅದರಲ್ಲಿ ಬತ್ತಿ ಹಾಕಿ ಎಣ್ಣೆ ಹಾಕಿ ಅಥವಾ ತುಪ್ಪವನ್ನ ಹಾಕಿ ತಯಾರು",
+    "removedRollingPrefix": "ಕುಂಕುಮಗಳೆಲ್ಲ ಹಚ್ಚಿ ಅದರಲ್ಲಿ ಬತ್ತಿ ಹಾಕಿ",
+    "retainedText": "ಎಣ್ಣೆ ಹಾಕಿ ಅಥವಾ ತುಪ್ಪವನ್ನ ಹಾಕಿ ತಯಾರು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 468,
+    "start": 753.19,
+    "end": 753.2,
+    "captionText": "ಎಣ್ಣೆ ಹಾಕಿ ಅಥವಾ ತುಪ್ಪವನ್ನ ಹಾಕಿ ತಯಾರು",
+    "removedRollingPrefix": "ಎಣ್ಣೆ ಹಾಕಿ ಅಥವಾ ತುಪ್ಪವನ್ನ ಹಾಕಿ ತಯಾರು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 469,
+    "start": 753.2,
+    "end": 756.79,
+    "captionText": "ಎಣ್ಣೆ ಹಾಕಿ ಅಥವಾ ತುಪ್ಪವನ್ನ ಹಾಕಿ ತಯಾರು ಮಾಡಿ ಇಟ್ಟುಕೊಂಡು ನಾವು ಸಂಕಲ್ಪಗಳನ್ನ",
+    "removedRollingPrefix": "ಎಣ್ಣೆ ಹಾಕಿ ಅಥವಾ ತುಪ್ಪವನ್ನ ಹಾಕಿ ತಯಾರು",
+    "retainedText": "ಮಾಡಿ ಇಟ್ಟುಕೊಂಡು ನಾವು ಸಂಕಲ್ಪಗಳನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 470,
+    "start": 756.79,
+    "end": 756.8,
+    "captionText": "ಮಾಡಿ ಇಟ್ಟುಕೊಂಡು ನಾವು ಸಂಕಲ್ಪಗಳನ್ನ",
+    "removedRollingPrefix": "ಮಾಡಿ ಇಟ್ಟುಕೊಂಡು ನಾವು ಸಂಕಲ್ಪಗಳನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 471,
+    "start": 756.8,
+    "end": 759.19,
+    "captionText": "ಮಾಡಿ ಇಟ್ಟುಕೊಂಡು ನಾವು ಸಂಕಲ್ಪಗಳನ್ನ ಮಾಡಿಕೊಳ್ಳಬೇಕು",
+    "removedRollingPrefix": "ಮಾಡಿ ಇಟ್ಟುಕೊಂಡು ನಾವು ಸಂಕಲ್ಪಗಳನ್ನ",
+    "retainedText": "ಮಾಡಿಕೊಳ್ಳಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 472,
+    "start": 759.19,
+    "end": 759.2,
+    "captionText": "ಮಾಡಿಕೊಳ್ಳಬೇಕು",
+    "removedRollingPrefix": "ಮಾಡಿಕೊಳ್ಳಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 473,
+    "start": 759.2,
+    "end": 763.19,
+    "captionText": "ಮಾಡಿಕೊಳ್ಳಬೇಕು ಈ ದೀಪ ಬೆಳಗುವ ಟೈಮು ಮತ್ತು ಕೆಲಸ ಸ್ಥಾಪನಕ್ಕೆ",
+    "removedRollingPrefix": "ಮಾಡಿಕೊಳ್ಳಬೇಕು",
+    "retainedText": "ಈ ದೀಪ ಬೆಳಗುವ ಟೈಮು ಮತ್ತು ಕೆಲಸ ಸ್ಥಾಪನಕ್ಕೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 474,
+    "start": 763.19,
+    "end": 763.2,
+    "captionText": "ಈ ದೀಪ ಬೆಳಗುವ ಟೈಮು ಮತ್ತು ಕೆಲಸ ಸ್ಥಾಪನಕ್ಕೆ",
+    "removedRollingPrefix": "ಈ ದೀಪ ಬೆಳಗುವ ಟೈಮು ಮತ್ತು ಕೆಲಸ ಸ್ಥಾಪನಕ್ಕೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 475,
+    "start": 763.2,
+    "end": 766.23,
+    "captionText": "ಈ ದೀಪ ಬೆಳಗುವ ಟೈಮು ಮತ್ತು ಕೆಲಸ ಸ್ಥಾಪನಕ್ಕೆ ಉಂಟಾದ ಟೈಮಿಂಗ್ ಅಂತ ಎಲ್ಲ ಕೇಳಿದ್ರಿ ನಾಳೆ",
+    "removedRollingPrefix": "ಈ ದೀಪ ಬೆಳಗುವ ಟೈಮು ಮತ್ತು ಕೆಲಸ ಸ್ಥಾಪನಕ್ಕೆ",
+    "retainedText": "ಉಂಟಾದ ಟೈಮಿಂಗ್ ಅಂತ ಎಲ್ಲ ಕೇಳಿದ್ರಿ ನಾಳೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 476,
+    "start": 766.23,
+    "end": 766.24,
+    "captionText": "ಉಂಟಾದ ಟೈಮಿಂಗ್ ಅಂತ ಎಲ್ಲ ಕೇಳಿದ್ರಿ ನಾಳೆ",
+    "removedRollingPrefix": "ಉಂಟಾದ ಟೈಮಿಂಗ್ ಅಂತ ಎಲ್ಲ ಕೇಳಿದ್ರಿ ನಾಳೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 477,
+    "start": 766.24,
+    "end": 770.55,
+    "captionText": "ಉಂಟಾದ ಟೈಮಿಂಗ್ ಅಂತ ಎಲ್ಲ ಕೇಳಿದ್ರಿ ನಾಳೆ ಭಾನುವಾರ 12 ಗಂಟೆವರೆಗೂ ಏನು ದೊಡ್ಡ ಅಡ್ಡಿ",
+    "removedRollingPrefix": "ಉಂಟಾದ ಟೈಮಿಂಗ್ ಅಂತ ಎಲ್ಲ ಕೇಳಿದ್ರಿ ನಾಳೆ",
+    "retainedText": "ಭಾನುವಾರ 12 ಗಂಟೆವರೆಗೂ ಏನು ದೊಡ್ಡ ಅಡ್ಡಿ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 478,
+    "start": 770.55,
+    "end": 770.56,
+    "captionText": "ಭಾನುವಾರ 12 ಗಂಟೆವರೆಗೂ ಏನು ದೊಡ್ಡ ಅಡ್ಡಿ",
+    "removedRollingPrefix": "ಭಾನುವಾರ 12 ಗಂಟೆವರೆಗೂ ಏನು ದೊಡ್ಡ ಅಡ್ಡಿ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 479,
+    "start": 770.56,
+    "end": 773.59,
+    "captionText": "ಭಾನುವಾರ 12 ಗಂಟೆವರೆಗೂ ಏನು ದೊಡ್ಡ ಅಡ್ಡಿ ಇಲ್ಲ ಅಂತ ಹೇಳಬಹುದು ಆದರೆ ನಾವು ಸ್ವಲ್ಪ",
+    "removedRollingPrefix": "ಭಾನುವಾರ 12 ಗಂಟೆವರೆಗೂ ಏನು ದೊಡ್ಡ ಅಡ್ಡಿ",
+    "retainedText": "ಇಲ್ಲ ಅಂತ ಹೇಳಬಹುದು ಆದರೆ ನಾವು ಸ್ವಲ್ಪ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 480,
+    "start": 773.59,
+    "end": 773.6,
+    "captionText": "ಇಲ್ಲ ಅಂತ ಹೇಳಬಹುದು ಆದರೆ ನಾವು ಸ್ವಲ್ಪ",
+    "removedRollingPrefix": "ಇಲ್ಲ ಅಂತ ಹೇಳಬಹುದು ಆದರೆ ನಾವು ಸ್ವಲ್ಪ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 481,
+    "start": 773.6,
+    "end": 776.949,
+    "captionText": "ಇಲ್ಲ ಅಂತ ಹೇಳಬಹುದು ಆದರೆ ನಾವು ಸ್ವಲ್ಪ ನೋಡಬೇಕಲ್ವಾ ನಮಗೆ ಅದರಿಂದ ಸ್ವಲ್ಪ ನೋಡಬೇಕು",
+    "removedRollingPrefix": "ಇಲ್ಲ ಅಂತ ಹೇಳಬಹುದು ಆದರೆ ನಾವು ಸ್ವಲ್ಪ",
+    "retainedText": "ನೋಡಬೇಕಲ್ವಾ ನಮಗೆ ಅದರಿಂದ ಸ್ವಲ್ಪ ನೋಡಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 482,
+    "start": 776.949,
+    "end": 776.9590000000001,
+    "captionText": "ನೋಡಬೇಕಲ್ವಾ ನಮಗೆ ಅದರಿಂದ ಸ್ವಲ್ಪ ನೋಡಬೇಕು",
+    "removedRollingPrefix": "ನೋಡಬೇಕಲ್ವಾ ನಮಗೆ ಅದರಿಂದ ಸ್ವಲ್ಪ ನೋಡಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 483,
+    "start": 776.9590000000001,
+    "end": 778.79,
+    "captionText": "ನೋಡಬೇಕಲ್ವಾ ನಮಗೆ ಅದರಿಂದ ಸ್ವಲ್ಪ ನೋಡಬೇಕು ಅಂದ್ರೆ",
+    "removedRollingPrefix": "ನೋಡಬೇಕಲ್ವಾ ನಮಗೆ ಅದರಿಂದ ಸ್ವಲ್ಪ ನೋಡಬೇಕು",
+    "retainedText": "ಅಂದ್ರೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 484,
+    "start": 778.79,
+    "end": 778.8,
+    "captionText": "ಅಂದ್ರೆ",
+    "removedRollingPrefix": "ಅಂದ್ರೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 485,
+    "start": 778.8,
+    "end": 780.389,
+    "captionText": "ಅಂದ್ರೆ ನಾವು",
+    "removedRollingPrefix": "ಅಂದ್ರೆ",
+    "retainedText": "ನಾವು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 486,
+    "start": 780.389,
+    "end": 780.399,
+    "captionText": "ನಾವು",
+    "removedRollingPrefix": "ನಾವು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 487,
+    "start": 780.399,
+    "end": 783.19,
+    "captionText": "ನಾವು ಇದನ್ನ ನೋಡಿ ಇಟ್ಕೋಬಹುದು ಇದನ್ನ ಹೇಗೆ ಅಂದ್ರೆ",
+    "removedRollingPrefix": "ನಾವು",
+    "retainedText": "ಇದನ್ನ ನೋಡಿ ಇಟ್ಕೋಬಹುದು ಇದನ್ನ ಹೇಗೆ ಅಂದ್ರೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 488,
+    "start": 783.19,
+    "end": 783.2,
+    "captionText": "ಇದನ್ನ ನೋಡಿ ಇಟ್ಕೋಬಹುದು ಇದನ್ನ ಹೇಗೆ ಅಂದ್ರೆ",
+    "removedRollingPrefix": "ಇದನ್ನ ನೋಡಿ ಇಟ್ಕೋಬಹುದು ಇದನ್ನ ಹೇಗೆ ಅಂದ್ರೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 489,
+    "start": 783.2,
+    "end": 787.03,
+    "captionText": "ಇದನ್ನ ನೋಡಿ ಇಟ್ಕೋಬಹುದು ಇದನ್ನ ಹೇಗೆ ಅಂದ್ರೆ ಹೋರೆಗಳು ಅಂತ ಹೇಳ್ತಾರೆ ಆ ಹೋರೆಗಳನ್ನ ನೋಡಿದಾಗ",
+    "removedRollingPrefix": "ಇದನ್ನ ನೋಡಿ ಇಟ್ಕೋಬಹುದು ಇದನ್ನ ಹೇಗೆ ಅಂದ್ರೆ",
+    "retainedText": "ಹೋರೆಗಳು ಅಂತ ಹೇಳ್ತಾರೆ ಆ ಹೋರೆಗಳನ್ನ ನೋಡಿದಾಗ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 490,
+    "start": 787.03,
+    "end": 787.04,
+    "captionText": "ಹೋರೆಗಳು ಅಂತ ಹೇಳ್ತಾರೆ ಆ ಹೋರೆಗಳನ್ನ ನೋಡಿದಾಗ",
+    "removedRollingPrefix": "ಹೋರೆಗಳು ಅಂತ ಹೇಳ್ತಾರೆ ಆ ಹೋರೆಗಳನ್ನ ನೋಡಿದಾಗ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 491,
+    "start": 787.04,
+    "end": 790.87,
+    "captionText": "ಹೋರೆಗಳು ಅಂತ ಹೇಳ್ತಾರೆ ಆ ಹೋರೆಗಳನ್ನ ನೋಡಿದಾಗ ಆ ಟೈಮ್ಗಳು ಚೆನ್ನಾಗಿರುತ್ತವೆ ಅಂತ ಹೇಳಬೇಕು",
+    "removedRollingPrefix": "ಹೋರೆಗಳು ಅಂತ ಹೇಳ್ತಾರೆ ಆ ಹೋರೆಗಳನ್ನ ನೋಡಿದಾಗ",
+    "retainedText": "ಆ ಟೈಮ್ಗಳು ಚೆನ್ನಾಗಿರುತ್ತವೆ ಅಂತ ಹೇಳಬೇಕು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 492,
+    "start": 790.87,
+    "end": 790.88,
+    "captionText": "ಆ ಟೈಮ್ಗಳು ಚೆನ್ನಾಗಿರುತ್ತವೆ ಅಂತ ಹೇಳಬೇಕು",
+    "removedRollingPrefix": "ಆ ಟೈಮ್ಗಳು ಚೆನ್ನಾಗಿರುತ್ತವೆ ಅಂತ ಹೇಳಬೇಕು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 493,
+    "start": 790.88,
+    "end": 794.55,
+    "captionText": "ಆ ಟೈಮ್ಗಳು ಚೆನ್ನಾಗಿರುತ್ತವೆ ಅಂತ ಹೇಳಬೇಕು ಅಭಿಜಿತ್ ಮುಗುರ್ತ ಅಂಬುದು 11:45 ರಿಂದ 12",
+    "removedRollingPrefix": "ಆ ಟೈಮ್ಗಳು ಚೆನ್ನಾಗಿರುತ್ತವೆ ಅಂತ ಹೇಳಬೇಕು",
+    "retainedText": "ಅಭಿಜಿತ್ ಮುಗುರ್ತ ಅಂಬುದು 11:45 ರಿಂದ 12",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 494,
+    "start": 794.55,
+    "end": 794.56,
+    "captionText": "ಅಭಿಜಿತ್ ಮುಗುರ್ತ ಅಂಬುದು 11:45 ರಿಂದ 12",
+    "removedRollingPrefix": "ಅಭಿಜಿತ್ ಮುಗುರ್ತ ಅಂಬುದು 11:45 ರಿಂದ 12",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 495,
+    "start": 794.56,
+    "end": 797.03,
+    "captionText": "ಅಭಿಜಿತ್ ಮುಗುರ್ತ ಅಂಬುದು 11:45 ರಿಂದ 12 ಒಳಗೆ ಯಾಕಂದ್ರೆ 12 ರಿಂದ ಒಂದುವರೆ ಯಮಗಂಡ",
+    "removedRollingPrefix": "ಅಭಿಜಿತ್ ಮುಗುರ್ತ ಅಂಬುದು 11:45 ರಿಂದ 12",
+    "retainedText": "ಒಳಗೆ ಯಾಕಂದ್ರೆ 12 ರಿಂದ ಒಂದುವರೆ ಯಮಗಂಡ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 496,
+    "start": 797.03,
+    "end": 797.04,
+    "captionText": "ಒಳಗೆ ಯಾಕಂದ್ರೆ 12 ರಿಂದ ಒಂದುವರೆ ಯಮಗಂಡ",
+    "removedRollingPrefix": "ಒಳಗೆ ಯಾಕಂದ್ರೆ 12 ರಿಂದ ಒಂದುವರೆ ಯಮಗಂಡ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 497,
+    "start": 797.04,
+    "end": 798.47,
+    "captionText": "ಒಳಗೆ ಯಾಕಂದ್ರೆ 12 ರಿಂದ ಒಂದುವರೆ ಯಮಗಂಡ ಬರುತ್ತೆ",
+    "removedRollingPrefix": "ಒಳಗೆ ಯಾಕಂದ್ರೆ 12 ರಿಂದ ಒಂದುವರೆ ಯಮಗಂಡ",
+    "retainedText": "ಬರುತ್ತೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 498,
+    "start": 798.47,
+    "end": 798.48,
+    "captionText": "ಬರುತ್ತೆ",
+    "removedRollingPrefix": "ಬರುತ್ತೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 499,
+    "start": 798.48,
+    "end": 802.47,
+    "captionText": "ಬರುತ್ತೆ 11 45 ರಿಂದ 12ರಒಳಗೆ ಕೆಲಸ ಸ್ಥಾಪನವನ್ನ",
+    "removedRollingPrefix": "ಬರುತ್ತೆ",
+    "retainedText": "11 45 ರಿಂದ 12ರಒಳಗೆ ಕೆಲಸ ಸ್ಥಾಪನವನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 500,
+    "start": 802.47,
+    "end": 802.48,
+    "captionText": "11 45 ರಿಂದ 12ರಒಳಗೆ ಕೆಲಸ ಸ್ಥಾಪನವನ್ನ",
+    "removedRollingPrefix": "11 45 ರಿಂದ 12ರಒಳಗೆ ಕೆಲಸ ಸ್ಥಾಪನವನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 501,
+    "start": 802.48,
+    "end": 805.19,
+    "captionText": "11 45 ರಿಂದ 12ರಒಳಗೆ ಕೆಲಸ ಸ್ಥಾಪನವನ್ನ ಮಾಡಲಿಕ್ಕೆ ಸಾಧ್ಯತೆ ಇರುವವರು ಮಾಡಬಹುದು",
+    "removedRollingPrefix": "11 45 ರಿಂದ 12ರಒಳಗೆ ಕೆಲಸ ಸ್ಥಾಪನವನ್ನ",
+    "retainedText": "ಮಾಡಲಿಕ್ಕೆ ಸಾಧ್ಯತೆ ಇರುವವರು ಮಾಡಬಹುದು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 502,
+    "start": 805.19,
+    "end": 805.2,
+    "captionText": "ಮಾಡಲಿಕ್ಕೆ ಸಾಧ್ಯತೆ ಇರುವವರು ಮಾಡಬಹುದು",
+    "removedRollingPrefix": "ಮಾಡಲಿಕ್ಕೆ ಸಾಧ್ಯತೆ ಇರುವವರು ಮಾಡಬಹುದು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 503,
+    "start": 805.2,
+    "end": 807.99,
+    "captionText": "ಮಾಡಲಿಕ್ಕೆ ಸಾಧ್ಯತೆ ಇರುವವರು ಮಾಡಬಹುದು ಇಲ್ಲದಿದ್ದರೆ ಬೆಳಿಗ್ಗೆ ನೋಡಿದೆ ಅಂದ್ರೆ",
+    "removedRollingPrefix": "ಮಾಡಲಿಕ್ಕೆ ಸಾಧ್ಯತೆ ಇರುವವರು ಮಾಡಬಹುದು",
+    "retainedText": "ಇಲ್ಲದಿದ್ದರೆ ಬೆಳಿಗ್ಗೆ ನೋಡಿದೆ ಅಂದ್ರೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 504,
+    "start": 807.99,
+    "end": 808.0,
+    "captionText": "ಇಲ್ಲದಿದ್ದರೆ ಬೆಳಿಗ್ಗೆ ನೋಡಿದೆ ಅಂದ್ರೆ",
+    "removedRollingPrefix": "ಇಲ್ಲದಿದ್ದರೆ ಬೆಳಿಗ್ಗೆ ನೋಡಿದೆ ಅಂದ್ರೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 505,
+    "start": 808.0,
+    "end": 810.23,
+    "captionText": "ಇಲ್ಲದಿದ್ದರೆ ಬೆಳಿಗ್ಗೆ ನೋಡಿದೆ ಅಂದ್ರೆ ಬೆಳಿಗ್ಗೆ ಚೆನ್ನಾಗಿ ಇದೆ ಶುಕ್ರ ಹೋರೆ ಮತ್ತು",
+    "removedRollingPrefix": "ಇಲ್ಲದಿದ್ದರೆ ಬೆಳಿಗ್ಗೆ ನೋಡಿದೆ ಅಂದ್ರೆ",
+    "retainedText": "ಬೆಳಿಗ್ಗೆ ಚೆನ್ನಾಗಿ ಇದೆ ಶುಕ್ರ ಹೋರೆ ಮತ್ತು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 506,
+    "start": 810.23,
+    "end": 810.24,
+    "captionText": "ಬೆಳಿಗ್ಗೆ ಚೆನ್ನಾಗಿ ಇದೆ ಶುಕ್ರ ಹೋರೆ ಮತ್ತು",
+    "removedRollingPrefix": "ಬೆಳಿಗ್ಗೆ ಚೆನ್ನಾಗಿ ಇದೆ ಶುಕ್ರ ಹೋರೆ ಮತ್ತು",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 507,
+    "start": 810.24,
+    "end": 815.91,
+    "captionText": "ಬೆಳಿಗ್ಗೆ ಚೆನ್ನಾಗಿ ಇದೆ ಶುಕ್ರ ಹೋರೆ ಮತ್ತು ಬುಧ ಚಂದ್ರ ಹೋರೆಗಳು ಅಂತಏಳು ಕಾಲಿಂದಹವರೆಗೂ",
+    "removedRollingPrefix": "ಬೆಳಿಗ್ಗೆ ಚೆನ್ನಾಗಿ ಇದೆ ಶುಕ್ರ ಹೋರೆ ಮತ್ತು",
+    "retainedText": "ಬುಧ ಚಂದ್ರ ಹೋರೆಗಳು ಅಂತಏಳು ಕಾಲಿಂದಹವರೆಗೂ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 508,
+    "start": 815.91,
+    "end": 815.92,
+    "captionText": "ಬುಧ ಚಂದ್ರ ಹೋರೆಗಳು ಅಂತಏಳು ಕಾಲಿಂದಹವರೆಗೂ",
+    "removedRollingPrefix": "ಬುಧ ಚಂದ್ರ ಹೋರೆಗಳು ಅಂತಏಳು ಕಾಲಿಂದಹವರೆಗೂ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 509,
+    "start": 815.92,
+    "end": 818.31,
+    "captionText": "ಬುಧ ಚಂದ್ರ ಹೋರೆಗಳು ಅಂತಏಳು ಕಾಲಿಂದಹವರೆಗೂ ನೀವು ಕಲಸ ಸ್ಥಾಪನೆ",
+    "removedRollingPrefix": "ಬುಧ ಚಂದ್ರ ಹೋರೆಗಳು ಅಂತಏಳು ಕಾಲಿಂದಹವರೆಗೂ",
+    "retainedText": "ನೀವು ಕಲಸ ಸ್ಥಾಪನೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 510,
+    "start": 818.31,
+    "end": 818.32,
+    "captionText": "ನೀವು ಕಲಸ ಸ್ಥಾಪನೆ",
+    "removedRollingPrefix": "ನೀವು ಕಲಸ ಸ್ಥಾಪನೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 511,
+    "start": 818.32,
+    "end": 822.47,
+    "captionText": "ನೀವು ಕಲಸ ಸ್ಥಾಪನೆ ದೀಪ ಸಂಯೋಜನೆ ಇದನ್ನ ನವರಾತ್ರಿ ಕಲಸ ಸ್ಥಾಪನೆ",
+    "removedRollingPrefix": "ನೀವು ಕಲಸ ಸ್ಥಾಪನೆ",
+    "retainedText": "ದೀಪ ಸಂಯೋಜನೆ ಇದನ್ನ ನವರಾತ್ರಿ ಕಲಸ ಸ್ಥಾಪನೆ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 512,
+    "start": 822.47,
+    "end": 822.48,
+    "captionText": "ದೀಪ ಸಂಯೋಜನೆ ಇದನ್ನ ನವರಾತ್ರಿ ಕಲಸ ಸ್ಥಾಪನೆ",
+    "removedRollingPrefix": "ದೀಪ ಸಂಯೋಜನೆ ಇದನ್ನ ನವರಾತ್ರಿ ಕಲಸ ಸ್ಥಾಪನೆ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 513,
+    "start": 822.48,
+    "end": 824.71,
+    "captionText": "ದೀಪ ಸಂಯೋಜನೆ ಇದನ್ನ ನವರಾತ್ರಿ ಕಲಸ ಸ್ಥಾಪನೆ ಮಾಡೋದು ಮತ್ತು ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ",
+    "removedRollingPrefix": "ದೀಪ ಸಂಯೋಜನೆ ಇದನ್ನ ನವರಾತ್ರಿ ಕಲಸ ಸ್ಥಾಪನೆ",
+    "retainedText": "ಮಾಡೋದು ಮತ್ತು ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 514,
+    "start": 824.71,
+    "end": 824.72,
+    "captionText": "ಮಾಡೋದು ಮತ್ತು ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ",
+    "removedRollingPrefix": "ಮಾಡೋದು ಮತ್ತು ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 515,
+    "start": 824.72,
+    "end": 829.03,
+    "captionText": "ಮಾಡೋದು ಮತ್ತು ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ ಮಾಡುವರು ಬೆಳಿಗ್ಗೆಏಳು 15 ರಿಂದ 10ಕಾ ವರೆಗೂ",
+    "removedRollingPrefix": "ಮಾಡೋದು ಮತ್ತು ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನೆಯನ್ನ",
+    "retainedText": "ಮಾಡುವರು ಬೆಳಿಗ್ಗೆಏಳು 15 ರಿಂದ 10ಕಾ ವರೆಗೂ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 516,
+    "start": 829.03,
+    "end": 829.04,
+    "captionText": "ಮಾಡುವರು ಬೆಳಿಗ್ಗೆಏಳು 15 ರಿಂದ 10ಕಾ ವರೆಗೂ",
+    "removedRollingPrefix": "ಮಾಡುವರು ಬೆಳಿಗ್ಗೆಏಳು 15 ರಿಂದ 10ಕಾ ವರೆಗೂ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 517,
+    "start": 829.04,
+    "end": 831.67,
+    "captionText": "ಮಾಡುವರು ಬೆಳಿಗ್ಗೆಏಳು 15 ರಿಂದ 10ಕಾ ವರೆಗೂ ಅಂತ ಇತ್ತಲ್ರಿ ಈ ಟೈಮ್ ಒಳಗೆ ಸ್ಥಾಪನವನ್ನ",
+    "removedRollingPrefix": "ಮಾಡುವರು ಬೆಳಿಗ್ಗೆಏಳು 15 ರಿಂದ 10ಕಾ ವರೆಗೂ",
+    "retainedText": "ಅಂತ ಇತ್ತಲ್ರಿ ಈ ಟೈಮ್ ಒಳಗೆ ಸ್ಥಾಪನವನ್ನ",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 518,
+    "start": 831.67,
+    "end": 831.68,
+    "captionText": "ಅಂತ ಇತ್ತಲ್ರಿ ಈ ಟೈಮ್ ಒಳಗೆ ಸ್ಥಾಪನವನ್ನ",
+    "removedRollingPrefix": "ಅಂತ ಇತ್ತಲ್ರಿ ಈ ಟೈಮ್ ಒಳಗೆ ಸ್ಥಾಪನವನ್ನ",
+    "retainedText": "",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  },
+  {
+    "timelineIndex": 519,
+    "start": 831.68,
+    "end": 834.68,
+    "captionText": "ಅಂತ ಇತ್ತಲ್ರಿ ಈ ಟೈಮ್ ಒಳಗೆ ಸ್ಥಾಪನವನ್ನ ಮಾಡಬಹುದು",
+    "removedRollingPrefix": "ಅಂತ ಇತ್ತಲ್ರಿ ಈ ಟೈಮ್ ಒಳಗೆ ಸ್ಥಾಪನವನ್ನ",
+    "retainedText": "ಮಾಡಬಹುದು",
+    "reason": "identical suffix/prefix rolling-caption context; tentative until listening"
+  }
+]

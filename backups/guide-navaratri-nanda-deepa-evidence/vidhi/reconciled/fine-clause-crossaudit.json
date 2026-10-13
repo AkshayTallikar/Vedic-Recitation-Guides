@@ -1,0 +1,710 @@
+{
+  "sourceId": "vidhi",
+  "status": "Semantic clause coverage reviewed against all22 fine transcripts; exact acoustic losslessness uncertified",
+  "rows": [
+    {
+      "chunkIndex": 1,
+      "startSeconds": 0.0,
+      "endSeconds": 45.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-001-transcript.json",
+      "rawTranscriptText": "तदेव लक्ष्मीं सुदिनं तदेव, ताराबलं चन्द्रबलं तदेव। विद्याबलं दैवबलं तदेव, लक्ष्मीपते तेऽङ्घ्रियुगं स्मरामि। तदेव लक्ष्मीं सुदिनं तदेव, ताराबलं चन्द्रबलं तदेव। विद्याबलं दैवबलं तदेव, लक्ष्मीपते तेऽङ्घ्रियुगं स्मरामि। आचमन मंत्रः। केशवाय स्वाहा, नारायणाय स्वाहा, माधवाय स्वाहा, गोविन्दाय, विष्णवे, मधुसूदनाय, त्रिविक्रमाय, वामनाय, श्रीधराय, हृषीकेशाय.",
+      "mappedSectionIds": [
+        "vidhi-01",
+        "vidhi-02"
+      ],
+      "mappedSectionTitles": [
+        "Opening auspicious invocation",
+        "Ācamana, performed twice"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-01",
+          "notes": "Opening lagnaṁ supported by captions; GPT repeatedly hears lakṣmīṁ. Reading remains flagged pending listening. Second complete repetition retained; exact final syllables under music not separately timed."
+        },
+        {
+          "sectionId": "vidhi-02",
+          "notes": "Short names after the first three are retained as heard in fine transcription/captions; not expanded into unspoken full datives."
+        },
+        {
+          "sectionId": "vidhi-02",
+          "notes": "Short names after the first three are retained as heard in fine transcription/captions; not expanded into unspoken full datives."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 2,
+      "startSeconds": 40.0,
+      "endSeconds": 85.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-002-transcript.json",
+      "rawTranscriptText": "ಗೋವಿಂದಾ ಪುಷ್ಣೋ ಮಧುಸೂದನ ತ್ರಿವಿಕ್ರಮ ವಾಮನ ಶ್ರೀಧರ, ಹೃಷೀಕೇಶ ಪದ್ಮನಾಭ ದಾಮೋದರ ಸಂಕರ್ಷಣ, ವಾಸುದೇವಾ ಪ್ರದ್ಯುಮ್ನ ಅನಿರುದ್ಧ ಪುರುಷೋತ್ತಮ ಅಧೋಕ್ಷಜ, ನಾರಸಿಂಹ ಅಚ್ಯುತ ಜನಾರ್ದನ ಉಪೇಂದ್ರ, ಹರಗೆ ನಮಃ ಶ್ರೀಕೃಷ್ಣಾಯ ನಮಃ. ಮತ್ತೊಮ್ಮೆ ಆಚಮನ ಮಾಡಿರಿ. ಕೇಶವಾಯ ಸ್ವಾಹಾ, ನಾರಾಯಣಾಯ ಸ್ವಾಹಾ, ಮಾಧವಾಯ ಸ್ವಾಹಾ. ಗೋವಿಂದಾ ಪುಷ್ಣೋ ಮಧುಸೂದನ ತ್ರಿವಿಕ್ರಮ ವಾಮನ ಶ್ರೀಧರ, ಹೃಷೀಕೇಶ ಪದ್ಮನಾಭ ದಾಮೋದರ ಸಂಕರ್ಷಣ ವಾಸುದೇವಾ ಪ್ರದ್ಯುಮ್ನ ಅನಿರುದ್ಧ ಪುರುಷೋತ್ತಮ ಅಧೋಕ್ಷಜ ನಾರಸಿಂಹ ಅಚ್ಯುತ ಜನಾರ್ದನ ಉಪೇಂದ್ರ, ಹರಗೆ ನಮಃ ಶ್ರೀಕೃಷ್ಣಾಯ ನಮಃ. ಗುರುವಂದನೆ. ಶ್ರೀಗುರುಭ್ಯೋ ನಮಃ, ಪರಮಗುರುಭ್ಯೋ ನಮಃ, ಶ್ರೀಮದಾನಂದ ತೀರ್ಥ ಭಗವತ್ಪಾದಾಚಾರ್ಯೇಭ್ಯೋ ನಮಃ.",
+      "mappedSectionIds": [
+        "vidhi-02",
+        "vidhi-03"
+      ],
+      "mappedSectionTitles": [
+        "Ācamana, performed twice",
+        "Guru salutations and family deity"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-02",
+          "notes": "Short names after the first three are retained as heard in fine transcription/captions; not expanded into unspoken full datives."
+        },
+        {
+          "sectionId": "vidhi-02",
+          "notes": "Short names after the first three are retained as heard in fine transcription/captions; not expanded into unspoken full datives."
+        },
+        {
+          "sectionId": "vidhi-03",
+          "notes": "vāgīśebhyo and ekādaśasthāne/asmat remain uncertain: GPT variants vāgbhe, ekāsanasthāne/aśvattha; captions favor eleventh-place formulation."
+        },
+        {
+          "sectionId": "vidhi-03",
+          "notes": "Eleventh-place wording uncertain as above."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 3,
+      "startSeconds": 80.0,
+      "endSeconds": 125.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-003-transcript.json",
+      "rawTranscriptText": "ಭ್ಯೋ ನಮಃ, ಪರಮಗುರುಭ್ಯೋ ನಮಃ, ಶ್ರೀಮದಾನಂದ ತೀರ್ಥ ಭಗವತ್ಪಾದಾಚಾರ್ಯೋಭ್ಯೋ ನಮಃ. ವೇದವ್ಯಾಸಾಯ ನಮಃ, ಸರಸ್ವತ್ಯೈ ನಮಃ, ಬ್ರಹ್ಮಣೇ ನಮಃ, ಭಾರತ್ಯೈ ನಮಃ, ವಾಗ್ಭೇ ನಮಃ, ಲಕ್ಷ್ಮ್ಯೈ ನಮಃ, ನಾರಾಯಣಾಯ ನಮಃ. ಏಕಾಸನಸ್ಥಾನೇ ಅಶ್ವತ್ಥ ಕುಲದೇವತಾಯೈ ನಮಃ. ನಿಮ್ಮ ಕುಲದೇವರೇನೋ, ಅವರ ಹೆಸರನ್ನೇ ಇಲ್ಲಿ ಹೇಳಿಕೊಳ್ಳಿ. ನರಸಿಂಹ ದೇವರಾಗಿದ್ದರೆ ನರಸಿಂಹಾಯ ನಮಃ, ವೆಂಕಟೇಶ ದೇವತಾ ಆಗಿದ್ದರೆ ವೆಂಕಟೇಶಾಯ ನಮಃ. ನಿಮ್ಮ ಕುಲದೇವರ ಹೆಸರನ್ನು, ಏಕಾಸನಸ್ಥಾನೇ ಕುಲದೇವತಾಯೈ ನಮಃ, ಶ್ರೀ ವಾಸುದೇವಾಯ ನಮಃ. ಪ್ರಾಣಾಯಾಮ. ತಲೆಯಲ್ಲಿ ಕೈ ಇಟ್ಟುಕೊಳ್ಳಿ, ಪ್ರಣವಸ್ಯ ಪರಬ್ರಹ್ಮ ಋಷಿಃ, ಹೃದಯದಲ್ಲಿ ಪರಮಾತ್ಮ ದೇವತಾ, ಮೂಗನ್ನು ಮುಟ್ಟೋದು ದೇವಿಗಾಯತ್ರಿ ಛಂದಃ. ಹೀಗೆ ಪ್ರಾಣಾಯಾಮೇ ವಿನಿಯೋಗಃ ಅಂತೇಳಿ ಮೂಗನ್ನು ಹಿಡುಕೊಳ್ಳಿ, ಪ್ರಾಣಾಯಾಮ ಬಂದವರು ಪ್ರಾಣಾಯಾಮ ಮಾಡಿರಿ. ಓಂಭೂಃ, ಓಂಭುವಃ, ಓಂ ಸ್ವಃ, ಓಂ ಮಹಃ, ಓಂ ಜನಃ.",
+      "mappedSectionIds": [
+        "vidhi-03",
+        "vidhi-04"
+      ],
+      "mappedSectionTitles": [
+        "Guru salutations and family deity",
+        "Prāṇāyāma and its viniyoga"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-03",
+          "notes": "vāgīśebhyo and ekādaśasthāne/asmat remain uncertain: GPT variants vāgbhe, ekāsanasthāne/aśvattha; captions favor eleventh-place formulation."
+        },
+        {
+          "sectionId": "vidhi-03",
+          "notes": "Eleventh-place wording uncertain as above."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 4,
+      "startSeconds": 120.0,
+      "endSeconds": 165.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-004-transcript.json",
+      "rawTranscriptText": "ಓಂ ಭೂಃ, ಓಂ ಭುವಃ, ಓಂ ಸ್ವಃ, ಓಂ ಮಹಃ, ಓಂ ಜನಃ, ಓಂ ತಪಃ, ಓಂ ಸತ್ಯಂ, ತತ್ಸವಿತುರ್ವರೇಣ್ಯಂ ಭರ್ಗೋ ದೇವಸ್ಯ ಧೀಮಹಿ ಧಿಯೋ ಯೋ ನಃ ಪ್ರಚೋದಯಾತ್. ಓಂ ಆಪೋ ಜ್ಯೋತೀರಸೋ ಅಮೃತಂ ಬ್ರಹ್ಮ ಭೂರ್ಭುವಃ ಸ್ವರೋಂ. ಮಂತ್ರಾಸ್ತೇ ಅನ್ನ ಕೈಯಲ್ಲಿ ಇಟ್ಟು, ಎಡಗೈ ಮೇಲೆ ಬಲ ಕೈ ಇಟ್ಟು, ಬಲದ ತೊಡೆಯಲ್ಲಿ ಇಟ್ಟರು. ಶುಭೇ ಶೋಭನೇ ಮುಹೂರ್ತೇ, ಆದ್ಯ ಬ್ರಹ್ಮಣಃ ದ್ವಿತೀಯ ಪರಾರ್ಧೇ, ಶ್ರೀಶ್ವೇತವರಾಹಕಲ್ಪೇ, ವೈವಸ್ವತಮನ್ವಂತರೆ, ಅಷ್ಟಾವಿಂಶತಿತಮೇ ಕಲಿಯುಗೇ, ಪ್ರಥಮಪಾದೇ, ಭರತವರ್ಷೇ, ಭಾರತಖಂಡೇ, ದಂಡಕಾರಣ್ಯೇ, ಗೋದಾವರ್ಯಾಃ ದಕ್ಷಿಣೇ ತೀರೇ, ಶಾಲೀಬಾಹನ ಶಕೇ, ಬೌದ್ಧಾವತಾರೇ, ರಾಮಕ್ಷೇತ್ರೇ, ಅಸ್ಮಿನ್ ವರ್ತಮಾನೇ ಪ್ರಭವಾದಿ ಷಷ್ಟಿ ಸಂವತ್ಸರಾಣಾಂ ಮಧ್ಯೇ.",
+      "mappedSectionIds": [
+        "vidhi-04",
+        "vidhi-05"
+      ],
+      "mappedSectionTitles": [
+        "Prāṇāyāma and its viniyoga",
+        "Saṅkalpa: place, time and invoked deities"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-05",
+          "notes": "Raw ASR varies ಮಂತ್ರಾಸ್ತೆ/ಮಂತ್ರಾಸ್ತೇ; interpreted ritual object mantra-akṣata is editorial correction supported by repeated usage."
+        },
+        {
+          "sectionId": "vidhi-05",
+          "notes": "Retains recorded calendar/location examples; śālivāhanaśake/rāmakṣetre, exact tithi inflection, and antaryāmi form remain uncertain witness readings. Do not substitute present-day calendar. Repeated list deliberately retained."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 5,
+      "startSeconds": 160.0,
+      "endSeconds": 205.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-005-transcript.json",
+      "rawTranscriptText": "क्षेत्रे अश्विन् वर्तमाने प्रभवादि षष्टि संवत्सराणां मध्ये शुभ पराभव नाम संवत्सरे दक्षिणायने शरत् ऋतौ आश्वीज मासे शुक्ल पक्षे प्रतम्यां वासरः वासरस्तु भानुवासरः युक्तायां चित्ता नक्षत्रे युक्तायां शुभ नक्षत्रे शुभयोग शुभकरण एवं गुण सकल विशेषेण विशिष्टायां शुभदितौ अश्वत् कुलदेवतां तद्ग्यामि भारतीरमण मुख्यप्राणांतर्गत श्री लक्ष्मी नारायण प्रेरणया लक्ष्मी नारायण प्रीत्यर्थं श्री भू दुर्ग…",
+      "mappedSectionIds": [
+        "vidhi-05"
+      ],
+      "mappedSectionTitles": [
+        "Saṅkalpa: place, time and invoked deities"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-05",
+          "notes": "Raw ASR varies ಮಂತ್ರಾಸ್ತೆ/ಮಂತ್ರಾಸ್ತೇ; interpreted ritual object mantra-akṣata is editorial correction supported by repeated usage."
+        },
+        {
+          "sectionId": "vidhi-05",
+          "notes": "Retains recorded calendar/location examples; śālivāhanaśake/rāmakṣetre, exact tithi inflection, and antaryāmi form remain uncertain witness readings. Do not substitute present-day calendar. Repeated list deliberately retained."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 6,
+      "startSeconds": 200.0,
+      "endSeconds": 245.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-006-transcript.json",
+      "rawTranscriptText": "ನಾರಾಯಣ ಪ್ರೀಯತ್ಯರ್ಥಂ. ಶ್ರೀಭೂದುರ್ಗಾ ಬ್ರಹ್ಮ ಪ್ರಾಣ ಸರಸ್ವತಿ ಭಾರತಿ ಶೇಷ. ಶ್ರೀಭೂದುರ್ಗಾ ಬ್ರಹ್ಮ ಪ್ರಾಣ ಸರಸ್ವತಿ ಭಾರತಿ ಶೇಷ ಗರುಡಾದಿ ಸಗಿತಸ್ಯ, ಶ್ರೀಲಕ್ಷ್ಮೀನಾರಾಯಣಸ್ಯ, ಶ್ರೀಶ್ರೀನಿವಾಸಸ್ಯ, ಶ್ರೀಲಕ್ಷ್ಮೀನರಸಿಂಹಸ್ಯ, ನಮ್ಮ ಕುಲದೇವರ ಹೆಸರನ್ನು ರಿಸರ್ಚ್ಿಕೊಳ್ಳಿ. ಶ್ರೀಲಕ್ಷ್ಮೀನರಸಿಂಹಸ್ಯ, ಅದ್ಯ ಪ್ರಥಮ ಪ್ರಾತರಾರಭ್ಯ ಆಗಾಮಿ ದಶಮೀ ಪರ್ಯಂತಂ. ಇಲ್ಲಿ ನಾನು ಒಂಬತ್ತು ದಿನ ಮಾಡ್ಲ, ಮೂರು ದಿನ ತಾ ಮಾಡ್ತೇನೆ ಅಂತ ಹೇಳಿದಾಗ, ಅದ್ಯ ಸಪ್ತ...",
+      "mappedSectionIds": [
+        "vidhi-05",
+        "vidhi-06"
+      ],
+      "mappedSectionTitles": [
+        "Saṅkalpa: place, time and invoked deities",
+        "Saṅkalpa: three-day and nine-day alternatives"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-05",
+          "notes": "Raw ASR varies ಮಂತ್ರಾಸ್ತೆ/ಮಂತ್ರಾಸ್ತೇ; interpreted ritual object mantra-akṣata is editorial correction supported by repeated usage."
+        },
+        {
+          "sectionId": "vidhi-05",
+          "notes": "Retains recorded calendar/location examples; śālivāhanaśake/rāmakṣetre, exact tithi inflection, and antaryāmi form remain uncertain witness readings. Do not substitute present-day calendar. Repeated list deliberately retained."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 7,
+      "startSeconds": 240.0,
+      "endSeconds": 285.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-007-transcript.json",
+      "rawTranscriptText": "ಮೂರು ದಿನತಾ ಮಾಡುತ್ತೇನೆ ಅಂತ ಹೇಳಿದಾಗ, ಅದ್ಯ ಸಪ್ತಮಿ ಅಂದರೆ ಮೂಲ ನಕ್ಷತ್ರ ಆರಭ್ಯ, ಶ್ರವಣ ನಕ್ಷತ್ರ ಪರ್ಯಂತಂತ ಈ ಮೂರು ದಿನ ಮಾಡೋವರು ಇದನ್ನು ಸೇರ್ಸಿಲ್ರಿ. ಒಂಬತ್ತು ದಿನ ಮಾಡೋವರು ಆಗಾಮಿ ದಶಮಿ ಪರ್ಯಂತಂ. ನವರಾತ್ರಿ ಉತ್ಸವಾಖ್ಯಂ ಕರ್ಮ ಕರಿಷ್ಯಮಾಣಃ. ತಥಾಂಗಪೂರ್ವಕ, ಗೃತದೀಪ ಸಂಯೋಜನಂ ಪ್ರತಿದಿನಂ ಪ್ರಾತಃ ಯತಾಶಕ್ತಿ ಮಹಾಪೂಜಾ, ಸಾಯಾಹ್ನಂ ಯತಾಶಕ್ತಿ ವೇದ, ಪುರಾಣಾದಿ ಪಾರಾಯಣಾಖ್ಯಂ, ಶ್ರವಣಾಖ್ಯಂ ಕರ್ಮ ಕರಿಷ್ಯೇ, ಮಹಾನೀರಾಜನಂ ಚ ಕರಿಷ್ಯೇ.",
+      "mappedSectionIds": [
+        "vidhi-06",
+        "vidhi-07"
+      ],
+      "mappedSectionTitles": [
+        "Saṅkalpa: three-day and nine-day alternatives",
+        "Saṅkalpa: lamp, daily worship and evening recitation"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-07",
+          "notes": "tadaṅgapūrvaka/ghṛta and sāyaṁ/sāyāhna inflections uncertain; complete recorded meaning retained."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 8,
+      "startSeconds": 280.0,
+      "endSeconds": 325.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-008-transcript.json",
+      "rawTranscriptText": "श्रवणाख्यं कर्म करिष्ये, महानीराजनं च करिष्ये ಅಂತ ಮಂತ್ರಾಸ್ತೇನೆ ನೀರಾಕಿಣ್ಬಿಟ್ಟೆ. ಬಿಟ್ಟುಟ್ಟು ಮಂತ್ರಾಸೆಯನ್ನು ತೊಕೊಂಡು ಆ ದೀಪಕ್ಕ ಪೂಜೆಯನ್ನು ಮಾಡ್ರಿ. ಅಶ್ವಿನ್ನೇ ದೀಪಸ್ತಂಭೇ, कृत्तिका आदि सप्त विंशति नक्षत्रदेवताभ्यो नमः. ಅಶ್ವಿನ್ಯೇ ನಮಃ, ಭರಣ್ಯೇ ನಮಃ, ಕೃತ್ತಿಕಾಯೇ ನಮಃ, ರೋಹಿಣ್ಯೇ ನಮಃ, ಮೃಗಶೀರಾಗೆ ನಮಃ, ಆರುದ್ರಾಗೆ ನಮಃ, ಪುನರ್ವಸುಭ್ಯಾ ನಮಃ, ಪುಷ್ಯ ನಕ್ಷತ್ರದೇವತಾಭ್ಯೋ ನಮಃ, ಆಶ್ಲೇಷಾ ನಕ್ಷತ್ರದೇವತಾಭ್ಯೋ ನಮಃ, ಮಖಾ ನಕ್ಷತ್ರದೇವತಾಭ್ಯೋ ನಮಃ, ಪೂರ್ವ ಫಲ್ಗುನೀ ನಕ್ಷತ್ರದೇವತಾಭ್ಯೋ ನಮಃ, ಉತ್ತರ ಫಲ್ಗುನೀ ನಕ್ಷತ್ರದೇವತಾಭ್ಯೋ ನಮಃ, ಹಸ್ತ ನಕ್ಷತ್ರದೇವತಾಭ್ಯೋ ನಮಃ, ಚಿತ್…",
+      "mappedSectionIds": [
+        "vidhi-07",
+        "vidhi-08"
+      ],
+      "mappedSectionTitles": [
+        "Saṅkalpa: lamp, daily worship and evening recitation",
+        "Worship of the 27 nakṣatra deities in the lamp"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-07",
+          "notes": "tadaṅgapūrvaka/ghṛta and sāyaṁ/sāyāhna inflections uncertain; complete recorded meaning retained."
+        },
+        {
+          "sectionId": "vidhi-08",
+          "notes": "Opening Kṛttikādi retained despite subsequent list starting Aśvinī. Rohiṇī is interrupted by instruction then repeated."
+        },
+        {
+          "sectionId": "vidhi-08",
+          "notes": "Punarvasu inflection and final nārāyaṇāya/nārāyaṇābhyāṁ differ among witnesses; list retains all27 stars. Individual rapid lines share whole-run playback until independently aligned."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 9,
+      "startSeconds": 320.0,
+      "endSeconds": 365.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-009-transcript.json",
+      "rawTranscriptText": "ಉತ್ತರ ಫಲ್ಗುನೀ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಹಸ್ತ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಚಿತ್ತಾ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಸ್ವಾತೀ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ವಿಶಾಖಾ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಅನುರಾಧಾ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಜ್ಯೇಷ್ಠಾ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಮೂಲ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಪೂರ್ವಾಷಾಢಾ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಉತ್ತರಾಷಾಢಾ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಶ್ರವಣ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಧನಿಷ್ಠಾ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಶತಭಿಷಕ್ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಪೂರ್ವ ಭಾದ್ರಾ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಉತ್ತರ ಭಾದ್ರಾ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ರೇವತೀ ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ನಕ್ಷತ್ರಾಧಿಪತೇ ಶ್ರೀ ಲಕ್ಷ್ಮೀ ನಾರಾಯಣಾಯ ನಮಃ ಅಂತ ಮಂತ್ರಾಸ್ತೇ.",
+      "mappedSectionIds": [
+        "vidhi-08"
+      ],
+      "mappedSectionTitles": [
+        "Worship of the 27 nakṣatra deities in the lamp"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-08",
+          "notes": "Opening Kṛttikādi retained despite subsequent list starting Aśvinī. Rohiṇī is interrupted by instruction then repeated."
+        },
+        {
+          "sectionId": "vidhi-08",
+          "notes": "Punarvasu inflection and final nārāyaṇāya/nārāyaṇābhyāṁ differ among witnesses; list retains all27 stars. Individual rapid lines share whole-run playback until independently aligned."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 10,
+      "startSeconds": 360.0,
+      "endSeconds": 405.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-010-transcript.json",
+      "rawTranscriptText": "ನಮಃ ನಕ್ಷತ್ರಾಭಿವಂದ ಶ್ರೀ ಲಕ್ಷ್ಮೀ ನಾರಾಯಣಾಯ ನಮಃ ಅಂತ ಮಂತ್ರ ಹಾಕ್ತೇನೆ. ನಕ್ಷತ್ರ ದೇವತಾಭ್ಯೋ ನಮಃ. ಸ್ಥಾಪಯಾಮಿ ಪೂಜಯಾಮಿ ನಮಃ ಅಂತ ಮಂತ್ರ ಹಾಕುತ್ತೆ. ನಾಳೆ ಅಂದರೆ ಬತ್ತಿಯಲ್ಲಿ ವಾಸುಕ್ಕೀ ದೇವತಾಯೈ ನಮಃ, ಅನಂತಾಯ ನಮಃ, ಪಾದೇ ಚಂದ್ರಾಯ ನಮಃ, ಚಂದ್ರ ಅರ್ಘಾಭ್ಯಾಂ ನಮಃ, ಜ್ಯೋತ್ಯೌ ಸೂರ್ಯ ಚಂದ್ರಾಯ ನಮಃ ಅಂತ ಮಂತ್ರಾಸ್ತೆನ ಹಾಕ್ಕೊಟ್ಟು, ಬೇರೆ ಒಂದು ಹಲಿಗಾರತಿಯಲ್ಲಿ ಒಂದು ಬತ್ತಿಯನ್ನು ತುಪ್ಪದಲ್ಲಿ ನೆನೆಸಿಟ್ಟುಂಡು ಅದನ್ನು ಮೊದಲು ಹಚ್ಚಿಸ್ಲಿ. ಡೈರೆಕ್ಟ್ ಕಡ್ಡಿ ಪೆಟ್ಟಿಗೆಯಿಂದ ಈ ದೀಪವನ್ನು ಮುಡಿಸಬಾರದು. ಒಂದು ಬತ್ತಿನ ತುಪ್ಪದಲ್ಲಿ ನೆನೆಸಿ ಹಲಿಗಾರತೆಯಲ್ಲಿಟ್ಟು ಅದನ್ನು ಮೊದಲು ಹಚ್ಚಿಕೊಂಡು.",
+      "mappedSectionIds": [
+        "vidhi-08",
+        "vidhi-09",
+        "vidhi-10"
+      ],
+      "mappedSectionTitles": [
+        "Worship of the 27 nakṣatra deities in the lamp",
+        "Invocations in the wick, base and flame",
+        "Prepare a separate flame to light the lamp"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-08",
+          "notes": "Opening Kṛttikādi retained despite subsequent list starting Aśvinī. Rohiṇī is interrupted by instruction then repeated."
+        },
+        {
+          "sectionId": "vidhi-08",
+          "notes": "Punarvasu inflection and final nārāyaṇāya/nārāyaṇābhyāṁ differ among witnesses; list retains all27 stars. Individual rapid lines share whole-run playback until independently aligned."
+        },
+        {
+          "sectionId": "vidhi-09",
+          "notes": "ನಾಳೆ/nāḷe may be Sanskrit nāle (in the tube) or Kannada sound; preserved rather than translated as tomorrow, which would not fit the placement context."
+        },
+        {
+          "sectionId": "vidhi-09",
+          "notes": "Exact jyotiṣi/jyotyau and sūryacandrāya inflection uncertain. Do not invent additional placements for Ananta or Candra–Arka."
+        },
+        {
+          "sectionId": "vidhi-10",
+          "notes": "Hālagārati plate name retained as spoken; purpose is a separate lighting flame."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 11,
+      "startSeconds": 400.0,
+      "endSeconds": 445.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-011-transcript.json",
+      "rawTranscriptText": "ನಾ ತುಪ್ಪದಲ್ಲಿ ನೆರಿಸಿ ಹಲಿಗಾರತ್ತೆ ಇಡಿಟ್ಟು ಅದನ್ನ ಮೊದಲು ಏರ್ಸಿಕೊಂಡು, ಅದರಿಂದ ಈ ದೀಪವನ್ನು ಏರಿಸ್ಬೇಕು. ಅಥವಾ ದೇವರ ದೀಪ ಎರಡು ಇಟ್ಟಿರ್ತೀರಲ್ಲ, ಅದನಿಂದ ಹಚ್ಚಿಕೊಂಡು ಈ ದೀಪವನ್ನು ಮುಡಿಸ್ಬೇಕು. ಗಂಟೆ ಬಾರಿಸ್ತಾ ಈ ದೀಪವನ್ನು ಮುಡಿಸಿ. ಅಗ್ನಿನಾ, ಹೇಳ್ರಿ, ಅಗ್ನಿನಾ, ಅಗ್ನಿಹಿ ಸಮಿದ್ಧ್ಯತೇ, ಸಮಿದ್ಧ್ಯತೇ, ಕವಿರ್ ಗೃಹಪತಿರ್, ಗೃಹಪತಿರ್ ಯುವಾ, ಹವ್ಯವಾಡ್, ಯುಕ್ವಾಸ್ಯಃ ಅಂತ ಗಂಟೆ ಬಾರ್ಸಿ ದೀಪವನ್ನು ಏರ್ಸಿಟ್ಟು ಹಲಿಗಾರತಿ ತಟ್ಟೆಯನ್ನು ಕಳಗಿಟ್ಟುಟ್ಟು. ಅಶ್ಮಿನ್ನೇ ದೀಪಸ್ತಂಭೇ ಅಶ್ಮತ್ ಕುಲದೇವತಾಃ, ಅಂದರೆ ನಿಮ್ಮ ಕುಲದೇವರ ಹೆಸರು ಲಕ್ಷ್ಮೀ ನರಸಿಂಹಾಯ ನಮಃ ಅಂತ ನರಸಿಂಹ ದೇವರನ್ನ...",
+      "mappedSectionIds": [
+        "vidhi-10",
+        "vidhi-11",
+        "vidhi-12"
+      ],
+      "mappedSectionTitles": [
+        "Prepare a separate flame to light the lamp",
+        "Light the lamp while ringing the bell",
+        "Invocation of the family deity: Narasiṃha"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-10",
+          "notes": "Hālagārati plate name retained as spoken; purpose is a separate lighting flame."
+        },
+        {
+          "sectionId": "vidhi-11",
+          "notes": "Prompted agninā, samidhyate and gṛhapatir repetitions retained. Final juhvāsyaḥ is an uncertain reading: ASR yuktvāsyā/yukvāsyā."
+        },
+        {
+          "sectionId": "vidhi-12",
+          "notes": "Brief object prompt; shares native caption cue457.28–459.909 with final invocation because ASR collapses words to ಮಂತ್ರ. Exact inter-word partition unresolved."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 12,
+      "startSeconds": 440.0,
+      "endSeconds": 485.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-012-transcript.json",
+      "rawTranscriptText": "ಲಕ್ಷ್ಮೀ ನರಸಿಂಹಾಯ ನಮಃ ಅಂತ ನರಸಿಂಹ ದೇವರನ್ನ ದೀಪದಲ್ಲಿ ಆವಾಹನ ಮಾಡೋದು. ಧ್ಯಾಯೇತ್ ನೃಸಿಂಹಂ ಉಗ್ರಂ ವೀರಂ ಮಹಾವಿಷ್ಣುಂ ಜ್ವಲಂತಂ ವಿಶ್ವತೋಮುಖಂ, ನೃಸಿಂಹಂ ಭೀಷಣಂ ಭದ್ರಂ ಮೃತ್ಯೋರ್ಮೃತ್ಯುಂ ನಮಾಮ್ಯಹಂ. ಲಕ್ಷ್ಮೀ ನರಸಿಂಹಂ ಆವಾಹಯಾಮಿ ಮಂತ್ರಾಸ್ತಕಿ. ವೆಂಕಟೇಶ ದೇವರಾಗಿದ್ದರೆ, ಕಲ್ಯಾಣಾದ್ಭುತಗಾತ್ರಾಯ ಕಾಮಿತಾರ್ಥ ಪ್ರದಾಯಿನೇ ಶ್ರೀಮದ್ ವೆಂಕಟನಾಥಾಯ ಶ್ರೀನಿವಾಸಾಯ ತೇ ನಮಃ. ಲಕ್ಷ್ಮೀ ವೆಂಕಟೇಶ್ವರಂ ಆವಾಹಯಾಮಿ. ನಮಗೆ ರುದ್ರ ದೇವರು ಅಂದರೆ ತತ್ಪುರುಷಾಯ ವಿಧ್ಮಹೇ ಮಹಾದೇವಾಯ ಧೀಮಹಿ, ತನ್ನೋ ರುದ್ರಃ ಪ್ರಚೋದಯಾತ್. ರುದ್ರಂ ಆವಾಹಯಾಮಿ. ಎಲ್ಲಮ್ಮ ಈ ರೀತಿ ಇರುವ ದುರ್ಗಾ ದೇವಿಗಳು ಅಂದರೆ ಕಾತ್ಯಾಯನಾಯ ವಿಧ್ಮಹೇ ಕನ್ಯಕುಮಾರಿ ಧೀಮಹಿ, ತನ್ನೋ ದುರ್ಗಿಃ ಪ್ರಚೋದಯಾತ್ ಅಂತ.",
+      "mappedSectionIds": [
+        "vidhi-12",
+        "vidhi-13",
+        "vidhi-14",
+        "vidhi-15"
+      ],
+      "mappedSectionTitles": [
+        "Invocation of the family deity: Narasiṃha",
+        "Veṅkaṭeśa alternative",
+        "Rudra alternative",
+        "Durgā alternative and indwelling deity"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-12",
+          "notes": "Brief object prompt; shares native caption cue457.28–459.909 with final invocation because ASR collapses words to ಮಂತ್ರ. Exact inter-word partition unresolved."
+        },
+        {
+          "sectionId": "vidhi-15",
+          "notes": "Kātyāyanī inflection and kanyakumāri ending uncertain. GPT hears durgāṁ tarpayāmi; captions favor durgāntaryāmi. Retain review flag rather than claim exact lexical resolution."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 13,
+      "startSeconds": 480.0,
+      "endSeconds": 525.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-013-transcript.json",
+      "rawTranscriptText": "ಕಾತ್ಯಾಯನಾಗೆ ಪದ್ಮೇ ಕನ್ಯಕುಮಾರಿ ದೀಮಿಹಿ ತನ್ನೋ ದುರ್ಗಿಪ್ ಪ್ರಚೋದಯಾತ್ ಅಂತ. ದುರ್ಗಾಂ ಕುಲದೇವತಾಯಿ, ದುರ್ಗಾಂ ತರ್ಪಯಾಮಿ, ಲಕ್ಷ್ಮೀಂ ರಸಿಂಮಂ ಆವಾಹಯಾಮಿ ಅಂತ ಆವಾಹನವನ್ನು ಮಾಡಿ, ಆವಾಹಯಾಮಿ ಅಂತ ಮಂತ್ರಾಸ್ತಕ್ಕೆ. ತಿರುಗು ಮಂತ್ರಾಸ್ತಕೊಂಡು ಆಸನಂ ಸಮರ್ಪಯಾಮಿ. ಪೇಲಾಲಿಂದ ಉದ್ರಣಿಲಿ ನೀರು ತೊಗೊಂಡು ಬಲದ ಕೈಯಿಲೆ ಐದು ಸಲ ಪೇಲಾಲಿ ಬಿಡಿರಿ. ಪಾದ್ಯಂ ಸಮರ್ಪಯಾಮಿ, ಅರ್ಘ್ಯಂ ಸಮರ್ಪಯಾಮಿ, ಆಚಮನೀಯಂ ಸಮರ್ಪಯಾಮಿ, ಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ, ಸ್ನಾನಾನಂತರ ಆಚಮನೀಯಂ ಸಮರ್ಪಯಾಮಿ. ಈಗ ಗಜಬಸ್ತ್ರವನ್ನ ಸಮರ್ಪಣೆ ಮಾಡಿ. ವಸ್ತ್ರಂ ಸಮರ್ಪಯಾಮಿ, ಉಪವಸ್ತ್ರಂ ಸಮರ್ಪಯಾಮಿ, ಆಭರಣಾರ್ಥೆ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ, ಗಂಧ, ಗಂಧಾನ್ ಸಮರ್ಪಯಾಮಿ, ಗಂಧ ಸ್ಛುಬರಿ...",
+      "mappedSectionIds": [
+        "vidhi-15",
+        "vidhi-16",
+        "vidhi-17"
+      ],
+      "mappedSectionTitles": [
+        "Durgā alternative and indwelling deity",
+        "Seat and five water offerings",
+        "Cloth, ornaments, sandal, turmeric, kumkum and flowers"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-15",
+          "notes": "Kātyāyanī inflection and kanyakumāri ending uncertain. GPT hears durgāṁ tarpayāmi; captions favor durgāntaryāmi. Retain review flag rather than claim exact lexical resolution."
+        },
+        {
+          "sectionId": "vidhi-17",
+          "notes": "Exact cloth name sounds gajavastra/gajabastra; retained as technical spoken term."
+        },
+        {
+          "sectionId": "vidhi-17",
+          "notes": "Kannada phrase heavily corrupted across ASR; full object list preserved; exact connector requires review."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 14,
+      "startSeconds": 520.0,
+      "endSeconds": 565.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-014-transcript.json",
+      "rawTranscriptText": "समर्पयामि। गन्ध, गन्धान् समर्पयामि। गन्धस्य उपरि आर्ष्णा कुङ्कुम, हरिद्रा चूर्ण कुङ्कुमान् समर्पयामि। चिक्कु हार, पुष्पमालिकान् समर्पयामि। पुष्पैः पूजयामि। केशवाय नमः, ॐ नारायणाय नमः, ॐ माधवाय नमः, ॐ गोविन्दाय नमः, ॐ विष्णवे नमः, ॐ मधुसूदनाय नमः, ॐ त्रिविक्रमाय नमः, ॐ वामनाय नमः, ॐ श्रीधराय नमः, ॐ ऋषीकेशाय नमः, ॐ पद्मनाभाय नमः, ॐ दामोदराय नमः, शंकरषणाय नमः, ॐ वासुदेवाय नमः, ॐ प्रद्युम्नाय नमः, ॐ अनिरुद्धाय नमः, ॐ पुरुषोत्तमाय नमः, ॐ अधोक्षजाय नमः, ॐ नारसिंहाय नमः, ॐ अच्युताय नमः, ॐ जनार्दनाय नमः, ॐ उपेन्द्राय नमः, ॐ हरये नमः, श्रीकृष्णाय...",
+      "mappedSectionIds": [
+        "vidhi-17",
+        "vidhi-18"
+      ],
+      "mappedSectionTitles": [
+        "Cloth, ornaments, sandal, turmeric, kumkum and flowers",
+        "Name offerings and flower worship"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-17",
+          "notes": "Exact cloth name sounds gajavastra/gajabastra; retained as technical spoken term."
+        },
+        {
+          "sectionId": "vidhi-17",
+          "notes": "Kannada phrase heavily corrupted across ASR; full object list preserved; exact connector requires review."
+        },
+        {
+          "sectionId": "vidhi-18",
+          "notes": "Oṁ occurrence retained from captions/fine pass rather than uniformly added. Final nānā parimala patra puṣpārcanaṁ differs in GPT (nānāvidha/pūṣpādi); caption form chosen, review flagged."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 15,
+      "startSeconds": 560.0,
+      "endSeconds": 605.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-015-transcript.json",
+      "rawTranscriptText": "ಜನಾರ್ದನಾಯ ನಮಃ, ಉಪೇಂದ್ರಾಯ ನಮಃ, ಹರಯೇ ನಮಃ, ಶ್ರೀಕೃಷ್ಣಾಯ ನಮಃ, ಮತ್ಸ್ಯಾದಿ ಅನಂತಾವತಾರ ರೂಪಾತ್ಮಕ ಶ್ರೀ ಲಕ್ಷ್ಮೀ ನರಸಿಂಹಾಯ ನಮಃ, ಲಕ್ಷ್ಮೀ ವೆಂಕಟೇಶ್ವರಾಯ ನಮಃ, ಅನಾದಿ ಪರಿಮಳ ಪತ್ರ ಪುಷ್ಪಾಚನಂ ಸಮರ್ಪಯಾಮಿ. ಈಗ ಊದುಗಡ್ಡಿಯನ್ನು ಎರಿಸಿಕೊಂಡು ದೂಪ ತುರ್ಷಿ. ದಶಾಂಗಂ ಕುಕ್ಕುಲೋ ಬೇತಂ ಸುಗತಂಚಂ ಶುಮನೋಗರಂ, ಆಗ್ರೇ ಸರ್ವದೇವಾನಾಂ ಧೂಪೋಯಂ ಪ್ರತಿಗೃಹ್ಯತಾಂ, ಧೂಪಮಾಘ್ರಾಘ ಪಗ್ಯಾಮಿ. ದೀಪಾರಾಧನೆ ಮಂತ್ರಸ್ತೇನ ರಕ್ಷತಾಂ ಸಮರ್ಪಯಾಮಿ, ಉದ್ದರದಿಂದ ನೀರ್ಬಿಡಿರಿ. ದೀಪದೀಪಾನಂತ್ರ ಆಚಮನೀಯಂ ಸಮರ್ಪಯಾಮಿ. ವಿಳಂದರಡಿಕೆ ಹಣ್ಣು ತೆಂಗಿನಕಾಯಿ, ನೀವು ತೆಂಬಿಟ್ಟಿ ಪೇರ್ಸೋದಾದ್ದಿಗೆ ಏರ್ಸಿ ಅದನ್ನು ಸೇರಿ ನೈವೇದ್ಯವನ್ನು ಮಾಡಿರಿ. ಪೂರ್ಬ ವಸ್ಸುಭಃ ಅಂತ ನೀರನ್ನು ಪ್ರೋಕ್ಷಣ ಮಾಡಿ.",
+      "mappedSectionIds": [
+        "vidhi-18",
+        "vidhi-19",
+        "vidhi-20"
+      ],
+      "mappedSectionTitles": [
+        "Name offerings and flower worship",
+        "Incense, lamp and water after incense and lamp",
+        "Prepare naivedya and offer to the vital breaths"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-18",
+          "notes": "Oṁ occurrence retained from captions/fine pass rather than uniformly added. Final nānā parimala patra puṣpārcanaṁ differs in GPT (nānāvidha/pūṣpādi); caption form chosen, review flagged."
+        },
+        {
+          "sectionId": "vidhi-19",
+          "notes": "guggulopetaṁ and āghreyaṁ restored as intelligible reading from repeated corrupted acoustic ASR (kukkulo/betaṁ, āgre); exact phonemes remain review flagged. ASR includes mantra-akṣata object sounds; see following action; exact dīpārthe/dīpārādhane phrase uncertain."
+        },
+        {
+          "sectionId": "vidhi-19",
+          "notes": "Object prompt occurs within/alongside the dīpa formula; exact ordering uncertain."
+        },
+        {
+          "sectionId": "vidhi-20",
+          "notes": "Clause after tambiṭṭu is acoustically unclear (pērasōdādgere/ērisōdādgere); preserve this as a provisional full translation rather than inventing another food item."
+        },
+        {
+          "sectionId": "vidhi-20",
+          "notes": "tvartena is the joined spoken ṛtena form; lexical pronunciation not independently heard."
+        },
+        {
+          "sectionId": "vidhi-20",
+          "notes": "The joined brahmaṇi ma ātmā syllables remain uncertain across all witnesses; line meaning is provisional Sanskrit interpretation, not certified verbatim gloss."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 16,
+      "startSeconds": 600.0,
+      "endSeconds": 645.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-016-transcript.json",
+      "rawTranscriptText": "ಅದನ್ನು ಸೇರಿ ನೇವೇದ್ಯವನ್ನು ಮಾಡಿ, ಪೂರ್ವವಸ್ಸುಭಹ ಅಂತ ನೀರನ್ನ ಪ್ರೋಕ್ಷಣ ಮಾಡಿ, ಪರಿಶೇಷಣ ಮಾಡಿ, ಸತ್ಯಂ ತ್ವರ್ತೇನ ಪ್ರಸಿಂಚಾಮಿ, ಒಂದು ಉದ್ದರಣ ನೀರು ಪೇಳಾಲ್ಬಿಟ್ಟು, ಅಮೃತೋಪಸ್ತರಣಮಸಿ ಸ್ವಾಹಾ. ಆರು ಸಲ ನೀರು ಬಿಡಿ. ಪ್ರಾಣಾಯ ಸ್ವಾಹಾ, ಅಪಾನಾಯ ಸ್ವಾಹಾ, ವ್ಯಾನಾಯ ಸ್ವಾಹಾ, ಉದಾನಾಯ ಸ್ವಾಹಾ, ಸಮಾನಾಯ ಸ್ವಾಹಾ, ಬ್ರಹ್ಮಣೇ ಸ್ವಾಹಾ. ಬ್ರಹ್ಮಣಿಮ ಆತ್ಮಾ, ಅಮೃತತ್ವಾಯ, ಅಮೃತೇ ಅಮೃತಂ ಜುಹೋಮಿ, ಅಂತು ತುಲಸೀದಲ ಹೂವನ್ನ ಕೈಯಲ್ಲಿ ಇಟ್ಟುಕೊಂಡು, ಇದಂ ನಾರಿಕೇಳಕಂಡದ್ವಯಂ ಕದಲೀಫಲಂ ಮಹಾನೈವೇದ್ಯಂ ನಿವೇದಯಾಮಿ ಅಂತ ಸಮರ್ಪಣೆ ಮಾಡಿ. ಒಂದು ಉದ್ದರಣ ನೀರು ಬಿಡಿ. ಮಧ್ಯಾಮೃತಪಾನೀಯಂ ಸಮರ್ಪಯಾಮಿ. ಮೊತ್ತೊಮ್ಮೆ ನಾಕ್ಕು ಸಲ ನೀರು ಬಿಡಿ. ಅಮೃತಾಪಿಧಾನಮಸಿ ಸ್ವಾಹಾ, ಹಸ್ತಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ, ಮುಖಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ, ಪಾದಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ, ಆಚಮನೀಯಂ ಸಮರ್ಪ...",
+      "mappedSectionIds": [
+        "vidhi-20",
+        "vidhi-21",
+        "vidhi-22"
+      ],
+      "mappedSectionTitles": [
+        "Prepare naivedya and offer to the vital breaths",
+        "Offer coconut, banana and the main food offering",
+        "Conclude food offering and washings"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-20",
+          "notes": "Clause after tambiṭṭu is acoustically unclear (pērasōdādgere/ērisōdādgere); preserve this as a provisional full translation rather than inventing another food item."
+        },
+        {
+          "sectionId": "vidhi-20",
+          "notes": "tvartena is the joined spoken ṛtena form; lexical pronunciation not independently heard."
+        },
+        {
+          "sectionId": "vidhi-20",
+          "notes": "The joined brahmaṇi ma ātmā syllables remain uncertain across all witnesses; line meaning is provisional Sanskrit interpretation, not certified verbatim gloss."
+        },
+        {
+          "sectionId": "vidhi-22",
+          "notes": "Recorded instruction says four, followed by five formulas. This discrepancy is retained rather than silently corrected."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 17,
+      "startSeconds": 640.0,
+      "endSeconds": 685.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-017-transcript.json",
+      "rawTranscriptText": "ಸಮರ್ಪಗಾಮಿ, ಮುಖಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಗಾಮಿ, ಪಾದಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಗಾಮಿ, ಆಚಮನೀಯಂ ಸಮರ್ಪಗಾಮಿ. ವಿಳದಡಿಕೆ ಮೇಲೆ ನೀರನ್ನ, ವಿಳದಲೆ ಅಡಿಕೆ ಮೇಲೆ, ಎಲೆ ಅಡಿಕೆ ಮೇಲೆ ನೀರನ್ನ ಪ್ರೋಕ್ಷಣೆಯನ್ನು ಮಾಡಿ. ಭೂಗೀಪಲಸಮಾಯುಕ್ತಂ ನಾಗವಲ್ಲೀದಲೈರ್ದಂ ಕರ್ಪೂರಚೂರ್ಣಸಂಮಿಶ್ರಂ ತಾಂಬೂಲಂ ಪ್ರತಿಗೃಹ್ಣ. ತಾಂಬೂಲಂ ಸಮರ್ಪಯಾಮಿ. ಒಂದು ದಕ್ಷಿಣೆ ಎನ್ನುವುದು, ಸುವರ್ಣಪುಷ್ಪದಕ್ಷಿಣಾಂ ಸಮರ್ಪಯಾಮಿ. ಹೀಗೆ ಮಂಗಳಾರತಿ ಎನ್ನ ಮಾತು. ರಾಜಾಧಿರಾಜಾಯ ಪ್ರಸಕ್ತಶಾಗಿನೇ… ಗೆಂಟೆ ಬಾರಿಸ್ತಾ… ರಾಜಾಧಿರಾಜಾಯ ಪ್ರಸಕ್ತಶಾಗಿನೇ… ನಮೋ ವಯಂ ಈ ಶ್ರವಣಾಯ ಕುರ್ಮಹೇ, ಶುಮೇ ಕಾಮಾನ್ ಕಾಮಮಹಾ ಯಮಕ್ಯಂ, ಕಾಮೇಶ್ವರೋ ವಿ ಈ ಶ್ರವಣೋ ದದಾತು, ಕುಭೇರಾಯ ವೈಶ್ರವಣಾಯ, ಮಹಾರಾಜಾಯ ನಮಃ ಅಂತ ಮಂಗಳಾರತಿ.",
+      "mappedSectionIds": [
+        "vidhi-22",
+        "vidhi-23",
+        "vidhi-24",
+        "vidhi-25"
+      ],
+      "mappedSectionTitles": [
+        "Conclude food offering and washings",
+        "Betel offering",
+        "Dakṣiṇā",
+        "Maṅgalārati and sharing the ārati"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-22",
+          "notes": "Recorded instruction says four, followed by five formulas. This discrepancy is retained rather than silently corrected."
+        },
+        {
+          "sectionId": "vidhi-23",
+          "notes": "Repeated reformulation retained as spoken."
+        },
+        {
+          "sectionId": "vidhi-23",
+          "notes": "Ending pratigṛhyatāṁ/pratigṛhṇa differs among witnesses. Standard intelligible reading is provisional, visible review flag retained."
+        },
+        {
+          "sectionId": "vidhi-25",
+          "notes": "Introduced phrase repeated before full recitation; preserve both occurrences."
+        },
+        {
+          "sectionId": "vidhi-25",
+          "notes": "prasahyasāhine/kāmakāmāya are intelligible Sanskrit readings of heavily corrupted shared ASR; not certified exact pronunciation."
+        },
+        {
+          "sectionId": "vidhi-25",
+          "notes": "Exact flower movement wording slightly unclear, no further motion invented."
+        },
+        {
+          "sectionId": "vidhi-25",
+          "notes": "ASR sarakṣāṁ/rakṣāṁ dhārayāmi; exact prefix uncertain."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 18,
+      "startSeconds": 680.0,
+      "endSeconds": 725.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-018-transcript.json",
+      "rawTranscriptText": "कुभेराय वै श्रवणाय, महाराजाय नमः ಅಂತ ಮಂಗಳಾರತಿನ ಮಾಡಿರ್ತೆ. ಕೂವನ್ನತೆ ಈ ಮಂಗಳಾರ್ತಿಯನ್ನು ಸುತ್ತಿ ಹೀಗೆ ದೇವರಿಗೆ ರಕ್ಷಾಂದಾರೆಯಾಮಿ ಅಂತ ಸಮರ್ಪಣೆ ಮಾಡಿಟ್ಟು, ನೀವೂ ಮಂಗಳಾರ್ತಿಯನ್ನು ತೊಕೊಂಡು ಮನೆಯಲ್ಲಿ ಇರೋವರಿಗೆ ಮಂಗಳಾರ್ತಿಯನ್ನು ಕೊಟ್ಟು, ಎದ್ದು ಪ್ರದಕ್ಷಿಣೆ ಮಾಡಿ ನಮಸ್ಕಾರ ಮಾಡಿರಿ. यानिकानि च पापानि जन्मान्तरकृतानि च, तानि तानि विनश्यन्ति प्रदक्षिणं पदे पदे. अन्यथा शरणं नास्ति त्वमेव शरणं मम, तस्मात् कारुण्यभावेन रक्ष रक्ष रमापते. ಪ್ರದಕ್ಷಿಣೆ ನಮಸ್ಕಾರ, ನಮಸ್ಕಾರವನ್ನು ಮಾಡಿರಿ, ನಮಸ್ಕಾರಾನ್ ಸಮರ್ಪಯಾಮಿ. ಕೊತೊಂಡು ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಿರಿ. ಆನಂದತೀರ್ಥ ವರದೆ, ಧಾನವಾರಣ್ಯ ಪಾಲಕೆ, ಜ್ಞಾನದಾಗ್ನೇ…",
+      "mappedSectionIds": [
+        "vidhi-25",
+        "vidhi-26",
+        "vidhi-27"
+      ],
+      "mappedSectionTitles": [
+        "Maṅgalārati and sharing the ārati",
+        "Circumambulation and prostration",
+        "Seated prayers to Śrīnivāsa, Narasiṃha and Durgā"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-25",
+          "notes": "Introduced phrase repeated before full recitation; preserve both occurrences."
+        },
+        {
+          "sectionId": "vidhi-25",
+          "notes": "prasahyasāhine/kāmakāmāya are intelligible Sanskrit readings of heavily corrupted shared ASR; not certified exact pronunciation."
+        },
+        {
+          "sectionId": "vidhi-25",
+          "notes": "Exact flower movement wording slightly unclear, no further motion invented."
+        },
+        {
+          "sectionId": "vidhi-25",
+          "notes": "ASR sarakṣāṁ/rakṣāṁ dhārayāmi; exact prefix uncertain."
+        },
+        {
+          "sectionId": "vidhi-27",
+          "notes": "All acoustic ASR outputs hear dānavāraṇya pālake / jñānadāgine / sadveśe. Here pāvake/jñānadāyini are provisional intelligible readings, not certified. Entire verse requires close listening."
+        },
+        {
+          "sectionId": "vidhi-27",
+          "notes": "Severe unresolved exact reading in final Manyu prayer. GPT gives varuṇasya manyuḥ and bhiyam dadānaḥ hṛdayeṣu śatrā/aparājitāśo; current Sanskrit reconstruction and meaning explicitly provisional, not claimed acoustic exactness."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 19,
+      "startSeconds": 720.0,
+      "endSeconds": 765.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-019-transcript.json",
+      "rawTranscriptText": "ತೀರ್ಥ ವರದೆ, ಧಾನ ವಾರಣ್ಯ ಪಾಲಕೆ, ಜ್ಞಾನದಾಗಿನೇ ಸದ್ವೇಷ, ಶ್ರೀನಿವಾಸೇಸ್ತು ಮೇ ಮನಃ. ಹಾಗೆಂತ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಿ ಹಾಕ್ರಿ. ಸಂಸೃಷ್ಟಂ ಧನಮುಭಯಂ ಸಮಾಕೃತಂ ಅಸ್ಮಭ್ಯಂ ದತ್ತಾಂ वरುಣಸ್ಯ ಸಮನ್ಯುಃ, ಭಿಯಂ ದದಾನಃ ಹೃದಯೇಷು, ಶತ್ರಾಪ ಪ್ರಾಜಿತಾಶೋ. ಅವನೆಲ್ಲ ಯಂತಾಂತ ನರಸಿಂಹನ್ನ ಪ್ರಾರ್ಥನೆ ಮಾಡಿಕೊಳ್ರಿ. ಸರ್ವವಂಗಳ ಮಾಂಗಲ್ಯೇ, ಶಿವೇ ಸರ್ವಾರ್ಥ ಸಾಧಿಕೆ, ಶರಣ್ಯೇ ತ್ರ್ಯಂಬಕೇ ದೇವಿ ನಾರಾಯಣಿ ನಮೋಸ್ತುತೆ ಅಂತ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಿಟ್ಟು, ಅನೇನ ಪ್ರಥಮ ದಿನ ಆಚರಿತ ದೀಪ ಸಂಯೋಜನ ಅಖಂಡ ದೀಪ ಸ್ಥಾಪನ ಪೂಜನೇನ ಭಗವಾನ್ ಅಸ್ಮತ್ ಕುಲದೇವತಾಂ ತರ್ಪಯಾಮಿ, ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ನೇರಾಕಿನ್ ಬಿಟ್ಟುಟ್ರಿ. ಶ್ರೀ ಲಕ್ಷ್ಮೀ ನಾರಾಯಣ...",
+      "mappedSectionIds": [
+        "vidhi-27",
+        "vidhi-28"
+      ],
+      "mappedSectionTitles": [
+        "Seated prayers to Śrīnivāsa, Narasiṃha and Durgā",
+        "Dedication of the first-day lamp worship"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-27",
+          "notes": "All acoustic ASR outputs hear dānavāraṇya pālake / jñānadāgine / sadveśe. Here pāvake/jñānadāyini are provisional intelligible readings, not certified. Entire verse requires close listening."
+        },
+        {
+          "sectionId": "vidhi-27",
+          "notes": "Severe unresolved exact reading in final Manyu prayer. GPT gives varuṇasya manyuḥ and bhiyam dadānaḥ hṛdayeṣu śatrā/aparājitāśo; current Sanskrit reconstruction and meaning explicitly provisional, not claimed acoustic exactness."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 20,
+      "startSeconds": 760.0,
+      "endSeconds": 805.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-020-transcript.json",
+      "rawTranscriptText": "ಅದ್ಯಾಮಿ ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ನೇರಾಕೆನ್ ಬಿಟ್ಟುಟ್ರಿ. ಶ್ರೀ ಲಕ್ಷ್ಮೀ ನಾರಾಯಣ ಪ್ರೀಯತಾಂ, ಶ್ರೀ ಕೃಷ್ಣಾರ್ಪಣಮಸ್ತು. ಇದು ಇದನ್ನ ಗಮನಿಸಿಕೊಳ್ಳೋದು ಮನೆಯಲ್ಲಿರುವ ಹೆಡ್ ಯಾರು, ಮನೆಯವರು. ಅವರು ಈ ದೀಪ ಶ್ರೀಗು ಉರಿತಾದ ಯಾಂಬೋದಕ್ಕೆ ಅವರೇ ಜವಾಬ್ದಾರಿ. ನವರಾತ್ರಿಯಲ್ಲಿ ಒಂಬತ್ತು ದಿನಗಳು ಇದು ಉರಿಬೇಕು, ಹತ್ತನೇ ದಿನದವರೆಗೂ, ಅಂದರೆ ಹತ್ತಿನಾಕು ಗಂಟೆ ಒತ್ತುವಂತ ಟೈಮ್. ಈಗ ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಎಂಟು ಗಂಟೆಗೆ ಆರಂಭಿಸ್ರೆ ಇಪ್ಪತ್ತನೇ ತೇದಿ, ಅಂದರೆ ಅಥವಾ ಇಪ್ಪತ್ತೊಂದನೇ ತೇದಿ ಬೆಳಿಗ್ಗೆ ಎಂಟು ಗಂಟೆವರೆಗೂ ಬಿಡದೆ ಉರಿಬೇಕು. ಅದೇನಾದ್ರೆ ಹೆಚ್ಚು ಕಮ್ಮಿ ಆದ್ರೆ ಮಡಿಯಿಂದ ಮಾತ್ರ ಹೋಗಿ ಅದನ್ನ ಮಡಿ ಉಟ್ಟುಕೊಂಡು ಅದನ್ನ ಏರ್ಸಿಬಿಡೋದು, ಎಣ್ಣೆ ಹಾಕೋದು.",
+      "mappedSectionIds": [
+        "vidhi-28",
+        "vidhi-29"
+      ],
+      "mappedSectionTitles": [
+        "Dedication of the first-day lamp worship",
+        "Householder responsibility and continuous lamp care"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-29",
+          "notes": "Recorded dates/tomorrow are historical examples. Hour count remains unresolved; no contextual silent correction."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 21,
+      "startSeconds": 800.0,
+      "endSeconds": 845.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-021-transcript.json",
+      "rawTranscriptText": "ಮಡಿ ಉಟ್ಟುಕೊಂಡು ಅದನ್ನ ಏರ್ಸಿಬಿಡೋದು, ಎಣ್ಣೆ ಹಾಕೋದು, ಬತ್ತಿಯನ್ನ ಸರಿಮಾಡೋದು, ಇದನ್ನೆಲ್ಲ ಮಾಡಬೇಕು. ಸಂಜೆ ಸಂಜೆ ನಿಮ್ಮಿಂದ ಏನು ವಿಷ್ಣು ಸಹಸ್ರನಾಮ, ಏನು ನಿಮಗೆ ಬರ್ತೆ ಅದನ್ನ ಪಾರಾಯಣ ಮಾಡಿ, ಒಳ್ಳೆ ಒಂದು ವಿಶೇಷವಾದ ಅನುಗ್ರಹ ನಮಗಾಗಲಿ ಅಂತ ಪ್ರಾರ್ಥನೆಯನ್ನ ಮಾಡಿ. ಬೆಳಿಗ್ಗೆ ನಾಳೆ ಎಂಟು ಗಂಟೆಯಿಂದ ಹತ್ತು ಗಂಟೆವರೆಗೂ ಟೈಮ್ ಚೆನ್ನಾಗಿದೆ. ಎಂಟು ಗಂಟೆಯಿಂದ ಹತ್ತು ಗಂಟೆವರೆಗೂ ಟೈಮ್ ಚೆನ್ನಾಗಿದೆ. ಆ ಟೈಮಲ್ಲಿ ಇದನ್ನ ಮಾಡ್ಬೌದು. ಮುಂದೆ ಸರಸ್ವತಿಯ ವಾಹನ, ಸರಸ್ವತಿಯ ಪೂಜೆ ವಿಡಿಯೋಗಳಲ್ಲಿ ಮತ್ತು ನಿಮ್ಮನ್ನ ಬೆಟ್ಟಿ ಮಾಡ್ತೇನೆ. ನಿಮ್ಮ ಆದರಕ್ಕೆ ನನ್ನ ಹೃದಯಪೂರ್ವಕವಾದ ನನ್ನ ಪ್ರೀತಿಯ...",
+      "mappedSectionIds": [
+        "vidhi-29",
+        "vidhi-30",
+        "vidhi-31"
+      ],
+      "mappedSectionTitles": [
+        "Householder responsibility and continuous lamp care",
+        "Evening recitation and recorded auspicious-time advice",
+        "Next-video announcement and closing thanks"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-29",
+          "notes": "Recorded dates/tomorrow are historical examples. Hour count remains unresolved; no contextual silent correction."
+        },
+        {
+          "sectionId": "vidhi-30",
+          "notes": "Repeated time advice preserved. “Tomorrow” is relative to the original recording, not today’s auspicious-time advice."
+        },
+        {
+          "sectionId": "vidhi-31",
+          "notes": "Final audio end is850.617; captions overrun852.32. Last Śrī Kṛṣṇa retained separately from Kannada thanks."
+        }
+      ]
+    },
+    {
+      "chunkIndex": 22,
+      "startSeconds": 840.0,
+      "endSeconds": 850.617,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/gpt-fine/original-part-022-transcript.json",
+      "rawTranscriptText": "ನಿಮ್ಮ ಆದರಕ್ಕೆ ನನ್ನ ಹೃದಯ ಪೂರ್ವಕವಾದ, ನನ್ನ ಪ್ರೀತಿಯ ಸಬ್ಸ್ಕ್ರೈಬರ್ ಎಲ್ಲರಿಗೂ, ಪ್ರೀತಿಯ ಮಾದ್ವ ಬಂಧುಗಳು ಎಲ್ಲರಿಗೂ ನನ್ನ ಧನ್ಯವಾದಗಳು. ಶ್ರೀಕೃಷ್ಣ.",
+      "mappedSectionIds": [
+        "vidhi-31"
+      ],
+      "mappedSectionTitles": [
+        "Next-video announcement and closing thanks"
+      ],
+      "manualClauseAudit": "All visible ritual/explanatory clauses in this window are represented by mapped sections, including alternatives, repetitions, announcements and thanks. This is semantic coverage, not proof of exact lexical identity.",
+      "boundaryRepetitions": "Overlapping5s belong to the same source occurrence; do not append each overlapping raw window to reconciled source. Actual source repetitions preserved in section blocks.",
+      "openLexicalIssues": [
+        {
+          "sectionId": "vidhi-31",
+          "notes": "Final audio end is850.617; captions overrun852.32. Last Śrī Kṛṣṇa retained separately from Kannada thanks."
+        }
+      ]
+    }
+  ],
+  "unplacedSpokenClauses": "No whole ritual or explanatory clause identified as omitted; minor filler/colloquial inflection exactness remains subject to acoustic review.",
+  "wholeSourceNonSpeech": "Music/opening underlay and inferred .00–.56 opening lead-in retained in media; not represented as fabricated source words."
+}
