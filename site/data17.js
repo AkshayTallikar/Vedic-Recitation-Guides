@@ -1,4 +1,4 @@
-// One combined Saraswati guide; raw witnesses are preserved in backups/guide-saraswati-puja-evidence.
+// Three original recording timelines; selected mantra readings reviewed against the supplied PDF.
 (window.GUIDES = window.GUIDES || []).push({
   "key": "saraswati-puja",
   "title": "Saraswati Puja",
@@ -3269,7 +3269,7 @@
           "role": "recitation",
           "sourceOriginal": "oṁ kapilāya namaḥ\npurodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir vyāpta samasta lokaṁ\njñānābhayādi takaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ\ndhyāyed ajādi ajādi samitiṁ pratibodhayantaṁ\noṁ kaṁ kapilāya namaḥ oṁ daṁ dattātreyāya namaḥ asmin pustake kapila dattātreyaṁ āvāhayāmi\n",
           "sourceRoman": "oṁ kapilāya namaḥ\npurodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir vyāpta samasta lokaṁ\njñānābhayādi takaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ\ndhyāyed ajādi ajādi samitiṁ pratibodhayantaṁ\noṁ kaṁ kapilāya namaḥ oṁ daṁ dattātreyāya namaḥ asmin pustake kapila dattātreyaṁ āvāhayāmi\n",
-          "text": "oṁ kapilāya namaḥ\npurodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir vyāpta samasta lokaṁ\njñānābhayādi takaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ\ndhyāyed ajādi ajādi samitiṁ pratibodhayantaṁ\noṁ kaṁ kapilāya namaḥ oṁ daṁ dattātreyāya namaḥ asmin pustake kapila dattātreyaṁ āvāhayāmi",
+          "text": "oṁ kapilāya namaḥ\nprodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir āpta samasta lokaṁ\njñānābhayāṅkitakaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ\ndhyāyed ajādi ajādi samitiṁ pratibodhayantaṁ\noṁ kaṁ kapilāya namaḥ oṁ daṁ dattātreyāya namaḥ asmin pustake kapila dattātreyaṁ āvāhayāmi",
           "gloss": {
             "lines": [
               {
@@ -3305,12 +3305,12 @@
                 "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
               },
               {
-                "text": "purodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir vyāpta samasta lokaṁ",
-                "meaning": "Of a form like the rising sun, pervading all worlds with the great rays of a thousand suns.",
+                "text": "prodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir āpta samasta lokaṁ",
+                "meaning": "Of a form like the rising sun, whose great radiance, like that of a thousand suns, reaches or pervades all worlds.",
                 "words": [
                   {
-                    "text": "purodyad",
-                    "meaning": "rising before"
+                    "text": "prodyad",
+                    "meaning": "rising"
                   },
                   {
                     "text": "divākara",
@@ -3333,8 +3333,8 @@
                     "meaning": "with rays"
                   },
                   {
-                    "text": "vyāpta",
-                    "meaning": "pervaded"
+                    "text": "āpta",
+                    "meaning": "reached or pervaded; in āpta-samasta-loka, describes the worlds reached by his rays"
                   },
                   {
                     "text": "samasta",
@@ -3363,27 +3363,51 @@
                     "avahana-word-0335"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 4,
+                    "passage": "prodyaddivākara-samānatanuṃ sahasra-sūryorudīdhitibhir āpta-samastalokam",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "purodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir vyāpta samasta lokaṁ",
+                  "afterText": "prodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir āpta samasta lokaṁ",
+                  "notes": "PDF supports prodyad and the dīdhitibhir āpta join. This repairs the noisy displayed lexical parsing without removing either part of the recorded verse or changing its line window.",
+                  "confidence": "context-supported",
+                  "acousticEvidence": {
+                    "files": [
+                      "work/saraswati-puja/avahana/gpt-fine/original-part-008-transcript.json",
+                      "work/saraswati-puja/avahana/gpt-fine/original-part-009-transcript.json",
+                      "work/saraswati-puja/avahana/gpt/original-part-002-transcript.json",
+                      "work/saraswati-puja/avahana/reconciled/kapila-gpt4o.json"
+                    ],
+                    "observedReading": "purodyad/dīpākara … dīdhiti … virāpta samasta lokam; the noisy virāpta can resolve as bhir āpta rather than an independent vyāpta word",
+                    "nativeIntervalSeconds": [
+                      313.199,
+                      323.68
+                    ],
+                    "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
-                "text": "jñānābhayādi takaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ",
-                "meaning": "Kapila and Datta, with knowledge and fearlessness in the hands; the speaker restarts the knowledge/fearlessness expression.",
+                "text": "jñānābhayāṅkitakaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ",
+                "meaning": "Kapila and Datta, whose hands bear the signs of knowledge and fearlessness; the speaker then restarts that expression, with the second joining still uncertain.",
                 "words": [
                   {
-                    "text": "jñānābhayādi",
-                    "meaning": "knowledge and fearlessness expression at the restart"
-                  },
-                  {
-                    "text": "takaraṁ",
-                    "meaning": "fragment completing the hands-related expression"
+                    "text": "jñānābhayāṅkitakaraṁ",
+                    "meaning": "hands marked with knowledge and fearlessness gestures"
                   },
                   {
                     "text": "jñānādi",
-                    "meaning": "knowledge-related restart"
+                    "meaning": "recorded knowledge-related restart"
                   },
                   {
                     "text": "bhayāntikaraṁ",
-                    "meaning": "recorded fear-ending expression"
+                    "meaning": "recorded continuation of the restarted fearlessness/hand expression, exact form uncertain"
                   },
                   {
                     "text": "kapilaś",
@@ -3413,7 +3437,34 @@
                     "avahana-word-0340"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 4,
+                    "passage": "jñānābhayāṅkitakaraṃ kapilaṃ ca dattaṃ",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "jñānābhayādi takaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ",
+                  "afterText": "jñānābhayāṅkitakaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ",
+                  "notes": "Repair only the first damaged hand compound with the PDF. Keep the second jñānādi/bhayāntikaraṁ restart and the recorded kapilaś form; do not replace the whole line with the booklet’s smooth single occurrence. The second restart remains explicitly uncertain.",
+                  "confidence": "reference-supported first-compound repair; second restart deliberately retained",
+                  "acousticEvidence": {
+                    "files": [
+                      "work/saraswati-puja/avahana/gpt-fine/original-part-009-transcript.json",
+                      "work/saraswati-puja/avahana/gpt/original-part-002-transcript.json",
+                      "work/saraswati-puja/avahana/reconciled/kapila-gpt4o.json"
+                    ],
+                    "observedReading": "jñānābhayādikaṁ takaraṁ, jñānādi bhayāntikaraṁ, kapilaś ca dattaṁ; native similarly splits first expression around takara",
+                    "nativeIntervalSeconds": [
+                      323.68,
+                      330.96
+                    ],
+                    "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "dhyāyed ajādi ajādi samitiṁ pratibodhayantaṁ",
@@ -3539,12 +3590,28 @@
               }
             ]
           },
-          "notes": "The Kapila-Dattatreya verse contains audible restarts around the knowledge/fearlessness and Aja-assembly phrases. Both model passes and an independent targeted model are noisy there; the displayed phonetic joins remain provisional. No omitted continuation is supplied from a text.",
+          "notes": "The Kapila-Dattatreya verse contains audible restarts around the knowledge/fearlessness and Aja-assembly phrases. Both model passes and an independent targeted model are noisy there; the displayed phonetic joins remain provisional. No omitted continuation is supplied from a text.\nText reference review: PDF p. 4: PDF supports prodyad and the dīdhitibhir āpta join. This repairs the noisy displayed lexical parsing without removing either part of the recorded verse or changing its line window. PDF p. 4: Repair only the first damaged hand compound with the PDF. Keep the second jñānādi/bhayāntikaraṁ restart and the recorded kapilaś form; do not replace the whole line with the booklet’s smooth single occurrence. The second restart remains explicitly uncertain.",
           "id": "A07-block-02",
           "sourceSegmentIds": [
             "A07-block-02"
           ],
-          "integrationSegmentId": "avahana-07-002"
+          "integrationSegmentId": "avahana-07-002",
+          "referenceCorrections": [
+            {
+              "lineIndex": 1,
+              "before": "purodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir vyāpta samasta lokaṁ",
+              "after": "prodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir āpta samasta lokaṁ",
+              "page": 4,
+              "notes": "PDF supports prodyad and the dīdhitibhir āpta join. This repairs the noisy displayed lexical parsing without removing either part of the recorded verse or changing its line window."
+            },
+            {
+              "lineIndex": 2,
+              "before": "jñānābhayādi takaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ",
+              "after": "jñānābhayāṅkitakaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ",
+              "page": 4,
+              "notes": "Repair only the first damaged hand compound with the PDF. Keep the second jñānādi/bhayāntikaraṁ restart and the recorded kapilaś form; do not replace the whole line with the booklet’s smooth single occurrence. The second restart remains explicitly uncertain."
+            }
+          ]
         }
       ],
       "contemplate": "Contemplate Kapila and Dattatreya, sun-like and awakening the divine assembly, as described in the retained meditation.",
@@ -3673,7 +3740,8 @@
       "audioEndSeconds": 346.719,
       "audioFile": "audio17/07-avahana-kapila-and-dattatreya.mp3",
       "audio": true,
-      "mantra": "oṁ kapilāya namaḥ\npurodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir vyāpta samasta lokaṁ\njñānābhayādi takaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ\ndhyāyed ajādi ajādi samitiṁ pratibodhayantaṁ\noṁ kaṁ kapilāya namaḥ oṁ daṁ dattātreyāya namaḥ asmin pustake kapila dattātreyaṁ āvāhayāmi"
+      "mantra": "oṁ kapilāya namaḥ\nprodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir āpta samasta lokaṁ\njñānābhayāṅkitakaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ\ndhyāyed ajādi ajādi samitiṁ pratibodhayantaṁ\noṁ kaṁ kapilāya namaḥ oṁ daṁ dattātreyāya namaḥ asmin pustake kapila dattātreyaṁ āvāhayāmi",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=4\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 4)</a></div>"
     },
     {
       "id": "08",
@@ -4362,24 +4430,20 @@
           "role": "recitation",
           "sourceOriginal": "śyāmaṁ ravīndum iti dīdhitikāntiyuktaṁ\njñānaṁ śaraṁ ca dadhataṁ priyayā sametaṁ\nsvātmasvarūpam amitaṁ hanumanmukheṣu sandarśayantaṁ ajitaṁ smaratorugīrbhiḥ\noṁ rāṁ rāmāya namaḥ\n",
           "sourceRoman": "śyāmaṁ ravīndum iti dīdhitikāntiyuktaṁ\njñānaṁ śaraṁ ca dadhataṁ priyayā sametaṁ\nsvātmasvarūpam amitaṁ hanumanmukheṣu sandarśayantaṁ ajitaṁ smaratorugīrbhiḥ\noṁ rāṁ rāmāya namaḥ\n",
-          "text": "śyāmaṁ ravīndum iti dīdhitikāntiyuktaṁ\njñānaṁ śaraṁ ca dadhataṁ priyayā sametaṁ\nsvātmasvarūpam amitaṁ hanumanmukheṣu sandarśayantaṁ ajitaṁ smaratorugīrbhiḥ\noṁ rāṁ rāmāya namaḥ",
+          "text": "śyāmaṁ ravīndvamita dīdhitikāntiyuktaṁ\njñānaṁ śaraṁ ca dadhataṁ priyayā sametaṁ\nsvātmasvarūpam amitaṁ hanumanmukheṣu sandarśayantaṁ ajitaṁ smaratorugīrbhiḥ\noṁ rāṁ rāmāya namaḥ",
           "gloss": {
             "lines": [
               {
-                "text": "śyāmaṁ ravīndum iti dīdhitikāntiyuktaṁ",
-                "meaning": "Dark-hued, endowed with the brilliance of sun and moon; the linking wording is retained provisionally.",
+                "text": "śyāmaṁ ravīndvamita dīdhitikāntiyuktaṁ",
+                "meaning": "Dark-hued, endowed with immeasurable radiance like the sun and moon.",
                 "words": [
                   {
                     "text": "śyāmaṁ",
                     "meaning": "dark-hued"
                   },
                   {
-                    "text": "ravīndum",
-                    "meaning": "sun and moon expression"
-                  },
-                  {
-                    "text": "iti",
-                    "meaning": "thus, recorded intervening sound"
+                    "text": "ravīndvamita",
+                    "meaning": "sun-and-moon-like, immeasurable; ravi plus indu plus amita, the PDF’s qualified textual repair"
                   },
                   {
                     "text": "dīdhitikāntiyuktaṁ",
@@ -4400,7 +4464,33 @@
                     "avahana-word-0402"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 4,
+                    "passage": "śyāmaṃ ravīndvamita-dīdhitikāntiyuktaṃ; text note identifies this as repair of printed ravīndramita",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "śyāmaṁ ravīndum iti dīdhitikāntiyuktaṁ",
+                  "afterText": "śyāmaṁ ravīndvamita dīdhitikāntiyuktaṁ",
+                  "notes": "Adopt the PDF’s explicitly qualified ravīndvamita lexical reading for the noisy ravīndum iti join. The PDF’s suggested repair is documented; it does not establish an independently heard long vowel. The source strings stay unchanged.",
+                  "confidence": "qualified PDF repair supported by acoustic context",
+                  "acousticEvidence": {
+                    "files": [
+                      "work/saraswati-puja/avahana/gpt-fine/original-part-010-transcript.json",
+                      "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json"
+                    ],
+                    "observedReading": "śyāmaṁ ravīndu mīti dīdhitikāntiyuktaṁ; native ravindu mīti shows the same continuous noisy join",
+                    "nativeIntervalSeconds": [
+                      385.12,
+                      389.28
+                    ],
+                    "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "jñānaṁ śaraṁ ca dadhataṁ priyayā sametaṁ",
@@ -4532,12 +4622,21 @@
               }
             ]
           },
-          "notes": "The sun/moon joining phrase sounds ravīndum iti across witnesses. Its exact sandhi and the final great-praise phrase remain provisional.",
+          "notes": "The sun/moon joining phrase sounds ravīndum iti across witnesses. Its exact sandhi and the final great-praise phrase remain provisional.\nText reference review: PDF p. 4: Adopt the PDF’s explicitly qualified ravīndvamita lexical reading for the noisy ravīndum iti join. The PDF’s suggested repair is documented; it does not establish an independently heard long vowel. The source strings stay unchanged.",
           "id": "A09-block-02",
           "sourceSegmentIds": [
             "A09-block-02"
           ],
-          "integrationSegmentId": "avahana-09-002"
+          "integrationSegmentId": "avahana-09-002",
+          "referenceCorrections": [
+            {
+              "lineIndex": 0,
+              "before": "śyāmaṁ ravīndum iti dīdhitikāntiyuktaṁ",
+              "after": "śyāmaṁ ravīndvamita dīdhitikāntiyuktaṁ",
+              "page": 4,
+              "notes": "Adopt the PDF’s explicitly qualified ravīndvamita lexical reading for the noisy ravīndum iti join. The PDF’s suggested repair is documented; it does not establish an independently heard long vowel. The source strings stay unchanged."
+            }
+          ]
         },
         {
           "kind": "action",
@@ -4872,7 +4971,8 @@
       "audioEndSeconds": 404.09,
       "audioFile": "audio17/09-avahana-rama.mp3",
       "audio": true,
-      "mantra": "śyāmaṁ ravīndum iti dīdhitikāntiyuktaṁ\njñānaṁ śaraṁ ca dadhataṁ priyayā sametaṁ\nsvātmasvarūpam amitaṁ hanumanmukheṣu sandarśayantaṁ ajitaṁ smaratorugīrbhiḥ\noṁ rāṁ rāmāya namaḥ\n\nrāmaṁ āvāhayāmi"
+      "mantra": "śyāmaṁ ravīndvamita dīdhitikāntiyuktaṁ\njñānaṁ śaraṁ ca dadhataṁ priyayā sametaṁ\nsvātmasvarūpam amitaṁ hanumanmukheṣu sandarśayantaṁ ajitaṁ smaratorugīrbhiḥ\noṁ rāṁ rāmāya namaḥ\n\nrāmaṁ āvāhayāmi",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=4\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 4)</a></div>"
     },
     {
       "id": "10",
@@ -4996,20 +5096,24 @@
           "role": "recitation",
           "sourceOriginal": "dhyāyet harirmaṇinibhaṁ jagadekavandyaṁ\nsaundaryasāram ariśaṅkhavarābhayāni dorbhir dadhānam ajitaṁ sarasaṁ ca bhaiṣmī satyāsametam akhilapradam indireśaṁ\noṁ klīṁ kṛṣṇāya namaḥ kṛṣṇaṁ dhyāyāmi\n",
           "sourceRoman": "dhyāyet harirmaṇinibhaṁ jagadekavandyaṁ\nsaundaryasāram ariśaṅkhavarābhayāni dorbhir dadhānam ajitaṁ sarasaṁ ca bhaiṣmī satyāsametam akhilapradam indireśaṁ\noṁ klīṁ kṛṣṇāya namaḥ kṛṣṇaṁ dhyāyāmi\n",
-          "text": "dhyāyet harirmaṇinibhaṁ jagadekavandyaṁ\nsaundaryasāram ariśaṅkhavarābhayāni dorbhir dadhānam ajitaṁ sarasaṁ ca bhaiṣmī satyāsametam akhilapradam indireśaṁ\noṁ klīṁ kṛṣṇāya namaḥ kṛṣṇaṁ dhyāyāmi",
+          "text": "dhyāyed dhariṁ maṇinibhaṁ jagadekavandyaṁ\nsaundaryasāram ariśaṅkhavarābhayāni dorbhir dadhānam ajitaṁ sarasaṁ ca bhaiṣmī satyāsametam akhilapradam indireśaṁ\noṁ klīṁ kṛṣṇāya namaḥ kṛṣṇaṁ dhyāyāmi",
           "gloss": {
             "lines": [
               {
-                "text": "dhyāyet harirmaṇinibhaṁ jagadekavandyaṁ",
-                "meaning": "Meditate on the gem-like Lord revered by the whole world; harirmaṇi is the acoustic reading.",
+                "text": "dhyāyed dhariṁ maṇinibhaṁ jagadekavandyaṁ",
+                "meaning": "Meditate on Hari, radiant like a jewel, uniquely revered by the whole world.",
                 "words": [
                   {
-                    "text": "dhyāyet",
+                    "text": "dhyāyed",
                     "meaning": "one should meditate"
                   },
                   {
-                    "text": "harirmaṇinibhaṁ",
-                    "meaning": "resembling a gem, with hari/darin onset varying in witnesses"
+                    "text": "dhariṁ",
+                    "meaning": "Hari in the dhyāyed-dhariṁ sandhi, accusative harim"
+                  },
+                  {
+                    "text": "maṇinibhaṁ",
+                    "meaning": "resembling a jewel"
                   },
                   {
                     "text": "jagadekavandyaṁ",
@@ -5029,7 +5133,33 @@
                     "avahana-word-0424"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 5,
+                    "passage": "dhyāyed dhariṃ maṇinibhaṃ jagadekavandyaṃ",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "dhyāyet harirmaṇinibhaṁ jagadekavandyaṁ",
+                  "afterText": "dhyāyed dhariṁ maṇinibhaṁ jagadekavandyaṁ",
+                  "notes": "The PDF resolves the noisy combined harirmaṇinibhaṁ as Hari followed by the jewel comparison. This is lexical resegmentation of the same recorded phrase, not addition of a new deity or an unspoken line.",
+                  "confidence": "context-supported",
+                  "acousticEvidence": {
+                    "files": [
+                      "work/saraswati-puja/avahana/gpt-fine/original-part-011-transcript.json",
+                      "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json"
+                    ],
+                    "observedReading": "dhyāyet harir-maṇibhaṁ/jagadeka-bandyaṁ; native yāyat harirmaṇiṁ",
+                    "nativeIntervalSeconds": [
+                      405.44,
+                      408.72
+                    ],
+                    "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "saundaryasāram ariśaṅkhavarābhayāni dorbhir dadhānam ajitaṁ sarasaṁ ca bhaiṣmī satyāsametam akhilapradam indireśaṁ",
@@ -5149,12 +5279,21 @@
               }
             ]
           },
-          "notes": "The gem-comparison opening sounds harirmaṇi across witnesses; the reference text has darinmaṇi. The acoustic reading is retained rather than silently replacing it.",
+          "notes": "The gem-comparison opening sounds harirmaṇi across witnesses; the reference text has darinmaṇi. The acoustic reading is retained rather than silently replacing it.\nText reference review: PDF p. 5: The PDF resolves the noisy combined harirmaṇinibhaṁ as Hari followed by the jewel comparison. This is lexical resegmentation of the same recorded phrase, not addition of a new deity or an unspoken line.",
           "id": "A10-block-02",
           "sourceSegmentIds": [
             "A10-block-02"
           ],
-          "integrationSegmentId": "avahana-10-002"
+          "integrationSegmentId": "avahana-10-002",
+          "referenceCorrections": [
+            {
+              "lineIndex": 0,
+              "before": "dhyāyet harirmaṇinibhaṁ jagadekavandyaṁ",
+              "after": "dhyāyed dhariṁ maṇinibhaṁ jagadekavandyaṁ",
+              "page": 5,
+              "notes": "The PDF resolves the noisy combined harirmaṇinibhaṁ as Hari followed by the jewel comparison. This is lexical resegmentation of the same recorded phrase, not addition of a new deity or an unspoken line."
+            }
+          ]
         }
       ],
       "contemplate": "Contemplate Krishna, the essence of beauty, bearing discus and conch with boon and fearlessness, accompanied by Bhaishmi and Satya.",
@@ -5282,7 +5421,8 @@
       "audioEndSeconds": 421.439,
       "audioFile": "audio17/10-avahana-krishna.mp3",
       "audio": true,
-      "mantra": "dhyāyet harirmaṇinibhaṁ jagadekavandyaṁ\nsaundaryasāram ariśaṅkhavarābhayāni dorbhir dadhānam ajitaṁ sarasaṁ ca bhaiṣmī satyāsametam akhilapradam indireśaṁ\noṁ klīṁ kṛṣṇāya namaḥ kṛṣṇaṁ dhyāyāmi"
+      "mantra": "dhyāyed dhariṁ maṇinibhaṁ jagadekavandyaṁ\nsaundaryasāram ariśaṅkhavarābhayāni dorbhir dadhānam ajitaṁ sarasaṁ ca bhaiṣmī satyāsametam akhilapradam indireśaṁ\noṁ klīṁ kṛṣṇāya namaḥ kṛṣṇaṁ dhyāyāmi",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=5\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 5)</a></div>"
     },
     {
       "id": "11",
@@ -5411,12 +5551,12 @@
           "role": "recitation",
           "sourceOriginal": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhaṁ dhanurdharam ekavīraṁ\ndhyāyed ajeśa puruhūtamukhaiḥ stuvadbhir āvītam ātmapadavīṁ pratipādayantaṁ\nbhāṁ bhārgavāya namaḥ paraśurāmaṁ dhyāyāmi\n",
           "sourceRoman": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhaṁ dhanurdharam ekavīraṁ\ndhyāyed ajeśa puruhūtamukhaiḥ stuvadbhir āvītam ātmapadavīṁ pratipādayantaṁ\nbhāṁ bhārgavāya namaḥ paraśurāmaṁ dhyāyāmi\n",
-          "text": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhaṁ dhanurdharam ekavīraṁ\ndhyāyed ajeśa puruhūtamukhaiḥ stuvadbhir āvītam ātmapadavīṁ pratipādayantaṁ\nbhāṁ bhārgavāya namaḥ paraśurāmaṁ dhyāyāmi",
+          "text": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhadhanurdharam ekavīraṁ\ndhyāyed ajeśa puruhūtamukhaiḥ stuvadbhir āvītam ātmapadavīṁ pratipādayantaṁ\nbhāṁ bhārgavāya namaḥ paraśurāmaṁ dhyāyāmi",
           "gloss": {
             "lines": [
               {
-                "text": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhaṁ dhanurdharam ekavīraṁ",
-                "meaning": "Ember-colored, spreading brilliance outside the cosmic egg, bearing axe and bow, the unique hero.",
+                "text": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhadhanurdharam ekavīraṁ",
+                "meaning": "Ember-colored, with radiance extending all around beyond the cosmic sphere, bearing axe and bow, the unique hero.",
                 "words": [
                   {
                     "text": "aṅgāravarṇam",
@@ -5439,12 +5579,8 @@
                     "meaning": "pervaded"
                   },
                   {
-                    "text": "paraśvadhaṁ",
-                    "meaning": "axe"
-                  },
-                  {
-                    "text": "dhanurdharam",
-                    "meaning": "bow bearer"
+                    "text": "paraśvadhadhanurdharam",
+                    "meaning": "bearer of axe and bow, paraśvadha plus dhanus plus dhara"
                   },
                   {
                     "text": "ekavīraṁ",
@@ -5470,7 +5606,33 @@
                     "avahana-word-0449"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 5,
+                    "passage": "aṅgāravarṇam abhito 'ṇḍabahiḥ prabhābhiḥ vyāptaṃ paraśvadhadhanurdharam ekavīram",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhaṁ dhanurdharam ekavīraṁ",
+                  "afterText": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhadhanurdharam ekavīraṁ",
+                  "notes": "Use the PDF-supported axe-and-bow bearer compound instead of a detached accusative axe followed by only a bow-bearer. Keep the recorded outside-cosmic-sphere sequence and original line split. Do not add the booklet’s Om or invocation after this verse.",
+                  "confidence": "context-supported",
+                  "acousticEvidence": {
+                    "files": [
+                      "work/saraswati-puja/avahana/gpt-fine/original-part-011-transcript.json",
+                      "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json"
+                    ],
+                    "observedReading": "paraśvataṁ/paraśvataṁ dhanuṛdharam ekavīram; native same axe-followed-by-bow sequence",
+                    "nativeIntervalSeconds": [
+                      422.72,
+                      431.12
+                    ],
+                    "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "dhyāyed ajeśa puruhūtamukhaiḥ stuvadbhir āvītam ātmapadavīṁ pratipādayantaṁ",
@@ -5571,7 +5733,17 @@
           "sourceSegmentIds": [
             "A11-block-02"
           ],
-          "integrationSegmentId": "avahana-11-002"
+          "integrationSegmentId": "avahana-11-002",
+          "referenceCorrections": [
+            {
+              "lineIndex": 0,
+              "before": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhaṁ dhanurdharam ekavīraṁ",
+              "after": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhadhanurdharam ekavīraṁ",
+              "page": 5,
+              "notes": "Use the PDF-supported axe-and-bow bearer compound instead of a detached accusative axe followed by only a bow-bearer. Keep the recorded outside-cosmic-sphere sequence and original line split. Do not add the booklet’s Om or invocation after this verse."
+            }
+          ],
+          "notes": "Text reference review: PDF p. 5: Use the PDF-supported axe-and-bow bearer compound instead of a detached accusative axe followed by only a bow-bearer. Keep the recorded outside-cosmic-sphere sequence and original line split. Do not add the booklet’s Om or invocation after this verse."
         }
       ],
       "contemplate": "Contemplate the ember-colored Parashurama bearing axe and bow, praised by the gods.",
@@ -5699,7 +5871,8 @@
       "audioEndSeconds": 441.449,
       "audioFile": "audio17/11-avahana-parashurama.mp3",
       "audio": true,
-      "mantra": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhaṁ dhanurdharam ekavīraṁ\ndhyāyed ajeśa puruhūtamukhaiḥ stuvadbhir āvītam ātmapadavīṁ pratipādayantaṁ\nbhāṁ bhārgavāya namaḥ paraśurāmaṁ dhyāyāmi"
+      "mantra": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhadhanurdharam ekavīraṁ\ndhyāyed ajeśa puruhūtamukhaiḥ stuvadbhir āvītam ātmapadavīṁ pratipādayantaṁ\nbhāṁ bhārgavāya namaḥ paraśurāmaṁ dhyāyāmi",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=5\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 5)</a></div>"
     },
     {
       "id": "12",
@@ -5828,7 +6001,7 @@
           "role": "recitation",
           "sourceOriginal": "dhyāyen nṛsiṁham uruvṛtta ravitrinetraṁ jānuprasaktakarayugmam athāparābhyāṁ\ncakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agraśaktiṁ\nugraṁ vīraṁ mahāviṣṇuṁ jvalantaṁ sarvatomukhaṁ nṛsiṁhaṁ bhīṣaṇaṁ bhadraṁ mṛtyumṛtyuṁ namāmyahaṁ\nlakṣmī nṛsiṁhaṁ dhyāyāmi āvāhayāmi\n",
           "sourceRoman": "dhyāyen nṛsiṁham uruvṛtta ravitrinetraṁ jānuprasaktakarayugmam athāparābhyāṁ\ncakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agraśaktiṁ\nugraṁ vīraṁ mahāviṣṇuṁ jvalantaṁ sarvatomukhaṁ nṛsiṁhaṁ bhīṣaṇaṁ bhadraṁ mṛtyumṛtyuṁ namāmyahaṁ\nlakṣmī nṛsiṁhaṁ dhyāyāmi āvāhayāmi\n",
-          "text": "dhyāyen nṛsiṁham uruvṛtta ravitrinetraṁ jānuprasaktakarayugmam athāparābhyāṁ\ncakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agraśaktiṁ\nugraṁ vīraṁ mahāviṣṇuṁ jvalantaṁ sarvatomukhaṁ nṛsiṁhaṁ bhīṣaṇaṁ bhadraṁ mṛtyumṛtyuṁ namāmyahaṁ\nlakṣmī nṛsiṁhaṁ dhyāyāmi āvāhayāmi",
+          "text": "dhyāyen nṛsiṁham uruvṛtta ravitrinetraṁ jānuprasaktakarayugmam athāparābhyāṁ\ncakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agryaśaktiṁ\nugraṁ vīraṁ mahāviṣṇuṁ jvalantaṁ sarvatomukhaṁ nṛsiṁhaṁ bhīṣaṇaṁ bhadraṁ mṛtyumṛtyuṁ namāmyahaṁ\nlakṣmī nṛsiṁhaṁ dhyāyāmi āvāhayāmi",
           "gloss": {
             "lines": [
               {
@@ -5878,8 +6051,8 @@
                 "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
               },
               {
-                "text": "cakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agraśaktiṁ",
-                "meaning": "Bearing discus and conch, accompanied by the beloved, with radiance greater than millions of suns and foremost power.",
+                "text": "cakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agryaśaktiṁ",
+                "meaning": "Bearing discus and conch, accompanied by the beloved, with radiance surpassing ten million suns and supreme power.",
                 "words": [
                   {
                     "text": "cakraṁ",
@@ -5907,11 +6080,11 @@
                   },
                   {
                     "text": "tigmāṁśukoṭyadhikatejasam",
-                    "meaning": "radiance surpassing millions of suns"
+                    "meaning": "whose brilliance exceeds that of a crore (ten million) suns; tigmāṃśu = sun, koṭi = crore, adhika = surpassing, tejas = radiance"
                   },
                   {
-                    "text": "agraśaktiṁ",
-                    "meaning": "foremost power"
+                    "text": "agryaśaktiṁ",
+                    "meaning": "possessing foremost or supreme power, the PDF’s qualified repair"
                   }
                 ],
                 "startSeconds": 451.919,
@@ -5929,7 +6102,33 @@
                 },
                 "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
                 "sharedCueGroup": "A12-block-02",
-                "notes": "Shared recorded passage 443.759–468.550s; an individual-line acoustic onset is not established."
+                "notes": "Shared recorded passage 443.759–468.550s; an individual-line acoustic onset is not established.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 6,
+                    "passage": "tigmāṃśukoṭyadhikatejasam agryaśaktim; PDF note explicitly repairs printed agraśaktiṃ following a parallel verse",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "cakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agraśaktiṁ",
+                  "afterText": "cakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agryaśaktiṁ",
+                  "notes": "The PDF labels agryaśaktim as a suggested textual repair. It fits the recorded compound context, but the exact ry cluster is not independently resolved by the acoustic witnesses. Preserve the raw agra-reading and its cue; retain the separate recorded Ugram Viram prayer and Lakshmi-Narasimha invocation that the booklet omits.",
+                  "confidence": "qualified textual repair; acoustic consonant cluster remains uncertain",
+                  "acousticEvidence": {
+                    "files": [
+                      "work/saraswati-puja/avahana/gpt-fine/original-part-012-transcript.json",
+                      "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json"
+                    ],
+                    "observedReading": "tigmāṁśu-koṭyadhika-tejasam agra/samagraśaktiṁ; native samagrasaktim does not cleanly resolve the ry cluster",
+                    "nativeIntervalSeconds": [
+                      450.08,
+                      464.0
+                    ],
+                    "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "ugraṁ vīraṁ mahāviṣṇuṁ jvalantaṁ sarvatomukhaṁ nṛsiṁhaṁ bhīṣaṇaṁ bhadraṁ mṛtyumṛtyuṁ namāmyahaṁ",
@@ -6049,12 +6248,21 @@
               }
             ]
           },
-          "notes": "The Narasimha prayer is present in both acoustic passes but its initial words lack separate usable native markers. That line replays the explicitly shared encompassing passage. The recited forms and dhyana compounds have noisy sandhi in the witnesses.",
+          "notes": "The Narasimha prayer is present in both acoustic passes but its initial words lack separate usable native markers. That line replays the explicitly shared encompassing passage. The recited forms and dhyana compounds have noisy sandhi in the witnesses.\nText reference review: PDF p. 6: The PDF labels agryaśaktim as a suggested textual repair. It fits the recorded compound context, but the exact ry cluster is not independently resolved by the acoustic witnesses. Preserve the raw agra-reading and its cue; retain the separate recorded Ugram Viram prayer and Lakshmi-Narasimha invocation that the booklet omits.",
           "id": "A12-block-02",
           "sourceSegmentIds": [
             "A12-block-02"
           ],
-          "integrationSegmentId": "avahana-12-002"
+          "integrationSegmentId": "avahana-12-002",
+          "referenceCorrections": [
+            {
+              "lineIndex": 1,
+              "before": "cakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agraśaktiṁ",
+              "after": "cakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agryaśaktiṁ",
+              "page": 6,
+              "notes": "The PDF labels agryaśaktim as a suggested textual repair. It fits the recorded compound context, but the exact ry cluster is not independently resolved by the acoustic witnesses. Preserve the raw agra-reading and its cue; retain the separate recorded Ugram Viram prayer and Lakshmi-Narasimha invocation that the booklet omits."
+            }
+          ]
         }
       ],
       "contemplate": "Contemplate Lakshmi Narasimha with sun-like radiance, discus and conch, and the fierce yet auspicious nature named in the prayer.",
@@ -6182,7 +6390,8 @@
       "audioEndSeconds": 468.8,
       "audioFile": "audio17/12-avahana-lakshmi-narasimha.mp3",
       "audio": true,
-      "mantra": "dhyāyen nṛsiṁham uruvṛtta ravitrinetraṁ jānuprasaktakarayugmam athāparābhyāṁ\ncakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agraśaktiṁ\nugraṁ vīraṁ mahāviṣṇuṁ jvalantaṁ sarvatomukhaṁ nṛsiṁhaṁ bhīṣaṇaṁ bhadraṁ mṛtyumṛtyuṁ namāmyahaṁ\nlakṣmī nṛsiṁhaṁ dhyāyāmi āvāhayāmi"
+      "mantra": "dhyāyen nṛsiṁham uruvṛtta ravitrinetraṁ jānuprasaktakarayugmam athāparābhyāṁ\ncakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agryaśaktiṁ\nugraṁ vīraṁ mahāviṣṇuṁ jvalantaṁ sarvatomukhaṁ nṛsiṁhaṁ bhīṣaṇaṁ bhadraṁ mṛtyumṛtyuṁ namāmyahaṁ\nlakṣmī nṛsiṁhaṁ dhyāyāmi āvāhayāmi",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=6\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 6)</a></div>"
     },
     {
       "id": "13",
@@ -6310,24 +6519,24 @@
           "role": "recitation",
           "sourceOriginal": "vijñānarociḥ paripūritāntar brahmāṇḍakośaṁ haritopalābhaṁ\ntarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato asmi\noṁ vyāṁ vyāsāya namaḥ vedavyāsaṁ dhyāyāmi\npūrṇajñānāya vidmahe pūrṇānandāya dhīmahi tan no vyāsaḥ pracodayāt śrīvyāsaṁ dhyāyāmi\n",
           "sourceRoman": "vijñānarociḥ paripūritāntar brahmāṇḍakośaṁ haritopalābhaṁ\ntarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato asmi\noṁ vyāṁ vyāsāya namaḥ vedavyāsaṁ dhyāyāmi\npūrṇajñānāya vidmahe pūrṇānandāya dhīmahi tan no vyāsaḥ pracodayāt śrīvyāsaṁ dhyāyāmi\n",
-          "text": "vijñānarociḥ paripūritāntar brahmāṇḍakośaṁ haritopalābhaṁ\ntarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato asmi\noṁ vyāṁ vyāsāya namaḥ vedavyāsaṁ dhyāyāmi\npūrṇajñānāya vidmahe pūrṇānandāya dhīmahi tan no vyāsaḥ pracodayāt śrīvyāsaṁ dhyāyāmi",
+          "text": "vijñānarociḥ paripūritāntaḥ bāhyāṇḍakośaṁ haritopalābhaṁ\ntarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato 'smi\noṁ vyāṁ vyāsāya namaḥ vedavyāsaṁ dhyāyāmi\npūrṇajñānāya vidmahe pūrṇānandāya dhīmahi tan no vyāsaḥ pracodayāt śrīvyāsaṁ dhyāyāmi",
           "gloss": {
             "lines": [
               {
-                "text": "vijñānarociḥ paripūritāntar brahmāṇḍakośaṁ haritopalābhaṁ",
-                "meaning": "With the interior of the cosmic egg filled by the radiance of knowledge, shining like an emerald.",
+                "text": "vijñānarociḥ paripūritāntaḥ bāhyāṇḍakośaṁ haritopalābhaṁ",
+                "meaning": "His radiance of knowledge fills the cosmic sphere within and without; his appearance is like an emerald.",
                 "words": [
                   {
                     "text": "vijñānarociḥ",
                     "meaning": "radiance of knowledge"
                   },
                   {
-                    "text": "paripūritāntar",
-                    "meaning": "interior completely filled"
+                    "text": "paripūritāntaḥ",
+                    "meaning": "filled throughout within; first part of the reference compound paripūrita-antaḥ-bāhya-aṇḍakośam"
                   },
                   {
-                    "text": "brahmāṇḍakośaṁ",
-                    "meaning": "shell of the cosmic egg"
+                    "text": "bāhyāṇḍakośaṁ",
+                    "meaning": "outside the cosmic sphere, joined with antaḥ 'within' in the preceding token; compound describes the cosmic sphere as filled within and without"
                   },
                   {
                     "text": "haritopalābhaṁ",
@@ -6347,11 +6556,37 @@
                     "avahana-word-0489"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 6,
+                    "passage": "vijñānarociḥ-paripūritāntaḥ-bāhyāṇḍakośaṃ haritopalābham",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "vijñānarociḥ paripūritāntar brahmāṇḍakośaṁ haritopalābhaṁ",
+                  "afterText": "vijñānarociḥ paripūritāntaḥ bāhyāṇḍakośaṁ haritopalābhaṁ",
+                  "notes": "The PDF resolves the acoustically damaged bākhya/bākṣya reading to bāhyāṇḍakośaṁ and the inside/outside join. Do not substitute the different brahmāṇḍa version of another parallel text merely because it is familiar.",
+                  "confidence": "context-supported",
+                  "acousticEvidence": {
+                    "files": [
+                      "work/saraswati-puja/avahana/gpt-fine/original-part-012-transcript.json",
+                      "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json"
+                    ],
+                    "observedReading": "paripūritāntar bākṣyāṇḍakośaṁ / bākhyāṇḍakośaṁ; native severely abbreviates the middle; the acoustic bākhya/bākṣya onset favors bāhya over baseline brahma",
+                    "nativeIntervalSeconds": [
+                      473.84,
+                      480.96
+                    ],
+                    "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
-                "text": "tarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato asmi",
-                "meaning": "I bow to the giver of knowledge to the gods headed by Brahma and Shiva, bearing reasoning and fearlessness gestures.",
+                "text": "tarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato 'smi",
+                "meaning": "I bow to the giver of knowledge to the gods headed by Brahma and Shiva, whose hands display reasoning and fearlessness.",
                 "words": [
                   {
                     "text": "tarkābhayetaṁ",
@@ -6374,8 +6609,8 @@
                     "meaning": "bowed"
                   },
                   {
-                    "text": "asmi",
-                    "meaning": "I am"
+                    "text": "'smi",
+                    "meaning": "I am, the elided asmi after ānataḥ"
                   }
                 ],
                 "startSeconds": 480.96,
@@ -6391,7 +6626,33 @@
                     "avahana-word-0492"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 6,
+                    "passage": "tarkābhayetaṃ vidhiśarvapūrva-gīrvāṇavijñānadam ānato 'smi",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "tarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato asmi",
+                  "afterText": "tarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato 'smi",
+                  "notes": "Use the PDF-supported elision ānato ’smi rather than inserting an independently pronounced initial a into asmi. This changes orthographic sandhi, not the recorded phrase or the existing learning-line split.",
+                  "confidence": "context-supported",
+                  "acousticEvidence": {
+                    "files": [
+                      "work/saraswati-puja/avahana/gpt-fine/original-part-013-transcript.json",
+                      "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json"
+                    ],
+                    "observedReading": "gīrvāṇa vijñānadam ānatoṣmi/ānatośmi, continuous ānato-smi ending",
+                    "nativeIntervalSeconds": [
+                      480.96,
+                      486.0
+                    ],
+                    "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "oṁ vyāṁ vyāsāya namaḥ vedavyāsaṁ dhyāyāmi",
@@ -6509,7 +6770,24 @@
           "sourceSegmentIds": [
             "A13-block-02"
           ],
-          "integrationSegmentId": "avahana-13-002"
+          "integrationSegmentId": "avahana-13-002",
+          "referenceCorrections": [
+            {
+              "lineIndex": 0,
+              "before": "vijñānarociḥ paripūritāntar brahmāṇḍakośaṁ haritopalābhaṁ",
+              "after": "vijñānarociḥ paripūritāntaḥ bāhyāṇḍakośaṁ haritopalābhaṁ",
+              "page": 6,
+              "notes": "The PDF resolves the acoustically damaged bākhya/bākṣya reading to bāhyāṇḍakośaṁ and the inside/outside join. Do not substitute the different brahmāṇḍa version of another parallel text merely because it is familiar."
+            },
+            {
+              "lineIndex": 1,
+              "before": "tarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato asmi",
+              "after": "tarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato 'smi",
+              "page": 6,
+              "notes": "Use the PDF-supported elision ānato ’smi rather than inserting an independently pronounced initial a into asmi. This changes orthographic sandhi, not the recorded phrase or the existing learning-line split."
+            }
+          ],
+          "notes": "Text reference review: PDF p. 6: The PDF resolves the acoustically damaged bākhya/bākṣya reading to bāhyāṇḍakośaṁ and the inside/outside join. Do not substitute the different brahmāṇḍa version of another parallel text merely because it is familiar. PDF p. 6: Use the PDF-supported elision ānato ’smi rather than inserting an independently pronounced initial a into asmi. This changes orthographic sandhi, not the recorded phrase or the existing learning-line split."
         }
       ],
       "contemplate": "Contemplate emerald-like Vedavyasa, filling the cosmic sphere with knowledge and granting understanding.",
@@ -6635,7 +6913,8 @@
       "audioEndSeconds": 498.719,
       "audioFile": "audio17/13-avahana-vedavyasa.mp3",
       "audio": true,
-      "mantra": "vijñānarociḥ paripūritāntar brahmāṇḍakośaṁ haritopalābhaṁ\ntarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato asmi\noṁ vyāṁ vyāsāya namaḥ vedavyāsaṁ dhyāyāmi\npūrṇajñānāya vidmahe pūrṇānandāya dhīmahi tan no vyāsaḥ pracodayāt śrīvyāsaṁ dhyāyāmi"
+      "mantra": "vijñānarociḥ paripūritāntaḥ bāhyāṇḍakośaṁ haritopalābhaṁ\ntarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato 'smi\noṁ vyāṁ vyāsāya namaḥ vedavyāsaṁ dhyāyāmi\npūrṇajñānāya vidmahe pūrṇānandāya dhīmahi tan no vyāsaḥ pracodayāt śrīvyāsaṁ dhyāyāmi",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=6\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 6)</a></div>"
     },
     {
       "id": "14",
@@ -7351,24 +7630,24 @@
           "role": "recitation",
           "sourceOriginal": "kauśeya pītavasanām aravindanetraṁ padmadvayābhaya varodyatapadmahastāṁ\nudyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nśrīṁ śriyai namaḥ śriyaṁ mahālakṣmīṁ dhyāyāmi\n",
           "sourceRoman": "kauśeya pītavasanām aravindanetraṁ padmadvayābhaya varodyatapadmahastāṁ\nudyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nśrīṁ śriyai namaḥ śriyaṁ mahālakṣmīṁ dhyāyāmi\n",
-          "text": "kauśeya pītavasanām aravindanetraṁ padmadvayābhaya varodyatapadmahastāṁ\nudyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nśrīṁ śriyai namaḥ śriyaṁ mahālakṣmīṁ dhyāyāmi",
+          "text": "kauśeya pītavasanām aravindanetrāṁ padmadvayābhaya varodyatapadmahastāṁ\nudyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nśrīṁ śriyai namaḥ śriyaṁ mahālakṣmīṁ dhyāyāmi",
           "gloss": {
             "lines": [
               {
-                "text": "kauśeya pītavasanām aravindanetraṁ padmadvayābhaya varodyatapadmahastāṁ",
-                "meaning": "Wearing yellow silk, lotus-eyed, with lotus hands holding two lotuses and showing fearlessness and boon.",
+                "text": "kauśeya pītavasanām aravindanetrāṁ padmadvayābhaya varodyatapadmahastāṁ",
+                "meaning": "Wearing yellow silk and lotus-eyed, with lotus hands bearing two lotuses and displaying fearlessness and blessing.",
                 "words": [
                   {
                     "text": "kauśeya",
-                    "meaning": "silk"
+                    "meaning": "silk; part of the silk-garment expression"
                   },
                   {
                     "text": "pītavasanām",
-                    "meaning": "yellow-clothed"
+                    "meaning": "clothed in yellow garments"
                   },
                   {
-                    "text": "aravindanetraṁ",
-                    "meaning": "lotus-eyed"
+                    "text": "aravindanetrāṁ",
+                    "meaning": "lotus-eyed; feminine accusative describing the goddess"
                   },
                   {
                     "text": "padmadvayābhaya",
@@ -7392,7 +7671,42 @@
                     "avahana-word-0550"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 7,
+                    "passage": "kauśeyapītavasanām aravindanetrāṁ; the feminine lotus-eyed epithet",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "kauśeya pītavasanām aravindanetraṁ padmadvayābhaya varodyatapadmahastāṁ",
+                  "afterText": "kauśeya pītavasanām aravindanetrāṁ padmadvayābhaya varodyatapadmahastāṁ",
+                  "notes": "Correct feminine aravindanetrāṁ: the independent acoustic witness explicitly writes नेत्रां, and the reference confirms the feminine epithet. Preserve the recording’s distinct Lakṣmī and Bhū objects; do not replace Lakṣmī’s two lotuses with the booklet’s betel/blue-flower verse.",
+                  "confidence": "high",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-014-transcript.json",
+                        "startSeconds": 520,
+                        "endSeconds": 565,
+                        "quote": "कौशेयपीतवसनामरविन्दनेत्रां पद्मद्वयाभयवरोद्यतपद्महस्ताम्",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      },
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt/original-part-004-transcript.json",
+                        "startSeconds": 510,
+                        "endSeconds": 690,
+                        "quote": "कौशेय पीतवसनां अरविन्दनेत्रां, पद्मद्वयाभयवरोद्यतपद्महस्तां",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "udyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ",
@@ -7498,12 +7812,21 @@
               }
             ]
           },
-          "notes": "The second meditation line is recovered by both acoustic passes despite omission/garbling in the captions. Its passage cue is shared where no separate reliable native lexical match survives.",
+          "notes": "The second meditation line is recovered by both acoustic passes despite omission/garbling in the captions. Its passage cue is shared where no separate reliable native lexical match survives.\nText reference review: PDF p. 7: Correct feminine aravindanetrāṁ: the independent acoustic witness explicitly writes नेत्रां, and the reference confirms the feminine epithet. Preserve the recording’s distinct Lakṣmī and Bhū objects; do not replace Lakṣmī’s two lotuses with the booklet’s betel/blue-flower verse.",
           "id": "A15-block-02",
           "sourceSegmentIds": [
             "A15-block-02"
           ],
-          "integrationSegmentId": "avahana-15-002"
+          "integrationSegmentId": "avahana-15-002",
+          "referenceCorrections": [
+            {
+              "lineIndex": 0,
+              "before": "kauśeya pītavasanām aravindanetraṁ padmadvayābhaya varodyatapadmahastāṁ",
+              "after": "kauśeya pītavasanām aravindanetrāṁ padmadvayābhaya varodyatapadmahastāṁ",
+              "page": 7,
+              "notes": "Correct feminine aravindanetrāṁ: the independent acoustic witness explicitly writes नेत्रां, and the reference confirms the feminine epithet. Preserve the recording’s distinct Lakṣmī and Bhū objects; do not replace Lakṣmī’s two lotuses with the booklet’s betel/blue-flower verse."
+            }
+          ]
         }
       ],
       "contemplate": "Contemplate Mahalakshmi in yellow silk, lotus-eyed, holding lotuses and showing boon and fearlessness.",
@@ -7631,7 +7954,8 @@
       "audioEndSeconds": 562.649,
       "audioFile": "audio17/15-avahana-lakshmi.mp3",
       "audio": true,
-      "mantra": "kauśeya pītavasanām aravindanetraṁ padmadvayābhaya varodyatapadmahastāṁ\nudyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nśrīṁ śriyai namaḥ śriyaṁ mahālakṣmīṁ dhyāyāmi"
+      "mantra": "kauśeya pītavasanām aravindanetrāṁ padmadvayābhaya varodyatapadmahastāṁ\nudyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nśrīṁ śriyai namaḥ śriyaṁ mahālakṣmīṁ dhyāyāmi",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=7\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 7)</a></div>"
     },
     {
       "id": "16",
@@ -7754,24 +8078,24 @@
           "role": "recitation",
           "sourceOriginal": "kauśeya pītavasanām aravindanetraṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ\nśyāmāṅgakānti sahitāṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nbhūṁ bhuve namaḥ bhuve namaḥ bhūṁ dhyāyāmi\n",
           "sourceRoman": "kauśeya pītavasanām aravindanetraṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ\nśyāmāṅgakānti sahitāṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nbhūṁ bhuve namaḥ bhuve namaḥ bhūṁ dhyāyāmi\n",
-          "text": "kauśeya pītavasanām aravindanetraṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ\nśyāmāṅgakānti sahitāṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nbhūṁ bhuve namaḥ bhuve namaḥ bhūṁ dhyāyāmi",
+          "text": "kauśeya pītavasanām aravindanetrāṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ\nśyāmāṅgakānti sahitāṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nbhūṁ bhuve namaḥ bhuve namaḥ bhūṁ dhyāyāmi",
           "gloss": {
             "lines": [
               {
-                "text": "kauśeya pītavasanām aravindanetraṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ",
-                "meaning": "Wearing yellow silk, lotus-eyed, with betel, blue flower, fearlessness and boon.",
+                "text": "kauśeya pītavasanām aravindanetrāṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ",
+                "meaning": "Wearing yellow silk and lotus-eyed, bearing betel and a blue flower and displaying fearlessness and auspicious blessing.",
                 "words": [
                   {
                     "text": "kauśeya",
-                    "meaning": "silk"
+                    "meaning": "silk; part of the silk-garment expression"
                   },
                   {
                     "text": "pītavasanām",
-                    "meaning": "yellow-clothed"
+                    "meaning": "clothed in yellow garments"
                   },
                   {
-                    "text": "aravindanetraṁ",
-                    "meaning": "lotus-eyed"
+                    "text": "aravindanetrāṁ",
+                    "meaning": "lotus-eyed; feminine accusative describing the goddess"
                   },
                   {
                     "text": "tāmbūla",
@@ -7808,7 +8132,34 @@
                     "avahana-word-0568"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 7,
+                    "passage": "kauśeyapītavasanām aravindanetrāṁ; the feminine lotus-eyed epithet",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "kauśeya pītavasanām aravindanetraṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ",
+                  "afterText": "kauśeya pītavasanām aravindanetrāṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ",
+                  "notes": "Correct feminine aravindanetrāṁ: the independent acoustic witness explicitly writes नेत्रां, and the reference confirms the feminine epithet. Preserve the recording’s distinct Lakṣmī and Bhū objects; do not replace Lakṣmī’s two lotuses with the booklet’s betel/blue-flower verse.",
+                  "confidence": "high",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-015-transcript.json",
+                        "startSeconds": 560,
+                        "endSeconds": 605,
+                        "quote": "कौशेयपीतवसनामरविन्दनेत्रां ताम्बूलनीलकुसुमाभय… सद्भरे तां",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "śyāmāṅgakānti sahitāṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ",
@@ -7928,12 +8279,21 @@
               }
             ]
           },
-          "notes": "The Bhu meditation is omitted from the coarse pass but retained by the fine pass and native captions. The blue-flower/betel and boon compound remains a provisional acoustic joining.",
+          "notes": "The Bhu meditation is omitted from the coarse pass but retained by the fine pass and native captions. The blue-flower/betel and boon compound remains a provisional acoustic joining.\nText reference review: PDF p. 7: Correct feminine aravindanetrāṁ: the independent acoustic witness explicitly writes नेत्रां, and the reference confirms the feminine epithet. Preserve the recording’s distinct Lakṣmī and Bhū objects; do not replace Lakṣmī’s two lotuses with the booklet’s betel/blue-flower verse.",
           "id": "A16-block-02",
           "sourceSegmentIds": [
             "A16-block-02"
           ],
-          "integrationSegmentId": "avahana-16-002"
+          "integrationSegmentId": "avahana-16-002",
+          "referenceCorrections": [
+            {
+              "lineIndex": 0,
+              "before": "kauśeya pītavasanām aravindanetraṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ",
+              "after": "kauśeya pītavasanām aravindanetrāṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ",
+              "page": 7,
+              "notes": "Correct feminine aravindanetrāṁ: the independent acoustic witness explicitly writes नेत्रां, and the reference confirms the feminine epithet. Preserve the recording’s distinct Lakṣmī and Bhū objects; do not replace Lakṣmī’s two lotuses with the booklet’s betel/blue-flower verse."
+            }
+          ]
         }
       ],
       "contemplate": "Contemplate Bhu with the yellow-silk, dark-radiant form and stated offerings and gestures.",
@@ -8061,7 +8421,8 @@
       "audioEndSeconds": 584.73,
       "audioFile": "audio17/16-avahana-bhu.mp3",
       "audio": true,
-      "mantra": "kauśeya pītavasanām aravindanetraṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ\nśyāmāṅgakānti sahitāṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nbhūṁ bhuve namaḥ bhuve namaḥ bhūṁ dhyāyāmi"
+      "mantra": "kauśeya pītavasanām aravindanetrāṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ\nśyāmāṅgakānti sahitāṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nbhūṁ bhuve namaḥ bhuve namaḥ bhūṁ dhyāyāmi",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=7\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 7)</a></div>"
     },
     {
       "id": "17",
@@ -8183,12 +8544,12 @@
           "role": "recitation",
           "sourceOriginal": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja dara triśūla yutābjahastāṁ\nudyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nduṁ durgāyai namaḥ durgāṁ dhyāyāmi\n",
           "sourceRoman": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja dara triśūla yutābjahastāṁ\nudyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nduṁ durgāyai namaḥ durgāṁ dhyāyāmi\n",
-          "text": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja dara triśūla yutābjahastāṁ\nudyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nduṁ durgāyai namaḥ durgāṁ dhyāyāmi",
+          "text": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja tarjana triśūla yutābjahastāṁ\nudyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nduṁ durgāyai namaḥ durgāṁ dhyāyāmi",
           "gloss": {
             "lines": [
               {
-                "text": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja dara triśūla yutābjahastāṁ",
-                "meaning": "Wearing red silk, with three lotus-like eyes, lotus hands holding discus, lotus, conch and trident; the discus-lotus expression is repeated.",
+                "text": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja tarjana triśūla yutābjahastāṁ",
+                "meaning": "Clothed in red silk, with three lotus-like eyes and lotus-like hands bearing discus and lotus—discus and lotus, repeated—the admonishing gesture and a trident.",
                 "words": [
                   {
                     "text": "kauśeya",
@@ -8211,16 +8572,16 @@
                     "meaning": "discus and lotus"
                   },
                   {
-                    "text": "dara",
-                    "meaning": "conch"
+                    "text": "tarjana",
+                    "meaning": "admonishing or threatening gesture, an attribute of the deity; no practitioner motion prescribed"
                   },
                   {
                     "text": "triśūla",
-                    "meaning": "trident"
+                    "meaning": "trident; recorded variant of booklet suśūla"
                   },
                   {
                     "text": "yutābjahastāṁ",
-                    "meaning": "lotus hands furnished with"
+                    "meaning": "whose lotus-like hands are furnished with these objects or gestures"
                   }
                 ],
                 "startSeconds": 585.839,
@@ -8242,7 +8603,42 @@
                     "avahana-word-0588"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 10,
+                    "passage": "cakrābjatarjana-suśūlayutābjahastām",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja dara triśūla yutābjahastāṁ",
+                  "afterText": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja tarjana triśūla yutābjahastāṁ",
+                  "notes": "The recorded/native दರ್ಜುನ/darjun supports tarjana, the admonishing gesture, clarified by the PDF and original booklet visual. Earlier dara/conch interpretation was unsupported. Keep both actual cakrābja utterances and triśūla, rather than replacing the audible trident word with booklet suśūla.",
+                  "confidence": "high",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-015-transcript.json",
+                        "startSeconds": 560,
+                        "endSeconds": 605,
+                        "quote": "चक्राब्ज… चक्राब्जदर्जुन… त्रिशूलयुताब्जहस्तां",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      },
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt/original-part-004-transcript.json",
+                        "startSeconds": 510,
+                        "endSeconds": 690,
+                        "quote": "चक्राब्ज, दर्जुन, त्रिशूल, युताब्जहस्तां",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "udyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ",
@@ -8349,12 +8745,21 @@
               }
             ]
           },
-          "notes": "The conch/discus/trident compound and middle meditation line are noisy. The repeated discus-lotus wording is retained; exact inflections remain provisional.",
+          "notes": "The conch/discus/trident compound and middle meditation line are noisy. The repeated discus-lotus wording is retained; exact inflections remain provisional.\nText reference review: PDF p. 10: The recorded/native दರ್ಜುನ/darjun supports tarjana, the admonishing gesture, clarified by the PDF and original booklet visual. Earlier dara/conch interpretation was unsupported. Keep both actual cakrābja utterances and triśūla, rather than replacing the audible trident word with booklet suśūla.",
           "id": "A17-block-02",
           "sourceSegmentIds": [
             "A17-block-02"
           ],
-          "integrationSegmentId": "avahana-17-002"
+          "integrationSegmentId": "avahana-17-002",
+          "referenceCorrections": [
+            {
+              "lineIndex": 0,
+              "before": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja dara triśūla yutābjahastāṁ",
+              "after": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja tarjana triśūla yutābjahastāṁ",
+              "page": 10,
+              "notes": "The recorded/native दರ್ಜುನ/darjun supports tarjana, the admonishing gesture, clarified by the PDF and original booklet visual. Earlier dara/conch interpretation was unsupported. Keep both actual cakrābja utterances and triśūla, rather than replacing the audible trident word with booklet suśūla."
+            }
+          ]
         }
       ],
       "contemplate": "Contemplate Durga in red silk with three lotus-like eyes and the stated weapons and gestures.",
@@ -8482,7 +8887,8 @@
       "audioEndSeconds": 604.81,
       "audioFile": "audio17/17-avahana-durga.mp3",
       "audio": true,
-      "mantra": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja dara triśūla yutābjahastāṁ\nudyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nduṁ durgāyai namaḥ durgāṁ dhyāyāmi"
+      "mantra": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja tarjana triśūla yutābjahastāṁ\nudyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ\nduṁ durgāyai namaḥ durgāṁ dhyāyāmi",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=10\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 10)</a></div>"
     },
     {
       "id": "18",
@@ -8612,12 +9018,12 @@
           "role": "recitation",
           "sourceOriginal": "udyad ravi prakara sannibham acyutāṅghre svāsīnam asya nutinityavacaḥ pravṛttiṁ\ndhyāyed varābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ\noṁ prāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi āvāhayāmi\nprāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi mukhyaprāṇaṁ āvāhayāmi\n",
           "sourceRoman": "udyad ravi prakara sannibham acyutāṅghre svāsīnam asya nutinityavacaḥ pravṛttiṁ\ndhyāyed varābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ\noṁ prāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi āvāhayāmi\nprāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi mukhyaprāṇaṁ āvāhayāmi\n",
-          "text": "udyad ravi prakara sannibham acyutāṅghre svāsīnam asya nutinityavacaḥ pravṛttiṁ\ndhyāyed varābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ\noṁ prāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi āvāhayāmi\nprāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi mukhyaprāṇaṁ āvāhayāmi",
+          "text": "udyad ravi prakara sannibham acyutāṅke svāsīnam asya nutinityavacaḥ pravṛttiṁ\ndhyāyed gadābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ\noṁ prāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi āvāhayāmi\nprāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi mukhyaprāṇaṁ āvāhayāmi",
           "gloss": {
             "lines": [
               {
-                "text": "udyad ravi prakara sannibham acyutāṅghre svāsīnam asya nutinityavacaḥ pravṛttiṁ",
-                "meaning": "Like the rays of the rising sun, seated at Acyuta’s feet, ever engaged in praising him.",
+                "text": "udyad ravi prakara sannibham acyutāṅke svāsīnam asya nutinityavacaḥ pravṛttiṁ",
+                "meaning": "Radiant like a multitude of rising sunrays, well seated in Acyuta’s lap and engaged in words of praise of him.",
                 "words": [
                   {
                     "text": "udyad",
@@ -8629,15 +9035,15 @@
                   },
                   {
                     "text": "prakara",
-                    "meaning": "mass of rays"
+                    "meaning": "multitude or cluster of rays"
                   },
                   {
                     "text": "sannibham",
                     "meaning": "resembling"
                   },
                   {
-                    "text": "acyutāṅghre",
-                    "meaning": "at Acyuta’s feet"
+                    "text": "acyutāṅke",
+                    "meaning": "in Acyuta’s lap; acyuta + aṅke, not aṅghri, feet"
                   },
                   {
                     "text": "svāsīnam",
@@ -8649,11 +9055,11 @@
                   },
                   {
                     "text": "nutinityavacaḥ",
-                    "meaning": "constant words of praise"
+                    "meaning": "recorded praise-word expression, interpreted as speech devoted to praising him; exact internal compound remains uncertain"
                   },
                   {
                     "text": "pravṛttiṁ",
-                    "meaning": "engaged"
+                    "meaning": "engaged in; devoted to this activity"
                   }
                 ],
                 "startSeconds": 607.2,
@@ -8667,23 +9073,58 @@
                     "avahana-word-0600"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 10,
+                    "passage": "udyadraviprakara-sannibham acyutāṅke svāsīnam asya nutinutyavacaḥpravṛttim",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "udyad ravi prakara sannibham acyutāṅghre svāsīnam asya nutinityavacaḥ pravṛttiṁ",
+                  "afterText": "udyad ravi prakara sannibham acyutāṅke svāsīnam asya nutinityavacaḥ pravṛttiṁ",
+                  "notes": "Both this recording’s acoustic witnesses give acyutāṅge/acyutāṅke-like phonetics; the reference and original printed page4 clearly give acyutāṅke (lap). The former feet translation arose from an incorrect added gh/r cluster. Preserve recorded nutinityavacaḥ rather than automatically adopting the booklet’s separately uncertain nutinutya compound.",
+                  "confidence": "high",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-016-transcript.json",
+                        "startSeconds": 600,
+                        "endSeconds": 645,
+                        "quote": "ಉದ್ಯದ್ ರವಿ ಪ್ರಗಲದನ್ನಿಭಮಚ್ಚತಾಂಗೇ ಶ್ವಾಸೀನ ಅಸ್ಯ ನುತಿನಿತ್ಯವಚನ ಪ್ರವೃತ್ತಿಂ. ಧ್ಯಾಯೇದ್ಗದಾಬ್ಜಯಗರ ಸುಗೃತಾಂಜಲಿಂ ತಂ ಪ್ರಾಣಂ",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      },
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt/original-part-004-transcript.json",
+                        "startSeconds": 510,
+                        "endSeconds": 690,
+                        "quote": "उद्द्यत् रविप्रगल्भनिभं अच्युताङ्गे श्वासीन अस्य नुति नित्यवचन प्रवृत्तिं, ध्यायेद् गदाभ्यगरसुगृताञ्जलिं तं प्राणं",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
-                "text": "dhyāyed varābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ",
-                "meaning": "Meditate on Prana with boon and fearlessness gestures and folded hands, forms at will and exalted power of action.",
+                "text": "dhyāyed gadābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ",
+                "meaning": "Meditate upon that Prāṇa, with hands bearing the mace and displaying fearlessness, making reverent añjali, able to assume forms at will and possessing exalted power of action.",
                 "words": [
                   {
                     "text": "dhyāyed",
                     "meaning": "one should meditate"
                   },
                   {
-                    "text": "varābhayakaraṁ",
-                    "meaning": "boon and fearlessness hands"
+                    "text": "gadābhayakaraṁ",
+                    "meaning": "with hands bearing a mace and displaying fearlessness; gadā + abhaya + kara"
                   },
                   {
                     "text": "sukṛtāñjaliṁ",
-                    "meaning": "well folded hands"
+                    "meaning": "making well-formed reverent añjali"
                   },
                   {
                     "text": "taṁ",
@@ -8695,7 +9136,7 @@
                   },
                   {
                     "text": "yatheṣṭatanuṁ",
-                    "meaning": "forms at will"
+                    "meaning": "able to assume a form as desired"
                   },
                   {
                     "text": "unnatakarmaśaktiṁ",
@@ -8735,7 +9176,42 @@
                 "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
                 "sharedPassageCue": true,
                 "sharedCueGroup": "A18-block-02",
-                "notes": "Shared recorded passage 607.200–630.470s; an individual-line acoustic onset is not established."
+                "notes": "Shared recorded passage 607.200–630.470s; an individual-line acoustic onset is not established.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 10,
+                    "passage": "dhyāyed gadābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanum unnatakarmaśaktim",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "dhyāyed varābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ",
+                  "afterText": "dhyāyed gadābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ",
+                  "notes": "The independent fine/coarse phonetic openings both begin gadā-. PDF confirms mace + fearlessness, replacing the previous boon + fearlessness reading. Retain the separate añjali phrase without imposing a count of hands.",
+                  "confidence": "high",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-016-transcript.json",
+                        "startSeconds": 600,
+                        "endSeconds": 645,
+                        "quote": "ಉದ್ಯದ್ ರವಿ ಪ್ರಗಲದನ್ನಿಭಮಚ್ಚತಾಂಗೇ ಶ್ವಾಸೀನ ಅಸ್ಯ ನುತಿನಿತ್ಯವಚನ ಪ್ರವೃತ್ತಿಂ. ಧ್ಯಾಯೇದ್ಗದಾಬ್ಜಯಗರ ಸುಗೃತಾಂಜಲಿಂ ತಂ ಪ್ರಾಣಂ",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      },
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt/original-part-004-transcript.json",
+                        "startSeconds": 510,
+                        "endSeconds": 690,
+                        "quote": "उद्द्यत् रविप्रगल्भनिभं अच्युताङ्गे श्वासीन अस्य नुति नित्यवचन प्रवृत्तिं, ध्यायेद् गदाभ्यगरसुगृताञ्जलिं तं प्राणं",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "oṁ prāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi āvāhayāmi",
@@ -8844,15 +9320,31 @@
               }
             ]
           },
-          "notes": "The boon/fearlessness hand expression differs across the acoustic passes. The main Prana forms and the repeated invocation remain separately retained.",
+          "notes": "The boon/fearlessness hand expression differs across the acoustic passes. The main Prana forms and the repeated invocation remain separately retained.\nText reference review: PDF p. 10: Both this recording’s acoustic witnesses give acyutāṅge/acyutāṅke-like phonetics; the reference and original printed page4 clearly give acyutāṅke (lap). The former feet translation arose from an incorrect added gh/r cluster. Preserve recorded nutinityavacaḥ rather than automatically adopting the booklet’s separately uncertain nutinutya compound. PDF p. 10: The independent fine/coarse phonetic openings both begin gadā-. PDF confirms mace + fearlessness, replacing the previous boon + fearlessness reading. Retain the separate añjali phrase without imposing a count of hands.",
           "id": "A18-block-02",
           "sourceSegmentIds": [
             "A18-block-02"
           ],
-          "integrationSegmentId": "avahana-18-002"
+          "integrationSegmentId": "avahana-18-002",
+          "referenceCorrections": [
+            {
+              "lineIndex": 0,
+              "before": "udyad ravi prakara sannibham acyutāṅghre svāsīnam asya nutinityavacaḥ pravṛttiṁ",
+              "after": "udyad ravi prakara sannibham acyutāṅke svāsīnam asya nutinityavacaḥ pravṛttiṁ",
+              "page": 10,
+              "notes": "Both this recording’s acoustic witnesses give acyutāṅge/acyutāṅke-like phonetics; the reference and original printed page4 clearly give acyutāṅke (lap). The former feet translation arose from an incorrect added gh/r cluster. Preserve recorded nutinityavacaḥ rather than automatically adopting the booklet’s separately uncertain nutinutya compound."
+            },
+            {
+              "lineIndex": 1,
+              "before": "dhyāyed varābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ",
+              "after": "dhyāyed gadābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ",
+              "page": 10,
+              "notes": "The independent fine/coarse phonetic openings both begin gadā-. PDF confirms mace + fearlessness, replacing the previous boon + fearlessness reading. Retain the separate añjali phrase without imposing a count of hands."
+            }
+          ]
         }
       ],
-      "contemplate": "Contemplate Mukhyaprana at Acyuta’s feet, engaged in praise, with exalted power of action.",
+      "contemplate": "Contemplate Mukhyaprāṇa seated in Acyuta’s lap, engaged in praise and possessing exalted power of action.",
       "action": "Again take mantrakshata; meditate on and invoke Mukhyaprana, preserving the second invocation.",
       "evidenceReferences": {
         "contemplate": [
@@ -8943,6 +9435,13 @@
             "segmentId": "A18-block-02",
             "basis": "Guidance derived from this recorded explanation or deity meditation; no unspoken ritual motions added.",
             "integrationSegmentId": "avahana-18-002"
+          },
+          {
+            "reference": "User-supplied Vedavyasa and Sarasvati PDF",
+            "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+            "page": 10,
+            "passage": "acyutāṅke svāsīnam",
+            "basis": "Supplementary contemplation corrected to match the textually reconciled meditation."
           }
         ],
         "action": [
@@ -8977,7 +9476,8 @@
       "audioEndSeconds": 630.72,
       "audioFile": "audio17/18-avahana-mukhyaprana.mp3",
       "audio": true,
-      "mantra": "udyad ravi prakara sannibham acyutāṅghre svāsīnam asya nutinityavacaḥ pravṛttiṁ\ndhyāyed varābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ\noṁ prāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi āvāhayāmi\nprāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi mukhyaprāṇaṁ āvāhayāmi"
+      "mantra": "udyad ravi prakara sannibham acyutāṅke svāsīnam asya nutinityavacaḥ pravṛttiṁ\ndhyāyed gadābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ\noṁ prāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi āvāhayāmi\nprāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi mukhyaprāṇaṁ āvāhayāmi",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=10\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 10)</a></div>"
     },
     {
       "id": "19",
@@ -10360,12 +10860,12 @@
           "role": "recitation",
           "sourceOriginal": "etat śāstra pustaka lipirekhāntaḥ tejomaya rekhāntaḥ prāṇaśrī rekhāyāṁ sthitaṁ\ndharmanārāyaṇa mahidāsa kapila dattātreya hayagrīva nārasiṁha rāmakṛṣṇa paraśurāma vyāsa hari prājña puruṣātmaka\nsarvavedābhimāni vedābhimāni sarvavedya utkṛṣṭa śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi\n",
           "sourceRoman": "etat śāstra pustaka lipirekhāntaḥ tejomaya rekhāntaḥ prāṇaśrī rekhāyāṁ sthitaṁ\ndharmanārāyaṇa mahidāsa kapila dattātreya hayagrīva nārasiṁha rāmakṛṣṇa paraśurāma vyāsa hari prājña puruṣātmaka\nsarvavedābhimāni vedābhimāni sarvavedya utkṛṣṭa śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi\n",
-          "text": "etat śāstra pustaka lipirekhāntaḥ tejomaya rekhāntaḥ prāṇaśrī rekhāyāṁ sthitaṁ\ndharmanārāyaṇa mahidāsa kapila dattātreya hayagrīva nārasiṁha rāmakṛṣṇa paraśurāma vyāsa hari prājña puruṣātmaka\nsarvavedābhimāni vedābhimāni sarvavedya utkṛṣṭa śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi",
+          "text": "etat śāstra pustaka lipirekhāntaḥ tejomaya rekhāntaḥ prāṇaśrī rekhāyāṁ sthitaṁ\ndharmanārāyaṇa mahidāsa kapila dattātreya hayagrīva nārasiṁha rāmakṛṣṇa paraśurāma vyāsa hari prājña puruṣātmaka\nsarvavedābhimāni vedābhimāni sarvavidyā draṣṭṛ śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi",
           "gloss": {
             "lines": [
               {
                 "text": "etat śāstra pustaka lipirekhāntaḥ tejomaya rekhāntaḥ prāṇaśrī rekhāyāṁ sthitaṁ",
-                "meaning": "Present in the letters or lines of this scriptural book, within the luminous lines and an uncertain recorded prāṇaśrī line expression; its division into two deity names is not established.",
+                "meaning": "Present within the written lines of this scriptural book, within its luminous lines and in the line associated with Prāṇa; the following recorded śrī syllable remains uncertain.",
                 "words": [
                   {
                     "text": "etat",
@@ -10381,19 +10881,19 @@
                   },
                   {
                     "text": "lipirekhāntaḥ",
-                    "meaning": "within written lines"
+                    "meaning": "within the lines or strokes of the writing"
                   },
                   {
                     "text": "tejomaya",
-                    "meaning": "luminous"
+                    "meaning": "made of light; luminous"
                   },
                   {
                     "text": "rekhāntaḥ",
-                    "meaning": "within lines"
+                    "meaning": "within the lines"
                   },
                   {
                     "text": "prāṇaśrī",
-                    "meaning": "recorded syllable cluster, proposed Prana-Shri two-name division remains unresolved"
+                    "meaning": "recorded prāṇaśrī: reference identifies a line associated with Prāṇa, while the extra śrī syllable remains unresolved"
                   },
                   {
                     "text": "rekhāyāṁ",
@@ -10401,7 +10901,7 @@
                   },
                   {
                     "text": "sthitaṁ",
-                    "meaning": "present"
+                    "meaning": "present; situated"
                   }
                 ],
                 "startSeconds": 722.0,
@@ -10422,7 +10922,42 @@
                     "avahana-word-0714"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 8,
+                    "passage": "etat sacchāstra-pustaka-lipirekhānta-tejomayarekhāntaḥ-prāṇarekhāyāṁ sthitam",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "etat śāstra pustaka lipirekhāntaḥ tejomaya rekhāntaḥ prāṇaśrī rekhāyāṁ sthitaṁ",
+                  "afterText": "etat śāstra pustaka lipirekhāntaḥ tejomaya rekhāntaḥ prāṇaśrī rekhāyāṁ sthitaṁ",
+                  "notes": "Meaning clarification only: PDF explicitly treats Prāṇarekhā as a technical line within written sacred text. Do not invent separate Prāṇa and Śrī deity invocations from recorded prāṇaśrī; do not delete śrī or add booklet-only sat to the spoken śāstra.",
+                  "confidence": "high",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-019-transcript.json",
+                        "startSeconds": 720,
+                        "endSeconds": 765,
+                        "quote": "शास्त्रपुस्तक लिपि रेखां तस्तेजोमये, रेखांत प्राणश्री रेखाजां स्थितं",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      },
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt/original-part-005-transcript.json",
+                        "startSeconds": 680,
+                        "endSeconds": 860,
+                        "quote": "शास्त्रपुस्तक-लिपि-रेखां तस्थे जोमये। रेखान्तः प्राणश्री रेखाजां स्थितं",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "dharmanārāyaṇa mahidāsa kapila dattātreya hayagrīva nārasiṁha rāmakṛṣṇa paraśurāma vyāsa hari prājña puruṣātmaka",
@@ -10502,40 +11037,40 @@
                 "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
               },
               {
-                "text": "sarvavedābhimāni vedābhimāni sarvavedya utkṛṣṭa śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi",
-                "meaning": "I bring Vyasa in the female form into favorable presence: within Shri Brahmani and Bharati, presiding over all Vedas; the Veda-presiding phrase is repeated. The all-knowledge/excellence expression remains a provisional reading.",
+                "text": "sarvavedābhimāni vedābhimāni sarvavidyā draṣṭṛ śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi",
+                "meaning": "[Reference-assisted reading; nested syntax remains provisional:] I bring Vyāsa in feminine form into my presence, indwelling revered Brahmāṇī and Bhāratī, associated with seeing all knowledge and presiding over the Vedas; the Veda-presiding expression is repeated.",
                 "words": [
                   {
                     "text": "sarvavedābhimāni",
-                    "meaning": "presiding over all Vedas"
+                    "meaning": "presiding over all the Vedas; recorded variant retained"
                   },
                   {
                     "text": "vedābhimāni",
-                    "meaning": "presiding over Vedas"
+                    "meaning": "presiding over the Vedas; actual repeated expression"
                   },
                   {
-                    "text": "sarvavedya",
-                    "meaning": "all that is to be known"
+                    "text": "sarvavidyā",
+                    "meaning": "all knowledge; first member of the compound sarvavidyā-draṣṭṛ"
                   },
                   {
-                    "text": "utkṛṣṭa",
-                    "meaning": "excellent"
+                    "text": "draṣṭṛ",
+                    "meaning": "seer; second member of seer-of-all-knowledge compound"
                   },
                   {
                     "text": "śrī",
-                    "meaning": "revered"
+                    "meaning": "revered; auspicious honorific in this phrase"
                   },
                   {
                     "text": "brahmāṇī",
-                    "meaning": "Brahmani"
+                    "meaning": "Brahmāṇī, Sarasvatī, the consort of Brahmā"
                   },
                   {
                     "text": "bhāratyantargata",
-                    "meaning": "within Bharati"
+                    "meaning": "indwelling in Bhāratī; the preceding Brahmāṇī is included in the combined indwelling expression"
                   },
                   {
                     "text": "strīrūpaṁ",
-                    "meaning": "female form"
+                    "meaning": "in a feminine form"
                   },
                   {
                     "text": "vyāsaṁ",
@@ -10543,7 +11078,7 @@
                   },
                   {
                     "text": "sammukhīkaromi",
-                    "meaning": "I bring into favorable presence"
+                    "meaning": "I bring into my presence; I bring face to face"
                   }
                 ],
                 "startSeconds": 745.76,
@@ -10567,16 +11102,67 @@
                     "avahana-word-0737"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 8,
+                    "passage": "sarvadevābhimāni-sarvavidyādraṣṭṛ-śrī-brahmāṇī-bhāratyantargataṁ strīrūpaṁ vyāsaṁ saṁmukhīkaromi",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "sarvavedābhimāni vedābhimāni sarvavedya utkṛṣṭa śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi",
+                  "afterText": "sarvavedābhimāni vedābhimāni sarvavidyā draṣṭṛ śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi",
+                  "notes": "Reference-assisted recovery of noisy sarvavedyādṛśkṛṣṭ as sarvavidyādraṣṭṛ, seer of all knowledge; the previous utkṛṣṭa/excellent reading lacked a stable lexical witness. Show the compound as sarvavidyā draṣṭṛ in the two existing word slots to preserve the broken-up layout. Retain sarvavedābhimāni vedābhimāni, because native/fine/coarse witnesses support the Veda wording and its repetition; PDF sarvadevābhimāni is not enough to override the recorded variant. Exact nested case/syntax remains provisional.",
+                  "confidence": "reference-assisted; nested grammar remains reviewable",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-019-transcript.json",
+                        "startSeconds": 720,
+                        "endSeconds": 765,
+                        "quote": "सद्वेदाभिमानी, वेदाभिमानी, सर्ववेद्यादृश्कृष्ट श्रीब्रह्माणी, भारत्यन्तर्गत स्त्रीरूपां व्यासं समुकीकरोमि",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      },
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt/original-part-005-transcript.json",
+                        "startSeconds": 680,
+                        "endSeconds": 860,
+                        "quote": "सर्ववेदाभिमानी, सर्ववेद्यादृश्कृष्ट, श्रीब्रह्माणि, भारत्यन्तर्गत, स्त्रीरूपं व्यासं समुकीकरोमि",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               }
             ]
           },
-          "notes": "The book-letter/luminous-line/Prana-Shri expression and the all-knowledge/excellence compound are disputed across both passes and the independent targeted model. Mahidasa and the favorable-presence verb are provisional lexical readings. The form and deity lists are fully retained. The prāṇaśrī cluster does not securely establish two deity names Prana and Shri; that proposed division remains unconfirmed.",
+          "notes": "The book-letter/luminous-line/Prana-Shri expression and the all-knowledge/excellence compound are disputed across both passes and the independent targeted model. Mahidasa and the favorable-presence verb are provisional lexical readings. The form and deity lists are fully retained. The prāṇaśrī cluster does not securely establish two deity names Prana and Shri; that proposed division remains unconfirmed.\nText reference review: PDF p. 8: Meaning clarification only: PDF explicitly treats Prāṇarekhā as a technical line within written sacred text. Do not invent separate Prāṇa and Śrī deity invocations from recorded prāṇaśrī; do not delete śrī or add booklet-only sat to the spoken śāstra. PDF p. 8: Reference-assisted recovery of noisy sarvavedyādṛśkṛṣṭ as sarvavidyādraṣṭṛ, seer of all knowledge; the previous utkṛṣṭa/excellent reading lacked a stable lexical witness. Show the compound as sarvavidyā draṣṭṛ in the two existing word slots to preserve the broken-up layout. Retain sarvavedābhimāni vedābhimāni, because native/fine/coarse witnesses support the Veda wording and its repetition; PDF sarvadevābhimāni is not enough to override the recorded variant. Exact nested case/syntax remains provisional.",
           "id": "A20-block-03",
           "sourceSegmentIds": [
             "A20-block-03"
           ],
-          "integrationSegmentId": "avahana-20-003"
+          "integrationSegmentId": "avahana-20-003",
+          "referenceCorrections": [
+            {
+              "lineIndex": 0,
+              "before": "etat śāstra pustaka lipirekhāntaḥ tejomaya rekhāntaḥ prāṇaśrī rekhāyāṁ sthitaṁ",
+              "after": "etat śāstra pustaka lipirekhāntaḥ tejomaya rekhāntaḥ prāṇaśrī rekhāyāṁ sthitaṁ",
+              "page": 8,
+              "notes": "Meaning clarification only: PDF explicitly treats Prāṇarekhā as a technical line within written sacred text. Do not invent separate Prāṇa and Śrī deity invocations from recorded prāṇaśrī; do not delete śrī or add booklet-only sat to the spoken śāstra."
+            },
+            {
+              "lineIndex": 2,
+              "before": "sarvavedābhimāni vedābhimāni sarvavedya utkṛṣṭa śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi",
+              "after": "sarvavedābhimāni vedābhimāni sarvavidyā draṣṭṛ śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi",
+              "page": 8,
+              "notes": "Reference-assisted recovery of noisy sarvavedyādṛśkṛṣṭ as sarvavidyādraṣṭṛ, seer of all knowledge; the previous utkṛṣṭa/excellent reading lacked a stable lexical witness. Show the compound as sarvavidyā draṣṭṛ in the two existing word slots to preserve the broken-up layout. Retain sarvavedābhimāni vedābhimāni, because native/fine/coarse witnesses support the Veda wording and its repetition; PDF sarvadevābhimāni is not enough to override the recorded variant. Exact nested case/syntax remains provisional."
+            }
+          ]
         },
         {
           "kind": "action",
@@ -10846,7 +11432,8 @@
       "audioEndSeconds": 764.17,
       "audioFile": "audio17/20-avahana-invocation-in-the-scriptural-books.mp3",
       "audio": true,
-      "mantra": "etat\n\netat śāstra pustaka lipirekhāntaḥ tejomaya rekhāntaḥ prāṇaśrī rekhāyāṁ sthitaṁ\ndharmanārāyaṇa mahidāsa kapila dattātreya hayagrīva nārasiṁha rāmakṛṣṇa paraśurāma vyāsa hari prājña puruṣātmaka\nsarvavedābhimāni vedābhimāni sarvavedya utkṛṣṭa śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi"
+      "mantra": "etat\n\netat śāstra pustaka lipirekhāntaḥ tejomaya rekhāntaḥ prāṇaśrī rekhāyāṁ sthitaṁ\ndharmanārāyaṇa mahidāsa kapila dattātreya hayagrīva nārasiṁha rāmakṛṣṇa paraśurāma vyāsa hari prājña puruṣātmaka\nsarvavedābhimāni vedābhimāni sarvavidyā draṣṭṛ śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=8\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 8)</a></div>"
     },
     {
       "id": "21",
@@ -11160,12 +11747,12 @@
           "role": "recitation",
           "sourceOriginal": "tat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jaganti jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā\njānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryātmikāṁ ramāṁ\nbrahmaprāṇa hanumadbhīma madhvān sarasvatī bhāratyau śeṣa rudra pārvatī vināyakān\nbādariṁ jaiminiṁ sumantuṁ vaiśampāyanaṁ aśmarathyaṁ pailaṁ kāśakṛtsnaṁ lomaśaṁ etān\nguguṁ sīnīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ\nśrīmadānandatīrtha jaytīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān\ntat tat mantrair āvāhya kṛpayā sumukhī bhavatv iti prārthya puṣpāñjaliṁ samarpya\n",
           "sourceRoman": "tat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jaganti jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā\njānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryātmikāṁ ramāṁ\nbrahmaprāṇa hanumadbhīma madhvān sarasvatī bhāratyau śeṣa rudra pārvatī vināyakān\nbādariṁ jaiminiṁ sumantuṁ vaiśampāyanaṁ aśmarathyaṁ pailaṁ kāśakṛtsnaṁ lomaśaṁ etān\nguguṁ sīnīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ\nśrīmadānandatīrtha jaytīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān\ntat tat mantrair āvāhya kṛpayā sumukhī bhavatv iti prārthya puṣpāñjaliṁ samarpya\n",
-          "text": "tat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jaganti jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā\njānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryātmikāṁ ramāṁ\nbrahmaprāṇa hanumadbhīma madhvān sarasvatī bhāratyau śeṣa rudra pārvatī vināyakān\nbādariṁ jaiminiṁ sumantuṁ vaiśampāyanaṁ aśmarathyaṁ pailaṁ kāśakṛtsnaṁ lomaśaṁ etān\nguguṁ sīnīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ\nśrīmadānandatīrtha jaytīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān\ntat tat mantrair āvāhya kṛpayā sumukhī bhavatv iti prārthya puṣpāñjaliṁ samarpya",
+          "text": "tat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jayantī jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā\njānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryātmikāṁ ramāṁ\nbrahmaprāṇa hanumadbhīma madhvān sarasvatī bhāratyau śeṣa rudra pārvatī vināyakān\nbādariṁ jaiminiṁ sumantuṁ vaiśampāyanaṁ aśmarathyaṁ pailaṁ kāśakṛtsnaṁ lomaśaṁ etān\nguṅgūṁ sinīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ\nśrīmadānandatīrtha jayatīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān\ntat tat mantrair āvāhya kṛpayā sumukhī bhavatv iti prārthya puṣpāñjaliṁ samarpya",
           "gloss": {
             "lines": [
               {
-                "text": "tat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jaganti jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā",
-                "meaning": "In that presence: Shri, Bhu, Durga, Ambhrini, Shrimaya, Jaya, Kriti, Shanti, Lakshmi, Jaganti, Janaki, Satya, Rukmini, and Vyasa’s consort named Svayampriti.",
+                "text": "tat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jayantī jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā",
+                "meaning": "In that presence: Śrī, Bhū, Durgā, Ambhṛṇī, Śrī Māyā, Jayā, Kṛti, Śānti, Lakṣmī, Jayantī, Jānakī, Satyā, Rukmiṇī, and Prīti, the consort of Vyāsa.",
                 "words": [
                   {
                     "text": "tat",
@@ -11193,7 +11780,7 @@
                   },
                   {
                     "text": "śrīmāyā",
-                    "meaning": "Shrimaya"
+                    "meaning": "Śrī Māyā, the recorded name expression; booklet hrīṁ māyā differs"
                   },
                   {
                     "text": "jayā",
@@ -11212,8 +11799,8 @@
                     "meaning": "Lakshmi"
                   },
                   {
-                    "text": "jaganti",
-                    "meaning": "recorded name Jaganti"
+                    "text": "jayantī",
+                    "meaning": "Jayantī, a named form of Lakṣmī; reference resolves noisy jaganti"
                   },
                   {
                     "text": "jānakī",
@@ -11229,11 +11816,11 @@
                   },
                   {
                     "text": "svayaṁprītyākhya",
-                    "meaning": "named Svayampriti"
+                    "meaning": "herself named Prīti; svayam + prīti + ākhya, not a deity named Svayamprīti"
                   },
                   {
                     "text": "vyāsabhāryā",
-                    "meaning": "Vyasa’s consort"
+                    "meaning": "the consort of Vyāsa"
                   }
                 ],
                 "startSeconds": 767.68,
@@ -11262,11 +11849,46 @@
                     "avahana-word-0765"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 9,
+                    "passage": "śrī-bhū-durgāmbhṛṇīṁ ... jayā-kṛtī-śāntī-lakṣmī-jayantī-jānakī-satyā-rukmiṇī, svayaṁ prītyākhya-vyāsa-bhāryātmikāṁ ramām",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "tat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jaganti jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā",
+                  "afterText": "tat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jayantī jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā",
+                  "notes": "Jayantī is a reference-assisted recovery of the noisy jaganti name, not an added goddess. The phrase svayaṁ prītyākhya names Prīti; treating Svayamprīti as a separate proper name was unsupported. Preserve recorded śrīmāyā, kṛti and śānti instead of silently substituting the booklet’s hrīṁ māyā and vowel lengths.",
+                  "confidence": "reference-assisted proper-name recovery",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-020-transcript.json",
+                        "startSeconds": 760,
+                        "endSeconds": 805,
+                        "quote": "ಶ್ರೀಭೂದುರ್ಗಾ ಅಂಬರಣಿ, ಶ್ರೀಮಾಯಾ, ಜಯಾ, ಕೃತಿ, ಶಾಂತಿ, ಲಕ್ಷ್ಮೀ, ಜಗಂತಿ, ಝಾನಕಿ, ಸತ್ಯಾ, ರುಕ್ಮಿಣೀ, ಸ್ವಯಂ ಪ್ರೀತ್ಯಾಕ್ಯ ವ್ಯಾಸಭಾರ್ಯಾ",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      },
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt/original-part-005-transcript.json",
+                        "startSeconds": 680,
+                        "endSeconds": 860,
+                        "quote": "श्रीमाया, जया, कृति, शान्ति, लक्ष्मी, जगन्ति, ज्ञानकि, सत्या, रुक्मिणी, स्वयंप्रीत्याख्य, व्यासभार्या",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryātmikāṁ ramāṁ",
-                "meaning": "Rama in the forms Janaki, Satya, Rukmini and Vyasa’s consort named Svayampriti; this list is restarted.",
+                "meaning": "Ramā, in the forms of Jānakī, Satyā, Rukmiṇī and Prīti, the consort of Vyāsa; these last names are recited again.",
                 "words": [
                   {
                     "text": "jānakī",
@@ -11282,15 +11904,15 @@
                   },
                   {
                     "text": "svayaṁprītyākhya",
-                    "meaning": "named Svayampriti"
+                    "meaning": "herself named Prīti; not a separate proper name Svayamprīti"
                   },
                   {
                     "text": "vyāsabhāryātmikāṁ",
-                    "meaning": "having Vyasa’s consort as the form"
+                    "meaning": "having the form of Vyāsa’s consort"
                   },
                   {
                     "text": "ramāṁ",
-                    "meaning": "Rama or Lakshmi"
+                    "meaning": "Ramā, Lakṣmī"
                   }
                 ],
                 "startSeconds": 786.399,
@@ -11311,7 +11933,34 @@
                     "avahana-word-0773"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 9,
+                    "passage": "svayaṁ prītyākhya-vyāsa-bhāryātmikāṁ ramām",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryātmikāṁ ramāṁ",
+                  "afterText": "jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryātmikāṁ ramāṁ",
+                  "notes": "Meaning/gloss correction only: retain the actual restarted list and the existing compound token. Svayam is a qualifier, while Prīti is the consort’s name according to the reference.",
+                  "confidence": "high",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-020-transcript.json",
+                        "startSeconds": 760,
+                        "endSeconds": 805,
+                        "quote": "ಝಾನಕಿ ಸತ್ಯಾ ರುಕ್ಮಿಣೀ ಸ್ವಯಂ ಪ್ರೀತ್ಯಾಕ್ಯ ವ್ಯಾಸಭಾರ್ಯಾತ್ಮಿಕಾಂ ರಮಾಂ",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "brahmaprāṇa hanumadbhīma madhvān sarasvatī bhāratyau śeṣa rudra pārvatī vināyakān",
@@ -11439,16 +12088,16 @@
                 "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
               },
               {
-                "text": "guguṁ sīnīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ",
-                "meaning": "Gugu [the recorded Kuhu-like name], Sinivali, Raka, Saraswati, Indrani, Varuni and the deities of the suktas.",
+                "text": "guṅgūṁ sinīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ",
+                "meaning": "Guṅgū, Sinīvālī, Rākā, Sarasvatī, Indrāṇī and Vāruṇī: the deities of the sūktas.",
                 "words": [
                   {
-                    "text": "guguṁ",
-                    "meaning": "recorded Kuhu-like deity-name pronunciation"
+                    "text": "guṅgūṁ",
+                    "meaning": "Guṅgū, a named deity of the hymn; no unsubstantiated Kuhu substitution"
                   },
                   {
-                    "text": "sīnīvālīṁ",
-                    "meaning": "Sinivali"
+                    "text": "sinīvālīṁ",
+                    "meaning": "Sinīvālī, the named goddess"
                   },
                   {
                     "text": "rākāṁ",
@@ -11464,7 +12113,7 @@
                   },
                   {
                     "text": "vāruṇīś",
-                    "meaning": "Varuni"
+                    "meaning": "Vāruṇī, the goddess associated with Varuṇa; the recorded ending is retained"
                   },
                   {
                     "text": "ca",
@@ -11472,7 +12121,7 @@
                   },
                   {
                     "text": "sūktadevatāḥ",
-                    "meaning": "deities of the suktas"
+                    "meaning": "the presiding deities of the sacred hymns"
                   }
                 ],
                 "startSeconds": 814.0,
@@ -11493,27 +12142,62 @@
                     "avahana-word-0800"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 9,
+                    "passage": "guṅgūṁ, sinīvālīṁ, rākāṁ, sarasvatīṁ, indrāṇīṁ, varuṇānīṁ ca etāḥ sūktadevatāḥ",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "guguṁ sīnīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ",
+                  "afterText": "guṅgūṁ sinīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ",
+                  "notes": "Guṅgū and Sinīvālī are proper-name spelling recoveries supported by the booklet and the same phonetic names in both acoustic passes. Do not equate Guṅgū with Kuhu in the gloss: that identification was not established by the supplied reference. Preserve recorded vāruṇīś ca, not booklet varuṇānīṁ ca. Vowel-length repair is reference-assisted, not an independently measured acoustic claim.",
+                  "confidence": "reference-assisted proper-name spelling",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-021-transcript.json",
+                        "startSeconds": 800,
+                        "endSeconds": 845,
+                        "quote": "गुग्गुं, सीनीवालीं, राकां, शरश्वतीं, इन्द्राणीं, वारुणीश्च, सुप्तदेवताः",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      },
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt/original-part-005-transcript.json",
+                        "startSeconds": 680,
+                        "endSeconds": 860,
+                        "quote": "गुग्गुं, सीनीवालीं, राकां, सरस्वतीं, इन्द्राणीं, वारुणीश्च, सुप्तदेवताः",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
-                "text": "śrīmadānandatīrtha jaytīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān",
-                "meaning": "Shrimad Anandatirtha, Jayatirtha, Vyasatirtha and the others who composed commentaries, subcommentaries and notes.",
+                "text": "śrīmadānandatīrtha jayatīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān",
+                "meaning": "Śrīmad Ānandatīrtha, Jayatīrtha, Vyāsatīrtha and the others who composed bhāṣyas, ṭīkās and explanatory notes.",
                 "words": [
                   {
                     "text": "śrīmadānandatīrtha",
-                    "meaning": "Shrimad Anandatirtha"
+                    "meaning": "the venerable Ānandatīrtha"
                   },
                   {
-                    "text": "jaytīrtha",
-                    "meaning": "Jayatirtha, contracted recorded reading"
+                    "text": "jayatīrtha",
+                    "meaning": "Jayatīrtha, the named guru"
                   },
                   {
                     "text": "vyāsatīrthādīn",
-                    "meaning": "Vyasatirtha and the others"
+                    "meaning": "Vyāsatīrtha and the other gurus"
                   },
                   {
                     "text": "bhāṣya",
-                    "meaning": "commentary"
+                    "meaning": "scriptural commentary"
                   },
                   {
                     "text": "ṭīkā",
@@ -11521,11 +12205,11 @@
                   },
                   {
                     "text": "ṭippaṇī",
-                    "meaning": "notes"
+                    "meaning": "explanatory notes"
                   },
                   {
                     "text": "kṛtān",
-                    "meaning": "composers"
+                    "meaning": "composers or makers of the preceding commentaries; recorded form retained"
                   }
                 ],
                 "startSeconds": 822.399,
@@ -11547,7 +12231,34 @@
                     "avahana-word-0809"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 9,
+                    "passage": "śrīmadānandatīrtha-jayatīrtha-vyāsatīrthādīn, bhāṣya-ṭīkā-ṭippaṇī-kartṝn",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "śrīmadānandatīrtha jaytīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān",
+                  "afterText": "śrīmadānandatīrtha jayatīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān",
+                  "notes": "Normalize the recognized name Jayatīrtha rather than treating missing medial a as a distinct name. Retain recorded kṛtān instead of replacing it with the booklet’s kartṝn; preserve this recording’s guru list rather than expanding it.",
+                  "confidence": "high",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-021-transcript.json",
+                        "startSeconds": 800,
+                        "endSeconds": 845,
+                        "quote": "श्रीमदानन्दतीर्थ, जगतीर्थ, व्यासतीर्थादीन्, भास्य, टीका, टिप्पणी, कृतान्",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "tat tat mantrair āvāhya kṛpayā sumukhī bhavatv iti prārthya puṣpāñjaliṁ samarpya",
@@ -11620,12 +12331,42 @@
               }
             ]
           },
-          "notes": "The Jaganti, Svayampriti and Gugu/Kuhu-like deity names, and Jayatirtha’s contracted name, remain acoustic-name variants. The Janaki/Satya/Rukmini list restarts and is retained twice.",
+          "notes": "The Jaganti, Svayampriti and Gugu/Kuhu-like deity names, and Jayatirtha’s contracted name, remain acoustic-name variants. The Janaki/Satya/Rukmini list restarts and is retained twice.\nText reference review: PDF p. 9: Jayantī is a reference-assisted recovery of the noisy jaganti name, not an added goddess. The phrase svayaṁ prītyākhya names Prīti; treating Svayamprīti as a separate proper name was unsupported. Preserve recorded śrīmāyā, kṛti and śānti instead of silently substituting the booklet’s hrīṁ māyā and vowel lengths. PDF p. 9: Meaning/gloss correction only: retain the actual restarted list and the existing compound token. Svayam is a qualifier, while Prīti is the consort’s name according to the reference. PDF p. 9: Guṅgū and Sinīvālī are proper-name spelling recoveries supported by the booklet and the same phonetic names in both acoustic passes. Do not equate Guṅgū with Kuhu in the gloss: that identification was not established by the supplied reference. Preserve recorded vāruṇīś ca, not booklet varuṇānīṁ ca. Vowel-length repair is reference-assisted, not an independently measured acoustic claim. PDF p. 9: Normalize the recognized name Jayatīrtha rather than treating missing medial a as a distinct name. Retain recorded kṛtān instead of replacing it with the booklet’s kartṝn; preserve this recording’s guru list rather than expanding it.",
           "id": "A21-block-03",
           "sourceSegmentIds": [
             "A21-block-03"
           ],
-          "integrationSegmentId": "avahana-21-003"
+          "integrationSegmentId": "avahana-21-003",
+          "referenceCorrections": [
+            {
+              "lineIndex": 0,
+              "before": "tat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jaganti jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā",
+              "after": "tat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jayantī jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā",
+              "page": 9,
+              "notes": "Jayantī is a reference-assisted recovery of the noisy jaganti name, not an added goddess. The phrase svayaṁ prītyākhya names Prīti; treating Svayamprīti as a separate proper name was unsupported. Preserve recorded śrīmāyā, kṛti and śānti instead of silently substituting the booklet’s hrīṁ māyā and vowel lengths."
+            },
+            {
+              "lineIndex": 1,
+              "before": "jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryātmikāṁ ramāṁ",
+              "after": "jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryātmikāṁ ramāṁ",
+              "page": 9,
+              "notes": "Meaning/gloss correction only: retain the actual restarted list and the existing compound token. Svayam is a qualifier, while Prīti is the consort’s name according to the reference."
+            },
+            {
+              "lineIndex": 4,
+              "before": "guguṁ sīnīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ",
+              "after": "guṅgūṁ sinīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ",
+              "page": 9,
+              "notes": "Guṅgū and Sinīvālī are proper-name spelling recoveries supported by the booklet and the same phonetic names in both acoustic passes. Do not equate Guṅgū with Kuhu in the gloss: that identification was not established by the supplied reference. Preserve recorded vāruṇīś ca, not booklet varuṇānīṁ ca. Vowel-length repair is reference-assisted, not an independently measured acoustic claim."
+            },
+            {
+              "lineIndex": 5,
+              "before": "śrīmadānandatīrtha jaytīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān",
+              "after": "śrīmadānandatīrtha jayatīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān",
+              "page": 9,
+              "notes": "Normalize the recognized name Jayatīrtha rather than treating missing medial a as a distinct name. Retain recorded kṛtān instead of replacing it with the booklet’s kartṝn; preserve this recording’s guru list rather than expanding it."
+            }
+          ]
         }
       ],
       "contemplate": "Attend to Rama/Lakshmi’s named forms, the sages, sūkta deities and the commentary teachers invoked in the book’s presence.",
@@ -11799,7 +12540,8 @@
       "audioEndSeconds": 840.01,
       "audioFile": "audio17/21-avahana-associated-forms-sages-and-teachers.mp3",
       "audio": true,
-      "mantra": "tat sannidhāne śrī bhū durgā\n\ntat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jaganti jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā\njānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryātmikāṁ ramāṁ\nbrahmaprāṇa hanumadbhīma madhvān sarasvatī bhāratyau śeṣa rudra pārvatī vināyakān\nbādariṁ jaiminiṁ sumantuṁ vaiśampāyanaṁ aśmarathyaṁ pailaṁ kāśakṛtsnaṁ lomaśaṁ etān\nguguṁ sīnīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ\nśrīmadānandatīrtha jaytīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān\ntat tat mantrair āvāhya kṛpayā sumukhī bhavatv iti prārthya puṣpāñjaliṁ samarpya"
+      "mantra": "tat sannidhāne śrī bhū durgā\n\ntat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jayantī jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā\njānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryātmikāṁ ramāṁ\nbrahmaprāṇa hanumadbhīma madhvān sarasvatī bhāratyau śeṣa rudra pārvatī vināyakān\nbādariṁ jaiminiṁ sumantuṁ vaiśampāyanaṁ aśmarathyaṁ pailaṁ kāśakṛtsnaṁ lomaśaṁ etān\nguṅgūṁ sinīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ\nśrīmadānandatīrtha jayatīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān\ntat tat mantrair āvāhya kṛpayā sumukhī bhavatv iti prārthya puṣpāñjaliṁ samarpya",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=9\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 9)</a></div>"
     },
     {
       "id": "22",
@@ -12673,7 +13415,7 @@
           "role": "recitation",
           "sourceOriginal": "sānnidhyaṁ kuru deveśa sarvasaṁpatkaro bhava vibho sakalalokeśa viṣṇo jiṣṇo hare prabho\ntvāṁ bhaktyā pūjayāmi yad yad bhogaiḥ arghyādibhiḥ arghyādibhiḥ kramāt\nyāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvā gṛhītvā pāhi māṁ prabho\ngosvāmin sarvajagatāṁ nātha yāvat pūjāvasānakaṁ tāvat tvaṁ saṁprītibhāvena bimbe asmin pustake asmin sannihito bhava\n",
           "sourceRoman": "sānnidhyaṁ kuru deveśa sarvasaṁpatkaro bhava vibho sakalalokeśa viṣṇo jiṣṇo hare prabho\ntvāṁ bhaktyā pūjayāmi yad yad bhogaiḥ arghyādibhiḥ arghyādibhiḥ kramāt\nyāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvā gṛhītvā pāhi māṁ prabho\ngosvāmin sarvajagatāṁ nātha yāvat pūjāvasānakaṁ tāvat tvaṁ saṁprītibhāvena bimbe asmin pustake asmin sannihito bhava\n",
-          "text": "sānnidhyaṁ kuru deveśa sarvasaṁpatkaro bhava vibho sakalalokeśa viṣṇo jiṣṇo hare prabho\ntvāṁ bhaktyā pūjayāmi yad yad bhogaiḥ arghyādibhiḥ arghyādibhiḥ kramāt\nyāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvā gṛhītvā pāhi māṁ prabho\ngosvāmin sarvajagatāṁ nātha yāvat pūjāvasānakaṁ tāvat tvaṁ saṁprītibhāvena bimbe asmin pustake asmin sannihito bhava",
+          "text": "sānnidhyaṁ kuru deveśa sarvasaṁpatkaro bhava vibho sakalalokeśa viṣṇo jiṣṇo hare prabho\ntvāṁ bhaktyā pūjayāmi yad yad bhogaiḥ arghyādibhiḥ arghyādibhiḥ kramāt\nyāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvaṁ gṛhītvā pāhi māṁ prabho\ngosvāmin sarvajagatāṁ nātha yāvat pūjāvasānakaṁ tāvat tvaṁ saṁprītibhāvena bimbe asmin pustake asmin sannihito bhava",
           "gloss": {
             "lines": [
               {
@@ -12751,7 +13493,7 @@
               },
               {
                 "text": "tvāṁ bhaktyā pūjayāmi yad yad bhogaiḥ arghyādibhiḥ arghyādibhiḥ kramāt",
-                "meaning": "I worship you with devotion and the offerings beginning with arghya, in sequence; the offerings phrase is restarted.",
+                "meaning": "I worship you with devotion, with whatever—whatever—offerings, beginning with arghya—beginning with arghya—in sequence.",
                 "words": [
                   {
                     "text": "tvāṁ",
@@ -12767,27 +13509,27 @@
                   },
                   {
                     "text": "yad",
-                    "meaning": "whatever"
+                    "meaning": "whatever; this word is restarted in the recording"
                   },
                   {
                     "text": "yad",
-                    "meaning": "whatever"
+                    "meaning": "whatever; this word is restarted in the recording"
                   },
                   {
                     "text": "bhogaiḥ",
-                    "meaning": "with offerings"
+                    "meaning": "with offerings or enjoyments presented to the deity"
                   },
                   {
                     "text": "arghyādibhiḥ",
-                    "meaning": "with arghya and following services"
+                    "meaning": "with arghya and the offerings that follow"
                   },
                   {
                     "text": "arghyādibhiḥ",
-                    "meaning": "with arghya and following services"
+                    "meaning": "with arghya and the offerings that follow"
                   },
                   {
                     "text": "kramāt",
-                    "meaning": "in sequence"
+                    "meaning": "in due sequence"
                   }
                 ],
                 "startSeconds": 908.72,
@@ -12809,11 +13551,38 @@
                     "avahana-word-0887"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 12,
+                    "passage": "tvāṁ bhaktyā pūjayāmy adya bhogair arghyādibhiḥ kramāt",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "tvāṁ bhaktyā pūjayāmi yad yad bhogaiḥ arghyādibhiḥ arghyādibhiḥ kramāt",
+                  "afterText": "tvāṁ bhaktyā pūjayāmi yad yad bhogaiḥ arghyādibhiḥ arghyādibhiḥ kramāt",
+                  "notes": "Complete the meaning of the retained audible words and actual restart, rather than inserting booklet adya/today. No text change: both yad tokens and both arghyādibhiḥ occurrences stay in place.",
+                  "confidence": "high",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-023-transcript.json",
+                        "startSeconds": 880,
+                        "endSeconds": 925,
+                        "quote": "त्वां भक्त्या पूजयामि यद्यद् भोगैः रग्यार्घ्यैः दीभिः, अर्घ्यैर्दीभिः क्रमात्",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
-                "text": "yāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvā gṛhītvā pāhi māṁ prabho",
-                "meaning": "Remaining here until the end of the worship, Janardana, accept my worship as your devotee and protect me, Lord.",
+                "text": "yāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvaṁ gṛhītvā pāhi māṁ prabho",
+                "meaning": "Remain here until the rite is complete, O Janārdana; accept the worship of me, your devotee, and protect me, O Lord.",
                 "words": [
                   {
                     "text": "yāgāvasāna",
@@ -12848,8 +13617,8 @@
                     "meaning": "worship"
                   },
                   {
-                    "text": "tvā",
-                    "meaning": "you, recorded linking form"
+                    "text": "tvaṁ",
+                    "meaning": "you, nominative subject of accepting the worship and protecting the devotee"
                   },
                   {
                     "text": "gṛhītvā",
@@ -12887,7 +13656,42 @@
                     "avahana-word-0896"
                   ]
                 },
-                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation."
+                "translationEvidence": "Editorial lexical interpretation of acoustic reading; matched Tantrasara passages used only to interpret words, never to append recitation.",
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 12,
+                    "passage": "yāgāvasānaparyantam atra sthitvā janārdana; bhaktasya mama pūjāṁ tvaṁ gṛhītvā pāhi māṁ prabho",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "yāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvā gṛhītvā pāhi māṁ prabho",
+                  "afterText": "yāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvaṁ gṛhītvā pāhi māṁ prabho",
+                  "notes": "Reference-assisted pronoun correction tvaṁ, nominative you accepting my worship, rather than tvā, accusative you. The nasal is unreliable in acoustic ASR; PDF and local syntax support this editorial reading. Retain recorded yāgāvasāna, not the alternate pūjāvasāna in the reference’s first occurrence. Raw source remains unchanged.",
+                  "confidence": "reference-assisted case recovery",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt-fine/original-part-024-transcript.json",
+                        "startSeconds": 920,
+                        "endSeconds": 965,
+                        "quote": "ಭಕ್ತಸ್ಯ ಮಮ ಪೂಜಾಂ ತ್ವಾ ಗೃಹೀತ್ವಾ ಪಾಹಿ ಮಾಂ ಪ್ರಭೋ",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      },
+                      {
+                        "sourceId": "avahana",
+                        "file": "work/saraswati-puja/avahana/gpt/original-part-006-transcript.json",
+                        "startSeconds": 850,
+                        "endSeconds": 1030,
+                        "quote": "भक्तस्य मम पूजां त्वा गृहीत्वा पाहि मां प्रभो",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
+                }
               },
               {
                 "text": "gosvāmin sarvajagatāṁ nātha yāvat pūjāvasānakaṁ tāvat tvaṁ saṁprītibhāvena bimbe asmin pustake asmin sannihito bhava",
@@ -12975,12 +13779,28 @@
               }
             ]
           },
-          "notes": "The offerings/arghya phrase is restarted and some endings vary. The image-to-book location correction is retained. Exact introductory gosvāmin wording remains provisional.",
+          "notes": "The offerings/arghya phrase is restarted and some endings vary. The image-to-book location correction is retained. Exact introductory gosvāmin wording remains provisional.\nText reference review: PDF p. 12: Complete the meaning of the retained audible words and actual restart, rather than inserting booklet adya/today. No text change: both yad tokens and both arghyādibhiḥ occurrences stay in place. PDF p. 12: Reference-assisted pronoun correction tvaṁ, nominative you accepting my worship, rather than tvā, accusative you. The nasal is unreliable in acoustic ASR; PDF and local syntax support this editorial reading. Retain recorded yāgāvasāna, not the alternate pūjāvasāna in the reference’s first occurrence. Raw source remains unchanged.",
           "id": "A23-block-02",
           "sourceSegmentIds": [
             "A23-block-02"
           ],
-          "integrationSegmentId": "avahana-23-002"
+          "integrationSegmentId": "avahana-23-002",
+          "referenceCorrections": [
+            {
+              "lineIndex": 1,
+              "before": "tvāṁ bhaktyā pūjayāmi yad yad bhogaiḥ arghyādibhiḥ arghyādibhiḥ kramāt",
+              "after": "tvāṁ bhaktyā pūjayāmi yad yad bhogaiḥ arghyādibhiḥ arghyādibhiḥ kramāt",
+              "page": 12,
+              "notes": "Complete the meaning of the retained audible words and actual restart, rather than inserting booklet adya/today. No text change: both yad tokens and both arghyādibhiḥ occurrences stay in place."
+            },
+            {
+              "lineIndex": 2,
+              "before": "yāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvā gṛhītvā pāhi māṁ prabho",
+              "after": "yāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvaṁ gṛhītvā pāhi māṁ prabho",
+              "page": 12,
+              "notes": "Reference-assisted pronoun correction tvaṁ, nominative you accepting my worship, rather than tvā, accusative you. The nasal is unreliable in acoustic ASR; PDF and local syntax support this editorial reading. Retain recorded yāgāvasāna, not the alternate pūjāvasāna in the reference’s first occurrence. Raw source remains unchanged."
+            }
+          ]
         }
       ],
       "contemplate": "Pray that Janardana accept the worship, protect the devotee and remain graciously present in the book until worship ends.",
@@ -13108,7 +13928,8 @@
       "audioEndSeconds": 940.639,
       "audioFile": "audio17/23-avahana-prayer-for-continued-presence.mp3",
       "audio": true,
-      "mantra": "sānnidhyaṁ kuru deveśa sarvasaṁpatkaro bhava vibho sakalalokeśa viṣṇo jiṣṇo hare prabho\ntvāṁ bhaktyā pūjayāmi yad yad bhogaiḥ arghyādibhiḥ arghyādibhiḥ kramāt\nyāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvā gṛhītvā pāhi māṁ prabho\ngosvāmin sarvajagatāṁ nātha yāvat pūjāvasānakaṁ tāvat tvaṁ saṁprītibhāvena bimbe asmin pustake asmin sannihito bhava"
+      "mantra": "sānnidhyaṁ kuru deveśa sarvasaṁpatkaro bhava vibho sakalalokeśa viṣṇo jiṣṇo hare prabho\ntvāṁ bhaktyā pūjayāmi yad yad bhogaiḥ arghyādibhiḥ arghyādibhiḥ kramāt\nyāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvaṁ gṛhītvā pāhi māṁ prabho\ngosvāmin sarvajagatāṁ nātha yāvat pūjāvasānakaṁ tāvat tvaṁ saṁprītibhāvena bimbe asmin pustake asmin sannihito bhava",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=12\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 12)</a></div>"
     },
     {
       "id": "24",
@@ -18672,7 +19493,7 @@
         {
           "kind": "mantra",
           "startSeconds": 191.04,
-          "text": "mama sarvaśāstrārtha vijñānādi sarvābhīṣṭa siddhi dvāra\nsarasvatyantargata bhāratīramaṇa mukhyaprāṇāntargata śrīvedavyāsa preraṇayā vedavyāsa prītyarthaṁ\nsarasvatīātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ\n\n",
+          "text": "mama sarvaśāstrārtha vijñānādi sarvābhīṣṭa siddhi dvāra\nsarasvatyantargata bhāratīramaṇa mukhyaprāṇāntargata śrīvedavyāsa preraṇayā vedavyāsa prītyarthaṁ\nsarasvatyātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ\n\n",
           "sourceOriginal": "mama sarvaśāstrārtha vijñānādi sarvābhīṣṭa siddhi dvāra\nsarasvatyantargata bhāratīramaṇa mukhyaprāṇāntargata śrīvedavyāsa preraṇayā vedavyāsa prītyarthaṁ\nsarasvatīātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ\n",
           "sourceRoman": "mama sarvaśāstrārtha vijñānādi sarvābhīṣṭa siddhi dvāra\nsarasvatyantargata bhāratīramaṇa mukhyaprāṇāntargata śrīvedavyāsa preraṇayā vedavyāsa prītyarthaṁ\nsarasvatīātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ\n",
           "gloss": {
@@ -18766,12 +19587,12 @@
                 }
               },
               {
-                "text": "sarasvatīātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ",
-                "meaning": "I intend Sarasvatī worship on Aṣṭamī as part of the Navarātri festival: worship of Śrī Vedavyāsa having Sarasvatī as his form.",
+                "text": "sarasvatyātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ",
+                "meaning": "I shall perform worship of Śrī Vedavyāsa in the form associated with Sarasvatī, as Sarasvatī worship on Aṣṭamī in the Navarātri festival.",
                 "words": [
                   {
-                    "text": "sarasvatīātmaka",
-                    "meaning": "having Sarasvatī as his form"
+                    "text": "sarasvatyātmaka",
+                    "meaning": "having the form associated with Sarasvatī; Sarasvatī + ātmaka in sandhi"
                   },
                   {
                     "text": "śrīvedavyāsa",
@@ -18809,6 +19630,33 @@
                     129,
                     131
                   ]
+                },
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 13,
+                    "passage": "anena śrī-sarasvatyātmaka-vyāsaparaśurāma-pūjanena",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "sarasvatīātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ",
+                  "afterText": "sarasvatyātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ",
+                  "notes": "Sandhi/spelling recovery of the same compound Sarasvatī + ātmaka, not insertion of a new formula. Preserve the existing single word slot, recorded Aṣṭamī/Navarātri and Vedavyāsa wording; do not import Paraśurāma here from the PDF dedication.",
+                  "confidence": "high",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "puja",
+                        "file": "work/saraswati-puja/puja/gpt-fine/original-part-006-transcript.json",
+                        "startSeconds": 200,
+                        "endSeconds": 245,
+                        "quote": "ಸರಸ್ವತಿ ಆತ್ಮಕ ಶ್ರೀವೇದವ್ಯಾಸ ಪೂಜಾಂ ನವರಾತ್ರಿ ಉತ್ಸವಾಂಗ ಅಷ್ಟಮ್ಯಾಂ ದಿವಸೇ ಸರಸ್ವತಿ ಪೂಜಾಂ",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
                 }
               }
             ],
@@ -18822,7 +19670,7 @@
               }
             ]
           },
-          "notes": "The Sanskrit object is interrupted by the water instruction before final kariṣye, preserved below.",
+          "notes": "The Sanskrit object is interrupted by the water instruction before final kariṣye, preserved below.\nText reference review: PDF p. 13: Sandhi/spelling recovery of the same compound Sarasvatī + ātmaka, not insertion of a new formula. Preserve the existing single word slot, recorded Aṣṭamī/Navarātri and Vedavyāsa wording; do not import Paraśurāma here from the PDF dedication.",
           "timingStatus": "Start at actual native VTT word marker matched to the stated phrase; interval ends at the next spoken block marker. No artificial subdivisions.",
           "endSeconds": 219.599,
           "provenance": {
@@ -19271,7 +20119,16 @@
           "sourceSegmentIds": [
             "puja-P04-004"
           ],
-          "integrationSegmentId": "puja-32-004"
+          "integrationSegmentId": "puja-32-004",
+          "referenceCorrections": [
+            {
+              "lineIndex": 2,
+              "before": "sarasvatīātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ",
+              "after": "sarasvatyātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ",
+              "page": 13,
+              "notes": "Sandhi/spelling recovery of the same compound Sarasvatī + ātmaka, not insertion of a new formula. Preserve the existing single word slot, recorded Aṣṭamī/Navarātri and Vedavyāsa wording; do not import Paraśurāma here from the PDF dedication."
+            }
+          ]
         },
         {
           "kind": "action",
@@ -19468,7 +20325,8 @@
       "audioEndSeconds": 224.569,
       "audioFile": "audio17/32-puja-sankalpa.mp3",
       "audio": true,
-      "mantra": "śubhe śobhane muhūrte ādya brahmaṇaḥ dvitīya parārdhe\nśrīśvetavarāhakalpe vaivasvatamanvantare kaliyuge prathamapāde\njambūdvīpe bharatavarṣe bharatakhaṇḍe daṇḍakāraṇye godāvaryāḥ dakṣiṇapārśve\nśālivāhanaśake bauddhāvatāre rāmakṣetre asmin vartamāne prabhavādi ṣaṣṭi saṁvatsarāṇāṁ madhye\nśubha vaiśvavasunāma saṁvatsare dakṣiṇāyane śaradṛtau āśvījamāse śuklapakṣe aṣṭamyāṁ\nvāsaraḥ vāsarastu bhaumavāsara yuktāyāṁ pūrvāṣāḍhānakṣatra yuktāyāṁ\nśubhanakṣatra śubhayoga śubhakaraṇa evaṁguṇa sakalaviśeṣaṇa viśiṣṭāyāṁ śubhatithau\nbhāratīramaṇa mukhyaprāṇāntargata śrī sarasvatyantargata śrīvedavyāsa preraṇayā śrīvedavyāsa prītyarthaṁ mama\n\n\n\nmama sarvaśāstrārtha vijñānādi sarvābhīṣṭa siddhi dvāra\nsarasvatyantargata bhāratīramaṇa mukhyaprāṇāntargata śrīvedavyāsa preraṇayā vedavyāsa prītyarthaṁ\nsarasvatīātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ\n\n\n\nkariṣye\n\n"
+      "mantra": "śubhe śobhane muhūrte ādya brahmaṇaḥ dvitīya parārdhe\nśrīśvetavarāhakalpe vaivasvatamanvantare kaliyuge prathamapāde\njambūdvīpe bharatavarṣe bharatakhaṇḍe daṇḍakāraṇye godāvaryāḥ dakṣiṇapārśve\nśālivāhanaśake bauddhāvatāre rāmakṣetre asmin vartamāne prabhavādi ṣaṣṭi saṁvatsarāṇāṁ madhye\nśubha vaiśvavasunāma saṁvatsare dakṣiṇāyane śaradṛtau āśvījamāse śuklapakṣe aṣṭamyāṁ\nvāsaraḥ vāsarastu bhaumavāsara yuktāyāṁ pūrvāṣāḍhānakṣatra yuktāyāṁ\nśubhanakṣatra śubhayoga śubhakaraṇa evaṁguṇa sakalaviśeṣaṇa viśiṣṭāyāṁ śubhatithau\nbhāratīramaṇa mukhyaprāṇāntargata śrī sarasvatyantargata śrīvedavyāsa preraṇayā śrīvedavyāsa prītyarthaṁ mama\n\n\n\nmama sarvaśāstrārtha vijñānādi sarvābhīṣṭa siddhi dvāra\nsarasvatyantargata bhāratīramaṇa mukhyaprāṇāntargata śrīvedavyāsa preraṇayā vedavyāsa prītyarthaṁ\nsarasvatyātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ\n\n\n\nkariṣye\n\n",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=13\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 13)</a></div>"
     },
     {
       "id": "33",
@@ -51112,7 +51970,7 @@
               },
               {
                 "text": "sarasvatyantargata bhagavān bhāratīramaṇa mukhyaprāṇāntargata śrī vyāsa paraśurāma prīyatāṁ",
-                "meaning": "May the blessed Vyāsa and Paraśurāma indwelling in Sarasvatī and in Mukhyaprāṇa, the consort of Bhāratī, be pleased.",
+                "meaning": "May the blessed Lord in the forms of Śrī Vyāsa and Paraśurāma, indwelling Sarasvatī and Mukhyaprāṇa, the consort of Bhāratī, be pleased.",
                 "words": [
                   {
                     "text": "sarasvatyantargata",
@@ -51132,15 +51990,15 @@
                   },
                   {
                     "text": "śrī",
-                    "meaning": "auspicious; Śrī/Lakṣmī as named in context"
+                    "meaning": "revered; auspicious honorific before Vyāsa and Paraśurāma"
                   },
                   {
                     "text": "vyāsa",
-                    "meaning": "Vyāsa"
+                    "meaning": "Vyāsa, a form of the Lord"
                   },
                   {
                     "text": "paraśurāma",
-                    "meaning": "Paraśurāma"
+                    "meaning": "Paraśurāma, a form of the Lord"
                   },
                   {
                     "text": "prīyatāṁ",
@@ -51158,6 +52016,33 @@
                     883,
                     885
                   ]
+                },
+                "referenceReview": {
+                  "reference": {
+                    "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+                    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+                    "page": 13,
+                    "passage": "bhagavān bhāratīramaṇa-mukhyaprāṇāntargata-śrī-vyāsaparaśurāmaḥ prīyatām",
+                    "role": "User-supplied textual reference compared with the recording witnesses; not new timing authority."
+                  },
+                  "beforeText": "sarasvatyantargata bhagavān bhāratīramaṇa mukhyaprāṇāntargata śrī vyāsa paraśurāma prīyatāṁ",
+                  "afterText": "sarasvatyantargata bhagavān bhāratīramaṇa mukhyaprāṇāntargata śrī vyāsa paraśurāma prīyatāṁ",
+                  "notes": "Meaning/gloss only: the reference confirms bhagavān as the Lord in the associated Vyāsa–Paraśurāma forms. Here śrī is an honorific before these names, not a new Lakṣmī invocation. Preserve the recorded Sarasvatī-indwelling phrase and separate Vyāsa/Paraśurāma tokens; do not add the PDF’s nominative visarga or rewrite the full dedication.",
+                  "confidence": "high",
+                  "acousticEvidence": {
+                    "witnesses": [
+                      {
+                        "sourceId": "puja",
+                        "file": "work/saraswati-puja/puja/gpt-fine/original-part-038-transcript.json",
+                        "startSeconds": 1480,
+                        "endSeconds": 1525,
+                        "quote": "ಸರಸ್ವತ್ಯಂತರ್ಗತ ಭಗವಾನ್ ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಶ್ರೀ ವ್ಯಾಸ ಪರಶುರಾಮ ಪ್ರಿಯತಾಂತ",
+                        "scope": "Acoustic model witness; raw file remains unchanged. This is not a direct human listening certification."
+                      }
+                    ],
+                    "basis": "Stored acoustic transcription witnesses; no new human listening or audio timing claim."
+                  },
+                  "audioCuePreserved": true
                 }
               }
             ],
@@ -51171,7 +52056,7 @@
               }
             ]
           },
-          "notes": "First completion verse is phonetic reconstruction supported by fine/coarse/targeted acoustic words; exact yasya/sadyo sentence remains review flagged. Recorded repetition navarātryāṁ/śarad navarātri retained; final Vyāsa–Paraśurāma form not replaced with generic deity. Last water instruction and first completion verse share native event1464.799–1470.789; exact intra-event partition unresolved.",
+          "notes": "First completion verse is phonetic reconstruction supported by fine/coarse/targeted acoustic words; exact yasya/sadyo sentence remains review flagged. Recorded repetition navarātryāṁ/śarad navarātri retained; final Vyāsa–Paraśurāma form not replaced with generic deity. Last water instruction and first completion verse share native event1464.799–1470.789; exact intra-event partition unresolved.\nText reference review: PDF p. 13: Meaning/gloss only: the reference confirms bhagavān as the Lord in the associated Vyāsa–Paraśurāma forms. Here śrī is an honorific before these names, not a new Lakṣmī invocation. Preserve the recorded Sarasvatī-indwelling phrase and separate Vyāsa/Paraśurāma tokens; do not add the PDF’s nominative visarga or rewrite the full dedication.",
           "timingStatus": "Start at actual native VTT word marker matched to the stated phrase; interval ends at the next spoken block marker. No artificial subdivisions.",
           "endSeconds": 1489.039,
           "provenance": {
@@ -51522,7 +52407,16 @@
           "sourceSegmentIds": [
             "puja-P38-002"
           ],
-          "integrationSegmentId": "puja-66-002"
+          "integrationSegmentId": "puja-66-002",
+          "referenceCorrections": [
+            {
+              "lineIndex": 5,
+              "before": "sarasvatyantargata bhagavān bhāratīramaṇa mukhyaprāṇāntargata śrī vyāsa paraśurāma prīyatāṁ",
+              "after": "sarasvatyantargata bhagavān bhāratīramaṇa mukhyaprāṇāntargata śrī vyāsa paraśurāma prīyatāṁ",
+              "page": 13,
+              "notes": "Meaning/gloss only: the reference confirms bhagavān as the Lord in the associated Vyāsa–Paraśurāma forms. Here śrī is an honorific before these names, not a new Lakṣmī invocation. Preserve the recorded Sarasvatī-indwelling phrase and separate Vyāsa/Paraśurāma tokens; do not add the PDF’s nominative visarga or rewrite the full dedication."
+            }
+          ]
         },
         {
           "kind": "action",
@@ -51706,7 +52600,8 @@
       "audioEndSeconds": 1493.44,
       "audioFile": "audio17/66-puja-dedication.mp3",
       "audio": true,
-      "mantra": "yasya smṛtyā ca nāmoktyā tapaḥ pūjākriyādiṣu\nnyūnaṁ sampūrṇatāṁ yāti sadyo vande tamacyutam\nmantrahīnaṁ kriyāhīnaṁ bhaktihīnaṁ ramāpate\nyatpūjanaṁ mayā deva paripūrṇaṁ tadastu te\nanena navarātryāṁ śarad navarātri mahotsave ācarita sarasvatī pūjanena\nsarasvatyantargata bhagavān bhāratīramaṇa mukhyaprāṇāntargata śrī vyāsa paraśurāma prīyatāṁ\n\n\n\nśrīkṛṣṇārpaṇamastu\n\n"
+      "mantra": "yasya smṛtyā ca nāmoktyā tapaḥ pūjākriyādiṣu\nnyūnaṁ sampūrṇatāṁ yāti sadyo vande tamacyutam\nmantrahīnaṁ kriyāhīnaṁ bhaktihīnaṁ ramāpate\nyatpūjanaṁ mayā deva paripūrṇaṁ tadastu te\nanena navarātryāṁ śarad navarātri mahotsave ācarita sarasvatī pūjanena\nsarasvatyantargata bhagavān bhāratīramaṇa mukhyaprāṇāntargata śrī vyāsa paraśurāma prīyatāṁ\n\n\n\nśrīkṛṣṇārpaṇamastu\n\n",
+      "html": "<div class=\"source-link pdf-reference\"><a href=\"../backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf#page=13\" target=\"_blank\" rel=\"noopener\">Mantra reference (PDF page 13)</a></div>"
     },
     {
       "id": "67",
@@ -56554,6 +57449,26 @@
       "audioFile": "audio17/81-visarjana-closing-blessings.mp3",
       "audio": true,
       "mantra": "śrīkṛṣṇārpaṇa."
+    }
+  ],
+  "referenceSources": [
+    {
+      "id": "vedavyasa-sarasvati-pdf-reference",
+      "title": "Vedavyasa and Sarasvati Puja English IAST",
+      "file": "backups/guide-saraswati-pdf-reference/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+      "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63",
+      "reviewedPages": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        13
+      ],
+      "basis": "Selected textual corrections only; recorded repetitions, unmatched variants, original source text and audio cues are retained."
     }
   ]
 });

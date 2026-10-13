@@ -1,0 +1,92 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 2187,
+    "sha256": "c2c8502343eb9ed64f83f5ab9ff825cc3984faf685c8ed91c9e4f9a2159a20ca"
+  },
+  {
+    "file": "Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+    "bytes": 129250,
+    "sha256": "659d2483af63790122a73905361bf4e865304ee0c3baa0ad31a9752a1b213c63"
+  },
+  {
+    "file": "applied-corrections.json",
+    "bytes": 154213,
+    "sha256": "8e9a634782a43029ed20cd34d8525a6095999372e838008e069cc253632d700b"
+  },
+  {
+    "file": "apply_reference_review.py",
+    "bytes": 8000,
+    "sha256": "d718b5b7c1089fbe4cb5e6d0c50ddb56e40a2ecf5d8b686d8ff394b872bf8379"
+  },
+  {
+    "file": "baseline-data17.js.gz",
+    "bytes": 224904,
+    "sha256": "c1832d5db319bde82733b1ea034fa40328e04da6a38b3b184d80caba66ff0bde"
+  },
+  {
+    "file": "baseline-guide.json.gz",
+    "bytes": 224799,
+    "sha256": "d9ccd764687a717c2615cf5eba59d54f1e819df18e5feff3ee1602433b54190e"
+  },
+  {
+    "file": "check_reference_preservation.py",
+    "bytes": 4746,
+    "sha256": "441ea589388b657bec74c3752d4fad845e628c88108d884c093b2f584021c6a7"
+  },
+  {
+    "file": "check_reference_ui.cjs",
+    "bytes": 4638,
+    "sha256": "79e625633e7c14b23814268658348786dba16ddfb0624bb23a5f67ec6a1f12f7"
+  },
+  {
+    "file": "pdf-match-inventory.json",
+    "bytes": 23806,
+    "sha256": "fd4d6206c0492ccfab8e972d4038c650044bb0ef1178eb2f919823585b1ac13d"
+  },
+  {
+    "file": "pdf-pages.json",
+    "bytes": 31671,
+    "sha256": "a40eafdc4886e40c3414effbe6b1e53d5582ec894d5a5d2856e9ad8461d33aed"
+  },
+  {
+    "file": "pdf-provenance.json",
+    "bytes": 597,
+    "sha256": "d2463ce40f965a2f6fc35bd0b43df80acf7ac59c37a8c5f9676918afcad1b75e"
+  },
+  {
+    "file": "pdf-text.txt.gz",
+    "bytes": 11110,
+    "sha256": "1b5256bd0e8cb524594c2819659440221725fb65853bdfb67126fc514fb84b96"
+  },
+  {
+    "file": "peer-review.json",
+    "bytes": 13873,
+    "sha256": "d554f509f570ef5192cbc3cae2d6fe970dae6b43d710bb1783abd3a7034524e3"
+  },
+  {
+    "file": "preservation-checks.json",
+    "bytes": 638,
+    "sha256": "709429d7e90cfde5972c784f0bf2bdd15fd69dbb1d143cb9a8c0efe654a27c0c"
+  },
+  {
+    "file": "review-dhyanas.json",
+    "bytes": 34303,
+    "sha256": "73f6c7113d7cc5aa9c4486666e497296a9943d6615debf5916b7dc364e670d3f"
+  },
+  {
+    "file": "review-presence.json",
+    "bytes": 76108,
+    "sha256": "5fb19bb9ed64ba053ebd31c931ec019a3c804baa679c86b0221710c41b03826b"
+  },
+  {
+    "file": "source-booklet.pdf",
+    "bytes": 127009,
+    "sha256": "591352cbcca2317e9da381d63313c9c843c8c39491baab3b753e5abfce314549"
+  },
+  {
+    "file": "ui-checks.json",
+    "bytes": 419,
+    "sha256": "00e18305055da124fbf2e3266aaa9c47f104e918849134243ecb5b814c4768d0"
+  }
+]

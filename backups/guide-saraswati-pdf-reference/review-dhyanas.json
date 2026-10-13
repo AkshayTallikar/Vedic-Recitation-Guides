@@ -1,0 +1,750 @@
+{
+  "scope": "Read-only PDF/acoustic reconciliation proposals for Avahana07–14; no guide/source edits",
+  "baselineSHA256": "744408cf787d966a57cba023c005495816d27f0f257def0f63346270c4dc8166",
+  "reference": "/Users/akshaytallikar/Downloads/Vedavyasa_Sarasvati_Puja_English_IAST.pdf",
+  "pageNumbering": "Rendered PDF pages, with original booklet page described in extracted passage",
+  "proposals": [
+    {
+      "sectionId": "07",
+      "blockIndex": 1,
+      "lineIndex": 1,
+      "beforeText": "purodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir vyāpta samasta lokaṁ",
+      "afterText": "prodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir āpta samasta lokaṁ",
+      "meaning": "Of a form like the rising sun, reaching all worlds with the great rays of a thousand suns.",
+      "words": [
+        {
+          "text": "prodyad",
+          "meaning": "rising"
+        },
+        {
+          "text": "divākara",
+          "meaning": "sun"
+        },
+        {
+          "text": "samānatanuṁ",
+          "meaning": "of a similar body"
+        },
+        {
+          "text": "sahasra",
+          "meaning": "thousand"
+        },
+        {
+          "text": "sūryoru",
+          "meaning": "great solar"
+        },
+        {
+          "text": "dīdhitibhir",
+          "meaning": "with rays"
+        },
+        {
+          "text": "āpta",
+          "meaning": "reached or pervaded"
+        },
+        {
+          "text": "samasta",
+          "meaning": "all"
+        },
+        {
+          "text": "lokaṁ",
+          "meaning": "world"
+        }
+      ],
+      "pdfPage": 4,
+      "pdfPassage": "prodyaddivākara-samānatanuṃ sahasra-sūryorudīdhitibhir āpta-samastalokam",
+      "acousticEvidence": {
+        "files": [
+          "work/saraswati-puja/avahana/gpt-fine/original-part-008-transcript.json",
+          "work/saraswati-puja/avahana/gpt-fine/original-part-009-transcript.json",
+          "work/saraswati-puja/avahana/gpt/original-part-002-transcript.json",
+          "work/saraswati-puja/avahana/reconciled/kapila-gpt4o.json"
+        ],
+        "observedReading": "purodyad/dīpākara … dīdhiti … virāpta samasta lokam; the noisy virāpta can resolve as bhir āpta rather than an independent vyāpta word",
+        "nativeIntervalSeconds": [
+          313.199,
+          323.68
+        ],
+        "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+      },
+      "notes": "PDF supports prodyad and the dīdhitibhir āpta join. This repairs the noisy displayed lexical parsing without removing either part of the recorded verse or changing its line window.",
+      "confidence": "context-supported",
+      "decision": "propose-display-and-learning-enrichment-correction",
+      "preserve": {
+        "sourceOriginal": true,
+        "sourceRoman": true,
+        "lineCount": true,
+        "nullSeparators": true,
+        "audioTimes": true
+      },
+      "unchangedAudioTimes": {
+        "startSeconds": 313.199,
+        "endSeconds": 323.68
+      }
+    },
+    {
+      "sectionId": "07",
+      "blockIndex": 1,
+      "lineIndex": 2,
+      "beforeText": "jñānābhayādi takaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ",
+      "afterText": "jñānābhayāṅkitakaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ",
+      "meaning": "Kapila and Datta, whose hands bear the signs of knowledge and fearlessness; the speaker then restarts that expression, with the second joining still uncertain.",
+      "words": [
+        {
+          "text": "jñānābhayāṅkitakaraṁ",
+          "meaning": "hands marked with knowledge and fearlessness gestures"
+        },
+        {
+          "text": "jñānādi",
+          "meaning": "recorded knowledge-related restart"
+        },
+        {
+          "text": "bhayāntikaraṁ",
+          "meaning": "recorded continuation of the restarted fearlessness/hand expression, exact form uncertain"
+        },
+        {
+          "text": "kapilaś",
+          "meaning": "Kapila"
+        },
+        {
+          "text": "ca",
+          "meaning": "and"
+        },
+        {
+          "text": "dattaṁ",
+          "meaning": "Datta"
+        }
+      ],
+      "pdfPage": 4,
+      "pdfPassage": "jñānābhayāṅkitakaraṃ kapilaṃ ca dattaṃ",
+      "acousticEvidence": {
+        "files": [
+          "work/saraswati-puja/avahana/gpt-fine/original-part-009-transcript.json",
+          "work/saraswati-puja/avahana/gpt/original-part-002-transcript.json",
+          "work/saraswati-puja/avahana/reconciled/kapila-gpt4o.json"
+        ],
+        "observedReading": "jñānābhayādikaṁ takaraṁ, jñānādi bhayāntikaraṁ, kapilaś ca dattaṁ; native similarly splits first expression around takara",
+        "nativeIntervalSeconds": [
+          323.68,
+          330.96
+        ],
+        "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+      },
+      "notes": "Repair only the first damaged hand compound with the PDF. Keep the second jñānādi/bhayāntikaraṁ restart and the recorded kapilaś form; do not replace the whole line with the booklet’s smooth single occurrence. The second restart remains explicitly uncertain.",
+      "confidence": "reference-supported first-compound repair; second restart deliberately retained",
+      "decision": "propose-display-and-learning-enrichment-correction",
+      "preserve": {
+        "sourceOriginal": true,
+        "sourceRoman": true,
+        "lineCount": true,
+        "nullSeparators": true,
+        "audioTimes": true
+      },
+      "unchangedAudioTimes": {
+        "startSeconds": 323.68,
+        "endSeconds": 330.96
+      }
+    },
+    {
+      "sectionId": "09",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "beforeText": "śyāmaṁ ravīndum iti dīdhitikāntiyuktaṁ",
+      "afterText": "śyāmaṁ ravīndvamita dīdhitikāntiyuktaṁ",
+      "meaning": "Dark-hued, endowed with immeasurable radiance like the sun and moon.",
+      "words": [
+        {
+          "text": "śyāmaṁ",
+          "meaning": "dark-hued"
+        },
+        {
+          "text": "ravīndvamita",
+          "meaning": "sun-and-moon-like, immeasurable; ravi plus indu plus amita, the PDF’s qualified textual repair"
+        },
+        {
+          "text": "dīdhitikāntiyuktaṁ",
+          "meaning": "endowed with ray-like radiance"
+        }
+      ],
+      "pdfPage": 4,
+      "pdfPassage": "śyāmaṃ ravīndvamita-dīdhitikāntiyuktaṃ; text note identifies this as repair of printed ravīndramita",
+      "acousticEvidence": {
+        "files": [
+          "work/saraswati-puja/avahana/gpt-fine/original-part-010-transcript.json",
+          "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json"
+        ],
+        "observedReading": "śyāmaṁ ravīndu mīti dīdhitikāntiyuktaṁ; native ravindu mīti shows the same continuous noisy join",
+        "nativeIntervalSeconds": [
+          385.12,
+          389.28
+        ],
+        "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+      },
+      "notes": "Adopt the PDF’s explicitly qualified ravīndvamita lexical reading for the noisy ravīndum iti join. The PDF’s suggested repair is documented; it does not establish an independently heard long vowel. The source strings stay unchanged.",
+      "confidence": "qualified PDF repair supported by acoustic context",
+      "decision": "propose-display-and-learning-enrichment-correction",
+      "preserve": {
+        "sourceOriginal": true,
+        "sourceRoman": true,
+        "lineCount": true,
+        "nullSeparators": true,
+        "audioTimes": true
+      },
+      "unchangedAudioTimes": {
+        "startSeconds": 385.12,
+        "endSeconds": 389.28
+      }
+    },
+    {
+      "sectionId": "10",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "beforeText": "dhyāyet harirmaṇinibhaṁ jagadekavandyaṁ",
+      "afterText": "dhyāyed dhariṁ maṇinibhaṁ jagadekavandyaṁ",
+      "meaning": "Meditate on Hari, radiant like a jewel, uniquely revered by the whole world.",
+      "words": [
+        {
+          "text": "dhyāyed",
+          "meaning": "one should meditate"
+        },
+        {
+          "text": "dhariṁ",
+          "meaning": "Hari in the dhyāyed-dhariṁ sandhi, accusative harim"
+        },
+        {
+          "text": "maṇinibhaṁ",
+          "meaning": "resembling a jewel"
+        },
+        {
+          "text": "jagadekavandyaṁ",
+          "meaning": "uniquely revered by the world"
+        }
+      ],
+      "pdfPage": 5,
+      "pdfPassage": "dhyāyed dhariṃ maṇinibhaṃ jagadekavandyaṃ",
+      "acousticEvidence": {
+        "files": [
+          "work/saraswati-puja/avahana/gpt-fine/original-part-011-transcript.json",
+          "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json"
+        ],
+        "observedReading": "dhyāyet harir-maṇibhaṁ/jagadeka-bandyaṁ; native yāyat harirmaṇiṁ",
+        "nativeIntervalSeconds": [
+          405.44,
+          408.72
+        ],
+        "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+      },
+      "notes": "The PDF resolves the noisy combined harirmaṇinibhaṁ as Hari followed by the jewel comparison. This is lexical resegmentation of the same recorded phrase, not addition of a new deity or an unspoken line.",
+      "confidence": "context-supported",
+      "decision": "propose-display-and-learning-enrichment-correction",
+      "preserve": {
+        "sourceOriginal": true,
+        "sourceRoman": true,
+        "lineCount": true,
+        "nullSeparators": true,
+        "audioTimes": true
+      },
+      "unchangedAudioTimes": {
+        "startSeconds": 405.44,
+        "endSeconds": 408.72
+      }
+    },
+    {
+      "sectionId": "11",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "beforeText": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhaṁ dhanurdharam ekavīraṁ",
+      "afterText": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhadhanurdharam ekavīraṁ",
+      "meaning": "Ember-colored, pervading the exterior of the cosmic sphere with his radiance, bearing axe and bow, the unique hero.",
+      "words": [
+        {
+          "text": "aṅgāravarṇam",
+          "meaning": "ember-colored"
+        },
+        {
+          "text": "abhito",
+          "meaning": "all around"
+        },
+        {
+          "text": "aṇḍabahiḥ",
+          "meaning": "outside the cosmic egg"
+        },
+        {
+          "text": "prabhābhir",
+          "meaning": "with radiances"
+        },
+        {
+          "text": "vyāptaṁ",
+          "meaning": "pervaded"
+        },
+        {
+          "text": "paraśvadhadhanurdharam",
+          "meaning": "bearer of axe and bow, paraśvadha plus dhanus plus dhara"
+        },
+        {
+          "text": "ekavīraṁ",
+          "meaning": "unique hero"
+        }
+      ],
+      "pdfPage": 5,
+      "pdfPassage": "aṅgāravarṇam abhito 'ṇḍabahiḥ prabhābhiḥ vyāptaṃ paraśvadhadhanurdharam ekavīram",
+      "acousticEvidence": {
+        "files": [
+          "work/saraswati-puja/avahana/gpt-fine/original-part-011-transcript.json",
+          "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json"
+        ],
+        "observedReading": "paraśvataṁ/paraśvataṁ dhanuṛdharam ekavīram; native same axe-followed-by-bow sequence",
+        "nativeIntervalSeconds": [
+          422.72,
+          431.12
+        ],
+        "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+      },
+      "notes": "Use the PDF-supported axe-and-bow bearer compound instead of a detached accusative axe followed by only a bow-bearer. Keep the recorded outside-cosmic-sphere sequence and original line split. Do not add the booklet’s Om or invocation after this verse.",
+      "confidence": "context-supported",
+      "decision": "propose-display-and-learning-enrichment-correction",
+      "preserve": {
+        "sourceOriginal": true,
+        "sourceRoman": true,
+        "lineCount": true,
+        "nullSeparators": true,
+        "audioTimes": true
+      },
+      "unchangedAudioTimes": {
+        "startSeconds": 422.72,
+        "endSeconds": 431.12
+      }
+    },
+    {
+      "sectionId": "12",
+      "blockIndex": 1,
+      "lineIndex": 1,
+      "beforeText": "cakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agraśaktiṁ",
+      "afterText": "cakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agryaśaktiṁ",
+      "meaning": "Bearing discus and conch, accompanied by the beloved, with radiance surpassing millions of suns and supreme power.",
+      "words": [
+        {
+          "text": "cakraṁ",
+          "meaning": "discus"
+        },
+        {
+          "text": "daraṁ",
+          "meaning": "conch"
+        },
+        {
+          "text": "ca",
+          "meaning": "and"
+        },
+        {
+          "text": "dadhataṁ",
+          "meaning": "bearing"
+        },
+        {
+          "text": "priyayā",
+          "meaning": "with the beloved"
+        },
+        {
+          "text": "sametaṁ",
+          "meaning": "accompanied"
+        },
+        {
+          "text": "tigmāṁśukoṭyadhikatejasam",
+          "meaning": "radiance surpassing millions of suns"
+        },
+        {
+          "text": "agryaśaktiṁ",
+          "meaning": "possessing foremost or supreme power, the PDF’s qualified repair"
+        }
+      ],
+      "pdfPage": 6,
+      "pdfPassage": "tigmāṃśukoṭyadhikatejasam agryaśaktim; PDF note explicitly repairs printed agraśaktiṃ following a parallel verse",
+      "acousticEvidence": {
+        "files": [
+          "work/saraswati-puja/avahana/gpt-fine/original-part-012-transcript.json",
+          "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json"
+        ],
+        "observedReading": "tigmāṁśu-koṭyadhika-tejasam agra/samagraśaktiṁ; native samagrasaktim does not cleanly resolve the ry cluster",
+        "nativeIntervalSeconds": [
+          450.08,
+          464.0
+        ],
+        "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+      },
+      "notes": "The PDF labels agryaśaktim as a suggested textual repair. It fits the recorded compound context, but the exact ry cluster is not independently resolved by the acoustic witnesses. Preserve the raw agra-reading and its cue; retain the separate recorded Ugram Viram prayer and Lakshmi-Narasimha invocation that the booklet omits.",
+      "confidence": "qualified textual repair; acoustic consonant cluster remains uncertain",
+      "decision": "propose-display-and-learning-enrichment-correction",
+      "preserve": {
+        "sourceOriginal": true,
+        "sourceRoman": true,
+        "lineCount": true,
+        "nullSeparators": true,
+        "audioTimes": true
+      },
+      "unchangedAudioTimes": {
+        "startSeconds": 451.919,
+        "endSeconds": 459.029
+      }
+    },
+    {
+      "sectionId": "13",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "beforeText": "vijñānarociḥ paripūritāntar brahmāṇḍakośaṁ haritopalābhaṁ",
+      "afterText": "vijñānarociḥ paripūritāntaḥ bāhyāṇḍakośaṁ haritopalābhaṁ",
+      "meaning": "His radiance of knowledge fills the cosmic sphere within and without; his appearance is like an emerald.",
+      "words": [
+        {
+          "text": "vijñānarociḥ",
+          "meaning": "radiance of knowledge"
+        },
+        {
+          "text": "paripūritāntaḥ",
+          "meaning": "completely filled within; joined contextually with the following outside expression"
+        },
+        {
+          "text": "bāhyāṇḍakośaṁ",
+          "meaning": "the outer cosmic sphere or sheath, bāhya plus aṇḍakośa"
+        },
+        {
+          "text": "haritopalābhaṁ",
+          "meaning": "emerald-like"
+        }
+      ],
+      "pdfPage": 6,
+      "pdfPassage": "vijñānarociḥ-paripūritāntaḥ-bāhyāṇḍakośaṃ haritopalābham",
+      "acousticEvidence": {
+        "files": [
+          "work/saraswati-puja/avahana/gpt-fine/original-part-012-transcript.json",
+          "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json"
+        ],
+        "observedReading": "paripūritāntar bākṣyāṇḍakośaṁ / bākhyāṇḍakośaṁ; native severely abbreviates the middle; the acoustic bākhya/bākṣya onset favors bāhya over baseline brahma",
+        "nativeIntervalSeconds": [
+          473.84,
+          480.96
+        ],
+        "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+      },
+      "notes": "The PDF resolves the acoustically damaged bākhya/bākṣya reading to bāhyāṇḍakośaṁ and the inside/outside join. Do not substitute the different brahmāṇḍa version of another parallel text merely because it is familiar.",
+      "confidence": "context-supported",
+      "decision": "propose-display-and-learning-enrichment-correction",
+      "preserve": {
+        "sourceOriginal": true,
+        "sourceRoman": true,
+        "lineCount": true,
+        "nullSeparators": true,
+        "audioTimes": true
+      },
+      "unchangedAudioTimes": {
+        "startSeconds": 473.84,
+        "endSeconds": 480.96
+      }
+    },
+    {
+      "sectionId": "13",
+      "blockIndex": 1,
+      "lineIndex": 1,
+      "beforeText": "tarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato asmi",
+      "afterText": "tarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato 'smi",
+      "meaning": "I bow to the giver of knowledge to the gods headed by Brahma and Shiva, whose hands display reasoning and fearlessness.",
+      "words": [
+        {
+          "text": "tarkābhayetaṁ",
+          "meaning": "with reasoning and fearlessness gestures"
+        },
+        {
+          "text": "vidhiśarvapūrva",
+          "meaning": "headed by Brahma and Shiva"
+        },
+        {
+          "text": "gīrvāṇa",
+          "meaning": "gods"
+        },
+        {
+          "text": "vijñānadam",
+          "meaning": "giver of knowledge"
+        },
+        {
+          "text": "ānato",
+          "meaning": "bowed"
+        },
+        {
+          "text": "'smi",
+          "meaning": "I am, the elided asmi after ānataḥ"
+        }
+      ],
+      "pdfPage": 6,
+      "pdfPassage": "tarkābhayetaṃ vidhiśarvapūrva-gīrvāṇavijñānadam ānato 'smi",
+      "acousticEvidence": {
+        "files": [
+          "work/saraswati-puja/avahana/gpt-fine/original-part-013-transcript.json",
+          "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json"
+        ],
+        "observedReading": "gīrvāṇa vijñānadam ānatoṣmi/ānatośmi, continuous ānato-smi ending",
+        "nativeIntervalSeconds": [
+          480.96,
+          486.0
+        ],
+        "limit": "Comparison of stored acoustic-transcription witnesses and native markers; no personal hearing or new word-timing claim."
+      },
+      "notes": "Use the PDF-supported elision ānato ’smi rather than inserting an independently pronounced initial a into asmi. This changes orthographic sandhi, not the recorded phrase or the existing learning-line split.",
+      "confidence": "context-supported",
+      "decision": "propose-display-and-learning-enrichment-correction",
+      "preserve": {
+        "sourceOriginal": true,
+        "sourceRoman": true,
+        "lineCount": true,
+        "nullSeparators": true,
+        "audioTimes": true
+      },
+      "unchangedAudioTimes": {
+        "startSeconds": 480.96,
+        "endSeconds": 486.0
+      }
+    }
+  ],
+  "unchangedDecisions": [
+    {
+      "sectionId": "07",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "text": "oṁ kapilāya namaḥ",
+      "decision": "leave-unchanged",
+      "reason": "PDF confirms the Kapila/Datta subject; retain the recording’s repeated Aja phrase, early salutation and combined book invocation, which differ from the booklet’s separate formulas."
+    },
+    {
+      "sectionId": "07",
+      "blockIndex": 1,
+      "lineIndex": 3,
+      "text": "dhyāyed ajādi ajādi samitiṁ pratibodhayantaṁ",
+      "decision": "leave-unchanged",
+      "reason": "PDF confirms the Kapila/Datta subject; retain the recording’s repeated Aja phrase, early salutation and combined book invocation, which differ from the booklet’s separate formulas."
+    },
+    {
+      "sectionId": "07",
+      "blockIndex": 1,
+      "lineIndex": 4,
+      "text": "oṁ kaṁ kapilāya namaḥ oṁ daṁ dattātreyāya namaḥ asmin pustake kapila dattātreyaṁ āvāhayāmi",
+      "decision": "leave-unchanged",
+      "reason": "PDF confirms the Kapila/Datta subject; retain the recording’s repeated Aja phrase, early salutation and combined book invocation, which differ from the booklet’s separate formulas."
+    },
+    {
+      "sectionId": "08",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "text": "vande turaṅgavadanaṁ śaśibimba saṁsthaṁ",
+      "decision": "leave-unchanged",
+      "reason": "The PDF confirms the displayed Hayagriva words. Retain the extra recorded pratihati fragment and current meditation/invocation wording. Do not append saṁsevyamānam or Lakshmi nectar-bathing lines that the booklet includes but this recording omits."
+    },
+    {
+      "sectionId": "08",
+      "blockIndex": 1,
+      "lineIndex": 1,
+      "text": "candrāvadātam amṛtātmakaraiḥ samantāt",
+      "decision": "leave-unchanged",
+      "reason": "The PDF confirms the displayed Hayagriva words. Retain the extra recorded pratihati fragment and current meditation/invocation wording. Do not append saṁsevyamānam or Lakshmi nectar-bathing lines that the booklet includes but this recording omits."
+    },
+    {
+      "sectionId": "08",
+      "blockIndex": 1,
+      "lineIndex": 2,
+      "text": "aṇḍāntaraṁ pratihati bahir api pratibhāsayantaṁ",
+      "decision": "leave-unchanged",
+      "reason": "The PDF confirms the displayed Hayagriva words. Retain the extra recorded pratihati fragment and current meditation/invocation wording. Do not append saṁsevyamānam or Lakshmi nectar-bathing lines that the booklet includes but this recording omits."
+    },
+    {
+      "sectionId": "08",
+      "blockIndex": 1,
+      "lineIndex": 3,
+      "text": "śaṅkhākṣa pustaka subodhayutābjabāhuṁ",
+      "decision": "leave-unchanged",
+      "reason": "The PDF confirms the displayed Hayagriva words. Retain the extra recorded pratihati fragment and current meditation/invocation wording. Do not append saṁsevyamānam or Lakshmi nectar-bathing lines that the booklet includes but this recording omits."
+    },
+    {
+      "sectionId": "08",
+      "blockIndex": 1,
+      "lineIndex": 4,
+      "text": "nasto mukhād api nirantaram udgirantaṁ",
+      "decision": "leave-unchanged",
+      "reason": "The PDF confirms the displayed Hayagriva words. Retain the extra recorded pratihati fragment and current meditation/invocation wording. Do not append saṁsevyamānam or Lakshmi nectar-bathing lines that the booklet includes but this recording omits."
+    },
+    {
+      "sectionId": "08",
+      "blockIndex": 1,
+      "lineIndex": 5,
+      "text": "vidyā aśeṣata utābjabhaveśamukhyaiḥ",
+      "decision": "leave-unchanged",
+      "reason": "The PDF confirms the displayed Hayagriva words. Retain the extra recorded pratihati fragment and current meditation/invocation wording. Do not append saṁsevyamānam or Lakshmi nectar-bathing lines that the booklet includes but this recording omits."
+    },
+    {
+      "sectionId": "08",
+      "blockIndex": 1,
+      "lineIndex": 6,
+      "text": "hāṁ hayagrīvāya namaḥ hayagrīvaṁ dhyāyāmi āvāhayāmi",
+      "decision": "leave-unchanged",
+      "reason": "The PDF confirms the displayed Hayagriva words. Retain the extra recorded pratihati fragment and current meditation/invocation wording. Do not append saṁsevyamānam or Lakshmi nectar-bathing lines that the booklet includes but this recording omits."
+    },
+    {
+      "sectionId": "09",
+      "blockIndex": 1,
+      "lineIndex": 1,
+      "text": "jñānaṁ śaraṁ ca dadhataṁ priyayā sametaṁ",
+      "decision": "leave-unchanged",
+      "reason": "Retain the Sanskrit-based recipient reading of smaratorugīrbhiḥ, qualifying Hanuman and others remembering him with mighty praises; do not copy the PDF’s questionable fresh imperative. Preserve recorded salutation and invocation around the spoken akshata cue."
+    },
+    {
+      "sectionId": "09",
+      "blockIndex": 1,
+      "lineIndex": 2,
+      "text": "svātmasvarūpam amitaṁ hanumanmukheṣu sandarśayantaṁ ajitaṁ smaratorugīrbhiḥ",
+      "decision": "leave-unchanged",
+      "reason": "Retain the Sanskrit-based recipient reading of smaratorugīrbhiḥ, qualifying Hanuman and others remembering him with mighty praises; do not copy the PDF’s questionable fresh imperative. Preserve recorded salutation and invocation around the spoken akshata cue."
+    },
+    {
+      "sectionId": "09",
+      "blockIndex": 1,
+      "lineIndex": 3,
+      "text": "oṁ rāṁ rāmāya namaḥ",
+      "decision": "leave-unchanged",
+      "reason": "Retain the Sanskrit-based recipient reading of smaratorugīrbhiḥ, qualifying Hanuman and others remembering him with mighty praises; do not copy the PDF’s questionable fresh imperative. Preserve recorded salutation and invocation around the spoken akshata cue."
+    },
+    {
+      "sectionId": "09",
+      "blockIndex": 3,
+      "lineIndex": 0,
+      "text": "rāmaṁ āvāhayāmi",
+      "decision": "leave-unchanged",
+      "reason": "Retain the Sanskrit-based recipient reading of smaratorugīrbhiḥ, qualifying Hanuman and others remembering him with mighty praises; do not copy the PDF’s questionable fresh imperative. Preserve recorded salutation and invocation around the spoken akshata cue."
+    },
+    {
+      "sectionId": "10",
+      "blockIndex": 1,
+      "lineIndex": 1,
+      "text": "saundaryasāram ariśaṅkhavarābhayāni dorbhir dadhānam ajitaṁ sarasaṁ ca bhaiṣmī satyāsametam akhilapradam indireśaṁ",
+      "decision": "leave-unchanged",
+      "reason": "Retain acoustic akhilapradam rather than booklet nikhilapradam. Keep the recorded dhyāyāmi and omit the booklet-only Om/Shri/āvāhayāmi additions."
+    },
+    {
+      "sectionId": "10",
+      "blockIndex": 1,
+      "lineIndex": 2,
+      "text": "oṁ klīṁ kṛṣṇāya namaḥ kṛṣṇaṁ dhyāyāmi",
+      "decision": "leave-unchanged",
+      "reason": "Retain acoustic akhilapradam rather than booklet nikhilapradam. Keep the recorded dhyāyāmi and omit the booklet-only Om/Shri/āvāhayāmi additions."
+    },
+    {
+      "sectionId": "11",
+      "blockIndex": 1,
+      "lineIndex": 1,
+      "text": "dhyāyed ajeśa puruhūtamukhaiḥ stuvadbhir āvītam ātmapadavīṁ pratipādayantaṁ",
+      "decision": "leave-unchanged",
+      "reason": "Retain acoustic puruhūtamukhaiḥ, supported by the existing parallel text, rather than forcing booklet mukhyaiḥ. Preserve the recorded Bhargava salutation and Parashurama dhyāyāmi instead of replacing them with booklet Bhargava-Rama āvāhayāmi."
+    },
+    {
+      "sectionId": "11",
+      "blockIndex": 1,
+      "lineIndex": 2,
+      "text": "bhāṁ bhārgavāya namaḥ paraśurāmaṁ dhyāyāmi",
+      "decision": "leave-unchanged",
+      "reason": "Retain acoustic puruhūtamukhaiḥ, supported by the existing parallel text, rather than forcing booklet mukhyaiḥ. Preserve the recorded Bhargava salutation and Parashurama dhyāyāmi instead of replacing them with booklet Bhargava-Rama āvāhayāmi."
+    },
+    {
+      "sectionId": "12",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "text": "dhyāyen nṛsiṁham uruvṛtta ravitrinetraṁ jānuprasaktakarayugmam athāparābhyāṁ",
+      "decision": "leave-unchanged",
+      "reason": "Keep the existing first-line compound split and athāparābhyāṁ; keep Ugram Viram and Lakshmi-Narasimha invocation because they are recited even though absent from the PDF. Preserve the shared passage cue."
+    },
+    {
+      "sectionId": "12",
+      "blockIndex": 1,
+      "lineIndex": 2,
+      "text": "ugraṁ vīraṁ mahāviṣṇuṁ jvalantaṁ sarvatomukhaṁ nṛsiṁhaṁ bhīṣaṇaṁ bhadraṁ mṛtyumṛtyuṁ namāmyahaṁ",
+      "decision": "leave-unchanged",
+      "reason": "Keep the existing first-line compound split and athāparābhyāṁ; keep Ugram Viram and Lakshmi-Narasimha invocation because they are recited even though absent from the PDF. Preserve the shared passage cue."
+    },
+    {
+      "sectionId": "12",
+      "blockIndex": 1,
+      "lineIndex": 3,
+      "text": "lakṣmī nṛsiṁhaṁ dhyāyāmi āvāhayāmi",
+      "decision": "leave-unchanged",
+      "reason": "Keep the existing first-line compound split and athāparābhyāṁ; keep Ugram Viram and Lakshmi-Narasimha invocation because they are recited even though absent from the PDF. Preserve the shared passage cue."
+    },
+    {
+      "sectionId": "13",
+      "blockIndex": 1,
+      "lineIndex": 2,
+      "text": "oṁ vyāṁ vyāsāya namaḥ vedavyāsaṁ dhyāyāmi",
+      "decision": "leave-unchanged",
+      "reason": "Retain acoustically supported pūrṇajñānāya, not the booklet’s first-occurrence pūrṇaprajñānāya; the PDF explicitly also prints a second jñāna occurrence. Do not add Om or expand vyāsāya to vedavyāsāya, change dhyāyāmi to āvāhayāmi, or append the booklet’s repeated Gayatri."
+    },
+    {
+      "sectionId": "13",
+      "blockIndex": 1,
+      "lineIndex": 3,
+      "text": "pūrṇajñānāya vidmahe pūrṇānandāya dhīmahi tan no vyāsaḥ pracodayāt śrīvyāsaṁ dhyāyāmi",
+      "decision": "leave-unchanged",
+      "reason": "Retain acoustically supported pūrṇajñānāya, not the booklet’s first-occurrence pūrṇaprajñānāya; the PDF explicitly also prints a second jñāna occurrence. Do not add Om or expand vyāsāya to vedavyāsāya, change dhyāyāmi to āvāhayāmi, or append the booklet’s repeated Gayatri."
+    },
+    {
+      "sectionId": "14",
+      "blockIndex": 1,
+      "lineIndex": 0,
+      "text": "udyad bhāsvat samābhāsa cakraśaṅkha cakraśaṅkha",
+      "decision": "leave-unchanged",
+      "reason": "No Narayana meditation passage appears in the supplied PDF. Keep the actual recitation, repeated discus-conch expressions, eight-forms fragment, repeated nirdoṣa reading and salutation. The previously documented Tantrasara niḥśeṣa alternative does not justify a PDF-based overwrite."
+    },
+    {
+      "sectionId": "14",
+      "blockIndex": 1,
+      "lineIndex": 1,
+      "text": "cakraśaṅkhagadā padmadharo dhyāye īśvaraḥ",
+      "decision": "leave-unchanged",
+      "reason": "No Narayana meditation passage appears in the supplied PDF. Keep the actual recitation, repeated discus-conch expressions, eight-forms fragment, repeated nirdoṣa reading and salutation. The previously documented Tantrasara niḥśeṣa alternative does not justify a PDF-based overwrite."
+    },
+    {
+      "sectionId": "14",
+      "blockIndex": 1,
+      "lineIndex": 2,
+      "text": "cakraśaṅkha gadā padmadharo dhyāye īśvaraḥ",
+      "decision": "leave-unchanged",
+      "reason": "No Narayana meditation passage appears in the supplied PDF. Keep the actual recitation, repeated discus-conch expressions, eight-forms fragment, repeated nirdoṣa reading and salutation. The previously documented Tantrasara niḥśeṣa alternative does not justify a PDF-based overwrite."
+    },
+    {
+      "sectionId": "14",
+      "blockIndex": 1,
+      "lineIndex": 3,
+      "text": "lakṣmīdharābhyām āśliṣṭaḥ svamūrtigaṇamadhyagaḥ brahmavāyu śivāhīśa vipaiḥ śakrādikair api",
+      "decision": "leave-unchanged",
+      "reason": "No Narayana meditation passage appears in the supplied PDF. Keep the actual recitation, repeated discus-conch expressions, eight-forms fragment, repeated nirdoṣa reading and salutation. The previously documented Tantrasara niḥśeṣa alternative does not justify a PDF-based overwrite."
+    },
+    {
+      "sectionId": "14",
+      "blockIndex": 1,
+      "lineIndex": 4,
+      "text": "sevyamāno adhikaṁ bhaktyā nitya nirdoṣaśaktimān mūrtayo aṣṭa api dhyeyāḥ nitya nirdoṣaśaktimān",
+      "decision": "leave-unchanged",
+      "reason": "No Narayana meditation passage appears in the supplied PDF. Keep the actual recitation, repeated discus-conch expressions, eight-forms fragment, repeated nirdoṣa reading and salutation. The previously documented Tantrasara niḥśeṣa alternative does not justify a PDF-based overwrite."
+    },
+    {
+      "sectionId": "14",
+      "blockIndex": 1,
+      "lineIndex": 5,
+      "text": "oṁ namo nārāyaṇāya namaḥ śrī nārāyaṇaṁ dhyāyāmi āvāhayāmi",
+      "decision": "leave-unchanged",
+      "reason": "No Narayana meditation passage appears in the supplied PDF. Keep the actual recitation, repeated discus-conch expressions, eight-forms fragment, repeated nirdoṣa reading and salutation. The previously documented Tantrasara niḥśeṣa alternative does not justify a PDF-based overwrite."
+    }
+  ],
+  "safeguards": [
+    "Apply only to displayed text, line meanings and word glosses.",
+    "Preserve baseline sourceOriginal/sourceRoman byte-for-byte.",
+    "Keep exact line array length, null separators, section/block ordering and every audio time.",
+    "Do not append booklet-only continuations or replace recorded repetition/restarters with a smooth canonical verse.",
+    "Retain ṁ and existing ē/ō conventions; no global transliteration conversion."
+  ],
+  "validation": {
+    "proposals": 8,
+    "unchangedLines": 29,
+    "allWordGlossesMatchAfterText": true,
+    "allBeforeStringsMatchBaseline": true
+  }
+}
