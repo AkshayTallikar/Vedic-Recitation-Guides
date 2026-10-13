@@ -1,0 +1,60 @@
+{
+  "status": "incomplete; blocked pending successful independent gpt-transcribe output and acoustic checks",
+  "sourceId": "vidhi",
+  "url": "https://youtube.com/watch?v=EdpK7nyeAe0",
+  "measuredDurationSeconds": 850.617,
+  "lastCaptionEndSeconds": 852.32,
+  "draftStepCount": 31,
+  "rawCaptionCueCount": 537,
+  "resolvedAcousticSegments": 0,
+  "unresolved": [
+    "All draft step boundaries need listening confirmation.",
+    "All Sanskrit lexical corrections require independent transcription/audio evidence.",
+    "No complete-source.txt or sections.json has been certified.",
+    "Caption reading aid removes rolling-window repetition for inspection only; it does not assert spoken deduplication.",
+    "Caption timing extends 1.703 seconds beyond measured media duration."
+  ],
+  "provenance": {
+    "captionFile": "../source/original.kn-orig.vtt",
+    "timeline": "../captions/kn-orig-timeline.json",
+    "boundaryBasis": "caption timestamps and visible text; manual semantic segmentation; no audio verification yet",
+    "modelTranscriptsAvailable": false
+  },
+  "priorityAudioChecks": [
+    {
+      "start": 109.68,
+      "end": 136,
+      "reason": "Prāṇāyāma Sanskrit"
+    },
+    {
+      "start": 140.959,
+      "end": 238.64,
+      "reason": "Saṅkalpa calendar, location and complete deity sequence"
+    },
+    {
+      "start": 368.8,
+      "end": 386.8,
+      "reason": "Deity placements in lamp parts"
+    },
+    {
+      "start": 576.64,
+      "end": 623.92,
+      "reason": "Incense verse and naivedya formulas/items"
+    },
+    {
+      "start": 647.36,
+      "end": 695.76,
+      "reason": "Tāmbūla, Kubera prayer, protective offering"
+    },
+    {
+      "start": 717.12,
+      "end": 751.12,
+      "reason": "Śrīnivāsa and Manyu prayers"
+    },
+    {
+      "start": 834.48,
+      "end": 850.617,
+      "reason": "Final spoken words and caption/audio overrun"
+    }
+  ]
+}

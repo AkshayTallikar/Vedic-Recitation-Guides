@@ -1,5 +1,5 @@
 (function () {
-  var GUIDES = window.GUIDES || [];
+  var GUIDES = (window.GUIDES || []).filter(function (guide) { return !guide.archived; });
   if (!GUIDES.length) return;
 
   // ---- shared DOM ----
@@ -9,6 +9,7 @@
   var search = document.getElementById('search');
   var countEl = document.getElementById('count');
   var noticeEl = document.getElementById('guide-notice');
+  var defaultNotice = noticeEl.textContent;
   var titleEl = document.getElementById('h-title');
   var srcA = document.getElementById('h-src');
   var subEl = document.getElementById('h-sub');
@@ -33,7 +34,26 @@
   function esc(t) { return t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
   function safe(t) { return esc(String(t == null ? '' : t)); }
 
-  function chantHtml(gloss, fallback) {
+  function startPlayback() {
+    var request = audio.play();
+    if (request && request.catch) request.catch(function (error) {
+      if (error.name !== 'AbortError') console.error('Audio playback failed:', error);
+    });
+  }
+
+  function cueAttributes(cue) {
+    return Number.isFinite(cue.startSeconds) && Number.isFinite(cue.endSeconds)
+      ? ' data-cue-start="' + cue.startSeconds + '" data-cue-end="' + cue.endSeconds + '"'
+      : '';
+  }
+  function cueButton(cue, index, section) {
+    if (!Number.isFinite(cue.startSeconds) || !Number.isFinite(section.startSeconds)) return '';
+    return '<button class="cue-play" data-idx="' + index + '" data-offset="' +
+      Math.max(0, cue.startSeconds - (Number.isFinite(section.audioStartSeconds) ? section.audioStartSeconds : section.startSeconds)) +
+      '" aria-label="Replay recorded ' + (cue.sharedPassageCue ? 'passage' : 'line') + ' from ' + fmt(cue.startSeconds) + '">▶ ' +
+      (cue.sharedPassageCue ? 'Passage ' : '') + fmt(cue.startSeconds) + '</button>';
+  }
+  function chantHtml(gloss, fallback, index, section) {
     if (!gloss || !gloss.lines) return fallback ? '<div class="mantra">' + safe(fallback) + '</div>' : '';
     return '<div class="chant" aria-label="Mantra with line and word meanings">' +
       gloss.lines.map(function (line) {
@@ -42,10 +62,33 @@
         var words = (line.words || []).map(function (word) {
           return '<span class="gloss-token"><b>' + safe(word.text) + '</b> ' + safe(word.meaning) + '</span>';
         }).join('');
-        return '<div class="chant-line"><div class="chant-text">' + safe(line.text) + '</div>' +
+        return '<div class="chant-line"' + (section ? cueAttributes(line) : '') + '>' +
+          (section ? cueButton(line, index, section) : '') + '<div class="chant-text">' + safe(line.text) + '</div>' +
           '<div class="chant-meaning">' + safe(line.meaning) + '</div>' +
           '<div class="chant-words" aria-label="Word by word meaning">' + words + '</div></div>';
       }).join('') + '</div>';
+  }
+
+  function structuredHtml(section, index) {
+    return section.structuredBlocks.map(function (block) {
+      var content = block.kind === 'mantra'
+        ? chantHtml(block.gloss, block.text, index, section)
+        : '<div class="spoken-action"' + cueAttributes(block) + '>' + cueButton(block, index, section) +
+            '<span class="lbl">' + (block.role === 'explanation' ? 'Explanation' : 'Instruction') + '</span>' +
+            '<div>' + safe(block.english) + '</div></div>';
+      var sourceText = block.sourceRoman || block.text;
+      return content + (block.notes || block.uncertainty ? '<div class="reading-note">' + safe(block.notes || block.uncertainty) + '</div>' : '') +
+        '<details class="source-transcript"><summary>Recorded source · Roman text</summary>' +
+        '<p>' + safe(sourceText) + '</p>' +
+        (block.uncertainty ? '<p class="reading-note">' + safe(block.uncertainty) + '</p>' : '') + '</details>';
+    }).join('');
+  }
+
+  function readingNotesHtml(section) {
+    var notes = section.verifyNotes || section.uncertaintyNotes || section.notes;
+    if (!notes) return '';
+    return '<div class="reading-note">' +
+      (Array.isArray(notes) ? notes.map(safe).join('<br>') : safe(notes)) + '</div>';
   }
 
   function visualizeHtml(visual, stepId) {
@@ -221,7 +264,7 @@
       t.classList.toggle('active', i === gi);
     });
     titleEl.textContent = guide.title;
-    document.title = guide.title + ' — Recitation Guide';
+    document.title = guide.title;
     subEl.textContent = guide.subtitle;
     creditEl.textContent = guide.sourceCredit;
     srcA.href = guide.source;
@@ -230,6 +273,7 @@
     search.placeholder = guide.searchPlaceholder || 'Search a step (e.g. Śaṅkha, abhiṣeka, naivedya)…';
     search.setAttribute('aria-label', guide.searchAriaLabel || 'Search steps');
     noticeEl.hidden = !!guide.hideNotice;
+    noticeEl.textContent = guide.notice || defaultNotice;
     syncPractice();
     buildPeriodBar();
     buildList();
@@ -263,11 +307,12 @@
           title = subst(rs.title);
       var structuredSearch = structuredBlocks.map(function (block) {
         return (block.text || '') + ' ' + (block.english || '') + ' ' +
-          (block.sourceRoman || '') + ' ' + (block.sourceOriginal || '');
+          (block.sourceRoman || '') + ' ' + (block.sourceOriginal || '') + ' ' +
+          (block.gloss ? block.gloss.lines.filter(Boolean).map(function (line) { return line.meaning; }).join(' ') : '');
       }).join(' ');
       var visual = enrichment && enrichment.visual;
       var hasAudio = s.audio ? true : !guide.noAudio;
-      var sectionSource = s.sourceVideo || guide.source;
+      var sectionSource = s.sourceVideo || s.source || guide.source;
       var sectionStart = typeof s.startSeconds === 'number'
         ? s.startSeconds
         : (s.start ? toSec(s.start) : 0);
@@ -299,7 +344,7 @@
           '</div>' +
           (hasAudio ? '<button class="playbtn" data-idx="' + i + '"><span class="ico">▶</span> Play</button>' : '') +
         '</div>' +
-        structuredTranscriptHtml(structuredBlocks, guide) +
+        (guide.renderStructured ? structuredHtml(rs, i) : structuredTranscriptHtml(structuredBlocks, guide)) +
         (gloss ? chantHtml(gloss, mantra) : (mantra
           ? (structuredBlocks.length
               ? (guide.hideLosslessReferences ? '' :
@@ -345,10 +390,16 @@
         (rahasya ? '<div class="source-link"><a href="pooja-rahasya-reference.html#step-' + safe(s.id) + '">' +
           (rahasya.passageIds && rahasya.passageIds.length ? 'Read the complete matched Pooja Rahasya passages' : 'Pooja Rahasya: no direct match') +
           '</a></div>' : '') +
+        (guide.renderStructured ? readingNotesHtml(s) : '') +
+        (s.backgroundReferences && guide.renderStructured ? '<div class="source-link">' +
+          s.backgroundReferences.map(function (ref) {
+            return '<a href="#sec-' + safe(ref.sectionId) + '">Preparation: ' + safe(ref.label) + '</a>';
+          }).join(' · ') + '</div>' : '') +
         (s.html || '') +
         (ytLink ? '<div class="yt"><a href="' + ytLink + '" target="_blank" rel="noopener">▶ Watch this ' +
           esc(guide.sourceUnitLabel || 'step') + ' on YouTube ↗</a></div>' : '');
       if (hasAudio) card.__audio = s.audioFile || (guide.audioDir + '/' + s.id + '-' + s.slug + '.mp3');
+      card.__sourceStart = Number.isFinite(s.audioStartSeconds) ? s.audioStartSeconds : (Number.isFinite(s.startSeconds) ? s.startSeconds : 0);
       list.appendChild(card);
       cards.push(card);
     });
@@ -395,7 +446,7 @@
     cards.forEach(function (x) { x.classList.remove('playing'); });
     c.classList.add('playing');
     syncBtns();
-    if (autoplay !== false) audio.play();
+    if (autoplay !== false) startPlayback();
   }
   function toggle() {
     if (audio.paused) {
@@ -404,7 +455,7 @@
         audio.currentTime = 0;
         setPlayerTitle();
       }
-      audio.play();
+      startPlayback();
     } else audio.pause();
   }
   function syncBtns() {
@@ -419,6 +470,23 @@
   }
 
   list.addEventListener('click', function (e) {
+    var cue = e.target.closest('.cue-play');
+    if (cue) {
+      var index = +cue.dataset.idx, offset = +cue.dataset.offset;
+      if (current !== index) load(index, false);
+      var requestedAudio = audio.src;
+      function beginCue() {
+        if (current !== index || audio.src !== requestedAudio) return;
+        audio.currentTime = Math.min(offset, Math.max(0, audio.duration - 0.02));
+        startPlayback();
+      }
+      if (audio.readyState >= 1) beginCue();
+      else {
+        audio.addEventListener('loadedmetadata', beginCue, { once: true });
+        audio.load();
+      }
+      return;
+    }
     var b = e.target.closest('.playbtn');
     if (b) load(+b.dataset.idx);
   });
@@ -448,7 +516,7 @@
       repetition++;
       audio.currentTime = 0;
       setPlayerTitle();
-      audio.play();
+      startPlayback();
     } else if (current + 1 < cards.length) {
       load(current + 1);
     } else {
@@ -459,6 +527,12 @@
     if (seeking || !audio.duration) return;
     seek.value = (audio.currentTime / audio.duration) * 100;
     tt.textContent = fmt(audio.currentTime) + ' / ' + fmt(audio.duration);
+    if (current >= 0 && cards[current]) {
+      var sourceTime = cards[current].__sourceStart + audio.currentTime;
+      cards[current].querySelectorAll('[data-cue-start]').forEach(function (span) {
+        span.classList.toggle('reciting', sourceTime >= +span.dataset.cueStart && sourceTime < +span.dataset.cueEnd);
+      });
+    }
   });
   seek.addEventListener('input', function () { seeking = true; });
   seek.addEventListener('change', function () {

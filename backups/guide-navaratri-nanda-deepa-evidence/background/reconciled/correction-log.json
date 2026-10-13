@@ -1,0 +1,138 @@
+[
+  {
+    "segmentId": "background-caption-0007",
+    "startSeconds": 23.199,
+    "captionReading": "ನಾರಾಯಣನ",
+    "reconciledReading": "ನಾರಾಯಣ",
+    "reason": "Both GPT passes have Nārāyaṇa, without final caption na.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0008",
+    "startSeconds": 27.92,
+    "captionReading": "ಹರಿ ಓಂ ಓಂ ನಮೋ ನಾರಾಯಣ",
+    "reconciledReading": "ಹರಿ ಓಂ ನಮೋ ನಾರಾಯಣ",
+    "reason": "Both GPT passes have one Oṃ in this refrain.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0077",
+    "startSeconds": 145.68,
+    "captionReading": "ಹಂಜಿಕೆ",
+    "reconciledReading": "ಅಂಜಿಕೆ",
+    "reason": "Both GPT passes read añjike, fear/anxiety.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0149",
+    "startSeconds": 267.04,
+    "captionReading": "ಕಣ್ಣಿಂದ ನೋಡಿ ನೋಡಿ ನೋಡಿಹ ನಿಮಿಷದಾಗಲೂ",
+    "reconciledReading": "ಕಣ್ಣಿಂದ ನೋಡಿ ನೋಡಿ ನೋಡಿ ಹತ್ತು ನಿಮಿಷದಾಗಲೂ",
+    "reason": "Coarse chunk2 and fine chunk7 read ten minutes; source wording retained as a narrated claim.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0165",
+    "startSeconds": 292.72,
+    "captionReading": "ಪ್ರಪಂಚ ಪಂಚದ ಮಹಾಶಕ್ತಿಯ ದೇವರು",
+    "reconciledReading": "ಪ್ರಪಂಚದ ಮಹಾಶಕ್ತಿಯೇ ದೇವರು",
+    "reason": "Coarse chunk2 and fine chunk8 agree on the great power of the world.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0283",
+    "startSeconds": 469.919,
+    "captionReading": "ಲಕ್ಷ್ಮಿ",
+    "reconciledReading": "ಲಕ್ಷ್ಮಿ ಹೃದಯ",
+    "reason": "Lakṣmī Hṛdaya is explicit in coarse chunk3 and fine chunk12, omitted by native captions.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0305",
+    "startSeconds": 498.96,
+    "captionReading": "ಆಗಮದೇವನ",
+    "reconciledReading": "ಆಗಮಾರ್ಥಂ ತು ದೇವಾನಾಂ",
+    "reason": "Coarse chunk3 supplies the bell quotation; fine chunk13 supports it with noisy variants.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0307",
+    "startSeconds": 501.599,
+    "captionReading": "ಗಮನಾರ್ಥಂತು ರಾಕ್ಷಸ",
+    "reconciledReading": "ಗಮನಾರ್ಥಂ ತು ರಾಕ್ಷಸ",
+    "reason": "Coarse chunk3 supplies the quotation fragment; ending inflection remains uncertain.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0363",
+    "startSeconds": 585.839,
+    "captionReading": "ವೃದೇಹಿ ಅಸಕ್ತಹ",
+    "reconciledReading": "ವ್ರದೇಹಿ ಅಶಕ್ತಃ",
+    "reason": "Coarse chunk4 and fine chunk15 agree; opening vradēhi is still uncertain, not normalized into a canonical verse.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0365",
+    "startSeconds": 588.88,
+    "captionReading": "ತ್ರಿರಾತ್ರಂ ಏಕರಾತ್ರಂ ರತರಯಭಕ್ತ",
+    "reconciledReading": "ತ್ರಿರಾತ್ರಂ ಏಕರಾತ್ರಂ ವಾ ವ್ರತಂ ರಾತ್ರಿ ಯೋ ಭಕ್ತಃ",
+    "reason": "Coarse chunk4 and fine chunk15 recover vā and other omitted words; middle reading remains uncertain.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0367",
+    "startSeconds": 593.36,
+    "captionReading": "ತಸ್ಮದಶಯಮಿ ವಾಂಚಿತಂ",
+    "reconciledReading": "ತಸ್ಮೈ ದಾಸ್ಯಾಮಿ ವಾಂಛಿತಂ",
+    "reason": "Coarse chunk4 and fine chunk15 agree.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0380",
+    "startSeconds": 615.36,
+    "captionReading": "ವರತಂ ಚರತಿಯೋಭಕ್ತ",
+    "reconciledReading": "ವ್ರತಂ ಚರತಿ ಯೋ ಭಕ್ತಃ",
+    "reason": "Coarse chunk4 and fine chunk16 agree.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0382",
+    "startSeconds": 618.48,
+    "captionReading": "ತಸ್ಮೈದಾಮಿ",
+    "reconciledReading": "ತಸ್ಮೈ ದಾಸ್ಯಾಮಿ",
+    "reason": "Coarse chunk4 and fine chunk16 recover dāsyāmi.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0384",
+    "startSeconds": 620.16,
+    "captionReading": "ವಾಂಚಿತ",
+    "reconciledReading": "ವಾಂಛಿತಂ",
+    "reason": "Both GPT passes support the desired/wished-for reading.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0425",
+    "startSeconds": 684.959,
+    "captionReading": "ಭಕ್ತಿ",
+    "reconciledReading": "ಬತ್ತಿ",
+    "reason": "Coarse chunk5 and fine chunk18 read batti, wick; native-caption bhakti is likely wrong.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0473",
+    "startSeconds": 759.2,
+    "captionReading": "ಕೆಲಸ ಸ್ಥಾಪನಕ್ಕೆ",
+    "reconciledReading": "ಕಲಸ ಸ್ಥಾಪನಕ್ಕೆ",
+    "reason": "Coarse chunk5 and fine chunk20 identify kalaśa establishment.",
+    "status": "dual-witness-provisional-no-listening"
+  },
+  {
+    "segmentId": "background-caption-0499",
+    "startSeconds": 798.48,
+    "captionReading": "ಕೆಲಸ ಸ್ಥಾಪನವನ್ನ",
+    "reconciledReading": "ಕಲಸ ಸ್ಥಾಪನವನ್ನ",
+    "reason": "Coarse chunk5 and fine chunk20 identify kalaśa establishment.",
+    "status": "dual-witness-provisional-no-listening"
+  }
+]

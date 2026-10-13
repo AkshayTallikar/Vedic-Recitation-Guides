@@ -1,0 +1,46 @@
+{
+  "status": "provisional dual-witness draft; not verified lossless audio transcript",
+  "sections": 19,
+  "rawCues": 529,
+  "captionTimelineRows": 520,
+  "retainedUtteranceSpans": 265,
+  "gptCorrections": 17,
+  "checks": {
+    "all_source_characters_mapped": true,
+    "all_section_blocks_reconstruct": true,
+    "timestamps_within_measured_media": true,
+    "all_steps_have_guidance": true,
+    "all_lineage_parts_reconstruct": true,
+    "all_sanskrit_lines_have_caption_cues": true,
+    "all_mapped_blocks_reconstruct": true,
+    "B13_intro_and_first_mantra_do_not_overlap": true
+  },
+  "remaining": [
+    "Caption-derived playback boundaries have not been independently forced-aligned; targeted clips were reviewed through an independent acoustic transcription model.",
+    "Sanskrit bell quotation and Navarātri boon quotation remain provisional; line/word learning additions need review.",
+    "Morning end-time conflict remains despite targeted cross-model transcription.",
+    "Raw rolling caption removal is reasoned text handling, not proof of acoustic non-repetition.",
+    "GPT fine responses may themselves truncate; compare their coverage against native caption timeline."
+  ],
+  "mantraBlocks": 5,
+  "uncertaintyInventory": "uncertainty-inventory.json",
+  "independentAcousticReview": {
+    "model": "gpt-4o-transcribe",
+    "targetedClips": 9,
+    "coverageLimitations": [
+      "silver-lamp",
+      "casket",
+      "scolding"
+    ],
+    "result": "Independent acoustic witness supports existing corrected fragments and some setup details; exact disputed Sanskrit and morning-time conflict remain explicit. No canonical or ritual words fabricated."
+  },
+  "timingRepairs": [
+    {
+      "sectionId": "B13",
+      "blockIndex": 1,
+      "previousStartSeconds": 585.839,
+      "startSeconds": 588.88,
+      "basis": "Parent native-VTT onset alignment distinguishes Kannada introduction from Sanskrit quotation."
+    }
+  ]
+}

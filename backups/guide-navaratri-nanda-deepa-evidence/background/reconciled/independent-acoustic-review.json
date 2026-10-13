@@ -1,0 +1,92 @@
+[
+  {
+    "name": "family-tradition",
+    "startSeconds": 335,
+    "endSeconds": 357,
+    "model": "gpt-4o-transcribe",
+    "file": "acoustic-review/family-tradition-gpt4o.json",
+    "text": "ಈಯವರ ನಿಮಿತ್ತವಾಗಿ ಅಕಂಟ ದೀಪವನ್ನ ಸ್ಥಾಪನ ಮಾಡಿದ ಸಂಪ್ರದಾಯ ಇದೆ ಸಂಪ್ರದಾಯದಲ್ಲ, ಎನೋ ಕಾರಣದಿಂದಾ ದೊಡ್ಡವರು ಬಿಟ್ಟ್ರು ಬೋದು. ಇದರಲ್ಲಿ ಒಂಬತ್ತು ದಿನವೂ ಅಕಂಟ ದೀಪಯೆರ್ಸೋದು ಸಂಪ್ರದಾಯ. ಐದು ದಿನ ಮಾತ್ರ ಇರ್ಸೋದು, ಅಥವಾ ಮೂಲ ನಕ್ಷತ್ರ ಆರಂಭಿಸಿ ಮೂಲ ಪೂರ್ವಾಷಢ ಉತ್ತರಾಷಾಢ.",
+    "assessment": "Supports the inherited-tradition/discontinuation explanation; exact intervening phrase remains noisy.",
+    "evidenceType": "actual source clip independently transcribed by gpt-4o-transcribe; this is a cross-model acoustic witness, not human listening or forced-aligned timing"
+  },
+  {
+    "name": "silver-lamp",
+    "startSeconds": 378,
+    "endSeconds": 402,
+    "model": "gpt-4o-transcribe",
+    "file": "acoustic-review/silver-lamp-gpt4o.json",
+    "text": "ಮೊದಲು ಮುಖ್ಯವಾಗಿ ದೊಡ್ಡ ದೀಪ ಬೇಕು.",
+    "assessment": "Response contains only the first sentence; does not cover the disputed silver/ācārya phrase.",
+    "evidenceType": "actual source clip independently transcribed by gpt-4o-transcribe; this is a cross-model acoustic witness, not human listening or forced-aligned timing"
+  },
+  {
+    "name": "bell-verse",
+    "startSeconds": 488,
+    "endSeconds": 521,
+    "model": "gpt-4o-transcribe",
+    "file": "acoustic-review/bell-verse-gpt4o.json",
+    "text": "ಪೂಜೆಗಳು ಮತ್ತೆ ಮತ್ತೆ ಆಗ್ತಾಯಿರ್ತಾಯವರಂದ್ರ ಮನಯಲ್ಲಿ ಇರುವ ವೈಬ್ರೇಶನ್ ಇದೆ ಮನಯ ವಾತಾವರಣ ಚೆನ್ನಾಗಾಗಬೇಕು ಆಗಾಗ ಗಂಟೆ ಬಾಟ್ಸ್ತಾರ್ಬೇಕು. ಆಗಮಾರ್ಥಂತು ದೇವಾನಾಂ ಗಮನಾರ್ಥಂತು ರಾಕ್ಷಸ. ದೇವರಗಲ್ಲಲ್ಲ ಬರಬೇಕು, ರಾಕ್ಷಸರಲ್ಲ ಹೋಗಬೇಕುಂದ ರಾಕ್ಷಸರು ಎಂದರ ಯಾರೋ ಪಿಶಾಸಿಗಳು ಬಂದು ಮನಯಲ್ಲಿ ಕುತಾಗಲ್ಲ, ನಮಲ್ಲಿ ಇರುವ ಕಟ್ಗುಣಗಳು ಮನಯಲ್ಲಿ ಮಾತಾಡಿದ ಮಾತುಗಳಲ್ಲಿಯೇ ನಿಂತಿರ್ತಾಯಿ. ಅದರ ವೈಬ್ರೇಶನಲ್ಲಿಯೇ ಇರ್ತಾಯಿ. ನಿತ್ಯ ಜಗಳ ಮಾಡ್ತಿದ್ದರೆ, ಅಲ್ಲಿಯೇ ವೈಬ್ರೇಶನ್ ಜಗಳದ",
+    "assessment": "Supports āgamārthaṁ tu devānāṁ / gamanārthaṁ tu rākṣasa fragment; terminal inflection remains unresolved, not replaced from a canonical text.",
+    "evidenceType": "actual source clip independently transcribed by gpt-4o-transcribe; this is a cross-model acoustic witness, not human listening or forced-aligned timing"
+  },
+  {
+    "name": "scolding",
+    "startSeconds": 519,
+    "endSeconds": 544,
+    "model": "gpt-4o-transcribe",
+    "file": "acoustic-review/scolding-gpt4o.json",
+    "text": "ಅಲ್ಲಿ ವೈಬ್ರೇಶನ್ ಜಗಳಾದ ವೈಬ್ರೇಶನ್ ಇರುತ್ತೆ. ಈ ವಾತಾವರಣ",
+    "assessment": "Response retains only two brief fragments; does not cover the disputed colloquial words.",
+    "evidenceType": "actual source clip independently transcribed by gpt-4o-transcribe; this is a cross-model acoustic witness, not human listening or forced-aligned timing"
+  },
+  {
+    "name": "navaratri-boon",
+    "startSeconds": 584,
+    "endSeconds": 609,
+    "model": "gpt-4o-transcribe",
+    "file": "acoustic-review/navaratri-boon-gpt4o.json",
+    "text": "ಅದೇ ರೀತಿಯಲ್ಲಿ ನವರಾತ್ರಿ ವ್ರದೇಹಿ ಅಶಕ್ತಹ ತ್ರಿರಾತ್ರಂ ಏಕರಾತ್ರಂ ಬಾ ವ್ರತಂ ರಾತ್ಯು ಯೋ ಭಕ್ತಹ ತಶ್ಮೇ ದಾಸ್ಯಾಮಿ ವಾಂಚಿತಂ ಅಂತ ದೇವರು ಒಂದು ವರವನ್ನು ಕೊಟ್ಟಿದ್ದ. ಸ್ರವರಾತ್ರಿಯ ವ್ರತಾ, ತ್ರಿರಾತ್ರಿ ನವರಾತ್ರಿಯಿಲ್ಲಿ ಒಂಬತ್ತು ರಾತ್ರಿಗಳ್ನಿ ಮಾಡಿದ್ರ ವಿಶೇಷಾ.",
+    "assessment": "Confirms a similar acoustic sequence vradēhi and rātyu/rātri; these remain uncertain Sanskrit readings, not resolved simply because model families agree.",
+    "evidenceType": "actual source clip independently transcribed by gpt-4o-transcribe; this is a cross-model acoustic witness, not human listening or forced-aligned timing"
+  },
+  {
+    "name": "lamp-decoration",
+    "startSeconds": 640,
+    "endSeconds": 678,
+    "model": "gpt-4o-transcribe",
+    "file": "acoustic-review/lamp-decoration-gpt4o.json",
+    "text": "ಮನೆಲ್ಲಿ ಶುದ್ಧವಾದ ಮಡಿಯಿಂದ ದೀಪವನ್ನು ಬೆಳಗಬೇಕು. ದೀಪಾ ಏರಿಸುವ ಪಾತ್ರೆ, ಅಂದರೆ ದೀಪದಲ್ಲಿ ಸೂರ್ಯ ಚಂದ್ರರು ಇರುತ್ತಾರೆ. ಅವರು ಬಗವಂತನೇಗೆ ಸೇವು ಮಾಡುತ್ತಾರೆ. ದೀಪಪಾತ್ರೆಯನ್ನು ಅಷ್ಣಾ ಕುಂಕುಮಗಳಲ್ಲಿ ಹಚ್ಚಿ ಪುಷ್ಪದಿಂದ ಅಲಂಕಾರ ಮಾಡಿ, ಅದು ಒಂದು ಅಕ್ಕಿ ಅಥವಾ ತಟ್ಟೆಯಲ್ಲಿ ಇಟ್ಟು ಓಬುರು ಮನೆಯಲ್ಲಿ ಗೋಮಯ, ಅಂದರೆ ಸೆಗ್ನಿಯಲ್ಲಿ ದೀಪವನ್ನು ಇಡುವುವುಂತಹ ಸಂಪ್ರದಾಯಗಳು ಇರುತ್ತೆ. ಅದರಲ್ಲಿ ತುಪ್ಪ ಅಥವಾ ಒಳ್ಳೆಣ್ಣೆ, ಎಳ್ಳೆಣ್ಣೆಯನ್ನ ತುಂಬಿ ಒಳ್ಳೆ ಒಂದು ಬತ್ತಿಯನ್ನ ಹಾಕಿ ತಯಾರಾಗಿಟ್ಟುಕೋಬೇಕು.",
+    "assessment": "Supports rice-or-plate placement and the stated gomaya alternative; turmeric word remains noisy aṣṇā/aṣṭanā across witnesses.",
+    "evidenceType": "actual source clip independently transcribed by gpt-4o-transcribe; this is a cross-model acoustic witness, not human listening or forced-aligned timing"
+  },
+  {
+    "name": "casket",
+    "startSeconds": 701,
+    "endSeconds": 729,
+    "model": "gpt-4o-transcribe",
+    "file": "acoustic-review/casket-gpt4o.json",
+    "text": "ಬೆಳಿಗೆ ಮಂಗಳ ಸ್ನಾನ, ಎಣ್ಣೆ ಸಾಸ್ತ್ರ.",
+    "assessment": "Response contains only the bathing/oil opening; does not cover the disputed casket wording.",
+    "evidenceType": "actual source clip independently transcribed by gpt-4o-transcribe; this is a cross-model acoustic witness, not human listening or forced-aligned timing"
+  },
+  {
+    "name": "materials",
+    "startSeconds": 724,
+    "endSeconds": 760,
+    "model": "gpt-4o-transcribe",
+    "file": "acoustic-review/materials-gpt4o.json",
+    "text": "ಆಮೇಲೆ ಇದನಲ್ಲ ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳು ಹಣ್ಣು ವಿಳದಲೆ ಅಡಿಕೆ ಇಗನು ವರತಾ ಅಂದ್ರೆ ಹಾಲು ಮಾತ್ರ ವರತಾ ಇಕೆ ಎಲ್ಲವು ಕೂಡ ಬರತ್ತೆ ಅರಿಂದ ಹಣ್ಣು ವಿಳದಲೆ ಅಡಿಕೆ ಫಲೂವು ಗಜಬಸ್ತ್ರ ತುಪ್ಪಾತವಾ ಎಳ್ಳಣ್ಣೆ ಅರ್ಷನಾ ಕುಂಕುಮ ಗಂಧ ಊತು ಗಡ್ಡಿ ಕರ್ಪೂರ ಬಿಳದಲೆ ಅಡಿಕೆ ಇದನಲ್ಲ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ದೀಪವನ್ನು ಚೆನ್ನಾಗಿ ತಯಾರ್ಮಾಡಿಟ್ಟು ಕೊಂಡು ಅದಿಕ ಅರ್ಷನಾ ಕುಂಕುಮ ಗಳಲ್ಲ ಹಚ್ಚಿ ಅದನಲ್ಲ ಬತ್ತಿ ಹಾಕಿ ಎಣ್ಣೆ ಹಾಕಿ ಅತ್ವಾ ತುಪ್ಪವನ್ನು ಹಾಕಿ ತಯಾರ್ಮಾಡಿ ಇಟ್ಟು ಕೊಂಡು ನಾವು ಸಂಕಲ್ಪಗಳನ್ನು ಮಾಡಿಕುಳ್ಳು ಬೇಕು.",
+    "assessment": "Supports milk-only vrata aside and gajabastra/gajavastra pronunciation; exact trailing milk-only phrase and cloth-name form remain provisional.",
+    "evidenceType": "actual source clip independently transcribed by gpt-4o-transcribe; this is a cross-model acoustic witness, not human listening or forced-aligned timing"
+  },
+  {
+    "name": "recorded-timing",
+    "startSeconds": 770,
+    "endSeconds": 833.457,
+    "model": "gpt-4o-transcribe",
+    "file": "acoustic-review/recorded-timing-gpt4o.json",
+    "text": "ಅದರೆ ನಾವು ನೋಡಬೇಕು ಅಲ್ಲಾ ನಮಗೆ ಅದರಿಂದ ನೋಡಬೇಕು ಅಂದ್ರೆ ನಾವು ಇದನ್ನು ನೋಡಿ ಇಟ್ಕೊ ಬೇಕು. ಹೇಗೇಂದರೆ ಹೋರೆಗಳು ಎಂದು ಹೇಳತ್ತಾರೆ. ಹೋರೆಗಗಳನ್ನು ನೋಡಿದಾಗ ಆ ಟೈಮ್ಗಳು ಚೆನ್ನಾಗಿರುತ್ತಾಯೆ ಎಂದರೆ ಹೇಳದೇಕು. ಅಭಿಜಿತ್ ಮುಗರ್ತಾ ಅನ್ನು ಹನ್ನಂದು ನಲವತ್ತೆಯಿದ್ದ ಹನ್ನರಡು ಒಳಗೆ. ಎಂದರೆ ಹನ್ನರಡಿಂದ ಒಂದು ವರೇಯಮಗಂಡ ವರ್ತಿದೆ. ಹನ್ನಂದು ನಲವತ್ತೆಯಿದ್ದ ಹನ್ನರಡು ಒಳಗೆ ಕಲಸಸ್ಥಾಪನವನ್ನು ಮಾಡ್ಲಿಕ್ಕೆ ಸಾದ್ಧಯತ್ತೇಯಿರುವರು ಮಾಡುಬೋದು. ಇಲ್ಲದಿದ್ದರೆ ಬೆಳಿಗೆ ನೋಡಿದೆಯುಂದ್ರೆ ಬೆಳಿಗೆ ಚೆನ್ನಾಗಿಯದೆ ಶುಕ್ರ ಹೋರೆ ಮತ್ತು ಬುಧಾ ಚಂದ್ರ ಹೋರೆಗಳು. ಏಳು ಕಾಲಿಂದ ಹತ್ತು ಹತ್ತು ವರೈಗು ನಿಮು ಕಲಸಸ್ಥಾಪನೆ ದೀಪ ಸಂಯೋಜನೆ ಇದನ್ನ ರವರಾತ್ರಿಯ ಕಲಸಸ್ಥಾಪನ ಮಾಡೋದು ಮತ್ತು ಅಖಂಟ ದೀಪ ಸ್ತಾಪನೆ ಮಾಡೋವರು ಬೆಳಿಗೆ ಏಳು ಹದನೈದಿಂದ ಹತ್ತು ಕಾಲ ವರೈಗು ಹೇಳ್ದು ಇಟಾಯಮೊಳಗೆ ಸ್ತಾಪನವನ್ನು ಮಾಡ್ಬೋದು.",
+    "assessment": "Agrees with final 7:15–hattu kālu (tentatively10:15); earlier hattu hattuvare remains inconsistent across passages. Historical Sunday context unchanged.",
+    "evidenceType": "actual source clip independently transcribed by gpt-4o-transcribe; this is a cross-model acoustic witness, not human listening or forced-aligned timing"
+  }
+]

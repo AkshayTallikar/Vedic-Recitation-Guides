@@ -1,0 +1,1766 @@
+[
+  {
+    "text": "hari ōṁ namō nārāyaṇa",
+    "start": 0.4,
+    "end": 7.349,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "01",
+    "sourceId": "background"
+  },
+  {
+    "text": "hari ōṁ namō nārāyaṇa",
+    "start": 7.359,
+    "end": 14.07,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "01",
+    "sourceId": "background"
+  },
+  {
+    "text": "gōvinda nārāyaṇa",
+    "start": 14.08,
+    "end": 20.95,
+    "matchFraction": 0.933,
+    "sharedPassage": false,
+    "sectionId": "01",
+    "sourceId": "background"
+  },
+  {
+    "text": "gōpāla nārāyaṇa",
+    "start": 20.96,
+    "end": 27.91,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "01",
+    "sourceId": "background"
+  },
+  {
+    "text": "hari ōṁ namō nārāyaṇa",
+    "start": 27.92,
+    "end": 34.709,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "01",
+    "sourceId": "background"
+  },
+  {
+    "text": "hari ōṁ namō nārāyaṇa",
+    "start": 34.719,
+    "end": 41.19,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "01",
+    "sourceId": "background"
+  },
+  {
+    "text": "śrī gurubhyō namaḥ hari ōṁ",
+    "start": 41.2,
+    "end": 42.96,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "02",
+    "sourceId": "background"
+  },
+  {
+    "text": "āgamārthaṁ tu dēvānāṁ",
+    "start": 498.96,
+    "end": 501.59,
+    "matchFraction": 0.579,
+    "sharedPassage": true,
+    "sectionId": "11",
+    "sourceId": "background"
+  },
+  {
+    "text": "gamanārthaṁ tu rākṣasa",
+    "start": 501.599,
+    "end": 503.68,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "11",
+    "sourceId": "background"
+  },
+  {
+    "text": "navarātri vradēhi aśaktaḥ",
+    "start": 588.88,
+    "end": 593.359,
+    "matchFraction": 0.0,
+    "sharedPassage": true,
+    "sectionId": "13",
+    "sourceId": "background"
+  },
+  {
+    "text": "trirātraṁ ēkarātraṁ vā",
+    "start": 588.88,
+    "end": 590.72,
+    "matchFraction": 0.9,
+    "sharedPassage": false,
+    "sectionId": "13",
+    "sourceId": "background"
+  },
+  {
+    "text": "vrataṁ rātri yō bhaktaḥ",
+    "start": 590.72,
+    "end": 593.35,
+    "matchFraction": 0.65,
+    "sharedPassage": false,
+    "sectionId": "13",
+    "sourceId": "background"
+  },
+  {
+    "text": "tasmai dāsyāmi vāṁchitaṁ",
+    "start": 593.36,
+    "end": 595.44,
+    "matchFraction": 0.909,
+    "sharedPassage": false,
+    "sectionId": "13",
+    "sourceId": "background"
+  },
+  {
+    "text": "vrataṁ carati yō bhaktaḥ",
+    "start": 615.36,
+    "end": 618.47,
+    "matchFraction": 0.952,
+    "sharedPassage": false,
+    "sectionId": "13",
+    "sourceId": "background"
+  },
+  {
+    "text": "tasmai dāsyāmi vāṁchitaṁ",
+    "start": 618.48,
+    "end": 621.68,
+    "matchFraction": 0.818,
+    "sharedPassage": false,
+    "sectionId": "13",
+    "sourceId": "background"
+  },
+  {
+    "text": "tadeva lagnaṁ sudinaṁ tadeva",
+    "start": 0.56,
+    "end": 4.08,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "20",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "tārābalaṁ candrabalaṁ tadeva",
+    "start": 4.08,
+    "end": 8.16,
+    "matchFraction": 0.962,
+    "sharedPassage": false,
+    "sectionId": "20",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "vidyābalaṁ daivabalaṁ tadeva",
+    "start": 8.16,
+    "end": 12.16,
+    "matchFraction": 0.962,
+    "sharedPassage": false,
+    "sectionId": "20",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "lakṣmīpate te ’ṅghriyugaṁ smarāmi",
+    "start": 12.16,
+    "end": 16.39,
+    "matchFraction": 0.793,
+    "sharedPassage": false,
+    "sectionId": "20",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "tadeva lagnaṁ sudinaṁ tadeva",
+    "start": 16.4,
+    "end": 19.92,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "20",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "tārābalaṁ candrabalaṁ tadeva",
+    "start": 19.92,
+    "end": 24.0,
+    "matchFraction": 0.962,
+    "sharedPassage": false,
+    "sectionId": "20",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "vidyābalaṁ daivabalaṁ tadeva",
+    "start": 24.0,
+    "end": 28.0,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "20",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "lakṣmīpate te ’ṅghriyugaṁ smarāmi",
+    "start": 28.0,
+    "end": 35.04,
+    "matchFraction": 0.345,
+    "sharedPassage": true,
+    "sectionId": "20",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "keśavāya svāhā",
+    "start": 36,
+    "end": 37.2,
+    "matchFraction": 0.846,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "nārāyaṇāya svāhā",
+    "start": 37.2,
+    "end": 38.549,
+    "matchFraction": 0.867,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "mādhavāya svāhā",
+    "start": 38.559,
+    "end": 40.31,
+    "matchFraction": 0.643,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "govinda viṣṇu madhusūdana trivikrama vāmana",
+    "start": 40.32,
+    "end": 43.35,
+    "matchFraction": 0.897,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śrīdhara hṛṣīkeśa padmanābha dāmodara saṅkarṣaṇa",
+    "start": 43.36,
+    "end": 47.59,
+    "matchFraction": 0.911,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "vāsudeva pradyumna aniruddha puruṣottama adhokṣaja",
+    "start": 47.6,
+    "end": 51.36,
+    "matchFraction": 0.978,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "nārasimha acyuta janārdana upendra",
+    "start": 51.36,
+    "end": 54.229,
+    "matchFraction": 0.903,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "haraye namaḥ śrīkṛṣṇāya namaḥ",
+    "start": 54.239,
+    "end": 56.879,
+    "matchFraction": 0.963,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "keśavāya svāhā",
+    "start": 58.239,
+    "end": 59.52,
+    "matchFraction": 0.923,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "nārāyaṇāya svāhā",
+    "start": 59.52,
+    "end": 60.79,
+    "matchFraction": 0.867,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "mādhavāya svāhā",
+    "start": 60.8,
+    "end": 62.079,
+    "matchFraction": 0.857,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "govinda viṣṇu madhusūdana trivikrama vāmana",
+    "start": 62.079,
+    "end": 64.72,
+    "matchFraction": 0.923,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śrīdhara hṛṣīkeśa padmanābha dāmodara saṅkarṣaṇa",
+    "start": 64.72,
+    "end": 68.56,
+    "matchFraction": 0.867,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "vāsudeva pradyumna aniruddha puruṣottama adhokṣaja",
+    "start": 68.56,
+    "end": 72.96,
+    "matchFraction": 0.957,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "nārasimha acyuta janārdana upendra",
+    "start": 71.6,
+    "end": 74.96,
+    "matchFraction": 0.903,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "haraye namaḥ śrīkṛṣṇāya namaḥ",
+    "start": 74.96,
+    "end": 78.87,
+    "matchFraction": 0.963,
+    "sharedPassage": false,
+    "sectionId": "21",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śrīgurubhyo namaḥ paramagurubhyo namaḥ",
+    "start": 79.6,
+    "end": 81.759,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "22",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śrīmadānandatīrtha bhagavatpādācāryebhyo namaḥ",
+    "start": 81.759,
+    "end": 85.04,
+    "matchFraction": 0.955,
+    "sharedPassage": false,
+    "sectionId": "22",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "vedavyāsāya namaḥ sarasvatyai namaḥ brahmaṇe namaḥ",
+    "start": 85.04,
+    "end": 88.32,
+    "matchFraction": 0.978,
+    "sharedPassage": false,
+    "sectionId": "22",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "bhāratyai namaḥ vāgīśebhyo namaḥ lakṣmyai namaḥ nārāyaṇāya namaḥ",
+    "start": 88.32,
+    "end": 91.92,
+    "matchFraction": 0.807,
+    "sharedPassage": false,
+    "sectionId": "22",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "ekādaśasthāne asmat kuladevatāyai namaḥ",
+    "start": 91.92,
+    "end": 94.72,
+    "matchFraction": 0.861,
+    "sharedPassage": false,
+    "sectionId": "22",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "narasiṁhāya namaḥ",
+    "start": 98.96,
+    "end": 100.32,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "22",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "veṅkaṭeśāya namaḥ",
+    "start": 101.6,
+    "end": 102.4,
+    "matchFraction": 0.938,
+    "sharedPassage": false,
+    "sectionId": "22",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "ekādaśasthāne kuladevatāyai namaḥ śrī vāsudevāya namaḥ",
+    "start": 103.68,
+    "end": 108.079,
+    "matchFraction": 0.939,
+    "sharedPassage": false,
+    "sectionId": "22",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "praṇavasya parabrahma ṛṣiḥ",
+    "start": 110.079,
+    "end": 111.759,
+    "matchFraction": 0.88,
+    "sharedPassage": false,
+    "sectionId": "23",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "paramātmā devatā",
+    "start": 112.399,
+    "end": 113.439,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "23",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "devī gāyatrī chandaḥ prāṇāyāme viniyogaḥ",
+    "start": 114.399,
+    "end": 117.2,
+    "matchFraction": 0.889,
+    "sharedPassage": false,
+    "sectionId": "23",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ bhūḥ oṁ bhuvaḥ oṁ svaḥ",
+    "start": 121.36,
+    "end": 123.68,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "23",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ mahaḥ oṁ janaḥ oṁ tapaḥ oṁ satyaṁ",
+    "start": 123.68,
+    "end": 126.469,
+    "matchFraction": 0.966,
+    "sharedPassage": false,
+    "sectionId": "23",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "tatsaviturvareṇyaṁ bhargo devasya dhīmahi",
+    "start": 126.479,
+    "end": 128.879,
+    "matchFraction": 0.632,
+    "sharedPassage": true,
+    "sectionId": "23",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "dhiyo yo naḥ pracodayāt",
+    "start": 128.879,
+    "end": 130.72,
+    "matchFraction": 0.7,
+    "sharedPassage": false,
+    "sectionId": "23",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ āpo jyotīraso amṛtaṁ brahma bhūrbhuvassuvarom",
+    "start": 130.72,
+    "end": 135.99,
+    "matchFraction": 0.75,
+    "sharedPassage": false,
+    "sectionId": "23",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śubhe śobhane muhūrte ādya brahmaṇaḥ dvitīya parārdhe",
+    "start": 140.959,
+    "end": 145.36,
+    "matchFraction": 0.766,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śrīśvetavarāhakalpe vaivasvatamanvantare aṣṭāviṁśatitame kaliyuge prathamapāde",
+    "start": 145.36,
+    "end": 151.75,
+    "matchFraction": 0.77,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "bharatavarṣe bharatakhaṇḍe daṇḍakāraṇye godāvaryāḥ dakṣiṇatīre",
+    "start": 151.76,
+    "end": 157.12,
+    "matchFraction": 0.897,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śālivāhanaśake bauddhāvatāre rāmakṣetre",
+    "start": 157.12,
+    "end": 160.48,
+    "matchFraction": 0.865,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "asmin vartamāne prabhavādi ṣaṣṭi saṁvatsarāṇāṁ madhye śubha parābhavanāma saṁvatsare",
+    "start": 160.48,
+    "end": 167.519,
+    "matchFraction": 0.974,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "dakṣiṇāyane śaradṛtau āśvījamāse śuklapakṣe prathamāyāṁ",
+    "start": 167.519,
+    "end": 176.39,
+    "matchFraction": 0.923,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "vāsaraḥ vāsarastu bhānuvāsara yuktāyāṁ citrānakṣatra yuktāyāṁ",
+    "start": 176.4,
+    "end": 184.149,
+    "matchFraction": 0.982,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śubhanakṣatra śubhayoga śubhakaraṇa evaṁguṇa sakalaviśeṣaṇa viśiṣṭāyāṁ śubhatithau",
+    "start": 184.159,
+    "end": 191.2,
+    "matchFraction": 0.934,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "asmat kuladevatāntaryāmi bhāratīramaṇa mukhyaprāṇāntargata śrī lakṣmī nārāyaṇa preraṇayā lakṣmī nārāyaṇa prītyarthaṁ",
+    "start": 191.2,
+    "end": 203.99,
+    "matchFraction": 0.943,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śrī bhū durgā brahma prāṇa sarasvatī bhāratī śeṣa",
+    "start": 204.0,
+    "end": 209.84,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śrī bhū durgā brahma prāṇa sarasvatī bhāratī śeṣa garuḍādi sahitasya",
+    "start": 209.84,
+    "end": 219.43,
+    "matchFraction": 0.983,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śrī lakṣmī nārāyaṇasya śrī śrīnivāsasya śrī lakṣmī narasiṁhasya",
+    "start": 219.44,
+    "end": 225.92,
+    "matchFraction": 0.964,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "lakṣmī narasiṁhasya adya prathama prātarārabhya āgāmi daśamī paryantaṁ",
+    "start": 229.44,
+    "end": 238.63,
+    "matchFraction": 0.984,
+    "sharedPassage": false,
+    "sectionId": "24",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "adya saptamī",
+    "start": 243.04,
+    "end": 245.12,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "25",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "mūlanakṣatra ārabhya śravaṇanakṣatra paryantaṁ",
+    "start": 245.439,
+    "end": 249.2,
+    "matchFraction": 0.953,
+    "sharedPassage": false,
+    "sectionId": "25",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "āgāmi daśamī paryantaṁ navarātri utsavākhyaṁ karma karma kariṣyamāṇaḥ",
+    "start": 252.64,
+    "end": 261.99,
+    "matchFraction": 0.919,
+    "sharedPassage": false,
+    "sectionId": "25",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "tadaṅgapūrvaka ghṛtadīpa saṁyojanaṁ pratidinaṁ",
+    "start": 262,
+    "end": 268.469,
+    "matchFraction": 0.932,
+    "sharedPassage": false,
+    "sectionId": "26",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "prātaḥ yathāśakti mahāpūjāṁ sāyaṁ yathāśakti veda purāṇādi",
+    "start": 268.479,
+    "end": 278.15,
+    "matchFraction": 0.981,
+    "sharedPassage": false,
+    "sectionId": "26",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "pārāyaṇākhyaṁ śravaṇākhyaṁ karma kariṣye mahānīrājanaṁ ca kariṣye",
+    "start": 278.16,
+    "end": 285.11,
+    "matchFraction": 0.915,
+    "sharedPassage": false,
+    "sectionId": "26",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "asmin dīpastambhe kṛttikādi saptaviṁśati nakṣatra devatābhyo namaḥ",
+    "start": 292.0,
+    "end": 300.469,
+    "matchFraction": 0.951,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "aśvinyai namaḥ bharaṇyai namaḥ kṛttikāyai namaḥ rohiṇyai",
+    "start": 300.479,
+    "end": 304.32,
+    "matchFraction": 0.843,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "rohiṇyai namaḥ",
+    "start": 305.6,
+    "end": 306.79,
+    "matchFraction": 0.846,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "mṛgaśīrāyai namaḥ ārdrāyai namaḥ punarvasubhyo namaḥ",
+    "start": 306.8,
+    "end": 310.96,
+    "matchFraction": 0.938,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "puṣya nakṣatradevatābhyo namaḥ",
+    "start": 310.96,
+    "end": 312.8,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "āśleṣā nakṣatradevatābhyo namaḥ",
+    "start": 312.8,
+    "end": 315.199,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "maghā nakṣatradevatābhyo namaḥ",
+    "start": 315.199,
+    "end": 317.12,
+    "matchFraction": 0.964,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "pūrvaphalgunī nakṣatradevatābhyo namaḥ",
+    "start": 317.12,
+    "end": 319.919,
+    "matchFraction": 0.972,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "uttaraphalgunī nakṣatradevatābhyo namaḥ",
+    "start": 319.919,
+    "end": 322.4,
+    "matchFraction": 0.973,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "hasta nakṣatradevatābhyo namaḥ",
+    "start": 322.4,
+    "end": 324.79,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "citrā nakṣatradevatābhyo namaḥ",
+    "start": 324.8,
+    "end": 326.88,
+    "matchFraction": 0.964,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "svātī nakṣatradevatābhyo namaḥ",
+    "start": 326.88,
+    "end": 329.039,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "viśākhā nakṣatradevatābhyo namaḥ",
+    "start": 329.039,
+    "end": 331.28,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "anurādhā nakṣatradevatābhyo namaḥ",
+    "start": 331.28,
+    "end": 334.0,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "jyeṣṭhā nakṣatradevatābhyo namaḥ",
+    "start": 334.0,
+    "end": 336.24,
+    "matchFraction": 0.967,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "mūla nakṣatradevatābhyo namaḥ",
+    "start": 336.24,
+    "end": 339.12,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "pūrvāṣāḍhā nakṣatradevatābhyo namaḥ",
+    "start": 339.12,
+    "end": 341.919,
+    "matchFraction": 0.97,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "uttarāṣāḍhā nakṣatradevatābhyo namaḥ",
+    "start": 341.919,
+    "end": 345.28,
+    "matchFraction": 0.971,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śravaṇa nakṣatradevatābhyo namaḥ",
+    "start": 345.28,
+    "end": 347.759,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "dhaniṣṭhā nakṣatradevatābhyo namaḥ",
+    "start": 347.759,
+    "end": 349.759,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śatabhiṣak nakṣatradevatābhyo namaḥ",
+    "start": 349.759,
+    "end": 352.8,
+    "matchFraction": 0.939,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "pūrvabhādrā nakṣatradevatābhyo namaḥ",
+    "start": 352.8,
+    "end": 355.68,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "uttarabhādrā nakṣatradevatābhyo namaḥ",
+    "start": 355.68,
+    "end": 357.919,
+    "matchFraction": 0.971,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "revatī nakṣatradevatābhyo namaḥ",
+    "start": 357.919,
+    "end": 360.8,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "nakṣatrābhimāni śrī lakṣmī nārāyaṇāya namaḥ",
+    "start": 360.8,
+    "end": 363.6,
+    "matchFraction": 0.974,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "nakṣatradevatābhyo namaḥ sthāpayāmi pūjayāmi namaḥ",
+    "start": 365.199,
+    "end": 368.639,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "27",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "vāsukī devatāyai namaḥ anantāya namaḥ",
+    "start": 373.36,
+    "end": 378.16,
+    "matchFraction": 0.939,
+    "sharedPassage": false,
+    "sectionId": "28",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "pāde candrāya namaḥ candrārkābhyaṁ namaḥ",
+    "start": 378.16,
+    "end": 383.749,
+    "matchFraction": 0.833,
+    "sharedPassage": false,
+    "sectionId": "28",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "jyotiṣi sūryacandrāya namaḥ",
+    "start": 382.16,
+    "end": 386.56,
+    "matchFraction": 0.84,
+    "sharedPassage": false,
+    "sectionId": "28",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "agninā",
+    "start": 414.24,
+    "end": 415.36,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "30",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "agninā agniḥ samidhyate samidhyate",
+    "start": 415.919,
+    "end": 422.309,
+    "matchFraction": 0.935,
+    "sharedPassage": false,
+    "sectionId": "30",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "kavir gṛhapatir gṛhapatir yuvā havyavāḍ juhvāsyaḥ",
+    "start": 422.319,
+    "end": 430.24,
+    "matchFraction": 0.935,
+    "sharedPassage": false,
+    "sectionId": "30",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "asmin dīpastambhe asmat kuladevatāyai",
+    "start": 436.639,
+    "end": 439.68,
+    "matchFraction": 0.941,
+    "sharedPassage": false,
+    "sectionId": "31",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "lakṣmīnarasiṁhāya namaḥ",
+    "start": 441.599,
+    "end": 443.51,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "31",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "dhyāyet nṛsiṁham",
+    "start": 447.199,
+    "end": 448.629,
+    "matchFraction": 0.812,
+    "sharedPassage": false,
+    "sectionId": "31",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "ugraṁ vīraṁ mahāviṣṇuṁ jvalantaṁ viśvatomukhaṁ",
+    "start": 448.639,
+    "end": 451.909,
+    "matchFraction": 0.976,
+    "sharedPassage": false,
+    "sectionId": "31",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "narasiṁhaṁ bhīṣaṇaṁ bhadraṁ mṛtyormṛtyuṁ namāmyaham",
+    "start": 451.919,
+    "end": 455.36,
+    "matchFraction": 0.918,
+    "sharedPassage": false,
+    "sectionId": "31",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "lakṣmīnarasiṁham āvāhayāmi",
+    "start": 455.36,
+    "end": 459.909,
+    "matchFraction": 0.72,
+    "sharedPassage": false,
+    "sectionId": "31",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "kalyāṇādbhutagātrāya kāmitārthapradāyine",
+    "start": 461.52,
+    "end": 464.4,
+    "matchFraction": 0.923,
+    "sharedPassage": false,
+    "sectionId": "32",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śrīmadveṅkaṭanāthāya śrīnivāsāya te namaḥ",
+    "start": 464.4,
+    "end": 467.599,
+    "matchFraction": 0.895,
+    "sharedPassage": false,
+    "sectionId": "32",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "lakṣmīveṅkaṭeśvaram āvāhayāmi",
+    "start": 467.599,
+    "end": 470.16,
+    "matchFraction": 0.857,
+    "sharedPassage": false,
+    "sectionId": "32",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "tatpuruṣāya vidmahe mahādevāya dhīmahi",
+    "start": 471.599,
+    "end": 474.08,
+    "matchFraction": 0.686,
+    "sharedPassage": false,
+    "sectionId": "33",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "tanno rudraḥ pracodayāt rudram āvāhayāmi",
+    "start": 474.08,
+    "end": 477.28,
+    "matchFraction": 0.833,
+    "sharedPassage": false,
+    "sectionId": "33",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "kātyāyanyai vidmahe kanyakumāri dhīmahi",
+    "start": 480.4,
+    "end": 483.039,
+    "matchFraction": 0.778,
+    "sharedPassage": false,
+    "sectionId": "34",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "tanno durgiḥ pracodayāt",
+    "start": 483.039,
+    "end": 484.639,
+    "matchFraction": 0.952,
+    "sharedPassage": false,
+    "sectionId": "34",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "durgāṁ kuladevatāyai durgāntaryāmi lakṣmīnarasiṁham āvāhayāmi",
+    "start": 485.44,
+    "end": 490.08,
+    "matchFraction": 0.947,
+    "sharedPassage": false,
+    "sectionId": "34",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "āsanaṁ samarpayāmi",
+    "start": 495.36,
+    "end": 497.67,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "35",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "pādyaṁ samarpayāmi arghyaṁ samarpayāmi",
+    "start": 502.72,
+    "end": 505.43,
+    "matchFraction": 0.971,
+    "sharedPassage": false,
+    "sectionId": "35",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "ācamanīyaṁ samarpayāmi snānaṁ samarpayāmi",
+    "start": 505.44,
+    "end": 508.15,
+    "matchFraction": 0.974,
+    "sharedPassage": false,
+    "sectionId": "35",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "snānānantara ācamanīyaṁ samarpayāmi",
+    "start": 508.16,
+    "end": 510.24,
+    "matchFraction": 0.909,
+    "sharedPassage": false,
+    "sectionId": "35",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "vastraṁ samarpayāmi upavastraṁ samarpayāmi",
+    "start": 512.399,
+    "end": 518.23,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "36",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "ābharaṇārthe akṣatān samarpayāmi",
+    "start": 518.24,
+    "end": 521.44,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "36",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "gandha gandhān samarpayāmi",
+    "start": 521.44,
+    "end": 523.599,
+    "matchFraction": 0.917,
+    "sharedPassage": false,
+    "sectionId": "36",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "haridrā cūrṇa kuṅkumān samarpayāmi",
+    "start": 525.44,
+    "end": 527.92,
+    "matchFraction": 0.968,
+    "sharedPassage": false,
+    "sectionId": "36",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "puṣpamālikāṁ samarpayāmi puṣpaiḥ pūjayāmi",
+    "start": 528.8,
+    "end": 531.99,
+    "matchFraction": 0.921,
+    "sharedPassage": false,
+    "sectionId": "36",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "keśavāya namaḥ",
+    "start": 532,
+    "end": 533.279,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ nārāyaṇāya namaḥ",
+    "start": 533.279,
+    "end": 534.64,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ mādhavāya namaḥ",
+    "start": 534.64,
+    "end": 535.75,
+    "matchFraction": 0.875,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ govindāya namaḥ",
+    "start": 535.76,
+    "end": 537.36,
+    "matchFraction": 0.938,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ viṣṇave namaḥ",
+    "start": 537.36,
+    "end": 538.56,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ madhusūdanāya namaḥ",
+    "start": 538.56,
+    "end": 539.839,
+    "matchFraction": 0.95,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ trivikramāya namaḥ",
+    "start": 539.839,
+    "end": 541.6,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ vāmanāya namaḥ",
+    "start": 541.6,
+    "end": 542.88,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ śrīdharāya namaḥ",
+    "start": 542.88,
+    "end": 544.32,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ hṛṣīkeśāya namaḥ",
+    "start": 544.32,
+    "end": 546.0,
+    "matchFraction": 0.944,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ padmanābhāya namaḥ",
+    "start": 546.0,
+    "end": 547.36,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ dāmodarāya namaḥ",
+    "start": 547.36,
+    "end": 549.11,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "saṅkarṣaṇāya namaḥ",
+    "start": 549.12,
+    "end": 550.32,
+    "matchFraction": 0.941,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ vāsudevāya namaḥ",
+    "start": 550.32,
+    "end": 551.99,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "pradyumnāya namaḥ",
+    "start": 552.0,
+    "end": 553.279,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ aniruddhāya namaḥ",
+    "start": 553.279,
+    "end": 554.56,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ puruṣottamāya namaḥ",
+    "start": 554.56,
+    "end": 556.16,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ adhokṣajāya namaḥ",
+    "start": 556.16,
+    "end": 557.519,
+    "matchFraction": 0.889,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ narasiṁhāya namaḥ",
+    "start": 557.519,
+    "end": 558.88,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ acyutāya namaḥ",
+    "start": 558.88,
+    "end": 560.0,
+    "matchFraction": 0.733,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ janārdanāya namaḥ",
+    "start": 560.0,
+    "end": 561.279,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ upendrāya namaḥ",
+    "start": 561.279,
+    "end": 562.72,
+    "matchFraction": 0.938,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "oṁ haraye namaḥ",
+    "start": 562.72,
+    "end": 564.399,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śrīkṛṣṇāya namaḥ",
+    "start": 564.399,
+    "end": 565.76,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "matsyādi anantāvatāra rūpātmaka śrī lakṣmīnarasiṁhāya namaḥ",
+    "start": 565.76,
+    "end": 570.959,
+    "matchFraction": 0.963,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "lakṣmīveṅkaṭeśvarāya namaḥ",
+    "start": 570.959,
+    "end": 572.72,
+    "matchFraction": 0.96,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "nānā parimala patra puṣpārcanaṁ samarpayāmi",
+    "start": 572.72,
+    "end": 575.519,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "37",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "daśāṅgaṁ guggulopetaṁ sugandhaṁ sumanoharaṁ",
+    "start": 578.08,
+    "end": 581.92,
+    "matchFraction": 0.8,
+    "sharedPassage": false,
+    "sectionId": "38",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "āghreyaṁ sarvadevānāṁ dhūpo’yaṁ pratigṛhyatāṁ",
+    "start": 581.92,
+    "end": 585.44,
+    "matchFraction": 0.786,
+    "sharedPassage": false,
+    "sectionId": "38",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "dhūpamāghrāpayāmi",
+    "start": 585.44,
+    "end": 588.55,
+    "matchFraction": 0.765,
+    "sharedPassage": false,
+    "sectionId": "38",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "dīpārthe akṣatān samarpayāmi",
+    "start": 588.56,
+    "end": 591.2,
+    "matchFraction": 0.615,
+    "sharedPassage": true,
+    "sectionId": "38",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "dhūpadīpānantara ācamanīyaṁ samarpayāmi",
+    "start": 592.399,
+    "end": 595.59,
+    "matchFraction": 0.973,
+    "sharedPassage": false,
+    "sectionId": "38",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "bhūrbhuvassuvaḥ",
+    "start": 602.08,
+    "end": 603.04,
+    "matchFraction": 0.6,
+    "sharedPassage": true,
+    "sectionId": "39",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "satyaṁ tvartena pariṣiñcāmi",
+    "start": 605.68,
+    "end": 607.2,
+    "matchFraction": 0.56,
+    "sharedPassage": true,
+    "sectionId": "39",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "amṛtopastaraṇamasi svāhā",
+    "start": 608.56,
+    "end": 610.55,
+    "matchFraction": 0.917,
+    "sharedPassage": false,
+    "sectionId": "39",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "prāṇāya svāhā apānāya svāhā vyānāya svāhā",
+    "start": 611.76,
+    "end": 614.56,
+    "matchFraction": 0.833,
+    "sharedPassage": false,
+    "sectionId": "39",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "udānāya svāhā samānāya svāhā brahmaṇe svāhā",
+    "start": 614.56,
+    "end": 618.949,
+    "matchFraction": 0.895,
+    "sharedPassage": false,
+    "sectionId": "39",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "brahmaṇi ma ātmā amṛtatvāya amṛte amṛtaṁ juhomi",
+    "start": 618.959,
+    "end": 622.959,
+    "matchFraction": 0.75,
+    "sharedPassage": false,
+    "sectionId": "39",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "idaṁ nārikela khaṇḍadvayaṁ kadalīphalaṁ mahānaivedyaṁ nivedayāmi",
+    "start": 625.279,
+    "end": 629.76,
+    "matchFraction": 0.898,
+    "sharedPassage": false,
+    "sectionId": "40",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "madhye amṛtapānīyaṁ samarpayāmi",
+    "start": 632.88,
+    "end": 634.8,
+    "matchFraction": 0.967,
+    "sharedPassage": false,
+    "sectionId": "40",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "amṛtāpidhānamasi svāhā",
+    "start": 636.959,
+    "end": 646,
+    "matchFraction": 0.591,
+    "sharedPassage": true,
+    "sectionId": "41",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "hastaprakṣālanaṁ samarpayāmi mukhaprakṣālanaṁ samarpayāmi",
+    "start": 638.88,
+    "end": 642.32,
+    "matchFraction": 0.944,
+    "sharedPassage": false,
+    "sectionId": "41",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "pādaprakṣālanaṁ samarpayāmi ācamanīyaṁ samarpayāmi",
+    "start": 642.32,
+    "end": 646,
+    "matchFraction": 0.979,
+    "sharedPassage": false,
+    "sectionId": "41",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "pūgīphalasamāyuktaṁ nāgavallīdalairyutaṁ",
+    "start": 651.04,
+    "end": 653.67,
+    "matchFraction": 0.718,
+    "sharedPassage": false,
+    "sectionId": "42",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "karpūracūrṇasaṁmiśraṁ tāmbūlaṁ pratigṛhyatāṁ",
+    "start": 653.68,
+    "end": 656.16,
+    "matchFraction": 0.558,
+    "sharedPassage": true,
+    "sectionId": "42",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "karpūratāmbūlaṁ samarpayāmi",
+    "start": 656.16,
+    "end": 660.069,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "42",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "suvarṇapuṣpa dakṣiṇāṁ samarpayāmi",
+    "start": 661.36,
+    "end": 663.2,
+    "matchFraction": 0.968,
+    "sharedPassage": false,
+    "sectionId": "43",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "rājādhirājāya prasahyasāhine",
+    "start": 667.04,
+    "end": 669.519,
+    "matchFraction": 0.704,
+    "sharedPassage": false,
+    "sectionId": "44",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "rājādhirājāya prasahyasāhine namo vayaṁ vaiśravaṇāya kurmahe",
+    "start": 671.6,
+    "end": 674.949,
+    "matchFraction": 0.6,
+    "sharedPassage": true,
+    "sectionId": "44",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "same kāmān kāmakāmāya mahyaṁ kāmeśvaro vaiśravaṇo dadātu",
+    "start": 674.959,
+    "end": 680.71,
+    "matchFraction": 0.7,
+    "sharedPassage": false,
+    "sectionId": "44",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "kuberāya vaiśravaṇāya mahārājāya namaḥ",
+    "start": 680.72,
+    "end": 684.32,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "44",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "rakṣāṁ dhārayāmi",
+    "start": 688.959,
+    "end": 690.32,
+    "matchFraction": 0.933,
+    "sharedPassage": false,
+    "sectionId": "44",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "yāni kāni ca pāpāni janmāntarakṛtāni ca",
+    "start": 698,
+    "end": 701.279,
+    "matchFraction": 0.914,
+    "sharedPassage": false,
+    "sectionId": "45",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "tāni tāni vinaśyanti pradakṣiṇa pade pade",
+    "start": 701.279,
+    "end": 705.36,
+    "matchFraction": 0.722,
+    "sharedPassage": false,
+    "sectionId": "45",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "anyathā śaraṇaṁ nāsti tvameva śaraṇaṁ mama",
+    "start": 705.36,
+    "end": 709.2,
+    "matchFraction": 0.784,
+    "sharedPassage": false,
+    "sectionId": "45",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "tasmāt kāruṇyabhāvena rakṣa rakṣa ramāpate",
+    "start": 709.2,
+    "end": 711.99,
+    "matchFraction": 0.763,
+    "sharedPassage": false,
+    "sectionId": "45",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "namaskārān samarpayāmi",
+    "start": 714.32,
+    "end": 717.11,
+    "matchFraction": 0.952,
+    "sharedPassage": false,
+    "sectionId": "45",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "ānandatīrthavarade dānavāraṇyapāvake",
+    "start": 719.279,
+    "end": 723.76,
+    "matchFraction": 0.943,
+    "sharedPassage": false,
+    "sectionId": "46",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "jñānadāyini sadveśe śrīnivāse’stu me manaḥ",
+    "start": 723.76,
+    "end": 729.11,
+    "matchFraction": 0.838,
+    "sharedPassage": false,
+    "sectionId": "46",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "saṁsṛṣṭaṁ dhanam ubhayaṁ samākṛtaṁ asmabhyaṁ dattāṁ varuṇaśca manyuḥ",
+    "start": 732.56,
+    "end": 740.629,
+    "matchFraction": 0.841,
+    "sharedPassage": false,
+    "sectionId": "46",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "bhiyaṁ dadhānā hṛdayeṣu śatravaḥ parājitāso apanilayantām",
+    "start": 732.56,
+    "end": 741.44,
+    "matchFraction": 0.358,
+    "sharedPassage": true,
+    "sectionId": "46",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "sarvamaṅgalamāṅgalye śive sarvārthasādhike",
+    "start": 743.2,
+    "end": 746.399,
+    "matchFraction": 0.925,
+    "sharedPassage": false,
+    "sectionId": "46",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śaraṇye tryambake devi nārāyaṇi namo’stute",
+    "start": 746.399,
+    "end": 749.76,
+    "matchFraction": 0.919,
+    "sharedPassage": false,
+    "sectionId": "46",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "anena prathamadinācarita dīpasaṁyojana akhaṇḍadīpa sthāpana pūjanena",
+    "start": 751.12,
+    "end": 758.079,
+    "matchFraction": 0.984,
+    "sharedPassage": false,
+    "sectionId": "47",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "bhagavān asmat kuladevatāntaryāmi bhāratīramaṇa mukhyaprāṇāntargata",
+    "start": 758.079,
+    "end": 762.56,
+    "matchFraction": 0.968,
+    "sharedPassage": false,
+    "sectionId": "47",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śrīlakṣmīnārāyaṇaḥ prīyatāṁ śrīkṛṣṇārpaṇamastu",
+    "start": 763.68,
+    "end": 767.2,
+    "matchFraction": 0.956,
+    "sharedPassage": false,
+    "sectionId": "47",
+    "sourceId": "vidhi"
+  },
+  {
+    "text": "śrīkṛṣṇa",
+    "start": 850,
+    "end": 850.616604,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "sectionId": "50",
+    "sourceId": "vidhi"
+  }
+]

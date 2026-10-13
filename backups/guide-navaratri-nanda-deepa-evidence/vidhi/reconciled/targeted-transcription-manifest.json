@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sankalpa-early",
+    "startSeconds": 136,
+    "endSeconds": 239,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/sankalpa-early-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/sankalpa-early-transcript.json",
+      "characters": 924
+    }
+  },
+  {
+    "id": "sankalpa-end",
+    "startSeconds": 238,
+    "endSeconds": 290,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/sankalpa-end-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/sankalpa-end-transcript.json",
+      "characters": 462
+    }
+  },
+  {
+    "id": "nakshatra-lamp-parts",
+    "startSeconds": 288,
+    "endSeconds": 388,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/nakshatra-lamp-parts-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/nakshatra-lamp-parts-transcript.json",
+      "characters": 1144
+    }
+  },
+  {
+    "id": "final-prayers",
+    "startSeconds": 714,
+    "endSeconds": 770,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/final-prayers-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/final-prayers-transcript.json",
+      "characters": 592
+    }
+  },
+  {
+    "id": "lamp-continuity",
+    "startSeconds": 770,
+    "endSeconds": 809,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/lamp-continuity-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/lamp-continuity-transcript.json",
+      "characters": 445
+    }
+  },
+  {
+    "id": "incense-food",
+    "startSeconds": 575,
+    "endSeconds": 624,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/incense-food-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/incense-food-transcript.json",
+      "characters": 641
+    }
+  },
+  {
+    "id": "tambula-arati",
+    "startSeconds": 645,
+    "endSeconds": 698,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/tambula-arati-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/tambula-arati-transcript.json",
+      "characters": 668
+    }
+  },
+  {
+    "id": "opening",
+    "startSeconds": 0,
+    "endSeconds": 36,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/opening-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/navaratri-nanda-deepa/vidhi/reconciled/opening-transcript.json",
+      "characters": 221
+    }
+  }
+]
