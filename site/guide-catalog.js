@@ -54,6 +54,10 @@
       title: 'Jyeshtha Devi Puja', tabLabel: 'Booklet (30 practice clips)',
       subtitle: 'Roman Sanskrit, English meanings and ritual directions from the 2026 Kannada booklet'
     },
+    'saraswati-puja': {
+      title: 'Saraswati Puja', tabLabel: 'Complete (51 min)',
+      subtitle: 'Avahana, puja and visarjana with Roman Sanskrit, English meanings, contemplation and ritual actions'
+    },
     'navaratri-nanda-deepa': {
       title: 'Navaratri Nanda Deepa Puja', tabLabel: 'Preparation and Puja (28 min)',
       subtitle: 'Preparation, Roman Sanskrit, line and word meanings, contemplation and ritual actions'

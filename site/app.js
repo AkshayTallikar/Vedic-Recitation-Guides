@@ -440,6 +440,8 @@
     repetition = 1;
     var c = cards[idx];
     audio.src = c.__audio;
+    // Reset old metadata before a line button decides whether the new clip is ready.
+    audio.load();
     audio.playbackRate = rate;
     setPlayerTitle();
     player.classList.add('show');

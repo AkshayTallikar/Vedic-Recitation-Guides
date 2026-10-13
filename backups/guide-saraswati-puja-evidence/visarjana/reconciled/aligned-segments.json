@@ -1,0 +1,528 @@
+[
+  {
+    "id": "visarjana-V01-01",
+    "sourceId": "visarjana",
+    "start": 0.48,
+    "end": 42.079,
+    "sourceOriginal": "ನಮಸ್ಕಾರ, ಚರಣಂ ಪವಿತ್ರಂ ಯೂಟ್ಯೂಬ್ ಚಾನೆಲ್ನ ಪ್ರಿಯ ವೀಕ್ಷಕರಿಗೆ ನಮಸ್ಕಾರ. ದಶಮಿ ಅಂದರೆ ವಿಜಯದಶಮಿ ದಿನ, ನಾಲ್ಕನೇ ದಿನ ಗುರುವಾರ. ಬೆಳಿಗ್ಗೆ ನಿಮ್ಮ ನಿತ್ಯಕರ್ಮಾನುಷ್ಠಾನಗಳು ಅಂದರೆ ಸ್ನಾನ, ಗೋಪೀಚಂದನ ಧಾರಣೆ, ಸಂಧ್ಯಾವಂದನೆ, ದೇವರ ಪೂಜೆಯನ್ನು ಪೂರ್ಣ ಮುಗಿಸಿ, ನೀವೇನು ಆವಾಹನ ಮಾಡಿಟ್ಟಿದ್ದೀರಿ ಸರಸ್ವತಿ ದೇವಿ, ಅದಕ್ಕೆ ಪುನಃ ಪೂಜೆಯನ್ನು ಮಾಡಿರಿ. ಅಕ್ಷತ ಸಮರ್ಪಣ, ಹೂವಿನಿಂದ ಅರಿಶಿಣ, ಕುಂಕುಮ, ಗಂಧ ಎಲ್ಲವನ್ನೂ ಪೂಜೆಯನ್ನು ಮಾಡಿ, ಒಂದು ನೈವೇದ್ಯ, ಹಣ್ಣು ಕಾಯಿ ನೈವೇದ್ಯವನ್ನು ಮಾಡಿ. ",
+    "sectionId": "V01",
+    "blockIndex": 0,
+    "language": "Kannada",
+    "captionCueIndices": [
+      1,
+      3,
+      5,
+      7,
+      9,
+      11,
+      13,
+      15,
+      17,
+      19,
+      21,
+      23
+    ]
+  },
+  {
+    "id": "visarjana-V02-01",
+    "sourceId": "visarjana",
+    "start": 42.079,
+    "end": 44.0,
+    "sourceOriginal": "ಹೂ ಮಂತ್ರಾಕ್ಷತೆ ಕೈಯಲ್ಲಿ ಹಿಡ್ಕೊಂಡು, ",
+    "sectionId": "V02",
+    "blockIndex": 0,
+    "language": "Kannada",
+    "captionCueIndices": [
+      25
+    ]
+  },
+  {
+    "id": "visarjana-V02-02",
+    "sourceId": "visarjana",
+    "start": 44.0,
+    "end": 61.76,
+    "sourceOriginal": "ಉತ್ತಿಷ್ಠ ದೇವಿ ಕಲ್ಯಾಣಿ, ಗೃಹೀತ್ವ ಪೂಜನಂ ಮಮ, ಸ್ವಸ್ಥಾನಂ ಗಚ್ಛ ಶುಭಗೆ, ಕಾಮಾನ್ ದೇಹಿ ಸರಸ್ವತಿ. ಯಾಂತು ದೇವಗಣಾಃ ಸರ್ವೇ, ಪೂಜಾಮಾದಾಯ ಮತ್ಕೃತಾಂ, ಇಷ್ಟಕಾಮ್ಯಾಂಶ್ಚ ದದ್ಯಾತಂ, ಪುನಃ ಆಗಮನಾಯ ಚ. ",
+    "sectionId": "V02",
+    "blockIndex": 1,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      25,
+      27,
+      29,
+      31,
+      33,
+      35,
+      37
+    ]
+  },
+  {
+    "id": "visarjana-V02-03",
+    "sourceId": "visarjana",
+    "start": 61.76,
+    "end": 68.0,
+    "sourceOriginal": "ಅಂತ ಪುಸ್ತಕ ಸರಸ್ವತಿಯ ಮೇಲೆ ಮಂತ್ರಾಕ್ಷತೆಯನ್ನ ಹಾಕಿರಿ. ಆವಾಗ, ",
+    "sectionId": "V02",
+    "blockIndex": 2,
+    "language": "Kannada",
+    "captionCueIndices": [
+      37,
+      39
+    ]
+  },
+  {
+    "id": "visarjana-V02-04",
+    "sourceId": "visarjana",
+    "start": 68.0,
+    "end": 73.92,
+    "sourceOriginal": "ಅಕ್ಷರಾಭಿಮಾನಿ ದೇವತಾ ಶಕಿತ ಸರಸ್ವತ್ಯಂತರ್ಗತ ವೇದವ್ಯಾಸಂ ಗತಾಸ್ಥಾನಂ ಪ್ರತಿಷ್ಠಾಪಯಾಮಿ. ",
+    "sectionId": "V02",
+    "blockIndex": 3,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      41,
+      43,
+      45
+    ]
+  },
+  {
+    "id": "visarjana-V02-05",
+    "sourceId": "visarjana",
+    "start": 73.92,
+    "end": 80.88,
+    "sourceOriginal": "ಅಂತ ಅದಕ್ಕೆ ಪೂಜೆಯನ್ನು ಮಾಡಿ ಮುಗಿಸಿರಿ. ಮುಗಿಸಿಟ್ಟು, ",
+    "sectionId": "V02",
+    "blockIndex": 4,
+    "language": "Kannada",
+    "captionCueIndices": [
+      45,
+      47,
+      49
+    ]
+  },
+  {
+    "id": "visarjana-V03-01",
+    "sourceId": "visarjana",
+    "start": 80.88,
+    "end": 128.8,
+    "sourceOriginal": "ಈ ದಿನ ವಿಶೇಷವಾಗಿ ಶ್ರೀಮದಾನಂದತೀರ್ಥ ಭಗವತ್ಪಾದಾಚಾರ್ಯರು, ಲೋಕಗುರುಗಳು, ನಮ್ಮನ್ನೆಲ್ಲ ಉದ್ಧಾರಣ ಮಾಡಲಿಕ್ಕಾಗಿ ಅವತಾರ ಮಾಡಿದಂಥ ದಿನ ಈ ವಿಜಯದಶಮಿ. ಶ್ರೀಮದಾಚಾರ್ಯರನ್ನ ನಾವು ವಿಶೇಷವಾಗಿ ಅವರನ್ನ ಕೊಂಡಾಡಬೇಕಾದ ದಿನ. ನಮ್ಮ ಮಧ್ವ ಸಂಪ್ರದಾಯವನ್ನ, ಮಧ್ವ ಸಂಪ್ರದಾಯದ ಆದಿಗುರುಗಳಾದ ಶ್ರೀಮದಾಚಾರ್ಯರ ಜಯಂತಿ, ಮಧ್ವ ಜಯಂತಿ. ಮತ್ತು ಆದಷ್ಟು ಅವರು ಮಾಡಿರುವ ದ್ವಾದಶ ಸ್ತೋತ್ರ, ನರಸಿಂಹನಖಸ್ತುತಿ, ಶ್ರೀಮದಾಚಾರ್ಯರ ಸುಮಧ್ವವಿಜಯ ಇತ್ಯಾದಿಗಳನ್ನ ಪಾರಾಯಣ. ಇಲ್ಲದಿದ್ದರೆ, ",
+    "sectionId": "V03",
+    "blockIndex": 0,
+    "language": "Kannada",
+    "captionCueIndices": [
+      51,
+      53,
+      55,
+      57,
+      59,
+      61,
+      63,
+      65,
+      67,
+      69,
+      71,
+      73,
+      75
+    ]
+  },
+  {
+    "id": "visarjana-V03-02",
+    "sourceId": "visarjana",
+    "start": 128.8,
+    "end": 135.19,
+    "sourceOriginal": "ಅಬ್ರಹ್ಮಂ ಬಂಗರಗಿತಂ ಅಜಡಂ ವಿಮಲಂ ಸದಾ ಆನಂದತೀರ್ಥಮತುಲಂ ಭಜೇ ತಾಪತ್ರಯಾಪಹಂ. ",
+    "sectionId": "V03",
+    "blockIndex": 1,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      75,
+      77
+    ]
+  },
+  {
+    "id": "visarjana-V03-03",
+    "sourceId": "visarjana",
+    "start": 135.2,
+    "end": 137.28,
+    "sourceOriginal": "ಅಂತ ಇದನ್ನ ವಾರ ಹೇಳಬೇಕು. ",
+    "sectionId": "V03",
+    "blockIndex": 2,
+    "language": "Kannada",
+    "captionCueIndices": [
+      79
+    ]
+  },
+  {
+    "id": "visarjana-V03-04",
+    "sourceId": "visarjana",
+    "start": 137.28,
+    "end": 145.92,
+    "sourceOriginal": "ನ ಮಾಧವ ಸಮೋ ದೇವೋ ನ ಚ ಮಧ್ವಃ ಸಮೋ ಗುರುಃ ನ ತದ್ವಾಕ್ಯ ಸಮಂ ಶಾಸ್ತ್ರಂ ನ ಚ ತಜ್ಞ ಸಮಃ ಪುಮಾನ್. ",
+    "sectionId": "V03",
+    "blockIndex": 3,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      79,
+      81,
+      83
+    ]
+  },
+  {
+    "id": "visarjana-V03-05",
+    "sourceId": "visarjana",
+    "start": 145.92,
+    "end": 151.84,
+    "sourceOriginal": "ಶ್ರೀಮದಾಚಾರ್ಯರನ್ನ ಸ್ಮರಣೆಯನ್ನ ಮಾಡಬೇಕು. ಮುಗಿಸಿ ಸಂಜೆ, ",
+    "sectionId": "V03",
+    "blockIndex": 4,
+    "language": "Kannada",
+    "captionCueIndices": [
+      83,
+      85
+    ]
+  },
+  {
+    "id": "visarjana-V04-01",
+    "sourceId": "visarjana",
+    "start": 151.84,
+    "end": 162.64,
+    "sourceOriginal": "ಶಮಿ ಅಂದರೆ ವನ್ನಿ ಮರ ಅಂತ ಹೇಳ್ತಾರೆ, ಶಮಿ ವೃಕ್ಷ. ಅದರ ಭಾಗಕ್ಕೆ ಹೋಗಿ ಅಲ್ಲಿ ಅರ್ಚನೆಯನ್ನು, ಅದಕ್ಕೆ ಹೂವು ಮಂತ್ರಾಕ್ಷತೆಯನ್ನ ಸಮರ್ಪಣ ಮಾಡಬೇಕು. ",
+    "sectionId": "V04",
+    "blockIndex": 0,
+    "language": "Kannada",
+    "captionCueIndices": [
+      87,
+      89,
+      91,
+      93
+    ]
+  },
+  {
+    "id": "visarjana-V04-02",
+    "sourceId": "visarjana",
+    "start": 162.64,
+    "end": 175.99,
+    "sourceOriginal": "ಶಮಿ ಯುಕ್ತಂ ಜಗನ್ನಾಥಂ ಭಕ್ತಾನಾಮಭಯಂಕರಂ ಅರ್ಚಯಾಮಿ ತ್ವಾಂ ಸಬೀಷ್ಟ ವೃಕ್ಷಮರ್ಚಗೇಷ್ಟದಃ ಪುನಃ. ",
+    "sectionId": "V04",
+    "blockIndex": 1,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      95,
+      97,
+      99,
+      101
+    ]
+  },
+  {
+    "id": "visarjana-V04-03",
+    "sourceId": "visarjana",
+    "start": 176.0,
+    "end": 180.72,
+    "sourceOriginal": "ಎಲ್ಲರೂ ಕೂಡ ಶಮಿ ಪಕ್ಕ, ಶಮಿಗೆ ಹೋಗಿ ಪೂಜೆಯನ್ನು ಮಾಡಬೇಕು. ",
+    "sectionId": "V04",
+    "blockIndex": 2,
+    "language": "Kannada",
+    "captionCueIndices": [
+      103,
+      105
+    ]
+  },
+  {
+    "id": "visarjana-V05-01",
+    "sourceId": "visarjana",
+    "start": 180.72,
+    "end": 188.879,
+    "sourceOriginal": "ಭಾರತೀರಮಣ ಮುಖ್ಯಪ್ರಾಣಾಂತರ್ಗತ ಶ್ರೀವಿಷ್ಣು ಪ್ರೇರಣಯಾ ಶ್ರೀವಿಷ್ಣು ಪ್ರೀತ್ಯರ್ಥಂ ಶಮೀಪೂಜಾಂ ಕರಿಷ್ಯೇ. ",
+    "sectionId": "V05",
+    "blockIndex": 0,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      105,
+      107,
+      109,
+      111
+    ]
+  },
+  {
+    "id": "visarjana-V05-02",
+    "sourceId": "visarjana",
+    "start": 188.879,
+    "end": 191.84,
+    "sourceOriginal": "ಅಂತ ಶಮಿ ವೃಕ್ಷಕ್ಕೆ ಪೂಜೆಯನ್ನು ಮಾಡಬೇಕು. ",
+    "sectionId": "V05",
+    "blockIndex": 1,
+    "language": "Kannada",
+    "captionCueIndices": [
+      111,
+      113
+    ]
+  },
+  {
+    "id": "visarjana-V06-01",
+    "sourceId": "visarjana",
+    "start": 191.84,
+    "end": 206.239,
+    "sourceOriginal": "ಅಮಂಗಲಾನಾಂ ಶಮನೀಂ ಶಮನೀಂ ದುಷ್ಟಕೃತಸ್ಯ ಚ ದುಃಖಾಪ್ನು ಸನೀಂ ಧಾನ್ಯಂ ಪ್ರಾಪ್ತಯೇಹಂ ಶಮೀಂ ಶುಭಾಂ. ",
+    "sectionId": "V06",
+    "blockIndex": 0,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      113,
+      115,
+      117,
+      119,
+      121
+    ]
+  },
+  {
+    "id": "visarjana-V06-02",
+    "sourceId": "visarjana",
+    "start": 206.239,
+    "end": 208.56,
+    "sourceOriginal": "ಹೀಗೆ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಬೇಕು. ",
+    "sectionId": "V06",
+    "blockIndex": 1,
+    "language": "Kannada",
+    "captionCueIndices": [
+      121
+    ]
+  },
+  {
+    "id": "visarjana-V06-03",
+    "sourceId": "visarjana",
+    "start": 208.56,
+    "end": 212.48,
+    "sourceOriginal": "ಇತಿ ಶಮಿ ಧ್ಯಾನಾಭಿಃ ಸಂಪೂಜ್ಯ. ",
+    "sectionId": "V06",
+    "blockIndex": 2,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      121,
+      123
+    ]
+  },
+  {
+    "id": "visarjana-V06-04",
+    "sourceId": "visarjana",
+    "start": 212.48,
+    "end": 217.44,
+    "sourceOriginal": "ಅರಿಶಿಣ ಕುಂಕುಮದಿಂದ ಪೂಜೆಯನ್ನು ಮಾಡಿರಿ. ಮಾಡಿಟ್ಟು, ",
+    "sectionId": "V06",
+    "blockIndex": 3,
+    "language": "Kannada",
+    "captionCueIndices": [
+      123,
+      125
+    ]
+  },
+  {
+    "id": "visarjana-V07-01",
+    "sourceId": "visarjana",
+    "start": 217.44,
+    "end": 243.36,
+    "sourceOriginal": "ಧರಣಿ ಧಾರಿಣ್ಯಾರ್ಜುನ ಬಾಣಾನಾಂ ರಾಮಸ್ಯ ಪ್ರಜ್ಞವಾದಿನಿ ಕರಿಷ್ಯಾಮಾಣಾಂ ಯಾತ್ರಾಯಾಂ ಯಥಾಕಾಲಂ ಸುಖಂ ಮಯಾ ತತ್ರ ನಿರ್ವಿಘ್ನಕರ್ತೃತ್ವಂ ಭವ ಶ್ರೀರಾಮಪೂಜಿತೇ. ",
+    "sectionId": "V07",
+    "blockIndex": 0,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      127,
+      129,
+      131,
+      133,
+      135,
+      137,
+      139,
+      141,
+      143
+    ]
+  },
+  {
+    "id": "visarjana-V07-02",
+    "sourceId": "visarjana",
+    "start": 243.36,
+    "end": 262.639,
+    "sourceOriginal": "ಅಂತ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಬೇಕು. ನಮ್ಮ ಈ ಏನು ಸಂಸಾರಾಂಬೋ ಈ ಯಾತ್ರೆ ಇದೆ, ಇದರಲ್ಲಿ ಎಲ್ಲವೂ ಕೂಡ ನನಗೆ ಅನುಕೂಲವಾಗಲಿ ಅಂತ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಿ ತಾಂಬೂಲ ದಕ್ಷಿಣೆಗಳನ್ನ ಕೊಡಬೇಕು ಅಂತ. ಮತ್ತೆ, ",
+    "sectionId": "V07",
+    "blockIndex": 1,
+    "language": "Kannada",
+    "captionCueIndices": [
+      143,
+      145,
+      147,
+      149,
+      151
+    ]
+  },
+  {
+    "id": "visarjana-V08-01",
+    "sourceId": "visarjana",
+    "start": 262.639,
+    "end": 284.08,
+    "sourceOriginal": "ವಿಜಯದಶಮಿ ದಿನ ಇನ್ನೊಂದು ವಿಶೇಷ ಯಾವುದು ಅಂದರೆ ಗುರುಗಳನ್ನ, ನಮ್ಮ ಆಚಾರ್ಯರುಗಳನ್ನ, ನಮಗೆ ಯಾರು ಗುರುವಾಗಿದ್ದು ದಾರಿ ತೋರಿಸ್ತಾ ಇದ್ದಾರೆ ಅವರನ್ನ ನಮಸ್ಕಾರ ಮಾಡೋದು, ಅವರಿಗೆ ದಾನ ದಕ್ಷಿಣೆಗಳನ್ನ ಕೊಟ್ಟು ಅವರಿಂದ ಆಶೀರ್ವಾದ ಪಡೆಯೋದು ತುಂಬಾ ವಿಶೇಷ. ವಿಜಯದಶಮಿಯ ದಿನ, ",
+    "sectionId": "V08",
+    "blockIndex": 0,
+    "language": "Kannada",
+    "captionCueIndices": [
+      153,
+      155,
+      157,
+      159,
+      161,
+      163,
+      165,
+      167,
+      169
+    ]
+  },
+  {
+    "id": "visarjana-V08-02",
+    "sourceId": "visarjana",
+    "start": 284.08,
+    "end": 301.28,
+    "sourceOriginal": "ವಿಜಯೋ ನಾಮ ಕಾಲೋಯಂ ಸರ್ವಕಾರ್ಯಾರ್ಥ ಸಿದ್ಧಿತಃ ದಾನ ಕೋಟಿ ಗುಣಂ ಪುಣ್ಯಂ ತದೈವ ದಶಮೀ ದಿನೇ ವಿಜಯದಶಮೀ ಪ್ರೋಕ್ತಾ ಶಾಪಪುಣ್ಯಾ ಜಗತಾ ನಣಂ ದ್ರವ್ಯೈಃ ಸುಗಂಧಿಭಿಃ ತೈಸ್ತೈಸದಾ ಮನ್ಮೂರ್ತಿಂ ಬ್ರಾಹ್ಮಣಾನಪಿ. ",
+    "sectionId": "V08",
+    "blockIndex": 1,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      169,
+      171,
+      173,
+      175,
+      177
+    ]
+  },
+  {
+    "id": "visarjana-V09-01",
+    "sourceId": "visarjana",
+    "start": 301.28,
+    "end": 309.84,
+    "sourceOriginal": "ಅಂತ ಈ ಒಂದು ಆಶ್ವೀಜ ಮಾಸದ ಈ ವಿಜಯದಶಮಿಯ ದಿನ ನೀವೇನು ದಾನ ಕೊಡುತ್ತೀರಿ, ",
+    "sectionId": "V09",
+    "blockIndex": 0,
+    "language": "Kannada",
+    "captionCueIndices": [
+      177,
+      179
+    ]
+  },
+  {
+    "id": "visarjana-V09-02",
+    "sourceId": "visarjana",
+    "start": 309.84,
+    "end": 311.28,
+    "sourceOriginal": "ದಾನ ಕೋಟಿ ಗುಣಂ ಪುಣ್ಯಂ. ",
+    "sectionId": "V09",
+    "blockIndex": 1,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      181
+    ]
+  },
+  {
+    "id": "visarjana-V09-03",
+    "sourceId": "visarjana",
+    "start": 311.28,
+    "end": 354.4,
+    "sourceOriginal": "ಕೋಟಿ ಗುಣಗಳನ್ನ ಈ ದಿನದಲ್ಲಿ ಮಾಡುವ ದಾನ ವಿಶೇಷವಾಗಿ ಕೊಡುತ್ತೆ ಅಂತ. ದ್ರವ್ಯಗಳು, ಸುಗಂಧ ದ್ರವ್ಯಗಳು, ವಸ್ತ್ರಗಳು, ಅದರಿಂದ ಆಚಾರ್ಯರನ್ನ ಬ್ರಾಹ್ಮಣರನ್ನ ಸಂತೋಷಪಡಿಸಬೇಕು. ಅವರು ದಕ್ಷಿಣೆಯಿಂದ ಅವರನ್ನ ಸಂತೋಷಪಡಿಸಬೇಕು ಅಂತ ಸ್ಮೃತಿ ಮುಕ್ತಾವಳಿ ಎನ್ನುವ ಒಂದು ಗ್ರಂಥದಲ್ಲಿ ಹೇಳಿದ್ದಾರೆ. ಮುಖ್ಯವಾಗಿ ಗುರುಗಳನ್ನ, ಗುರುಗಳನ್ನ ಸ್ಮರಣೆ ಮಾಡಿ, ಗುರುಗಳಲ್ಲಿ ಅವರಿಗೆ ದಕ್ಷಿಣೆಗಳನ್ನ ಕೊಟ್ಟು, ಗುರುಗಳಿಗೆ ಸಮರ್ಪಣೆ ಮಾಡಿ ಅವರಿಂದ ಆಶೀರ್ವಾದಗಳನ್ನ ಪಡೆಯಬೇಕು ಅಂತ. ವಿಜಯದಶಮಿಯ ಆಚರಣೆ ಇಷ್ಟೇ. ಸೋ, ",
+    "sectionId": "V09",
+    "blockIndex": 2,
+    "language": "Kannada",
+    "captionCueIndices": [
+      181,
+      183,
+      185,
+      187,
+      189,
+      191,
+      193,
+      195,
+      197,
+      199,
+      201,
+      203,
+      205,
+      207
+    ]
+  },
+  {
+    "id": "visarjana-V10-01",
+    "sourceId": "visarjana",
+    "start": 354.4,
+    "end": 372.08,
+    "sourceOriginal": "ವಿಜಯದಶಮಿ ದಿನ ಸರಸ್ವತಿಯನ್ನ ವಿಸರ್ಜನೆ ಮಾಡಿ, ಒಂದು ಎರಡು ಅಕ್ಷರಗಳನ್ನ ಮಕ್ಕಳನ್ನ ಓದು ಅಂತ ಹೇಳಿರಿ. ಮಕ್ಕಳಿಗೆಲ್ಲ ವಿಶೇಷವಾಗಿ ವಿದ್ಯಾಭ್ಯಾಸಗಳು, ಮೇಧಾವಿಲಾಸಗಳು ಎಲ್ಲವೂ ಕೂಡ ಬರಲಿ ಅಂತ. ಈ, ",
+    "sectionId": "V10",
+    "blockIndex": 0,
+    "language": "Kannada",
+    "captionCueIndices": [
+      209,
+      211,
+      213,
+      215,
+      217
+    ]
+  },
+  {
+    "id": "visarjana-V10-02",
+    "sourceId": "visarjana",
+    "start": 372.08,
+    "end": 373.52,
+    "sourceOriginal": "ವಿಜಯೋ ನಾಮ ಕಾಲೋಯಂ. ",
+    "sectionId": "V10",
+    "blockIndex": 1,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      219
+    ]
+  },
+  {
+    "id": "visarjana-V11-01",
+    "sourceId": "visarjana",
+    "start": 373.52,
+    "end": 411.12,
+    "sourceOriginal": "ಎಲ್ಲ ಕಾರ್ಯಗಳು ಸಿದ್ಧಿಯಾಗಲಿ. ಒಳ್ಳೆ ಮೇಧಾವಿಲಾಸ, ವಿದ್ಯಾವಿಲಾಸಗಳು ನಿಮಗೆಲ್ಲರಿಗೂ ಕೂಡ, ಜ್ಞಾನ ಭಕ್ತಿ ವೈರಾಗ್ಯ ಬರಲಿ, ಆಯುರಾರೋಗ್ಯ ಐಶ್ವರ್ಯ ಇರಲಿ, ಅನಂತ ಕಲ್ಯಾಣಗಳು ಮನೆಯಲ್ಲಿ ತುಂಬಿ ಬರಲಿ ಅಂತ ಹರಿವಾಯು ಗುರುಗಳನ್ನ ನಾನು ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡಿ ನಿಮಗೆಲ್ಲರಿಗೂ ಈ ದಸ ದಸರಾ ವಿಜಯದಶಮಿಯ ಶುಭಾಶಯಗಳನ್ನ ನಿಮಗೆಲ್ಲರಿಗೂ ಕೂಡ ತಿಳಿಸುತ್ತೇವೆ. ಎಲ್ಲರಿಗೂ ಹ್ಯಾಪಿ ವಿಜಯದಶಮಿ. ಎಲ್ಲ ಕಾರ್ಯಗಳು ವಿಜಯವಾಗಲಿ ಅಂತ ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಆಶೀರ್ವಾದಗಳನ್ನ ಹರಿವಾಯು ಗುರುಗಳಿಂದ ಮಾಡಿಸ್ತಾ ಇದ್ದೇವೆ. ",
+    "sectionId": "V11",
+    "blockIndex": 0,
+    "language": "Kannada",
+    "captionCueIndices": [
+      219,
+      221,
+      223,
+      225,
+      227,
+      229,
+      231,
+      233,
+      235,
+      237,
+      239,
+      241,
+      243
+    ]
+  },
+  {
+    "id": "visarjana-V11-02",
+    "sourceId": "visarjana",
+    "start": 411.12,
+    "end": 412.16,
+    "sourceOriginal": "ಶ್ರೀಕೃಷ್ಣಾರ್ಪಣ. ",
+    "sectionId": "V11",
+    "blockIndex": 1,
+    "language": "Sanskrit",
+    "captionCueIndices": [
+      245
+    ]
+  },
+  {
+    "id": "visarjana-V11-03",
+    "sourceId": "visarjana",
+    "start": 412.16,
+    "end": 416.612438,
+    "sourceOriginal": "ಎಲ್ಲರಿಗೂ ಎಲ್ಲಾ ಒಳ್ಳೆದುಗಳು ಆಗಲಿ. ಧನ್ಯವಾದ. ",
+    "sectionId": "V11",
+    "blockIndex": 2,
+    "language": "Kannada",
+    "captionCueIndices": [
+      245,
+      247
+    ]
+  }
+]

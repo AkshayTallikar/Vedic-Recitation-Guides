@@ -1,0 +1,365 @@
+{
+  "status": "Full chronological candidate; exact acoustic losslessness not certified; specifically uncertain readings visibly flagged",
+  "sourceId": "puja",
+  "durationSeconds": 1613.763628,
+  "sectionCount": 42,
+  "blockCount": 118,
+  "mantraLineCount": 317,
+  "sourceReconstructionPassed": true,
+  "romanReconstructionPassed": true,
+  "glossLineAndTokenCoveragePassed": true,
+  "nativeMarkerBoundsPassed": true,
+  "directHumanListening": false,
+  "sourceCompletenessCertification": false,
+  "witnesses": {
+    "fine45sChunks": 41,
+    "coarse180sChunks": 10,
+    "targetedShortChecks": 7,
+    "nativeVttEvents": 1782
+  },
+  "uncertainBlocks": [
+    {
+      "sectionId": "P01",
+      "slug": "prepare",
+      "blockIndex": 0,
+      "startSeconds": 1.68,
+      "endSeconds": 75.52,
+      "notes": "Ingredient lists repeated/partially restarted as spoken. Exact word after second milk mention uncertain across GPT/captions; no fifth ingredient silently added to the spoken four-item pañcāmṛta list. Historical earlier Mula day belongs to recording."
+    },
+    {
+      "sectionId": "P02",
+      "slug": "acamana",
+      "blockIndex": 1,
+      "startSeconds": 77.52,
+      "endSeconds": 103.119,
+      "notes": "Short names after first three retained as heard; not expanded into unspoken full datives."
+    },
+    {
+      "sectionId": "P04",
+      "slug": "sankalpa",
+      "blockIndex": 1,
+      "startSeconds": 135.52,
+      "endSeconds": 190.239,
+      "notes": "Year Viśvāvasu recovered directly by independent targeted149–165 acoustic transcription, resolving the fine ASR/caption corruption. Recorded place/date must not become current date instructions."
+    },
+    {
+      "sectionId": "P04",
+      "slug": "sankalpa",
+      "blockIndex": 3,
+      "startSeconds": 191.04,
+      "endSeconds": 219.599,
+      "notes": "The Sanskrit object is interrupted by the water instruction before final kariṣye, preserved below."
+    },
+    {
+      "sectionId": "P05",
+      "slug": "deity-invocation",
+      "blockIndex": 1,
+      "startSeconds": 229.68,
+      "endSeconds": 267.04,
+      "notes": "mukhya recovered from independent coarse acoustic witness; fine bhoktya/caption corruption retained in provenance, not discarded."
+    },
+    {
+      "sectionId": "P05",
+      "slug": "deity-invocation",
+      "blockIndex": 3,
+      "startSeconds": 269.919,
+      "endSeconds": 283.759,
+      "notes": "Bhāratī invocation repeated across real Kannada interruption; preserve both occurrences. Collective singular/plural endings differ in acoustic ASR."
+    },
+    {
+      "sectionId": "P06",
+      "slug": "guru-invocation",
+      "blockIndex": 1,
+      "startSeconds": 286.479,
+      "endSeconds": 340.72,
+      "notes": "Raw first-line acoustic ASR ಅಬ್ರಹ್ಮಂ ಬಂಗರಗಿತಂ ಅಜನಂ ವಿಮಲಂ ಶತ retained in guru-open-transcript.json; abhramaṁ (free of error) and ajaḍaṁ (not inert) are corrected display readings supported by primary-book parallel and this recording’s phonetics, still review flagged. Guru verses carry corrupted exact words in both witnesses: first abhramaṁ/ajaḍaṁ/bhaṅgarahitaṁ, Jayatīrtha citraiḥ padaiśca/bhāti corrected from fine phonetics and official Sri Vyasaraja Matha charamaśloka text; Raghūttama ca and bhajatsuratarūpamam recovered against phonetic witnesses and primary Sanskrit-book parallel. Vyāsatīrtha arthikalpitakalpo’yaṁ replaces acoustic attikalpitakalpo’yaṁ with visible review note. These are explicit corrections, not a claim of direct human listening. Do not claim verified standard restoration."
+    },
+    {
+      "sectionId": "P08",
+      "slug": "meditation",
+      "blockIndex": 1,
+      "startSeconds": 358.96,
+      "endSeconds": 403.12,
+      "notes": "Opening praṇavāsana fragment retained before full phrase. Exact saptabrahmaraṇīṁ and sarvavedāḍhyāṁ readings require review; saptabrahmaraṇīṁ is a specific uncertain epithet, not a generic placeholder."
+    },
+    {
+      "sectionId": "P10",
+      "slug": "padya",
+      "blockIndex": 0,
+      "startSeconds": 426.88,
+      "endSeconds": 432.08,
+      "notes": "The spoken correction/restart about different water is retained; do not use this as an added separate rule beyond the recorded distinction."
+    },
+    {
+      "sectionId": "P10",
+      "slug": "padya",
+      "blockIndex": 3,
+      "startSeconds": 454.08,
+      "endSeconds": 457.039,
+      "notes": "Three actual prompted repetitions corroborated by fine and coarse acoustic witnesses."
+    },
+    {
+      "sectionId": "P11",
+      "slug": "arghya",
+      "blockIndex": 1,
+      "startSeconds": 459.12,
+      "endSeconds": 478.319,
+      "notes": "Exact dadāmyarghyaṁ/gṛhāṇa te and viṣvaṅ syllables vary among ASR; full provisional reading flagged."
+    },
+    {
+      "sectionId": "P11",
+      "slug": "arghya",
+      "blockIndex": 3,
+      "startSeconds": 480.4,
+      "endSeconds": 483.759,
+      "notes": "Three repetitions corroborated by fine/coarse GPT despite caption compressing one."
+    },
+    {
+      "sectionId": "P13",
+      "slug": "madhuparka",
+      "blockIndex": 0,
+      "startSeconds": 510.16,
+      "endSeconds": 521.12,
+      "notes": "The speaker presents actual mixture or mantra-akṣata alternative; retain all wording, not only substitution summary."
+    },
+    {
+      "sectionId": "P13",
+      "slug": "madhuparka",
+      "blockIndex": 1,
+      "startSeconds": 521.12,
+      "endSeconds": 539.04,
+      "notes": "Final two lines heavily corrupted in all ASR; suśri/madhuparko’yaṁ/gṛhyatāṁ is provisional intelligible reading. Specific technical uncertainty retained."
+    },
+    {
+      "sectionId": "P14",
+      "slug": "pancamrita",
+      "blockIndex": 0,
+      "startSeconds": 547.44,
+      "endSeconds": 555.36,
+      "notes": "Spoken four-item list retained; Sanskrit verse also names milk. Do not silently insert milk into the Kannada instruction."
+    },
+    {
+      "sectionId": "P14",
+      "slug": "pancamrita",
+      "blockIndex": 1,
+      "startSeconds": 555.36,
+      "endSeconds": 564.72,
+      "notes": "kuruṣva sureśvari phrase differs sharply across ASR, retained as provisional reading."
+    },
+    {
+      "sectionId": "P16",
+      "slug": "clothes",
+      "blockIndex": 1,
+      "startSeconds": 610.0,
+      "endSeconds": 612.0,
+      "notes": "Partial opening phrase before the preparation instruction; not silently discarded."
+    },
+    {
+      "sectionId": "P16",
+      "slug": "clothes",
+      "blockIndex": 3,
+      "startSeconds": 619.2,
+      "endSeconds": 640.959,
+      "notes": "amalaṁ/visuallycaptionvimalam endings uncertain; Vedic recitation restored only where phonetic witnesses permit; exact sandhi remains review flagged."
+    },
+    {
+      "sectionId": "P17",
+      "slug": "neck-thread",
+      "blockIndex": 1,
+      "startSeconds": 644.24,
+      "endSeconds": 656.88,
+      "notes": "Exact saptabrahmaraṇe/saptaśāstrakṛtālaye epithets uncertain across all witnesses; meanings identify provisional interpretation explicitly."
+    },
+    {
+      "sectionId": "P18",
+      "slug": "ornaments",
+      "blockIndex": 0,
+      "startSeconds": 656.88,
+      "endSeconds": 659.75,
+      "notes": " Take-akṣata instruction and kaṭaka opening share native event657.839–659.75; exact intra-event partition unresolved."
+    },
+    {
+      "sectionId": "P18",
+      "slug": "ornaments",
+      "blockIndex": 1,
+      "startSeconds": 657.839,
+      "endSeconds": 692.959,
+      "notes": "Opening kaṭaka recovered from640finewindow thoughcaptiondrops it; later prakaṭita/karuṇā/bhūriśobhūṣaṇāni compound is provisional phonetic reading, not certified lexical resolution. Take-akṣata instruction and kaṭaka opening share native event657.839–659.75; exact intra-event partition unresolved."
+    },
+    {
+      "sectionId": "P19",
+      "slug": "sandal",
+      "blockIndex": 0,
+      "startSeconds": 692.959,
+      "endSeconds": 697.76,
+      "notes": "Spoken repetition/restart retained."
+    },
+    {
+      "sectionId": "P19",
+      "slug": "sandal",
+      "blockIndex": 1,
+      "startSeconds": 697.76,
+      "endSeconds": 722.64,
+      "notes": "chandāṁsi clause retained from nativecaption711.5–718 despite fine/coarse ASR omission; not dropped merely because model omits it."
+    },
+    {
+      "sectionId": "P21",
+      "slug": "turmeric-kumkum",
+      "blockIndex": 0,
+      "startSeconds": 741.2,
+      "endSeconds": 747.36,
+      "notes": "The short spoken phrase around kumkum/sandal is grammatically fragmentary; full objects and instruction retained."
+    },
+    {
+      "sectionId": "P23",
+      "slug": "anga-puja",
+      "blockIndex": 1,
+      "startSeconds": 805.839,
+      "endSeconds": 881.68,
+      "notes": "cāruvilāsinyai/nārāyaṇapriyāyai, śrotriyabāndhavāyai and anekacandrakāntaye are specifically uncertain epithets across acoustic ASR; retain provisional reading notes. Do not substitute different standard anga list."
+    },
+    {
+      "sectionId": "P25",
+      "slug": "deity-guru-archana",
+      "blockIndex": 0,
+      "startSeconds": 935.279,
+      "endSeconds": 1032.72,
+      "notes": "Kapila utterance repeated twice; ṛṣibhyo repeated three times, corroborated by fine/coarse/captions. Vijaye ndra/Jagannātha Tīrtha disputed guru name: captions favor Vijayendra, fine/coarse different; exact name visibly flagged. Sūktābhimāni/śuktābhimāni technical reading uncertain."
+    },
+    {
+      "sectionId": "P26",
+      "slug": "incense",
+      "blockIndex": 1,
+      "startSeconds": 1044.88,
+      "endSeconds": 1067.44,
+      "notes": "guggulopetaṁ and final ucyete are intelligible provisional readings of corrupted phonetic outputs; not claimed direct-human-verified."
+    },
+    {
+      "sectionId": "P26",
+      "slug": "incense",
+      "blockIndex": 2,
+      "startSeconds": 1067.44,
+      "endSeconds": 1073.36,
+      "notes": "Actual repeated ಇಟ್ಟು retained."
+    },
+    {
+      "sectionId": "P27",
+      "slug": "lamp-offering",
+      "blockIndex": 1,
+      "startSeconds": 1080.64,
+      "endSeconds": 1108.32,
+      "notes": "Lamp-opening ghṛtāktavartitrayaiḥ is provisional reconstruction of garbled shared ASR; retains recorded three-wick meaning. Vaiśya clause repeated twice in independent fine acoustic window; native captions may compact it."
+    },
+    {
+      "sectionId": "P29",
+      "slug": "food-verses",
+      "blockIndex": 1,
+      "startSeconds": 1145.52,
+      "endSeconds": 1187.52,
+      "notes": "Food-list first compound āmrāṇāṁ and cooked-food lines severely corrupt; vai ghṛtapācitān is a provisional intelligible reading of acoustic vaikṛtabhāṣitān and is visibly flagged across fine/coarse/targeted witnesses; ṣaḍvidha annāni retained from three independent acoustic witnesses, despite caption compacting the phrase. Other cooked-food compounds remain unresolved. Current food-list reading/meaning is explicitly provisional and must be reviewed against source, not certified exact restoration."
+    },
+    {
+      "sectionId": "P31",
+      "slug": "fruit-offering",
+      "blockIndex": 1,
+      "startSeconds": 1209.679,
+      "endSeconds": 1220.559,
+      "notes": "Fruit-list words āmra/panasa recovered from fine/coarse acoustic witnesses but captions compact them; kharjūrī form uncertain."
+    },
+    {
+      "sectionId": "P32",
+      "slug": "tambula",
+      "blockIndex": 1,
+      "startSeconds": 1222.24,
+      "endSeconds": 1236.24,
+      "notes": "Exact pūganāgadalairyutam and tatsvarūpe phrase remain uncertain across all ASR; retained provisional words flagged."
+    },
+    {
+      "sectionId": "P33",
+      "slug": "dakshina",
+      "blockIndex": 1,
+      "startSeconds": 1237.6,
+      "endSeconds": 1251.12,
+      "notes": "bhaktyā dadāmi varade is actually repeated, corroborated by fine/coarse/captions; retained both. sarvadhātūnāṁ compound corrupted in ASR but intelligible contextual reading."
+    },
+    {
+      "sectionId": "P37",
+      "slug": "family-prayers",
+      "blockIndex": 1,
+      "startSeconds": 1361.679,
+      "endSeconds": 1455.84,
+      "notes": "Initial pāśāṅkuśa prompt repeated before full line, retained both. yathā na/brahmā lokapitāmahaḥ, tvayā/tathā and etābhiḥ pāhi tanubhiḥ lexical links uncertain in phonetic ASR; meaning is provisional specific Sanskrit interpretation. dhṛtiḥ preserved as actually heard rather than substituting another standard list. sit amapi śukaṁ (parrot) versus śuklaṁ (white) remains an exact lexical uncertainty in the second line; current literal reading not presented as definitive iconography. Third-line samānā and compound pronunciation uncertain; preserved rather than replaced from an alternate verse."
+    },
+    {
+      "sectionId": "P38",
+      "slug": "dedication",
+      "blockIndex": 0,
+      "startSeconds": 1460.08,
+      "endSeconds": 1470.789,
+      "notes": " Last water instruction and first completion verse share native event1464.799–1470.789; exact intra-event partition unresolved."
+    },
+    {
+      "sectionId": "P38",
+      "slug": "dedication",
+      "blockIndex": 1,
+      "startSeconds": 1464.799,
+      "endSeconds": 1489.039,
+      "notes": "First completion verse is phonetic reconstruction supported by fine/coarse/targeted acoustic words; exact yasya/sadyo sentence remains review flagged. Recorded repetition navarātryāṁ/śarad navarātri retained; final Vyāsa–Paraśurāma form not replaced with generic deity. Last water instruction and first completion verse share native event1464.799–1470.789; exact intra-event partition unresolved."
+    },
+    {
+      "sectionId": "P39",
+      "slug": "third-day-bali",
+      "blockIndex": 0,
+      "startSeconds": 1495.679,
+      "endSeconds": 1537.52,
+      "notes": "Wednesday is the historical third-day example from2025 recording, not a current-week instruction. ಕಡಲೆ/ಕಳ್ಳೆ is retained generically as gram; exact variety not invented."
+    },
+    {
+      "sectionId": "P40",
+      "slug": "pancakhadya-recipe",
+      "blockIndex": 0,
+      "startSeconds": 1537.52,
+      "endSeconds": 1561.52,
+      "notes": "Restarts/repetition around gram and mix retained; recipe is the speaker’s description, not an independently standardized replacement."
+    },
+    {
+      "sectionId": "P41",
+      "slug": "bali-arati",
+      "blockIndex": 0,
+      "startSeconds": 1561.52,
+      "endSeconds": 1602.64,
+      "notes": "The repeated bali explanation and fragment “through the bali” retained rather than compacted into a single instruction."
+    }
+  ],
+  "nonSpeechIntervals": [
+    {
+      "startSeconds": 0,
+      "endSeconds": 1.68,
+      "kind": "No captioned speech in opening lead-in; coarse/fine model starts with first introduction; no fabricated words."
+    },
+    {
+      "startSeconds": 1493.19,
+      "endSeconds": 1495.679,
+      "kind": "Native caption music event1493.2–1495.669 plus adjacent10ms gaps; no spoken text."
+    }
+  ],
+  "captionEndSeconds": 1615.159,
+  "captionOverrunSeconds": 1.3953720000001795,
+  "datePolicy": "Historical Viśvāvasu/Aṣṭamī/Tuesday and Wednesday third-day examples from2025 retained as historical speech, not current auspicious-time guidance.",
+  "actualRepetitionsPreserved": [
+    "ingredient-list restarts",
+    "mama before and after Kannada instruction",
+    "Bhāratī invocation before and after offering instruction",
+    "praṇavāsana partial opening",
+    "pādya three times",
+    "arghya three times",
+    "śuklavastradvaya partial opening",
+    "Kapila twice",
+    "ṛṣibhyo three times",
+    "Vaiśya clause twice",
+    "bhaktyā dadāmi varade twice",
+    "pāśāṅkuśa prompted partial opening twice",
+    "panchakhadya gram and mix restarts/repetitions"
+  ],
+  "sourceLanguagePolicy": "Sanskrit is displayed in Roman IAST. Original-script Kannada explanation, Roman Kannada and complete English translation are separate retained fields; Sanskrit meanings/glosses never replace recitation."
+}

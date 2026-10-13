@@ -1,0 +1,3765 @@
+{
+  "sourceId": "puja",
+  "status": "All41fine and10coarse acoustic windows independently inspected and mapped; semantic clause coverage reviewed; exact acoustic losslessness not certified.",
+  "windows": [
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 1,
+      "startSeconds": 0.0,
+      "endSeconds": 45.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-001-transcript.json",
+      "rawTranscriptText": "ಸರಸ್ವತಿಯ ಆವಾಹನ ಪೂಜೆಯನ್ನು ಮೂಲ ನಕ್ಷತ್ರದ ದಿನ ಮಾಡಿದ್ದೇವೆ. ಇವತ್ತು ಸರಸ್ವತಿಯ ಪೂಜೆ. ಬೆಳಿಗ್ಗೆ ನಿಮ್ಮ ಅನುಷ್ಠಾನಗಳೆಲ್ಲ ಮುಗಿಸಿ ದೇವರ ಪೂಜೆಯನ್ನು ಪೂರ್ಣವಾಗಿ ಮುಗಿಸಿ. ಪೂರ್ವಾಭಿಮುಖ, ಅಂದರೆ ಈಸ್ಟ್ ಫೇಸಿಂಗ್ ಅಥವಾ ಉತ್ತರಾಭಿಮುಖ, ನಾರ್ತ್ ಫೇಸಿಂಗ್ ಆಗಿ ಕೂತು ಮತ್ತೆ ಆಚಮನ ಮಾಡಿರಿ. ಪೂಜೆಗೆ ಬೇಕಾಗಿರೋ ವಸ್ತುಗಳು, ನಿನ್ನೆ ಹೇಳಿದಂತೆ ಅಶ್ನಾ ಕುಂಕುಮ, ಗಂಧ, ಮಂತ್ರಾಕ್ಷತೆ, ಗಜವಸ್ತ್ರ, ವಿಳೆದಲೆ ಅಡಿಕೆ, ಹಣ್ಣು, ತೆಂಗಿನಕಾಯಿ, ಹೂವುಗಳು, ಊತುಕಟ್ಟಿ ಕರ್ಪೂರ, ಆರತಿ ತಟ್ಟೆ, ವಸ್ತ್ರ.",
+      "mappedSectionIds": [
+        "P01"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P01",
+          "blockIndex": 0,
+          "startSeconds": 1.68,
+          "endSeconds": 75.52,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P01",
+          "blockIndex": 0,
+          "notes": "Ingredient lists repeated/partially restarted as spoken. Exact word after second milk mention uncertain across GPT/captions; no fifth ingredient silently added to the spoken four-item pañcāmṛta list. Historical earlier Mula day belongs to recording."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 2,
+      "startSeconds": 40.0,
+      "endSeconds": 85.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-002-transcript.json",
+      "rawTranscriptText": "ಊತ್ಕಟೀ ಕರ್ಪೂರ, ಆರತಿ ತಟ್ಟೆ, ವಸ್ತ್ರ ಇತ್ಯಾದಿಗಳು ಇದನ್ನೆಲ್ಲ ತೆಗೆದಿಟ್ಟುಕೊಳ್ಳಿ. ಹಾಲು ಮೊಸರು ಜೇನು, ಹಾಲು ವ್ರತ, ಮೊಸರು ಜೇನು ತುಪ್ಪ, ಮಧುಬರ್ಗಕ್ಕೆ, ಮೊಸರು ಜೇನು ತುಪ್ಪ, ಸಕ್ಕರೆ, ಪಂಚಾಮೃತ. ಇದನ್ನ ತೆಗೆದಿಟ್ಟುಕೊಂಡು, ಎಲ್ಲವನ್ನ ಸಿದ್ಧಪಡಿಸಿಟ್ಟುಕೊಂಡು ದೀಪವಲ್ಲ ಹಚ್ಚಿ. ಇವತ್ತು ಮಕ್ಕಳ ಸ್ಕೂಲ್ ಪುಸ್ತಕಗಳಿರುತ್ತೆ ಅದನ್ನವೂ ಸಗಿತ ಇಟ್ಟು ಪೂಜೆಯನ್ನು ಮಾಡಬೇಕು. ಆಚಮನ. ಕೇಶವಾಯ ಸ್ವಾಹಾ, ನಾರಾಯಣಾಯ ಸ್ವಾಹಾ, ಮಾಧವಾಯ ಸ್ವಾಹಾ, ಗೋವಿಂದಾಯ ನಮಃ, ವಿಷ್ಣವೇ ನಮಃ, ತ್ರಿವಿಕ್ರಮಾಯ ನಮಃ.",
+      "mappedSectionIds": [
+        "P01",
+        "P02"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P01",
+          "blockIndex": 0,
+          "startSeconds": 1.68,
+          "endSeconds": 75.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P02",
+          "blockIndex": 0,
+          "startSeconds": 75.52,
+          "endSeconds": 77.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P02",
+          "blockIndex": 1,
+          "startSeconds": 77.52,
+          "endSeconds": 103.119,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P01",
+          "blockIndex": 0,
+          "notes": "Ingredient lists repeated/partially restarted as spoken. Exact word after second milk mention uncertain across GPT/captions; no fifth ingredient silently added to the spoken four-item pañcāmṛta list. Historical earlier Mula day belongs to recording."
+        },
+        {
+          "sectionId": "P02",
+          "blockIndex": 1,
+          "notes": "Short names after first three retained as heard; not expanded into unspoken full datives."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 3,
+      "startSeconds": 80.0,
+      "endSeconds": 125.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-003-transcript.json",
+      "rawTranscriptText": "मदभागेश्वाहा, गोविन्दा विष्णोमृतसूदना त्रिभुवनमावामना श्रीधर। ऋषीकेशा पद्मनाभा दामोदरा संकर्षणा वासुदेवा। प्रद्युम्ना निरुद्धा पुरुषोत्तमा अदोक्षजा नारसिंहा। अच्युता जनार्दना उपेन्द्रा हरये नमः श्रीकृष्णाय नमः। प्राणायामः, मूगನ್ನು ಅಡುಕೊಳ್ಳೋದು. प्रणवस्य परब्रह्म ऋषिः परमात्मा देवता देवी गायत्री छन्दः, प्राणायामे विनियोगः ॐ भूः। ॐ भुवः, ॐ स्वः, ॐ महः, ॐ जनः, ॐ तपः, ॐ सत्यम्। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्। ॐ आपो ज्योती रसो अमृतं ब्रह्म, भूर्भुवः…",
+      "mappedSectionIds": [
+        "P02",
+        "P03"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P02",
+          "blockIndex": 1,
+          "startSeconds": 77.52,
+          "endSeconds": 103.119,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P03",
+          "blockIndex": 0,
+          "startSeconds": 103.119,
+          "endSeconds": 105.36,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P03",
+          "blockIndex": 1,
+          "startSeconds": 105.36,
+          "endSeconds": 128.0,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P02",
+          "blockIndex": 1,
+          "notes": "Short names after first three retained as heard; not expanded into unspoken full datives."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 4,
+      "startSeconds": 120.0,
+      "endSeconds": 165.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-004-transcript.json",
+      "rawTranscriptText": "ಓಂ ಆಪೋ ಜ್ಯೋತೀರಸೋ ಅಮೃತಂ ಬ್ರಹ್ಮ ಭೂರ್ಭುವಃ ಸ್ವರೋಂ. ಎಡಗೈಯಲ್ಲಿ ಸ್ವಲ್ಪ ಮಂತ್ರಾಸ್ತೆನ ಹಾಕಿ, ಎಡಗೈ ಮೇಲೆ ಬಲಗೈಯನ್ನು ಮುಚ್ಚಿಟ್ಟುಕೊಂಡು, ಬಲದು ತೊಡೆಯಲ್ಲಿ ಇಟ್ಟುಕೊಂಡು ಸಂಕಲ್ಪವನ್ನು ಮಾಡಿಕೊಳ್ಳಿ. ಶುಭೇ ಶೋಭನೇ ಮುಹೂರ್ತೇ ಆದ್ಯ ಬ್ರಹ್ಮಣಃ ದ್ವಿತೀಯ ಪರಾರ್ಧೇ ಶ್ರೀಶ್ವೇತವರಾಹಕಲ್ಪೇ ವೈವಸ್ವತಮನ್ವಂತರೇ ಕಲಿಯುಗೇ ಪ್ರಥಮ ಪಾದೇ ಜಂಬೂದ್ವೀಪೇ ಭಾರತವರ್ಷೇ ಭರತಖಂಡೇ ದಂಡಕಾರಣ್ಯೇ ಗೋದಾವರ್ಯಾಃ ದಕ್ಷಿಣೇ ಪಾರ್ಶ್ವೇ ಶಾಲೀವಾಹನ ಶಕೇ ಬೌದ್ಧಾವತಾರೇ ರಾಮಕ್ಷೇತ್ರೇ ಅಶ್ಮಿನ್ನ್ ವರ್ತಮಾನೇ ಪ್ರಭವಾದಿ ಷಷ್ಟಿ ಸಂವತ್ಸರಾಣಾಂ ಮಧ್ಯೇ ಶುಭ ವೃಷಭ ನಾಮ ಸಂವತ್ಸರೇ ದಕ್ಷಿಣಾಯನೇ ಶರದೃತೌ ಆಶ್ವೀಜ ಮಾಸ…",
+      "mappedSectionIds": [
+        "P03",
+        "P04"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P03",
+          "blockIndex": 1,
+          "startSeconds": 105.36,
+          "endSeconds": 128.0,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 0,
+          "startSeconds": 128.0,
+          "endSeconds": 135.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 1,
+          "startSeconds": 135.52,
+          "endSeconds": 190.239,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P04",
+          "blockIndex": 1,
+          "notes": "Year Viśvāvasu recovered directly by independent targeted149–165 acoustic transcription, resolving the fine ASR/caption corruption. Recorded place/date must not become current date instructions."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 5,
+      "startSeconds": 160.0,
+      "endSeconds": 205.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-005-transcript.json",
+      "rawTranscriptText": "नामसम्बत्सरे दक्षिणायने शरद् ऋतौ, आश्वीजमासे शुक्लपक्षे अष्टम्यां वासरः, वासरस्तु भौमवासरयुक्तायाम्, पूर्वाषाढा नक्षत्रयुक्तायाम्, शुभनक्षत्रे शुभयोगे शुभकरणे एवं गुणे सकलविशेषेण विशिष्टायां शुभतिथौ, भारती रमण मुख्य प्राणा अन्तर्गत श्री सरस्वत्यन्तर्गत श्री वेदव्यास प्रेरणया, श्री वेदव्यास प्रीत्यर्थं मम, सर्व शास्त्र, अर्थ, विज्ञान आदि सर्व अभीष्ट सिद्धि द्वारा, सरस्वती अन्तर्गत भारती रमण मुख्य प्राण...",
+      "mappedSectionIds": [
+        "P04"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P04",
+          "blockIndex": 1,
+          "startSeconds": 135.52,
+          "endSeconds": 190.239,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 2,
+          "startSeconds": 190.239,
+          "endSeconds": 191.04,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 3,
+          "startSeconds": 191.04,
+          "endSeconds": 219.599,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P04",
+          "blockIndex": 1,
+          "notes": "Year Viśvāvasu recovered directly by independent targeted149–165 acoustic transcription, resolving the fine ASR/caption corruption. Recorded place/date must not become current date instructions."
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 3,
+          "notes": "The Sanskrit object is interrupted by the water instruction before final kariṣye, preserved below."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 6,
+      "startSeconds": 200.0,
+      "endSeconds": 245.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-006-transcript.json",
+      "rawTranscriptText": "ಸರಸ್ವತಿ ಅಂತರ್ಗತ ಭಾರತೀ ರಮಣ ಮುಖ್ಯಪ್ರಾಣ ಅಂತರ್ಗತ ಶ್ರೀವೇದವ್ಯಾಸ ಪ್ರೇರಣಯಾ ವೇದವ್ಯಾಸ ಪ್ರೀತ್ಯರ್ಥಂ ಸರಸ್ವತಿ ಆತ್ಮಕ ಶ್ರೀವೇದವ್ಯಾಸ ಪೂಜಾಂ ನವರಾತ್ರಿ ಉತ್ಸವಾಂಗ ಅಷ್ಟಮ್ಯಾಂ ದಿವಸೇ ಸರಸ್ವತಿ ಪೂಜಾಂ ತ ಮಂತ್ರಾಸ್ತೇನಿರಾಕೃತ್ ಪೈಲಾಲಿ. ಕರಿಷ್ಯೇ. ಮಂತ್ರಾಸ್ತೇನ ತೊಗೊಂಡು ನಿನ್ನ ಪೂಜೆ ಮಾಡಿರುವ ಪುಸ್ತಕ ಮಂಡಲಕ್ಕೆ ಮತ್ತು ಪೂಜೆನ ಮಾಡಿ. ಕಪಿಲಾಯ ನಮಃ, ಕಪಿಲಮ್ಮಾವಾಗ್ಯಾಯ ನಮಃ, ದತ್ತಾತ್ರೇಯಾಯ ನಮಃ, ದತ್ತಾತ್ರೇಯಮ್ಮಾವಾಗ್ಯಾಯ ನಮಃ, ಹಯಗ್ರೀವಾಯ ನಮಃ, ಹಯಗ್ರೀವಮ್ಮಾವಾಗ್ಯಾಯ ನಮಃ, ಓಂ ರಾಮಾಯ ನಮಃ, ರಾಮಮ್ಮಾವಾಗ್ಯಾಯ ನಮಃ, ಓಂ ಕೃಷ್ಣಾಯ ನಮಃ, ಕೃಷ್ಣಮ್ಮಾವಾಗ್ಯಾಯ ನಮಃ, ಓಂ ಪರಶುರಾಮ...",
+      "mappedSectionIds": [
+        "P04",
+        "P05"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P04",
+          "blockIndex": 3,
+          "startSeconds": 191.04,
+          "endSeconds": 219.599,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 4,
+          "startSeconds": 219.599,
+          "endSeconds": 221.68,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 5,
+          "startSeconds": 221.68,
+          "endSeconds": 224.319,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P05",
+          "blockIndex": 0,
+          "startSeconds": 224.319,
+          "endSeconds": 229.68,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P05",
+          "blockIndex": 1,
+          "startSeconds": 229.68,
+          "endSeconds": 267.04,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P04",
+          "blockIndex": 3,
+          "notes": "The Sanskrit object is interrupted by the water instruction before final kariṣye, preserved below."
+        },
+        {
+          "sectionId": "P05",
+          "blockIndex": 1,
+          "notes": "mukhya recovered from independent coarse acoustic witness; fine bhoktya/caption corruption retained in provenance, not discarded."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 7,
+      "startSeconds": 240.0,
+      "endSeconds": 285.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-007-transcript.json",
+      "rawTranscriptText": "Om Krishnāya namaḥ, Krishnam āvāgayāmi. Om Parashurāmāya namaḥ, Parashurāmam āvāgayāmi. Vedavyāsāya namaḥ, Vedavyāsam āvāgayāmi. Nārāyaṇāya namaḥ, Nārāyaṇam āvāgayāmi. Śriyai mahālakṣmīm āvāgayāmi. Bhūdevīm āvāgayāmi. Durgām āvāgayāmi. Bhoktya prāṇam āvāgayāmi. Sarasvatīm āvāgayāmi. Bhāratīm āvāgayāmi. Mantrārthena hāktā bandhri. Bhāratīm āvāgayāmi. Śeṣam āvāgayāmi. Rudram āvāgayāmi. Pārvatīm āvāgayāmi. Vināyakam āvāgayāmi. Sakala ṛṣi-gaṇān, siddha-puruṣān, muni-gaṇān āvāgayāmi. Mantrārthena tookondu.",
+      "mappedSectionIds": [
+        "P05",
+        "P06"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P05",
+          "blockIndex": 1,
+          "startSeconds": 229.68,
+          "endSeconds": 267.04,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P05",
+          "blockIndex": 2,
+          "startSeconds": 267.04,
+          "endSeconds": 269.919,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P05",
+          "blockIndex": 3,
+          "startSeconds": 269.919,
+          "endSeconds": 283.759,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P06",
+          "blockIndex": 0,
+          "startSeconds": 283.759,
+          "endSeconds": 286.479,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P05",
+          "blockIndex": 1,
+          "notes": "mukhya recovered from independent coarse acoustic witness; fine bhoktya/caption corruption retained in provenance, not discarded."
+        },
+        {
+          "sectionId": "P05",
+          "blockIndex": 3,
+          "notes": "Bhāratī invocation repeated across real Kannada interruption; preserve both occurrences. Collective singular/plural endings differ in acoustic ASR."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 8,
+      "startSeconds": 280.0,
+      "endSeconds": 325.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-008-transcript.json",
+      "rawTranscriptText": "सिद्धबृषं मुनिगणाम् आवाहयामि. ಅಂತರಾಸ್ತೇನ ತೊಕೊಂಡು ನಮ್ಮ ಆಚಾರ್ಯರ್ಗಳು. ಅಬ್ರಹ್ಮಂ ಬಂಗರಗಿತಂ, ಅಜನಂ ವಿಮಲಂ ಶತ, ಆನಂದತೀರ್ಥಮುದಲಂ ಭಜೇ ತಾಪತ್ರಯಾಪಹಂ, ಆನಂದತೀರ್ಥ ಗುರುನ್ನಾವಾಹಯಾಮಿ. ಚಿತ್ರೇ ಬದಿಶ್ಚಗಂ ಬೀರೈ, ವಾಕ್ಕೈ ಮಾನೈರಗಂಡದೆ, ಗುರುಬಾಂ ಬಿಜ್ಜಗಿಂತಿ, ಪಾದ ಶ್ರೀಜೇ ತೀರ್ಥವಾಕು, ಜಗತೀರ್ಥ ಗುರುನ್ನಾವಾಹಯಾಮಿ. ಅತ್ತಿ ಕಲ್ಪಿತಗಳ್ ಪೋಯಂ, ಪ್ರತ್ಯರ್ಥಕ ಜಗೇಜರಿ, ವ್ಯಾಸತೀರ್ಥ ಗುರುಂ ಭೂಯಾತ್ ಅಸ್ಮದಿಷ್ಟಾರ್ಥಸಿದ್ಧಯೇ, ವ್ಯಾಸರಾಜ ಗುರುನ್ನಾವಾಹಯಾಮಿ. ಪ್ರಣಮತ್ ಕಾಮಧೇನುಂಚ, ಭಜತಃ ಶ್ರುತರೂಪಂ, ಶ್ರೀಭಾವಬೋಧಕ ಪಾದಂ ಚಿಂತಾಮಣಿಪ್ವಾಸ್ಮಹೇ, ರಘೂತ್ತಮತೀರ್ಥ ಗುರುನ್ನಾವಾಹಯಾಮಿ. ಧ್ರುವಾದಿ ದ್ವಾಂತರವಯೇ, ವೈಷ್ಣವೇಂದೀ ವರೇಂದವೇ, ಶ್ರೀ ರಾಘವೇಂದ್ರ ಗುರುಭೇ ನಮೋ.",
+      "mappedSectionIds": [
+        "P05",
+        "P06"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P05",
+          "blockIndex": 3,
+          "startSeconds": 269.919,
+          "endSeconds": 283.759,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P06",
+          "blockIndex": 0,
+          "startSeconds": 283.759,
+          "endSeconds": 286.479,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P06",
+          "blockIndex": 1,
+          "startSeconds": 286.479,
+          "endSeconds": 340.72,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P05",
+          "blockIndex": 3,
+          "notes": "Bhāratī invocation repeated across real Kannada interruption; preserve both occurrences. Collective singular/plural endings differ in acoustic ASR."
+        },
+        {
+          "sectionId": "P06",
+          "blockIndex": 1,
+          "notes": "Raw first-line acoustic ASR ಅಬ್ರಹ್ಮಂ ಬಂಗರಗಿತಂ ಅಜನಂ ವಿಮಲಂ ಶತ retained in guru-open-transcript.json; abhramaṁ (free of error) and ajaḍaṁ (not inert) are corrected display readings supported by primary-book parallel and this recording’s phonetics, still review flagged. Guru verses carry corrupted exact words in both witnesses: first abhramaṁ/ajaḍaṁ/bhaṅgarahitaṁ, Jayatīrtha citraiḥ padaiśca/bhāti corrected from fine phonetics and official Sri Vyasaraja Matha charamaśloka text; Raghūttama ca and bhajatsuratarūpamam recovered against phonetic witnesses and primary Sanskrit-book parallel. Vyāsatīrtha arthikalpitakalpo’yaṁ replaces acoustic attikalpitakalpo’yaṁ with visible review note. These are explicit corrections, not a claim of direct human listening. Do not claim verified standard restoration."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 9,
+      "startSeconds": 320.0,
+      "endSeconds": 365.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-009-transcript.json",
+      "rawTranscriptText": "सदि द्वान्तरवये वैष्णवेन्दी वरेन्दवे। श्री राघवेन्द्र गुरवे नमोस्तु अत्यन्त दयालवे। श्री राघवेन्द्र गुरुम् आवाहयामि। आनन्दतीर्थादि समस्त गुरुमण्डलदेवतान् आवाहयामि, स्थापयामि, पूजयामि। नमः। इग ಮತ್ತು ಹೂ ಮಂತ್ರ ಅಸ್ತು ತೊಗೊಳ್ಳಿರಿ. ಅತ್ರಾಗत्य जगद्वन्द्ये सर्वलोकैक पूजिते, मया कृताम् इमां पूजां गृहाण त्वं सरस्वती। सरस्वतीम् आवाहयामि। ಮತ್ತು ಹೂ ಮಂತ್ರ ಅಸ್ತು ತೊಗೊಳ್ಳಿರಿ. प्रणवासनम्, प्रणवासन आरूढां तदर्थ तद्वेन निश्चिताम्.",
+      "mappedSectionIds": [
+        "P06",
+        "P07",
+        "P08"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P06",
+          "blockIndex": 1,
+          "startSeconds": 286.479,
+          "endSeconds": 340.72,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P07",
+          "blockIndex": 0,
+          "startSeconds": 340.72,
+          "endSeconds": 342.72,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P07",
+          "blockIndex": 1,
+          "startSeconds": 342.72,
+          "endSeconds": 357.28,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P08",
+          "blockIndex": 0,
+          "startSeconds": 357.28,
+          "endSeconds": 358.96,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P08",
+          "blockIndex": 1,
+          "startSeconds": 358.96,
+          "endSeconds": 403.12,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P06",
+          "blockIndex": 1,
+          "notes": "Raw first-line acoustic ASR ಅಬ್ರಹ್ಮಂ ಬಂಗರಗಿತಂ ಅಜನಂ ವಿಮಲಂ ಶತ retained in guru-open-transcript.json; abhramaṁ (free of error) and ajaḍaṁ (not inert) are corrected display readings supported by primary-book parallel and this recording’s phonetics, still review flagged. Guru verses carry corrupted exact words in both witnesses: first abhramaṁ/ajaḍaṁ/bhaṅgarahitaṁ, Jayatīrtha citraiḥ padaiśca/bhāti corrected from fine phonetics and official Sri Vyasaraja Matha charamaśloka text; Raghūttama ca and bhajatsuratarūpamam recovered against phonetic witnesses and primary Sanskrit-book parallel. Vyāsatīrtha arthikalpitakalpo’yaṁ replaces acoustic attikalpitakalpo’yaṁ with visible review note. These are explicit corrections, not a claim of direct human listening. Do not claim verified standard restoration."
+        },
+        {
+          "sectionId": "P08",
+          "blockIndex": 1,
+          "notes": "Opening praṇavāsana fragment retained before full phrase. Exact saptabrahmaraṇīṁ and sarvavedāḍhyāṁ readings require review; saptabrahmaraṇīṁ is a specific uncertain epithet, not a generic placeholder."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 10,
+      "startSeconds": 360.0,
+      "endSeconds": 405.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-010-transcript.json",
+      "rawTranscriptText": "प्रणवासन आरूढां तदर्थ तद्व्येन निश्चितां अङ्कुशं च अक्षसूत्रं च पाशपुस्तकधारिणीं केयूरैर्मेखलाद्यैश्च दीप्तयन्तीं जगत्त्रयाम्। सप्तब्रह्मारणीं ध्यायेद् ध्यानगामसमाहितः। भारतीं सर्ववेदाढ्यां भार्तुः अङ्कस्थितां सतीम्। या यन्तीं शततं विष्णुं ध्यायेत् सर्वार्थसिद्धये। सकस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्। स भूमिं विश्वतो वृत्वा अत्यतिष्ठद्दशाङ्गुलम्। सरस्वत्यन्त्रकद वेदव्यासम् आभागयामि। మంత్రాస్తతో కొల్లిరి.",
+      "mappedSectionIds": [
+        "P08",
+        "P09"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P08",
+          "blockIndex": 1,
+          "startSeconds": 358.96,
+          "endSeconds": 403.12,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P09",
+          "blockIndex": 0,
+          "startSeconds": 403.12,
+          "endSeconds": 404.56,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P09",
+          "blockIndex": 1,
+          "startSeconds": 404.56,
+          "endSeconds": 425.039,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P08",
+          "blockIndex": 1,
+          "notes": "Opening praṇavāsana fragment retained before full phrase. Exact saptabrahmaraṇīṁ and sarvavedāḍhyāṁ readings require review; saptabrahmaraṇīṁ is a specific uncertain epithet, not a generic placeholder."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 11,
+      "startSeconds": 400.0,
+      "endSeconds": 445.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-011-transcript.json",
+      "rawTranscriptText": "ध्यायाम् आभागयामि. ಮಂತ್ರಾಸ್ತತೋಕೊಳ್ಳಿರಿ. ಅನೇಕ ರತ್ನಸಂಯುಕ್ತಂ ಶುಭರಣೇನ ವಿರಾಜಿತಂ, ಮುಕ್ತಾಮಣಿ ಅಂಗಿತಂ ಚಾರು ಆಸನಂ ते ದದಾಮ್ಯಹಂ. ಪುರುಷ ಏವೇದಂ ಸರ್ವಂ ಯದ್ಭೂತಂ ಯಚ್ಚ ಭವ್ಯಂ, ಉದಾಮೃತತ್ವಸ್ಯೇಶಾನೋ ಯದನ್ನೇನಾತಿರೋಹತಿ, ಆಸನಂ ಸಮರ್ಪಯಾಮಿ ಇಂತು ಮಂತ್ರಸ್ತೇನಾಕ್ರಿ. ಉದ್ರಣಿಂದ ನೀ ವಾಚಮನ ಮಾಡದೆ ಬೇರೆ ಒಂದು ನೀರು, ಉದ್ರಣಿಂದ ನೀರು ತೊಗೊಳ್ಳಿರಿ. ಗಂಧಪುಷ್ಪಾಕ್ಷತೈರ್ಯುಕ್ತಂ ಗಂಧತೋಯೇನ ಸಂಯುತಂ, ಶುದ್ಧಸ್ಫಟಿಕತುಲ್ಯಾಂಗಿ ಪಾದ್ಯಂ ते ಪ್ರತಿಗೃಹ್ಯತಾಂ, ಏತಾವಾನಸ್ಯ ಮಹಿಮಾ ಅತೋ ಜ್ಯಾಯಾಂಶ್ಚ.",
+      "mappedSectionIds": [
+        "P08",
+        "P09",
+        "P10"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P08",
+          "blockIndex": 1,
+          "startSeconds": 358.96,
+          "endSeconds": 403.12,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P09",
+          "blockIndex": 0,
+          "startSeconds": 403.12,
+          "endSeconds": 404.56,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P09",
+          "blockIndex": 1,
+          "startSeconds": 404.56,
+          "endSeconds": 425.039,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P09",
+          "blockIndex": 2,
+          "startSeconds": 425.039,
+          "endSeconds": 426.88,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P10",
+          "blockIndex": 0,
+          "startSeconds": 426.88,
+          "endSeconds": 432.08,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P10",
+          "blockIndex": 1,
+          "startSeconds": 432.08,
+          "endSeconds": 452.4,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P08",
+          "blockIndex": 1,
+          "notes": "Opening praṇavāsana fragment retained before full phrase. Exact saptabrahmaraṇīṁ and sarvavedāḍhyāṁ readings require review; saptabrahmaraṇīṁ is a specific uncertain epithet, not a generic placeholder."
+        },
+        {
+          "sectionId": "P10",
+          "blockIndex": 0,
+          "notes": "The spoken correction/restart about different water is retained; do not use this as an added separate rule beyond the recorded distinction."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 12,
+      "startSeconds": 440.0,
+      "endSeconds": 485.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-012-transcript.json",
+      "rawTranscriptText": "यथा एतावानस्य महिमा अतो ज्यायांश्च पूरुषः। पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि. మూడు సల పేలాలి నీర్పిడిరి. पाद्यं, पाद्यं, पाद्यं समर्पयामि. అత్తో ఉద్దరణీంద నీర్తొకొల్రి. भक्ताभीष्ट प्रदे देवी देवदेवादि वन्दिते। आधारादि जगद्धात्री ददामि अर्घ्यं गृहाण ते। त्रिपादूर्ध्व उदैत् पुरुषः पादोऽस्येहाभवत् पुनः। ततो विश्वं व्यक्रामत् साशनानशने अभि. మూడు సల పేలాలి నీర్పిడిరి. अर्घ्यम्, अर्घ्यम्, अर्घ्यम् समर्पयामि. అత్తో ఉద్దరణీంద నీర్తొ.",
+      "mappedSectionIds": [
+        "P10",
+        "P11",
+        "P12"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P10",
+          "blockIndex": 1,
+          "startSeconds": 432.08,
+          "endSeconds": 452.4,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P10",
+          "blockIndex": 2,
+          "startSeconds": 452.4,
+          "endSeconds": 454.08,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P10",
+          "blockIndex": 3,
+          "startSeconds": 454.08,
+          "endSeconds": 457.039,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 0,
+          "startSeconds": 457.039,
+          "endSeconds": 459.12,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 1,
+          "startSeconds": 459.12,
+          "endSeconds": 478.319,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 2,
+          "startSeconds": 478.319,
+          "endSeconds": 480.4,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 3,
+          "startSeconds": 480.4,
+          "endSeconds": 483.759,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P12",
+          "blockIndex": 0,
+          "startSeconds": 483.759,
+          "endSeconds": 485.44,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P10",
+          "blockIndex": 3,
+          "notes": "Three actual prompted repetitions corroborated by fine and coarse acoustic witnesses."
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 1,
+          "notes": "Exact dadāmyarghyaṁ/gṛhāṇa te and viṣvaṅ syllables vary among ASR; full provisional reading flagged."
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 3,
+          "notes": "Three repetitions corroborated by fine/coarse GPT despite caption compressing one."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 13,
+      "startSeconds": 480.0,
+      "endSeconds": 525.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-013-transcript.json",
+      "rawTranscriptText": "ಅರ್ಗ್ಯಮ್ ಅರ್ಗ್ಯಮ್ ಅರ್ಗ್ಯಂ ಸಮರ್ಪಯಾಮಿ. ಮತ್ತು ಉದ್ಧರಣೆಯಿಂದ ನೆರವ್ತಕೊಂಬುದು. ಪೂರ್ಣಚಂದ್ರ ಸಮಾನಸ್ಯ ಕೋಟಿ ಸೂರ್ಯ ಸಮಪ್ರಭೇ, ಭಕ್ತ್ಯಾ ಸಮರ್ಪಿತಂ ತುಭ್ಯಂ ಗೃಹಾಣ ಆಚಮನೀಯಕಂ. ತಸ್ಮಾತ್ ವಿರಾಳ ಜಾಯತ ವಿರಾಜೋ ಅತಿ. ಪೂರುಷಃ ಸಜಾತೋ, ಅಥ್ಯ ರೀಕ್ಷತ ಪಶ್ಚಾತ್ ಭೂಮಿಮತೋ, ಪುರಃ ಮೂರು ಸಲ ಪಯಲಾಲ್ ನೆರಿಬಿಡ್ರಿ. ಆಚಮನೀಯಂ ಸಮರ್ಪಯಾಮಿ. ಮಂತ್ರಾಸ್ತೆ ಎನ್ನ ಕೈಲ್ ತೊಕುಂಬೋದು. ಇಲ್ಲದಿದ್ದರೆ ಮೊಸರು ಜೇನು ತುಪ್ಪ ಇದ ಮೂರನ್ನ ಸೇರ್ಸಿಟ್ಟಂಡಿದ್ದಿರಿಲ್ಲ, ಅದನ್ನ ಉದ್ಧರಣೆಯಿಂದ ತೊಕೊಳ್ರಿ. ಇಲ್ಲದವರು ಮಂತ್ರಾಸ್ತೆನ ತೊಕೊಳ್ರಿ. ಕಮಲಭವನ ಜಾಯೇ, ಕೋಟಿ ಸೂರ್ಯ ಪ್ರಕಾಶೇ.",
+      "mappedSectionIds": [
+        "P11",
+        "P12",
+        "P13"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P11",
+          "blockIndex": 2,
+          "startSeconds": 478.319,
+          "endSeconds": 480.4,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 3,
+          "startSeconds": 480.4,
+          "endSeconds": 483.759,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P12",
+          "blockIndex": 0,
+          "startSeconds": 483.759,
+          "endSeconds": 485.44,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P12",
+          "blockIndex": 1,
+          "startSeconds": 485.44,
+          "endSeconds": 504.72,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P12",
+          "blockIndex": 2,
+          "startSeconds": 504.72,
+          "endSeconds": 506.16,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P12",
+          "blockIndex": 3,
+          "startSeconds": 506.16,
+          "endSeconds": 510.16,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 0,
+          "startSeconds": 510.16,
+          "endSeconds": 521.12,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 1,
+          "startSeconds": 521.12,
+          "endSeconds": 539.04,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P11",
+          "blockIndex": 3,
+          "notes": "Three repetitions corroborated by fine/coarse GPT despite caption compressing one."
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 0,
+          "notes": "The speaker presents actual mixture or mantra-akṣata alternative; retain all wording, not only substitution summary."
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 1,
+          "notes": "Final two lines heavily corrupted in all ASR; suśri/madhuparko’yaṁ/gṛhyatāṁ is provisional intelligible reading. Specific technical uncertainty retained."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 14,
+      "startSeconds": 520.0,
+      "endSeconds": 565.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-014-transcript.json",
+      "rawTranscriptText": "ಮಂತ್ರಾಸ್ತೇನ ತುಕೊಳ್ಳಿರಿ. कमलपवनजाये कोटिसूर्यप्रकाशे, शिवद शुचिविलासे, कोमले हारयुक्ते, दधि मधुकृतयुक्ते, स्वर्णपात्रस्थितो यः, शुचिरयि मधुबर्गो, ऋक्षतां वेदवेद्ये, मधुबर्गं समर्पयामि. ಅಂತ ಪೇಳಾಲಿ, ಮಧುಬರ್ಗದ್ದ್ರೆ ಮಧುಬರ್ಗನ ಹಾಕಿರಿ. ಇಲ್ಲಾದ್ರ ಮಂತ್ರಾಸ್ತೇನ ಹಾಕಿರಿ, ಮಧುಬರ್ಗಾರ್ಥೇ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ಮೊಸರು ಜೇನು ತುಪ್ಪ ಸಕ್ಕರೆ, ಇದು ನಾಕು ಮಿಕ್ಸ್ ಮಾಡಿದ್ದು ಪಂಚಾಮೃತ. ಇದ್ದ್ರದನು ಉಪಯೋಗಿಸ್ರಿ, ಇಲ್ಲದಿದ್ದ್ರೆ ಮಂತ್ರಾಸ್ತೇನ ಹಾಕಿರಿ. दधिक्षीरकृतौपेतं सर्करामधुसंयुतं, पंचामृतस्नानमिदं श्रीकृष्णेश्वरे, पंचामृतस्नानं समर्पयामि.",
+      "mappedSectionIds": [
+        "P13",
+        "P14",
+        "P15"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P13",
+          "blockIndex": 0,
+          "startSeconds": 510.16,
+          "endSeconds": 521.12,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 1,
+          "startSeconds": 521.12,
+          "endSeconds": 539.04,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 2,
+          "startSeconds": 539.04,
+          "endSeconds": 543.04,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 3,
+          "startSeconds": 543.04,
+          "endSeconds": 547.44,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P14",
+          "blockIndex": 0,
+          "startSeconds": 547.44,
+          "endSeconds": 555.36,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P14",
+          "blockIndex": 1,
+          "startSeconds": 555.36,
+          "endSeconds": 564.72,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 0,
+          "startSeconds": 564.72,
+          "endSeconds": 576.24,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P13",
+          "blockIndex": 0,
+          "notes": "The speaker presents actual mixture or mantra-akṣata alternative; retain all wording, not only substitution summary."
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 1,
+          "notes": "Final two lines heavily corrupted in all ASR; suśri/madhuparko’yaṁ/gṛhyatāṁ is provisional intelligible reading. Specific technical uncertainty retained."
+        },
+        {
+          "sectionId": "P14",
+          "blockIndex": 0,
+          "notes": "Spoken four-item list retained; Sanskrit verse also names milk. Do not silently insert milk into the Kannada instruction."
+        },
+        {
+          "sectionId": "P14",
+          "blockIndex": 1,
+          "notes": "kuruṣva sureśvari phrase differs sharply across ASR, retained as provisional reading."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 15,
+      "startSeconds": 560.0,
+      "endSeconds": 605.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-015-transcript.json",
+      "rawTranscriptText": "अनमितं श्रीकुरुष्व सुरेश्वरी, पञ्चामृतस्नानं समर्पयामि. ಉದ್ಧರಣೆಯಿಂದ ನೀರನ್ನ ತೊಗೊಂಡು ಎಡದ ಕೈಯಲ್ಲಿ ಇಟ್ಟಲ್ರಿ, ಬಲದ ಕೈಯಿಂದ ಒಂದು ಹೂವನ್ನ ತೊಗೊಂಡು ಈ ಉದ್ಧರಣೆಯಲ್ಲಿರುವ ನೀರನ್ನ ಮುಟ್ಟಿ ಪ್ರೋಕ್ಷಣ ಮಾಡ್ರಿ, ಪುಸ್ತಕ ಮಂಡಲಕ್ಕೆ ಸರಸ್ವತಿಗೆ. सुबर्णकलशानीतैः नानागन्धशुभासितैः, गन्धोदकस्नानमितं श्रीकुरुष्व सुरेश्वरी. इत्पुरुषेण अभिषा देवायज्ञ्य मतन्वत, प्रसन्तो अस्य सीताज्यं ग्रीष्म इद्मं सरद्दभिः. ಪ್ರೋಕ್ಷಣ ಮಾಡ್ರಿ, ಶುದ್ಧೋದಕ ಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ. ಮತ್ತೆ ಉದ್ಧರಣೀನ ಬಲದ ಕೈಗೆ ಮಾರ್ಸಿಂಡು, ಅದ್ರಲ್ಲಿ ಮಿಕ್ಕಿರುವ ನೀರನ್ನ ಪೆಲಾಲ್ ಬಿಡ್ರಿ, ಸ್ನಾನಾನಂತರ ಆಚಮನ...",
+      "mappedSectionIds": [
+        "P14",
+        "P15"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P14",
+          "blockIndex": 1,
+          "startSeconds": 555.36,
+          "endSeconds": 564.72,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 0,
+          "startSeconds": 564.72,
+          "endSeconds": 576.24,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 1,
+          "startSeconds": 576.24,
+          "endSeconds": 594.88,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 2,
+          "startSeconds": 594.88,
+          "endSeconds": 595.68,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 3,
+          "startSeconds": 595.68,
+          "endSeconds": 598.399,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 4,
+          "startSeconds": 598.399,
+          "endSeconds": 603.12,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 5,
+          "startSeconds": 603.12,
+          "endSeconds": 607.36,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P14",
+          "blockIndex": 1,
+          "notes": "kuruṣva sureśvari phrase differs sharply across ASR, retained as provisional reading."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 16,
+      "startSeconds": 600.0,
+      "endSeconds": 645.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-016-transcript.json",
+      "rawTranscriptText": "ಮಾರ್ಸಿಂಡು, ಅದರಲ್ಲಿ ಮಿಕ್ಕಿರುವ ನೀರನ್ನ ಪೇಲಾಲ್ ಬಿಡ್ರಿ. ಸ್ನಾನಾನಂತರ ಆಚಮನೀಯಂ ಸಮರ್ಪಯಾಮಿ. ಈ ಗಜವಸ್ತ್ರವನ್ನ ಕೈಯಲ್ಲಿ ತೊಕೊಳ್ಳ್ರಿ. ಶುಕ್ಲವಸ್ತ್ರ ದ್ವಯಂ. ಇಲ್ಲದಿದ್ದರೆ ಮಾಡೂಟು ಇಲ್ಲಿಂದ ವಿಡಿಯೋನ ಕಂಟಿನ್ಯೂ ಮಾಡ್ರಿ. ಮಾಡಿಟ್ಟಿದ್ದರೆ ತೊಕೊಂಡು ಸಮರ್ಪಣೆ ಮಾಡೋದು. ಶುಕ್ಲವಸ್ತ್ರ ದ್ವಯಂ ದೇವಿ ವಿಮಲಂ ಕುಟಿಲಾಲಕೇ, ಭಕ್ತ್ಯಾ ಸಮರ್ಪಿತಂ ಬಾಣೀಂ ಬ್ರಹ್ಮಾಣೀಂ ಪ್ರತಿಗೃಹ್ಯತಾಂ. ತೈಯ್ಯಜ್ಯಂ ಪರಿಗೃಹೀಷ್ವ, ಪ್ರೌಢಶನ್ನು ಪುರುಷಂ ಜಾತಮಕ್ ಕ್ರತಃ, ತೇನ ದೇವ ಅಗಜಂತ ಸಾದ್ಯ, ಪೃಷಗ್ಯ ಶ್ಚಗೇ, ವಸ್ತ್ರಯುಗ್ಮಂ ಸಮರ್ಪಯಾಮಿ. ಮಂತ್ರ ಅಷ್ಟ ತೊಕೊಳ್ಳ್ರಿ. ಶಬ್ದ.",
+      "mappedSectionIds": [
+        "P15",
+        "P16",
+        "P17"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P15",
+          "blockIndex": 4,
+          "startSeconds": 598.399,
+          "endSeconds": 603.12,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 5,
+          "startSeconds": 603.12,
+          "endSeconds": 607.36,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P16",
+          "blockIndex": 0,
+          "startSeconds": 607.36,
+          "endSeconds": 610.0,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P16",
+          "blockIndex": 1,
+          "startSeconds": 610.0,
+          "endSeconds": 612.0,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P16",
+          "blockIndex": 2,
+          "startSeconds": 612.0,
+          "endSeconds": 619.2,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P16",
+          "blockIndex": 3,
+          "startSeconds": 619.2,
+          "endSeconds": 640.959,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P17",
+          "blockIndex": 0,
+          "startSeconds": 640.959,
+          "endSeconds": 644.24,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P17",
+          "blockIndex": 1,
+          "startSeconds": 644.24,
+          "endSeconds": 656.88,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P16",
+          "blockIndex": 1,
+          "notes": "Partial opening phrase before the preparation instruction; not silently discarded."
+        },
+        {
+          "sectionId": "P16",
+          "blockIndex": 3,
+          "notes": "amalaṁ/visuallycaptionvimalam endings uncertain; Vedic recitation restored only where phonetic witnesses permit; exact sandhi remains review flagged."
+        },
+        {
+          "sectionId": "P17",
+          "blockIndex": 1,
+          "notes": "Exact saptabrahmaraṇe/saptaśāstrakṛtālaye epithets uncertain across all witnesses; meanings identify provisional interpretation explicitly."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 17,
+      "startSeconds": 640.0,
+      "endSeconds": 685.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-017-transcript.json",
+      "rawTranscriptText": "ಮಂತ್ರಾಸ್ತ ತೊಗೊಳ್ರಿ. ಸಪ್ತ ಬ್ರಹ್ಮಾರಣೇ ದೇವಿ ಸಪ್ತಸಾಸ್ತ್ರ ಕೃತಾಲಯೇ, ಕಂಟಸೂತ್ರಂ ಗೃಹಾಣತ್ವಂ ಶೇಷ ಶಕ್ರಾದಿ ಪೂಜಿತೇ, ಕಂಟಸೂತ್ರಂ ಸಮರ್ಪಯಾಮಿ. ಅತ್ತು ಮಂತ್ರಾಸ್ತ ತೊಗೊಳ್ರಿ. ಕಟಕ ಮುಕುಟ ಹಾರೈಃ ನೂಪುರೈ ಅಂಗದಾದ್ಯೈಃ, ವಿವಿಧಮಣಿಸಂಯುಕ್ತೈಃ ಮೇಖಲಾ ಮುಕ್ತಹಾರೈಃ, ಕಮಲವನವಿಲಾಸೇ ಕಾಮತೇ ತ್ವಂ ಗೃಹಾಣ, ಪ್ರಕಟಿತಕರುಣಾರ್ತೆ ಭೂರಿಶೋಭೂಷಣಾನಿ. ತಸ್ಮಾತ್ ಯಜ್ಞಾಃ ಸರ್ವೇ ಹುತಃ ಸಂಭೃತಂ ಪೃಷತ್, ತಾಜ್ಯಂ ಪಶೂನ್ ಸ್ತಾಂ ಚಕ್ರೇ.",
+      "mappedSectionIds": [
+        "P16",
+        "P17",
+        "P18"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P16",
+          "blockIndex": 3,
+          "startSeconds": 619.2,
+          "endSeconds": 640.959,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P17",
+          "blockIndex": 0,
+          "startSeconds": 640.959,
+          "endSeconds": 644.24,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P17",
+          "blockIndex": 1,
+          "startSeconds": 644.24,
+          "endSeconds": 656.88,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P18",
+          "blockIndex": 0,
+          "startSeconds": 656.88,
+          "endSeconds": 659.75,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P18",
+          "blockIndex": 1,
+          "startSeconds": 657.839,
+          "endSeconds": 692.959,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P16",
+          "blockIndex": 3,
+          "notes": "amalaṁ/visuallycaptionvimalam endings uncertain; Vedic recitation restored only where phonetic witnesses permit; exact sandhi remains review flagged."
+        },
+        {
+          "sectionId": "P17",
+          "blockIndex": 1,
+          "notes": "Exact saptabrahmaraṇe/saptaśāstrakṛtālaye epithets uncertain across all witnesses; meanings identify provisional interpretation explicitly."
+        },
+        {
+          "sectionId": "P18",
+          "blockIndex": 0,
+          "notes": " Take-akṣata instruction and kaṭaka opening share native event657.839–659.75; exact intra-event partition unresolved."
+        },
+        {
+          "sectionId": "P18",
+          "blockIndex": 1,
+          "notes": "Opening kaṭaka recovered from640finewindow thoughcaptiondrops it; later prakaṭita/karuṇā/bhūriśobhūṣaṇāni compound is provisional phonetic reading, not certified lexical resolution. Take-akṣata instruction and kaṭaka opening share native event657.839–659.75; exact intra-event partition unresolved."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 18,
+      "startSeconds": 680.0,
+      "endSeconds": 725.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-018-transcript.json",
+      "rawTranscriptText": "कृतं पुरुषा ताज्यं पशून् स्तां चक्रे वायव्यान् आरण्यान् ग्राम्याश्च ये आवरणानि समर्पयामि. ಈಗ ಹೂವಿಲಿಂದ ಗಂಧವನ್ನ ಮುಟ್ಟಿಕೊಳ್ಳಿ, ಗಂಧವನ್ನ ಮುಟ್ಟಿಂಡು. चन्दना घरु कस्तूरी कर्पूराद्यैश्च संयुतं, गन्धं गृहाण वरदे विधिपत्नि नमोऽस्तुते. तस्मात् यज्ञात् सर्वहुतः ऋचः सामानि जज्ञिरे, तस्मात् यजुस्तस्मादजायत. ಗಂಧಾನ್ ಸಮರ್ಪಯಾಮಿ ಅಂತ ಗಂಧವನ್ನ ಸಮರ್ಪಣ ಮಾಡ್ರಿ, ಗಂಧದಂದ…",
+      "mappedSectionIds": [
+        "P18",
+        "P19"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P18",
+          "blockIndex": 1,
+          "startSeconds": 657.839,
+          "endSeconds": 692.959,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P19",
+          "blockIndex": 0,
+          "startSeconds": 692.959,
+          "endSeconds": 697.76,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P19",
+          "blockIndex": 1,
+          "startSeconds": 697.76,
+          "endSeconds": 722.64,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P19",
+          "blockIndex": 2,
+          "startSeconds": 722.64,
+          "endSeconds": 727.279,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P18",
+          "blockIndex": 1,
+          "notes": "Opening kaṭaka recovered from640finewindow thoughcaptiondrops it; later prakaṭita/karuṇā/bhūriśobhūṣaṇāni compound is provisional phonetic reading, not certified lexical resolution. Take-akṣata instruction and kaṭaka opening share native event657.839–659.75; exact intra-event partition unresolved."
+        },
+        {
+          "sectionId": "P19",
+          "blockIndex": 0,
+          "notes": "Spoken repetition/restart retained."
+        },
+        {
+          "sectionId": "P19",
+          "blockIndex": 1,
+          "notes": "chandāṁsi clause retained from nativecaption711.5–718 despite fine/coarse ASR omission; not dropped merely because model omits it."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 19,
+      "startSeconds": 720.0,
+      "endSeconds": 765.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-019-transcript.json",
+      "rawTranscriptText": "ಗಂಧಾನ್ ಸಮರ್ಪಯಾಮಿ ಅಂತ ಗಂಧವನ್ನ ಸಮರ್ಪಣೆ ಮಾಡಿ, ಗಂಧದಂದ ಬೊಟ್ಟಿಡ್ಬೋದು. ಮಂತ್ರಾಕ್ಷತೆ, ತೊಗೊಳ್ಳ್ರಿ. ಅಕ್ಷತಾನ್ ಧವಳಾನ್ ದಿವ್ಯಾಂ ಸಾಲಿತಂಡುಲ ಮಿಶ್ರಿತಾನ್ ಗೃಹಾಣ ವರದೇ ದೇವಿ ಬ್ರಹ್ಮಪತ್ನಿ ಶುಭಾಕ್ಷತಾನ್. ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ ಅಂತ ಮಂತ್ರ ಅಷ್ಟಕ್ಕೆ. ಕಾರ್ಷ್ಣಾ ಕುಂಕುಮ. ಕುಂಕುಮ ಗಂಧ ಇಟ್ಟು ಕುಂಕುಮ ಅಚ್ಚ್ಬೋದು, ಅಷ್ಟ್ನಾ ಕುಂಕುಮವನ್ನ ಪೂಜೆ ಮಾಡ್ರಿ. ಹರಿದ್ರಾ ಕುಂಕುಮಾನ್ ದೇವಿ ಗಂಧಚೂರ್ಣಾದಿ ಕಾನಪಿ ತಸ್ಯಾಮಿ ಪರಯಾ ಭಕ್ತ್ಯಾ ಬ್ರಹ್ಮಾಣಿ ಪ್ರತಿಗೃಹ್ಯತಾಂ ತಸ್ಮಾದಶ್ವ ಅಜಾಯಂತ ಏಕೇಶೋ ಭಯಾದತಃ.",
+      "mappedSectionIds": [
+        "P19",
+        "P20",
+        "P21"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P19",
+          "blockIndex": 1,
+          "startSeconds": 697.76,
+          "endSeconds": 722.64,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P19",
+          "blockIndex": 2,
+          "startSeconds": 722.64,
+          "endSeconds": 727.279,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P20",
+          "blockIndex": 0,
+          "startSeconds": 727.279,
+          "endSeconds": 729.04,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P20",
+          "blockIndex": 1,
+          "startSeconds": 729.04,
+          "endSeconds": 740.0,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P20",
+          "blockIndex": 2,
+          "startSeconds": 740.0,
+          "endSeconds": 741.2,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P21",
+          "blockIndex": 0,
+          "startSeconds": 741.2,
+          "endSeconds": 747.36,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P21",
+          "blockIndex": 1,
+          "startSeconds": 747.36,
+          "endSeconds": 775.12,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P19",
+          "blockIndex": 1,
+          "notes": "chandāṁsi clause retained from nativecaption711.5–718 despite fine/coarse ASR omission; not dropped merely because model omits it."
+        },
+        {
+          "sectionId": "P21",
+          "blockIndex": 0,
+          "notes": "The short spoken phrase around kumkum/sandal is grammatically fragmentary; full objects and instruction retained."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 20,
+      "startSeconds": 760.0,
+      "endSeconds": 805.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-020-transcript.json",
+      "rawTranscriptText": "तस्मादश्वा अजायन्त, ये के चोभयादतः। गावो ह जज्ञिरे तस्मात्, तस्माज्जाता अजावयः. ಹರಿದ್ರಾಚೂರ್ಣ, ಕುಂಕುಮಾನ್ ಸಮರ್ಪಯಾಮಿ. ಸ್ವಲ್ಪ ಕೈಯಲ್ಲಿ ಹೂವನ್ನ ಹಿಡುಕೊಳ್ಳಿ. नन्द्या वर्त्यादि पुष्पैश्च, कल्हारैः मल्लिकादिभिः। करवीर जातिकुसुमैः, मन्दारैश्च मनोरमैः। नीलोत्पलैश्च कमलैः, तत्काल तरुसम्भवैः। पूजयामि सुपुष्पैश्च, वरदे भक्तवत्सले। ನಾನಾವಿಧ ಪುಷ್ಪಾಣಿ ಸಮರ್ಪಯಾಮಿ. ಈಗ ಒವೊಂದು ಹೂವಾಗಿ ಅಂಗಪೂಜೆ ಅರ್ಚನ.",
+      "mappedSectionIds": [
+        "P21",
+        "P22",
+        "P23"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P21",
+          "blockIndex": 1,
+          "startSeconds": 747.36,
+          "endSeconds": 775.12,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P22",
+          "blockIndex": 0,
+          "startSeconds": 775.12,
+          "endSeconds": 777.44,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P22",
+          "blockIndex": 1,
+          "startSeconds": 777.44,
+          "endSeconds": 801.519,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P23",
+          "blockIndex": 0,
+          "startSeconds": 801.519,
+          "endSeconds": 805.839,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": []
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 21,
+      "startSeconds": 800.0,
+      "endSeconds": 845.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-021-transcript.json",
+      "rawTranscriptText": "ಇಗೆ ಓವಂದು ಹೂವಾಗಿ ಅಂಗಪೂಜೆ ಅರ್ಚನೆ ಮಾಡ್ತಾ ಬಂಡೆ. ಬ್ರಹ್ಮಾಣ್ಯೇ ನಮಃ, ಪಾದೌ ಪೂಜಯಾಮಿ. ಜಗದ್ದಾತ್ರೇ ನಮಃ, ಗುಲ್ಫೌ ಪೂಜಯಾಮಿ. ಜಗತ್ವತ್ಸಲಾಗೀ ನಮಃ, ಜಂಘೇ ಪೂಜಯಾಮಿ. ಜಗತ್ಪೂಜ್ಯಾಯೈ ನಮಃ, ಜಾನುನೀ ಪೂಜಯಾಮಿ. ಸಾರುವಿಲಾಸಿನ್ಯೈ ನಮಃ, ಊರೂ ಪೂಜಯಾಮಿ. ನಾರಾಗಣಪ್ರಿಯಾಯೈ ನಮಃ, ಕಟಿಂ ಪೂಜಯಾಮಿ. ಜನ್ಮಹೀನಾಯೈ ನಮಃ, ಜಘನಂ ಪೂಜಯಾಮಿ. ಗಂಭೀರನಾಭಯೇ ನಮಃ, ನಾಭಿಂ ಪೂಜಯಾಮಿ. ಗರುಡಶೇಷರುದ್ರಮಾತ್ರೇ ನಮಃ, ಉದರಂ ಪೂಜಯಾಮಿ. ಲೋಕಮಾತ್ರೇ ನಮಃ, ಸ್ತನೌ ಪೂಜಯಾಮಿ. ವಿಶಾಲವಕ್ಷಸೇ ನಮಃ, ವಕ್ಷಸ್ಥಲಂ ಪೂಜಯಾಮಿ. ಗಾನವಿಶಕ್ಷಣಾಯೈ ನಮಃ, ಕಂಠಂ ಪೂಜಯಾಮಿ. ಸ್ಕಂದಾದಿ ದೇವಪೂಜ್ಯಾಯೈ ನಮಃ, ಸ್ಕಂಧೌ ಪೂಜಯಾಮಿ.",
+      "mappedSectionIds": [
+        "P22",
+        "P23"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P22",
+          "blockIndex": 1,
+          "startSeconds": 777.44,
+          "endSeconds": 801.519,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P23",
+          "blockIndex": 0,
+          "startSeconds": 801.519,
+          "endSeconds": 805.839,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P23",
+          "blockIndex": 1,
+          "startSeconds": 805.839,
+          "endSeconds": 881.68,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P23",
+          "blockIndex": 1,
+          "notes": "cāruvilāsinyai/nārāyaṇapriyāyai, śrotriyabāndhavāyai and anekacandrakāntaye are specifically uncertain epithets across acoustic ASR; retain provisional reading notes. Do not substitute different standard anga list."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 22,
+      "startSeconds": 840.0,
+      "endSeconds": 885.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-022-transcript.json",
+      "rawTranscriptText": "ಸ್ಕಂದಾದಿ ದೇವ ಪೂಜಾಯೈ ನಮಃ. ಸ್ಕಂದಂ ಪೂಜಯಾಮಿ. ಛತ್ರಭುಜಾಯೈ ನಮಃ. ಬಾಗುಂ ಪೂಜಯಾಮಿ. ಪುಸ್ತಕಧಾರಿಣ್ಯೈ ನಮಃ. ಹನುಂ ಪೂಜಯಾಮಿ. ಸ್ರೋತ್ರಿಯ ಭಾಂದವಾಯೈ ನಮಃ. ಸ್ರೋತ್ರೆ ಪೂಜಯಾಮಿ. ಸರ್ವವೇದೋದ್ಧಾರಿಣ್ಯೈ ನಮಃ. ವಕ್ತ್ರಂ ಪೂಜಯಾಮಿ. ಬಿಂಬ ಸಮಾನ ಓಷ್ಠ್ಯೈ ನಮಃ. ಓಷ್ಠೌ ಪೂಜಯಾಮಿ. ಸುನಾಸಾಯೈ ನಮಃ. ನಾಸಿಕಾಂ ಪೂಜಯಾಮಿ. ಕಾಮಲ ಸಚ್ಚುಷೇ ನಮಃ. ನೇತ್ರೇ ಪೂಜಯಾಮಿ. ತಿಲಕಧಾರಿಣ್ಯೈ ನಮಃ. ಪಾಲಂ ಪೂಜಯಾಮಿ. ಅನೇಕ ಚಂದ್ರಕಾಂತಗೆ ನಮಃ. ಕೇಶಾನ್ ಪೂಜಯಾಮಿ. ಸರ್ವಾಭೀಷ್ಟದಾತ್ರೇ ನಮಃ. ಶಿರಃ ಪೂಜಯಾಮಿ. ಸರಸ್ವತ್ಯೈ ನಮಃ. ಸರ್ವಾಂಗಂ ಪೂಜಯಾಮಿ. ಇಗೆ ಕೇಶವಾದಿ ನಾಮದಿಂದ ಅರ್ಚನೆ, ಕೇಶಾದಿ ನಮಃ.",
+      "mappedSectionIds": [
+        "P23",
+        "P24"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P23",
+          "blockIndex": 1,
+          "startSeconds": 805.839,
+          "endSeconds": 881.68,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P24",
+          "blockIndex": 0,
+          "startSeconds": 881.68,
+          "endSeconds": 883.68,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P24",
+          "blockIndex": 1,
+          "startSeconds": 883.68,
+          "endSeconds": 935.279,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P23",
+          "blockIndex": 1,
+          "notes": "cāruvilāsinyai/nārāyaṇapriyāyai, śrotriyabāndhavāyai and anekacandrakāntaye are specifically uncertain epithets across acoustic ASR; retain provisional reading notes. Do not substitute different standard anga list."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 23,
+      "startSeconds": 880.0,
+      "endSeconds": 925.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-023-transcript.json",
+      "rawTranscriptText": "ಪೂಜಗಾಮಿ. ಇಗೆ ಕೇಶವಾದಿನಾಮದಿಂದ ಅರ್ಚನೆ. ಕೇಶವಾಯ ನಮಃ, ನಾರಾಯಣಾಯ ನಮಃ, ಮಾಧವಾಯ ನಮಃ, ಗೋವಿಂದಾಯ ನಮಃ, ವಿಷ್ಣವೇ ನಮಃ, ಮಧುಸೂದನಾಯ ನಮಃ, ತ್ರಿವಿಕ್ರಮಾಯ ನಮಃ, ವಾಮನಾಯ ನಮಃ, ಶ್ರೀಧರಾಯ ನಮಃ, ಹೃಷೀಕೇಶಾಯ ನಮಃ, ಪದ್ಮನಾಭಾಯ ನಮಃ, ದಾಮೋದರಾಯ ನಮಃ, ಸಂಕರ್ಷಣಾಯ ನಮಃ, ವಾಸುದೇವಾಯ ನಮಃ, ಪ್ರದ್ಯುಮ್ನಾಯ ನಮಃ, ಅನಿರುದ್ಧಾಯ ನಮಃ, ಪುರುಷೋತ್ತಮಾಯ ನಮಃ, ಅಧೋಕ್ಷಜಾಯ ನಮಃ, ನಾರಸಿಂಹಾಯ ನಮಃ, ಅಚ್ಯುತಾಯ ನಮಃ, ಜನಾರ್ದನಾಯ ನಮಃ, ಉಪೇಂದ್ರಾಯ ನಮಃ, ಹರಯೇ ನಮಃ, ಶ್ರೀಕೃಷ್ಣಾಯ ನಮಃ, ಮತ್ಸ್ಯಾಯ ನಮಃ, ಕೂರ್ಮಾಯ ನಮಃ, ವರಾಹಾಯ ನಮಃ, ನಾರಸಿಂಹಾಯ ನಮಃ, ವಾಮನಾಯ ನಮಃ, ಭಾರ್ಗವಾಯ ನಮಃ, ರಾಮಾಯ ನಮಃ, ಕೃಷ್ಣಾಯ ನಮಃ.",
+      "mappedSectionIds": [
+        "P23",
+        "P24"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P23",
+          "blockIndex": 1,
+          "startSeconds": 805.839,
+          "endSeconds": 881.68,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P24",
+          "blockIndex": 0,
+          "startSeconds": 881.68,
+          "endSeconds": 883.68,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P24",
+          "blockIndex": 1,
+          "startSeconds": 883.68,
+          "endSeconds": 935.279,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P23",
+          "blockIndex": 1,
+          "notes": "cāruvilāsinyai/nārāyaṇapriyāyai, śrotriyabāndhavāyai and anekacandrakāntaye are specifically uncertain epithets across acoustic ASR; retain provisional reading notes. Do not substitute different standard anga list."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 24,
+      "startSeconds": 920.0,
+      "endSeconds": 965.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-024-transcript.json",
+      "rawTranscriptText": "नमः। वामनाय नमः। भार्गवाय नमः। रामाय नमः। कृष्णाय नमः। बौद्धाय नमः। कल्किने नमः। मत्स्यादिनन्तावताररूपात्मक श्री। वेदव्यासाय नमः। कपिलाय नमः। कपिलाय नमः। दत्तात्रेयाय नमः। हयग्रीवाय नमः। रामाय नमः। कृष्णाय नमः। परशुरामाय नमः। नारसिंहाय नमः। वेदव्यासाय नमः। श्रीनारायणाय नमः। महालक्ष्म्यै नमः। भूदेव्यै नमः। दुर्गायै नमः। हनुमते नमः। भारत्यै नमः। सरस्वत्यै नमः। ब्रह्मणे नमः। शेषाय नमः। रुद्राय नमः। पार्वत्यै...",
+      "mappedSectionIds": [
+        "P24",
+        "P25"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P24",
+          "blockIndex": 1,
+          "startSeconds": 883.68,
+          "endSeconds": 935.279,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P25",
+          "blockIndex": 0,
+          "startSeconds": 935.279,
+          "endSeconds": 1032.72,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P25",
+          "blockIndex": 0,
+          "notes": "Kapila utterance repeated twice; ṛṣibhyo repeated three times, corroborated by fine/coarse/captions. Vijaye ndra/Jagannātha Tīrtha disputed guru name: captions favor Vijayendra, fine/coarse different; exact name visibly flagged. Sūktābhimāni/śuktābhimāni technical reading uncertain."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 25,
+      "startSeconds": 960.0,
+      "endSeconds": 1005.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-025-transcript.json",
+      "rawTranscriptText": "ब्रह्मणे नमः। शेषाय नमः। रुद्राय नमः। पार्वत्यै नमः। विनायकाय नमः। ऋषिभ्यो नमः। ऋषिभ्यो नमः। ऋषिभ्यो नमः। प्रणवाय नमः। काश्यपाय नमः। काश्यपादि ऋषिगणेभ्यो नमः। शुक्ताभिमानी देवताभ्यो नमः। सकल टिप्पणि भाष्यकार देवताभ्यो नमः। आनंदतीर्थ गुरुभ्यो नमः। जयतीर्थ गुरुभ्यो नमः। श्रीपादराज गुरुभ्यो नमः। व्यासराज गुरुभ्यो नमः।",
+      "mappedSectionIds": [
+        "P25"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P25",
+          "blockIndex": 0,
+          "startSeconds": 935.279,
+          "endSeconds": 1032.72,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P25",
+          "blockIndex": 0,
+          "notes": "Kapila utterance repeated twice; ṛṣibhyo repeated three times, corroborated by fine/coarse/captions. Vijaye ndra/Jagannātha Tīrtha disputed guru name: captions favor Vijayendra, fine/coarse different; exact name visibly flagged. Sūktābhimāni/śuktābhimāni technical reading uncertain."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 26,
+      "startSeconds": 1000.0,
+      "endSeconds": 1045.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-026-transcript.json",
+      "rawTranscriptText": "ಭ್ಯೋ ನಮಃ. ಜಯತೀರ್ಥ ಗುರುಭ್ಯೋ ನಮಃ. ಶ್ರೀಪಾದರಾಜ ಗುರುಭ್ಯೋ ನಮಃ. ವ್ಯಾಸರಾಜ ಗುರುಭ್ಯೋ ನಮಃ. ವಾದಿರಾಜ ಗುರುಭ್ಯೋ ನಮಃ. ಜಗನ್ನಾಥ ತೀರ್ಥ ಗುರುಭ್ಯೋ ನಮಃ. ರಘೂತ್ತಮ ತೀರ್ಥ ಗುರುಭ್ಯೋ ನಮಃ. ರಾಘವೇಂದ್ರ ತೀರ್ಥ ಗುರುಭ್ಯೋ ನಮಃ. ಪುರಂದರದಾಸ ಗುರುಭ್ಯೋ ನಮಃ. ಕನಕದಾಸ ಗುರುಭ್ಯೋ ನಮಃ. ವಿಜಯದಾಸ ಗುರುಭ್ಯೋ ನಮಃ. ಗೋಪಾಲದಾಸ ಗುರುಭ್ಯೋ ನಮಃ. ಜಗನ್ನಾಥದಾಸ ಗುರುಭ್ಯೋ ನಮಃ. ಸಕಲ ಶಾಸ್ತ್ರಾಭಿಮಾನಿ ಅಕ್ಷರಾಭಿಮಾನಿ ದೇವತಾಭ್ಯೋ ನಮಃ. ಸರಸ್ವತ್ಯೈ ನಮಃ. ವೇದವ್ಯಾಸಾಯ ನಮಃ. ನಾನಾ ವಿಧ ಪರಿಮಳ ಪತ್ರಪುಷ್ಪಾರ್ಚನಂ ಸಮರ್ಪಯಾಮಿ. ಈಗ ಊದು ಕಡ್ಡಿ ಅಥವಾ ದಸಾಂಗವನ್ನ ಮುಡಿಸಿಕೊಳ್ಳ್ರಿ. ಗಂಟೆ ಬಾರಿಸ್ತ ದೂಪ ತೋರ್ಸ್ರಿ.",
+      "mappedSectionIds": [
+        "P25",
+        "P26"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P25",
+          "blockIndex": 0,
+          "startSeconds": 935.279,
+          "endSeconds": 1032.72,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P26",
+          "blockIndex": 0,
+          "startSeconds": 1032.72,
+          "endSeconds": 1044.88,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P26",
+          "blockIndex": 1,
+          "startSeconds": 1044.88,
+          "endSeconds": 1067.44,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P25",
+          "blockIndex": 0,
+          "notes": "Kapila utterance repeated twice; ṛṣibhyo repeated three times, corroborated by fine/coarse/captions. Vijaye ndra/Jagannātha Tīrtha disputed guru name: captions favor Vijayendra, fine/coarse different; exact name visibly flagged. Sūktābhimāni/śuktābhimāni technical reading uncertain."
+        },
+        {
+          "sectionId": "P26",
+          "blockIndex": 1,
+          "notes": "guggulopetaṁ and final ucyete are intelligible provisional readings of corrupted phonetic outputs; not claimed direct-human-verified."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 27,
+      "startSeconds": 1040.0,
+      "endSeconds": 1085.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-027-transcript.json",
+      "rawTranscriptText": "ॐ. दशाङ्गं कुक्कुलोपेतं सुगन्धं च मनोहरम्। धूपं गृहाण कल्याणि भक्तिं त्वयि अचलां कुरु। यत्पुरुषं व्यदधुः कतिधा व्यकल्पयन्, मुखं किमस्य कौ बाहू, कावूरू पादा आवुक्षेते, धूपम् आघ्रापयामि. ಧೂಪವನ ತೋರಿಸಿ, ಊದುಗಡ್ಡಿ ಸ್ಟ್ಯಾಂಡಲ್ಲಿ ಊದುಗಡ್ಡಿ ಇಟ್ಟು, ಇಟ್ಟು, ಈಗ ಮೂರು ಬತ್ತಿಗಳು, ತುಪ್ಪದಲ್ಲಿ ನೆನೆಸಿ ಮೂರು ಬತ್ತಿಗಳನ್ನು ಮಾಡಿ, ಅದು ಹಲಿಗಾರತ್ತಿಲಿಡ್ರಿ ಇಟ್ಟು, ಕೃತाद् त्ववर्ते त्रिदशैः दीपितं दीपमम्बिके.",
+      "mappedSectionIds": [
+        "P26",
+        "P27"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P26",
+          "blockIndex": 0,
+          "startSeconds": 1032.72,
+          "endSeconds": 1044.88,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P26",
+          "blockIndex": 1,
+          "startSeconds": 1044.88,
+          "endSeconds": 1067.44,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P26",
+          "blockIndex": 2,
+          "startSeconds": 1067.44,
+          "endSeconds": 1073.36,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P27",
+          "blockIndex": 0,
+          "startSeconds": 1073.36,
+          "endSeconds": 1080.64,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P27",
+          "blockIndex": 1,
+          "startSeconds": 1080.64,
+          "endSeconds": 1108.32,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P26",
+          "blockIndex": 1,
+          "notes": "guggulopetaṁ and final ucyete are intelligible provisional readings of corrupted phonetic outputs; not claimed direct-human-verified."
+        },
+        {
+          "sectionId": "P26",
+          "blockIndex": 2,
+          "notes": "Actual repeated ಇಟ್ಟು retained."
+        },
+        {
+          "sectionId": "P27",
+          "blockIndex": 1,
+          "notes": "Lamp-opening ghṛtāktavartitrayaiḥ is provisional reconstruction of garbled shared ASR; retains recorded three-wick meaning. Vaiśya clause repeated twice in independent fine acoustic window; native captions may compact it."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 28,
+      "startSeconds": 1080.0,
+      "endSeconds": 1125.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-028-transcript.json",
+      "rawTranscriptText": "कृदात् तवर्ते तृतयै दीपितं दीपामम्बिके। गृहाण अचिन्त्यरूपे त्वं कमलासनवल्लभे। ब्रह्मणोऽश मुखमाशीत् बाहु राजन्यकृतः। ऊरू तदस्येद्वैश्यः। ऊरू तदस्येद्वैश्यः पद्भ्यां शूद्रो अजायत। दीपं दर्शयामि। ಅಗೆಂತ ದೀಪವನ್ನ ತೋರಿಸಿ, ಆ ಮೂರು ಬತ್ತಿಗಳನ್ನ ಪೆಲಾಲಿ ಹಾಕ್ಕೊಳಿ. ಹಾಕಿಟ್ಟು ಬೆಳದಲ್ಲಿಡಿಕೆ ತೆಂಗಿನ ಕಾಯಿದನಲ್ಲ, ನೇವೇದ್ಯಕ್ಕೆ ತೇದಿಟ್ಟಂಬೊಂದು. ಏನ ಬೇರೆ ಏನಾರ, ನೇವೇದ್ಯಕ್ಕಿದ್ದರೆ ಅದನ್ನ ನೈವೇದ್ಯ ಮಾಡೋದು. ನೀರು ತೊಗೊಂಡು ನೈವೇದ್ಯ ಪದಾರ್ಥಗಳಿಗೆ ಪ್ರೋಕ್ಷಣ ಮಾಡ್ರಿ.",
+      "mappedSectionIds": [
+        "P27",
+        "P28"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P27",
+          "blockIndex": 0,
+          "startSeconds": 1073.36,
+          "endSeconds": 1080.64,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P27",
+          "blockIndex": 1,
+          "startSeconds": 1080.64,
+          "endSeconds": 1108.32,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P27",
+          "blockIndex": 2,
+          "startSeconds": 1108.32,
+          "endSeconds": 1112.88,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 0,
+          "startSeconds": 1112.88,
+          "endSeconds": 1124.4,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 1,
+          "startSeconds": 1124.4,
+          "endSeconds": 1125.52,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P27",
+          "blockIndex": 1,
+          "notes": "Lamp-opening ghṛtāktavartitrayaiḥ is provisional reconstruction of garbled shared ASR; retains recorded three-wick meaning. Vaiśya clause repeated twice in independent fine acoustic window; native captions may compact it."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 29,
+      "startSeconds": 1120.0,
+      "endSeconds": 1165.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-029-transcript.json",
+      "rawTranscriptText": "ಅದನ್ನ ನೇವೇದ್ಯ ಮಾಡೋದು. ನೀರ್ ತೊಗೊಂಡು ನೈವೇದ್ಯ ಪದಾರ್ಥಗಳಿಗೆ ಪ್ರೋಕ್ಷಣ ಮಾಡ್ರಿ, ಭೂರ್ಭುವಸ್ಸ್ವಃ, ಪರಿಶೇಷಣ ಮಾಡ್ರಿ. ಸತ್ಯಂ ತರ್ತೇನ ಪರಿಷಿಂಚಾಮಿ, ಒಂದು ಉದ್ದರಣೆ ನೀರನ್ನ ಪೆಲಾಲಿ ಬಿಡ್ರಿ. ಅಮೃತೋಪಸ್ತರಣಮಸಿ ಸ್ವಾಹಾ. ಆರು ಸಲ ನೀರು ಬಿಡ್ರಿ. ಪ್ರಾಣಾಯ ಸ್ವಾಹಾ, ಅಪಾನಾಯ ಸ್ವಾಹಾ, ವ್ಯಾನಾಯ ಸ್ವಾಹಾ, ಉದಾನಾಯ ಸ್ವಾಹಾ, ಸಮಾನಾಯ ಸ್ವಾಹಾ, ಬ್ರಹ್ಮಣೇ ಸ್ವಾಹಾ. ಕೈಯಲ್ಲಿ ಹೂ ಅನ್ನ ತೊಗೊಳ್ರಿ. ಕದಳಿ, ಬನಸ, ಆಂಬ್ರಾಣ, ಶುಭಕ್ವಾನಿಪಲಾನಿಚ, ದಧಿಕ್ಷೀರಘೃತಾದೀನಿ, ಗಂಧಮೂಲಫಲಾನಿಚ, ಪಂಚಕಾದ್ಯಂ ಚ ಸುಸ್ವಾದು, ಶೀತಲೋದಕಮೇವ ಚ, ಭಕ್ಷ್ಯಭೋಜ್ಯಸಮಾಯುಕ್ತಂ, ನೈವೇದ್ಯಂ ಪ್ರತಿಗೃಹ್ಯತಾಂ, ಅಪೂಪಾನ್ ವಿವಿಧಾನ್ ಸ್ವಾದೂನ್, ಕಾದ್ಯಾನ್.",
+      "mappedSectionIds": [
+        "P28",
+        "P29"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P28",
+          "blockIndex": 0,
+          "startSeconds": 1112.88,
+          "endSeconds": 1124.4,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 1,
+          "startSeconds": 1124.4,
+          "endSeconds": 1125.52,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 2,
+          "startSeconds": 1125.52,
+          "endSeconds": 1126.559,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 3,
+          "startSeconds": 1126.559,
+          "endSeconds": 1128.24,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 4,
+          "startSeconds": 1128.24,
+          "endSeconds": 1131.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 5,
+          "startSeconds": 1131.52,
+          "endSeconds": 1133.919,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 6,
+          "startSeconds": 1133.919,
+          "endSeconds": 1135.2,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 7,
+          "startSeconds": 1135.2,
+          "endSeconds": 1143.84,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P29",
+          "blockIndex": 0,
+          "startSeconds": 1143.84,
+          "endSeconds": 1145.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P29",
+          "blockIndex": 1,
+          "startSeconds": 1145.52,
+          "endSeconds": 1187.52,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P29",
+          "blockIndex": 1,
+          "notes": "Food-list first compound āmrāṇāṁ and cooked-food lines severely corrupt; vai ghṛtapācitān is a provisional intelligible reading of acoustic vaikṛtabhāṣitān and is visibly flagged across fine/coarse/targeted witnesses; ṣaḍvidha annāni retained from three independent acoustic witnesses, despite caption compacting the phrase. Other cooked-food compounds remain unresolved. Current food-list reading/meaning is explicitly provisional and must be reviewed against source, not certified exact restoration."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 30,
+      "startSeconds": 1160.0,
+      "endSeconds": 1205.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-030-transcript.json",
+      "rawTranscriptText": "वेद्यं प्रतिगृह्यतां, अपूपान् विविधान् स्वादून्, काद्यान् वैकृतभाषितान्, षड्विध अन्नानि शूपं च पाकेशं सर्करायुतम्। चन्द्रमा मनसो जातः, चक्षोः सूर्यो अजायत, मुखादिन्द्रश्चाग्निश्च, प्राणाद् वायुरजायत। अपूपादिक अन्नादि महानेवेद्यं निवेदयामि इति भूमन्त्रस्तेनाकृति। हाकुटु, ಒಂದು ಉದ್ಧರಣಿ ನೀರನ್ನು ಮಧ್ಯೇ ಅಮೃತಪಾನೀಯಂ ಸಮರ್ಪಯಾಮಿ. ಐದು ಸಲ ನೀರು ಬಿಡಿರಿ. ಅಮೃತಾಪिधानಂ ಶಿಷ್ಯಾಃ, ಹಸ್ತಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ, ಮುಖಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ, ಪಾದಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ.",
+      "mappedSectionIds": [
+        "P29",
+        "P30"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P29",
+          "blockIndex": 1,
+          "startSeconds": 1145.52,
+          "endSeconds": 1187.52,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P29",
+          "blockIndex": 2,
+          "startSeconds": 1187.52,
+          "endSeconds": 1190.32,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P30",
+          "blockIndex": 0,
+          "startSeconds": 1190.32,
+          "endSeconds": 1192.64,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P30",
+          "blockIndex": 1,
+          "startSeconds": 1192.64,
+          "endSeconds": 1196.4,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P30",
+          "blockIndex": 2,
+          "startSeconds": 1196.4,
+          "endSeconds": 1197.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P30",
+          "blockIndex": 3,
+          "startSeconds": 1197.52,
+          "endSeconds": 1207.44,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P29",
+          "blockIndex": 1,
+          "notes": "Food-list first compound āmrāṇāṁ and cooked-food lines severely corrupt; vai ghṛtapācitān is a provisional intelligible reading of acoustic vaikṛtabhāṣitān and is visibly flagged across fine/coarse/targeted witnesses; ṣaḍvidha annāni retained from three independent acoustic witnesses, despite caption compacting the phrase. Other cooked-food compounds remain unresolved. Current food-list reading/meaning is explicitly provisional and must be reviewed against source, not certified exact restoration."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 31,
+      "startSeconds": 1200.0,
+      "endSeconds": 1245.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-031-transcript.json",
+      "rawTranscriptText": "प्रक्षाळनं समर्पयामि, मुखप्रक्षाळनं समर्पयामि, पादप्रक्षाळनं समर्पयामि, आचमनीयं समर्पयामि. ಗಹಣ್ಣುಕಾಯನ್ನ ನೇವೇದ್ಯಮರ್ಹಿ. बीजपूराम्र-पनस-गद्जूरी-कदलीफलं, नारिकेलफलं दिव्यं गृहाण अभीष्टदायिने. नानाविधफलानि महानैवेद्यं निवेदयामि. ವಿಳ್ಳದರೆಡಿಗೆ ಮೇಲೆ ಒಂದು ಜೊಟ್ಟು ನೀರು ಪ್ರೋಕ್ಷಣೆ ಮಾಡಿರಿ. ताम्बूलं च सकर्पूरं, भूगनागैर्दलैर्युतम्, गृहाण देव देवेशि तत्स्वरूपेण मोहितुते. ಭೂಗೀಫಲ ತಾಂಬೂಲಂ ಸಮರ್ಪಯಾಮಿ. ಒಂದು ದಕ್ಷಿಣೆ ಎನ್ನಡಿರಿ. शुभ्रं सर्वदा तूनां श्रेष्ठं देवी च तत्सदा, भक्त्या ददामि वरदे.",
+      "mappedSectionIds": [
+        "P30",
+        "P31",
+        "P32",
+        "P33"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P30",
+          "blockIndex": 3,
+          "startSeconds": 1197.52,
+          "endSeconds": 1207.44,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P31",
+          "blockIndex": 0,
+          "startSeconds": 1207.44,
+          "endSeconds": 1209.679,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P31",
+          "blockIndex": 1,
+          "startSeconds": 1209.679,
+          "endSeconds": 1220.559,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P32",
+          "blockIndex": 0,
+          "startSeconds": 1220.559,
+          "endSeconds": 1222.24,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P32",
+          "blockIndex": 1,
+          "startSeconds": 1222.24,
+          "endSeconds": 1236.24,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P33",
+          "blockIndex": 0,
+          "startSeconds": 1236.24,
+          "endSeconds": 1237.6,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P33",
+          "blockIndex": 1,
+          "startSeconds": 1237.6,
+          "endSeconds": 1251.12,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P31",
+          "blockIndex": 1,
+          "notes": "Fruit-list words āmra/panasa recovered from fine/coarse acoustic witnesses but captions compact them; kharjūrī form uncertain."
+        },
+        {
+          "sectionId": "P32",
+          "blockIndex": 1,
+          "notes": "Exact pūganāgadalairyutam and tatsvarūpe phrase remain uncertain across all ASR; retained provisional words flagged."
+        },
+        {
+          "sectionId": "P33",
+          "blockIndex": 1,
+          "notes": "bhaktyā dadāmi varade is actually repeated, corroborated by fine/coarse/captions; retained both. sarvadhātūnāṁ compound corrupted in ASR but intelligible contextual reading."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 32,
+      "startSeconds": 1240.0,
+      "endSeconds": 1285.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-032-transcript.json",
+      "rawTranscriptText": "देवी च तत्सदा, भक्त्या दधामि वरदे. भक्त्या दधामि वरदे, स्वर्णवृष्टिं च देगि मे, सुवर्णपुष्पं दक्षिणां समर्पयामि. ಮಂಗಳಾರ್ತಿಗೆ ಬತ್ತಿ ಅಥವಾ ಕರ್ಪೂರವನ್ನು ಹಚ್ಚಿಕೊಂಡು ಮಂಗಳಾರ್ತಿಯನ್ನು ಗಂಟೆ ಬಾರಿಸುತ್ತಾ ತೋರಿಸಿರಿ. ನೀ राजनं गृहाडत्वं जगदानंददायिने, जगत्तिमिरमार्ताण्ड मण्डले ते नमो नमः. नाभ्यासीदन्तरिक्षं, शीर्ष्णो द्यौः समवर्तत, पद्भ्यां भूमिर्दिशः श्रोत्रात्, तथा लोकानकल्पयन्. ಮಂಗಳ ನೀರಾಜನಂ ಸಮರ್ಪಯಾಮಿ ಅಂತ ಮಂಗಳಾರ್ತಿಯನ್ನು ತೋರಿಸಿ. ಹೂವನ್ನು ಸುತ್ತಿ ಹಾಕಿಟ್ಟು, ನೀವು ಮಂಗಳಾರ್ತಿಯನ್ನು ತೊಕೊಂಡು.",
+      "mappedSectionIds": [
+        "P33",
+        "P34"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P33",
+          "blockIndex": 1,
+          "startSeconds": 1237.6,
+          "endSeconds": 1251.12,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P34",
+          "blockIndex": 0,
+          "startSeconds": 1251.12,
+          "endSeconds": 1257.36,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P34",
+          "blockIndex": 1,
+          "startSeconds": 1257.36,
+          "endSeconds": 1278.559,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P34",
+          "blockIndex": 2,
+          "startSeconds": 1278.559,
+          "endSeconds": 1290.799,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P33",
+          "blockIndex": 1,
+          "notes": "bhaktyā dadāmi varade is actually repeated, corroborated by fine/coarse/captions; retained both. sarvadhātūnāṁ compound corrupted in ASR but intelligible contextual reading."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 33,
+      "startSeconds": 1280.0,
+      "endSeconds": 1325.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-033-transcript.json",
+      "rawTranscriptText": "ಹೂವನ್ನ ಸುತ್ತಿ ಹಾಕ್ಕೊಟ್ಟು, ನೀವು ಮಂಗಳಾರತಿನ್ ತೊಗೊಂಡು ಮನೇಲಿ ಇರೋವರಿಗೆಲ್ಲ ಮಂಗಳಾರತಿನ ಕೊಡ್ರಿ. ಕೊಟ್ಟುಟ್ಟು ಮಂಗಳಾರತಿ ತಟ್ಟೆನ ಕಳಗಿಟ್ಟುಟ್ಟು, ಹೂವು ಮಂತ್ರಾಕ್ಷತೆನ ಎಲ್ಲರೂ ಕೈಲಿ ತೊಕೊಂಬೋದು. ಶಾರದೆ ಸರ್ವಲೋಕ ಮಾತಸ್ತ್ವಂ, ಆಸ್ತೃತಾಭಿಷ್ಟದಾಯಿನಿ, ಪುಷ್ಪಾಂಜಲಿಂ ಗೃಹಾಣೇಮಾಂ ಮಯಾ ಭಕ್ತ್ಯಾಸಮರ್ಪಿತಾಂ. ಹಾಗೆಂತ ಹೂವು ಮಂತ್ರಾಸ್ತೆನ ಹಾಕ್ರಿ. ಹಾಕಿಟ್ಟು ಮಂತು ಹೂವು ಮಂತ್ರಾಸ್ತೆಗೆಲಿ ತೊಗೊಂಡು ಪ್ರದಕ್ಷಿಣೆ ಮಾಡ್ರಿ. ಯಾನಿಕಾನಿ ಚ ಪಾಪಾನಿ ಜನ್ಮಾಂತರಕೃತಾನಿ ಚ, ತಾನಿ ತಾನಿ ವಿನಶ್ಯಂತಿ ಪ್ರದಕ್ಷಿಣಪದೇ ಪದೇ, ಸಪ್ತಾಸ್ಯಾನ್ ಪ್ರದಕ್ಷಿಣಃ, ತ್ರಿಸಪ್ತಃ ಸಮಿತಃ ಕೃತಾ.",
+      "mappedSectionIds": [
+        "P34",
+        "P35",
+        "P36"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P34",
+          "blockIndex": 2,
+          "startSeconds": 1278.559,
+          "endSeconds": 1290.799,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P35",
+          "blockIndex": 0,
+          "startSeconds": 1290.799,
+          "endSeconds": 1293.84,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P35",
+          "blockIndex": 1,
+          "startSeconds": 1293.84,
+          "endSeconds": 1304.72,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P35",
+          "blockIndex": 2,
+          "startSeconds": 1304.72,
+          "endSeconds": 1307.2,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P36",
+          "blockIndex": 0,
+          "startSeconds": 1307.2,
+          "endSeconds": 1312.0,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P36",
+          "blockIndex": 1,
+          "startSeconds": 1312.0,
+          "endSeconds": 1352.24,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": []
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 34,
+      "startSeconds": 1320.0,
+      "endSeconds": 1365.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-034-transcript.json",
+      "rawTranscriptText": "ಸಪ್ತಾಸ್ಯಾಸನ್ ಪರಿಧಯಃ, ತ್ರಿಸಪ್ತ ಸಮಿಧಃ ಕೃತಾಃ. ದೇವಾ ಯತ್ ಯಜ್ಞಂ ತನ್ವಾನಾ, ಅಬಧ್ನನ್ ಪುರುಷಂ ಪಶುಂ. ಪಾಹಿ ಪಾಹಿ, ಜಗದ್ವಂದ್ಯೇ, ನಮಸ್ತೇ ಭಕ್ತವತ್ಸಲೆ. ನಮಸ್ತುಭ್ಯಂ, ನಮಸ್ತುಭ್ಯಂ, ನಮಸ್ತುಭ್ಯಂ ನಮೋ ನಮಃ. ಯಜ್ಞೇನ ಯಜ್ಞಮಯಜಂತ ದೇವಾಃ, ತಾನಿ ಧರ್ಮಾಣಿ ಪ್ರಥಮಾನ್ಯಾಸನ್. ತೇ ಹ ನಾಕಂ ಮಹಿಮಾನಃ ಸಚಂತೇ. ಯತ್ರ ಪೂರ್ವೇ ಸಾಧ್ಯಾಃ ಸಂತಿ ದೇವಾಃ. ಎಂದು ಪ್ರದಕ್ಷಿಣ ಮಾಡಿ ನಮಸ್ಕಾರವನ್ನ ಮಾಡಿ, ಮಾಡುತ್ತು ಎಲ್ಲರೂ ಮನೆಯಲ್ಲಿರೋ, ಮಕ್ಕಳು ಎಲ್ಲರೂ ಸೇರಿ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡೋದು. ಹೂ ಮಂತ್ರ ಅಸ್ತುಕೊಂಡು ಹೇಳಿರಿ. ಪಾಶಾಂ ಕುಶಾ, ಪಾಶಾಂ...",
+      "mappedSectionIds": [
+        "P36",
+        "P37"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P36",
+          "blockIndex": 1,
+          "startSeconds": 1312.0,
+          "endSeconds": 1352.24,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P36",
+          "blockIndex": 2,
+          "startSeconds": 1352.24,
+          "endSeconds": 1354.88,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P37",
+          "blockIndex": 0,
+          "startSeconds": 1354.88,
+          "endSeconds": 1361.679,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P37",
+          "blockIndex": 1,
+          "startSeconds": 1361.679,
+          "endSeconds": 1455.84,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P37",
+          "blockIndex": 1,
+          "notes": "Initial pāśāṅkuśa prompt repeated before full line, retained both. yathā na/brahmā lokapitāmahaḥ, tvayā/tathā and etābhiḥ pāhi tanubhiḥ lexical links uncertain in phonetic ASR; meaning is provisional specific Sanskrit interpretation. dhṛtiḥ preserved as actually heard rather than substituting another standard list. sit amapi śukaṁ (parrot) versus śuklaṁ (white) remains an exact lexical uncertainty in the second line; current literal reading not presented as definitive iconography. Third-line samānā and compound pronunciation uncertain; preserved rather than replaced from an alternate verse."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 35,
+      "startSeconds": 1360.0,
+      "endSeconds": 1405.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-035-transcript.json",
+      "rawTranscriptText": "ಮಂತ್ರಾಸ್ತುಕೊಂಡು ಹೇಳಿರಿ. पाशां कुशा, पाशां कुशा, दरावाणी, वीणापुस्तक, धारिणी, मम वक्त्रे वसेत् नित्यं, दुग्ध कुन्देन्दु निर्मला, यतान देवि भगवान् ब्रह्मलोक पितामहः, त्वां परित्यज्य सन्तिष्ठेत् तता भव वरप्रदा, वेदाः शास्त्राणि सर्वाणि नृत्य गीतादिकं च यत्, न विहीनं वया मातः ततामे सन्तु सिद्धयः.",
+      "mappedSectionIds": [
+        "P37"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P37",
+          "blockIndex": 0,
+          "startSeconds": 1354.88,
+          "endSeconds": 1361.679,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P37",
+          "blockIndex": 1,
+          "startSeconds": 1361.679,
+          "endSeconds": 1455.84,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P37",
+          "blockIndex": 1,
+          "notes": "Initial pāśāṅkuśa prompt repeated before full line, retained both. yathā na/brahmā lokapitāmahaḥ, tvayā/tathā and etābhiḥ pāhi tanubhiḥ lexical links uncertain in phonetic ASR; meaning is provisional specific Sanskrit interpretation. dhṛtiḥ preserved as actually heard rather than substituting another standard list. sit amapi śukaṁ (parrot) versus śuklaṁ (white) remains an exact lexical uncertainty in the second line; current literal reading not presented as definitive iconography. Third-line samānā and compound pronunciation uncertain; preserved rather than replaced from an alternate verse."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 36,
+      "startSeconds": 1400.0,
+      "endSeconds": 1445.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-036-transcript.json",
+      "rawTranscriptText": "वया मातः ततामे सन्तु सिद्धयः। लक्ष्मीर् मेधा तरा पुष्टिः धृतिः तुष्टिः प्रभा मतिः। एताभिः पाहि भिः धनुभिः अष्टाभिर्मां सरस्वती। सरस्वती नमस्तुभ्यं वरदे कामरूपिणि। विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा। जोर्बिर् युक्ता च दृग्बिस् पटिकमणिमयीम् अक्षमालां ददाना। हस्तेनैकेन पद्मं सितमपि शुकां पुस्तकं चापरेण। भाषागुंतेन्दु…",
+      "mappedSectionIds": [
+        "P37"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P37",
+          "blockIndex": 1,
+          "startSeconds": 1361.679,
+          "endSeconds": 1455.84,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P37",
+          "blockIndex": 1,
+          "notes": "Initial pāśāṅkuśa prompt repeated before full line, retained both. yathā na/brahmā lokapitāmahaḥ, tvayā/tathā and etābhiḥ pāhi tanubhiḥ lexical links uncertain in phonetic ASR; meaning is provisional specific Sanskrit interpretation. dhṛtiḥ preserved as actually heard rather than substituting another standard list. sit amapi śukaṁ (parrot) versus śuklaṁ (white) remains an exact lexical uncertainty in the second line; current literal reading not presented as definitive iconography. Third-line samānā and compound pronunciation uncertain; preserved rather than replaced from an alternate verse."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 37,
+      "startSeconds": 1440.0,
+      "endSeconds": 1485.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-037-transcript.json",
+      "rawTranscriptText": "तमापि स्याच्छुकां पुस्तकं चापरेण। भाषा गुन्तेन्तु संकष्पटिकमणिनिभा भासमाना समाना। सामे वाग्देवतेयं निवसतु वदने सर्वदा सुप्रसन्ना। प्रार्थनां समर्पयामि इन्तः पू मंत्रस्तेन हा कुटु। मंत्रास्ते बलदकैलैकिण्डु, मूरुद्दरेने नीरन्न बलदकैल हाकि। अस्य स्मृत्याजनामुक्त्या तपः पूजाक्रियादहं, ज्ञानं संपूर्णदाम्यात् शुद्धोवन्त्यतमक्षतम्। मंत्रहीनं क्रियाहीनं भक्तिहीनं रमापते, यत् पूजितं मया देव परिपूर्णं तदस्तु ते। अनेन नवरात्र्यां सरत्रितौ नवरात्र्यां महोत्सवे आचरित सरस्वती पूजनेन सरस्वत्यन्तर्गत भगवान् भारती…",
+      "mappedSectionIds": [
+        "P37",
+        "P38"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P37",
+          "blockIndex": 1,
+          "startSeconds": 1361.679,
+          "endSeconds": 1455.84,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P37",
+          "blockIndex": 2,
+          "startSeconds": 1455.84,
+          "endSeconds": 1460.08,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P38",
+          "blockIndex": 0,
+          "startSeconds": 1460.08,
+          "endSeconds": 1470.789,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P38",
+          "blockIndex": 1,
+          "startSeconds": 1464.799,
+          "endSeconds": 1489.039,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P37",
+          "blockIndex": 1,
+          "notes": "Initial pāśāṅkuśa prompt repeated before full line, retained both. yathā na/brahmā lokapitāmahaḥ, tvayā/tathā and etābhiḥ pāhi tanubhiḥ lexical links uncertain in phonetic ASR; meaning is provisional specific Sanskrit interpretation. dhṛtiḥ preserved as actually heard rather than substituting another standard list. sit amapi śukaṁ (parrot) versus śuklaṁ (white) remains an exact lexical uncertainty in the second line; current literal reading not presented as definitive iconography. Third-line samānā and compound pronunciation uncertain; preserved rather than replaced from an alternate verse."
+        },
+        {
+          "sectionId": "P38",
+          "blockIndex": 0,
+          "notes": " Last water instruction and first completion verse share native event1464.799–1470.789; exact intra-event partition unresolved."
+        },
+        {
+          "sectionId": "P38",
+          "blockIndex": 1,
+          "notes": "First completion verse is phonetic reconstruction supported by fine/coarse/targeted acoustic words; exact yasya/sadyo sentence remains review flagged. Recorded repetition navarātryāṁ/śarad navarātri retained; final Vyāsa–Paraśurāma form not replaced with generic deity. Last water instruction and first completion verse share native event1464.799–1470.789; exact intra-event partition unresolved."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 38,
+      "startSeconds": 1480.0,
+      "endSeconds": 1525.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-038-transcript.json",
+      "rawTranscriptText": "ಆ ಚರಿತೆ ಸರಸ್ವತೀ ಪೂಜನೆಯನೆ ಸರಸ್ವತ್ಯಂತರ್ಗತ ಭಗವಾನ್ ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣಾಂತರ್ಗತ ಶ್ರೀ ವ್ಯಾಸ ಪರಶುರಾಮ ಪ್ರಿಯತಾಂತ. ನೀರಾಕಿನ್ ಬಿಟ್ಟುಡ್ರಿ. ಶ್ರೀ ಕೃಷ್ಣಾರ್ಪಣಮಸ್ತು. ಮೂರನೇ ದಿನ ಬಲಿದಾನ ಅಂತ ಹೇಳಿದ್ರಿ. ಬಲಿದಾನ ಅಂದ್ರೆ ಏನ್ ಮಾಡಬೇಕು? ಬೆಳಿಗೆ ಮೂರನೇ ದಿನ ಅಂದ್ರೆ ಬುಧವಾರ ಬೆಳಿಗೆ ಪುನರ್ಪೂಜೆಯನ್ನು ಪಂಚೋಪಚಾರ ಪೂಜೆ ಮಾಡಿ, ನೈವೇದ್ಯಗಳನ್ನ ಮಾಡ್ರಿ. ಸಂಜೆ ಮನೆಯಲ್ಲಿ ಇರುವ ನಮ್ಮ ಆಯುಧಗಳು, ಮನೆಯಲ್ಲಿ ಉಪಯೋಗಿಸುವ ಗಾಡಿ, ಅಡಿಗೆ ಮಾಡುವ ಪಾತ್ರೆಗಳು, ಸ್ಟವ್ ಇದೆಲ್ಲ ಒರಸಿ ಗಂಧಾಕ್ಷತ ಬೊಟ್ಟಲ್ಲ ಇಟ್ಟು, ಅವಿಲಿಕ್ಕಿ...",
+      "mappedSectionIds": [
+        "P38",
+        "P39"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P38",
+          "blockIndex": 1,
+          "startSeconds": 1464.799,
+          "endSeconds": 1489.039,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P38",
+          "blockIndex": 2,
+          "startSeconds": 1489.039,
+          "endSeconds": 1491.039,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P38",
+          "blockIndex": 3,
+          "startSeconds": 1491.039,
+          "endSeconds": 1493.19,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P39",
+          "blockIndex": 0,
+          "startSeconds": 1495.679,
+          "endSeconds": 1537.52,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P38",
+          "blockIndex": 1,
+          "notes": "First completion verse is phonetic reconstruction supported by fine/coarse/targeted acoustic words; exact yasya/sadyo sentence remains review flagged. Recorded repetition navarātryāṁ/śarad navarātri retained; final Vyāsa–Paraśurāma form not replaced with generic deity. Last water instruction and first completion verse share native event1464.799–1470.789; exact intra-event partition unresolved."
+        },
+        {
+          "sectionId": "P39",
+          "blockIndex": 0,
+          "notes": "Wednesday is the historical third-day example from2025 recording, not a current-week instruction. ಕಡಲೆ/ಕಳ್ಳೆ is retained generically as gram; exact variety not invented."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 39,
+      "startSeconds": 1520.0,
+      "endSeconds": 1565.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-039-transcript.json",
+      "rawTranscriptText": "ಭೂತಕಲ್ಲ ಒರಸಿ ಗಂಧಾಕ್ಷತ ಬೊಟ್ಟಲ್ಲ ಇಟ್ಟು, ಅವಿಲಿಕ್ಕಿ, ಕಳ್ಳೆ, ಸಕ್ಕರೆ, ಬಾಳೆಹಣ್ಣು, ಇದನ್ನೆಲ್ಲ ಒಂದು ಎಲೆಯಲ್ಲಿ ಹಾಕಿ, ಅಸರಸ್ವತೀ ದೇವಿಯ ಮುಂದ್ಗಡೆ ಇಟ್ಟು, ನೇವೇದ್ಯವನ್ನು ಮಾಡಿ. ಅದೇನೆಲ್ಲ ಇಟ್ಟಿಗಿದ್ರಿ ಪಂಚಕಾದ್ಯ ಅಂತ ಹೇಳ್ತಾರೆ. ಪಂಚಕಾದ್ಯ ಅಂದ್ರೆ ಕಡಲೆ... ಕಳ್ಳೆವೇಳೆ ಅನ್ನ ಹುರಿಕು, ಚನ್ನಾ ಅಂದ್ರೆ ಕಡಲೆ... ಕಳ್ಳೆಬೇಳೆಯನ್ನು ಹುರ್ಕೊಳ್ಳೋದು, ಅದನ್ನ ಪುಡಿ ಮಾಡಿಕೊಳ್ಳೋದು, ಅದನ್ನಲ್ಲಿ ತೆಂಗಿನಕಾಯಿನ ತುರಿದು ಹಾಕೋದು, ಸಕ್ಕರೆ ಸೇರ್ಕೋದು, ಏಲಕ್ಕಿ ಮತ್ತು ಈ ಕರಿ ಎಳ್ಳುದೆ ನೋಡ್ರಿ, ಕರಿ ಎಳ್ಳನ್ನ ಹುರಿದು ಅದನ್ನಲ್ಲಿ ಹಾಕಿ ಸ್ವಲ್ಪ ತುಪ್ಪವನ್ನ ಹಾಕಿ ಮಿಶ್ರ ಮಾಡ್ರಿ. ಇದು ಪಂಚಕಾದ್ಯ ಅಂತ ಇದಕ್ಕೆ ಸರು. ಇದನ್ನ ನೇವೇದ್ಯ ಮಾಡಬೇಕು. ಅವಿಲಿಕ್ಕಿ, ಸಕ್ಕರೆ...",
+      "mappedSectionIds": [
+        "P39",
+        "P40",
+        "P41"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P39",
+          "blockIndex": 0,
+          "startSeconds": 1495.679,
+          "endSeconds": 1537.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P40",
+          "blockIndex": 0,
+          "startSeconds": 1537.52,
+          "endSeconds": 1561.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P41",
+          "blockIndex": 0,
+          "startSeconds": 1561.52,
+          "endSeconds": 1602.64,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P39",
+          "blockIndex": 0,
+          "notes": "Wednesday is the historical third-day example from2025 recording, not a current-week instruction. ಕಡಲೆ/ಕಳ್ಳೆ is retained generically as gram; exact variety not invented."
+        },
+        {
+          "sectionId": "P40",
+          "blockIndex": 0,
+          "notes": "Restarts/repetition around gram and mix retained; recipe is the speaker’s description, not an independently standardized replacement."
+        },
+        {
+          "sectionId": "P41",
+          "blockIndex": 0,
+          "notes": "The repeated bali explanation and fragment “through the bali” retained rather than compacted into a single instruction."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 40,
+      "startSeconds": 1560.0,
+      "endSeconds": 1605.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-040-transcript.json",
+      "rawTranscriptText": "ಇದನ್ನನೇವೇದ್ಯ ಮಾಡಬೇಕು. ಅವಿಲಿಕ್ಕಿ, ಸಕ್ಕರೆ, ಕಳ್ಳೆಗಳು, ದನಲ್ಲ, ಎಲ್ಲ ಎಲ್ಲ ಹಾಕಿ, ಬೆಲ್ಲದ ಲಡಿಕೆ ಬಾಳೆಹಣ್ಣಲ್ಲಿಟ್ಟು, ಅದನ್ನ ನೈವೇದ್ಯ ಮಾಡೋದೇ ಬಲಿದಾನ ಬೇರೆನಿಲ್ಲ. ಮಾಡಿ ನಮಗೆ ಮಂಗಳಾರ್ತಿಯನ್ನೆಲ್ಲ ಮಾಡಿ, ಮನೆಯಲ್ಲಿ ಇರುವ ಎಲ್ಲ ಆಯುಧಗಳು, ಗಾಡಿ, ಬಂಡಿ ಎಲ್ಲತ್ತಿಗೂ ಕೂಡ ಮಂಗಳಾರ್ತಿಯನ್ನು ಮಾಡಿ. ಮಂಗಳಾರ್ತಿಯನ್ನು ಮಾಡಿ ಮುಗಿಸಿ, ಇದು ಸಂಜೆ ಇದುವೇ ಬಲಿದಾನ. ಬಲಿದಾನ ಮಾಡಿ ಮಂಗಳಾರ್ತಿ ಮಾಡಿದ್ರಿಂದ ಇದು ಬಲಿದಾನ ವರಿಗೂ ಸರಸ್ವತಿ ಬಲಿದಾನ, ಎರಡನ್ನೂ ಮೂರ್ನೇ ದಿನ ಮಾಡಬೇಕಾದ ಕರ್ತವ್ಯಗಳನ್ನು ಕೂಡ ಇದರಲ್ಲಿ ಕೊಟ್ಟಿದ್ದೇವೆ. ನೆಕ್ಸ್ಟ್ ವಿಜಯದಶಮಿಯ ಆಚರಣೆ ಏನು ಮಾಡು...",
+      "mappedSectionIds": [
+        "P40",
+        "P41",
+        "P42"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P40",
+          "blockIndex": 0,
+          "startSeconds": 1537.52,
+          "endSeconds": 1561.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P41",
+          "blockIndex": 0,
+          "startSeconds": 1561.52,
+          "endSeconds": 1602.64,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P42",
+          "blockIndex": 0,
+          "startSeconds": 1602.64,
+          "endSeconds": 1613.763628,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P40",
+          "blockIndex": 0,
+          "notes": "Restarts/repetition around gram and mix retained; recipe is the speaker’s description, not an independently standardized replacement."
+        },
+        {
+          "sectionId": "P41",
+          "blockIndex": 0,
+          "notes": "The repeated bali explanation and fragment “through the bali” retained rather than compacted into a single instruction."
+        }
+      ]
+    },
+    {
+      "pass": "gpt-fine",
+      "chunkIndex": 41,
+      "startSeconds": 1600.0,
+      "endSeconds": 1613.764,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt-fine/original-part-041-transcript.json",
+      "rawTranscriptText": "ನೋ, ಕೂಡ ಇದನಲ್ಲಿ ಕೊಟ್ಟಿದ್ದೇವೆ. ನೆಕ್ಸ್ಟ್ ವಿಜಯದಶಮಿಯ ಆಚರಣೆ ಏನು ಮಾಡಬೇಕು, ಹಾಗೂ ಸರಸ್ವತಿಯ ವಿಸರ್ಜನ ಏನುಂಬೋದನ್ನ ಮುಂದೆ ಬರುವ ವೀಡಿಯೋನಲ್ಲಿ ಕೊಡ್ತೇವೆ. ಧನ್ಯವಾದ.",
+      "mappedSectionIds": [
+        "P41",
+        "P42"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P41",
+          "blockIndex": 0,
+          "startSeconds": 1561.52,
+          "endSeconds": 1602.64,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P42",
+          "blockIndex": 0,
+          "startSeconds": 1602.64,
+          "endSeconds": 1613.763628,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P41",
+          "blockIndex": 0,
+          "notes": "The repeated bali explanation and fragment “through the bali” retained rather than compacted into a single instruction."
+        }
+      ]
+    },
+    {
+      "pass": "gpt",
+      "chunkIndex": 1,
+      "startSeconds": 0.0,
+      "endSeconds": 180.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt/original-part-001-transcript.json",
+      "rawTranscriptText": "ಸರಸ್ವತಿಯ ಆವಾಹನ ಪೂಜೆಯನ್ನು ಮೂಲ ನಕ್ಷತ್ರದ ದಿನ ಮಾಡಿದ್ದೇವೆ. ಇವತ್ತು ಸರಸ್ವತಿಯ ಪೂಜೆ. ಬೆಳಿಗ್ಗೆ ನಿಮ್ಮ ಅನುಷ್ಠಾನಗಳೆಲ್ಲ ಮುಗಿಸಿ ದೇವರ ಪೂಜೆಯನ್ನು ಪೂರ್ಣವಾಗಿ ಮುಗಿಸಿ. ಪೂರ್ವಾಭಿಮುಖ, ಅಂದರೆ ಈಸ್ಟ್ ಫೇಸಿಂಗ್ ಅಥವಾ ಉತ್ತರಾಭಿಮುಖ, ನಾರ್ತ್ ಫೇಸಿಂಗ್ ಆಗಿ ಕೂತು ಮತ್ತೆ ಆಚಮನ ಮಾಡಿರಿ. ಪೂಜೆಗೆ ಬೇಕಾಗಿರೋ ವಸ್ತುಗಳು, ನಿನ್ನೆ ಹೇಳಿದಂತೆ ಅಷ್ಟನಾಗುಂಕುಮ, ಗಂಧ, ಮಂತ್ರಾಕ್ಷತೆ, ಗಜವಸ್ತ್ರ, ವಿಳ್ಯದಲೆ, ಅಡಿಕೆ, ಹಣ್ಣು, ತೆಂಗಿನಕಾಯಿ, ಹೂವುಗಳು, ಊತುಕಟ್ಟಿ, ಕರ್ಪೂರ, ಆರತಿ ತಟ್ಟೆ, ವಸ್ತ್ರ ಇತ್ಯಾದಿಗಳು ಇದನ್ನೆಲ್ಲ ತೆಗೆದಿಟ್ಟುಕೊಳ್ಳಿ. ಹಾಲು, ಮೊಸರು, ಜೇನು. ಹಾಲು ವ್ರತ, ಮೊಸರು ಜೇನು ತುಪ್ಪ ಮಧುಬರ್ಗಕ್ಕೆ, ಮೊಸರು ಜೇನು ತುಪ್ಪ ಸಕ್ಕರೆ ಪಂಚಾಮೃತ. ಇದನ್ನ ತಗೆದಿಟ್ಟುಕೊಂಡು, ಎಲ್ಲವನ್ನ ಸಿದ್ಧಪಡಿಸಿಟ್ಟುಕೊಂಡು ದೀಪವಲ್ಲ ಹಚ್ಚಿ. ಇವತ್ತು ಮಕ್ಕಳ ಸ್ಕೂಲ್ ಪುಸ್ತಕಗಳೆಲ್ಲ ಅದನ್ನೂ ಸಗಿತ ಇಟ್ಟು ಪೂಜೆಯನ್ನು ಮಾಡಬೇಕು. ಆಚಮನ. ಕೇಶವಾಯ ಸ್ವಾಹಾ, ನಾರಾಯಣಾಯ ಸ್ವಾಹಾ, ಮಾಧವಾಯ ಸ್ವಾಹಾ, ಗೋವಿಂದಾಯ ನಮಃ, ವಿಷ್ಣವೇ ನಮಃ, ಮಧುಸೂದನಾಯ ತ್ರಿವಿಕ್ರಮಾಯ ವಾಮನಾಯ ಶ್ರೀಧರಾಯ, ಹೃಷೀಕೇಶಾಯ ಪದ್ಮನಾಭಾಯ ದಾಮೋದರಾಯ ಸಂಕರ್ಷಣಾಯ ವಾಸುದೇವಾಯ, ಪ್ರದ್ಯುಮ್ನಾಯ ನಿರುದ್ಧಾಯ ಪುರುಷೋತ್ತಮಾಯ, ಅಧೋಕ್ಷಜಾಯ ನಾರಸಿಂಹಾಯ, ಅಚ್ಯುತಾಯ ಜನಾರ್ದನಾಯ ಉಪೇಂದ್ರಾಯ, ಹರಯೇ ನಮಃ, ಶ್ರೀಕೃಷ್ಣಾಯ ನಮಃ. ಪ್ರಾಣಾಯಾಮ, ಮುಗನ್ನು ಅಡುಕೊಳ್ಳೋದು. ಪ್ರಣವಶ್ಚ ಪರಬ್ರಹ್ಮ ಋಷಿಃ ಪರಮಾತ್ಮಾ ದೇವತಾ, ದೇವೀ ಗಾಯತ್ರೀ ಛಂದಃ, ಪ್ರಾಣಾಯಾಮೇ ವಿನಿಯೋಗಃ, ಓಂ ಭೂಃ. ॐ भुवः, शुभः, महः, जनः, तपः, सत्यम्। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि, धियो यो नः प्रचोदयात्। ॐ आपो ज्योती रसोऽमृतं ब्रह्म, भूर्भुवः स्वः। ॐ। ಎಡಗೈಯಲ್ಲಿ ಸ್ವಲ್ಪ ಮಂತ್ರಾಸ್ತ್ರೇನ ಹಾಕಿ, ಎಡಗೈ ಮೇಲೆ ಬಲಗೈಯನ್ನು ಮುಚ್ಚಿಟ್ಟುಕೊಂಡು, ಬಲದು ತೊಡೆಯಲ್ಲಿ ಇಟ್ಟುಕೊಂಡು ಸಂಕಲ್ಪವನ್ನು ಮಾಡಿಕೊಳ್ಳಿ. ಶುಭೇ ಶೋಭನೇ ಮುಹೂರ್ತೇ, ಆದ್ಯ ಬ್ರಹ್ಮಣಃ ದ್ವಿತೀಯ ಪರಾರ್ಧೇ, ಶ್ರೀಶ್ವೇತವರಾಹಕಲ್ಪೇ, ವೈವಸ್ವತಮನ್ವಂತರೇ, ಕಲಿಯುಗೇ, ಪ್ರಥಮಪಾದೇ ಜಂಬೂದ್ವೀಪೇ ಭಾರತವರ್ಷೇ, ಭರತಖಂಡೇ ದಂಡಕಾರಣ್ಯೇ, ಗೋದಾವರ್ಯಾಃ ದಕ್ಷಿಣಿ ಪಾರ್ಶ್ವೇ, ಶಾಲೀವಾಹನಶಕೇ, ಬೌದ್ಧಾವತಾರೇ, ರಾಮಕ್ಷೇತ್ರೇ, ಅಸ್ಮಿನ್ ವರ್ತಮಾನೇ ಪ್ರಭವಾದಿ ಷಷ್ಟಿಸಂವತ್ಸರಾಣಾಂ ಮಧ್ಯೇ ಶುಭವಿಶ್ವಾವಸು ನಾಮ ಸಂವತ್ಸರೇ, ದಕ್ಷಿಣಾಯನೇ, ಶರದೃತೌ, ಆಶ್ವೀಜ ಮಾಸೇ, ಶುಕ್ಲಪಕ್ಷೇ, ಅಷ್ಟಮ್ಯಾಂ ವಾಸರಃ, ವಾಸರಸ್ತು ಭೌಮವಾಸರಯುಕ್ತಾಯಾಂ, ಪೂರ್ವಾಷಾಢಾ ನಕ್ಷತ್ರಯುಕ್ತಾಯಾಂ, ಶುಭನಕ್ಷತ್ರೇ, ಶುಭಯೋಗೇ, ಶುಭಕರಣೇ, ಏವಂ ಗುಣ ಸಕಲ ವಿಶೇಷಣ ವಿಶಿಷ್ಟಾಯಾಂ ಶುಭತಿಥೌ.",
+      "mappedSectionIds": [
+        "P01",
+        "P02",
+        "P03",
+        "P04"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P01",
+          "blockIndex": 0,
+          "startSeconds": 1.68,
+          "endSeconds": 75.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P02",
+          "blockIndex": 0,
+          "startSeconds": 75.52,
+          "endSeconds": 77.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P02",
+          "blockIndex": 1,
+          "startSeconds": 77.52,
+          "endSeconds": 103.119,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P03",
+          "blockIndex": 0,
+          "startSeconds": 103.119,
+          "endSeconds": 105.36,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P03",
+          "blockIndex": 1,
+          "startSeconds": 105.36,
+          "endSeconds": 128.0,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 0,
+          "startSeconds": 128.0,
+          "endSeconds": 135.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 1,
+          "startSeconds": 135.52,
+          "endSeconds": 190.239,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P01",
+          "blockIndex": 0,
+          "notes": "Ingredient lists repeated/partially restarted as spoken. Exact word after second milk mention uncertain across GPT/captions; no fifth ingredient silently added to the spoken four-item pañcāmṛta list. Historical earlier Mula day belongs to recording."
+        },
+        {
+          "sectionId": "P02",
+          "blockIndex": 1,
+          "notes": "Short names after first three retained as heard; not expanded into unspoken full datives."
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 1,
+          "notes": "Year Viśvāvasu recovered directly by independent targeted149–165 acoustic transcription, resolving the fine ASR/caption corruption. Recorded place/date must not become current date instructions."
+        }
+      ]
+    },
+    {
+      "pass": "gpt",
+      "chunkIndex": 2,
+      "startSeconds": 170.0,
+      "endSeconds": 350.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt/original-part-002-transcript.json",
+      "rawTranscriptText": "पूर्वाषाढा नक्षत्रेक्तायां शुभ नक्षत्रे शुभ योगे शुभ करणे ईवं गुणे सकल विशेषेण विशिष्टायां शुभतिथौ भारती रमण मुख्य प्राण अन्तर्गत श्री सरस्वत्यन्तर्गत श्री वेदव्यास प्रेरणया, श्री वेदव्यास प्रीत्यर्थं. मम, ... सर्व शास्त्र, अर्थ, विज्ञान आदि सर्व अभीष्ट सिद्धि द्वारा सरस्वती अन्तर्गत भारती रमण मुख्य प्राण अन्तर्गत श्री वेदव्यास प्रेरणया, वेदव्यास प्रीत्यर्थं, सरस्वती आत्मक श्री वेदव्यास पूजां नवरात्रि उत्सवाङ्ग अष्टम्यां दिवसे सरस्वती पूजां तं मन्त्रास्ते निराकृत्य पेलालि. करिष्ये. मन्त्रास्तेन तोकೊಂಡु निन्न पूज माडिरುವ पुस्तक मण्डलक्के मत्तु पूजेन माडि, कपिलाय नमः, कपिलम्मावागेयामी. दत्तात्रेयाय नमः, दत्तात्रेयम्मावागेयामी. हयग्रीवाय नमः, हयग्रीवम्मावागेयामी. ॐ रामाय नमः, रामम्मावागेयामी. ॐ कृष्णाय नमः, कृष्णम्मावागेयामी. ॐ परशुरामाय नमः, परशुरामम्मावागेयामी. वेदव्यासाय नमः, वेदव्यासम् आवागेयामी. नारायणाय नमः, नारायणम्मावागेयामी. श्रीयै महालक्ष्म्यैम्मावागेयामी. भूदेव्यैम्मावागेयामी. दुर्गाम् आवागेयामी. मुख्य प्राणम्मावागेयामी. सरस्वतीम्मावागेयामी. भारतीम्मावागेयामी. मन्त्रास्तेन हाक्ता बंद्री. भारतीम्मावागेयामी. शेषम्मावागेयामी. रुद्रम्मावागेयामी. पार्वतीम्मावागेयामी. विनायकम्मावागेयामी. सकल ऋषि गणान् सिद्ध पुरुषान् मुनि गणान् आवागेयामी. ಅಂತ್ರಾಸ್ತೇನ ತೊಗೊಂಡು ನಮ್ಮ ಆಚಾರ್ಯರ್ಗಳು. ಅಬ್ರಹ್ಮಂ ಬಂಗರಗಿತಂ, ಅಜನಂ ವಿಮಲಂ ಶತಾ, ಆನಂದತೀರ್ಥಮದುಲಂ ಭಜೇ ತಾಪತ್ರಯಾಪಹಂ. ಆನಂದತೀರ್ಥ ಗುರುಂ ನಾವಾಗಯಾಮಿ. ಚಿತ್ರೇ ಪ್ರತಿಷ್ಠಗಂ ಬೀರೈ, ವಾಕ್ಕೈ ಮಾನೈರಗಂಡುದೈ, ಗುರುಬಾಂ ವಿಜ್ಞಗಿಂತಿ, ಪಾದಿ ಶ್ರೀಜೇತೀರ್ಥವಾಕು, ಜಗತೀರ್ಥ ಗುರುಂ ನಾವಾಗಯಾಮಿ. ಅತ್ತಿ ಕಲ್ಪಿತಗಳ್ ಪೋಯಂ, ಪ್ರತ್ಯರ್ಥಕ ಜಗೇಜರಿ, ವ್ಯಾಸತೀರ್ಥ ಗುರುದ್ ಭೂಯಾತ್ ಅಸ್ಮದಿಷ್ಟಾರ್ಥಸಿದ್ಧಯೇ, ವ್ಯಾಸರಾಜ ಗುರುಂ ನಾವಾಗಯಾಮಿ. ಪ್ರಣಮತ್ ಕಾಮಧೇನುಂಚ, ಭಜತ್ ಸುರತರುಪಂ, ಶ್ರೀಭಾವಬೋಧಕ ಪಾದಂ ಚಿಂತಾಮಣಿಪ್ವಾಸ್ಮಹೇ, ರಘೂತ್ತಮತೀರ್ಥ ಗುರುಂ ನಾವಾಗಯಾಮಿ. ಧ್ರುವಾದಿ ದ್ವಾಂತರವಯೇ ವೈಷ್ಣವೇಂದೀವರೇಂದ್ರವೇ, ಶ್ರೀರಾಘವೇಂದ್ರ ಗುರುಭೇ ನಮೋಸ್ತು ಅಧ್ಯಂತ ದಯಾಲವೇ, ಶ್ರೀರಾಘವೇಂದ್ರ ಗುರುಂ ಆವಾಹಯಾಮಿ. ಆನಂದತೀರ್ಥಾದಿ ಸಮಸ್ತ ಗುರುಮಂಡಲ ದೇವತಾನಾವಾಹಯಾಮಿ, ಸ್ಥಾಪಯಾಮಿ, ಪೂಜಯಾಮಿ, ನಮಃ. ಈಗ ಮತ್ತು ಹೂ ಮಂತ್ರ ಸ್ತೋತ್ರ. ಅತ್ರಾಗತ್ಯ ಜಗದ್ವಂದ್ಯೇ, ಸರ್ವಲೋಕೈಕ ಪೂಜಿತೇ, ಮಯಾ ಕೃತಾಂ ಇಮಾಂ ಪೂ...",
+      "mappedSectionIds": [
+        "P04",
+        "P05",
+        "P06",
+        "P07"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P04",
+          "blockIndex": 1,
+          "startSeconds": 135.52,
+          "endSeconds": 190.239,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 2,
+          "startSeconds": 190.239,
+          "endSeconds": 191.04,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 3,
+          "startSeconds": 191.04,
+          "endSeconds": 219.599,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 4,
+          "startSeconds": 219.599,
+          "endSeconds": 221.68,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 5,
+          "startSeconds": 221.68,
+          "endSeconds": 224.319,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P05",
+          "blockIndex": 0,
+          "startSeconds": 224.319,
+          "endSeconds": 229.68,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P05",
+          "blockIndex": 1,
+          "startSeconds": 229.68,
+          "endSeconds": 267.04,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P05",
+          "blockIndex": 2,
+          "startSeconds": 267.04,
+          "endSeconds": 269.919,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P05",
+          "blockIndex": 3,
+          "startSeconds": 269.919,
+          "endSeconds": 283.759,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P06",
+          "blockIndex": 0,
+          "startSeconds": 283.759,
+          "endSeconds": 286.479,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P06",
+          "blockIndex": 1,
+          "startSeconds": 286.479,
+          "endSeconds": 340.72,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P07",
+          "blockIndex": 0,
+          "startSeconds": 340.72,
+          "endSeconds": 342.72,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P07",
+          "blockIndex": 1,
+          "startSeconds": 342.72,
+          "endSeconds": 357.28,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P04",
+          "blockIndex": 1,
+          "notes": "Year Viśvāvasu recovered directly by independent targeted149–165 acoustic transcription, resolving the fine ASR/caption corruption. Recorded place/date must not become current date instructions."
+        },
+        {
+          "sectionId": "P04",
+          "blockIndex": 3,
+          "notes": "The Sanskrit object is interrupted by the water instruction before final kariṣye, preserved below."
+        },
+        {
+          "sectionId": "P05",
+          "blockIndex": 1,
+          "notes": "mukhya recovered from independent coarse acoustic witness; fine bhoktya/caption corruption retained in provenance, not discarded."
+        },
+        {
+          "sectionId": "P05",
+          "blockIndex": 3,
+          "notes": "Bhāratī invocation repeated across real Kannada interruption; preserve both occurrences. Collective singular/plural endings differ in acoustic ASR."
+        },
+        {
+          "sectionId": "P06",
+          "blockIndex": 1,
+          "notes": "Raw first-line acoustic ASR ಅಬ್ರಹ್ಮಂ ಬಂಗರಗಿತಂ ಅಜನಂ ವಿಮಲಂ ಶತ retained in guru-open-transcript.json; abhramaṁ (free of error) and ajaḍaṁ (not inert) are corrected display readings supported by primary-book parallel and this recording’s phonetics, still review flagged. Guru verses carry corrupted exact words in both witnesses: first abhramaṁ/ajaḍaṁ/bhaṅgarahitaṁ, Jayatīrtha citraiḥ padaiśca/bhāti corrected from fine phonetics and official Sri Vyasaraja Matha charamaśloka text; Raghūttama ca and bhajatsuratarūpamam recovered against phonetic witnesses and primary Sanskrit-book parallel. Vyāsatīrtha arthikalpitakalpo’yaṁ replaces acoustic attikalpitakalpo’yaṁ with visible review note. These are explicit corrections, not a claim of direct human listening. Do not claim verified standard restoration."
+        }
+      ]
+    },
+    {
+      "pass": "gpt",
+      "chunkIndex": 3,
+      "startSeconds": 340.0,
+      "endSeconds": 520.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt/original-part-003-transcript.json",
+      "rawTranscriptText": "ಇಗ ಮತ್ತು ಹೂ ಮಂತ್ರ ಸ್ತುತಿ ತೊಗೊಳ್ರಿ. ಅತ್ರಾಗತ್ಯ ಜಗದ್ವಂದ್ಯೇ ಸರ್ವಲೋಕೈಕ ಪೂಜಿತೇ, ಮಯಾ ಕೃತಾಂ ಇಮಾಂ ಪೂಜಾಂ ಗೃಹಾಣ ತ್ವಂ ಸರಸ್ವತಿ. ಸರಸ್ವತೀಂ ಆವಾಹಯಾಮಿ. ಮತ್ತು ಹೂ ಮಂತ್ರ ಸ್ತುತಿ ತೊಗೊಳ್ರಿ. ಪ್ರಣವಾಸನಾಂ, ಪ್ರಣವಾಸನಾ ಆರೂಢಾಂ ತದರ್ಥ ತದ್ವೇನ ನಿಶ್ಚಿತಾಂ, ಅಂಕುಶಂ ಚ ಅಕ್ಷಸೂತ್ರಂ ಚ ಪಾಶಪುಸ್ತಕಧಾರಿಣೀಂ, ಕೇಯೂರೈಃ ಮೇಖಲಾದ್ಯೈಶ್ಚ ಧ್ಯೋತಯಂತೀಂ ಜಗತ್ತ್ರಯಂ, ಸಪ್ತಬ್ರಹ್ಮಾರಣೀಂ ಧ್ಯಾಯೇ, ಧ್ಯಾನಗಾಮಸ್ಸಮಾಹಿತಃ. ಭಾರತೀಂ ಸರ್ವವೇದಾಧ್ಯಾಂ, ಭರ್ತುರಂಗಸ್ಥಿತಾಂ ಸತೀಂ, ಯಾಂತೀಂ ಶತತಂ ವಿಷ್ಣುಂ ಧ್ಯಾಯೇತ್ ಸರ್ವಾರ್ಥಸಿದ್ಧಯೇ. ಸಗಸ್ರಶೀರ್ಷಾ ಪುರುಷಃ, ಸಹಸ್ರಾಕ್ಷಃ ಸಹಸ್ರಪಾತ್, ಸ ಭೂಮಿಂ ವಿಶ್ವತೋ ವೃತ್ತ್ವಾ, ಅತ್ಯತಿಷ್ಠದ್ದಶಾಂಗುಲಂ. ಸರಸ್ವತ್ಯಂತ್ರಗತ ವೇದವ್ಯಾಸಂ ಆವಾಹಯಾಮಿ. ಮಂತ್ರ ಸ್ತುತಿ ತೊಗೊಳ್ರಿ. ಅನೇಕರತ್ನಸಂಯುಕ್ತಂ ಶುಭರಣೇನ ವಿರಾಜಿತಂ, ಮುಕ್ತಾಮಣಿ ಅಂಗಿತಂ ಚಾರು ಆಸನಂ ತೇ ದದಾಮ್ಯಹಂ. ಪುರುಷ ಏವೇದಂ ಸರ್ವಂ ಯದ್ಭೂತಂ ಯಚ್ಚ ಭವ್ಯಂ, ಉದಾಮೃತತ್ವಸ್ಯೇಶಾನಃ ಯದನ್ನೇನಾತಿರೋಹತಿ, ಆಸನಂ ಸಮರ್ಪಯಾಮಿ ಅಂತು ಮಂತ್ರ ಸ್ತೋತ್ರ. ಉದ್ರಣಿಂದ ನೀ ವಾಚಮನ ಮಾಡದೇ ಬೇರೆ ಒಂದು ನೀರು, ಉದ್ರಣಿಂದ ನೀರು ತೊಗೊಳ್ರಿ. ಗಂಧಪುಷ್ಪಾಕ್ಷತೈರ್ಯುಕ್ತಂ ಗಂಧತೋಯೇನ ಸಂಯುತಂ, ಶುದ್ಧಸ್ಫಟಿಕತುಲ್ಯಾಂಗಿ ಪಾದ್ಯಂ ತೇ ಪ್ರದಿಗೃಹ್ಯತಾಂ. ಏತಾವಾನಸ್ಯ ಮಹಿಮಾ ಅತೋ ಜ್ಯಾಯಾಂಶ್ಚ ಪೂರುಷಃ, ಪಾದೋಸ್ಯ ವಿಶ್ವಾ ಭೂತಾನಿ ತ್ರಿಪಾದಸ್ಯ ಅಮೃತಂ ದಿವಿ. ಮೂರು ಸಲ ಪೆಳಾಲಿ ನೀರು ಬಿಡ್ರಿ. ಪಾದ್ಯಂ, ಪಾದ್ಯಂ, ಪಾದ್ಯಂ ಸಮರ್ಪಯಾಮಿ. ಮತ್ತು ಉದ್ಧರಣೆಯಿಂದ ನೀರ್ ತೊಕೊಳ್ಳ್ರಿ. ಭಕ್ತಾಭೀಷ್ಟ ಪ್ರದೇ ದೇವಿ, ದೇವದೇವಾದಿ ವಂದಿತೇ, ಆಧಾರಾದಿ ಜಗದ್ದಾತ್ರಿ, ದದಾಮ್ಯರ್ಘ್ಯಂ ಗೃಹಾಣ ತೇ. ತ್ರಿಪಾದೂರ್ಧ್ವ ಉದೈತ್ ಪುರುಷಃ ಪಾದೋಸ್ಯೇಹಾಭವತ್ ಪುನಃ, ತತೋ ವಿಷ್ವಂ ವ್ಯಕ್ರಾಮತ್ ಸಾಶನಾನಶನೇ ಅಭಿ. ಮೂರು ಸಲ ಪೆಲಾಲ್ ನೀರ್ಬಿಡ್ರಿ. ಅರ್ಘ್ಯಂ ಅರ್ಘ್ಯಂ ಅರ್ಘ್ಯಂ, ಸಮರ್ಪಯಾಮಿ. ಮತ್ತು ಉದ್ಧರಣಿಂದ ನೀರ್ ತೊಗೊಂಬೋದು. ಪೂರ್ಣಚಂದ್ರ ಸಮಾನಸ್ಯ ಕೋಟಿಸೂರ್ಯ ಸಮಪ್ರಭೇ, ಭಕ್ತ್ಯಾ ಸಮರ್ಪಿತಂ ತುಭ್ಯಂ ಗೃಹಾಣ ಆಚಮನೀಯಕಂ. ತಸ್ಮಾತ್ ವಿರಾಳ ಜಾಗತ ವಿರಾಜೋ ಅತಿ, ಪುರುಷಃ ಸ ಜಾತೋ, ಅತ್ಯ ರಿಕ್ಷತ ಪಶ್ಚಾತ್ ಭೂಮಿಮತೋ ಪುರಃ. ಮೂರು ಸಲ ಪೆಲಾಲ್ ನೀರ್ಬಿಡ್ರಿ. ಆಚಮನೀಯಂ ಸಮರ್ಪಯಾಮಿ. ಮಂತ್ರ ಆಸ್ತೆ ಅನ್ನ ಕೈಲಿ ತೊಗೊಂಬೋದು. ಇಲ್ಲದಿದ್ರೆ ಮೊಸರು ಜೇನು ತುಪ್ಪ ಇದು ಮೂರನ್ನ ಸೇರ್ಸಿಟ್ಟಂಡಿದ್ರಿಲ್ಲ, ಅದನ್ನ ಉದ್ಧರಣಿಯಿಂದ ತೊಗೊಳ್ರಿ. ಇಲ್ಲದವರು ಮಂತ್ರ...",
+      "mappedSectionIds": [
+        "P06",
+        "P07",
+        "P08",
+        "P09",
+        "P10",
+        "P11",
+        "P12",
+        "P13"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P06",
+          "blockIndex": 1,
+          "startSeconds": 286.479,
+          "endSeconds": 340.72,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P07",
+          "blockIndex": 0,
+          "startSeconds": 340.72,
+          "endSeconds": 342.72,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P07",
+          "blockIndex": 1,
+          "startSeconds": 342.72,
+          "endSeconds": 357.28,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P08",
+          "blockIndex": 0,
+          "startSeconds": 357.28,
+          "endSeconds": 358.96,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P08",
+          "blockIndex": 1,
+          "startSeconds": 358.96,
+          "endSeconds": 403.12,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P09",
+          "blockIndex": 0,
+          "startSeconds": 403.12,
+          "endSeconds": 404.56,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P09",
+          "blockIndex": 1,
+          "startSeconds": 404.56,
+          "endSeconds": 425.039,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P09",
+          "blockIndex": 2,
+          "startSeconds": 425.039,
+          "endSeconds": 426.88,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P10",
+          "blockIndex": 0,
+          "startSeconds": 426.88,
+          "endSeconds": 432.08,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P10",
+          "blockIndex": 1,
+          "startSeconds": 432.08,
+          "endSeconds": 452.4,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P10",
+          "blockIndex": 2,
+          "startSeconds": 452.4,
+          "endSeconds": 454.08,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P10",
+          "blockIndex": 3,
+          "startSeconds": 454.08,
+          "endSeconds": 457.039,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 0,
+          "startSeconds": 457.039,
+          "endSeconds": 459.12,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 1,
+          "startSeconds": 459.12,
+          "endSeconds": 478.319,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 2,
+          "startSeconds": 478.319,
+          "endSeconds": 480.4,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 3,
+          "startSeconds": 480.4,
+          "endSeconds": 483.759,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P12",
+          "blockIndex": 0,
+          "startSeconds": 483.759,
+          "endSeconds": 485.44,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P12",
+          "blockIndex": 1,
+          "startSeconds": 485.44,
+          "endSeconds": 504.72,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P12",
+          "blockIndex": 2,
+          "startSeconds": 504.72,
+          "endSeconds": 506.16,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P12",
+          "blockIndex": 3,
+          "startSeconds": 506.16,
+          "endSeconds": 510.16,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 0,
+          "startSeconds": 510.16,
+          "endSeconds": 521.12,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P06",
+          "blockIndex": 1,
+          "notes": "Raw first-line acoustic ASR ಅಬ್ರಹ್ಮಂ ಬಂಗರಗಿತಂ ಅಜನಂ ವಿಮಲಂ ಶತ retained in guru-open-transcript.json; abhramaṁ (free of error) and ajaḍaṁ (not inert) are corrected display readings supported by primary-book parallel and this recording’s phonetics, still review flagged. Guru verses carry corrupted exact words in both witnesses: first abhramaṁ/ajaḍaṁ/bhaṅgarahitaṁ, Jayatīrtha citraiḥ padaiśca/bhāti corrected from fine phonetics and official Sri Vyasaraja Matha charamaśloka text; Raghūttama ca and bhajatsuratarūpamam recovered against phonetic witnesses and primary Sanskrit-book parallel. Vyāsatīrtha arthikalpitakalpo’yaṁ replaces acoustic attikalpitakalpo’yaṁ with visible review note. These are explicit corrections, not a claim of direct human listening. Do not claim verified standard restoration."
+        },
+        {
+          "sectionId": "P08",
+          "blockIndex": 1,
+          "notes": "Opening praṇavāsana fragment retained before full phrase. Exact saptabrahmaraṇīṁ and sarvavedāḍhyāṁ readings require review; saptabrahmaraṇīṁ is a specific uncertain epithet, not a generic placeholder."
+        },
+        {
+          "sectionId": "P10",
+          "blockIndex": 0,
+          "notes": "The spoken correction/restart about different water is retained; do not use this as an added separate rule beyond the recorded distinction."
+        },
+        {
+          "sectionId": "P10",
+          "blockIndex": 3,
+          "notes": "Three actual prompted repetitions corroborated by fine and coarse acoustic witnesses."
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 1,
+          "notes": "Exact dadāmyarghyaṁ/gṛhāṇa te and viṣvaṅ syllables vary among ASR; full provisional reading flagged."
+        },
+        {
+          "sectionId": "P11",
+          "blockIndex": 3,
+          "notes": "Three repetitions corroborated by fine/coarse GPT despite caption compressing one."
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 0,
+          "notes": "The speaker presents actual mixture or mantra-akṣata alternative; retain all wording, not only substitution summary."
+        }
+      ]
+    },
+    {
+      "pass": "gpt",
+      "chunkIndex": 4,
+      "startSeconds": 510.0,
+      "endSeconds": 690.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt/original-part-004-transcript.json",
+      "rawTranscriptText": "ಮಂತ್ರಾಸ್ತೇ ಎನ್ನ ಕೈಲ್ ತೊಕುಂಬೋದು. ಇಲ್ಲದಿದ್ದರೆ ಮೊಸರು ಜೇನು ತುಪ್ಪ, ಇದು ಮೂರನ್ನ ಸೇರ್ಸಿ ಇಟ್ಟಂಡಿದ್ದಿರಿಲ್ಲ, ಅದನ್ನ ಉದ್ದರಣಿಯಿಂದ ತೊಕೊಳ್ರಿ. ಇಲ್ಲದವರು ಮಂತ್ರಾಸ್ತೇನ ತೊಕೊಳ್ರಿ. ಕಮಲಪವನಜಾಯೇ, ಕೋಟಿ ಸೂರ್ಯ ಪ್ರಕಾಶೇ, ಶಿವದ ಶುಚಿ ವಿಲಾಸೇ, ಕೋಮಳೇ ಹಾರ ಯುಕ್ತೇ, ದಧಿ ಮಧುಕೃತ ಯುಕ್ತ, ಸ್ವರ್ಣಪಾತ್ರ ಸ್ಥಿತೋ ಯಃ, ಶುಚಿರಯಿ ಮಧುಬರ್ಗೋ, ರಿಕ್ಷತಾಂ ವೇದವೇದ್ಯೇ, ಮಧುಬರ್ಗಂ ಸಮರ್ಪಯಾಮಿ ಅಂತ ಪೈಲಾಲಿ, ಮಧುಬರ್ಗದ್ದರೆ ಮಧುಬರ್ಗನ ಹಾಕ್ರಿ. ಇಲ್ಲದ್ರೆ ಮಂತ್ರಾಸ್ತೇನ ಹಾಕ್ರಿ, ಮಧುಬರ್ಗಾರ್ಥೇ ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ. ಮೊಸರು ಜೇನು ತುಪ್ಪ ಸಕ್ಕರೆ, ಇದು ನಾಕು ಮಿಕ್ಸ್ ಮಾಡಿದ್ದು ಪಂಚಾಮೃತ. ಇದ್ದ್ರದ ಉಪಯೋಗಿಸ್ರಿ, ಇಲ್ಲದಿದ್ದರೆ ಮಂತ್ರಾಸ್ತೇನ ಹಾಕ್ರಿ. ದಧಿ ಕ್ಷೀರ ಕೃತೋಪೇತಂ ಸರ್ಕರಾ ಮಧು ಸಂಯುತಂ, ಪಂಚಾಮೃತ ಸ್ನಾನಮಿದಂ ಶ್ರೀ ಕುರುಷ್ವ ಸುರೇಶ್ವರಿ, ಪಂಚಾಮೃತ ಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ. ಉದ್ದರಣಿಯಿಂದ ನೀರನ್ನ ತಗೊಂಡು ಎಡದ ಕೈಯಲ್ಲಿ ಇಟ್ಕೊಳ್ರಿ, ಬಲದ ಕೈಯಿಂದ ಒಂದು ಹೂವನ್ನ ತಗೊಂಡು, ಈ ಉದ್ದರಣಿಯಲ್ಲಿರುವ ನೀರನ್ನ ಮುಟ್ಟಿ ಪ್ರೋಕ್ಷಣ ಮಾಡ್ರಿ, ಪುಸ್ತಕ, ಮಂಡಲಕ ಸರಸ್ವತೀಗೆ. ಸುಬರ್ಣಕಲಶಾ ನೀತೈಃ ನಾನಾ ಗಂಧ ಶುಭಾಶಿತೈಃ, ಗಂಧೋದಕಸ್ನಾನಮಿತಂ ಶ್ರೀ ಕುರುಷ್ವ ಸುರೇಶ್ವರಿ, ಎತ್ಪುರುಷೇಣ ಹವಿಷಾ ದೇವಾಯಜ್ಞ್ಯ ಮತನ್ವತ, ಪಸಂತೋ ಅಸ್ಯ ಸೀತಾಜ್ಯಂ ಘೃಷ್ಮ ಇದ್ಮಂ ಸರದ್ಭಿಃ, ಪ್ರೋಕ್ಷಣಮಾಡ್ರಿ, ಶುದ್ಧೋದಕ ಸ್ನಾನಂ ಸಮರ್ಪಯಾಮಿ. ಮತ್ತೆ ಉದ್ದರಣೀನ ಬಲದ ಕೈಗೆ ಮಾರ್ಸಿಂಡು, ಅದ್ರಲ್ಲಿ ಮಿಕ್ಕಿರುವ ನೀರನ್ನ ಪೈಲಾಲಿ ಬಿಡ್ರಿ, ಸ್ನಾನಾನಂತರ ಆಚಮನೀಯಂ ಸಮರ್ಪಯಾಮಿ. ಈಗ ಗಜವಸ್ತ್ರವನ್ನ ಕೈಯಲ್ಲಿ ತೊಕೊಳ್ರಿ, ಶುಕ್ಲ ವಸ್ತ್ರ ದ್ವಯಂ, ಇಲ್ಲದಿದ್ದರೆ ಮಾಡೂಟು, ಇಲ್ಲಿಂದ ವಿಡಿಯೋನ ಕಂಟಿನ್ಯೂ ಮಾಡ್ರಿ. ಮಾಡಿಟ್ಟಿದ್ದರೆ ತೊಕೊಂಡು ಸಮರ್ಪಣ ಮಾಡೋದು. ಶುಕ್ಲವಸ್ತ್ರ ದ್ವಯಂ ದೇವಿ ವಿಮಲಂ ಕುಟಿಲಾಲಕೇ, ಭಕ್ತ್ಯಾ ಸಮರ್ಪಿತಂ ವಾಣಿ ಬ್ರಹ್ಮಾಣಿ ಪ್ರತಿಗೃಹ್ಯತಾಂ. ತೈಯಜ್ಯಂ ಪರಿಗೃಹೀಷ್ವ, ಪುರುಷಂ ಜಾತಮಕ್ರತಃ, ತೇನ ದೇವ ಅಗಜಂತ, ಸಾದ್ಯ ಋಷಯಃ ಸ್ಚಗೇ, ವಸ್ತ್ರಯುಗ್ಮಂ ಸಮರ್ಪಯಾಮಿ. ಅಂತ್ರಾಸ್ತ ತೊಗೊಳ್ರಿ. ಸಪ್ತ ಬ್ರಹ್ಮಾರಣೇ ದೇವಿ ಸಪ್ತಸಾಸ್ತ್ರ ಕೃತಾಲಯೇ, ಕಂಠಸೂತ್ರಂ ಗೃಹಾಣ ತ್ವಂ ಶೇಷ ಶಕ್ರಾದಿ ಪೂಜಿತೇ, ಕಂಠಸೂತ್ರಂ ಸಮರ್ಪಯಾಮಿ. ಅತ್ತು ಮಂತ್ರ ಅಸ್ತ ತೊಗೊಳ್ರಿ. ಕಟಕಮುಕುಟ ಹಾರೈಃ ನೂಪುರೈಃ ಅಂಗದಾದ್ಯೈಃ, ವಿವಿಧಮಣಿಸುಯುಕ್ತೈಃ ಮೇಖಲಾಮುಕ್ತಹಾರೈಃ, ಕಮಲವನವಿಲಾಸೇ ಕಾಮತೇ ತ್ವಂ ಗೃಹಾಣ, ಪ್ರಕಟಿತಕರುಣಾರ್ತೇ ಭೂರಿಶೋಭೂಷಣಾನಿ. ತಸ್ಮಾತ್ ಯಜ್ಞಾಃ ಸರ್ವೇ ಹುತಃ ಸಂಭೃತಂ, ಪುರುಷ ತಾಜ್ಯಂ ಪಶೂನ್ ಸ್ತಾಂ ಚಕ್ರೇ, ವಾಯವ್ಯಾನ್ ಆರಣ್ಯಾನ್ ಗ್ರಾಮ್ಯಾಃ ಸ್ಚಗೇ.",
+      "mappedSectionIds": [
+        "P12",
+        "P13",
+        "P14",
+        "P15",
+        "P16",
+        "P17",
+        "P18"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P12",
+          "blockIndex": 3,
+          "startSeconds": 506.16,
+          "endSeconds": 510.16,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 0,
+          "startSeconds": 510.16,
+          "endSeconds": 521.12,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 1,
+          "startSeconds": 521.12,
+          "endSeconds": 539.04,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 2,
+          "startSeconds": 539.04,
+          "endSeconds": 543.04,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 3,
+          "startSeconds": 543.04,
+          "endSeconds": 547.44,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P14",
+          "blockIndex": 0,
+          "startSeconds": 547.44,
+          "endSeconds": 555.36,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P14",
+          "blockIndex": 1,
+          "startSeconds": 555.36,
+          "endSeconds": 564.72,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 0,
+          "startSeconds": 564.72,
+          "endSeconds": 576.24,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 1,
+          "startSeconds": 576.24,
+          "endSeconds": 594.88,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 2,
+          "startSeconds": 594.88,
+          "endSeconds": 595.68,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 3,
+          "startSeconds": 595.68,
+          "endSeconds": 598.399,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 4,
+          "startSeconds": 598.399,
+          "endSeconds": 603.12,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P15",
+          "blockIndex": 5,
+          "startSeconds": 603.12,
+          "endSeconds": 607.36,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P16",
+          "blockIndex": 0,
+          "startSeconds": 607.36,
+          "endSeconds": 610.0,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P16",
+          "blockIndex": 1,
+          "startSeconds": 610.0,
+          "endSeconds": 612.0,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P16",
+          "blockIndex": 2,
+          "startSeconds": 612.0,
+          "endSeconds": 619.2,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P16",
+          "blockIndex": 3,
+          "startSeconds": 619.2,
+          "endSeconds": 640.959,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P17",
+          "blockIndex": 0,
+          "startSeconds": 640.959,
+          "endSeconds": 644.24,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P17",
+          "blockIndex": 1,
+          "startSeconds": 644.24,
+          "endSeconds": 656.88,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P18",
+          "blockIndex": 0,
+          "startSeconds": 656.88,
+          "endSeconds": 659.75,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P18",
+          "blockIndex": 1,
+          "startSeconds": 657.839,
+          "endSeconds": 692.959,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P13",
+          "blockIndex": 0,
+          "notes": "The speaker presents actual mixture or mantra-akṣata alternative; retain all wording, not only substitution summary."
+        },
+        {
+          "sectionId": "P13",
+          "blockIndex": 1,
+          "notes": "Final two lines heavily corrupted in all ASR; suśri/madhuparko’yaṁ/gṛhyatāṁ is provisional intelligible reading. Specific technical uncertainty retained."
+        },
+        {
+          "sectionId": "P14",
+          "blockIndex": 0,
+          "notes": "Spoken four-item list retained; Sanskrit verse also names milk. Do not silently insert milk into the Kannada instruction."
+        },
+        {
+          "sectionId": "P14",
+          "blockIndex": 1,
+          "notes": "kuruṣva sureśvari phrase differs sharply across ASR, retained as provisional reading."
+        },
+        {
+          "sectionId": "P16",
+          "blockIndex": 1,
+          "notes": "Partial opening phrase before the preparation instruction; not silently discarded."
+        },
+        {
+          "sectionId": "P16",
+          "blockIndex": 3,
+          "notes": "amalaṁ/visuallycaptionvimalam endings uncertain; Vedic recitation restored only where phonetic witnesses permit; exact sandhi remains review flagged."
+        },
+        {
+          "sectionId": "P17",
+          "blockIndex": 1,
+          "notes": "Exact saptabrahmaraṇe/saptaśāstrakṛtālaye epithets uncertain across all witnesses; meanings identify provisional interpretation explicitly."
+        },
+        {
+          "sectionId": "P18",
+          "blockIndex": 0,
+          "notes": " Take-akṣata instruction and kaṭaka opening share native event657.839–659.75; exact intra-event partition unresolved."
+        },
+        {
+          "sectionId": "P18",
+          "blockIndex": 1,
+          "notes": "Opening kaṭaka recovered from640finewindow thoughcaptiondrops it; later prakaṭita/karuṇā/bhūriśobhūṣaṇāni compound is provisional phonetic reading, not certified lexical resolution. Take-akṣata instruction and kaṭaka opening share native event657.839–659.75; exact intra-event partition unresolved."
+        }
+      ]
+    },
+    {
+      "pass": "gpt",
+      "chunkIndex": 5,
+      "startSeconds": 680.0,
+      "endSeconds": 860.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt/original-part-005-transcript.json",
+      "rawTranscriptText": "प्रुतं पुरिष ताज्यं पशून् स्तां चक्रे वायव्यान् आरण्यान् ग्राम्याश्च ये आवरणानि समर्पयामि. ಈಗ ಹೂವೆಲಿಂದ ಗಂಧವನ್ನ ಮುಟ್ಟಿಕೊಳ್ಳಿ, ಗಂಧವನ್ನ ಮುಟ್ಟಿಂಡು. चन्दना घरु कस्तूरी कर्पूराद्यैश्च संयुतं गन्धं गृहाण वरदे विधिपत्नि नमोस्तुते। तस्मात् यज्ञात् सर्वहुतः ऋचः सामानि जज्ञिरे। तस्मात् यजुस्तस्मादजायत। गन्धान् समर्पयामीಂತ ಗಂಧವನ್ನ ಸಮರ್ಪಣ ಮಾಡಿರಿ, ಗಂಧದಂದ ಬೊಟ್ಟಿಡ್ಬೋದು. ಮಂತ್ರಾಕ್ಷತೆ ತೊಕೊಳ್ಳಿರಿ, ಅಕ್ಷತಾನ್ ಧವळಾನ್ दिव्यान् सालितण्डुलमिश्रितान्। गृहाण वरदे देवि ब्रह्मपत्नि शुभाक्षतान्। ಅಕ್ಷತಾನ್ ಸಮರ್ಪಯಾಮಿ ಅಂತ ಮಂತ್ರಸ್ತಾಕೆ. ಅಶ್ನा कुंकुम. ಕುಂಕುಮ ಗಂಧ ಇಟ್ಟು ಕುಂಕುಮ ಹಚ್ಚ್ಬೋದು, ಅಶ್ನಾ ಕುಂಕುಮವನ್ನ ಪೂಜೆ ಮಾಡಿರಿ. हरिद्रा कुंकुमान् देवि गन्धचूर्णादि कानपि। तस्यामि परया भक्त्या ब्रह्माणि प्रतिगृह्यताम्। तस्मातश्वा अजायन्त ये के चोभयादतः। गावो ह जज्ञिरे तस्मात् तस्माज्जाता अजावयः। ಹರಿದ್ರಾ ಚೂರ್ಣ ಕುಂಕುಮಾನ್ ಸಮರ್ಪಯಾಮಿ. ಸ್ವಲ್ಪ ಕೈಯಲ್ಲಿ ಹೂವನ್ನ ಹಿಡ್ಕೊಳ್ಳಿ. नन्द्या वर्त्यादि पुष्पैश्च कल्हारैर्मल्लिकादिभिः। करवीर जातिकुसुमैः मन्दारैश्च मनोरमैः। नीलोत्पलैश्च कमलैः तत्काल तरुसम्भवैः। पूजयामि सुपुष्पैश्च वरदे भक्तवत्सले। ನಾನಾ ವಿಧ ಪುಷ್ಪಾಣಿ ಸಮರ್ಪಯಾಮಿ. ಈಗ ಒವೊಂದು ಹೂವಾಗಿ ಅಂಗಪೂಜೆ ಅರ್ಚನೆ ಮಾಡ್ತಾ ಬನ್ನಿ. ब्रह्माण्यै नमः पादौ पूजयामि, जगद्धात्र्यै नमः गुल्फौ पूजयामि, जगत्वत्सलायै नमः जङ्घे पूजयामि, जगत्पूज्यायै नमः जानुनी पूजयामि, सारविलासिन्यै नमः ऊरू पूजयामि, नारायणप्रियायै नमः कटिं पूजयामि, जन्महीनायै नमः जघनं पूजयामि, गम्भीरनाभयै नमः नाभिं पूजयामि, गरुडशेषरुद्रमात्रे नमः उदरं पूजयामि, लोकमात्रे नमः स्तनौ पूजयामि, विशालवक्षसे नमः वक्षस्थलं पूजयामि, गानविशक्षणायै नमः कण्ठं पूजयामि, स्कन्दादिदेवपूज्यायै नमः स्कन्धौ पूजयामि, चतुर्भुजायै नमः बाहून् पूजयामि, पुस्तकधारिण्यै नमः हनुं पूजयामि, स्रोत्रियभान्दवायै नमः स्रोत्रे पूजयामि, सर्ववेदोद्धारिण्यै नमः वक्त्रं पूजयामि, बिम्बसमानौष्ठ...",
+      "mappedSectionIds": [
+        "P18",
+        "P19",
+        "P20",
+        "P21",
+        "P22",
+        "P23"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P18",
+          "blockIndex": 1,
+          "startSeconds": 657.839,
+          "endSeconds": 692.959,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P19",
+          "blockIndex": 0,
+          "startSeconds": 692.959,
+          "endSeconds": 697.76,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P19",
+          "blockIndex": 1,
+          "startSeconds": 697.76,
+          "endSeconds": 722.64,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P19",
+          "blockIndex": 2,
+          "startSeconds": 722.64,
+          "endSeconds": 727.279,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P20",
+          "blockIndex": 0,
+          "startSeconds": 727.279,
+          "endSeconds": 729.04,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P20",
+          "blockIndex": 1,
+          "startSeconds": 729.04,
+          "endSeconds": 740.0,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P20",
+          "blockIndex": 2,
+          "startSeconds": 740.0,
+          "endSeconds": 741.2,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P21",
+          "blockIndex": 0,
+          "startSeconds": 741.2,
+          "endSeconds": 747.36,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P21",
+          "blockIndex": 1,
+          "startSeconds": 747.36,
+          "endSeconds": 775.12,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P22",
+          "blockIndex": 0,
+          "startSeconds": 775.12,
+          "endSeconds": 777.44,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P22",
+          "blockIndex": 1,
+          "startSeconds": 777.44,
+          "endSeconds": 801.519,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P23",
+          "blockIndex": 0,
+          "startSeconds": 801.519,
+          "endSeconds": 805.839,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P23",
+          "blockIndex": 1,
+          "startSeconds": 805.839,
+          "endSeconds": 881.68,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P18",
+          "blockIndex": 1,
+          "notes": "Opening kaṭaka recovered from640finewindow thoughcaptiondrops it; later prakaṭita/karuṇā/bhūriśobhūṣaṇāni compound is provisional phonetic reading, not certified lexical resolution. Take-akṣata instruction and kaṭaka opening share native event657.839–659.75; exact intra-event partition unresolved."
+        },
+        {
+          "sectionId": "P19",
+          "blockIndex": 0,
+          "notes": "Spoken repetition/restart retained."
+        },
+        {
+          "sectionId": "P19",
+          "blockIndex": 1,
+          "notes": "chandāṁsi clause retained from nativecaption711.5–718 despite fine/coarse ASR omission; not dropped merely because model omits it."
+        },
+        {
+          "sectionId": "P21",
+          "blockIndex": 0,
+          "notes": "The short spoken phrase around kumkum/sandal is grammatically fragmentary; full objects and instruction retained."
+        },
+        {
+          "sectionId": "P23",
+          "blockIndex": 1,
+          "notes": "cāruvilāsinyai/nārāyaṇapriyāyai, śrotriyabāndhavāyai and anekacandrakāntaye are specifically uncertain epithets across acoustic ASR; retain provisional reading notes. Do not substitute different standard anga list."
+        }
+      ]
+    },
+    {
+      "pass": "gpt",
+      "chunkIndex": 6,
+      "startSeconds": 850.0,
+      "endSeconds": 1030.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt/original-part-006-transcript.json",
+      "rawTranscriptText": "पूजयामि। स्रोत्रिय भान्दवागेनमः, स्रोत्रे पूजयामि। सर्ववेदोद्धारिण्यै नमः, वक्त्रं पूजयामि। बिम्ब समान ओष्ठ्यै नमः, ओष्ठौ पूजयामि। सुनासागे नमः, नासिकां पूजयामि। कमल सच्चुषे नमः, नेत्रे पूजयामि। तिलक दारिण्यै नमः, पालं पूजयामि। अनेक चन्द्रकान्तगे नमः, केशान् पूजयामि। सर्वाभीष्टदात्रे नमः, शिरः पूजयामि। सरस्वत्यै नमः, सर्वाङ्गं पूजयामि। इगे केशवादि नामदಿಂದ अर्चने। केशवाय नमः, नारायणाय नमः, माधवाय नमः, गोविन्दाय नमः, विष्णवे नमः, मधुसूदनाय नमः, त्रिविक्रमाय नमः, वामनाय नमः, श्रीधराय नमः, ऋषीकेशाय नमः, पद्मनाभाय नमः, दामोदराय नमः, शङ्करषणाय नमः, वासुदेवाय नमः, प्रद्युम्नाय नमः, अनिरुद्धाय नमः, पुरुषोत्तमाय नमः, अधोक्षजाय नमः, नारसिंहाय नमः, अच्युताय नमः, जनार्दनाय नमः, उपेन्द्राय नमः, हरये नमः, श्रीकृष्णाय नमः, मत्स्याय नमः, कूर्माय नमः, वराहाय नमः, नारसिंहाय नमः, वामनाय नमः, भार्गवाय नमः, रामाय नमः, कृष्णाय नमः, बौद्धाय नमः, कल्किने नमः, मत्स्यादिनवताररूपात्मक श्री। वेदव्यासाय नमः। कपिलाय नमः। कपिलाय नमः, दत्तात्रेयाय नमः, हयग्रीवाय नमः, रामाय नमः, कृष्णाय नमः, परशुरामाय नमः, नारसिंहाय नमः, वेदव्यासाय नमः, श्रीनारायणाय नमः, महालक्ष्म्यै नमः, भूदेव्यै नमः, दुर्गायै नमः, हनुमते नमः, भारत्यै नमः, सरस्वत्यै नमः, ब्रह्मणे नमः, शेषाय नमः, रुद्राय नमः, पार्वत्यै नमः, विनायकाय नमः, ऋषिभ्यो नमः। ऋषिभ्यो नमः। ऋषिभ्यो नमः। प्रणवाय नमः। काश्यपाय नमः। काश्यपादि ऋषिगणेभ्यो नमः। शुक्ताभिमानी देवताभ्यो नमः। सकल टिप्पणि भाष्यकार देवताभ्यो नमः। आनन्दतीर्थ गुरुभ्यो नमः। जयतीर्थ गुरुभ्यो नमः। श्रीपादराज गुरुभ्यो नमः। व्यासराज गुरुभ्यो नमः। वादिराज गुरुभ्यो नमः। जगेन्द्रतीर्थ गुरुभ्यो नमः। रघूत्तमतीर्थ गुरुभ्यो नमः। पुरन्दरदास गुरुभ्यो नमः। कनकदास गुरुभ्यो नमः। विजयदास गुरुभ्यो नमः। गोपालदास गुरुभ्यो नमः। जगन्नाथदास गुरुभ्यो नमः। सकल शास्त्राभिमानी, अक्षराभिमानी देवताभ्यो नमः। सरस्वत्यै नमः। वेदव्यासाय नमः। नाना…",
+      "mappedSectionIds": [
+        "P23",
+        "P24",
+        "P25"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P23",
+          "blockIndex": 1,
+          "startSeconds": 805.839,
+          "endSeconds": 881.68,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P24",
+          "blockIndex": 0,
+          "startSeconds": 881.68,
+          "endSeconds": 883.68,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P24",
+          "blockIndex": 1,
+          "startSeconds": 883.68,
+          "endSeconds": 935.279,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P25",
+          "blockIndex": 0,
+          "startSeconds": 935.279,
+          "endSeconds": 1032.72,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P23",
+          "blockIndex": 1,
+          "notes": "cāruvilāsinyai/nārāyaṇapriyāyai, śrotriyabāndhavāyai and anekacandrakāntaye are specifically uncertain epithets across acoustic ASR; retain provisional reading notes. Do not substitute different standard anga list."
+        },
+        {
+          "sectionId": "P25",
+          "blockIndex": 0,
+          "notes": "Kapila utterance repeated twice; ṛṣibhyo repeated three times, corroborated by fine/coarse/captions. Vijaye ndra/Jagannātha Tīrtha disputed guru name: captions favor Vijayendra, fine/coarse different; exact name visibly flagged. Sūktābhimāni/śuktābhimāni technical reading uncertain."
+        }
+      ]
+    },
+    {
+      "pass": "gpt",
+      "chunkIndex": 7,
+      "startSeconds": 1020.0,
+      "endSeconds": 1200.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt/original-part-007-transcript.json",
+      "rawTranscriptText": "ಜಗನ್ನಾಥ ದಾಸ ಗುರುಭ್ಯೋ ನಮಃ. ಸಕಲ ಶಾಸ್ತ್ರಾಭಿಮಾನಿ, ಅಕ್ಷರಾಭಿಮಾನಿ, ದೇವತಾಭಿಮಾನಿ, ಸರಸ್ವತ್ಯೈ ನಮಃ, ವೇದವ್ಯಾಸಾಯ ನಮಃ. ನಾನಾ ವಿಧ ಪರಿಮಳ ಪತ್ರಪುಷ್ಪಾರ್ಚನಂ ಸಮರ್ಪಯಾಮಿ. ಈಗ ಊದು ಕಡ್ಡಿ ಅಥವಾ ದಾಸಾಂಗವನ್ನ ಮುಡಿಸಿಕೊಳ್ಳ್ರಿ. ಗಂಟೆ ಬಾರಿಸ್ತಾ ದೂಪ ತೋರ್ಸ್ರಿ. ಓಂ. ದಶಾಂಗಂ ಕುಂಕುಲೋಬೇದಂ ಸುಗಂಧಂ ಚ ಮನೋಹರಂ, ಧೂಪಂ ಗೃಹಾಣ ಕಲ್ಯಾಣಿ ಭಕ್ತಿಂ ತ್ವಯ್ಯಚಲಾಂ ಕುರು. ಯತ್ ಪುರುಷಂ ವ್ಯದಧುಃ ಕತಿಧಾ ವ್ಯಕಲ್ಪಯನ್, ಮುಖಂ ಕಿಮಸ್ಯ ಕೌ ಬಾಹೂ, ಕಾವೂರು ಪಾದಾ ಆವುಕ್ಷೇತೇ, ಧೂಪಮಾಘ್ರಾಪಯಾಮಿ. ದೂಪವನ್ನ ತೋರ್ಸಿ, ಊದು ಕಡ್ಡಿ ಸ್ಟ್ಯಾಂಡಲ್ಲಿ ಊದು ಕಡ್ಡಿ ನಿಟ್ಟುಬಿಡ್ರಿ. ಇಟ್ಟುಟ್ಟು, ಈಗ ಮೂರು ಬತ್ತಿಗಳು, ತುಪ್ಪದಲ್ಲಿ ನೆನೆಸಿ ಮೂರು ಬತ್ತಿಗಳನ್ನು ಮಾಡಿ, ಅದು ಹಲಿಗಾರತ್ತಿಲಿ ಇಡ್ರಿ, ಇಟ್ಟು. ಕೃತಾದವರ್ತಿಸ್ತ್ರಿದಶೈಃ ದೀಪಿತಂ ದೀಪಮಂಬಿಕೇ, ಗೃಹಾಣ ಅಚಿಂತ್ಯರೂಪೇ ತ್ವಂ ಕಮಲಾಸನವಲ್ಲಭೇ, ಬ್ರಾಹ್ಮಣೋಽಸ್ಯ ಮುಖಮಾಸೀತ್ ಬಾಹೂ ರಾಜನ್ಯಃ ಕೃತಃ, ಊರೂ ತದಸ್ಯ ಯದ್ ವೈಶ್ಯಃ, ಪದ್ಭ್ಯಾಂ ಶೂದ್ರೋ ಅಜಾಯತ, ದೀಪಂ ದರ್ಶಯಾಮಿ. ಹಾಗೆ ಅಂತ ದೀಪವನ್ನ ತೋರ್ಸಿ, ಆ ಮೂರು ಬತ್ತಿಗಳನ್ನು ಪೆಲಾಲಿ ಹಾಕ್ಕೊಂಡ್ರಿ. ಹಾಕ್ಕೊಂಡು ಬೆಳದಿಂಗಳೆಡಿಕೆ ತೆಂಗಿನ ಕಾಯಿಯದಲ್ಲ, ನೇವೇದ್ಯಕ್ಕೆ ತೇದಿಟ್ಟಂಮೊಂದು, ಏನ ಬೇರೆ ಏನಾರ, ನೇವೇದ್ಯಕ್ಕಿದ್ದರೆ ಅದನ್ನ ನೈವೇದ್ಯ ಮಾಡೋದು. ನೀರ್ ತೊಗೊಂಡು ನೈವೇದ್ಯ ಪದಾರ್ಥಗಳಿಗೆ ಪ್ರೋಕ್ಷಣ ಮಾಡಿ, ರುದ್ರಭುವಸ್ಸ್ವಃ, ಪರಿಶೇಷಣ ಮಾಡಿ, ಸತ್ಯಂ ತರ್ತೇನ ಪರಿಷಿಂಚಾಮಿ, ಒಂದು ಉದ್ಧರಣೆ ನೀರನ್ನ... ಪೇಳಾಲೆ ಬಿಡಿರಿ. ಅಮೃತೋಪಸ್ತರಣಮಸಿ ಸ್ವಾಹಾ. ಆರು ಸಲ ನೀರು ಬಿಡಿರಿ. ಪ್ರಾಣಾಯ ಸ್ವಾಹಾ, ಅಪಾನಾಯ ಸ್ವಾಹಾ, ವ್ಯಾನಾಯ ಸ್ವಾಹಾ, ಉದಾನಾಯ ಸ್ವಾಹಾ, ಸಮಾನಾಯ ಸ್ವಾಹಾ, ಬ್ರಹ್ಮಣೇ ಸ್ವಾಹಾ. ಕೈಯಲ್ಲಿ ಹೂ ಅನ್ನ ತೊಗೊಳಿರಿ. ಕದಳಿ, ಬನಸ, ಆಂಬ್ರಾಣಾಂ ಶುಭಕ್ವಾ ನಿಪಲಾನಿ ಚ, ದದೀಕ್ಷೀರ ಕೃತಾದೀನಿ, ಗಂಧಮೂಲಫಲಾನಿ ಚ, ಪಂಚಕಾದ್ಯಂ ಚ ಸುಸ್ವಾದು, ಶೀತಲೋತಕಮೇವ ಚ, ಭಕ್ಷ್ಯಭೋಜ್ಯ ಸಮಾಯುಕ್ತಂ, ಏವೇದ್ಯಂ ಪ್ರತಿಗೃಹ್ಯತಾಂ, ಅಪೂಪಾನ್ ವಿವಿಧಾನ್ ಸ್ವಾದೂನ್, ಕಾದ್ಯಾನ್ ವೈಕೃತಭಾಷಿತಾನ್, ಷಡ್ವಿಧ ಅನ್ನಾನಿ ಶೂಪಂ ಚ, ಪಾಕಂ ಸರ್ಕರಾಯುತಂ. ಚಂದ್ರಮಾ ಮನಸೋ ಜಾತಃ, ಚಕ್ಷೋಃ ಸೂರ್ಯೋ ಅಜಾಯತ, ಮುಖಾದ್ ಇಂದ್ರಶ್ಚಾಗ್ನಿಶ್ಚ, ಪ್ರಾಣಾದ್ ವಾಯುರಜಾಯತ, ಅಪೂಪಾದಿಕ ಅನ್ನಾದಿ ಮಹಾನೈವೇದ್ಯಂ ನಿವೇದಯಾಮಿ ಇಂತ ಹೂ ಮಂತ್ರ ಅಸ್ತೆನ ಹಾಕಿರಿ. ಹಾಕ್ಕೊಟ್ಟು ಒಂದು ಉದ್ಧರಣಿ ನೀರನ್ನ ಮಧ್ಯೆ ಅಮೃತಪಾನೀಯಂ ಸಮರ್ಪಯಾಮಿ. ಐದು ಸಲ ನೀರು ಬಿಡಿರಿ. ಅಮೃತಾಪಿಧಾನಮಸಿ ಸ್ವಾಹಾ.",
+      "mappedSectionIds": [
+        "P25",
+        "P26",
+        "P27",
+        "P28",
+        "P29",
+        "P30"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P25",
+          "blockIndex": 0,
+          "startSeconds": 935.279,
+          "endSeconds": 1032.72,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P26",
+          "blockIndex": 0,
+          "startSeconds": 1032.72,
+          "endSeconds": 1044.88,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P26",
+          "blockIndex": 1,
+          "startSeconds": 1044.88,
+          "endSeconds": 1067.44,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P26",
+          "blockIndex": 2,
+          "startSeconds": 1067.44,
+          "endSeconds": 1073.36,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P27",
+          "blockIndex": 0,
+          "startSeconds": 1073.36,
+          "endSeconds": 1080.64,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P27",
+          "blockIndex": 1,
+          "startSeconds": 1080.64,
+          "endSeconds": 1108.32,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P27",
+          "blockIndex": 2,
+          "startSeconds": 1108.32,
+          "endSeconds": 1112.88,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 0,
+          "startSeconds": 1112.88,
+          "endSeconds": 1124.4,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 1,
+          "startSeconds": 1124.4,
+          "endSeconds": 1125.52,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 2,
+          "startSeconds": 1125.52,
+          "endSeconds": 1126.559,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 3,
+          "startSeconds": 1126.559,
+          "endSeconds": 1128.24,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 4,
+          "startSeconds": 1128.24,
+          "endSeconds": 1131.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 5,
+          "startSeconds": 1131.52,
+          "endSeconds": 1133.919,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 6,
+          "startSeconds": 1133.919,
+          "endSeconds": 1135.2,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P28",
+          "blockIndex": 7,
+          "startSeconds": 1135.2,
+          "endSeconds": 1143.84,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P29",
+          "blockIndex": 0,
+          "startSeconds": 1143.84,
+          "endSeconds": 1145.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P29",
+          "blockIndex": 1,
+          "startSeconds": 1145.52,
+          "endSeconds": 1187.52,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P29",
+          "blockIndex": 2,
+          "startSeconds": 1187.52,
+          "endSeconds": 1190.32,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P30",
+          "blockIndex": 0,
+          "startSeconds": 1190.32,
+          "endSeconds": 1192.64,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P30",
+          "blockIndex": 1,
+          "startSeconds": 1192.64,
+          "endSeconds": 1196.4,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P30",
+          "blockIndex": 2,
+          "startSeconds": 1196.4,
+          "endSeconds": 1197.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P30",
+          "blockIndex": 3,
+          "startSeconds": 1197.52,
+          "endSeconds": 1207.44,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P25",
+          "blockIndex": 0,
+          "notes": "Kapila utterance repeated twice; ṛṣibhyo repeated three times, corroborated by fine/coarse/captions. Vijaye ndra/Jagannātha Tīrtha disputed guru name: captions favor Vijayendra, fine/coarse different; exact name visibly flagged. Sūktābhimāni/śuktābhimāni technical reading uncertain."
+        },
+        {
+          "sectionId": "P26",
+          "blockIndex": 1,
+          "notes": "guggulopetaṁ and final ucyete are intelligible provisional readings of corrupted phonetic outputs; not claimed direct-human-verified."
+        },
+        {
+          "sectionId": "P26",
+          "blockIndex": 2,
+          "notes": "Actual repeated ಇಟ್ಟು retained."
+        },
+        {
+          "sectionId": "P27",
+          "blockIndex": 1,
+          "notes": "Lamp-opening ghṛtāktavartitrayaiḥ is provisional reconstruction of garbled shared ASR; retains recorded three-wick meaning. Vaiśya clause repeated twice in independent fine acoustic window; native captions may compact it."
+        },
+        {
+          "sectionId": "P29",
+          "blockIndex": 1,
+          "notes": "Food-list first compound āmrāṇāṁ and cooked-food lines severely corrupt; vai ghṛtapācitān is a provisional intelligible reading of acoustic vaikṛtabhāṣitān and is visibly flagged across fine/coarse/targeted witnesses; ṣaḍvidha annāni retained from three independent acoustic witnesses, despite caption compacting the phrase. Other cooked-food compounds remain unresolved. Current food-list reading/meaning is explicitly provisional and must be reviewed against source, not certified exact restoration."
+        }
+      ]
+    },
+    {
+      "pass": "gpt",
+      "chunkIndex": 8,
+      "startSeconds": 1190.0,
+      "endSeconds": 1370.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt/original-part-008-transcript.json",
+      "rawTranscriptText": "ಹಾಕ್ಕೊಟ್ಟು ಒಂದು ಉದ್ಧರಣಿ ನೀರನ್ನ ಮಧ್ಯೇ ಅಮೃತಪಾನೀಯಂ ಸಮರ್ಪಯಾಮಿ. ಐದು ಸಲ ನೀರು ಬಿಡಿರಿ. ಅಮೃತಾಪಿಧಾನಂ ಶಿರಃಪಾಹಾ, ಹಸ್ತಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ, ಮುಖಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ, ಪಾದಪ್ರಕ್ಷಾಳನಂ ಸಮರ್ಪಯಾಮಿ, ಆಚಮನೀಯಂ ಸಮರ್ಪಯಾಮಿ. ಗಹಣ್ಣುಕಾಯನ್ನು ನೆವೆದ್ಯ ಮಾಡ್ರಿ. ಬೀಜಪೂರಾಂಬರ ಬರಸಗರ್ಜೂರೀ ಕದಳೀಫಲಂ, ನಾರಿಕೇಳಫಲಂ ದಿವ್ಯಂ ಗೃಹಾಣ ಅಭೀಷ್ಟದಾಯಿನೇ. ನಾನಾ ವಿಧ ಫಲಾನಿ ಮಹಾ ನೈವೇದ್ಯಂ ನಿವೇದಯಾಮಿ. ವಿಳ್ಳದೆಡಿಗೆ ಮೇಲೆ ಒಂದು ಜೊಟ್ಟು ನೀರು ಪ್ರೋಕ್ಷಣೆ ಮಾಡ್ರಿ. ತಾಂಬೂಲಂ ಚ ಸಕರ್ಪೂರಂ ಭೂಗನಾಗೈರ್ದ ಲೈಯುತಂ, ಗೃಹಾಣ ದೇವ ದೇವೇಶಿ ತತ್ಸ್ವರೂಪೇಣ ಮೋಹ್ಸ್ತುತೇ. ಭೂಗೀಫಲ ತಾಂಬೂಲಂ ಸಮರ್ಪಯಾಮಿ. ಒಂದು ದಕ್ಷಿಣೆ ಎನ್ನ್ರಿ. ಶುಭ್ರಂ ಸರ್ವದಾ ತೂಣಾಂ ಶ್ರೇಷ್ಠಂ ದೇವೀ ಚ ತತ್ಸದಾ, ಭಕ್ತ್ಯಾ ದದಾಮಿ ವರದೆ. ಭಕ್ತ್ಯಾ ದದಾಮಿ ವರದೆ, ಶುಭ್ರನ ವೃಷ್ಟಿಂಚ ದೇಗಿಮೇ ಶುಭ್ರನ ಪುಷ್ಪ ದಕ್ಷಿಣಾಂ ಸಮರ್ಪಯಾಮಿ. ಮಂಗಳಾರತಿಗೆ ಬತ್ತಿ ಅಥವಾ ಕರ್ಪೂರವನ್ನ ಎರ್ಸಿಕೊಂಡು ಮಂಗಳಾರತಿಯನ್ನ ಗಂಟೆ ಬಾರಿಸ್ತಾ ತೋರ್ಸ್ರಿ. ನೀರಾಜನಂ ಗೃಹಾಣ ತ್ವಂ ಜಗದಾನಂದದಾಯಿನೇ, ಜಗತ್ತಿಮಿರಮಾರ್ತಾಂಡ ಮಂಡಲೇ ತೇ ನಮೋ ನಮಃ, ನಾಭ್ಯಾಸೀತ್ ಅಂತರಿಕ್ಷಂ, ಶ್ರೀಷ್ಣೋ ದ್ಯೌಃ ಸಮವರ್ತತ, ಪದ್ಭ್ಯಾಂ ಭೂಮಿರ್ದಿಶಃ ಶ್ರೋತ್ರಾತ್ ತಥಾ ಲೋಕಾನ್ ಅಕಲ್ಪಯನ್. ಮಂಗಳ ನೀರಾಜನಂ ಸಮರ್ಪಯಾಮಿ ಅಂತ ಮಂಗಳಾರತಿಯನ್ನ ತೋರ್ಸಿ. ಹೂವನ್ನ ಸುತ್ತಿ ಹಾಕ್ಕೊಟ್ಟು, ನೀವು ಮಂಗಳಾರತಿನ ತೊಗೊಂಡು ಮನೇಲಿ ಇರೋವ್ರಿಗೆಲ್ಲ ಮಂಗಳಾರತಿಯನ್ನ ಕೊಡ್ರಿ. ಕೊಟ್ಟುಟ್ಟು ಮಂಗಳಾರತೆಟ್ಟೆನ ಕಳಗಿಟ್ಟುಟ್ಟು, ಹೂವು ಮಂತ್ರಾಕ್ಷತೆಯನ್ನ ಎಲ್ಲರಿಗೂ ಹೈಲಿ ತೊಕೊಂಬೋದು. ಶಾರದೆ ಸರ್ವಲೋಕ ಮಾತಸ್ತ್ವಂ, ಆಸ್ರಿತ ಅಭೀಷ್ಟದಾಯಿನಿ, ಪುಷ್ಪಾಂಜಲಿಂ ಗೃಹಾಣೇ ಮಾಂ ಮಯಾ ಭಕ್ತ್ಯಾ ಸಮರ್ಪಿತಾಂ. ಹಾಗೆಂತ ಹೂವು ಮಂತ್ರಾಕ್ಷತೆನ ಹಾಕ್ರಿ. ಹಾಕಿಟ್ಟು ಮಂತ್ರ ಹೂವು ಮಂತ್ರಾಕ್ಷತೆ ಕೈಲಿ ತೊಗೊಂಡು. ಪ್ರದಕ್ಷಿಣೆ ಮಾಡಿ. यानि कानि च पापानि जन्मान्तरकृतानि च, तानि तानि विनश्यन्ति प्रदक्षिणपदे पदे। सप्तास्यां संमिता कृता देवाय त्यक्त्यं तन्वाना, अबद्ध्नन् पुरुषं पशुम्। पायि पायि जगद्वन्द्ये नमस्ते भक्तवत्सले। नमस्तुभ्यं नमस्तुभ्यं नमस्तुभ्यं नमो नमः। यज्ञेन यज्ञम्। ಮಾಗಜಂತ ದೇವಾ ತಾನಿ ಧರ್ಮಾಣಿ ಪ್ರತಮಾನ್ಯಾಸन्, ते ह नाकं मगिमानः सचन्त। एत्र पूर्वे साध्या सन्ति देवाः। ಎಂದು ಪ್ರದಕ್ಷಿಣೆ ಮಾಡಿ ನಮಸ್ಕಾರವನ್ನ ಮಾಡಿ, ಮಾಡುತ್ತು ಎಲ್ಲರು ಮನೇಲಿರೋ ಮಕ್ಕಳು ಎಲ್ಲರು ಸೇರಿ ಪ್ರಾರ್ಥನೆ ಅನ್ನ ಮಾಡೋದು. ಹೂ ಮಂತ್ರ ಅಸ್ತುಕೊಂಡು ಹೇಳ್ರಿ. ಪाशಾಂ कुशा, पाशां कुशा, दरावाणी, वीणा पुस्तक.",
+      "mappedSectionIds": [
+        "P29",
+        "P30",
+        "P31",
+        "P32",
+        "P33",
+        "P34",
+        "P35",
+        "P36",
+        "P37"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P29",
+          "blockIndex": 2,
+          "startSeconds": 1187.52,
+          "endSeconds": 1190.32,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P30",
+          "blockIndex": 0,
+          "startSeconds": 1190.32,
+          "endSeconds": 1192.64,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P30",
+          "blockIndex": 1,
+          "startSeconds": 1192.64,
+          "endSeconds": 1196.4,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P30",
+          "blockIndex": 2,
+          "startSeconds": 1196.4,
+          "endSeconds": 1197.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P30",
+          "blockIndex": 3,
+          "startSeconds": 1197.52,
+          "endSeconds": 1207.44,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P31",
+          "blockIndex": 0,
+          "startSeconds": 1207.44,
+          "endSeconds": 1209.679,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P31",
+          "blockIndex": 1,
+          "startSeconds": 1209.679,
+          "endSeconds": 1220.559,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P32",
+          "blockIndex": 0,
+          "startSeconds": 1220.559,
+          "endSeconds": 1222.24,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P32",
+          "blockIndex": 1,
+          "startSeconds": 1222.24,
+          "endSeconds": 1236.24,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P33",
+          "blockIndex": 0,
+          "startSeconds": 1236.24,
+          "endSeconds": 1237.6,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P33",
+          "blockIndex": 1,
+          "startSeconds": 1237.6,
+          "endSeconds": 1251.12,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P34",
+          "blockIndex": 0,
+          "startSeconds": 1251.12,
+          "endSeconds": 1257.36,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P34",
+          "blockIndex": 1,
+          "startSeconds": 1257.36,
+          "endSeconds": 1278.559,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P34",
+          "blockIndex": 2,
+          "startSeconds": 1278.559,
+          "endSeconds": 1290.799,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P35",
+          "blockIndex": 0,
+          "startSeconds": 1290.799,
+          "endSeconds": 1293.84,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P35",
+          "blockIndex": 1,
+          "startSeconds": 1293.84,
+          "endSeconds": 1304.72,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P35",
+          "blockIndex": 2,
+          "startSeconds": 1304.72,
+          "endSeconds": 1307.2,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P36",
+          "blockIndex": 0,
+          "startSeconds": 1307.2,
+          "endSeconds": 1312.0,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P36",
+          "blockIndex": 1,
+          "startSeconds": 1312.0,
+          "endSeconds": 1352.24,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P36",
+          "blockIndex": 2,
+          "startSeconds": 1352.24,
+          "endSeconds": 1354.88,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P37",
+          "blockIndex": 0,
+          "startSeconds": 1354.88,
+          "endSeconds": 1361.679,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P37",
+          "blockIndex": 1,
+          "startSeconds": 1361.679,
+          "endSeconds": 1455.84,
+          "kind": "mantra"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P31",
+          "blockIndex": 1,
+          "notes": "Fruit-list words āmra/panasa recovered from fine/coarse acoustic witnesses but captions compact them; kharjūrī form uncertain."
+        },
+        {
+          "sectionId": "P32",
+          "blockIndex": 1,
+          "notes": "Exact pūganāgadalairyutam and tatsvarūpe phrase remain uncertain across all ASR; retained provisional words flagged."
+        },
+        {
+          "sectionId": "P33",
+          "blockIndex": 1,
+          "notes": "bhaktyā dadāmi varade is actually repeated, corroborated by fine/coarse/captions; retained both. sarvadhātūnāṁ compound corrupted in ASR but intelligible contextual reading."
+        },
+        {
+          "sectionId": "P37",
+          "blockIndex": 1,
+          "notes": "Initial pāśāṅkuśa prompt repeated before full line, retained both. yathā na/brahmā lokapitāmahaḥ, tvayā/tathā and etābhiḥ pāhi tanubhiḥ lexical links uncertain in phonetic ASR; meaning is provisional specific Sanskrit interpretation. dhṛtiḥ preserved as actually heard rather than substituting another standard list. sit amapi śukaṁ (parrot) versus śuklaṁ (white) remains an exact lexical uncertainty in the second line; current literal reading not presented as definitive iconography. Third-line samānā and compound pronunciation uncertain; preserved rather than replaced from an alternate verse."
+        }
+      ]
+    },
+    {
+      "pass": "gpt",
+      "chunkIndex": 9,
+      "startSeconds": 1360.0,
+      "endSeconds": 1540.0,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt/original-part-009-transcript.json",
+      "rawTranscriptText": "ಮಂತ್ರಾಸ್ತುಕೊಂಡು ಹೇಳಿರಿ. ಪಾಶಾಂಕುಶಾ, ಪಾಶಾಂಕುಶಾ, ದರಾವಾಣಿ, ವೀಣಾಪುಸ್ತಕ, ದಾರಿಣಿ, ಮಮ ವಕ್ತ್ರೇ ವಸೇತ್ ನಿತ್ಯಂ, ದುಗ್ಧ ಕುಂದೇಂದು ನಿರ್ಮಲಾ, ಯಾ ತನಾ ದೇವಿ ಭಗವಾನ್ ಬ್ರಹ್ಮಲೋಕ ಪಿತಾಮಹಃ, ಸ್ವಾಂ ಪರಿದ್ಯಜ್ಯ ಸಂತಿಷ್ಠೇತ್ ತತಾ ಭವ ವರಪ್ರದಾ, ವೇದಾಃ ಶಾಸ್ತ್ರಾಣಿ ಸರ್ವಾಣಿ ನೃತ್ಯ ಗೀತಾದಿಕಂ ಚ ಯತ್, ನ ವಿಹೀನಂ ವಯಾ ಮಾತಃ ತತಾ ಮೇ ಸಂತು ಸಿದ್ಧಯಃ, ಲಕ್ಷ್ಮೀರ್ ಮೇಧಾ ತರಾ ಪುಷ್ಟಿ, ದೃಷ್ಟಿ ತುಷ್ಟಿ ಪ್ರಭಾ ಮತಿಃ, ಏತಾಭಿಃ ಪಾಹಿ ಭಿಃ ಧನುಭಿಃ ಅಷ್ಟಾಭಿರ್ಮಾಂ ಸರಸ್ವತೀ, ಸರಸ್ವತೀ ನಮಸ್ತುಭ್ಯಂ ವರದೇ ಕಾಮರೂಪಿಣಿ, ವಿದ್ಯಾರಂಭಂ ಕರಿಷ್ಯಾಮಿ ಸಿದ್ಧಿರ್ಭವತು ಮೇ ಸದಾ, ಜೋರ್ಬಿರ್ಯುಕ್ತಾ ಚ ದೃಗ್ಬಿಶ್ ಪಟಿಕಮಣಿನಿಮೈಃ, ಅಕ್ಷಮಾಲಾಂ ದಧಾನಾ, ಅಸ್ತೇನೈಕೇನ ಪದ್ಮಂ, ಸಿತಮಪಿ ಶುಕಾಂ ಪುಸ್ತಕಂ ಚಾಪರೇಣ, ಭಾಷಾಗುಂತೇಂದು ಶಂಕಸ್ಫಟಿಕಮಣಿನಿಭಾ ಭಾಷಮಾಣಾ ಸಮಾನಾ, ಸಾಮೇ ವಾಗ್ದೇವತೇ ಯಂ ನಿವಸತು ವದನೇ ಸರ್ವದಾ ಸುಪ್ರಸನ್ನಾ, ಪ್ರಾರ್ಥನಾನ್ ಸಮರ್ಪಯಾಮಿ ಅಂತಃ ಪುಷ್ಪಂ. ಮಂತ್ರಾಸ್ತೆ ಬಲದ ಕೈಲೈಕಿಂಡು ಮೂರು ಉದ್ದರಿನ ನೀರನ್ನ ಬಲದ ಕೈಲ ಹಾಕಿ, ಅಸ್ಯ ಸ್ಮೃತ್ಯಾಜನಾಮುಕ್ತ್ಯ ತಪಃ ಪೂಜಾ ಕ್ರಿಯಾದಹಂ, ಜ್ಞಾನಂ ಸಂಬೃಣದಾಮ್ಯಾತ್ ಸುದೇವಂತೇ ತಮಕ್ಷತಂ. ಮಂತ್ರಹೀನಂ ಕ್ರಿಯಾಹೀನಂ ಭಕ್ತಿಹೀನಂ ರಮಾಪತೇ, ಯತ್ ಪೂಜನಂ ಮಯಾ ದೇವ ಪರಿಪೂರ್ಣಂ ತದಸ್ತುತೇ. ಅನೇನ ನವರಾತ್ರ್ಯಾಂ ಸರದ್ ಋತೌ ನವರಾತ್ರ್ಯಾಂ ಮಹೋತ್ಸವೇ ಆಚರಿತ ಸರಸ್ವತೀ ಪೂಜನೇನ ಸರಸ್ವತ್ಯಂತ್ರಗತ ಭಗವಾನ್ ಭಾರತೀರಮಣ ಮುಖ್ಯಪ್ರಾಣಾಂತರ್ಗತ ಶ್ರೀ ವ್ಯಾಸ ಪರಶುರಾಮ ಪ್ರಿಯತಾಂ ತೇ. ಶ್ರೀ ಕೃಷ್ಣಾರ್ಪಣಮಸ್ತು. ಮೂರ್ನೇ ದಿನ ಬಲಿದಾನ ಅಂತ ಹೇಳಿದ್ರಿ. ಬಲಿದಾನ ಅಂದ್ರೆ ಏನ್ ಮಾಡಬೇಕು? ಬೆಳಿಗ್ಗೆ ಮೂರ್ನೇ ದಿನ ಅಂದ್ರೆ ಬುಧವಾರ ಬೆಳಿಗ್ಗೆ ಪುನರ್ಪೂಜೆನ್ನ ಪಂಚೋಪಚಾರ ಪೂಜೆ ಮಾಡಿ, ನೈವೇದ್ಯಗಳನ್ನ ಮಾಡಿ. ಸಂಜೆ ಮನೆಯಲ್ಲಿ ಇರುವ ನಮ್ಮ ಆಯುಧಗಳು, ಮನೆಯಲ್ಲಿ ಉಪಯೋಗಿಸುವ ಗಾಡಿ, ಅಡಿಗೆ ಮಾಡುವ ಪಾತ್ರೆಗಳು, ಸ್ಟವ್, ಎಲ್ಲ ಒರಸಿ ಗಂಧಾಕ್ಷತ ಬೊಟ್ಟಲ್ಲ ಇಟ್ಟು, ಅವಿಲಿಕ್ಕಿ, ಕಳ್ಳೆ, ಸಕ್ಕರೆ, ಬಾಳೆಹಣ್ಣು, ಇದನ್ನೆಲ್ಲ ಒಂದು ಎಲೆಯಲ್ಲಿ ಹಾಕಿ, ಸರಸ್ವತೀ ದೇವಿಯ ಮುಂದೆಗಡ ಇಟ್ಟು, ನೈವೇದ್ಯವನ್ನ ಮಾಡಿ. ಅದೇನಲ್ಲ ಇಟ್ಟಿಗಿದ್ರಿ ಪಂಚಕಾದ್ಯ ಅಂತ ಹೇಳ್ತಾರೆ. ಪಂಚಕಾದ್ಯ ಅಂದ್ರೆ ಕಡಲೆ...",
+      "mappedSectionIds": [
+        "P37",
+        "P38",
+        "P39",
+        "P40"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P37",
+          "blockIndex": 0,
+          "startSeconds": 1354.88,
+          "endSeconds": 1361.679,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P37",
+          "blockIndex": 1,
+          "startSeconds": 1361.679,
+          "endSeconds": 1455.84,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P37",
+          "blockIndex": 2,
+          "startSeconds": 1455.84,
+          "endSeconds": 1460.08,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P38",
+          "blockIndex": 0,
+          "startSeconds": 1460.08,
+          "endSeconds": 1470.789,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P38",
+          "blockIndex": 1,
+          "startSeconds": 1464.799,
+          "endSeconds": 1489.039,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P38",
+          "blockIndex": 2,
+          "startSeconds": 1489.039,
+          "endSeconds": 1491.039,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P38",
+          "blockIndex": 3,
+          "startSeconds": 1491.039,
+          "endSeconds": 1493.19,
+          "kind": "mantra"
+        },
+        {
+          "sectionId": "P39",
+          "blockIndex": 0,
+          "startSeconds": 1495.679,
+          "endSeconds": 1537.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P40",
+          "blockIndex": 0,
+          "startSeconds": 1537.52,
+          "endSeconds": 1561.52,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P37",
+          "blockIndex": 1,
+          "notes": "Initial pāśāṅkuśa prompt repeated before full line, retained both. yathā na/brahmā lokapitāmahaḥ, tvayā/tathā and etābhiḥ pāhi tanubhiḥ lexical links uncertain in phonetic ASR; meaning is provisional specific Sanskrit interpretation. dhṛtiḥ preserved as actually heard rather than substituting another standard list. sit amapi śukaṁ (parrot) versus śuklaṁ (white) remains an exact lexical uncertainty in the second line; current literal reading not presented as definitive iconography. Third-line samānā and compound pronunciation uncertain; preserved rather than replaced from an alternate verse."
+        },
+        {
+          "sectionId": "P38",
+          "blockIndex": 0,
+          "notes": " Last water instruction and first completion verse share native event1464.799–1470.789; exact intra-event partition unresolved."
+        },
+        {
+          "sectionId": "P38",
+          "blockIndex": 1,
+          "notes": "First completion verse is phonetic reconstruction supported by fine/coarse/targeted acoustic words; exact yasya/sadyo sentence remains review flagged. Recorded repetition navarātryāṁ/śarad navarātri retained; final Vyāsa–Paraśurāma form not replaced with generic deity. Last water instruction and first completion verse share native event1464.799–1470.789; exact intra-event partition unresolved."
+        },
+        {
+          "sectionId": "P39",
+          "blockIndex": 0,
+          "notes": "Wednesday is the historical third-day example from2025 recording, not a current-week instruction. ಕಡಲೆ/ಕಳ್ಳೆ is retained generically as gram; exact variety not invented."
+        },
+        {
+          "sectionId": "P40",
+          "blockIndex": 0,
+          "notes": "Restarts/repetition around gram and mix retained; recipe is the speaker’s description, not an independently standardized replacement."
+        }
+      ]
+    },
+    {
+      "pass": "gpt",
+      "chunkIndex": 10,
+      "startSeconds": 1530.0,
+      "endSeconds": 1613.764,
+      "rawTranscriptFile": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/gpt/original-part-010-transcript.json",
+      "rawTranscriptText": "ಸರಸ್ವತಿ ದೇವಿಯ ಮುಂದೆಗಡೆ ಇಟ್ಟು, ನೇವೇದ್ಯವನ್ನು ಮಾಡಿ. ಅದೇನಲ್ಲ ಇಟ್ಟಿಗಿದ್ದಿರಿ ಪಂಚಕಾದ್ಯ ಅಂತ ಹೇಳ್ತಾರೆ. ಪಂಚಕಾದ್ಯ ಅಂದ್ರೆ ಕಡಲೆ, ಕಳ್ಳೆಬೇಳೆಯನ್ನು ಹುರಿಕೊಳ್ಳೋದು, ಅದನ್ನು ಪುಡಿ ಮಾಡಿಕೊಳ್ಳೋದು, ಅದನ್ನಲ್ಲಿ ತೆಂಗಿನ ಕಾಯಿನ ತುರಿದಾಕೋದು, ಸಕ್ಕರೆ ಸೇರ್ಕೋದು, ಏಲಕ್ಕಿ ಮತ್ತು ಈ ಕರಿ ಎಳ್ಳುದೆ ನೋಡ್ರಿ, ಕರಿ ಎಳ್ಳನ್ನ ಹುರಿದು ಅದನ್ನಲ್ಲಿ ಹಾಕಿ, ಸ್ವಲ್ಪ ತುಪ್ಪವನ್ನ ಹಾಕಿ ಮಿಶ್ರ ಮಾಡ್ರಿ. ಇದು ಪಂಚಕಾದ್ಯ ಅಂತ ಇದಕ್ಕೆ ಸರು. ಇದನ್ನ ನೇವೇದ್ಯ ಮಾಡಬೇಕು. ಆಮೇಲೆ ಇಕ್ಕಿ ಸಕ್ಕರೆ, ಕಳ್ಳೆಗಳು, ಅದನ್ನಲ್ಲ ಎಲೆಯಲ್ಲಿ ಹಾಕಿ, ಬೆಳದಲೆಡಿಕೆ ಬಾಳೆಹಣ್ಣಲ್ಲಿಟ್ಟು, ಅದನ್ನ ನೇವೇದ್ಯ ಮಾಡೋದೇ ಬಲಿದಾನ ಬೇರೆನಿಲ್ಲ. ಮಾಡಿ ನಮಗೆ ಮಂಗಳಾರತಿಯನ್ನೆಲ್ಲ ಮಾಡಿ, ಮನೇಲಿರುವ ಎಲ್ಲ ಆಯುಧಗಳು, ಗಾಡಿ ಬಂಡಿ ಎಲ್ಲತ್ತಿಗೂ ಕೂಡ ಮಂಗಳಾರತಿಯನ್ನ ಮಾಡಿ, ಮಂಗಳಾರತಿಯನ್ನ ಮಾಡಿ ಮುಗಿಸಿ, ಇದು ಸಂಜೆ ಇದುವೇ ಬಲಿದಾನ. ಬಲಿದಾನ ಮಾಡಿ ಮಂಗಳಾರತಿ ಮಾಡಿದ್ರಿಂದ ಇದು ಬಲಿದಾನ ವರಿಗೂ ಸರಸ್ವತಿ ಬಲಿದಾನ, ಎರಡನ್ನ ಮೂರ್ನೇ ದಿನ ಮಾಡಬೇಕಾದ ಕರ್ತವ್ಯಗಳನ್ನೂ ಕೂಡ ಇದರಲ್ಲಿ ಕೊಟ್ಟಿದ್ದೇವೆ. ನೆಕ್ಸ್ಟ್ ವಿಜಯದಶಮಿಯ ಆಚರಣೆ ಏನು ಮಾಡಬೇಕು, ಅವತ್ತು ಸರಸ್ವತಿಯ ವಿಸರ್ಜನ ಏನುಂಬೋದನ್ನ ಮುಂದೆ ಬರುವ ವೀಡಿಯೋನಲ್ಲಿ ಕೊಡ್ತೇವೆ. ಧನ್ಯವಾದ.",
+      "mappedSectionIds": [
+        "P39",
+        "P40",
+        "P41",
+        "P42"
+      ],
+      "mappedBlocks": [
+        {
+          "sectionId": "P39",
+          "blockIndex": 0,
+          "startSeconds": 1495.679,
+          "endSeconds": 1537.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P40",
+          "blockIndex": 0,
+          "startSeconds": 1537.52,
+          "endSeconds": 1561.52,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P41",
+          "blockIndex": 0,
+          "startSeconds": 1561.52,
+          "endSeconds": 1602.64,
+          "kind": "action"
+        },
+        {
+          "sectionId": "P42",
+          "blockIndex": 0,
+          "startSeconds": 1602.64,
+          "endSeconds": 1613.763628,
+          "kind": "action"
+        }
+      ],
+      "manualClauseAudit": "Every visible ritual, explanation, alternative, prompted partial phrase, repeated name and closing third-day instruction in this window is represented by mapped chronological blocks. This is reviewed semantic coverage; exact lexical acoustic identity remains uncertified at specifically flagged readings.",
+      "overlapPolicy": "5s fine /10s coarse overlap refers to same source occurrence; overlap windows were reconciled instead of concatenated. Actual within-source repetitions remain retained.",
+      "specificReadingFlags": [
+        {
+          "sectionId": "P39",
+          "blockIndex": 0,
+          "notes": "Wednesday is the historical third-day example from2025 recording, not a current-week instruction. ಕಡಲೆ/ಕಳ್ಳೆ is retained generically as gram; exact variety not invented."
+        },
+        {
+          "sectionId": "P40",
+          "blockIndex": 0,
+          "notes": "Restarts/repetition around gram and mix retained; recipe is the speaker’s description, not an independently standardized replacement."
+        },
+        {
+          "sectionId": "P41",
+          "blockIndex": 0,
+          "notes": "The repeated bali explanation and fragment “through the bali” retained rather than compacted into a single instruction."
+        }
+      ]
+    }
+  ],
+  "wholeSourceClausesOmitted": "No complete spoken ritual/explanatory clause identified as omitted. Exact rare Sanskrit readings, source-prose colloquial inflections and shared mixed-language cue partitions remain explicitly uncertified."
+}

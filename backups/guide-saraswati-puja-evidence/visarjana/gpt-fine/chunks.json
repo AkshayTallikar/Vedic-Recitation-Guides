@@ -1,0 +1,85 @@
+{
+  "source": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/source/original.mp3",
+  "duration_seconds": 416.612,
+  "segment_seconds": 45.0,
+  "overlap_seconds": 5.0,
+  "chunks": [
+    {
+      "index": 1,
+      "file": "original-part-001.mp3",
+      "start_seconds": 0.0,
+      "end_seconds": 45.0,
+      "overlap_seconds": 0
+    },
+    {
+      "index": 2,
+      "file": "original-part-002.mp3",
+      "start_seconds": 40.0,
+      "end_seconds": 85.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 3,
+      "file": "original-part-003.mp3",
+      "start_seconds": 80.0,
+      "end_seconds": 125.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 4,
+      "file": "original-part-004.mp3",
+      "start_seconds": 120.0,
+      "end_seconds": 165.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 5,
+      "file": "original-part-005.mp3",
+      "start_seconds": 160.0,
+      "end_seconds": 205.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 6,
+      "file": "original-part-006.mp3",
+      "start_seconds": 200.0,
+      "end_seconds": 245.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 7,
+      "file": "original-part-007.mp3",
+      "start_seconds": 240.0,
+      "end_seconds": 285.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 8,
+      "file": "original-part-008.mp3",
+      "start_seconds": 280.0,
+      "end_seconds": 325.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 9,
+      "file": "original-part-009.mp3",
+      "start_seconds": 320.0,
+      "end_seconds": 365.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 10,
+      "file": "original-part-010.mp3",
+      "start_seconds": 360.0,
+      "end_seconds": 405.0,
+      "overlap_seconds": 5.0
+    },
+    {
+      "index": 11,
+      "file": "original-part-011.mp3",
+      "start_seconds": 400.0,
+      "end_seconds": 416.612,
+      "overlap_seconds": 5.0
+    }
+  ]
+}

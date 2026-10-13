@@ -1,0 +1,1312 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 2076,
+    "sha256": "4da163827d3eb9260876583516d44a1dddc9d28100cd51e08bf4f91f9bb90cce"
+  },
+  {
+    "file": "align_line_cues.py",
+    "bytes": 4060,
+    "sha256": "41b5732b67d368117c53a3d0df994826727ff007aea07f9843da1b9ffa3867f3"
+  },
+  {
+    "file": "audio-checks.json",
+    "bytes": 27375,
+    "sha256": "fc19cae6cb9adf04158e40c3a98b6c9052f5afc4f5b49e46e2b309a3d86f7f5d"
+  },
+  {
+    "file": "avahana/captions/coverage-report.json",
+    "bytes": 1346,
+    "sha256": "c5d8a2dcc671fd0d2ea1f093365aed92250bed4b7a7a009f6c4791a5c6ee5d84"
+  },
+  {
+    "file": "avahana/captions/inspection-timeline.json",
+    "bytes": 161229,
+    "sha256": "61ca1524ea23a0c43869b7156d04330eee08968c14e46fad49f73a3e05ffe71f"
+  },
+  {
+    "file": "avahana/captions/inspection-timeline.txt.gz",
+    "bytes": 10783,
+    "sha256": "d783826cff9b689c4c614caa1459fd19217ee6a231f03f0bfc56b6c4f61c0c3e"
+  },
+  {
+    "file": "avahana/captions/native-cues.json",
+    "bytes": 310408,
+    "sha256": "d296ed8443b4444d84e51c91a55b5d22a8884be4084e6c7f6898141dcb124721"
+  },
+  {
+    "file": "avahana/captions/native-word-events.json",
+    "bytes": 354678,
+    "sha256": "bae4c7553d6233bc47d8f8ec18725fb2105cdf49bf55020ae2872dd8ce3b04f4"
+  },
+  {
+    "file": "avahana/gpt/chunks.json",
+    "bytes": 1316,
+    "sha256": "e423a7c6ed323e0c0617c6763628eee466b4bb8f866c221a4b91313e39e04dd9"
+  },
+  {
+    "file": "avahana/gpt/original-part-001-transcript.json.gz",
+    "bytes": 1297,
+    "sha256": "816d4df586a6316a685090a8b6b37e02d799a20065ed1dd756ae38bdf7277dbd"
+  },
+  {
+    "file": "avahana/gpt/original-part-002-transcript.json.gz",
+    "bytes": 1393,
+    "sha256": "f3f24329c01cb7bd3b0f92f2521ad5462f642186f194719154a005569ec97813"
+  },
+  {
+    "file": "avahana/gpt/original-part-003-transcript.json.gz",
+    "bytes": 1447,
+    "sha256": "c9918b925fd1c4a7438db22354affe0790de9ce5d4c363e3f1634d718882fd56"
+  },
+  {
+    "file": "avahana/gpt/original-part-004-transcript.json.gz",
+    "bytes": 1202,
+    "sha256": "9ddb80a3f0a898fad7b979b8a60b4dd09400db6b8871a275cdc758429133193a"
+  },
+  {
+    "file": "avahana/gpt/original-part-005-transcript.json.gz",
+    "bytes": 1193,
+    "sha256": "1031ec52528ff0a6a0347c71fd3d72dd19bbbb7a6b02ecf1dffe3412bbcf0f9c"
+  },
+  {
+    "file": "avahana/gpt/original-part-006-transcript.json.gz",
+    "bytes": 1349,
+    "sha256": "9e5730d21bc5bcd88562112376d139a5961ca9f62573792bbfac8ad1f7ec0d2c"
+  },
+  {
+    "file": "avahana/gpt/original-part-007-transcript.json.gz",
+    "bytes": 309,
+    "sha256": "cc6da82d8661eb3e2aea0ef0b1633099de3a0b8156d6bb3d4eb6546de1a032d2"
+  },
+  {
+    "file": "avahana/gpt-fine/chunks.json",
+    "bytes": 4304,
+    "sha256": "50bf3830d38c708aefc195e2a2f5954e60e04e371ee189bc59a3fc3244412826"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-001-transcript.json.gz",
+    "bytes": 459,
+    "sha256": "b0bd9b7f962107a15031578c01e9ea090482721a3d8773d71516328cdf3e8613"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-002-transcript.json.gz",
+    "bytes": 458,
+    "sha256": "f4665ff4a2205eb322ab1529fe4f4a394f6f1b43049a8e4800858bf09b43d8c3"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-003-transcript.json.gz",
+    "bytes": 401,
+    "sha256": "2dc8180c6249bb2ad1c98080c055ca68935243a285e0ba465d362c34839b6588"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-004-transcript.json.gz",
+    "bytes": 512,
+    "sha256": "f4f491038e6f74cbec089915cab8da0a3e5814aa2eab5a1cc6eab4a1a42ed2e3"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-005-transcript.json.gz",
+    "bytes": 573,
+    "sha256": "2007c8d68b46a7a08c100c6f4116c3fa13f4affbdf129536f6c95d81bb5b8ca8"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-006-transcript.json.gz",
+    "bytes": 644,
+    "sha256": "ebd6955e6cd851e96efcbadd32f3a9f5fe348be518c137d839b415884bd77923"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-007-transcript.json.gz",
+    "bytes": 518,
+    "sha256": "5154259428a9f01bf41b90c9e4eba85f2c0ee60626ae3635f81b8964ce7fff43"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-008-transcript.json.gz",
+    "bytes": 384,
+    "sha256": "3c9d2dac1c38e4f0407dab63ad6a861fd3fa96aaacf0c002a9fcf4c5852893e7"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-009-transcript.json.gz",
+    "bytes": 543,
+    "sha256": "3dac4953b78fab2078b647df9b7da3151a59ea2959b524b9fdfe9bbc3bce8d01"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-010-transcript.json.gz",
+    "bytes": 564,
+    "sha256": "fc202e1222f5c707ce211b6abf91a8f15246dee95f63b10bcb32963708fe138f"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-011-transcript.json.gz",
+    "bytes": 504,
+    "sha256": "de1af8e66b3acc12319f47ec3ddc173ca5820d196b0083c367a40d2da19b3c57"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-012-transcript.json.gz",
+    "bytes": 527,
+    "sha256": "a5d36df0c169cfe0e5dc9c5a8eea3c6c8ececa07a9e018ce0427e92e9c66f0cf"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-013-transcript.json.gz",
+    "bytes": 477,
+    "sha256": "52d091366f8c5d1e5e60def5f276f8eebff5c2a676e6835fad4598c8e9a18cf8"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-014-transcript.json.gz",
+    "bytes": 532,
+    "sha256": "80fb5b1e363738d21a4c727a5d02db04cff3cefeb81ae599d810f8807f0a90c7"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-015-transcript.json.gz",
+    "bytes": 464,
+    "sha256": "eff3165381f15780fd44ae59bdf2ba7f6ec65580d5cc46161dc3241a7d696770"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-016-transcript.json.gz",
+    "bytes": 443,
+    "sha256": "384b448c1fce7629098ffb6774a739b6654b8296315ef1498a7403b72a6f34cd"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-017-transcript.json.gz",
+    "bytes": 432,
+    "sha256": "90cb5e6fc03ea28f98bf876fd957c2eb44d87b41eb4bf68cc5bcf3ae68ce3c30"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-018-transcript.json.gz",
+    "bytes": 388,
+    "sha256": "016e7d71198d304509f8d56af92fa604972cebf689c11b370f6c5050ca7cb55f"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-019-transcript.json.gz",
+    "bytes": 485,
+    "sha256": "40a10ce88947250cfdbeb648643eb39b8c173645b3b7eb6189ef62345748d6f6"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-020-transcript.json.gz",
+    "bytes": 458,
+    "sha256": "ad1100de3e82b7204147b76f8aeae66f3599523aea5b7bf6c0085723ee2fbe84"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-021-transcript.json.gz",
+    "bytes": 470,
+    "sha256": "2710cf24eaeb096025108fc5fe7f4d20c59675101c48c74b81f663b18314ae9c"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-022-transcript.json.gz",
+    "bytes": 414,
+    "sha256": "19d642144657c17372e56dcf1d2744d75c61857bec688b7f4be21f66d2dacc78"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-023-transcript.json.gz",
+    "bytes": 499,
+    "sha256": "963394aaa308347e0b39f3a93e0a1b1ec3edddb05cc98a1e7df72581377e6863"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-024-transcript.json.gz",
+    "bytes": 477,
+    "sha256": "46e3ab6fe723567c8a22e173f78b55f32201aa0ad7031fd57d9cf551ef7bac00"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-025-transcript.json.gz",
+    "bytes": 448,
+    "sha256": "eb6c5b0fefeb474f56ae01652ab91ac5d2abadc78b27c7833b98d712a629a731"
+  },
+  {
+    "file": "avahana/gpt-fine/original-part-026-transcript.json.gz",
+    "bytes": 494,
+    "sha256": "08641222a2bde57f01585c527a7f4bae5e9201e8bf8f9870589dc0d550317a92"
+  },
+  {
+    "file": "avahana/reconciled/acoustic-hotspots-manifest.json",
+    "bytes": 745,
+    "sha256": "83a7df1c2dd8858873482ba2d383864dfd9acd70d495ea2e8bc86a9a90114af1"
+  },
+  {
+    "file": "avahana/reconciled/acoustic_hotspots.py",
+    "bytes": 1384,
+    "sha256": "c9138a20b8e9e7a94e9e4e8598ccd491ac7ce4858a366086db4a5c602e2fb1ea"
+  },
+  {
+    "file": "avahana/reconciled/book-invocation-gpt4o.json.gz",
+    "bytes": 399,
+    "sha256": "b5cbc61818f8fcc00fd61d5ef8a07541bd489a1e25b3d365b9c7230c93c68aea"
+  },
+  {
+    "file": "avahana/reconciled/build_avahana.py",
+    "bytes": 46700,
+    "sha256": "b40765245c659c1faf5c5ab99a97888d42978e837c158f3f73bc0afccaeb77c9"
+  },
+  {
+    "file": "avahana/reconciled/caption-clause-audit.json",
+    "bytes": 223710,
+    "sha256": "5098938eb6b0f622fa1253eb6a48d22875a1712b30f743b2e948b79ccf581c54"
+  },
+  {
+    "file": "avahana/reconciled/caption-readable.txt.gz",
+    "bytes": 8775,
+    "sha256": "13907282b2b41343291b445c1c86dfb4e19af3735502f0f8473ca9e233b94792"
+  },
+  {
+    "file": "avahana/reconciled/clause-audit.json",
+    "bytes": 250377,
+    "sha256": "de30c854647303db8461d50bb48377b0ecb1ea799488eb5c50581e3e422c8537"
+  },
+  {
+    "file": "avahana/reconciled/complete-english-teaching.txt.gz",
+    "bytes": 5683,
+    "sha256": "35b16526778d45770964b5da123252c8f7379958748e20c24a583e25396c8cc3"
+  },
+  {
+    "file": "avahana/reconciled/complete-roman.txt.gz",
+    "bytes": 4586,
+    "sha256": "6920ac003fe769040216bdf88c829710f1bc15abf8b523ae59b81d36db88a577"
+  },
+  {
+    "file": "avahana/reconciled/complete-source.txt.gz",
+    "bytes": 5139,
+    "sha256": "a866eba4a59dafc0c3df75eda433790647571a8a9e9aeb49b2772ca0b1115697"
+  },
+  {
+    "file": "avahana/reconciled/correction-log.json",
+    "bytes": 49944,
+    "sha256": "d0840a7cd4efe208fbd3e0b30ce9d8a8b1a37e32193d2ba2a8f2f2492d415784"
+  },
+  {
+    "file": "avahana/reconciled/draft-roles.json",
+    "bytes": 85867,
+    "sha256": "af2ef79356ed15e927372acdde352544d4afc00151f25c64ec1386968c8d60d1"
+  },
+  {
+    "file": "avahana/reconciled/evidence-manifest.json",
+    "bytes": 128879,
+    "sha256": "14070057d2d9a2f226788bf73467115d92aa5b2f025206fa7513d32fe2ddc51f"
+  },
+  {
+    "file": "avahana/reconciled/evidence-report.json",
+    "bytes": 559,
+    "sha256": "800963cb4aa540763bc44e11e12822662d7e5b5095c4783436e03de69b13a6c8"
+  },
+  {
+    "file": "avahana/reconciled/kapila-gpt4o.json.gz",
+    "bytes": 382,
+    "sha256": "c87d91c1c43e2c6f525c06bf5934f203bf56c549d4518041e2afc405fc744c82"
+  },
+  {
+    "file": "avahana/reconciled/native-word-markers.json",
+    "bytes": 392493,
+    "sha256": "b7339bc1f89c5964c9237a97bd56e665a45322fb8aa6f2e799aed1dd7ec26b89"
+  },
+  {
+    "file": "avahana/reconciled/original.kn-orig.vtt.gz",
+    "bytes": 17603,
+    "sha256": "72511f294273d079d8b3004a38ae7be33a7fe5cf3ddffc49bc42eaa44ba6b302"
+  },
+  {
+    "file": "avahana/reconciled/pratishtha-gpt4o.json.gz",
+    "bytes": 410,
+    "sha256": "625e3930f5ae15ecf814e9848a17a912e68f6538edad48956f5c7fec51902355"
+  },
+  {
+    "file": "avahana/reconciled/raw-caption-cues.json",
+    "bytes": 221796,
+    "sha256": "bbbb6a93554677aee2d6b884ce38b414c2bf80923395bd557a4c52559be7771a"
+  },
+  {
+    "file": "avahana/reconciled/recitation_edits.py",
+    "bytes": 43468,
+    "sha256": "22529c60d6fd49c09df72f7a5135426f9d202aa7896ee83e5301f1637c467613"
+  },
+  {
+    "file": "avahana/reconciled/saraswati-gpt4o.json.gz",
+    "bytes": 415,
+    "sha256": "03dd98bf3223eeaaad3305c627a62a1df20c5e0f9953b4d3fc7c0d5b3064a113"
+  },
+  {
+    "file": "avahana/reconciled/section-plan.json",
+    "bytes": 5541,
+    "sha256": "04013ba53ba9012fe0ccc1901cc8f0bd24c9e6c339823ccce0f6dc4e7dfad10d"
+  },
+  {
+    "file": "avahana/reconciled/sections.json",
+    "bytes": 630702,
+    "sha256": "8d537f3e30430d6ab46bf8691fa60aa4c334a512cf7db38b5ae3108dcbfc7498"
+  },
+  {
+    "file": "avahana/reconciled/semantic-review-fixes.json",
+    "bytes": 1007,
+    "sha256": "d52ceab765552343f2a23e6c290dab627a3a52326e12b9856192094edb280bb6"
+  },
+  {
+    "file": "avahana/reconciled/source-ledger.json",
+    "bytes": 128879,
+    "sha256": "14070057d2d9a2f226788bf73467115d92aa5b2f025206fa7513d32fe2ddc51f"
+  },
+  {
+    "file": "avahana/reconciled/textual-reading-provenance.json",
+    "bytes": 626,
+    "sha256": "c2b54a723ebb861541a0cfeedaf023da7ff077c5e3b17df95d29f597529a8d10"
+  },
+  {
+    "file": "avahana/reconciled/uncertainty-inventory.json",
+    "bytes": 6798,
+    "sha256": "d349648b51232ff8d81ee90403a724289b4cd23395296fdc2185a58f4e5bb770"
+  },
+  {
+    "file": "avahana/source/media-metadata.json",
+    "bytes": 2095,
+    "sha256": "e9f2eb5336aebf4d2112cedb5a439287a102c1adedbbc2022c941cb4f604a9c3"
+  },
+  {
+    "file": "avahana/source/original.kn-orig.vtt.gz",
+    "bytes": 17603,
+    "sha256": "72511f294273d079d8b3004a38ae7be33a7fe5cf3ddffc49bc42eaa44ba6b302"
+  },
+  {
+    "file": "avahana/source/provenance.json",
+    "bytes": 850,
+    "sha256": "c322a897e902933097c27aa5c83589a6d601019d84039e695fc40b8c8e31d1e2"
+  },
+  {
+    "file": "build_combined.py",
+    "bytes": 9421,
+    "sha256": "b433f975264de48813540c39cfcfee17512dac40fba2a71503acccfce0412db1"
+  },
+  {
+    "file": "caption-inventory.json",
+    "bytes": 78913,
+    "sha256": "31063b7e999ef0c495fe44d47985d0f1effcdb8015bed634b7a26f780b27a4c1"
+  },
+  {
+    "file": "caption_tools.py",
+    "bytes": 11611,
+    "sha256": "e0d264b1ef2a0a8b30fb40d1a9bfed9501508a09752972ab2c798feb90c096dc"
+  },
+  {
+    "file": "check_source_cues.py",
+    "bytes": 3592,
+    "sha256": "4938b436d30301a7e1b3a2c518f82c28c3119f414662070401925da558ff3b9d"
+  },
+  {
+    "file": "check_ui.cjs",
+    "bytes": 4971,
+    "sha256": "782248d3ac59eb00f721bbc68add67788a64a395a668477699bb58ffdeec7509"
+  },
+  {
+    "file": "guide-evidence.json",
+    "bytes": 166003,
+    "sha256": "420763658336e25535d87089d931d0fd34fb0cf05f01ac76bdcedd2b1c4376e4"
+  },
+  {
+    "file": "line-cue-checks.json",
+    "bytes": 117062,
+    "sha256": "b3658c32ee691d00191e6c18d102812cc193804d138201f413a07de6a9bde57e"
+  },
+  {
+    "file": "package_evidence.py",
+    "bytes": 7119,
+    "sha256": "22fed2d5ff3605ace47e1b88fd7a0435ef34661c5536efcb508dacf4506e38d6"
+  },
+  {
+    "file": "puja/captions/coverage-report.json",
+    "bytes": 1296,
+    "sha256": "46ba9a106b96b501944ec8ea37d38073b97e98f0e8abe8ef32ce688de96cb41d"
+  },
+  {
+    "file": "puja/captions/inspection-timeline.json",
+    "bytes": 260897,
+    "sha256": "40eaf5da526d735e79875d8149d6b33b0848df23d46cee4a71da15ae7bb72fc6"
+  },
+  {
+    "file": "puja/captions/inspection-timeline.txt.gz",
+    "bytes": 17194,
+    "sha256": "bcefb8682ed74f6099f1cb77cd853c2db3125da36fa9c444cdcab093fb77531a"
+  },
+  {
+    "file": "puja/captions/native-cues.json",
+    "bytes": 522381,
+    "sha256": "bbe3ef16190f8f78b74108faea054bae293530dbf4cc176f8c9fb6a17f2db792"
+  },
+  {
+    "file": "puja/captions/native-word-events.json",
+    "bytes": 619309,
+    "sha256": "3bd84922ff7ac4120c21d33abb70253f1b0eb389a912743a6a75271062a26fc6"
+  },
+  {
+    "file": "puja/gpt/chunks.json",
+    "bytes": 1794,
+    "sha256": "7f153513cd7dd4a95656a3a55fff3b695b50c3f84fb72979af12e68a5a5777f5"
+  },
+  {
+    "file": "puja/gpt/original-part-001-transcript.json.gz",
+    "bytes": 1604,
+    "sha256": "74fcd3e6a7862c0c411f9413ec4977d864228cdc0c1b218102c1eb42e76116d0"
+  },
+  {
+    "file": "puja/gpt/original-part-002-transcript.json.gz",
+    "bytes": 1357,
+    "sha256": "a249ac2d4dbedc852665119f5ed7e4fa4d51b14d1cd10f1fe19316f8cd3758d2"
+  },
+  {
+    "file": "puja/gpt/original-part-003-transcript.json.gz",
+    "bytes": 1346,
+    "sha256": "5c07d1cb1f82a3864e44709b6d7292745b3876d79068489b07e85089d83b3479"
+  },
+  {
+    "file": "puja/gpt/original-part-004-transcript.json.gz",
+    "bytes": 1394,
+    "sha256": "5f854983cdda355de5f181160a670f2c79799708244183c8197ddc9725e5ff34"
+  },
+  {
+    "file": "puja/gpt/original-part-005-transcript.json.gz",
+    "bytes": 1323,
+    "sha256": "50fd90572677e81277fb15275b4fff5b4f1eaa904df06ff837eef0e2131bfafe"
+  },
+  {
+    "file": "puja/gpt/original-part-006-transcript.json.gz",
+    "bytes": 999,
+    "sha256": "4224e40fac5207f241044072ff0b4090f1ae4c6381f448d9208d262240b68ddc"
+  },
+  {
+    "file": "puja/gpt/original-part-007-transcript.json.gz",
+    "bytes": 1445,
+    "sha256": "444c33b64a96ac18786036f67d9b129faf0428723a8f5dfca66ad4d3ce14171a"
+  },
+  {
+    "file": "puja/gpt/original-part-008-transcript.json.gz",
+    "bytes": 1497,
+    "sha256": "c452e3fe40336b4b531428c36c86a5e726ab1a1a6608e376a8c48e81f07b5a89"
+  },
+  {
+    "file": "puja/gpt/original-part-009-transcript.json.gz",
+    "bytes": 1326,
+    "sha256": "608c6032808e1a234d4a9a554b8ae34aa132d277fe405fb02531b2c0c61f5010"
+  },
+  {
+    "file": "puja/gpt/original-part-010-transcript.json.gz",
+    "bytes": 775,
+    "sha256": "b730f43aac2b62a87811f69450fbb9c98e85d8634aef49402a34e61ac67fd22a"
+  },
+  {
+    "file": "puja/gpt-fine/chunks.json",
+    "bytes": 6701,
+    "sha256": "25ded901d31cc6851b5c27175e103f0239cb2d2777bdcffedf0662af19ac7540"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-001-transcript.json.gz",
+    "bytes": 487,
+    "sha256": "3ac84cd8f43ff221427382f72b4249eef4eb41538b7b8006b4b80fc863d4336a"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-002-transcript.json.gz",
+    "bytes": 476,
+    "sha256": "2164683b3690d61eefe6ad523534088c4f8b8687809e40e81476f915fdbbe382"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-003-transcript.json.gz",
+    "bytes": 577,
+    "sha256": "ffaad70fbaaf1b6346826f336cf207cbc6b076d7d4b67f3b0a62f1bc535b5bc1"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-004-transcript.json.gz",
+    "bytes": 597,
+    "sha256": "f49c881142d2ae7827e7bbcd7de0a5d8108778ba3a38c4fd1a7ab2f08c23c910"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-005-transcript.json.gz",
+    "bytes": 461,
+    "sha256": "c1a50145622dc582df08a3897640d7c25eb962207c1b4e365eea2d580add886d"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-006-transcript.json.gz",
+    "bytes": 454,
+    "sha256": "3bcb93ee75f42787da64ffe3f2832912cf052be2f9f4ddfb5ddfb422cb01f287"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-007-transcript.json.gz",
+    "bytes": 323,
+    "sha256": "8c6b52ab9b9c3483193d6c800c3ce8eeb44e2a987ca9306a6fb199e929712d8f"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-008-transcript.json.gz",
+    "bytes": 617,
+    "sha256": "db060a0d5dfe7416b15f3d6f0703cf84b713766225358f9ff268618e188bac43"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-009-transcript.json.gz",
+    "bytes": 469,
+    "sha256": "878e6330879076fc16d85804cd2a1f85b5e3ef257fccde5d52b7eac8fd928be6"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-010-transcript.json.gz",
+    "bytes": 524,
+    "sha256": "818032f1c90d7db72b5e07d2b02f68629b772dfd88616e2e4e6e191be8487653"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-011-transcript.json.gz",
+    "bytes": 530,
+    "sha256": "f74d8d57ecab1a678a7e547b9e6f4c1bc6118f21b997fe5a72930b5dc43a762e"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-012-transcript.json.gz",
+    "bytes": 498,
+    "sha256": "5dd1c290d57e888831c1f5cb51b674416f7599e8c9e2be98c1a36dd1fd7b2437"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-013-transcript.json.gz",
+    "bytes": 523,
+    "sha256": "a2d354b08713ff53af975d3ec48d4a02b52ff21a70bd439dbc5620ec6e7951c3"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-014-transcript.json.gz",
+    "bytes": 585,
+    "sha256": "5cfe1e213bb1f5752afb12316ad76f7a1b98b05e7af0e99ed087a2b15c00076b"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-015-transcript.json.gz",
+    "bytes": 601,
+    "sha256": "5de74a2e1f47611bce9534273cd1d39a78da72fb35d17d1b2e94324585dedd57"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-016-transcript.json.gz",
+    "bytes": 528,
+    "sha256": "68f075f211ca4f1d4097655ac861d51cc04d4446c7206ff3ebcb5d411033eb4e"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-017-transcript.json.gz",
+    "bytes": 452,
+    "sha256": "c0039ad021da8a7474aca3d1073455bfcdb4b0725e12a755859e89521903496a"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-018-transcript.json.gz",
+    "bytes": 471,
+    "sha256": "617ff6ca72065defba5ebe4c5e421de5000db78de6d5841cbb90705bdbe52011"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-019-transcript.json.gz",
+    "bytes": 475,
+    "sha256": "f9e09821b5aae9550091fe8b16016db9bd2e10822de16846ebde7304b08b13f3"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-020-transcript.json.gz",
+    "bytes": 511,
+    "sha256": "b2d5c6981cc4b6204804f15f4d9e7d25f53da23d87adf14be2765a08d9d17885"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-021-transcript.json.gz",
+    "bytes": 455,
+    "sha256": "0d198fc46669fb3ec6eb80818ac3b792ae968a5542c38a020f6ab94959905f5a"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-022-transcript.json.gz",
+    "bytes": 440,
+    "sha256": "c77c756298f0776d67c23e7e8e38996ba9acfd5f9052a275fbfef59829f6e058"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-023-transcript.json.gz",
+    "bytes": 430,
+    "sha256": "3e9a88f4c846066c411fddb99880e71ab430783945163062e67777ffcb22725e"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-024-transcript.json.gz",
+    "bytes": 382,
+    "sha256": "5e7b63568fb2116072211aa16ad403b29d0b335ebe023dc972d50f31dd12a86e"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-025-transcript.json.gz",
+    "bytes": 328,
+    "sha256": "e6dde51ad43fc420f534d4cdbc46035d89b27580f1028bc178736f49f7e3045f"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-026-transcript.json.gz",
+    "bytes": 439,
+    "sha256": "76dcfd136d56469424799932c14bac1e53ab181958375e544401b73bbeddab42"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-027-transcript.json.gz",
+    "bytes": 519,
+    "sha256": "0d65882e068e49e149fcc7d9b1b8c99157fab3f8118d2719eef0e00b7353c759"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-028-transcript.json.gz",
+    "bytes": 560,
+    "sha256": "2d18f42e06bd241f888c2d9bcc15bb5b9ec99caf1633cf396c68bca9fdd64ca2"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-029-transcript.json.gz",
+    "bytes": 561,
+    "sha256": "1598acc90c0450dd05b65efd947ed43a7444f9725da6c6dd621ad066b74809ca"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-030-transcript.json.gz",
+    "bytes": 538,
+    "sha256": "ca262fc7211e2c1c9a318b7903a87d273a3ec724d5da0db34f5a0ecc2c556c02"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-031-transcript.json.gz",
+    "bytes": 587,
+    "sha256": "70d383caedbb434d74e7d5fadf96758ae1518eab09a566d68f2bd8eeb6719218"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-032-transcript.json.gz",
+    "bytes": 557,
+    "sha256": "64d0a14e9b0b0b7ebbdc3cd19f15d5ab5b412e7ecdcb8a09f2edcb84978efbcc"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-033-transcript.json.gz",
+    "bytes": 510,
+    "sha256": "9ce23c5fad3fe9983f7130be423baafc4d97ae5865a3428ebcb5103883d3c188"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-034-transcript.json.gz",
+    "bytes": 500,
+    "sha256": "c5ed9937ff6ebcd76757294c41e2fc3f6545733df22b21e667cea9afa6da0b55"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-035-transcript.json.gz",
+    "bytes": 422,
+    "sha256": "2c44cf29cf26abfc8b3b0fe1cb51785410b042e33e18822e2f7e1d0ac701749b"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-036-transcript.json.gz",
+    "bytes": 443,
+    "sha256": "25a7d96a2c5a17696eb8cdeff3ee94479195157beea80a5eeec64ac223a35112"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-037-transcript.json.gz",
+    "bytes": 582,
+    "sha256": "71a46d1bc8e32c6cbc7ef13e3c3cbd69af83431d75827fb468bd966854424c13"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-038-transcript.json.gz",
+    "bytes": 517,
+    "sha256": "b542834c74faf57455e1302dc8a81e785c73e0a3eae8348880dd90cead373573"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-039-transcript.json.gz",
+    "bytes": 550,
+    "sha256": "37a1cb2598bc0e1c30e2c5fb0d29de705ad56ace090d6969c33a26dc809ce663"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-040-transcript.json.gz",
+    "bytes": 502,
+    "sha256": "9024974cce955b7607a45f4ff650c35095e6b07f6cb7417349c0242adfaf50cf"
+  },
+  {
+    "file": "puja/gpt-fine/original-part-041-transcript.json.gz",
+    "bytes": 285,
+    "sha256": "4a88ec16305178c49a8c0221f6df05a2b6c681473fd48d1f141135ee0ac8c475"
+  },
+  {
+    "file": "puja/reconciled/acamana.txt.gz",
+    "bytes": 239,
+    "sha256": "f97b4716b9d7bd21592618f63aa1fc3e7d55612876383eb37a507e9594e78c56"
+  },
+  {
+    "file": "puja/reconciled/acamaniya.txt.gz",
+    "bytes": 292,
+    "sha256": "2537c4b211015e9db73e27ef587a420ec604013a980e18c3c48ec13d3cdcebc1"
+  },
+  {
+    "file": "puja/reconciled/additional-vocabulary.txt.gz",
+    "bytes": 4467,
+    "sha256": "785e7636e12e42cc89f2745eea5d9303901008e1f67c4f10d5989034964a7946"
+  },
+  {
+    "file": "puja/reconciled/aksata.txt.gz",
+    "bytes": 187,
+    "sha256": "c4b146bbed937e49a9eed2a7647f4bfdff0786e1646a5d3d15f73e74caacbc22"
+  },
+  {
+    "file": "puja/reconciled/anga-puja.txt.gz",
+    "bytes": 522,
+    "sha256": "db9b372662052330ae4b84d95b2fb25021db74d648d275a5fca737d4d95b747b"
+  },
+  {
+    "file": "puja/reconciled/arghya.txt.gz",
+    "bytes": 295,
+    "sha256": "b38b45ad88c85c838611265f040034a2588766ce062e701da5d1df17ffc5b5cd"
+  },
+  {
+    "file": "puja/reconciled/asana.txt.gz",
+    "bytes": 243,
+    "sha256": "0dd19c1c2932e71e49a67d82801a8195798021435a60c2aea83a12abd980cf01"
+  },
+  {
+    "file": "puja/reconciled/audit_source_coverage.py",
+    "bytes": 4337,
+    "sha256": "0ce8cab2a6b6140899079c67f5fd61cfeb803b203d0df9cd421ee443f31859a9"
+  },
+  {
+    "file": "puja/reconciled/bali-arati.txt.gz",
+    "bytes": 371,
+    "sha256": "54471368f1f08b2803233792e3fa08d5f7bd7c783cdc2efd964ddbd5cf176e23"
+  },
+  {
+    "file": "puja/reconciled/build_puja.py",
+    "bytes": 94777,
+    "sha256": "3c1b8dffdc0b2e2204965c2d7fcf1048a988c522109983e3201fccaf9e3e933a"
+  },
+  {
+    "file": "puja/reconciled/caption-cues.json",
+    "bytes": 192178,
+    "sha256": "690f0e1dda5efb5344a2d44c8f134b880c31bbce7ddab5ffa96b532e9baf6fd9"
+  },
+  {
+    "file": "puja/reconciled/caption-reading-aid.txt.gz",
+    "bytes": 12079,
+    "sha256": "24964d82061230659e081a7109078dd3cc1f9eb88ac23a81240af395dc8370e6"
+  },
+  {
+    "file": "puja/reconciled/closing.txt.gz",
+    "bytes": 186,
+    "sha256": "ba6fac422dc36c9d10b47826555b5307ca7bde9945811401a6a9dd217b7d2bfe"
+  },
+  {
+    "file": "puja/reconciled/clothes.txt.gz",
+    "bytes": 354,
+    "sha256": "579ec40bd625506a1f1fffa441cbed163a16f065cec2fb92a42256bdae09d196"
+  },
+  {
+    "file": "puja/reconciled/complete-roman.txt.gz",
+    "bytes": 7274,
+    "sha256": "053bdcc95f08bfecd6bf4e25857b4dc04144e7b30394c848947cc28ae07409a3"
+  },
+  {
+    "file": "puja/reconciled/complete-source.txt.gz",
+    "bytes": 8018,
+    "sha256": "65e3a4bc334f61ac86e7858178721d4a5248087096ad8f3ae670adf5d63b2481"
+  },
+  {
+    "file": "puja/reconciled/coverage-report.json",
+    "bytes": 16114,
+    "sha256": "b84589106fee75894d0bd66c6396ed47a48bb90c7eeb9e567ba22eca8a6a63a5"
+  },
+  {
+    "file": "puja/reconciled/dakshina.txt.gz",
+    "bytes": 201,
+    "sha256": "86372e291055130eeadd9da538bedad66568807133d964eaee0f77b17d3e6234"
+  },
+  {
+    "file": "puja/reconciled/dedication.txt.gz",
+    "bytes": 412,
+    "sha256": "f37f63b18402cf2009a41f6f47b74edefdab47346e1a6fdfc427bde98ce5d01a"
+  },
+  {
+    "file": "puja/reconciled/deity-guru-archana.txt.gz",
+    "bytes": 409,
+    "sha256": "200b79bd77b23b2f3992a19e4ba2de599669f1c50791df92839e42ed666449da"
+  },
+  {
+    "file": "puja/reconciled/deity-invocation.txt.gz",
+    "bytes": 391,
+    "sha256": "907fb1ad0f569385f7992f81fdbf121761ff5a8c0381f8c83cd333e2feb908f2"
+  },
+  {
+    "file": "puja/reconciled/deity-meditation-transcript.json.gz",
+    "bytes": 401,
+    "sha256": "02aad77ec8d38efbbf28dfa28fe249ff9279a7878f1ad891aa0978c03d5061cc"
+  },
+  {
+    "file": "puja/reconciled/evidence-manifest.json",
+    "bytes": 967887,
+    "sha256": "882f2bb7c7781b07a9e1cd8eb9fdc7b0b020fe1120a0162c61d993770649f6cc"
+  },
+  {
+    "file": "puja/reconciled/extract_caption_events.py",
+    "bytes": 1632,
+    "sha256": "c15e7d2077e2684a6cc690e2eed6cedc93e40b1ec0c42f4ceb88e1ed4cae778d"
+  },
+  {
+    "file": "puja/reconciled/family-prayers.txt.gz",
+    "bytes": 660,
+    "sha256": "64bae68c4e84bf98a6d196d1e066e3ca4b0266aaebaee3430e275ed5fb174e08"
+  },
+  {
+    "file": "puja/reconciled/fine-window-clause-crossaudit.json",
+    "bytes": 233959,
+    "sha256": "ce5485f91ba0be542d342d5d2469a7a2e140ef9595c91baaebe5bdad46e352a7"
+  },
+  {
+    "file": "puja/reconciled/flowers.txt.gz",
+    "bytes": 249,
+    "sha256": "2a4d55bf516ee7078cb18d49da71a464e35adb9750975eb51fd9a3b29ced9b83"
+  },
+  {
+    "file": "puja/reconciled/food-completion.txt.gz",
+    "bytes": 203,
+    "sha256": "c85ae6fb152c302d17f1c8021ac256f2b2788d04660d0b4402e23f16c8746d25"
+  },
+  {
+    "file": "puja/reconciled/food-preparation.txt.gz",
+    "bytes": 385,
+    "sha256": "00f7ca287fa199cffc78966a08ba2be15a867c4fbafaf4c79dba156849850b2c"
+  },
+  {
+    "file": "puja/reconciled/food-verse-transcript.json.gz",
+    "bytes": 410,
+    "sha256": "77eae5ab2c2755500e45a58d6927f4df83945323af94c075cb7ac06af8d8a7eb"
+  },
+  {
+    "file": "puja/reconciled/food-verses.txt.gz",
+    "bytes": 403,
+    "sha256": "d479cc8d6ca2b711686ecdeee2b181c7b42ec3e85205e6632513c6e18553f0b7"
+  },
+  {
+    "file": "puja/reconciled/fruit-offering.txt.gz",
+    "bytes": 205,
+    "sha256": "07788fada8adf5643c70294dc0ecd41495e313059430579b7f7f33fb515b501c"
+  },
+  {
+    "file": "puja/reconciled/guru-invocation.txt.gz",
+    "bytes": 505,
+    "sha256": "af51da5da61fe89616c9ab8d60f6ef1701d081c1a8d3426d1c7d03a4eb1ff12f"
+  },
+  {
+    "file": "puja/reconciled/guru-open-transcript.json.gz",
+    "bytes": 627,
+    "sha256": "bd178adfe884f18f8111596758eca57a557981307c9b505769d28635cca7f1d9"
+  },
+  {
+    "file": "puja/reconciled/incense.txt.gz",
+    "bytes": 352,
+    "sha256": "857a169136e35fad09df9797674581d660d32f36796fe5e960a58723bbd307c9"
+  },
+  {
+    "file": "puja/reconciled/lamp-offering.txt.gz",
+    "bytes": 377,
+    "sha256": "6bfabf271f5fddda2394cf9c746740b746e2c69e80cd172914aa6d9897e727e7"
+  },
+  {
+    "file": "puja/reconciled/lexical-correction-provenance.json",
+    "bytes": 3367,
+    "sha256": "23cb14ea6bf04d8b407685fc764f6e10e9abe55b9a42981939e1174864b9d638"
+  },
+  {
+    "file": "puja/reconciled/madhuparka-transcript.json.gz",
+    "bytes": 313,
+    "sha256": "796537d7b5a516bb022e3711ab59d234a9ddac27b221abeadc08927b073c2534"
+  },
+  {
+    "file": "puja/reconciled/madhuparka.txt.gz",
+    "bytes": 423,
+    "sha256": "ae9fdb36765fdfa398498a96214df132c9957b953cd84fda8954d8a52897e478"
+  },
+  {
+    "file": "puja/reconciled/mangalarati.txt.gz",
+    "bytes": 420,
+    "sha256": "72ef2d288e89a7897e9c149dcfb309f7141b1935ef144fc8326bde73170a81fe"
+  },
+  {
+    "file": "puja/reconciled/meditation.txt.gz",
+    "bytes": 397,
+    "sha256": "c8b077b718ab5c8b463925878f88ec30be4dae402899f988afad13f513f8cb9c"
+  },
+  {
+    "file": "puja/reconciled/names-incarnations.txt.gz",
+    "bytes": 350,
+    "sha256": "f54e63ed42d24afdb25192c1ecdd578293922081f1d56e88b24ceac0f0fb4616"
+  },
+  {
+    "file": "puja/reconciled/native-caption-coverage-audit.json",
+    "bytes": 912727,
+    "sha256": "4fbc30751dfb31b0db137a8655c2c5ed9938d8dff08201cc2407f2a9ba5e50c0"
+  },
+  {
+    "file": "puja/reconciled/native-word-events.json",
+    "bytes": 476579,
+    "sha256": "7b68a3421b103fb5c2da0622b1a0c9e52b0d7c116165e38e6c791483a12587ae"
+  },
+  {
+    "file": "puja/reconciled/neck-thread.txt.gz",
+    "bytes": 176,
+    "sha256": "5749e0c01f6189df903fb03f2fe91f956b66654b693b9944c22cd272f9ff1f55"
+  },
+  {
+    "file": "puja/reconciled/ornaments.txt.gz",
+    "bytes": 303,
+    "sha256": "2ef1001529d561ddca369f9f45a11ac4d9b7806ae17ae72f4a91780db625e795"
+  },
+  {
+    "file": "puja/reconciled/padya.txt.gz",
+    "bytes": 337,
+    "sha256": "7a52a901a33c8355e76f5f46ec830316a08c4b779ce150b57555c6f171c8f4bd"
+  },
+  {
+    "file": "puja/reconciled/pancakhadya-recipe.txt.gz",
+    "bytes": 307,
+    "sha256": "850f00f529441556fa985fc53d0bf75b43cdcd45cce928b220412706cedec33c"
+  },
+  {
+    "file": "puja/reconciled/pancamrita.txt.gz",
+    "bytes": 276,
+    "sha256": "fa0e3427d06483b5ad4dc8328483dd2fbb71cfdb0ad92ed25b67b8d6461eb1f9"
+  },
+  {
+    "file": "puja/reconciled/pradaksina.txt.gz",
+    "bytes": 412,
+    "sha256": "0f12bd1b3f2d599f299dac52bac2aaecc1e85970fd386057d6cf95bddf74662a"
+  },
+  {
+    "file": "puja/reconciled/pranayama.txt.gz",
+    "bytes": 286,
+    "sha256": "4f9e6faf8ff39d0961f2f4cc9dcc056dc43c6fbd59ef390fdb6f11793984d2f2"
+  },
+  {
+    "file": "puja/reconciled/prayers-four-arms-transcript.json.gz",
+    "bytes": 580,
+    "sha256": "8566dd2d5ae7488bef4e99e7dc6e285be5aa8aab6069f9233107427372c0f44a"
+  },
+  {
+    "file": "puja/reconciled/prayers-open-transcript.json.gz",
+    "bytes": 544,
+    "sha256": "7fb996e3d039f9040b0825c383f4821c600e85cfaa3db9b2ac288660ee13cc72"
+  },
+  {
+    "file": "puja/reconciled/prepare.txt.gz",
+    "bytes": 632,
+    "sha256": "c5bc12b1df1cb8510f098e1df38d4a97494b387256156ab79748300b971173c4"
+  },
+  {
+    "file": "puja/reconciled/puspanjali.txt.gz",
+    "bytes": 244,
+    "sha256": "f11294b5799879d85da669e44527e1061b2825f90f3adca86c5b27d211c28ddf"
+  },
+  {
+    "file": "puja/reconciled/sandal.txt.gz",
+    "bytes": 317,
+    "sha256": "c4477e0d98d239f935a05b3ffc954ca0633cd658c5142e2d7da976c7a2b0ad95"
+  },
+  {
+    "file": "puja/reconciled/sankalpa-year-transcript.json.gz",
+    "bytes": 302,
+    "sha256": "e1908f08b28ef544e3a43f662f408d7068c1ff2629ce5fc18113d8b12016e1c5"
+  },
+  {
+    "file": "puja/reconciled/sankalpa.txt.gz",
+    "bytes": 741,
+    "sha256": "e437488040317be92650da647ac38d04cd7d0c2faa3714300243612aafaba890"
+  },
+  {
+    "file": "puja/reconciled/saraswati-invocation.txt.gz",
+    "bytes": 183,
+    "sha256": "02ff87b870696778cef1478dbb55ea8936be27d2a84c53db4720a519f4c251db"
+  },
+  {
+    "file": "puja/reconciled/sections.json",
+    "bytes": 1604557,
+    "sha256": "b81cba7583ac19df992f5b6c4f28138cf68dd8e69c213fbbb78786a9f0f226ef"
+  },
+  {
+    "file": "puja/reconciled/tambula.txt.gz",
+    "bytes": 228,
+    "sha256": "aac02f78675347edbe9cf030e2fcabe3ed46f5c709bc6dbd878bd7474bf9f3a5"
+  },
+  {
+    "file": "puja/reconciled/targeted-transcription-manifest.json",
+    "bytes": 2614,
+    "sha256": "4abdeb112060fa89ddaea7bb7772aa5c55deff697b4cdc68a47049042efe50ea"
+  },
+  {
+    "file": "puja/reconciled/targeted_checks.py",
+    "bytes": 1042,
+    "sha256": "701dfda89f9cfd18079eae67ae3309c71591f90b66456c24f054c2478a61b0d7"
+  },
+  {
+    "file": "puja/reconciled/third-day-bali.txt.gz",
+    "bytes": 411,
+    "sha256": "3cd3ca37ca12cd656285dac38a1820dc08b4e56a2bb0bbd954c9b7934d256eb9"
+  },
+  {
+    "file": "puja/reconciled/turmeric-kumkum.txt.gz",
+    "bytes": 294,
+    "sha256": "e5b15672a5c1df88ec500db9a5c7df7c26e1ccfa788b3e6301b24f99c089b017"
+  },
+  {
+    "file": "puja/reconciled/water-bathing.txt.gz",
+    "bytes": 450,
+    "sha256": "28f51ffcc5eb38035eb7e922f11327426097fe556751a9525b74adc3d6c99ae1"
+  },
+  {
+    "file": "puja/source/media-metadata.json",
+    "bytes": 2210,
+    "sha256": "8ae79f9f87341e5d973d86d0b218beaac1dfa6cb8bc43e994666947a00ce7a75"
+  },
+  {
+    "file": "puja/source/original.kn-orig.vtt.gz",
+    "bytes": 29179,
+    "sha256": "f9a667f717b66791412c0bb7de93c6e2c5a9f907f4a6878ac730651787969f44"
+  },
+  {
+    "file": "puja/source/provenance.json",
+    "bytes": 842,
+    "sha256": "095fd7d1755efe6e8db84475e3bcda8ab0a83b5d3115fc6256be3a3ab158e313"
+  },
+  {
+    "file": "repository-checks.json",
+    "bytes": 394,
+    "sha256": "6a01794493f9502d04e05cd584e0935d379fb27ec87221b7357f24e9cf516eb9"
+  },
+  {
+    "file": "source-cue-checks.json",
+    "bytes": 7740,
+    "sha256": "4bee32bc480ff7b503963aa915d7fde2ee666e5062564680b4c81dbfe1ad9b2e"
+  },
+  {
+    "file": "ui-checks.json",
+    "bytes": 990,
+    "sha256": "16522aef4a8e44cc3ac89ee237363593358649914c51fe5b82538b0b1beead34"
+  },
+  {
+    "file": "validation.json",
+    "bytes": 198,
+    "sha256": "0490da34ea207d6968090cc423c12880018efcca6ccf73e73ba68a94dcef6600"
+  },
+  {
+    "file": "visarjana/captions/coverage-report.json",
+    "bytes": 976,
+    "sha256": "f9a3ae9e9ef0ba8d812b278f68cf5bba4abe2797d5c1ae29478551870128d231"
+  },
+  {
+    "file": "visarjana/captions/inspection-timeline.json",
+    "bytes": 65567,
+    "sha256": "cd3195d1aa4ca65550c0216644f94fff2711d1809118dc14351fa9394bca5571"
+  },
+  {
+    "file": "visarjana/captions/inspection-timeline.txt.gz",
+    "bytes": 4643,
+    "sha256": "1adc2dab857a94dfe08051ffcbae7bda6385764e33ef81f73163cd3bdef51076"
+  },
+  {
+    "file": "visarjana/captions/native-cues.json",
+    "bytes": 129503,
+    "sha256": "21eb4234e9c7aa738ad27f9aa1b088a8c9ef7c7f3386e85cdc0e3b0d0b8fee38"
+  },
+  {
+    "file": "visarjana/captions/native-word-events.json",
+    "bytes": 157204,
+    "sha256": "28c30b8c73333adbb1a12c29e21cc7ebc9eb545ade24ddc14b139142d72db102"
+  },
+  {
+    "file": "visarjana/gpt/chunks.json",
+    "bytes": 682,
+    "sha256": "1b0fa41b2657a546bcdfda5e4becd3e6b28d9731bafda6c6cb92a9219a8fac01"
+  },
+  {
+    "file": "visarjana/gpt/original-part-001-transcript.json.gz",
+    "bytes": 1367,
+    "sha256": "d99d9013adbf053906f1190b126a1fb8bb3ec714e06d5f3b5b9e956049165809"
+  },
+  {
+    "file": "visarjana/gpt/original-part-002-transcript.json.gz",
+    "bytes": 1191,
+    "sha256": "0a85e8118c0129e4f31370f1c7ffefe58498c87adf8e161f63cb971795fd275c"
+  },
+  {
+    "file": "visarjana/gpt/original-part-003-transcript.json.gz",
+    "bytes": 679,
+    "sha256": "064d3db3b4d4e170669526a6ed2797d27a99bee0f786a9cab3e733c9b6609caa"
+  },
+  {
+    "file": "visarjana/gpt-fine/chunks.json",
+    "bytes": 1932,
+    "sha256": "c2b8413b8fbdf4d67088b1ee0a0da05ff57467fc313f2b8226408e3ac4b5bdd0"
+  },
+  {
+    "file": "visarjana/gpt-fine/original-part-001-transcript.json.gz",
+    "bytes": 538,
+    "sha256": "2d69ccde9a146725cd6adaae6a9ba6e413448abfcdb1344a0a1210125d3376f7"
+  },
+  {
+    "file": "visarjana/gpt-fine/original-part-002-transcript.json.gz",
+    "bytes": 529,
+    "sha256": "da09ab02e3592c6947ca0eb548d25cd055b8058cd4e90417dd346e5f472f1e69"
+  },
+  {
+    "file": "visarjana/gpt-fine/original-part-003-transcript.json.gz",
+    "bytes": 415,
+    "sha256": "9eb54658ebbfb015f5b2dd23d2b54d666043d42bc5b6d075048cbc7888007235"
+  },
+  {
+    "file": "visarjana/gpt-fine/original-part-004-transcript.json.gz",
+    "bytes": 507,
+    "sha256": "69a74996e412008fc3d38d4056b72a687f5bf18b2b2483254cdf3f65e173a2a8"
+  },
+  {
+    "file": "visarjana/gpt-fine/original-part-005-transcript.json.gz",
+    "bytes": 465,
+    "sha256": "e859aa11d0cd90b1b7e193058928d459d080d7be034d1bdc4d6cd3910ad5650a"
+  },
+  {
+    "file": "visarjana/gpt-fine/original-part-006-transcript.json.gz",
+    "bytes": 422,
+    "sha256": "552d00a974a60b3b0c71af482ca7aee310c22aa22e8aeced71df08e8bbd40733"
+  },
+  {
+    "file": "visarjana/gpt-fine/original-part-007-transcript.json.gz",
+    "bytes": 469,
+    "sha256": "2fee73c98cce2a2bc3799ed50a60f2196cc010fa3c76fdbeb6d7c53f4086420c"
+  },
+  {
+    "file": "visarjana/gpt-fine/original-part-008-transcript.json.gz",
+    "bytes": 497,
+    "sha256": "34b70419a0eb264ad3673b776a578de7c071c12888bcda725f3272bba5a8898c"
+  },
+  {
+    "file": "visarjana/gpt-fine/original-part-009-transcript.json.gz",
+    "bytes": 469,
+    "sha256": "1b7be771b4538ef809d9a44d3e10a2ab3925488923bc658243bdb864ec3b9d9b"
+  },
+  {
+    "file": "visarjana/gpt-fine/original-part-010-transcript.json.gz",
+    "bytes": 468,
+    "sha256": "712b2c40d291c5fca317e26ca6b2bced97d4f6194c9afff4be691ac15d6660c4"
+  },
+  {
+    "file": "visarjana/gpt-fine/original-part-011-transcript.json.gz",
+    "bytes": 313,
+    "sha256": "6da36c0b591384091c4f6c66b8cba8109046f9291cb8a19b6efb2ba1b7eae4fc"
+  },
+  {
+    "file": "visarjana/reconciled/README.md",
+    "bytes": 3044,
+    "sha256": "439ff945540f8daf1cd1920ca2e6c46a73ecf0cae1dfa8149bc364c246deee3c"
+  },
+  {
+    "file": "visarjana/reconciled/aligned-segments.json",
+    "bytes": 19233,
+    "sha256": "ed10db1c97d7402c48f5a095cb7fc4bb37737f9c2dd3d0fd5849e51386124ee9"
+  },
+  {
+    "file": "visarjana/reconciled/audit.py",
+    "bytes": 6022,
+    "sha256": "8103ffb8abc5760a8689a5abde41dded93d3bcd220d94169a47b6eb06f2912ca"
+  },
+  {
+    "file": "visarjana/reconciled/avahana-peer-review.json",
+    "bytes": 7539,
+    "sha256": "0ebf0c4d0300e1fd08530581e3f40e12c3558d5eb3239bcbc4f46d235649d881"
+  },
+  {
+    "file": "visarjana/reconciled/build.py",
+    "bytes": 33428,
+    "sha256": "ec2c979d95d69af53adabbf28285cab815dfd8610c59063dde213c88cff5075f"
+  },
+  {
+    "file": "visarjana/reconciled/caption-event-audit.json",
+    "bytes": 132200,
+    "sha256": "4349e847010002d5c6d885b604ed5fbeaf0eebd3bb6b44016510af3324b2a9f6"
+  },
+  {
+    "file": "visarjana/reconciled/charity-gpt4o.json.gz",
+    "bytes": 295,
+    "sha256": "47f482c49da105c3ea4d354e5abcc6777127584a195cee0fee83b29906ee1bc3"
+  },
+  {
+    "file": "visarjana/reconciled/clause-mapping.py",
+    "bytes": 5093,
+    "sha256": "55d547ad79304f1b40ae82f11fa11639bbebef974f353b71d99c3b2114ba1121"
+  },
+  {
+    "file": "visarjana/reconciled/complete-roman.txt.gz",
+    "bytes": 2084,
+    "sha256": "44bd84fb51d74fe74aff30cf059f1ff9a2a2f513ece096404922e1d8054b0252"
+  },
+  {
+    "file": "visarjana/reconciled/complete-source.txt.gz",
+    "bytes": 2402,
+    "sha256": "6096c94e59b19e7dfd856ae3ad6604d871900bbd90f0589f72d5c4a1758c5693"
+  },
+  {
+    "file": "visarjana/reconciled/dismissal-gpt4o.json.gz",
+    "bytes": 450,
+    "sha256": "28233b7a0e9d084490801baba0d893379806b65908e19a2e22a6e8c441d30e85"
+  },
+  {
+    "file": "visarjana/reconciled/evidence-manifest.json",
+    "bytes": 30595,
+    "sha256": "49f4eb04ec5262ee791f96d2fdfd1c70c63b4160d65c4912c598584a14c91e1a"
+  },
+  {
+    "file": "visarjana/reconciled/fine-window-clause-audit.json",
+    "bytes": 63470,
+    "sha256": "fab7f296f7d4b1f57d7748d0e29157b47ed47359f3d969cfb1b5090d6437f779"
+  },
+  {
+    "file": "visarjana/reconciled/madhva-gpt4o.json.gz",
+    "bytes": 370,
+    "sha256": "e04aa946e14c7939bb50758c8f1a25b3a884b2d4afbe36df8ee68723c71db62c"
+  },
+  {
+    "file": "visarjana/reconciled/refine-audit.py",
+    "bytes": 1859,
+    "sha256": "789bb84ac5fd1947af2c10da8d91ec00c80ae8b7231ff565bb65b013b12fe4f8"
+  },
+  {
+    "file": "visarjana/reconciled/sections.json",
+    "bytes": 110089,
+    "sha256": "a0cd1f11cd61cfc5b7945d84843fc5fbc081a8ac28f50bb41be9c77462c8b24f"
+  },
+  {
+    "file": "visarjana/reconciled/shami-one-gpt4o.json.gz",
+    "bytes": 277,
+    "sha256": "7d716309e768398145c4f9447dd05dac55a652008471c8d7ee8ad7768b31f7b2"
+  },
+  {
+    "file": "visarjana/reconciled/shami-three-gpt4o.json.gz",
+    "bytes": 279,
+    "sha256": "9d34f6a057549e98ae60203f23f45d1d5734738132010119792d26d64341d3fc"
+  },
+  {
+    "file": "visarjana/reconciled/shami-two-gpt4o.json.gz",
+    "bytes": 305,
+    "sha256": "78c52dbd629e9f7cc52c314a16b762599c3cfcbbe408efe8a33a7261710313db"
+  },
+  {
+    "file": "visarjana/reconciled/source-ledger.json",
+    "bytes": 6686,
+    "sha256": "6ed02d7c9464d7c1a4406b963ee187f299e8125a0e2fc3f67289eefb9b7843ea"
+  },
+  {
+    "file": "visarjana/reconciled/target-checks-manifest.json",
+    "bytes": 675,
+    "sha256": "930ebd9eee94a35d5a635e5fe18ee18919b0a93b398848d0680bd38ce2527d43"
+  },
+  {
+    "file": "visarjana/reconciled/target-checks.py",
+    "bytes": 1045,
+    "sha256": "1ad6eeb3fa250146407c0cf1976da18181f15dca596fa823405bb09f602b51ba"
+  },
+  {
+    "file": "visarjana/reconciled/textual-reconcile.py",
+    "bytes": 7780,
+    "sha256": "38775d182b390c87b8b866853446354d35270b0a0d33e42ecf403f3270a22353"
+  },
+  {
+    "file": "visarjana/reconciled/textual-reconciliation-provenance.json",
+    "bytes": 3304,
+    "sha256": "f4674dae7acf9c6972abc3812606688fb39a132780ddb7d7ba75727d8b867140"
+  },
+  {
+    "file": "visarjana/reconciled/uncertainty-inventory.json",
+    "bytes": 7092,
+    "sha256": "d2ebe8c149557d2090f9d5cbcc492f8e6f37482e30b5052bce443dacad92701e"
+  },
+  {
+    "file": "visarjana/reconciled/validation.json",
+    "bytes": 909,
+    "sha256": "120422d2ca761d481a5f1851ed9c3aab83d370024c6cc18d96b9a4276305817c"
+  },
+  {
+    "file": "visarjana/source/media-metadata.json",
+    "bytes": 2091,
+    "sha256": "0df7b814b965b569f54019d6252f9211e686bf06f2a9355e70387bd80ca8c7dc"
+  },
+  {
+    "file": "visarjana/source/original.kn-orig.vtt.gz",
+    "bytes": 7647,
+    "sha256": "626a49ef2bee3dd9535f31bf2e8c0dc83d39fec1853ec6bd3185e35a57339856"
+  },
+  {
+    "file": "visarjana/source/provenance.json",
+    "bytes": 899,
+    "sha256": "8df782ceacabb8b57ce82d3178f1dabf3d45bd4a733fee3ca913392fd75925d0"
+  }
+]

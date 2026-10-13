@@ -1,0 +1,223 @@
+{
+  "sources": [
+    {
+      "sourceId": "avahana",
+      "durationSeconds": 1035.633208,
+      "sections": 28,
+      "blocks": 60,
+      "nativeWordEvents": 1021,
+      "unmappedEvents": 0,
+      "unclassifiedCaptionTransitionIntervals": [
+        {
+          "start": 0,
+          "end": 0.56,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 6.71,
+          "end": 6.72,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 62.31,
+          "end": 62.32,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 123.91,
+          "end": 123.92,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 159.83,
+          "end": 159.84,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 183.75,
+          "end": 183.76,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 208.149,
+          "end": 208.159,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 308.55,
+          "end": 308.56,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 346.469,
+          "end": 346.479,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 381.59,
+          "end": 381.6,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 401.67,
+          "end": 401.68,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 405.43,
+          "end": 405.44,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 421.189,
+          "end": 421.199,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 443.749,
+          "end": 443.759,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 468.55,
+          "end": 468.56,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 498.469,
+          "end": 498.479,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 541.67,
+          "end": 541.68,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 607.19,
+          "end": 607.2,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 630.47,
+          "end": 630.48,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 640.23,
+          "end": 640.24,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 719.99,
+          "end": 720.0,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 759.03,
+          "end": 759.04,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 767.67,
+          "end": 767.68,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 895.03,
+          "end": 895.04,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 940.389,
+          "end": 940.399,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        }
+      ],
+      "nonlexicalCaptionEvents": [
+        {
+          "start": 356.13,
+          "end": 357.27,
+          "start_time": "00:05:56.130",
+          "end_time": "00:05:57.270",
+          "raw_cue_ref": {
+            "source_file": "original.kn-orig.vtt",
+            "cue_index": 221,
+            "start_time": "00:05:56.130",
+            "end_time": "00:05:57.270"
+          },
+          "raw_word": "[\u0cb8\u0c82\u0c97\u0cc0\u0ca4]",
+          "status": "Nonlexical caption marker retained in this ledger; not fabricated spoken text or independent acoustic classification."
+        }
+      ],
+      "exactCharacterReconstruction": true
+    },
+    {
+      "sourceId": "puja",
+      "durationSeconds": 1613.763628,
+      "sections": 42,
+      "blocks": 118,
+      "nativeWordEvents": 1782,
+      "unmappedEvents": 0,
+      "unclassifiedCaptionTransitionIntervals": [
+        {
+          "start": 0,
+          "end": 1.68,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 1493.19,
+          "end": 1495.679,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        }
+      ],
+      "nonlexicalCaptionEvents": [
+        {
+          "start": 1493.2,
+          "end": 1495.669,
+          "start_time": "00:24:53.200",
+          "end_time": "00:24:55.669",
+          "raw_cue_ref": {
+            "source_file": "original.kn-orig.vtt",
+            "cue_index": 889,
+            "start_time": "00:24:53.200",
+            "end_time": "00:24:55.669"
+          },
+          "raw_word": "[\u0cb8\u0c82\u0c97\u0cc0\u0ca4]",
+          "status": "Nonlexical caption marker retained in this ledger; not fabricated spoken text or independent acoustic classification."
+        }
+      ],
+      "exactCharacterReconstruction": true
+    },
+    {
+      "sourceId": "visarjana",
+      "durationSeconds": 416.612438,
+      "sections": 11,
+      "blocks": 32,
+      "nativeWordEvents": 454,
+      "unmappedEvents": 0,
+      "unclassifiedCaptionTransitionIntervals": [
+        {
+          "start": 0,
+          "end": 0.48,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 135.19,
+          "end": 135.2,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        },
+        {
+          "start": 175.99,
+          "end": 176.0,
+          "status": "No native lexical caption event here; unclassified transition, not certified silence."
+        }
+      ],
+      "nonlexicalCaptionEvents": [],
+      "exactCharacterReconstruction": true
+    }
+  ],
+  "sectionCount": 81,
+  "manualListeningAvailable": false,
+  "synchronizationBasis": "Two overlapping gpt-transcribe passes, targeted acoustic checks, native VTT markers and measured source/clip durations; no human listening claim."
+}

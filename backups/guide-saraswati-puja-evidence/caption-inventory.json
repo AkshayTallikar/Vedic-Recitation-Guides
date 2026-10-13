@@ -1,0 +1,1868 @@
+{
+  "schema_version": 1,
+  "task": "Saraswati source and transcript completeness inventory",
+  "sections": {
+    "avahana": {
+      "source_assets": [
+        {
+          "path": "work/saraswati-puja/avahana/source/original.mp3",
+          "status": "present",
+          "bytes": 17117925,
+          "sha256": "4de5fec07a97ed46cb082162f3dd97c95f616ec5a74818c3684cb1a4659c73c3"
+        },
+        {
+          "path": "work/saraswati-puja/avahana/source/original.m4a",
+          "status": "not_present_optional"
+        },
+        {
+          "path": "work/saraswati-puja/avahana/source/original.webm",
+          "status": "present",
+          "bytes": 17215091,
+          "sha256": "36d2203bbe642404e6e8e1a3f0d6c9a09f5efc4e3352e4cae92a328d10045e53"
+        },
+        {
+          "path": "work/saraswati-puja/avahana/source/original.kn-orig.vtt",
+          "status": "present",
+          "bytes": 113747,
+          "sha256": "27ca7a6e216555ade2e34955e6ab118175c167ee188841758c5f8404b2f3c50f",
+          "cue_count": 615
+        },
+        {
+          "path": "work/saraswati-puja/avahana/source/youtube-metadata.json",
+          "status": "present",
+          "bytes": 615055,
+          "sha256": "85b556a727a9b001214cbd31c34b8eea08d3b4adce77fc8b19c3bdec25e2d2e9",
+          "json_valid": true,
+          "youtube_id": "Cno0ngZM6KU",
+          "duration_seconds": 1036,
+          "caption_tracks": {
+            "human_subtitle_language_count": 0,
+            "automatic_caption_language_count": 157
+          }
+        },
+        {
+          "path": "work/saraswati-puja/avahana/source/media-metadata.json",
+          "status": "present",
+          "bytes": 2095,
+          "sha256": "e9f2eb5336aebf4d2112cedb5a439287a102c1adedbbc2022c941cb4f604a9c3",
+          "json_valid": true
+        },
+        {
+          "path": "work/saraswati-puja/avahana/source/media-sha256.txt",
+          "status": "present",
+          "bytes": 79,
+          "sha256": "75064f4137018ab53299dca35a63b8b729167a9ea89e983eefae9d2841410753"
+        }
+      ],
+      "transcript_groups": {
+        "gpt-fine": {
+          "expected_transcript_count": 26,
+          "manifest": {
+            "path": "work/saraswati-puja/avahana/gpt-fine/chunks.json",
+            "status": "valid",
+            "bytes": 4304,
+            "sha256": "50bf3830d38c708aefc195e2a2f5954e60e04e371ee189bc59a3fc3244412826",
+            "chunk_count": 26,
+            "expected_count": 26,
+            "count_matches_expected": true
+          },
+          "transcript_file_count": 26,
+          "successful_nonempty_json_count": 26,
+          "transcripts": [
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-001-transcript.json",
+              "status": "success",
+              "bytes": 1239,
+              "sha256": "3956d5011a1d7a81aa920d7ba487f4753fa58870272d90adc9cd857648ef5b66",
+              "json_valid": true,
+              "text_chars": 427,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-002-transcript.json",
+              "status": "success",
+              "bytes": 1068,
+              "sha256": "614c7e542c4d18585ab87f8ea871284ee20a60d73306c4122ad1115cb5653869",
+              "json_valid": true,
+              "text_chars": 362,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-003-transcript.json",
+              "status": "success",
+              "bytes": 985,
+              "sha256": "9017398cd1cca4045a4499c18f5c78d08f2ff53420d550a18fb88ead29267da0",
+              "json_valid": true,
+              "text_chars": 339,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-004-transcript.json",
+              "status": "success",
+              "bytes": 1201,
+              "sha256": "44b9ea1278a14fae963ed3ca48f3d755f29b707b6d9af8817517aaacde6b2749",
+              "json_valid": true,
+              "text_chars": 423,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-005-transcript.json",
+              "status": "success",
+              "bytes": 1360,
+              "sha256": "2093bd64aed47e0451fec9b20762809cc5e5aa41c8328a0930467e1c4a4ddd29",
+              "json_valid": true,
+              "text_chars": 496,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-006-transcript.json",
+              "status": "success",
+              "bytes": 1503,
+              "sha256": "3a4854dfb97204f85a40eb57eafa0818055646f7895a950589ee37ec11724a15",
+              "json_valid": true,
+              "text_chars": 531,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-007-transcript.json",
+              "status": "success",
+              "bytes": 1221,
+              "sha256": "9fd87d667632c695b7e5ae26bece8c3123456b9f758197df08a49f9fc92e0898",
+              "json_valid": true,
+              "text_chars": 411,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-008-transcript.json",
+              "status": "success",
+              "bytes": 848,
+              "sha256": "9b752ddf5eed3578bc0ac6639ad7200150c4ce6b28fb875ec83788ae85ce3ff4",
+              "json_valid": true,
+              "text_chars": 280,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-009-transcript.json",
+              "status": "success",
+              "bytes": 1234,
+              "sha256": "025d68d9191d2c310af9c00bafd38ac5898f5f7ec74190834ec9b45bd0c909ee",
+              "json_valid": true,
+              "text_chars": 420,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-010-transcript.json",
+              "status": "success",
+              "bytes": 1282,
+              "sha256": "3a5b551c512a8fbe46ad0394eb80f2b5764a8e6369338eecd973cdadc46350f4",
+              "json_valid": true,
+              "text_chars": 434,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-011-transcript.json",
+              "status": "success",
+              "bytes": 1355,
+              "sha256": "2a46745101f785676548607ac6f777188f705557249b4871ad3c590032e1c75c",
+              "json_valid": true,
+              "text_chars": 463,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-012-transcript.json",
+              "status": "success",
+              "bytes": 1348,
+              "sha256": "33b071b49156efd00a73e23397c43c4b23287de0b7736a2db7f5783966a0af32",
+              "json_valid": true,
+              "text_chars": 464,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-013-transcript.json",
+              "status": "success",
+              "bytes": 1213,
+              "sha256": "42c7ce37f99e4a695490a4f9ebb4c82d03ea54a6fcbf14ba1cc6ada974dd20e9",
+              "json_valid": true,
+              "text_chars": 403,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-014-transcript.json",
+              "status": "success",
+              "bytes": 1354,
+              "sha256": "defff7bdfb259cecae0f4a36cfe4bb5f5d846b31989a8a38b6c26fb844597798",
+              "json_valid": true,
+              "text_chars": 454,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-015-transcript.json",
+              "status": "success",
+              "bytes": 1246,
+              "sha256": "aa9bff3872b512cef029cf5b340a130d5cf7d272ddede1db5c783662738cc555",
+              "json_valid": true,
+              "text_chars": 420,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-016-transcript.json",
+              "status": "success",
+              "bytes": 1233,
+              "sha256": "12f872651044c60db59f5a2496fe78debed3e89de424a630db7ad1eddb8e2651",
+              "json_valid": true,
+              "text_chars": 427,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-017-transcript.json",
+              "status": "success",
+              "bytes": 1027,
+              "sha256": "6c1f6e957e02d8104a922497190b998a810d77ef29e22f6f1308ebe459012f99",
+              "json_valid": true,
+              "text_chars": 343,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-018-transcript.json",
+              "status": "success",
+              "bytes": 1149,
+              "sha256": "af150a8998a1d229b9f0c90d9752049346f359574375c23e5ee474f8b7ed7ea7",
+              "json_valid": true,
+              "text_chars": 391,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-019-transcript.json",
+              "status": "success",
+              "bytes": 1055,
+              "sha256": "a90550b6a3ffeb074bb67f90651002409b9ffd9c2e00f9cda392737165ae84ae",
+              "json_valid": true,
+              "text_chars": 357,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-020-transcript.json",
+              "status": "success",
+              "bytes": 1081,
+              "sha256": "991155bca5dcb37c7fa27a78a29aba888ac93cd875fffbe8021476386856d7b0",
+              "json_valid": true,
+              "text_chars": 371,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-021-transcript.json",
+              "status": "success",
+              "bytes": 1025,
+              "sha256": "68a523f310950b2d50df586247125a228e2b254229d153c24e36870be2d1c286",
+              "json_valid": true,
+              "text_chars": 359,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-022-transcript.json",
+              "status": "success",
+              "bytes": 955,
+              "sha256": "d7ed5cd6db19be67bc7da39659e9d6fdbcd4853b10797dd28e0ade21ad49a40c",
+              "json_valid": true,
+              "text_chars": 323,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-023-transcript.json",
+              "status": "success",
+              "bytes": 1116,
+              "sha256": "f686552da4d4165e1d7046ede451f361527d95dc1a793916c45bd5761ca9a80d",
+              "json_valid": true,
+              "text_chars": 386,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-024-transcript.json",
+              "status": "success",
+              "bytes": 1168,
+              "sha256": "3789a43089a447dd0c44b64cb481f5c71d1f3e0f27a4413541f2f5d0d7f82776",
+              "json_valid": true,
+              "text_chars": 414,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-025-transcript.json",
+              "status": "success",
+              "bytes": 1153,
+              "sha256": "cc19a256e2db751742d02eaabd37a4e118a94a9e6365bbfbcb59d944869e7ef5",
+              "json_valid": true,
+              "text_chars": 397,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-026-transcript.json",
+              "status": "success",
+              "bytes": 1136,
+              "sha256": "beb8fab8748ee67ded0fd3fde865e9087fb267fb0266c19f35ca53907795545a",
+              "json_valid": true,
+              "text_chars": 390,
+              "error_marker_present": false
+            }
+          ],
+          "chunk_audio_file_count": 26,
+          "chunk_audio_files": [
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-001.mp3",
+              "status": "present",
+              "bytes": 675045,
+              "sha256": "7c1f1ec31d17677055c3fa53e43af979da021ad84dbbb138864811bac11abf9a"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-002.mp3",
+              "status": "present",
+              "bytes": 665277,
+              "sha256": "a39bb54eb169bd044331291fad89f4c3e77039175f265ead2d0aae83b09554a3"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-003.mp3",
+              "status": "present",
+              "bytes": 673869,
+              "sha256": "5bcca4f77891e83796ed22fb8de8ae6364a41a7f56a4fa7f031dba8071340983"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-004.mp3",
+              "status": "present",
+              "bytes": 738669,
+              "sha256": "71d07c4adcd36c3fe7e487332a2c8c3176a3356fb492a5bfdcd1abce13d48ffe"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-005.mp3",
+              "status": "present",
+              "bytes": 773853,
+              "sha256": "1a6c8ca2135fb8fc9623056758e4c249af3539adf247e9ad3dd4ab7f9f83226b"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-006.mp3",
+              "status": "present",
+              "bytes": 772797,
+              "sha256": "fcea34985310409ee14f188294af910c1f52155a2e441a4bcacb58b9272aee2e"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-007.mp3",
+              "status": "present",
+              "bytes": 753261,
+              "sha256": "ad13ed688f31a0309a3ed3291ae1159e5a3b1945dced19a89cca3f78c69d906e"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-008.mp3",
+              "status": "present",
+              "bytes": 745677,
+              "sha256": "19f1b77c783ac2ecada5f7ff620161a4de263c45af3dd58dd6394782743edf7a"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-009.mp3",
+              "status": "present",
+              "bytes": 770109,
+              "sha256": "0c80b9e402adf6885e900f8c63e27afece72226365399776477edd8f087cfece"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-010.mp3",
+              "status": "present",
+              "bytes": 759405,
+              "sha256": "81755cfdd21b088885d8c4c6d28fec2b4b22e13c1994c5adf39143c704b8a76c"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-011.mp3",
+              "status": "present",
+              "bytes": 780621,
+              "sha256": "d3096b5e152d8f962bbc352b6b8729c9ae22e178299714c2a0544af7f024087b"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-012.mp3",
+              "status": "present",
+              "bytes": 757533,
+              "sha256": "0a614ac6e16cdbc846dfdda36b73deb3536c91cb2f833a1b7a7cee4a3e190d9e"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-013.mp3",
+              "status": "present",
+              "bytes": 770637,
+              "sha256": "595871456e5722001ea5347d5f0895c4fc23b80347a4906fba9236c61f344e6f"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-014.mp3",
+              "status": "present",
+              "bytes": 755949,
+              "sha256": "008611d7ca8efd166dab4c0515e6d138110c7a3798732d590c9a2807aeeca9ee"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-015.mp3",
+              "status": "present",
+              "bytes": 744477,
+              "sha256": "bb917db136687440af0bfceae17f133c23fedb7f915b0261921a52220537f00e"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-016.mp3",
+              "status": "present",
+              "bytes": 758973,
+              "sha256": "25fbe97077c08d329f3a4320097c6cb06090e34e31b9b6acf9760e5044a13156"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-017.mp3",
+              "status": "present",
+              "bytes": 741213,
+              "sha256": "4c22b52a169544214231b0b082dcc9b4b810d9b6740a8ff7937e696d0300049e"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-018.mp3",
+              "status": "present",
+              "bytes": 751053,
+              "sha256": "ce447f8215d8c2f9b0978a25d25ca67bdf1e23a9709cc7f963a2f4aa336c9094"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-019.mp3",
+              "status": "present",
+              "bytes": 744909,
+              "sha256": "ae3baca7528a57b93ab5142f3872037108c9714e976545552248a17e77477f1c"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-020.mp3",
+              "status": "present",
+              "bytes": 733869,
+              "sha256": "450cf76593b9a35a9b17d60489c7b0f48a07b1bfe220f7ae3f84b0a544bedce1"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-021.mp3",
+              "status": "present",
+              "bytes": 709725,
+              "sha256": "417f1e5d1bbf5c6612871ee15910bbbcc32b405a82395cb5ea7bf669cb0ea3fb"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-022.mp3",
+              "status": "present",
+              "bytes": 779709,
+              "sha256": "8b51e871194fed91581e8d1394c98b16916280f9179617585e4b5a5ee86d158c"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-023.mp3",
+              "status": "present",
+              "bytes": 765645,
+              "sha256": "575b262f9c8fe4059d09a666664739245724f6c7695130914ececfbb6b603955"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-024.mp3",
+              "status": "present",
+              "bytes": 739485,
+              "sha256": "b8dd7403083fb0ea03acdeb88b01fcc73fee8d81a5d849d439ebf318db229e77"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-025.mp3",
+              "status": "present",
+              "bytes": 727677,
+              "sha256": "71acfebcce62bedce118402dd32f3e9a0ca6d459b55a488d691d44451ea7151a"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt-fine/original-part-026.mp3",
+              "status": "present",
+              "bytes": 614301,
+              "sha256": "b4ea08f2b9b6df866a274e6d8f75a868b08298ea27af88a65f17b06b9131b11c"
+            }
+          ]
+        },
+        "gpt": {
+          "expected_transcript_count": 7,
+          "manifest": {
+            "path": "work/saraswati-puja/avahana/gpt/chunks.json",
+            "status": "valid",
+            "bytes": 1316,
+            "sha256": "e423a7c6ed323e0c0617c6763628eee466b4bb8f866c221a4b91313e39e04dd9",
+            "chunk_count": 7,
+            "expected_count": 7,
+            "count_matches_expected": true
+          },
+          "transcript_file_count": 7,
+          "successful_nonempty_json_count": 7,
+          "transcripts": [
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-001-transcript.json",
+              "status": "success",
+              "bytes": 4657,
+              "sha256": "42e20e443f0b764ade5d8ab837e053b90d6246104f0c216e125eedc19487e399",
+              "json_valid": true,
+              "text_chars": 1704,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-002-transcript.json",
+              "status": "success",
+              "bytes": 4545,
+              "sha256": "9bdd19d0741d948a6630a6f88ed7167c18ce99116bbc9195e5c2d30e080855f7",
+              "json_valid": true,
+              "text_chars": 1652,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-003-transcript.json",
+              "status": "success",
+              "bytes": 4697,
+              "sha256": "97f28edff1731c270c77a5981a17ae950023d24273fd2031b79d132e0084fc50",
+              "json_valid": true,
+              "text_chars": 1724,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-004-transcript.json",
+              "status": "success",
+              "bytes": 3402,
+              "sha256": "bbdb99e9146c1042f8713c297a826863db1a312dbe98c33354ee84bba31d92c7",
+              "json_valid": true,
+              "text_chars": 1506,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-005-transcript.json",
+              "status": "success",
+              "bytes": 4103,
+              "sha256": "7b3a63814e542403311b5fae807dee83025f0fc25a11d8096e813deb4427034a",
+              "json_valid": true,
+              "text_chars": 1498,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-006-transcript.json",
+              "status": "success",
+              "bytes": 4360,
+              "sha256": "2df2992b93ef94e9361ac52b88180fbca53c85e96af9a3d679ed19dc90261325",
+              "json_valid": true,
+              "text_chars": 1579,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-007-transcript.json",
+              "status": "success",
+              "bytes": 535,
+              "sha256": "a5396d9f73156820e3dea0111f8f64791c44c4c00ff52155428a6ae3ccc7a842",
+              "json_valid": true,
+              "text_chars": 169,
+              "error_marker_present": false
+            }
+          ],
+          "chunk_audio_file_count": 7,
+          "chunk_audio_files": [
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-001.mp3",
+              "status": "present",
+              "bytes": 2790213,
+              "sha256": "6f10497b83d87edc4d8f6722c22278343d915e515e2a8b97563f58fa7ae6f335"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-002.mp3",
+              "status": "present",
+              "bytes": 3051309,
+              "sha256": "044e1c1b2f77d1773c75864b43091ab20d242df099b9e5ddde1eaea37d16e13a"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-003.mp3",
+              "status": "present",
+              "bytes": 3058701,
+              "sha256": "a070b59a8f62762c984188667fa9fc6b7c9d58b8cde54074cfcb97e327d01c54"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-004.mp3",
+              "status": "present",
+              "bytes": 3011325,
+              "sha256": "9ce7280618e86fbed0808880e1cad0a02aa4c06945528f72748dfdfb3c728b68"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-005.mp3",
+              "status": "present",
+              "bytes": 2954397,
+              "sha256": "f862cb7dc951ee406cad489511d47c8b003b2e861f616a0bc2740f955bd32837"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-006.mp3",
+              "status": "present",
+              "bytes": 3027597,
+              "sha256": "e33fa4f975cb248c0aeae1318ad296f94079d70cf1e0dc503e6d14914c3a52df"
+            },
+            {
+              "path": "work/saraswati-puja/avahana/gpt/original-part-007.mp3",
+              "status": "present",
+              "bytes": 263901,
+              "sha256": "bb74739b332f0e2dfde96af51f3b9f73e5509a2db6bd76f507a9ee65b8ee8c28"
+            }
+          ]
+        }
+      },
+      "caption_coverage": {
+        "status": "valid",
+        "path": "work/saraswati-puja/avahana/captions/coverage-report.json",
+        "sha256": "c5d8a2dcc671fd0d2ea1f093365aed92250bed4b7a7a009f6c4791a5c6ee5d84",
+        "cue_count": 615,
+        "inspection_timeline_count": 615,
+        "native_event_count": 1021,
+        "duration_seconds": 1035.633208,
+        "duration_basis": "ffprobe:original.mp3",
+        "caption_end_overrun_count": 1,
+        "music_cue_count": 2,
+        "suspected_gap_count": 0
+      },
+      "source_streams": [
+        {
+          "path": "work/saraswati-puja/avahana/source/original.mp3",
+          "status": "present",
+          "bytes": 17117925,
+          "sha256": "4de5fec07a97ed46cb082162f3dd97c95f616ec5a74818c3684cb1a4659c73c3"
+        },
+        {
+          "path": "work/saraswati-puja/avahana/source/original.webm",
+          "status": "present",
+          "bytes": 17215091,
+          "sha256": "36d2203bbe642404e6e8e1a3f0d6c9a09f5efc4e3352e4cae92a328d10045e53"
+        }
+      ],
+      "required_source_assets_complete": true,
+      "media_hash_manifest_checks": [
+        {
+          "file": "original.mp3",
+          "expected_sha256": "4de5fec07a97ed46cb082162f3dd97c95f616ec5a74818c3684cb1a4659c73c3",
+          "actual_sha256": "4de5fec07a97ed46cb082162f3dd97c95f616ec5a74818c3684cb1a4659c73c3",
+          "match": true
+        }
+      ],
+      "media_hash_manifest_all_match": true
+    },
+    "puja": {
+      "source_assets": [
+        {
+          "path": "work/saraswati-puja/puja/source/original.mp3",
+          "status": "present",
+          "bytes": 16603936,
+          "sha256": "a42d90a3364600f4bbaf3968e649fb0fcaa13a57a4323a44204fbbf3760c3904"
+        },
+        {
+          "path": "work/saraswati-puja/puja/source/original.m4a",
+          "status": "present",
+          "bytes": 26099406,
+          "sha256": "e5e36d4ca10c370946ad7a16482bf2578ffd2a067d51d40d36f8261d29283bca"
+        },
+        {
+          "path": "work/saraswati-puja/puja/source/original.webm",
+          "status": "not_present_optional"
+        },
+        {
+          "path": "work/saraswati-puja/puja/source/original.kn-orig.vtt",
+          "status": "present",
+          "bytes": 194080,
+          "sha256": "731282f298a338f6e916d96f51cac3d0fda4919ccbd56f3a23b8d2e14f3e41fe",
+          "cue_count": 967
+        },
+        {
+          "path": "work/saraswati-puja/puja/source/youtube-metadata.json",
+          "status": "present",
+          "bytes": 641408,
+          "sha256": "2450c597acf8cefb982597ca498bdd0582724cbfcefecdb175c9566376c8e87c",
+          "json_valid": true,
+          "youtube_id": "hC8efJAiY2c",
+          "duration_seconds": 1614,
+          "caption_tracks": {
+            "human_subtitle_language_count": 0,
+            "automatic_caption_language_count": 157
+          }
+        },
+        {
+          "path": "work/saraswati-puja/puja/source/media-metadata.json",
+          "status": "present",
+          "bytes": 2210,
+          "sha256": "8ae79f9f87341e5d973d86d0b218beaac1dfa6cb8bc43e994666947a00ce7a75",
+          "json_valid": true
+        },
+        {
+          "path": "work/saraswati-puja/puja/source/media-sha256.txt",
+          "status": "present",
+          "bytes": 79,
+          "sha256": "a01c40d04aa28001034f60a85e3bcf92b48b4298d3326dd0ab8bad706d98cd04"
+        }
+      ],
+      "transcript_groups": {
+        "gpt-fine": {
+          "expected_transcript_count": 41,
+          "manifest": {
+            "path": "work/saraswati-puja/puja/gpt-fine/chunks.json",
+            "status": "valid",
+            "bytes": 6701,
+            "sha256": "25ded901d31cc6851b5c27175e103f0239cb2d2777bdcffedf0662af19ac7540",
+            "chunk_count": 41,
+            "expected_count": 41,
+            "count_matches_expected": true
+          },
+          "transcript_file_count": 41,
+          "successful_nonempty_json_count": 41,
+          "transcripts": [
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-001-transcript.json",
+              "status": "success",
+              "bytes": 1153,
+              "sha256": "5c53a530ff8dc82c8fd7ac5165e1c948f2b2aa987360f9f04d5a42921752900d",
+              "json_valid": true,
+              "text_chars": 403,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-002-transcript.json",
+              "status": "success",
+              "bytes": 1157,
+              "sha256": "4b41356b152e43e68aae23cd4e9f791945cd90d5ed7bb92ce5e2706c96f34aee",
+              "json_valid": true,
+              "text_chars": 405,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-003-transcript.json",
+              "status": "success",
+              "bytes": 1362,
+              "sha256": "e4b07f00710e1cc930363cc3dcf7bc4b4941f06cfc8e08c9f2ffffd9ae7d9ba5",
+              "json_valid": true,
+              "text_chars": 476,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-004-transcript.json",
+              "status": "success",
+              "bytes": 1403,
+              "sha256": "b53cd3a7a9c67a94203d138185fb683fb5500b8f0f40fe0773460154efef3181",
+              "json_valid": true,
+              "text_chars": 481,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-005-transcript.json",
+              "status": "success",
+              "bytes": 1179,
+              "sha256": "6a3605618978502f69c57ce1a0605a43ab167f21071598326bded568155d508d",
+              "json_valid": true,
+              "text_chars": 407,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-006-transcript.json",
+              "status": "success",
+              "bytes": 1380,
+              "sha256": "b2835b86e5ad384c6540b3d7d34731e52c51ab640e4b3b99deb32fce037ab0bc",
+              "json_valid": true,
+              "text_chars": 482,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-007-transcript.json",
+              "status": "success",
+              "bytes": 697,
+              "sha256": "8bdfdadf0fe44b64cc5fd17b1ec7d655eead9b79e5cec08c3e0fdd7e56b5eb5b",
+              "json_valid": true,
+              "text_chars": 506,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-008-transcript.json",
+              "status": "success",
+              "bytes": 1571,
+              "sha256": "726b10044154785a72ccfad415e69b39b897cba2f1d057fb94e2c2b6583f94b3",
+              "json_valid": true,
+              "text_chars": 549,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-009-transcript.json",
+              "status": "success",
+              "bytes": 1202,
+              "sha256": "33352efbe7695c00ceeaca9f6548e3753f3b3e021d7ebcc4eed79c4f8516580e",
+              "json_valid": true,
+              "text_chars": 412,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-010-transcript.json",
+              "status": "success",
+              "bytes": 1231,
+              "sha256": "706a66d90b072ddf813c550c6e771ecb7a38e2f9d76a5cd00e4dac08c00a8108",
+              "json_valid": true,
+              "text_chars": 411,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-011-transcript.json",
+              "status": "success",
+              "bytes": 1193,
+              "sha256": "2f026e2dcee10199bd0be0da786c2946e7a7e8886976756288b1ee7d46dcca0c",
+              "json_valid": true,
+              "text_chars": 409,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-012-transcript.json",
+              "status": "success",
+              "bytes": 1267,
+              "sha256": "c599b3f184d43bceeec8a012e6316f943b0ddf7733a94ca2fb6419d80c106add",
+              "json_valid": true,
+              "text_chars": 439,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-013-transcript.json",
+              "status": "success",
+              "bytes": 1315,
+              "sha256": "ea31b2a737602f8017e666d89203bf80889f8af44585d0c7b706c6907e8197a6",
+              "json_valid": true,
+              "text_chars": 459,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-014-transcript.json",
+              "status": "success",
+              "bytes": 1429,
+              "sha256": "58211ea5f3e2c912ad7ac8e561553b38e2a91ce6afcefbe6a9535d8a86c8fcc7",
+              "json_valid": true,
+              "text_chars": 495,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-015-transcript.json",
+              "status": "success",
+              "bytes": 1460,
+              "sha256": "4335d6f1b2ab392d75365189ff808eccfbda1d0a01489a1ccf07c97847904e5c",
+              "json_valid": true,
+              "text_chars": 508,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-016-transcript.json",
+              "status": "success",
+              "bytes": 1309,
+              "sha256": "2723d0fa3473a86535e5818425a88d83eda0376eaeda20ffa29a6f1c42e69b5c",
+              "json_valid": true,
+              "text_chars": 455,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-017-transcript.json",
+              "status": "success",
+              "bytes": 1019,
+              "sha256": "b513d7d4aa93ae775c9c1001d186e08619b022d1a512065f01f390174cd9bedc",
+              "json_valid": true,
+              "text_chars": 347,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-018-transcript.json",
+              "status": "success",
+              "bytes": 1015,
+              "sha256": "50cf6a8973c937b8a0a371dfaac9ba28cb9a4d5c15e892f07af0b6012eea0c66",
+              "json_valid": true,
+              "text_chars": 345,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-019-transcript.json",
+              "status": "success",
+              "bytes": 1204,
+              "sha256": "f5a1a9c083115b34b6286a03b860f19837b90f7a469d69de5cbd056a19238f39",
+              "json_valid": true,
+              "text_chars": 414,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-020-transcript.json",
+              "status": "success",
+              "bytes": 1100,
+              "sha256": "ebdc4c246b383ec13b4dc77377a499417ce8a7ecf39c9c012044b22b5291e886",
+              "json_valid": true,
+              "text_chars": 376,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-021-transcript.json",
+              "status": "success",
+              "bytes": 1348,
+              "sha256": "9a5d1f476fda14722405401599fc544246954055d61ff098f94954976a54b84b",
+              "json_valid": true,
+              "text_chars": 480,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-022-transcript.json",
+              "status": "success",
+              "bytes": 1318,
+              "sha256": "6ee0a950d95d6b823e59c630f21a86900494a029f0b10892a27e3921df0a4f7a",
+              "json_valid": true,
+              "text_chars": 470,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-023-transcript.json",
+              "status": "success",
+              "bytes": 1348,
+              "sha256": "0212ee95ebf343865ec001e043a8a1c0b198d81527e84be932ad3f616fc53d84",
+              "json_valid": true,
+              "text_chars": 490,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-024-transcript.json",
+              "status": "success",
+              "bytes": 1197,
+              "sha256": "7e189d2f323e3d8abc7f48ea1ca10bded629783bfda47ac600814c53d3e9d4b8",
+              "json_valid": true,
+              "text_chars": 411,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-025-transcript.json",
+              "status": "success",
+              "bytes": 944,
+              "sha256": "c0033d89ec7fd93b1469fedd6a94f98c5ab4953b101aab19d95129e05e50ac3e",
+              "json_valid": true,
+              "text_chars": 316,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-026-transcript.json",
+              "status": "success",
+              "bytes": 1393,
+              "sha256": "7aa44cb0580bdcbfcfad99abe3718607a844f6df5e2a343bf1c30785c6b7c43f",
+              "json_valid": true,
+              "text_chars": 493,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-027-transcript.json",
+              "status": "success",
+              "bytes": 1082,
+              "sha256": "a9c95abbc9395185e696ffb6fed467ba66862e709d8e3ff923311373544805f3",
+              "json_valid": true,
+              "text_chars": 374,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-028-transcript.json",
+              "status": "success",
+              "bytes": 1227,
+              "sha256": "36b03fafba8fd53e5743841105041a7b61f6bea91782788ee0486767ffd0a395",
+              "json_valid": true,
+              "text_chars": 419,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-029-transcript.json",
+              "status": "success",
+              "bytes": 1447,
+              "sha256": "605ac95b5fae26c5f650515c0f8733e173b080427cfff49487fdc32267b587ee",
+              "json_valid": true,
+              "text_chars": 513,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-030-transcript.json",
+              "status": "success",
+              "bytes": 1270,
+              "sha256": "9b12abd66c392414180ce2b6fe93ae57a8211d482b903a7306b9454e4ea4ea85",
+              "json_valid": true,
+              "text_chars": 436,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-031-transcript.json",
+              "status": "success",
+              "bytes": 1354,
+              "sha256": "e9ceff015cc94447d97c2d5e46c234756f7ad578b5fe1873cb4a7ac115771467",
+              "json_valid": true,
+              "text_chars": 470,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-032-transcript.json",
+              "status": "success",
+              "bytes": 1349,
+              "sha256": "9549f09b50affed1059c0642ff8ecaf0d521f1b1217e238af936f0b99e8a8f21",
+              "json_valid": true,
+              "text_chars": 469,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-033-transcript.json",
+              "status": "success",
+              "bytes": 1357,
+              "sha256": "61f655b27817c6117ea151d884afc2ba1b4a5a786460dde13dacb46c9c847c4b",
+              "json_valid": true,
+              "text_chars": 469,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-034-transcript.json",
+              "status": "success",
+              "bytes": 1239,
+              "sha256": "181ca4b5929d7051668aa68a948e7f9c685593c23ae9ae623442506609da1ed1",
+              "json_valid": true,
+              "text_chars": 439,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-035-transcript.json",
+              "status": "success",
+              "bytes": 855,
+              "sha256": "cce437f713d473d31ea12023965f8ad248c2ce675f58ab01b0db945a62505a47",
+              "json_valid": true,
+              "text_chars": 293,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-036-transcript.json",
+              "status": "success",
+              "bytes": 967,
+              "sha256": "80922a93093744fe5c387fa6c7a746fbb09b2bf933a6107e7e18a17ad029a31c",
+              "json_valid": true,
+              "text_chars": 323,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-037-transcript.json",
+              "status": "success",
+              "bytes": 1471,
+              "sha256": "0615759c3c6de62e4812c2886376c7622b2ea286d92db9ead0b8b6521a059e28",
+              "json_valid": true,
+              "text_chars": 503,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-038-transcript.json",
+              "status": "success",
+              "bytes": 1251,
+              "sha256": "8502d2e39722f8bafa3badc0eb1f715ecceaa3082a56bd1eccd337d1ef03137e",
+              "json_valid": true,
+              "text_chars": 437,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-039-transcript.json",
+              "status": "success",
+              "bytes": 1542,
+              "sha256": "848889061f56ba9b12206c1b0536131d62daac33bceb2975ba018410934c7c27",
+              "json_valid": true,
+              "text_chars": 552,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-040-transcript.json",
+              "status": "success",
+              "bytes": 1346,
+              "sha256": "eaa6122efbcbe91e8db11a9ad95fc513d0cda25861b507694b07f47ca0c5fa84",
+              "json_valid": true,
+              "text_chars": 474,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-041-transcript.json",
+              "status": "success",
+              "bytes": 462,
+              "sha256": "55ebf202ead27480b52b833d11af389cc7ee61c72fb4bf403909f209f6a55de8",
+              "json_valid": true,
+              "text_chars": 142,
+              "error_marker_present": false
+            }
+          ],
+          "chunk_audio_file_count": 41,
+          "chunk_audio_files": [
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-001.mp3",
+              "status": "present",
+              "bytes": 391460,
+              "sha256": "41886e6de6700adc5cae90b01763fe82147248ae7cc81ce1428fd77664bbd5fe"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-002.mp3",
+              "status": "present",
+              "bytes": 386194,
+              "sha256": "9164f357de99d4bd3a46f5ebedefb19ddb2273152179fc7ef9ad5d3a72b257b1"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-003.mp3",
+              "status": "present",
+              "bytes": 462660,
+              "sha256": "34d73d6166d74ff26cfa0fd0eb272afd4e9f7e1a393d91be79c458a389943957"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-004.mp3",
+              "status": "present",
+              "bytes": 474805,
+              "sha256": "f67972747f901e7dcb2aa6f30f9945ece2d2c6cab9938916f542b4d2534b4f79"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-005.mp3",
+              "status": "present",
+              "bytes": 460120,
+              "sha256": "53bddec25e3951459130c8411fdfee8794902c67e7ad37256cb3c1cab692f331"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-006.mp3",
+              "status": "present",
+              "bytes": 466699,
+              "sha256": "a6e46e508611f5a2c75891c8a7bf35f2406de4cb2a5c91558d5f95d1d24d722b"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-007.mp3",
+              "status": "present",
+              "bytes": 494922,
+              "sha256": "926c87546da13fbff2ea8d463ff8f6da042a98cd7140130fdc14df10fc2c73b8"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-008.mp3",
+              "status": "present",
+              "bytes": 490789,
+              "sha256": "d54f5ccec913d626ff785140662170118fd815566c8ebd0b83290d38a6ad4cf9"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-009.mp3",
+              "status": "present",
+              "bytes": 480096,
+              "sha256": "10c85f4d309146b00410ca117bd45cd9a4756ee97a0b47f4d8422e60dabd5f85"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-010.mp3",
+              "status": "present",
+              "bytes": 486579,
+              "sha256": "ef383b1fca218852a8edba236ac96bbe0bdad29d56b383a6e58257d1fb1a4e12"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-011.mp3",
+              "status": "present",
+              "bytes": 490413,
+              "sha256": "24b5cf366182089a4965a1a3ed0720b990c3a45e0ec798159cdf23315e60a282"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-012.mp3",
+              "status": "present",
+              "bytes": 476520,
+              "sha256": "23e7e331b325f4ffcdb51a93782972237cf322545a6ce45a3fa519fa1109e5f6"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-013.mp3",
+              "status": "present",
+              "bytes": 467659,
+              "sha256": "258e004dbb83a10a8ea8712afe9de4fe684438158674cae28098b2d8e20c0803"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-014.mp3",
+              "status": "present",
+              "bytes": 488451,
+              "sha256": "48b22ddf8b18f030b9212f55ae79c5fd5845a2b8a5ed0dcd51d80eb488e939e6"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-015.mp3",
+              "status": "present",
+              "bytes": 496719,
+              "sha256": "61571390125faa6f2c63b9dbc10d9a967edfe770f0ea8ea0ec4b973281f9979d"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-016.mp3",
+              "status": "present",
+              "bytes": 463368,
+              "sha256": "5eb0b2ca16f3ec2d642674de1e8fe461dfb3f4c3225a701df6f84dc62b20e1d3"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-017.mp3",
+              "status": "present",
+              "bytes": 472636,
+              "sha256": "9478b3bb033a7a31dae0272a6860b1c7844ef030cd49bc974b4773625ad8a089"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-018.mp3",
+              "status": "present",
+              "bytes": 469091,
+              "sha256": "ff81b1ea13763db2879f923316ea2c0512dde1b368afd15b6e52953ba97afb43"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-019.mp3",
+              "status": "present",
+              "bytes": 444474,
+              "sha256": "127f6f57633cc1b7392803770f058563310b0f8f264c8f5e356dae7afd009d2b"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-020.mp3",
+              "status": "present",
+              "bytes": 460371,
+              "sha256": "f6315ecc061762d84901ece33be4150f11a84b3d5eb7888e18499f315a324e20"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-021.mp3",
+              "status": "present",
+              "bytes": 474759,
+              "sha256": "860a769866b636a5ed0d82c470b3a207352dbc6a7e6470c68aab1976e49c46e8"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-022.mp3",
+              "status": "present",
+              "bytes": 467444,
+              "sha256": "4e65cf574d31da58fae25dcc934caff5e2df3ebf613e4609f3e58f64ec97e919"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-023.mp3",
+              "status": "present",
+              "bytes": 466347,
+              "sha256": "023d7028009ce26b540eb236cb6e8417328b7aa8005105cede5e0d58e6e9a4d5"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-024.mp3",
+              "status": "present",
+              "bytes": 459000,
+              "sha256": "3d8db0d41acb91a0ac55e85318cce0b65da0b2c875a717957ca7aa5c46a6926f"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-025.mp3",
+              "status": "present",
+              "bytes": 439446,
+              "sha256": "44a2e3345ac147bb079cc7bb4c3bbe0d37ba472d6d27aba5fccd4c50c6f5b0bd"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-026.mp3",
+              "status": "present",
+              "bytes": 421990,
+              "sha256": "dbc1c5d13ebf0da96135689df9b6b64c51f0993b0210c2d0398d499b77550242"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-027.mp3",
+              "status": "present",
+              "bytes": 446757,
+              "sha256": "b402bbd6ac8725beae25951274e1e8054f871d6b2be601dda6eaddddc7751785"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-028.mp3",
+              "status": "present",
+              "bytes": 456777,
+              "sha256": "701bb03839fc2a075de31509884a58b81a97ab5fd3316794df22abb80796b00c"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-029.mp3",
+              "status": "present",
+              "bytes": 491979,
+              "sha256": "473eb3911f0721c04aa8e90c8131520ed0cf7e430b1c55437ebfd39b4c90b354"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-030.mp3",
+              "status": "present",
+              "bytes": 470767,
+              "sha256": "b33354d67cae48e2a3ade025f2a31f479e473b2e29a39528518561713557d4f6"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-031.mp3",
+              "status": "present",
+              "bytes": 473630,
+              "sha256": "5b45e4328f9e609af31e854b025099da5b651a19c304dd35b4d766240ac39636"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-032.mp3",
+              "status": "present",
+              "bytes": 486254,
+              "sha256": "80adc798e99360b5a91d0d1c93c6cdc5cbfe8fa01431b1a746d0c3e842812cc2"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-033.mp3",
+              "status": "present",
+              "bytes": 466749,
+              "sha256": "7e2e376fb3e2cbcfdbe893fcd62faf06b10365b0314bff116a223b8f6408b751"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-034.mp3",
+              "status": "present",
+              "bytes": 487873,
+              "sha256": "9663ad8649af60156c3bb7fba8c109b727f5c7cbf9df301e57bfa961418d42dd"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-035.mp3",
+              "status": "present",
+              "bytes": 443403,
+              "sha256": "b0ec4319e09b906e43e47dac3b311264ecd34882c065f243f175abd257e27ff8"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-036.mp3",
+              "status": "present",
+              "bytes": 448987,
+              "sha256": "8bbf68ed0f206dacb1a3dfb0a46f5c8a0e7b738430be4713975cc8606ab48a4a"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-037.mp3",
+              "status": "present",
+              "bytes": 495798,
+              "sha256": "8c10e1246dcfb08441f6a6ebe7a74bceecbe4757f3bb16c7b91c82b4fb24b2e5"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-038.mp3",
+              "status": "present",
+              "bytes": 438809,
+              "sha256": "25c6ad25162466a517698411066d3afbc6e5875a9c1ca895eaf71dac1a1b664e"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-039.mp3",
+              "status": "present",
+              "bytes": 419103,
+              "sha256": "7b4994b6c48bd1292592fcfd825a7d4f0f22b55ae13c82f79da807986a90ea3d"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-040.mp3",
+              "status": "present",
+              "bytes": 450842,
+              "sha256": "c645752b9a904cade7e396cffa25bbd358ba44310d53a1142be08e2529190384"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt-fine/original-part-041.mp3",
+              "status": "present",
+              "bytes": 130224,
+              "sha256": "f411b2ca3f5f09f02978e5e61dbf90ff69e4a653e35430d6304907e1ce2d1961"
+            }
+          ]
+        },
+        "gpt": {
+          "expected_transcript_count": 10,
+          "manifest": {
+            "path": "work/saraswati-puja/puja/gpt/chunks.json",
+            "status": "valid",
+            "bytes": 1794,
+            "sha256": "7f153513cd7dd4a95656a3a55fff3b695b50c3f84fb72979af12e68a5a5777f5",
+            "chunk_count": 10,
+            "expected_count": 10,
+            "count_matches_expected": true
+          },
+          "transcript_file_count": 10,
+          "successful_nonempty_json_count": 10,
+          "transcripts": [
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-001-transcript.json",
+              "status": "success",
+              "bytes": 4997,
+              "sha256": "867ed49104e78e4e34bc434b05e3e9549e6d8fa3fd806b7bce764cd8839e221a",
+              "json_valid": true,
+              "text_chars": 1830,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-002-transcript.json",
+              "status": "success",
+              "bytes": 5177,
+              "sha256": "3a620b4478702bd9360336d250ed2130db7cf9dd109cab20f6691424e70e0379",
+              "json_valid": true,
+              "text_chars": 1886,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-003-transcript.json",
+              "status": "success",
+              "bytes": 4673,
+              "sha256": "f00472a0089146c7350ca3596b7a7255eb96bc1caa88c0f5f8e9856dcbdae8d4",
+              "json_valid": true,
+              "text_chars": 1702,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-004-transcript.json",
+              "status": "success",
+              "bytes": 4968,
+              "sha256": "ef2d77356c35573ae8491489c1ce952d249184e8dea14fabe86f294f4b7089d2",
+              "json_valid": true,
+              "text_chars": 1811,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-005-transcript.json",
+              "status": "success",
+              "bytes": 4577,
+              "sha256": "67955d0c0011cc8a4c3512b6c479ad9b8aa76000d7957d5f780e9bb89f08e114",
+              "json_valid": true,
+              "text_chars": 1650,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-006-transcript.json",
+              "status": "success",
+              "bytes": 4658,
+              "sha256": "4a402ea8c4155c6dd171653286e71b1046bbd1383212840e0fd933cff12b240e",
+              "json_valid": true,
+              "text_chars": 1719,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-007-transcript.json",
+              "status": "success",
+              "bytes": 4696,
+              "sha256": "47ddf2f9b2cd9ee9cb9852fd5475ef2e2646598b35c2b08ad26e17ed8df65a16",
+              "json_valid": true,
+              "text_chars": 1731,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-008-transcript.json",
+              "status": "success",
+              "bytes": 5049,
+              "sha256": "01b22101bfc1f254be9492cfb0c0f179c41a6ffd5fe2b0dd1f4daba903639e9b",
+              "json_valid": true,
+              "text_chars": 1834,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-009-transcript.json",
+              "status": "success",
+              "bytes": 4221,
+              "sha256": "3c2e92b504b932eb4dbceeecb9b78cba5aa484b7a7fa3597ae75d84027a3bdc1",
+              "json_valid": true,
+              "text_chars": 1546,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-010-transcript.json",
+              "status": "success",
+              "bytes": 2492,
+              "sha256": "a01207382b795cc8a70c22a1ca15f9bb548598b6635ba8584712822ec7101fab",
+              "json_valid": true,
+              "text_chars": 898,
+              "error_marker_present": false
+            }
+          ],
+          "chunk_audio_file_count": 10,
+          "chunk_audio_files": [
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-001.mp3",
+              "status": "present",
+              "bytes": 1730559,
+              "sha256": "b4e94c3798efb60a6e85e0e366893f57f5f9182324be3a7ff3bd56318844da74"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-002.mp3",
+              "status": "present",
+              "bytes": 1917578,
+              "sha256": "41a249a49048177ae9e84643541a0f550e633d9257fc80dbe32776e9c1a4da0d"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-003.mp3",
+              "status": "present",
+              "bytes": 1901447,
+              "sha256": "378f7e44f340a153531cf891e5f904bd3adab40f43f438810f2abcf59d636939"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-004.mp3",
+              "status": "present",
+              "bytes": 1916942,
+              "sha256": "c53ebb715d3f808d7c34854ec7a56e29a096d06458c541bac98bf4329287e880"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-005.mp3",
+              "status": "present",
+              "bytes": 1836249,
+              "sha256": "b4e34a8773cdc157db2fa67b47fa47dc1c1989c88d47f77107dfae2cb203ea89"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-006.mp3",
+              "status": "present",
+              "bytes": 1821043,
+              "sha256": "91df5c8b1feed9710159396c102619789e421b1c560d6cc73d90d4e67a89ec17"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-007.mp3",
+              "status": "present",
+              "bytes": 1852699,
+              "sha256": "1cefb60606a7eeccf49eb762dd89bcd4a8c7e0357138ae4022400b6eafeacad9"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-008.mp3",
+              "status": "present",
+              "bytes": 1922956,
+              "sha256": "26e7b8cfb29618e2ebb57d7425e5c6ee72e435573ed098215fa11f753da40eb9"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-009.mp3",
+              "status": "present",
+              "bytes": 1800722,
+              "sha256": "ac305421f76587ea8e88725e980dcf003eaf4467f1c9efd0410e7de18fab3963"
+            },
+            {
+              "path": "work/saraswati-puja/puja/gpt/original-part-010.mp3",
+              "status": "present",
+              "bytes": 816681,
+              "sha256": "220c9456cf0eeaeb23657a899969775cac2ca2b23fa4addfd30f44b03a464850"
+            }
+          ]
+        }
+      },
+      "caption_coverage": {
+        "status": "valid",
+        "path": "work/saraswati-puja/puja/captions/coverage-report.json",
+        "sha256": "46ba9a106b96b501944ec8ea37d38073b97e98f0e8abe8ef32ce688de96cb41d",
+        "cue_count": 967,
+        "inspection_timeline_count": 967,
+        "native_event_count": 1782,
+        "duration_seconds": 1613.763628,
+        "duration_basis": "ffprobe:original.mp3",
+        "caption_end_overrun_count": 1,
+        "music_cue_count": 2,
+        "suspected_gap_count": 0
+      },
+      "source_streams": [
+        {
+          "path": "work/saraswati-puja/puja/source/original.mp3",
+          "status": "present",
+          "bytes": 16603936,
+          "sha256": "a42d90a3364600f4bbaf3968e649fb0fcaa13a57a4323a44204fbbf3760c3904"
+        },
+        {
+          "path": "work/saraswati-puja/puja/source/original.m4a",
+          "status": "present",
+          "bytes": 26099406,
+          "sha256": "e5e36d4ca10c370946ad7a16482bf2578ffd2a067d51d40d36f8261d29283bca"
+        }
+      ],
+      "required_source_assets_complete": true,
+      "media_hash_manifest_checks": [
+        {
+          "file": "original.mp3",
+          "expected_sha256": "a42d90a3364600f4bbaf3968e649fb0fcaa13a57a4323a44204fbbf3760c3904",
+          "actual_sha256": "a42d90a3364600f4bbaf3968e649fb0fcaa13a57a4323a44204fbbf3760c3904",
+          "match": true
+        }
+      ],
+      "media_hash_manifest_all_match": true
+    },
+    "visarjana": {
+      "source_assets": [
+        {
+          "path": "work/saraswati-puja/visarjana/source/original.mp3",
+          "status": "present",
+          "bytes": 3864909,
+          "sha256": "9f868ee8032381f59a8fbfe39b129fd9a3d7ce2220d807cb493892466e22b441"
+        },
+        {
+          "path": "work/saraswati-puja/visarjana/source/original.m4a",
+          "status": "not_present_optional"
+        },
+        {
+          "path": "work/saraswati-puja/visarjana/source/original.webm",
+          "status": "present",
+          "bytes": 5462014,
+          "sha256": "0fa95137b41a8778763656709a5cef8e6de593cfa9b4bd5253c09a081ae638c5"
+        },
+        {
+          "path": "work/saraswati-puja/visarjana/source/original.kn-orig.vtt",
+          "status": "present",
+          "bytes": 47906,
+          "sha256": "5409b150f1f31420c5b3665a55c8f910e571b99734cfa486f3335aa78701c93d",
+          "cue_count": 247
+        },
+        {
+          "path": "work/saraswati-puja/visarjana/source/youtube-metadata.json",
+          "status": "present",
+          "bytes": 624918,
+          "sha256": "ab2a56ffb67ef10427ab85b0ebb6254ad7e647b0e34f7ed90409cd06b8a836bd",
+          "json_valid": true,
+          "youtube_id": "cw2W5gl6Low",
+          "duration_seconds": 417,
+          "caption_tracks": {
+            "human_subtitle_language_count": 0,
+            "automatic_caption_language_count": 157
+          }
+        },
+        {
+          "path": "work/saraswati-puja/visarjana/source/media-metadata.json",
+          "status": "present",
+          "bytes": 2091,
+          "sha256": "0df7b814b965b569f54019d6252f9211e686bf06f2a9355e70387bd80ca8c7dc",
+          "json_valid": true
+        },
+        {
+          "path": "work/saraswati-puja/visarjana/source/media-sha256.txt",
+          "status": "present",
+          "bytes": 79,
+          "sha256": "a7610eaf1f57dcc35faf7fa38190605bb0d34f8605d0edbbd3533fa91676663d"
+        }
+      ],
+      "transcript_groups": {
+        "gpt-fine": {
+          "expected_transcript_count": 11,
+          "manifest": {
+            "path": "work/saraswati-puja/visarjana/gpt-fine/chunks.json",
+            "status": "valid",
+            "bytes": 1932,
+            "sha256": "c2b8413b8fbdf4d67088b1ee0a0da05ff57467fc313f2b8226408e3ac4b5bdd0",
+            "chunk_count": 11,
+            "expected_count": 11,
+            "count_matches_expected": true
+          },
+          "transcript_file_count": 11,
+          "successful_nonempty_json_count": 11,
+          "transcripts": [
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-001-transcript.json",
+              "status": "success",
+              "bytes": 1262,
+              "sha256": "b7a217db90d9503a718b9417b0d67f0f3c64b54b67c3a985bd56ba917fa48c54",
+              "json_valid": true,
+              "text_chars": 442,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-002-transcript.json",
+              "status": "success",
+              "bytes": 1204,
+              "sha256": "94420aec828d3db087c1fabd7a77de7aa402f0b8bbf449ce9606e112bc8bf3d3",
+              "json_valid": true,
+              "text_chars": 420,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-003-transcript.json",
+              "status": "success",
+              "bytes": 999,
+              "sha256": "1b7b3baf2026a3e5b8fb99540777a96f33cea0d7a5d866ccdd61f47385dc9f3d",
+              "json_valid": true,
+              "text_chars": 337,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-004-transcript.json",
+              "status": "success",
+              "bytes": 1176,
+              "sha256": "df6c7dcdfc4a0fe4d1d20edad63040edfb1d413a3cefcd92454ddacdfed701c4",
+              "json_valid": true,
+              "text_chars": 414,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-005-transcript.json",
+              "status": "success",
+              "bytes": 1070,
+              "sha256": "c0a5cb015eade1197f6bf4a3a200b32906b2a305a19fe10ce36ff7ce6e9da9e2",
+              "json_valid": true,
+              "text_chars": 368,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-006-transcript.json",
+              "status": "success",
+              "bytes": 890,
+              "sha256": "e6a3de5062d64e1e8ac46d129bd74ceb9351f5ea604a7f7d4c80f98c944d4edc",
+              "json_valid": true,
+              "text_chars": 296,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-007-transcript.json",
+              "status": "success",
+              "bytes": 1151,
+              "sha256": "5717351e6329e9b59d4f4da4171840fdbdb096fc574aa5ef84ff505c578d653e",
+              "json_valid": true,
+              "text_chars": 399,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-008-transcript.json",
+              "status": "success",
+              "bytes": 1214,
+              "sha256": "4ae3d73585399e6c5a6fbccbcf5c047c8ed6667d4da5fbe02d8c06db0a4b245c",
+              "json_valid": true,
+              "text_chars": 426,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-009-transcript.json",
+              "status": "success",
+              "bytes": 1220,
+              "sha256": "9d9040cd61d71bddfae1a089bc6d2ab103f240d00515c13e85caafed97a9ba3f",
+              "json_valid": true,
+              "text_chars": 422,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-010-transcript.json",
+              "status": "success",
+              "bytes": 1237,
+              "sha256": "08c40cbd6dc7886bd9abebf84ef365b4994855c432e9b0a822846fab5769cb77",
+              "json_valid": true,
+              "text_chars": 429,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-011-transcript.json",
+              "status": "success",
+              "bytes": 608,
+              "sha256": "f39ddf97bf6596eb2b51d9a1b6783e1ffe2d3ce09d7db3523a73651770dd81b6",
+              "json_valid": true,
+              "text_chars": 194,
+              "error_marker_present": false
+            }
+          ],
+          "chunk_audio_file_count": 11,
+          "chunk_audio_files": [
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-001.mp3",
+              "status": "present",
+              "bytes": 420621,
+              "sha256": "acde6d5fc6fef338237d3f9b41100310dc2798b24fbc32b6bc0be1730ce19cd7"
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-002.mp3",
+              "status": "present",
+              "bytes": 457485,
+              "sha256": "f37e4c24ddaa8b89d366087f35671f0c8028b4db7d9990a0b1658c5380575c74"
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-003.mp3",
+              "status": "present",
+              "bytes": 401445,
+              "sha256": "9c1d0cd81c23d0f629b1161aaa92d1ea03c337336459aba0bbd73be0c739e847"
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-004.mp3",
+              "status": "present",
+              "bytes": 440541,
+              "sha256": "b7ce2e9d1aeb43cd82eee1d62937fbad31dae2bc8451e46dec26aab285254a23"
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-005.mp3",
+              "status": "present",
+              "bytes": 421173,
+              "sha256": "e346ee80d2db1384ffd9a787124151c3632944d018685c30d8d34033cf5839c9"
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-006.mp3",
+              "status": "present",
+              "bytes": 394053,
+              "sha256": "61ff1eda940c5fa609693850b209c4ba84531736a2a1f4d20b9bfa4ac5581366"
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-007.mp3",
+              "status": "present",
+              "bytes": 405069,
+              "sha256": "e8306381748fc7eccb4053343c6426143352edd9cf3f20ecdffee7e926c08cf3"
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-008.mp3",
+              "status": "present",
+              "bytes": 436005,
+              "sha256": "f582441ea7521f37748d0bdff7e848f3dd07891fb388260820e85c41200dd745"
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-009.mp3",
+              "status": "present",
+              "bytes": 384093,
+              "sha256": "bdecbceb413d996290de522b5459871d3a7936eb43c54ca9dc5322a90d95a722"
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-010.mp3",
+              "status": "present",
+              "bytes": 420501,
+              "sha256": "260b9859b95327f41aa8c31240f420a0c4993e4857d0e534b0668163fbb95bce"
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt-fine/original-part-011.mp3",
+              "status": "present",
+              "bytes": 159981,
+              "sha256": "575f0a80f49e68929035b9c996db716f1b797ce5686a40072f2f910d1085e5a2"
+            }
+          ]
+        },
+        "gpt": {
+          "expected_transcript_count": 3,
+          "manifest": {
+            "path": "work/saraswati-puja/visarjana/gpt/chunks.json",
+            "status": "valid",
+            "bytes": 682,
+            "sha256": "1b0fa41b2657a546bcdfda5e4becd3e6b28d9731bafda6c6cb92a9219a8fac01",
+            "chunk_count": 3,
+            "expected_count": 3,
+            "count_matches_expected": true
+          },
+          "transcript_file_count": 3,
+          "successful_nonempty_json_count": 3,
+          "transcripts": [
+            {
+              "path": "work/saraswati-puja/visarjana/gpt/original-part-001-transcript.json",
+              "status": "success",
+              "bytes": 4431,
+              "sha256": "d40dbc2b5e2e2d6f1c21b31655a5801b5db4893b8f959874e2685ee3c19f3929",
+              "json_valid": true,
+              "text_chars": 1612,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt/original-part-002-transcript.json",
+              "status": "success",
+              "bytes": 4123,
+              "sha256": "38a3a06895fd2aa4393f7553c4b6ac261379d18d7a0f8feabc1103de54227d2a",
+              "json_valid": true,
+              "text_chars": 1500,
+              "error_marker_present": false
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt/original-part-003-transcript.json",
+              "status": "success",
+              "bytes": 2160,
+              "sha256": "5f5556c8f9f0ae7bbe582401597432436994045e9fb7d03dfb93da306d83efee",
+              "json_valid": true,
+              "text_chars": 768,
+              "error_marker_present": false
+            }
+          ],
+          "chunk_audio_file_count": 3,
+          "chunk_audio_files": [
+            {
+              "path": "work/saraswati-puja/visarjana/gpt/original-part-001.mp3",
+              "status": "present",
+              "bytes": 1720893,
+              "sha256": "b5059bacd0f259c4b2067c593a309a8e3139920784dedccc8693023f37389110"
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt/original-part-002.mp3",
+              "status": "present",
+              "bytes": 1606701,
+              "sha256": "6f810b85ab314c935ddbe3e1a14874186b56a6ad24f5aef19fccfa5337a7d276"
+            },
+            {
+              "path": "work/saraswati-puja/visarjana/gpt/original-part-003.mp3",
+              "status": "present",
+              "bytes": 717189,
+              "sha256": "4322df293cb3feb569d580c2426af6673c66ec48f3429688433e1be8615d9066"
+            }
+          ]
+        }
+      },
+      "caption_coverage": {
+        "status": "valid",
+        "path": "work/saraswati-puja/visarjana/captions/coverage-report.json",
+        "sha256": "f9a3ae9e9ef0ba8d812b278f68cf5bba4abe2797d5c1ae29478551870128d231",
+        "cue_count": 247,
+        "inspection_timeline_count": 247,
+        "native_event_count": 454,
+        "duration_seconds": 416.612438,
+        "duration_basis": "ffprobe:original.mp3",
+        "caption_end_overrun_count": 1,
+        "music_cue_count": 0,
+        "suspected_gap_count": 0
+      },
+      "source_streams": [
+        {
+          "path": "work/saraswati-puja/visarjana/source/original.mp3",
+          "status": "present",
+          "bytes": 3864909,
+          "sha256": "9f868ee8032381f59a8fbfe39b129fd9a3d7ce2220d807cb493892466e22b441"
+        },
+        {
+          "path": "work/saraswati-puja/visarjana/source/original.webm",
+          "status": "present",
+          "bytes": 5462014,
+          "sha256": "0fa95137b41a8778763656709a5cef8e6de593cfa9b4bd5253c09a081ae638c5"
+        }
+      ],
+      "required_source_assets_complete": true,
+      "media_hash_manifest_checks": [
+        {
+          "file": "original.mp3",
+          "expected_sha256": "9f868ee8032381f59a8fbfe39b129fd9a3d7ce2220d807cb493892466e22b441",
+          "actual_sha256": "9f868ee8032381f59a8fbfe39b129fd9a3d7ce2220d807cb493892466e22b441",
+          "match": true
+        }
+      ],
+      "media_hash_manifest_all_match": true
+    }
+  },
+  "missing_or_errored_files": [],
+  "note": "Inventory covers source assets, native caption summaries, chunk manifests/audio, and coarse/fine transcript JSON only. Reconciled outputs were intentionally not audited. Absent alternate container formats are labeled optional."
+}

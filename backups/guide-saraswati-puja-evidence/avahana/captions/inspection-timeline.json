@@ -1,0 +1,5537 @@
+[
+  {
+    "cue_index": 1,
+    "start": 0.56,
+    "end": 3.19,
+    "start_time": "00:00:00.560",
+    "end_time": "00:00:03.190",
+    "text": "ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ ಚರಣಂ ಪವಿತ್ರಂ YouTube",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 2,
+    "start": 3.19,
+    "end": 3.2,
+    "start_time": "00:00:03.190",
+    "end_time": "00:00:03.200",
+    "text": "ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ ಚರಣಂ ಪವಿತ್ರಂ YouTube",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 3,
+    "start": 3.2,
+    "end": 6.71,
+    "start_time": "00:00:03.200",
+    "end_time": "00:00:06.710",
+    "text": "ಚಾನೆಲ್ನ ಪ್ರಿಯ ವೀಕ್ಷಕರಿಗೆ ನಮಸ್ಕಾರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 4,
+    "start": 6.71,
+    "end": 6.72,
+    "start_time": "00:00:06.710",
+    "end_time": "00:00:06.720",
+    "text": "ಚಾನೆಲ್ನ ಪ್ರಿಯ ವೀಕ್ಷಕರಿಗೆ ನಮಸ್ಕಾರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 5,
+    "start": 6.72,
+    "end": 11.35,
+    "start_time": "00:00:06.720",
+    "end_time": "00:00:11.350",
+    "text": "ಸರಸ್ವತಿಯ ಪೂಜೆ ಸರಸ್ವತಿ ಪೂಜೆಯಲ್ಲಿ ಮೂಲೇಶು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 6,
+    "start": 11.35,
+    "end": 11.36,
+    "start_time": "00:00:11.350",
+    "end_time": "00:00:11.360",
+    "text": "ಸರಸ್ವತಿಯ ಪೂಜೆ ಸರಸ್ವತಿ ಪೂಜೆಯಲ್ಲಿ ಮೂಲೇಶು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 7,
+    "start": 11.36,
+    "end": 15.749,
+    "start_time": "00:00:11.360",
+    "end_time": "00:00:15.749",
+    "text": "ಸ್ಥಾಪನಂ ದೇವ್ಯ ಪೂರ್ವಶಾಡಶು ಪೂಜನಂ ಉತ್ರಾಡಶು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 8,
+    "start": 15.749,
+    "end": 15.759,
+    "start_time": "00:00:15.749",
+    "end_time": "00:00:15.759",
+    "text": "ಸ್ಥಾಪನಂ ದೇವ್ಯ ಪೂರ್ವಶಾಡಶು ಪೂಜನಂ ಉತ್ರಾಡಶು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 9,
+    "start": 15.759,
+    "end": 20.55,
+    "start_time": "00:00:15.759",
+    "end_time": "00:00:20.550",
+    "text": "ಬಲಿಂದದ್ಯತ ಶ್ರಾವಣೆ ಶ್ರವಣೇನ ವಿಸರ್ಜಗತ ಅಂತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 10,
+    "start": 20.55,
+    "end": 20.56,
+    "start_time": "00:00:20.550",
+    "end_time": "00:00:20.560",
+    "text": "ಬಲಿಂದದ್ಯತ ಶ್ರಾವಣೆ ಶ್ರವಣೇನ ವಿಸರ್ಜಗತ ಅಂತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 11,
+    "start": 20.56,
+    "end": 22.07,
+    "start_time": "00:00:20.560",
+    "end_time": "00:00:22.070",
+    "text": "ಹೇಳಿದ್ದಾರೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 12,
+    "start": 22.07,
+    "end": 22.08,
+    "start_time": "00:00:22.070",
+    "end_time": "00:00:22.080",
+    "text": "ಹೇಳಿದ್ದಾರೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 13,
+    "start": 22.08,
+    "end": 25.269,
+    "start_time": "00:00:22.080",
+    "end_time": "00:00:25.269",
+    "text": "ಮೂಲ ನಕ್ಷತ್ರ ದಿನ ಸರಸ್ವತಿಯ ಆವಾಹನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 14,
+    "start": 25.269,
+    "end": 25.279,
+    "start_time": "00:00:25.269",
+    "end_time": "00:00:25.279",
+    "text": "ಮೂಲ ನಕ್ಷತ್ರ ದಿನ ಸರಸ್ವತಿಯ ಆವಾಹನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 15,
+    "start": 25.279,
+    "end": 27.91,
+    "start_time": "00:00:25.279",
+    "end_time": "00:00:27.910",
+    "text": "ಸ್ಥಾಪನವನ್ನ ಮಾಡಿಕೊಬೇಕು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 16,
+    "start": 27.91,
+    "end": 27.92,
+    "start_time": "00:00:27.910",
+    "end_time": "00:00:27.920",
+    "text": "ಸ್ಥಾಪನವನ್ನ ಮಾಡಿಕೊಬೇಕು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 17,
+    "start": 27.92,
+    "end": 32.389,
+    "start_time": "00:00:27.920",
+    "end_time": "00:00:32.389",
+    "text": "ಮರುದಿನ ಪೂರ್ವ ನಕ್ಷತ್ರದಿನ ಪೂಜೆಯನ್ನ ಮಾಡಬೇಕು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 18,
+    "start": 32.389,
+    "end": 32.399,
+    "start_time": "00:00:32.389",
+    "end_time": "00:00:32.399",
+    "text": "ಮರುದಿನ ಪೂರ್ವ ನಕ್ಷತ್ರದಿನ ಪೂಜೆಯನ್ನ ಮಾಡಬೇಕು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 19,
+    "start": 32.399,
+    "end": 36.229,
+    "start_time": "00:00:32.399",
+    "end_time": "00:00:36.229",
+    "text": "ಉತ್ತರಾಷಾಡ ನಕ್ಷತ್ರದನ ಬಲಿದ್ಯತ ಬಲಿದಾನವನ್ನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 20,
+    "start": 36.229,
+    "end": 36.239,
+    "start_time": "00:00:36.229",
+    "end_time": "00:00:36.239",
+    "text": "ಉತ್ತರಾಷಾಡ ನಕ್ಷತ್ರದನ ಬಲಿದ್ಯತ ಬಲಿದಾನವನ್ನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 21,
+    "start": 36.239,
+    "end": 39.27,
+    "start_time": "00:00:36.239",
+    "end_time": "00:00:39.270",
+    "text": "ಕೊಡಬೇಕು ಶ್ರವಣದಲ್ಲಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 22,
+    "start": 39.27,
+    "end": 39.28,
+    "start_time": "00:00:39.270",
+    "end_time": "00:00:39.280",
+    "text": "ಕೊಡಬೇಕು ಶ್ರವಣದಲ್ಲಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 23,
+    "start": 39.28,
+    "end": 43.03,
+    "start_time": "00:00:39.280",
+    "end_time": "00:00:43.030",
+    "text": "ವಿಸರ್ಜನ ಶ್ರವಣ ವಿಜಯದಶಮಿಯ ದಿನ ವಿಸರ್ಜನವನ್ನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 24,
+    "start": 43.03,
+    "end": 43.04,
+    "start_time": "00:00:43.030",
+    "end_time": "00:00:43.040",
+    "text": "ವಿಸರ್ಜನ ಶ್ರವಣ ವಿಜಯದಶಮಿಯ ದಿನ ವಿಸರ್ಜನವನ್ನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 25,
+    "start": 43.04,
+    "end": 45.51,
+    "start_time": "00:00:43.040",
+    "end_time": "00:00:45.510",
+    "text": "ಮಾಡಬೇಕು ಅಂತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 26,
+    "start": 45.51,
+    "end": 45.52,
+    "start_time": "00:00:45.510",
+    "end_time": "00:00:45.520",
+    "text": "ಮಾಡಬೇಕು ಅಂತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 27,
+    "start": 45.52,
+    "end": 48.15,
+    "start_time": "00:00:45.520",
+    "end_time": "00:00:48.150",
+    "text": "ಇದು ನವರಾತ್ರಿಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 28,
+    "start": 48.15,
+    "end": 48.16,
+    "start_time": "00:00:48.150",
+    "end_time": "00:00:48.160",
+    "text": "ಇದು ನವರಾತ್ರಿಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 29,
+    "start": 48.16,
+    "end": 49.75,
+    "start_time": "00:00:48.160",
+    "end_time": "00:00:49.750",
+    "text": "ಕ್ರಮ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 30,
+    "start": 49.75,
+    "end": 49.76,
+    "start_time": "00:00:49.750",
+    "end_time": "00:00:49.760",
+    "text": "ಕ್ರಮ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 31,
+    "start": 49.76,
+    "end": 52.389,
+    "start_time": "00:00:49.760",
+    "end_time": "00:00:52.389",
+    "text": "ಹಾಗೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 32,
+    "start": 52.389,
+    "end": 52.399,
+    "start_time": "00:00:52.389",
+    "end_time": "00:00:52.399",
+    "text": "ಹಾಗೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 33,
+    "start": 52.399,
+    "end": 57.75,
+    "start_time": "00:00:52.399",
+    "end_time": "00:00:57.750",
+    "text": "ಬರುವ ಮೂಲ ನಕ್ಷತ್ರ ಹಾಗೆ ಅಂದ್ರೆ ಸೋಮವಾರ 29ನೇ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 34,
+    "start": 57.75,
+    "end": 57.76,
+    "start_time": "00:00:57.750",
+    "end_time": "00:00:57.760",
+    "text": "ಬರುವ ಮೂಲ ನಕ್ಷತ್ರ ಹಾಗೆ ಅಂದ್ರೆ ಸೋಮವಾರ 29ನೇ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 35,
+    "start": 57.76,
+    "end": 62.31,
+    "start_time": "00:00:57.760",
+    "end_time": "00:01:02.310",
+    "text": "ತಾರೀಕು ಮೂಲ ನಕ್ಷತ್ರದ ಸರಸ್ವತಿಯ ಸ್ಥಾಪನ ಪೂಜ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 36,
+    "start": 62.31,
+    "end": 62.32,
+    "start_time": "00:01:02.310",
+    "end_time": "00:01:02.320",
+    "text": "ತಾರೀಕು ಮೂಲ ನಕ್ಷತ್ರದ ಸರಸ್ವತಿಯ ಸ್ಥಾಪನ ಪೂಜ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 37,
+    "start": 62.32,
+    "end": 64.789,
+    "start_time": "00:01:02.320",
+    "end_time": "00:01:04.789",
+    "text": "ಬೆಳಿಗ್ಗೆ ನಿಮ್ಮ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 38,
+    "start": 64.789,
+    "end": 64.799,
+    "start_time": "00:01:04.789",
+    "end_time": "00:01:04.799",
+    "text": "ಬೆಳಿಗ್ಗೆ ನಿಮ್ಮ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 39,
+    "start": 64.799,
+    "end": 67.109,
+    "start_time": "00:01:04.799",
+    "end_time": "00:01:07.109",
+    "text": "ನಿತ್ಯ ಕರ್ಮಾನುಷ್ಠಾನಗಳಏನಿದೆ ಎಲ್ಲವನ್ನು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 40,
+    "start": 67.109,
+    "end": 67.119,
+    "start_time": "00:01:07.109",
+    "end_time": "00:01:07.119",
+    "text": "ನಿತ್ಯ ಕರ್ಮಾನುಷ್ಠಾನಗಳಏನಿದೆ ಎಲ್ಲವನ್ನು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 41,
+    "start": 67.119,
+    "end": 72.149,
+    "start_time": "00:01:07.119",
+    "end_time": "00:01:12.149",
+    "text": "ಮುಗಿಸಿ ದೇವರ ಪೂಜೆಯನ್ನು ಪೂರ್ಣವಾಗಿ ಮುಗಿಸಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 42,
+    "start": 72.149,
+    "end": 72.159,
+    "start_time": "00:01:12.149",
+    "end_time": "00:01:12.159",
+    "text": "ಮುಗಿಸಿ ದೇವರ ಪೂಜೆಯನ್ನು ಪೂರ್ಣವಾಗಿ ಮುಗಿಸಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 43,
+    "start": 72.159,
+    "end": 76.71000000000001,
+    "start_time": "00:01:12.159",
+    "end_time": "00:01:16.710",
+    "text": "ಹಲಿಗೆ ಅಥವಾ ಮಂಟಪದ್ರ ಮಂಟಪದಲ್ಲಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 44,
+    "start": 76.71000000000001,
+    "end": 76.72,
+    "start_time": "00:01:16.710",
+    "end_time": "00:01:16.720",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 45,
+    "start": 76.72,
+    "end": 80.63,
+    "start_time": "00:01:16.720",
+    "end_time": "00:01:20.630",
+    "text": "ತೊಂಗಲ ಕೆಮ್ಮಣ್ಣು ಮಾಡಿ ಪುಸ್ತಕಗಳು ಶಾಸ್ತ್ರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 46,
+    "start": 80.63,
+    "end": 80.64,
+    "start_time": "00:01:20.630",
+    "end_time": "00:01:20.640",
+    "text": "ತೊಂಗಲ ಕೆಮ್ಮಣ್ಣು ಮಾಡಿ ಪುಸ್ತಕಗಳು ಶಾಸ್ತ್ರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 47,
+    "start": 80.64,
+    "end": 82.23,
+    "start_time": "00:01:20.640",
+    "end_time": "00:01:22.230",
+    "text": "ಪುಸ್ತಕಗಳು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 48,
+    "start": 82.23,
+    "end": 82.24,
+    "start_time": "00:01:22.230",
+    "end_time": "00:01:22.240",
+    "text": "ಪುಸ್ತಕಗಳು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 49,
+    "start": 82.24,
+    "end": 85.19,
+    "start_time": "00:01:22.240",
+    "end_time": "00:01:25.190",
+    "text": "ಏನಿದೆ ನಿಮ್ಮ ಹತ್ತಿರಲಿ ಆ ಪುಸ್ತಕಗಳನ್ನೆಲ್ಲ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 50,
+    "start": 85.19,
+    "end": 85.2,
+    "start_time": "00:01:25.190",
+    "end_time": "00:01:25.200",
+    "text": "ಏನಿದೆ ನಿಮ್ಮ ಹತ್ತಿರಲಿ ಆ ಪುಸ್ತಕಗಳನ್ನೆಲ್ಲ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 51,
+    "start": 85.2,
+    "end": 88.07,
+    "start_time": "00:01:25.200",
+    "end_time": "00:01:28.070",
+    "text": "ಆ ಹಲಿಗೆಯಲ್ಲಿ ಅಲಂಕಾರವನ್ನ ಮಾಡಿ ಅದಕ್ಕೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 52,
+    "start": 88.07,
+    "end": 88.08,
+    "start_time": "00:01:28.070",
+    "end_time": "00:01:28.080",
+    "text": "ಆ ಹಲಿಗೆಯಲ್ಲಿ ಅಲಂಕಾರವನ್ನ ಮಾಡಿ ಅದಕ್ಕೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 53,
+    "start": 88.08,
+    "end": 90.87,
+    "start_time": "00:01:28.080",
+    "end_time": "00:01:30.870",
+    "text": "ಗಜವಸ್ತ್ರದಿ ಳ ವಸ್ತ್ರಗಳು ಹೂವೆಯಿಂದ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 54,
+    "start": 90.87,
+    "end": 90.88,
+    "start_time": "00:01:30.870",
+    "end_time": "00:01:30.880",
+    "text": "ಗಜವಸ್ತ್ರದಿ ಳ ವಸ್ತ್ರಗಳು ಹೂವೆಯಿಂದ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 55,
+    "start": 90.88,
+    "end": 93.50999999999999,
+    "start_time": "00:01:30.880",
+    "end_time": "00:01:33.510",
+    "text": "ಅಲಂಕಾರವನ್ನ ಮಾಡಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 56,
+    "start": 93.50999999999999,
+    "end": 93.52000000000001,
+    "start_time": "00:01:33.510",
+    "end_time": "00:01:33.520",
+    "text": "ಅಲಂಕಾರವನ್ನ ಮಾಡಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 57,
+    "start": 93.52000000000001,
+    "end": 97.99000000000001,
+    "start_time": "00:01:33.520",
+    "end_time": "00:01:37.990",
+    "text": "ಸರಸ್ವತಿಯ ಪ್ರತಿಮೆ ಅಥವಾ ಸರಸ್ವತಿಯ ಪಟ ಇದ್ದರೂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 58,
+    "start": 97.99000000000001,
+    "end": 98.0,
+    "start_time": "00:01:37.990",
+    "end_time": "00:01:38.000",
+    "text": "ಸರಸ್ವತಿಯ ಪ್ರತಿಮೆ ಅಥವಾ ಸರಸ್ವತಿಯ ಪಟ ಇದ್ದರೂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 59,
+    "start": 98.0,
+    "end": 99.749,
+    "start_time": "00:01:38.000",
+    "end_time": "00:01:39.749",
+    "text": "ಸರಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 60,
+    "start": 99.749,
+    "end": 99.759,
+    "start_time": "00:01:39.749",
+    "end_time": "00:01:39.759",
+    "text": "ಸರಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 61,
+    "start": 99.759,
+    "end": 104.39,
+    "start_time": "00:01:39.759",
+    "end_time": "00:01:44.390",
+    "text": "ವೇದವ್ಯಾಸ ದೇವರ ಪಟ ಅದನ್ನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 62,
+    "start": 104.39,
+    "end": 104.4,
+    "start_time": "00:01:44.390",
+    "end_time": "00:01:44.400",
+    "text": "ವೇದವ್ಯಾಸ ದೇವರ ಪಟ ಅದನ್ನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 63,
+    "start": 104.4,
+    "end": 112.149,
+    "start_time": "00:01:44.400",
+    "end_time": "00:01:52.149",
+    "text": "ಮುಂಭಾಗದಲ್ಲಿ ಇಟ್ಟು ಪೂಜೆಗಳನ್ನ ಮಾಡಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 64,
+    "start": 112.149,
+    "end": 112.15899999999999,
+    "start_time": "00:01:52.149",
+    "end_time": "00:01:52.159",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 65,
+    "start": 112.15899999999999,
+    "end": 115.27000000000001,
+    "start_time": "00:01:52.159",
+    "end_time": "00:01:55.270",
+    "text": "ಮುಂಭಾಗದಲ್ಲಿ ಇಟ್ಟು ಪೂಜೆಗಳನ್ನ ಮಾಡಬೇಕು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 66,
+    "start": 115.27000000000001,
+    "end": 115.28,
+    "start_time": "00:01:55.270",
+    "end_time": "00:01:55.280",
+    "text": "ಮುಂಭಾಗದಲ್ಲಿ ಇಟ್ಟು ಪೂಜೆಗಳನ್ನ ಮಾಡಬೇಕು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 67,
+    "start": 115.28,
+    "end": 118.709,
+    "start_time": "00:01:55.280",
+    "end_time": "00:01:58.709",
+    "text": "ಪೂಜೆಗೆ ಅರಿಶಿನ ಕುಂಕುಮ ಗಂಧ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 68,
+    "start": 118.709,
+    "end": 118.719,
+    "start_time": "00:01:58.709",
+    "end_time": "00:01:58.719",
+    "text": "ಪೂಜೆಗೆ ಅರಿಶಿನ ಕುಂಕುಮ ಗಂಧ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 69,
+    "start": 118.719,
+    "end": 123.91,
+    "start_time": "00:01:58.719",
+    "end_time": "00:02:03.910",
+    "text": "ಮಂತ್ರಾಕ್ಷತೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 70,
+    "start": 123.91,
+    "end": 123.92,
+    "start_time": "00:02:03.910",
+    "end_time": "00:02:03.920",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 71,
+    "start": 123.92,
+    "end": 129.19,
+    "start_time": "00:02:03.920",
+    "end_time": "00:02:09.190",
+    "text": "ಆಮೇಲೆ ನೈವೇದ್ಯಕ್ಕ ವಿಳಲಡಿಕೆ ಹಣ್ಣು ಗಜವಸ್ತ್ರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 72,
+    "start": 129.19,
+    "end": 129.2,
+    "start_time": "00:02:09.190",
+    "end_time": "00:02:09.200",
+    "text": "ಆಮೇಲೆ ನೈವೇದ್ಯಕ್ಕ ವಿಳಲಡಿಕೆ ಹಣ್ಣು ಗಜವಸ್ತ್ರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 73,
+    "start": 129.2,
+    "end": 133.67,
+    "start_time": "00:02:09.200",
+    "end_time": "00:02:13.670",
+    "text": "ಕೂದುಕಡ್ಡಿ ಕರ್ಪೂರ ತೆಂಗಿನಕಾಯಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 74,
+    "start": 133.67,
+    "end": 133.68,
+    "start_time": "00:02:13.670",
+    "end_time": "00:02:13.680",
+    "text": "ಕೂದುಕಡ್ಡಿ ಕರ್ಪೂರ ತೆಂಗಿನಕಾಯಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 75,
+    "start": 133.68,
+    "end": 137.82999999999998,
+    "start_time": "00:02:13.680",
+    "end_time": "00:02:17.830",
+    "text": "ಆರತಿ ತಟ್ಟೆ ಪಂಚಪಾತ್ರ ಉದ್ದರಣಿ ದೇವರಿಗೊಂದು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 76,
+    "start": 137.82999999999998,
+    "end": 137.84,
+    "start_time": "00:02:17.830",
+    "end_time": "00:02:17.840",
+    "text": "ಆರತಿ ತಟ್ಟೆ ಪಂಚಪಾತ್ರ ಉದ್ದರಣಿ ದೇವರಿಗೊಂದು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 77,
+    "start": 137.84,
+    "end": 143.19,
+    "start_time": "00:02:17.840",
+    "end_time": "00:02:23.190",
+    "text": "ನಿಮಗೊಂದು ಎರಡು ಪಂಚಪಾತ್ರೆ ಅದನಲ್ಲಿ ನೀರು ಪೇಲ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 78,
+    "start": 143.19,
+    "end": 143.2,
+    "start_time": "00:02:23.190",
+    "end_time": "00:02:23.200",
+    "text": "ನಿಮಗೊಂದು ಎರಡು ಪಂಚಪಾತ್ರೆ ಅದನಲ್ಲಿ ನೀರು ಪೇಲ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 79,
+    "start": 143.2,
+    "end": 146.309,
+    "start_time": "00:02:23.200",
+    "end_time": "00:02:26.309",
+    "text": "ಹೂವು ಅದನ್ನೆಲ್ಲ ತೆಗೆದುಇಟ್ಟುಕೊಂಡು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 80,
+    "start": 146.309,
+    "end": 146.319,
+    "start_time": "00:02:26.309",
+    "end_time": "00:02:26.319",
+    "text": "ಹೂವು ಅದನ್ನೆಲ್ಲ ತೆಗೆದುಇಟ್ಟುಕೊಂಡು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 81,
+    "start": 146.319,
+    "end": 149.99,
+    "start_time": "00:02:26.319",
+    "end_time": "00:02:29.990",
+    "text": "ಪೂಜೆ ಕೂಡಬೇಕು ಮೊದಲ ದಿನ ಮೂಲ ನಕ್ಷತ್ರನ ಆವಾಹನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 82,
+    "start": 149.99,
+    "end": 150.0,
+    "start_time": "00:02:29.990",
+    "end_time": "00:02:30.000",
+    "text": "ಪೂಜೆ ಕೂಡಬೇಕು ಮೊದಲ ದಿನ ಮೂಲ ನಕ್ಷತ್ರನ ಆವಾಹನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 83,
+    "start": 150.0,
+    "end": 154.15,
+    "start_time": "00:02:30.000",
+    "end_time": "00:02:34.150",
+    "text": "ಮಾತ್ರ ಸೋ ಒಂದು ಉತ್ತರಾಭಿಮುಖವಾಗಿ ಒಂದು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 84,
+    "start": 154.15,
+    "end": 154.16,
+    "start_time": "00:02:34.150",
+    "end_time": "00:02:34.160",
+    "text": "ಮಾತ್ರ ಸೋ ಒಂದು ಉತ್ತರಾಭಿಮುಖವಾಗಿ ಒಂದು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 85,
+    "start": 154.16,
+    "end": 156.15,
+    "start_time": "00:02:34.160",
+    "end_time": "00:02:36.150",
+    "text": "ನಾರ್ತ್ ಫೇಸಿಂಗ್ ಆಗಿ ಕೂತ್ಕೊಳ್ಳಿ ಇಲ್ಲದಿದ್ರೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 86,
+    "start": 156.15,
+    "end": 156.16,
+    "start_time": "00:02:36.150",
+    "end_time": "00:02:36.160",
+    "text": "ನಾರ್ತ್ ಫೇಸಿಂಗ್ ಆಗಿ ಕೂತ್ಕೊಳ್ಳಿ ಇಲ್ಲದಿದ್ರೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 87,
+    "start": 156.16,
+    "end": 159.82999999999998,
+    "start_time": "00:02:36.160",
+    "end_time": "00:02:39.830",
+    "text": "ಈಸ್ಟ್ ಫೇಸಿಂಗ್ ಕೂತ್ಕೊಂಡು ಆಚಮನವನ್ನ ಮಾಡಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 88,
+    "start": 159.82999999999998,
+    "end": 159.84,
+    "start_time": "00:02:39.830",
+    "end_time": "00:02:39.840",
+    "text": "ಈಸ್ಟ್ ಫೇಸಿಂಗ್ ಕೂತ್ಕೊಂಡು ಆಚಮನವನ್ನ ಮಾಡಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 89,
+    "start": 159.84,
+    "end": 161.75,
+    "start_time": "00:02:39.840",
+    "end_time": "00:02:41.750",
+    "text": "ಕೇಶವಾಗಹ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 90,
+    "start": 161.75,
+    "end": 161.76,
+    "start_time": "00:02:41.750",
+    "end_time": "00:02:41.760",
+    "text": "ಕೇಶವಾಗಹ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 91,
+    "start": 161.76,
+    "end": 163.27,
+    "start_time": "00:02:41.760",
+    "end_time": "00:02:43.270",
+    "text": "ನಾರಾಯಣಗಿಸ್ವಾಹ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 92,
+    "start": 163.27,
+    "end": 163.28,
+    "start_time": "00:02:43.270",
+    "end_time": "00:02:43.280",
+    "text": "ನಾರಾಯಣಗಿಸ್ವಾಹ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 93,
+    "start": 163.28,
+    "end": 165.589,
+    "start_time": "00:02:43.280",
+    "end_time": "00:02:45.589",
+    "text": "ಮಾಧವಾಸ್ವಾಹ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 94,
+    "start": 165.589,
+    "end": 165.599,
+    "start_time": "00:02:45.589",
+    "end_time": "00:02:45.599",
+    "text": "ಮಾಧವಾಸ್ವಾಹ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 95,
+    "start": 165.599,
+    "end": 169.50900000000001,
+    "start_time": "00:02:45.599",
+    "end_time": "00:02:49.509",
+    "text": "ಗೋವಿಂದ ವಿಷ್ಣು ಮಸೂದನ ತ್ರಿವಿಕ್ರಮವಾನಶರೀಕೇಶ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 96,
+    "start": 169.50900000000001,
+    "end": 169.519,
+    "start_time": "00:02:49.509",
+    "end_time": "00:02:49.519",
+    "text": "ಗೋವಿಂದ ವಿಷ್ಣು ಮಸೂದನ ತ್ರಿವಿಕ್ರಮವಾನಶರೀಕೇಶ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 97,
+    "start": 169.519,
+    "end": 171.03,
+    "start_time": "00:02:49.519",
+    "end_time": "00:02:51.030",
+    "text": "ಪದ್ಮನಾಪ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 98,
+    "start": 171.03,
+    "end": 171.04,
+    "start_time": "00:02:51.030",
+    "end_time": "00:02:51.040",
+    "text": "ಪದ್ಮನಾಪ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 99,
+    "start": 171.04,
+    "end": 174.949,
+    "start_time": "00:02:51.040",
+    "end_time": "00:02:54.949",
+    "text": "ದಾಮೋದರಂ ಕೃಷ್ಣ ವಾಸುದೇವ ಬುದ್ಧಿಮನ ಅನಿರುದ್ಧ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 100,
+    "start": 174.949,
+    "end": 174.959,
+    "start_time": "00:02:54.949",
+    "end_time": "00:02:54.959",
+    "text": "ದಾಮೋದರಂ ಕೃಷ್ಣ ವಾಸುದೇವ ಬುದ್ಧಿಮನ ಅನಿರುದ್ಧ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 101,
+    "start": 174.959,
+    "end": 177.35,
+    "start_time": "00:02:54.959",
+    "end_time": "00:02:57.350",
+    "text": "ಪುರುಷೋತ್ತಮದೋಕ್ಷಜನರಸಿಂಹ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 102,
+    "start": 177.35,
+    "end": 177.36,
+    "start_time": "00:02:57.350",
+    "end_time": "00:02:57.360",
+    "text": "ಪುರುಷೋತ್ತಮದೋಕ್ಷಜನರಸಿಂಹ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 103,
+    "start": 177.36,
+    "end": 180.39,
+    "start_time": "00:02:57.360",
+    "end_time": "00:03:00.390",
+    "text": "ಅಕ್ಷತಾ ಜನಾರ್ಧನವೇಂದ್ರ ಹರಗೆ ನಮಃ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 104,
+    "start": 180.39,
+    "end": 180.4,
+    "start_time": "00:03:00.390",
+    "end_time": "00:03:00.400",
+    "text": "ಅಕ್ಷತಾ ಜನಾರ್ಧನವೇಂದ್ರ ಹರಗೆ ನಮಃ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 105,
+    "start": 180.4,
+    "end": 183.75,
+    "start_time": "00:03:00.400",
+    "end_time": "00:03:03.750",
+    "text": "ಶ್ರೀಕೃಷ್ಣಾಯ ನಮಃ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 106,
+    "start": 183.75,
+    "end": 183.76,
+    "start_time": "00:03:03.750",
+    "end_time": "00:03:03.760",
+    "text": "ಶ್ರೀಕೃಷ್ಣಾಯ ನಮಃ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 107,
+    "start": 183.76,
+    "end": 187.03,
+    "start_time": "00:03:03.760",
+    "end_time": "00:03:07.030",
+    "text": "ಪ್ರಾಣಾಯಾಮ ಮೂಗನ್ನ ನಡಕೊಳ್ಳೋದು ಪ್ರಣವಶ್ಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 108,
+    "start": 187.03,
+    "end": 187.04,
+    "start_time": "00:03:07.030",
+    "end_time": "00:03:07.040",
+    "text": "ಪ್ರಾಣಾಯಾಮ ಮೂಗನ್ನ ನಡಕೊಳ್ಳೋದು ಪ್ರಣವಶ್ಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 109,
+    "start": 187.04,
+    "end": 190.149,
+    "start_time": "00:03:07.040",
+    "end_time": "00:03:10.149",
+    "text": "ಪರಬ್ರಹ್ಮಜಿ ಪರಮಾತ್ಮ ದೇವತಾ ದೇವಿ ಗಾಯತ್ರಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 110,
+    "start": 190.149,
+    "end": 190.159,
+    "start_time": "00:03:10.149",
+    "end_time": "00:03:10.159",
+    "text": "ಪರಬ್ರಹ್ಮಜಿ ಪರಮಾತ್ಮ ದೇವತಾ ದೇವಿ ಗಾಯತ್ರಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 111,
+    "start": 190.159,
+    "end": 194.39,
+    "start_time": "00:03:10.159",
+    "end_time": "00:03:14.390",
+    "text": "ಚಂದಹ ಪ್ರಾಣಾಯಾಮೇ ವಿನಿಯೋಗಹ ಓಂ ಭೂಹು ಓಂ ಭುವಹ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 112,
+    "start": 194.39,
+    "end": 194.4,
+    "start_time": "00:03:14.390",
+    "end_time": "00:03:14.400",
+    "text": "ಚಂದಹ ಪ್ರಾಣಾಯಾಮೇ ವಿನಿಯೋಗಹ ಓಂ ಭೂಹು ಓಂ ಭುವಹ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 113,
+    "start": 194.4,
+    "end": 198.39,
+    "start_time": "00:03:14.400",
+    "end_time": "00:03:18.390",
+    "text": "ಓಂ ಶುಭವ ಓಂ ಮಗಹ ಓಂ ಜನ ಓಂ ತಪಹ ಓಂ ಸತ್ಯಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 114,
+    "start": 198.39,
+    "end": 198.4,
+    "start_time": "00:03:18.390",
+    "end_time": "00:03:18.400",
+    "text": "ಓಂ ಶುಭವ ಓಂ ಮಗಹ ಓಂ ಜನ ಓಂ ತಪಹ ಓಂ ಸತ್ಯಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 115,
+    "start": 198.4,
+    "end": 201.75,
+    "start_time": "00:03:18.400",
+    "end_time": "00:03:21.750",
+    "text": "ತತ್ಸದ್ರವರಣ್ಯಂ ಭರ್ಗೋದೇವಶ್ಯ ಧೀಮಹಿ ದಿಯೋನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 116,
+    "start": 201.75,
+    "end": 201.76,
+    "start_time": "00:03:21.750",
+    "end_time": "00:03:21.760",
+    "text": "ತತ್ಸದ್ರವರಣ್ಯಂ ಭರ್ಗೋದೇವಶ್ಯ ಧೀಮಹಿ ದಿಯೋನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 117,
+    "start": 201.76,
+    "end": 203.27,
+    "start_time": "00:03:21.760",
+    "end_time": "00:03:23.270",
+    "text": "ಪ್ರಚೋದಕಾತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 118,
+    "start": 203.27,
+    "end": 203.28,
+    "start_time": "00:03:23.270",
+    "end_time": "00:03:23.280",
+    "text": "ಪ್ರಚೋದಕಾತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 119,
+    "start": 203.28,
+    "end": 205.67000000000002,
+    "start_time": "00:03:23.280",
+    "end_time": "00:03:25.670",
+    "text": "ಓಂ ಆಪೋ ಜ್ಯೋತಿರೋ ಅಮೃತಂ ಬ್ರಹ್ಮ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 120,
+    "start": 205.67000000000002,
+    "end": 205.68,
+    "start_time": "00:03:25.670",
+    "end_time": "00:03:25.680",
+    "text": "ಓಂ ಆಪೋ ಜ್ಯೋತಿರೋ ಅಮೃತಂ ಬ್ರಹ್ಮ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 121,
+    "start": 205.68,
+    "end": 208.149,
+    "start_time": "00:03:25.680",
+    "end_time": "00:03:28.149",
+    "text": "ಭೂರ್ಭುವಸ್ವರೋ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 122,
+    "start": 208.149,
+    "end": 208.159,
+    "start_time": "00:03:28.149",
+    "end_time": "00:03:28.159",
+    "text": "ಭೂರ್ಭುವಸ್ವರೋ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 123,
+    "start": 208.159,
+    "end": 210.22899999999998,
+    "start_time": "00:03:28.159",
+    "end_time": "00:03:30.229",
+    "text": "ಎಡಗೈಯಲ್ಲಿ ಸ್ವಲ್ಪ ಮಂತ್ರಾಕ್ಷತೆಯನ್ನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 124,
+    "start": 210.22899999999998,
+    "end": 210.239,
+    "start_time": "00:03:30.229",
+    "end_time": "00:03:30.239",
+    "text": "ಎಡಗೈಯಲ್ಲಿ ಸ್ವಲ್ಪ ಮಂತ್ರಾಕ್ಷತೆಯನ್ನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 125,
+    "start": 210.239,
+    "end": 212.869,
+    "start_time": "00:03:30.239",
+    "end_time": "00:03:32.869",
+    "text": "ಹಾಕಿಕೊಂಡು ಎಡಗೈ ಮೇಲೆ ಬಲಗೈಯನ್ನ ಇಟ್ಟುಕೊಂಡು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 126,
+    "start": 212.869,
+    "end": 212.879,
+    "start_time": "00:03:32.869",
+    "end_time": "00:03:32.879",
+    "text": "ಹಾಕಿಕೊಂಡು ಎಡಗೈ ಮೇಲೆ ಬಲಗೈಯನ್ನ ಇಟ್ಟುಕೊಂಡು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 127,
+    "start": 212.879,
+    "end": 216.07,
+    "start_time": "00:03:32.879",
+    "end_time": "00:03:36.070",
+    "text": "ಬಲದ ತೊಡೆಯಲ್ಲಿ ಇಟ್ಟುಕೊಳ್ಳಿ ಶುಭೇಶೋಭನೇ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 128,
+    "start": 216.07,
+    "end": 216.07999999999998,
+    "start_time": "00:03:36.070",
+    "end_time": "00:03:36.080",
+    "text": "ಬಲದ ತೊಡೆಯಲ್ಲಿ ಇಟ್ಟುಕೊಳ್ಳಿ ಶುಭೇಶೋಭನೇ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 129,
+    "start": 216.07999999999998,
+    "end": 218.47,
+    "start_time": "00:03:36.080",
+    "end_time": "00:03:38.470",
+    "text": "ಗುರ್ತೆ ಆದ್ಯಬ್ರಮಣ ದ್ವಿತೀಯವರಾರ್ತೆ ಶ್ರೀ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 130,
+    "start": 218.47,
+    "end": 218.48,
+    "start_time": "00:03:38.470",
+    "end_time": "00:03:38.480",
+    "text": "ಗುರ್ತೆ ಆದ್ಯಬ್ರಮಣ ದ್ವಿತೀಯವರಾರ್ತೆ ಶ್ರೀ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 131,
+    "start": 218.48,
+    "end": 221.99,
+    "start_time": "00:03:38.480",
+    "end_time": "00:03:41.990",
+    "text": "ಶ್ವೇತವರಾಹಕಲ್ಪೆ ವೈವಶ್ವತಮಂತೆ ಅಷ್ಟಾಭಿಂಶತಮೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 132,
+    "start": 221.99,
+    "end": 222.0,
+    "start_time": "00:03:41.990",
+    "end_time": "00:03:42.000",
+    "text": "ಶ್ವೇತವರಾಹಕಲ್ಪೆ ವೈವಶ್ವತಮಂತೆ ಅಷ್ಟಾಭಿಂಶತಮೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 133,
+    "start": 222.0,
+    "end": 225.82999999999998,
+    "start_time": "00:03:42.000",
+    "end_time": "00:03:45.830",
+    "text": "ಕಲಿಯುಗೆ ಪ್ರಥಮಪಾದೆ ಭಾರತವರ ಭರತಕಂಡೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 134,
+    "start": 225.82999999999998,
+    "end": 225.84,
+    "start_time": "00:03:45.830",
+    "end_time": "00:03:45.840",
+    "text": "ಕಲಿಯುಗೆ ಪ್ರಥಮಪಾದೆ ಭಾರತವರ ಭರತಕಂಡೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 135,
+    "start": 225.84,
+    "end": 228.47,
+    "start_time": "00:03:45.840",
+    "end_time": "00:03:48.470",
+    "text": "ದಂಡಕಾರಣ್ಯ ಗೋದಾವದ್ಯ ದಕ್ಷಿಣದೀರೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 136,
+    "start": 228.47,
+    "end": 228.48,
+    "start_time": "00:03:48.470",
+    "end_time": "00:03:48.480",
+    "text": "ದಂಡಕಾರಣ್ಯ ಗೋದಾವದ್ಯ ದಕ್ಷಿಣದೀರೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 137,
+    "start": 228.48,
+    "end": 230.149,
+    "start_time": "00:03:48.480",
+    "end_time": "00:03:50.149",
+    "text": "ಶಾಲಿವಾಗನಶಕೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 138,
+    "start": 230.149,
+    "end": 230.159,
+    "start_time": "00:03:50.149",
+    "end_time": "00:03:50.159",
+    "text": "ಶಾಲಿವಾಗನಶಕೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 139,
+    "start": 230.159,
+    "end": 233.43,
+    "start_time": "00:03:50.159",
+    "end_time": "00:03:53.430",
+    "text": "ಭೌತವತಾರೆ ರಾಮಕ್ಷೇತ್ರೆ ಅಶ್ವಿನ್ ವರ್ತಮಾನೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 140,
+    "start": 233.43,
+    "end": 233.44,
+    "start_time": "00:03:53.430",
+    "end_time": "00:03:53.440",
+    "text": "ಭೌತವತಾರೆ ರಾಮಕ್ಷೇತ್ರೆ ಅಶ್ವಿನ್ ವರ್ತಮಾನೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 141,
+    "start": 233.44,
+    "end": 237.82999999999998,
+    "start_time": "00:03:53.440",
+    "end_time": "00:03:57.830",
+    "text": "ಪ್ರಭವಾದಿ ಸಷಟಿ ಸಂವತ್ಸರ ಮಧ್ಯಶುಭ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 142,
+    "start": 237.82999999999998,
+    "end": 237.84,
+    "start_time": "00:03:57.830",
+    "end_time": "00:03:57.840",
+    "text": "ಪ್ರಭವಾದಿ ಸಷಟಿ ಸಂವತ್ಸರ ಮಧ್ಯಶುಭ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 143,
+    "start": 237.84,
+    "end": 239.91,
+    "start_time": "00:03:57.840",
+    "end_time": "00:03:59.910",
+    "text": "ವಿಶ್ವಾಭನಾಮತ್ಸರೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 144,
+    "start": 239.91,
+    "end": 239.92000000000002,
+    "start_time": "00:03:59.910",
+    "end_time": "00:03:59.920",
+    "text": "ವಿಶ್ವಾಭನಾಮತ್ಸರೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 145,
+    "start": 239.92000000000002,
+    "end": 244.39,
+    "start_time": "00:03:59.920",
+    "end_time": "00:04:04.390",
+    "text": "ದಕ್ಷಿಣಾಗಿನೆ ಸರತ್ರ ಆಶ್ವೀಜಮಾಸೆ ಶುಕ್ಲ ಪಕ್ಷೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 146,
+    "start": 244.39,
+    "end": 244.4,
+    "start_time": "00:04:04.390",
+    "end_time": "00:04:04.400",
+    "text": "ದಕ್ಷಿಣಾಗಿನೆ ಸರತ್ರ ಆಶ್ವೀಜಮಾಸೆ ಶುಕ್ಲ ಪಕ್ಷೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 147,
+    "start": 244.4,
+    "end": 247.67,
+    "start_time": "00:04:04.400",
+    "end_time": "00:04:07.670",
+    "text": "ಸಪ್ತಮ್ಯಯಂ ವಾಸರವಾಸರಸ್ತು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 148,
+    "start": 247.67,
+    "end": 247.68,
+    "start_time": "00:04:07.670",
+    "end_time": "00:04:07.680",
+    "text": "ಸಪ್ತಮ್ಯಯಂ ವಾಸರವಾಸರಸ್ತು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 149,
+    "start": 247.68,
+    "end": 249.19,
+    "start_time": "00:04:07.680",
+    "end_time": "00:04:09.190",
+    "text": "ಇಂದುವಾಸರಯುಕ್ತಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 150,
+    "start": 249.19,
+    "end": 249.2,
+    "start_time": "00:04:09.190",
+    "end_time": "00:04:09.200",
+    "text": "ಇಂದುವಾಸರಯುಕ್ತಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 151,
+    "start": 249.2,
+    "end": 250.71,
+    "start_time": "00:04:09.200",
+    "end_time": "00:04:10.710",
+    "text": "ಮೂಲನಕ್ಷತ್ರತಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 152,
+    "start": 250.71,
+    "end": 250.72,
+    "start_time": "00:04:10.710",
+    "end_time": "00:04:10.720",
+    "text": "ಮೂಲನಕ್ಷತ್ರತಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 153,
+    "start": 250.72,
+    "end": 253.99,
+    "start_time": "00:04:10.720",
+    "end_time": "00:04:13.990",
+    "text": "ಶುಭನಕ್ಷತ್ರ ಶುಭಯೋಗ ಶುಭಕರಣ ವಂಗುಣ ಸಕಲ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 154,
+    "start": 253.99,
+    "end": 254.0,
+    "start_time": "00:04:13.990",
+    "end_time": "00:04:14.000",
+    "text": "ಶುಭನಕ್ಷತ್ರ ಶುಭಯೋಗ ಶುಭಕರಣ ವಂಗುಣ ಸಕಲ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 155,
+    "start": 254.0,
+    "end": 258.15,
+    "start_time": "00:04:14.000",
+    "end_time": "00:04:18.150",
+    "text": "ವಿಶೇಷಣ ವಿಶಿಷ್ಟಯ ಶುಭದಿತ ಭಾರತೀರಮಣ ಮುಖ್ಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 156,
+    "start": 258.15,
+    "end": 258.16,
+    "start_time": "00:04:18.150",
+    "end_time": "00:04:18.160",
+    "text": "ವಿಶೇಷಣ ವಿಶಿಷ್ಟಯ ಶುಭದಿತ ಭಾರತೀರಮಣ ಮುಖ್ಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 157,
+    "start": 258.16,
+    "end": 260.069,
+    "start_time": "00:04:18.160",
+    "end_time": "00:04:20.069",
+    "text": "ಪ್ರಾಣ ಅಂತರ್ಗತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 158,
+    "start": 260.069,
+    "end": 260.079,
+    "start_time": "00:04:20.069",
+    "end_time": "00:04:20.079",
+    "text": "ಪ್ರಾಣ ಅಂತರ್ಗತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 159,
+    "start": 260.079,
+    "end": 262.87,
+    "start_time": "00:04:20.079",
+    "end_time": "00:04:22.870",
+    "text": "ಶ್ರೀ ವೇದವ್ಯಾಸ ಪ್ರೇರಣ ಶ್ರೀ ವೇದವ್ಯಾಸ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 160,
+    "start": 262.87,
+    "end": 262.88,
+    "start_time": "00:04:22.870",
+    "end_time": "00:04:22.880",
+    "text": "ಶ್ರೀ ವೇದವ್ಯಾಸ ಪ್ರೇರಣ ಶ್ರೀ ವೇದವ್ಯಾಸ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 161,
+    "start": 262.88,
+    "end": 264.55,
+    "start_time": "00:04:22.880",
+    "end_time": "00:04:24.550",
+    "text": "ಪ್ರೀತ್ಯರ್ಥಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 162,
+    "start": 264.55,
+    "end": 264.56,
+    "start_time": "00:04:24.550",
+    "end_time": "00:04:24.560",
+    "text": "ಪ್ರೀತ್ಯರ್ಥಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 163,
+    "start": 264.56,
+    "end": 269.909,
+    "start_time": "00:04:24.560",
+    "end_time": "00:04:29.909",
+    "text": "ಪುಸ್ತಕೇಶು ಸನ್ನಿಗಿತ ಸರಸ್ವತ್ಯಾತ್ಮಕ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 164,
+    "start": 269.909,
+    "end": 269.919,
+    "start_time": "00:04:29.909",
+    "end_time": "00:04:29.919",
+    "text": "ಪುಸ್ತಕೇಶು ಸನ್ನಿಗಿತ ಸರಸ್ವತ್ಯಾತ್ಮಕ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 165,
+    "start": 269.919,
+    "end": 273.909,
+    "start_time": "00:04:29.919",
+    "end_time": "00:04:33.909",
+    "text": "ಶ್ರೀ ವ್ಯಾಸ ಪರಶುರಾಮ ಆವಾಹನ ಪೂಜಾಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 166,
+    "start": 273.909,
+    "end": 273.919,
+    "start_time": "00:04:33.909",
+    "end_time": "00:04:33.919",
+    "text": "ಶ್ರೀ ವ್ಯಾಸ ಪರಶುರಾಮ ಆವಾಹನ ಪೂಜಾಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 167,
+    "start": 273.919,
+    "end": 276.23,
+    "start_time": "00:04:33.919",
+    "end_time": "00:04:36.230",
+    "text": "ಪ್ರತಿಷ್ಠಾಪನ ಪೂಜಾಂ ಕರಿಶೆ ಅಂತ ನೀರು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 168,
+    "start": 276.23,
+    "end": 276.24,
+    "start_time": "00:04:36.230",
+    "end_time": "00:04:36.240",
+    "text": "ಪ್ರತಿಷ್ಠಾಪನ ಪೂಜಾಂ ಕರಿಶೆ ಅಂತ ನೀರು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 169,
+    "start": 276.24,
+    "end": 279.909,
+    "start_time": "00:04:36.240",
+    "end_time": "00:04:39.909",
+    "text": "ಹಾಕಿಕೊಂಡು ಬಿಡ್ರಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 170,
+    "start": 279.909,
+    "end": 279.919,
+    "start_time": "00:04:39.909",
+    "end_time": "00:04:39.919",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 171,
+    "start": 279.919,
+    "end": 281.51,
+    "start_time": "00:04:39.919",
+    "end_time": "00:04:41.510",
+    "text": "ಬಿಟ್ಟು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 172,
+    "start": 281.51,
+    "end": 281.52,
+    "start_time": "00:04:41.510",
+    "end_time": "00:04:41.520",
+    "text": "ಬಿಟ್ಟು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 173,
+    "start": 281.52,
+    "end": 285.11,
+    "start_time": "00:04:41.520",
+    "end_time": "00:04:45.110",
+    "text": "ದೀಪವನ್ನು ಮುಡಿಸಿಟ್ಟುಕೊಳ್ಳಿ ಮಂತ್ರಾಸ್ತೆಯನ್ನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 174,
+    "start": 285.11,
+    "end": 285.12,
+    "start_time": "00:04:45.110",
+    "end_time": "00:04:45.120",
+    "text": "ದೀಪವನ್ನು ಮುಡಿಸಿಟ್ಟುಕೊಳ್ಳಿ ಮಂತ್ರಾಸ್ತೆಯನ್ನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 175,
+    "start": 285.12,
+    "end": 288.15,
+    "start_time": "00:04:45.120",
+    "end_time": "00:04:48.150",
+    "text": "ಕೈಯಲ್ಲಿ ತಗೊಳ್ರಿ ಮಂತ್ರಾಸ್ತೆಯನ್ನ ಕೈಯಲ್ಲಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 176,
+    "start": 288.15,
+    "end": 288.15999999999997,
+    "start_time": "00:04:48.150",
+    "end_time": "00:04:48.160",
+    "text": "ಕೈಯಲ್ಲಿ ತಗೊಳ್ರಿ ಮಂತ್ರಾಸ್ತೆಯನ್ನ ಕೈಯಲ್ಲಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 177,
+    "start": 288.15999999999997,
+    "end": 290.15,
+    "start_time": "00:04:48.160",
+    "end_time": "00:04:50.150",
+    "text": "ತಗೊಂಡು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 178,
+    "start": 290.15,
+    "end": 290.15999999999997,
+    "start_time": "00:04:50.150",
+    "end_time": "00:04:50.160",
+    "text": "ತಗೊಂಡು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 179,
+    "start": 290.15999999999997,
+    "end": 292.629,
+    "start_time": "00:04:50.160",
+    "end_time": "00:04:52.629",
+    "text": "ಧ್ಯಾನವನ್ನ ಮಾಡಬೇಕು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 180,
+    "start": 292.629,
+    "end": 292.639,
+    "start_time": "00:04:52.629",
+    "end_time": "00:04:52.639",
+    "text": "ಧ್ಯಾನವನ್ನ ಮಾಡಬೇಕು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 181,
+    "start": 292.639,
+    "end": 295.909,
+    "start_time": "00:04:52.639",
+    "end_time": "00:04:55.909",
+    "text": "ಮೊದಲು ಕಪಿಲ ದತ್ತಾತ್ರೇಯರನ್ನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 182,
+    "start": 295.909,
+    "end": 295.919,
+    "start_time": "00:04:55.909",
+    "end_time": "00:04:55.919",
+    "text": "ಮೊದಲು ಕಪಿಲ ದತ್ತಾತ್ರೇಯರನ್ನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 183,
+    "start": 295.919,
+    "end": 303.03,
+    "start_time": "00:04:55.919",
+    "end_time": "00:05:03.030",
+    "text": "ಆವಾಹನವನ್ನ ಮಾಡಬೇಕು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 184,
+    "start": 303.03,
+    "end": 303.04,
+    "start_time": "00:05:03.030",
+    "end_time": "00:05:03.040",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 185,
+    "start": 303.04,
+    "end": 308.55,
+    "start_time": "00:05:03.040",
+    "end_time": "00:05:08.550",
+    "text": "ಕಪಿಲ ದತ್ತಾತ್ರೇಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 186,
+    "start": 308.55,
+    "end": 308.56,
+    "start_time": "00:05:08.550",
+    "end_time": "00:05:08.560",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 187,
+    "start": 308.56,
+    "end": 310.07,
+    "start_time": "00:05:08.560",
+    "end_time": "00:05:10.070",
+    "text": "ಓಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 188,
+    "start": 310.07,
+    "end": 310.08,
+    "start_time": "00:05:10.070",
+    "end_time": "00:05:10.080",
+    "text": "ಓಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 189,
+    "start": 310.08,
+    "end": 313.189,
+    "start_time": "00:05:10.080",
+    "end_time": "00:05:13.189",
+    "text": "ಕಪಿಲಾಯ ನಮಃ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 190,
+    "start": 313.189,
+    "end": 313.199,
+    "start_time": "00:05:13.189",
+    "end_time": "00:05:13.199",
+    "text": "ಕಪಿಲಾಯ ನಮಃ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 191,
+    "start": 313.199,
+    "end": 314.95,
+    "start_time": "00:05:13.199",
+    "end_time": "00:05:14.950",
+    "text": "ಪುರೋದ್ಯದಿಪಾಕರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 192,
+    "start": 314.95,
+    "end": 314.96,
+    "start_time": "00:05:14.950",
+    "end_time": "00:05:14.960",
+    "text": "ಪುರೋದ್ಯದಿಪಾಕರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 193,
+    "start": 314.96,
+    "end": 316.55,
+    "start_time": "00:05:14.960",
+    "end_time": "00:05:16.550",
+    "text": "ಸಮಾನತನುಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 194,
+    "start": 316.55,
+    "end": 316.56,
+    "start_time": "00:05:16.550",
+    "end_time": "00:05:16.560",
+    "text": "ಸಮಾನತನುಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 195,
+    "start": 316.56,
+    "end": 319.35,
+    "start_time": "00:05:16.560",
+    "end_time": "00:05:19.350",
+    "text": "ಸಕಸ್ರ ಸೂರ್ಯೋರುದಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 196,
+    "start": 319.35,
+    "end": 319.36,
+    "start_time": "00:05:19.350",
+    "end_time": "00:05:19.360",
+    "text": "ಸಕಸ್ರ ಸೂರ್ಯೋರುದಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 197,
+    "start": 319.36,
+    "end": 325.51,
+    "start_time": "00:05:19.360",
+    "end_time": "00:05:25.510",
+    "text": "ಧೀತಿ ವಿರಾಪ್ತ ಸಮಸ್ತ ಲೋಕಂ ಧ್ಯಾನಭಯದಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 198,
+    "start": 325.51,
+    "end": 325.52,
+    "start_time": "00:05:25.510",
+    "end_time": "00:05:25.520",
+    "text": "ಧೀತಿ ವಿರಾಪ್ತ ಸಮಸ್ತ ಲೋಕಂ ಧ್ಯಾನಭಯದಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 199,
+    "start": 325.52,
+    "end": 328.95,
+    "start_time": "00:05:25.520",
+    "end_time": "00:05:28.950",
+    "text": "ತಕರ ಜ್ಞಾನಾದಿ ಭಯಾಂತಿಕರಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 200,
+    "start": 328.95,
+    "end": 328.96,
+    "start_time": "00:05:28.950",
+    "end_time": "00:05:28.960",
+    "text": "ತಕರ ಜ್ಞಾನಾದಿ ಭಯಾಂತಿಕರಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 201,
+    "start": 328.96,
+    "end": 330.95,
+    "start_time": "00:05:28.960",
+    "end_time": "00:05:30.950",
+    "text": "ಕಪಿಲಚದತ್ತಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 202,
+    "start": 330.95,
+    "end": 330.96,
+    "start_time": "00:05:30.950",
+    "end_time": "00:05:30.960",
+    "text": "ಕಪಿಲಚದತ್ತಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 203,
+    "start": 330.96,
+    "end": 333.59000000000003,
+    "start_time": "00:05:30.960",
+    "end_time": "00:05:33.590",
+    "text": "ದಯತಜಾತಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 204,
+    "start": 333.59000000000003,
+    "end": 333.6,
+    "start_time": "00:05:33.590",
+    "end_time": "00:05:33.600",
+    "text": "ದಯತಜಾತಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 205,
+    "start": 333.6,
+    "end": 336.469,
+    "start_time": "00:05:33.600",
+    "end_time": "00:05:36.469",
+    "text": "ಅಜಾದಿ ಸಮೃತಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 206,
+    "start": 336.469,
+    "end": 336.479,
+    "start_time": "00:05:36.469",
+    "end_time": "00:05:36.479",
+    "text": "ಅಜಾದಿ ಸಮೃತಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 207,
+    "start": 336.479,
+    "end": 338.71,
+    "start_time": "00:05:36.479",
+    "end_time": "00:05:38.710",
+    "text": "ಪ್ರೀತಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 208,
+    "start": 338.71,
+    "end": 338.72,
+    "start_time": "00:05:38.710",
+    "end_time": "00:05:38.720",
+    "text": "ಪ್ರೀತಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 209,
+    "start": 338.72,
+    "end": 342.87,
+    "start_time": "00:05:38.720",
+    "end_time": "00:05:42.870",
+    "text": "ಬೋಧ್ಯಂತ ಓಂ ಕಂ ಕಪಿಲಾಯ ನಮಃ ದತ್ತಾತ್ರೇಯ ನಮಃ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 210,
+    "start": 342.87,
+    "end": 342.88,
+    "start_time": "00:05:42.870",
+    "end_time": "00:05:42.880",
+    "text": "ಬೋಧ್ಯಂತ ಓಂ ಕಂ ಕಪಿಲಾಯ ನಮಃ ದತ್ತಾತ್ರೇಯ ನಮಃ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 211,
+    "start": 342.88,
+    "end": 346.469,
+    "start_time": "00:05:42.880",
+    "end_time": "00:05:46.469",
+    "text": "ಅಶ್ವಿನ್ ಪುಸ್ತಕೆ ಕಪಿಲ ದತ್ತಾತ್ರೇಯಂ ವಾಗಯಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 212,
+    "start": 346.469,
+    "end": 346.479,
+    "start_time": "00:05:46.469",
+    "end_time": "00:05:46.479",
+    "text": "ಅಶ್ವಿನ್ ಪುಸ್ತಕೆ ಕಪಿಲ ದತ್ತಾತ್ರೇಯಂ ವಾಗಯಾಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 213,
+    "start": 346.479,
+    "end": 349.189,
+    "start_time": "00:05:46.479",
+    "end_time": "00:05:49.189",
+    "text": "ಎರಡನೆಯದು ಹಯಗ್ರೀವರನ್ನ ಧ್ಯಾನ ಮಾಡಬೇಕು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 214,
+    "start": 349.189,
+    "end": 349.199,
+    "start_time": "00:05:49.189",
+    "end_time": "00:05:49.199",
+    "text": "ಎರಡನೆಯದು ಹಯಗ್ರೀವರನ್ನ ಧ್ಯಾನ ಮಾಡಬೇಕು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 215,
+    "start": 349.199,
+    "end": 352.07,
+    "start_time": "00:05:49.199",
+    "end_time": "00:05:52.070",
+    "text": "ಮಂತ್ರಸ್ತೆಯನ್ನ ಕೈಯಲ್ಲಿಕೊಳ್ರಿ ವಂದೇ ತುರಂಗ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 216,
+    "start": 352.07,
+    "end": 352.08,
+    "start_time": "00:05:52.070",
+    "end_time": "00:05:52.080",
+    "text": "ಮಂತ್ರಸ್ತೆಯನ್ನ ಕೈಯಲ್ಲಿಕೊಳ್ರಿ ವಂದೇ ತುರಂಗ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 217,
+    "start": 352.08,
+    "end": 354.23,
+    "start_time": "00:05:52.080",
+    "end_time": "00:05:54.230",
+    "text": "ಪದನಂ ಶಸಿಬಿಂಬ ಸಂಸ್ತಂ ಚಂದ್ರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 218,
+    "start": 354.23,
+    "end": 354.24,
+    "start_time": "00:05:54.230",
+    "end_time": "00:05:54.240",
+    "text": "ಪದನಂ ಶಸಿಬಿಂಬ ಸಂಸ್ತಂ ಚಂದ್ರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 219,
+    "start": 354.24,
+    "end": 356.12,
+    "start_time": "00:05:54.240",
+    "end_time": "00:05:56.120",
+    "text": "ಂದ್ರಪದತಮದಾತ್ಮಕರೈಶಮಂದಾತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 220,
+    "start": 356.12,
+    "end": 356.13,
+    "start_time": "00:05:56.120",
+    "end_time": "00:05:56.130",
+    "text": "ಂದ್ರಪದತಮದಾತ್ಮಕರೈಶಮಂದಾತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 221,
+    "start": 356.13,
+    "end": 357.27,
+    "start_time": "00:05:56.130",
+    "end_time": "00:05:57.270",
+    "text": "[ಸಂಗೀತ]",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 222,
+    "start": 357.27,
+    "end": 357.28,
+    "start_time": "00:05:57.270",
+    "end_time": "00:05:57.280",
+    "text": "[ಸಂಗೀತ]",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 223,
+    "start": 357.28,
+    "end": 359.99,
+    "start_time": "00:05:57.280",
+    "end_time": "00:05:59.990",
+    "text": "ಅಂಡಾಂತರಂ ಪ್ರತಿಹತಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 224,
+    "start": 359.99,
+    "end": 360.0,
+    "start_time": "00:05:59.990",
+    "end_time": "00:06:00.000",
+    "text": "ಅಂಡಾಂತರಂ ಪ್ರತಿಹತಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 225,
+    "start": 360.0,
+    "end": 364.87,
+    "start_time": "00:06:00.000",
+    "end_time": "00:06:04.870",
+    "text": "ಬಹಿರಪಿ ಪ್ರತಿಭಾಷಗಂತಂ ಸಂಕಾಚ ಪುಸ್ತಕ ಶುಭೋದ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 226,
+    "start": 364.87,
+    "end": 364.88,
+    "start_time": "00:06:04.870",
+    "end_time": "00:06:04.880",
+    "text": "ಬಹಿರಪಿ ಪ್ರತಿಭಾಷಗಂತಂ ಸಂಕಾಚ ಪುಸ್ತಕ ಶುಭೋದ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 227,
+    "start": 364.88,
+    "end": 368.71,
+    "start_time": "00:06:04.880",
+    "end_time": "00:06:08.710",
+    "text": "ಬಾಹುಂ ನಸ್ತೋಮುಖಾದಪಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 228,
+    "start": 368.71,
+    "end": 368.72,
+    "start_time": "00:06:08.710",
+    "end_time": "00:06:08.720",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 229,
+    "start": 368.72,
+    "end": 372.629,
+    "start_time": "00:06:08.720",
+    "end_time": "00:06:12.629",
+    "text": "ನಿರಂತರ ಮುದ್ಗಿರಂತಂ ವಿದ್ಯಾ ಅಶೇಷತ ಉದಾಬ್",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 230,
+    "start": 372.629,
+    "end": 372.639,
+    "start_time": "00:06:12.629",
+    "end_time": "00:06:12.639",
+    "text": "ನಿರಂತರ ಮುದ್ಗಿರಂತಂ ವಿದ್ಯಾ ಅಶೇಷತ ಉದಾಬ್",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 231,
+    "start": 372.639,
+    "end": 375.11,
+    "start_time": "00:06:12.639",
+    "end_time": "00:06:15.110",
+    "text": "ಭವೇಶಮುಹಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 232,
+    "start": 375.11,
+    "end": 375.12,
+    "start_time": "00:06:15.110",
+    "end_time": "00:06:15.120",
+    "text": "ಭವೇಶಮುಹಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 233,
+    "start": 375.12,
+    "end": 379.029,
+    "start_time": "00:06:15.120",
+    "end_time": "00:06:19.029",
+    "text": "ಹಂ ಹಯಗ್ರೇವಾಯ ನಮಃ ಹಯಗ್ರೀವಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 234,
+    "start": 379.029,
+    "end": 379.039,
+    "start_time": "00:06:19.029",
+    "end_time": "00:06:19.039",
+    "text": "ಹಂ ಹಯಗ್ರೇವಾಯ ನಮಃ ಹಯಗ್ರೀವಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 235,
+    "start": 379.039,
+    "end": 381.59,
+    "start_time": "00:06:19.039",
+    "end_time": "00:06:21.590",
+    "text": "ಅವಾಗಯಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 236,
+    "start": 381.59,
+    "end": 381.6,
+    "start_time": "00:06:21.590",
+    "end_time": "00:06:21.600",
+    "text": "ಅವಾಗಯಾಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 237,
+    "start": 381.6,
+    "end": 383.67,
+    "start_time": "00:06:21.600",
+    "end_time": "00:06:23.670",
+    "text": "ರಾಮದೇವರನ್ನ ಧ್ಯಾನ ಮಾಡಬೇಕು ಕೈಯಲ್ಲಿ ಮಂತ್ರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 238,
+    "start": 383.67,
+    "end": 383.68,
+    "start_time": "00:06:23.670",
+    "end_time": "00:06:23.680",
+    "text": "ರಾಮದೇವರನ್ನ ಧ್ಯಾನ ಮಾಡಬೇಕು ಕೈಯಲ್ಲಿ ಮಂತ್ರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 239,
+    "start": 383.68,
+    "end": 387.51,
+    "start_time": "00:06:23.680",
+    "end_time": "00:06:27.510",
+    "text": "ಅಂತರಾಷ್ಟ್ರ ತಗೊಳ್ಳಿ ಶ್ಯಾಮಂ ರವಿಂದು ಮೀತಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 240,
+    "start": 387.51,
+    "end": 387.52,
+    "start_time": "00:06:27.510",
+    "end_time": "00:06:27.520",
+    "text": "ಅಂತರಾಷ್ಟ್ರ ತಗೊಳ್ಳಿ ಶ್ಯಾಮಂ ರವಿಂದು ಮೀತಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 241,
+    "start": 387.52,
+    "end": 389.27,
+    "start_time": "00:06:27.520",
+    "end_time": "00:06:29.270",
+    "text": "ದೀತಿಕಾಂತಿಯುಕ್ತಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 242,
+    "start": 389.27,
+    "end": 389.28,
+    "start_time": "00:06:29.270",
+    "end_time": "00:06:29.280",
+    "text": "ದೀತಿಕಾಂತಿಯುಕ್ತಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 243,
+    "start": 389.28,
+    "end": 393.909,
+    "start_time": "00:06:29.280",
+    "end_time": "00:06:33.909",
+    "text": "ಜ್ಞಾನಂ ಸರಂಚತಂ ಪ್ರಿಯಶಮೇತಂ ಸ್ವಾತ್ಮಸ್ರೂಪ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 244,
+    "start": 393.909,
+    "end": 393.919,
+    "start_time": "00:06:33.909",
+    "end_time": "00:06:33.919",
+    "text": "ಜ್ಞಾನಂ ಸರಂಚತಂ ಪ್ರಿಯಶಮೇತಂ ಸ್ವಾತ್ಮಸ್ರೂಪ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 245,
+    "start": 393.919,
+    "end": 397.83,
+    "start_time": "00:06:33.919",
+    "end_time": "00:06:37.830",
+    "text": "ಮಮಿತಂ ಹನುಮನ್ಮುಖೇಸು ಸಂದರ್ಶಗಂತಂ ಅಜಿತಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 246,
+    "start": 397.83,
+    "end": 397.84000000000003,
+    "start_time": "00:06:37.830",
+    "end_time": "00:06:37.840",
+    "text": "ಮಮಿತಂ ಹನುಮನ್ಮುಖೇಸು ಸಂದರ್ಶಗಂತಂ ಅಜಿತಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 247,
+    "start": 397.84000000000003,
+    "end": 401.67,
+    "start_time": "00:06:37.840",
+    "end_time": "00:06:41.670",
+    "text": "ಸ್ಮರದೋರ್ಗೀರ್ಿ ಓಂ ರಾಂ ರಾಮಾಯ ನಮಃ ಮಂತ್ರಸ್ತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 248,
+    "start": 401.67,
+    "end": 401.68,
+    "start_time": "00:06:41.670",
+    "end_time": "00:06:41.680",
+    "text": "ಸ್ಮರದೋರ್ಗೀರ್ಿ ಓಂ ರಾಂ ರಾಮಾಯ ನಮಃ ಮಂತ್ರಸ್ತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 249,
+    "start": 401.68,
+    "end": 405.43,
+    "start_time": "00:06:41.680",
+    "end_time": "00:06:45.430",
+    "text": "ರಾಮಂ ಅಭಾಗಯಾಮಿ ಮತ್ತು ಮಂತ್ರಸ್ತೆಯನ್ನ ತಗೊಳ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 250,
+    "start": 405.43,
+    "end": 405.44,
+    "start_time": "00:06:45.430",
+    "end_time": "00:06:45.440",
+    "text": "ರಾಮಂ ಅಭಾಗಯಾಮಿ ಮತ್ತು ಮಂತ್ರಸ್ತೆಯನ್ನ ತಗೊಳ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 251,
+    "start": 405.44,
+    "end": 409.83,
+    "start_time": "00:06:45.440",
+    "end_time": "00:06:49.830",
+    "text": "ಯಾಯತ ಹರಿರ್ಮಣಿಂ ಜಗದೇಕಬಂದ ಸೌಂದರ್ಯಶಾರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 252,
+    "start": 409.83,
+    "end": 409.84000000000003,
+    "start_time": "00:06:49.830",
+    "end_time": "00:06:49.840",
+    "text": "ಯಾಯತ ಹರಿರ್ಮಣಿಂ ಜಗದೇಕಬಂದ ಸೌಂದರ್ಯಶಾರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 253,
+    "start": 409.84000000000003,
+    "end": 412.87,
+    "start_time": "00:06:49.840",
+    "end_time": "00:06:52.870",
+    "text": "ಹರಿಶಂಕಪರಯಾನಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 254,
+    "start": 412.87,
+    "end": 412.88,
+    "start_time": "00:06:52.870",
+    "end_time": "00:06:52.880",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 255,
+    "start": 412.88,
+    "end": 416.23,
+    "start_time": "00:06:52.880",
+    "end_time": "00:06:56.230",
+    "text": "ಬಿದ್ದಾನಂ ಸರಸಂಚ ಭೈಷ್ಮಿ ಸತ್ಯ ಸಮೇತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 256,
+    "start": 416.23,
+    "end": 416.24,
+    "start_time": "00:06:56.230",
+    "end_time": "00:06:56.240",
+    "text": "ಬಿದ್ದಾನಂ ಸರಸಂಚ ಭೈಷ್ಮಿ ಸತ್ಯ ಸಮೇತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 257,
+    "start": 416.24,
+    "end": 417.749,
+    "start_time": "00:06:56.240",
+    "end_time": "00:06:57.749",
+    "text": "ಅಖಿಲಪ್ರದಮಿಂದಿರೇ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 258,
+    "start": 417.749,
+    "end": 417.759,
+    "start_time": "00:06:57.749",
+    "end_time": "00:06:57.759",
+    "text": "ಅಖಿಲಪ್ರದಮಿಂದಿರೇ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 259,
+    "start": 417.759,
+    "end": 421.189,
+    "start_time": "00:06:57.759",
+    "end_time": "00:07:01.189",
+    "text": "ಓಂ ಕ್ಲೀಂ ಕೃಷ್ಣಾಯ ನಮಃ ಕೃಷ್ಣಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 260,
+    "start": 421.189,
+    "end": 421.199,
+    "start_time": "00:07:01.189",
+    "end_time": "00:07:01.199",
+    "text": "ಓಂ ಕ್ಲೀಂ ಕೃಷ್ಣಾಯ ನಮಃ ಕೃಷ್ಣಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 261,
+    "start": 421.199,
+    "end": 424.39,
+    "start_time": "00:07:01.199",
+    "end_time": "00:07:04.390",
+    "text": "ಹತ್ತು ಮಂತ್ರಸ್ತರಿ ಅಂಗಾರ ವರ್ಣ ಅಭಿದೋಂಡ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 262,
+    "start": 424.39,
+    "end": 424.4,
+    "start_time": "00:07:04.390",
+    "end_time": "00:07:04.400",
+    "text": "ಹತ್ತು ಮಂತ್ರಸ್ತರಿ ಅಂಗಾರ ವರ್ಣ ಅಭಿದೋಂಡ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 263,
+    "start": 424.4,
+    "end": 427.589,
+    "start_time": "00:07:04.400",
+    "end_time": "00:07:07.589",
+    "text": "ಬಗಿಹಿ ಪ್ರಭಾಬಿರ್",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 264,
+    "start": 427.589,
+    "end": 427.599,
+    "start_time": "00:07:07.589",
+    "end_time": "00:07:07.599",
+    "text": "ಬಗಿಹಿ ಪ್ರಭಾಬಿರ್",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 265,
+    "start": 427.599,
+    "end": 431.11,
+    "start_time": "00:07:07.599",
+    "end_time": "00:07:11.110",
+    "text": "ವ್ಯಾಪ್ತಂ ಪರಶ್ವತಂ ದನುರ್ಧರಮೇ ಕಬೀರಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 266,
+    "start": 431.11,
+    "end": 431.12,
+    "start_time": "00:07:11.110",
+    "end_time": "00:07:11.120",
+    "text": "ವ್ಯಾಪ್ತಂ ಪರಶ್ವತಂ ದನುರ್ಧರಮೇ ಕಬೀರಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 267,
+    "start": 431.12,
+    "end": 434.95,
+    "start_time": "00:07:11.120",
+    "end_time": "00:07:14.950",
+    "text": "ಯಾಗೇದಜೇಷ ಕುರುಹೂತ ಮುಖೈಸ್ತುವದ್ಭಿಹಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 268,
+    "start": 434.95,
+    "end": 434.96,
+    "start_time": "00:07:14.950",
+    "end_time": "00:07:14.960",
+    "text": "ಯಾಗೇದಜೇಷ ಕುರುಹೂತ ಮುಖೈಸ್ತುವದ್ಭಿಹಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 269,
+    "start": 434.96,
+    "end": 437.99,
+    "start_time": "00:07:14.960",
+    "end_time": "00:07:17.990",
+    "text": "ರಾೀತಮಾತ್ಮ ಪದಬೀಂ ಪ್ರತಿಪಾದಕಂತಂ ಭಾಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 270,
+    "start": 437.99,
+    "end": 438.0,
+    "start_time": "00:07:17.990",
+    "end_time": "00:07:18.000",
+    "text": "ರಾೀತಮಾತ್ಮ ಪದಬೀಂ ಪ್ರತಿಪಾದಕಂತಂ ಭಾಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 271,
+    "start": 438.0,
+    "end": 441.43,
+    "start_time": "00:07:18.000",
+    "end_time": "00:07:21.430",
+    "text": "ಭಾರ್ಗವಾಯ ನಮಃ ಪರಶುರಾಂ ಧ್ಯಾಯಾಮಿ ಮತ್ತು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 272,
+    "start": 441.43,
+    "end": 441.44,
+    "start_time": "00:07:21.430",
+    "end_time": "00:07:21.440",
+    "text": "ಭಾರ್ಗವಾಯ ನಮಃ ಪರಶುರಾಂ ಧ್ಯಾಯಾಮಿ ಮತ್ತು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 273,
+    "start": 441.44,
+    "end": 443.749,
+    "start_time": "00:07:21.440",
+    "end_time": "00:07:23.749",
+    "text": "ಮಂತ್ರಸ್ಥ ತಗೊಳ್ರಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 274,
+    "start": 443.749,
+    "end": 443.759,
+    "start_time": "00:07:23.749",
+    "end_time": "00:07:23.759",
+    "text": "ಮಂತ್ರಸ್ಥ ತಗೊಳ್ರಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 275,
+    "start": 443.759,
+    "end": 447.029,
+    "start_time": "00:07:23.759",
+    "end_time": "00:07:27.029",
+    "text": "ದ್ಯಾಯನಿಮ ಮುರುತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 276,
+    "start": 447.029,
+    "end": 447.039,
+    "start_time": "00:07:27.029",
+    "end_time": "00:07:27.039",
+    "text": "ದ್ಯಾಯನಿಮ ಮುರುತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 277,
+    "start": 447.039,
+    "end": 450.07,
+    "start_time": "00:07:27.039",
+    "end_time": "00:07:30.070",
+    "text": "ಮುರುವಿರ್ತ ರತ್ರಿನೇತ್ರಂ ಜಾನುಪ್ರಸಕ್ತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 278,
+    "start": 450.07,
+    "end": 450.08,
+    "start_time": "00:07:30.070",
+    "end_time": "00:07:30.080",
+    "text": "ಮುರುವಿರ್ತ ರತ್ರಿನೇತ್ರಂ ಜಾನುಪ್ರಸಕ್ತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 279,
+    "start": 450.08,
+    "end": 451.909,
+    "start_time": "00:07:30.080",
+    "end_time": "00:07:31.909",
+    "text": "ಕರಮತಪರ್ಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 280,
+    "start": 451.909,
+    "end": 451.919,
+    "start_time": "00:07:31.909",
+    "end_time": "00:07:31.919",
+    "text": "ಕರಮತಪರ್ಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 281,
+    "start": 451.919,
+    "end": 455.11,
+    "start_time": "00:07:31.919",
+    "end_time": "00:07:35.110",
+    "text": "ಧರಂಚತಂ ಪ್ರಿಯಸಮೇತಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 282,
+    "start": 455.11,
+    "end": 455.12,
+    "start_time": "00:07:35.110",
+    "end_time": "00:07:35.120",
+    "text": "ಧರಂಚತಂ ಪ್ರಿಯಸಮೇತಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 283,
+    "start": 455.12,
+    "end": 456.79,
+    "start_time": "00:07:35.120",
+    "end_time": "00:07:36.790",
+    "text": "ದಿಮಂಕೋಟಿಕತೇಜ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 284,
+    "start": 456.79,
+    "end": 456.8,
+    "start_time": "00:07:36.790",
+    "end_time": "00:07:36.800",
+    "text": "ದಿಮಂಕೋಟಿಕತೇಜ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 285,
+    "start": 456.8,
+    "end": 459.029,
+    "start_time": "00:07:36.800",
+    "end_time": "00:07:39.029",
+    "text": "ಸಮಗ್ರಸಕ್ತಿಂ್ರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 286,
+    "start": 459.029,
+    "end": 459.039,
+    "start_time": "00:07:39.029",
+    "end_time": "00:07:39.039",
+    "text": "ಸಮಗ್ರಸಕ್ತಿಂ್ರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 287,
+    "start": 459.039,
+    "end": 461.83,
+    "start_time": "00:07:39.039",
+    "end_time": "00:07:41.830",
+    "text": "ಮಹಾವಿಷ್ಣ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 288,
+    "start": 461.83,
+    "end": 461.84000000000003,
+    "start_time": "00:07:41.830",
+    "end_time": "00:07:41.840",
+    "text": "ಮಹಾವಿಷ್ಣ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 289,
+    "start": 461.84000000000003,
+    "end": 466.55,
+    "start_time": "00:07:41.840",
+    "end_time": "00:07:46.550",
+    "text": "ಭದ್ರಂ ಮೃತ್ಯಂ ಮೃತ್ಯ ನಮ ಲಕ್ಷ್ಮಿ ನಸಿಂ ಯಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 290,
+    "start": 466.55,
+    "end": 466.56,
+    "start_time": "00:07:46.550",
+    "end_time": "00:07:46.560",
+    "text": "ಭದ್ರಂ ಮೃತ್ಯಂ ಮೃತ್ಯ ನಮ ಲಕ್ಷ್ಮಿ ನಸಿಂ ಯಾಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 291,
+    "start": 466.56,
+    "end": 468.55,
+    "start_time": "00:07:46.560",
+    "end_time": "00:07:48.550",
+    "text": "ಪಗಜಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 292,
+    "start": 468.55,
+    "end": 468.56,
+    "start_time": "00:07:48.550",
+    "end_time": "00:07:48.560",
+    "text": "ಪಗಜಾಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 293,
+    "start": 468.56,
+    "end": 470.23,
+    "start_time": "00:07:48.560",
+    "end_time": "00:07:50.230",
+    "text": "ಎರಡನೆದು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 294,
+    "start": 470.23,
+    "end": 470.24,
+    "start_time": "00:07:50.230",
+    "end_time": "00:07:50.240",
+    "text": "ಎರಡನೆದು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 295,
+    "start": 470.24,
+    "end": 471.99,
+    "start_time": "00:07:50.240",
+    "end_time": "00:07:51.990",
+    "text": "ವ್ಯಾಸ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 296,
+    "start": 471.99,
+    "end": 472.0,
+    "start_time": "00:07:51.990",
+    "end_time": "00:07:52.000",
+    "text": "ವ್ಯಾಸ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 297,
+    "start": 472.0,
+    "end": 475.51,
+    "start_time": "00:07:52.000",
+    "end_time": "00:07:55.510",
+    "text": "ಧ್ಯಾನ ಮಂತ್ರಸ್ತಿ ವಿಜ್ಞಾನರೋಚಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 298,
+    "start": 475.51,
+    "end": 475.52,
+    "start_time": "00:07:55.510",
+    "end_time": "00:07:55.520",
+    "text": "ಧ್ಯಾನ ಮಂತ್ರಸ್ತಿ ವಿಜ್ಞಾನರೋಚಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 299,
+    "start": 475.52,
+    "end": 479.27,
+    "start_time": "00:07:55.520",
+    "end_time": "00:07:59.270",
+    "text": "ಪರಿಪರಿಪೂರಿದಂತಾಕೋಶಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 300,
+    "start": 479.27,
+    "end": 479.28,
+    "start_time": "00:07:59.270",
+    "end_time": "00:07:59.280",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 301,
+    "start": 479.28,
+    "end": 480.95,
+    "start_time": "00:07:59.280",
+    "end_time": "00:08:00.950",
+    "text": "ಹರಿತೋಪಲಾಭಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 302,
+    "start": 480.95,
+    "end": 480.96,
+    "start_time": "00:08:00.950",
+    "end_time": "00:08:00.960",
+    "text": "ಹರಿತೋಪಲಾಭಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 303,
+    "start": 480.96,
+    "end": 483.749,
+    "start_time": "00:08:00.960",
+    "end_time": "00:08:03.749",
+    "text": "ತರ್ಕತ ವಿಿಸತ್ವಭೂತಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 304,
+    "start": 483.749,
+    "end": 483.759,
+    "start_time": "00:08:03.749",
+    "end_time": "00:08:03.759",
+    "text": "ತರ್ಕತ ವಿಿಸತ್ವಭೂತಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 305,
+    "start": 483.759,
+    "end": 485.99,
+    "start_time": "00:08:03.759",
+    "end_time": "00:08:05.990",
+    "text": "ವಿಜ್ಞಾನತಮನತೋಶ್ಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 306,
+    "start": 485.99,
+    "end": 486.0,
+    "start_time": "00:08:05.990",
+    "end_time": "00:08:06.000",
+    "text": "ವಿಜ್ಞಾನತಮನತೋಶ್ಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 307,
+    "start": 486.0,
+    "end": 489.029,
+    "start_time": "00:08:06.000",
+    "end_time": "00:08:09.029",
+    "text": "ಓಂ ವ್ಯಾಂ ವ್ಯಾಸಯನಮಃ ವೇದವ್ಯಾಸಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 308,
+    "start": 489.029,
+    "end": 489.039,
+    "start_time": "00:08:09.029",
+    "end_time": "00:08:09.039",
+    "text": "ಓಂ ವ್ಯಾಂ ವ್ಯಾಸಯನಮಃ ವೇದವ್ಯಾಸಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 309,
+    "start": 489.039,
+    "end": 493.51,
+    "start_time": "00:08:09.039",
+    "end_time": "00:08:13.510",
+    "text": "ಧ್ಯಾಯಾಮಿ ಪೂರ್ಣಜ್ಞಾನಯ ಪದ್ಮಹ ಪೂರ್ಣನಂದ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 310,
+    "start": 493.51,
+    "end": 493.52,
+    "start_time": "00:08:13.510",
+    "end_time": "00:08:13.520",
+    "text": "ಧ್ಯಾಯಾಮಿ ಪೂರ್ಣಜ್ಞಾನಯ ಪದ್ಮಹ ಪೂರ್ಣನಂದ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 311,
+    "start": 493.52,
+    "end": 495.909,
+    "start_time": "00:08:13.520",
+    "end_time": "00:08:15.909",
+    "text": "ತನ್ನೋವ್ಯಾಸ ಪ್ರಚೋದ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 312,
+    "start": 495.909,
+    "end": 495.919,
+    "start_time": "00:08:15.909",
+    "end_time": "00:08:15.919",
+    "text": "ತನ್ನೋವ್ಯಾಸ ಪ್ರಚೋದ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 313,
+    "start": 495.919,
+    "end": 498.469,
+    "start_time": "00:08:15.919",
+    "end_time": "00:08:18.469",
+    "text": "ಶ್ರೀವ್ಯಾಸಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 314,
+    "start": 498.469,
+    "end": 498.479,
+    "start_time": "00:08:18.469",
+    "end_time": "00:08:18.479",
+    "text": "ಶ್ರೀವ್ಯಾಸಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 315,
+    "start": 498.479,
+    "end": 502.629,
+    "start_time": "00:08:18.479",
+    "end_time": "00:08:22.629",
+    "text": "ಮತ್ತು ಮಂತ್ರಸ್ತ ಭಾಷ್ವತ್ ಸಮಾಭಾಸಕ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 316,
+    "start": 502.629,
+    "end": 502.639,
+    "start_time": "00:08:22.629",
+    "end_time": "00:08:22.639",
+    "text": "ಮತ್ತು ಮಂತ್ರಸ್ತ ಭಾಷ್ವತ್ ಸಮಾಭಾಸಕ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 317,
+    "start": 502.639,
+    "end": 505.27,
+    "start_time": "00:08:22.639",
+    "end_time": "00:08:25.270",
+    "text": "ಚಕ್ರಶಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 318,
+    "start": 505.27,
+    "end": 505.28,
+    "start_time": "00:08:25.270",
+    "end_time": "00:08:25.280",
+    "text": "ಚಕ್ರಶಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 319,
+    "start": 505.28,
+    "end": 509.189,
+    "start_time": "00:08:25.280",
+    "end_time": "00:08:29.189",
+    "text": "ಚಕ್ರಶಂಕ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 320,
+    "start": 509.189,
+    "end": 509.199,
+    "start_time": "00:08:29.189",
+    "end_time": "00:08:29.199",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 321,
+    "start": 509.199,
+    "end": 512.63,
+    "start_time": "00:08:29.199",
+    "end_time": "00:08:32.630",
+    "text": "ಚಕ್ರಶಂಕಮದಾ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 322,
+    "start": 512.63,
+    "end": 512.64,
+    "start_time": "00:08:32.630",
+    "end_time": "00:08:32.640",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 323,
+    "start": 512.64,
+    "end": 514.87,
+    "start_time": "00:08:32.640",
+    "end_time": "00:08:34.870",
+    "text": "ಪದ್ಮದರೋಧ್ಯಾಯಮೀಶ್ವರಹ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 324,
+    "start": 514.87,
+    "end": 514.88,
+    "start_time": "00:08:34.870",
+    "end_time": "00:08:34.880",
+    "text": "ಪದ್ಮದರೋಧ್ಯಾಯಮೀಶ್ವರಹ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 325,
+    "start": 514.88,
+    "end": 517.909,
+    "start_time": "00:08:34.880",
+    "end_time": "00:08:37.909",
+    "text": "ಚಕ್ರಶಂಕ ಗದ ಪದ್ಮಧರಧ್ಯಾಯಮೀಶ್ವರಹ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 326,
+    "start": 517.909,
+    "end": 517.919,
+    "start_time": "00:08:37.909",
+    "end_time": "00:08:37.919",
+    "text": "ಚಕ್ರಶಂಕ ಗದ ಪದ್ಮಧರಧ್ಯಾಯಮೀಶ್ವರಹ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 327,
+    "start": 517.919,
+    "end": 520.469,
+    "start_time": "00:08:37.919",
+    "end_time": "00:08:40.469",
+    "text": "ಲಕ್ಷ್ಮೀದರಾಭ್ಯಾಮ ಶ್ರೇಷ್ಠಹ ಶಿವಮೂರ್ತಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 328,
+    "start": 520.469,
+    "end": 520.479,
+    "start_time": "00:08:40.469",
+    "end_time": "00:08:40.479",
+    "text": "ಲಕ್ಷ್ಮೀದರಾಭ್ಯಾಮ ಶ್ರೇಷ್ಠಹ ಶಿವಮೂರ್ತಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 329,
+    "start": 520.479,
+    "end": 523.509,
+    "start_time": "00:08:40.479",
+    "end_time": "00:08:43.509",
+    "text": "ಗಣಮಧದ್ಯಕಹ ಬ್ರಹ್ಮವಾಯು ಶಿವಾಗೀಶ ವಿಭೇ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 330,
+    "start": 523.509,
+    "end": 523.519,
+    "start_time": "00:08:43.509",
+    "end_time": "00:08:43.519",
+    "text": "ಗಣಮಧದ್ಯಕಹ ಬ್ರಹ್ಮವಾಯು ಶಿವಾಗೀಶ ವಿಭೇ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 331,
+    "start": 523.519,
+    "end": 527.35,
+    "start_time": "00:08:43.519",
+    "end_time": "00:08:47.350",
+    "text": "ಚಕ್ರಾದಿಕೇರಿ ಶವಿಮೋನೋದಿಕಂ ಭಕ್ತ್ಯ ನಿತ್ಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 332,
+    "start": 527.35,
+    "end": 527.36,
+    "start_time": "00:08:47.350",
+    "end_time": "00:08:47.360",
+    "text": "ಚಕ್ರಾದಿಕೇರಿ ಶವಿಮೋನೋದಿಕಂ ಭಕ್ತ್ಯ ನಿತ್ಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 333,
+    "start": 527.36,
+    "end": 531.19,
+    "start_time": "00:08:47.360",
+    "end_time": "00:08:51.190",
+    "text": "ನಿರ್ದೋಷ ಶಕ್ತಿಮಾನ್ ಮೂರ್ತಗೇಷ್ಟ್ ವಿದ್ಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 334,
+    "start": 531.19,
+    "end": 531.2,
+    "start_time": "00:08:51.190",
+    "end_time": "00:08:51.200",
+    "text": "ನಿರ್ದೋಷ ಶಕ್ತಿಮಾನ್ ಮೂರ್ತಗೇಷ್ಟ್ ವಿದ್ಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 335,
+    "start": 531.2,
+    "end": 534.31,
+    "start_time": "00:08:51.200",
+    "end_time": "00:08:54.310",
+    "text": "ನಿತ್ಯ ನಿರ್ದೋಷ ಶಕ್ತಿಮಾನ್ ಓಂ ನಮೋ ನಾರಾಯಣಾಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 336,
+    "start": 534.31,
+    "end": 534.32,
+    "start_time": "00:08:54.310",
+    "end_time": "00:08:54.320",
+    "text": "ನಿತ್ಯ ನಿರ್ದೋಷ ಶಕ್ತಿಮಾನ್ ಓಂ ನಮೋ ನಾರಾಯಣಾಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 337,
+    "start": 534.32,
+    "end": 541.67,
+    "start_time": "00:08:54.320",
+    "end_time": "00:09:01.670",
+    "text": "ನಮಃ ಶ್ರೀ ನಾರಾಯಣಂ ಧ್ಯಾಯಾಮಿ ಅವಾಗಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 338,
+    "start": 541.67,
+    "end": 541.68,
+    "start_time": "00:09:01.670",
+    "end_time": "00:09:01.680",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 339,
+    "start": 541.68,
+    "end": 544.23,
+    "start_time": "00:09:01.680",
+    "end_time": "00:09:04.230",
+    "text": "ಶ್ರೀ ಧ್ಯಾನ ಲಕ್ಷ್ಮಿಯನ್ನ ಧ್ಯಾನ ಮಾಡೋದು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 340,
+    "start": 544.23,
+    "end": 544.24,
+    "start_time": "00:09:04.230",
+    "end_time": "00:09:04.240",
+    "text": "ಶ್ರೀ ಧ್ಯಾನ ಲಕ್ಷ್ಮಿಯನ್ನ ಧ್ಯಾನ ಮಾಡೋದು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 341,
+    "start": 544.24,
+    "end": 547.91,
+    "start_time": "00:09:04.240",
+    "end_time": "00:09:07.910",
+    "text": "ಮಂತ್ರಸ್ತ ಕೌಶಯ ಪೀತಸನವಿಂದನೇತ್ರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 342,
+    "start": 547.91,
+    "end": 547.92,
+    "start_time": "00:09:07.910",
+    "end_time": "00:09:07.920",
+    "text": "ಮಂತ್ರಸ್ತ ಕೌಶಯ ಪೀತಸನವಿಂದನೇತ್ರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 343,
+    "start": 547.92,
+    "end": 551.03,
+    "start_time": "00:09:07.920",
+    "end_time": "00:09:11.030",
+    "text": "ಪದ್ಮಪದ್ಮದ್ವಯರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 344,
+    "start": 551.03,
+    "end": 551.04,
+    "start_time": "00:09:11.030",
+    "end_time": "00:09:11.040",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 345,
+    "start": 551.04,
+    "end": 553.75,
+    "start_time": "00:09:11.040",
+    "end_time": "00:09:13.750",
+    "text": "ಪದ್ಮಸ್ತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 346,
+    "start": 553.75,
+    "end": 553.76,
+    "start_time": "00:09:13.750",
+    "end_time": "00:09:13.760",
+    "text": "ಪದ್ಮಸ್ತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 347,
+    "start": 553.76,
+    "end": 557.59,
+    "start_time": "00:09:13.760",
+    "end_time": "00:09:17.590",
+    "text": "ಪರಮಂಗಯಂತ್ರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 348,
+    "start": 557.59,
+    "end": 557.6,
+    "start_time": "00:09:17.590",
+    "end_time": "00:09:17.600",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 349,
+    "start": 557.6,
+    "end": 560.389,
+    "start_time": "00:09:17.600",
+    "end_time": "00:09:20.389",
+    "text": "ಶ್ರೀ ಶೇ ನಮಃ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 350,
+    "start": 560.389,
+    "end": 560.399,
+    "start_time": "00:09:20.389",
+    "end_time": "00:09:20.399",
+    "text": "ಶ್ರೀ ಶೇ ನಮಃ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 351,
+    "start": 560.399,
+    "end": 562.55,
+    "start_time": "00:09:20.399",
+    "end_time": "00:09:22.550",
+    "text": "ಶ್ರೀಯಂ ಮಹಾಲಕ್ಷ್ಮಿಂ ಧ್ಯಾಯಾಮಿ ಮತ್ತು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 352,
+    "start": 562.55,
+    "end": 562.56,
+    "start_time": "00:09:22.550",
+    "end_time": "00:09:22.560",
+    "text": "ಶ್ರೀಯಂ ಮಹಾಲಕ್ಷ್ಮಿಂ ಧ್ಯಾಯಾಮಿ ಮತ್ತು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 353,
+    "start": 562.56,
+    "end": 565.829,
+    "start_time": "00:09:22.560",
+    "end_time": "00:09:25.829",
+    "text": "ಮಂತ್ರಸ್ತರೆ ಕೌಶೇಯ ಪೀತ ಪಸನಮರವಿಂದನೇತ್ರಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 354,
+    "start": 565.829,
+    "end": 565.8389999999999,
+    "start_time": "00:09:25.829",
+    "end_time": "00:09:25.839",
+    "text": "ಮಂತ್ರಸ್ತರೆ ಕೌಶೇಯ ಪೀತ ಪಸನಮರವಿಂದನೇತ್ರಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 355,
+    "start": 565.8389999999999,
+    "end": 571.11,
+    "start_time": "00:09:25.839",
+    "end_time": "00:09:31.110",
+    "text": "ತಾಂಬೂಲ ನೀಲ ಕುಸುಮ ಅಭಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 356,
+    "start": 571.11,
+    "end": 571.12,
+    "start_time": "00:09:31.110",
+    "end_time": "00:09:31.120",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 357,
+    "start": 571.12,
+    "end": 574.23,
+    "start_time": "00:09:31.120",
+    "end_time": "00:09:34.230",
+    "text": "ಸದ್ತ ಶಯಾಮಂಗಕಾಂತಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 358,
+    "start": 574.23,
+    "end": 574.24,
+    "start_time": "00:09:34.230",
+    "end_time": "00:09:34.240",
+    "text": "ಸದ್ತ ಶಯಾಮಂಗಕಾಂತಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 359,
+    "start": 574.24,
+    "end": 578.949,
+    "start_time": "00:09:34.240",
+    "end_time": "00:09:38.949",
+    "text": "ಸಗಿತಂ ಪರಮಂಗತಪುಯುಗಂತ್ರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 360,
+    "start": 578.949,
+    "end": 578.9590000000001,
+    "start_time": "00:09:38.949",
+    "end_time": "00:09:38.959",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 361,
+    "start": 578.9590000000001,
+    "end": 581.19,
+    "start_time": "00:09:38.959",
+    "end_time": "00:09:41.190",
+    "text": "ಭುವೇ ನಮಃ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 362,
+    "start": 581.19,
+    "end": 581.2,
+    "start_time": "00:09:41.190",
+    "end_time": "00:09:41.200",
+    "text": "ಭುವೇ ನಮಃ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 363,
+    "start": 581.2,
+    "end": 586.389,
+    "start_time": "00:09:41.200",
+    "end_time": "00:09:46.389",
+    "text": "ಭುವೇ ನಮಃ ಭೂ ಧ್ಯಾಯಮಿ ಮತ್ತು ಮಂತ್ರ ಕಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 364,
+    "start": 586.389,
+    "end": 586.399,
+    "start_time": "00:09:46.389",
+    "end_time": "00:09:46.399",
+    "text": "ಭುವೇ ನಮಃ ಭೂ ಧ್ಯಾಯಮಿ ಮತ್ತು ಮಂತ್ರ ಕಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 365,
+    "start": 586.399,
+    "end": 588.79,
+    "start_time": "00:09:46.399",
+    "end_time": "00:09:48.790",
+    "text": "ರಕ್ತಪನ ಕಮಲತರಿತ್ರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 366,
+    "start": 588.79,
+    "end": 588.8,
+    "start_time": "00:09:48.790",
+    "end_time": "00:09:48.800",
+    "text": "ರಕ್ತಪನ ಕಮಲತರಿತ್ರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 367,
+    "start": 588.8,
+    "end": 590.55,
+    "start_time": "00:09:48.800",
+    "end_time": "00:09:50.550",
+    "text": "ಚಕ್ರಾಬ್ಜ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 368,
+    "start": 590.55,
+    "end": 590.56,
+    "start_time": "00:09:50.550",
+    "end_time": "00:09:50.560",
+    "text": "ಚಕ್ರಾಬ್ಜ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 369,
+    "start": 590.56,
+    "end": 593.43,
+    "start_time": "00:09:50.560",
+    "end_time": "00:09:53.430",
+    "text": "ಚಕ್ರಾಬ್ಜ ದರ್ಜುನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 370,
+    "start": 593.43,
+    "end": 593.44,
+    "start_time": "00:09:53.430",
+    "end_time": "00:09:53.440",
+    "text": "ಚಕ್ರಾಬ್ಜ ದರ್ಜುನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 371,
+    "start": 593.44,
+    "end": 597.269,
+    "start_time": "00:09:53.440",
+    "end_time": "00:09:57.269",
+    "text": "ತ್ರಿಶೂಲ ಯುಬ್ಜ ಹಸ್ತಂ ಉದ್ಯಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 372,
+    "start": 597.269,
+    "end": 597.279,
+    "start_time": "00:09:57.269",
+    "end_time": "00:09:57.279",
+    "text": "ತ್ರಿಶೂಲ ಯುಬ್ಜ ಹಸ್ತಂ ಉದ್ಯಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 373,
+    "start": 597.279,
+    "end": 599.75,
+    "start_time": "00:09:57.279",
+    "end_time": "00:09:59.750",
+    "text": "ಪರಮಾಂಗಸಂತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 374,
+    "start": 599.75,
+    "end": 599.76,
+    "start_time": "00:09:59.750",
+    "end_time": "00:09:59.760",
+    "text": "ಪರಮಾಂಗಸಂತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 375,
+    "start": 599.76,
+    "end": 601.509,
+    "start_time": "00:09:59.760",
+    "end_time": "00:10:01.509",
+    "text": "ಯುಗಾಂಜನರಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 376,
+    "start": 601.509,
+    "end": 601.519,
+    "start_time": "00:10:01.509",
+    "end_time": "00:10:01.519",
+    "text": "ಯುಗಾಂಜನರಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 377,
+    "start": 601.519,
+    "end": 604.79,
+    "start_time": "00:10:01.519",
+    "end_time": "00:10:04.790",
+    "text": "ದುಂ ದುರ್ಗಾಯ ನಮಃ ದುರ್ಗಾಂ ಧ್ಯಾಯಾಮಿ ಮತ್ತು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 378,
+    "start": 604.79,
+    "end": 604.8,
+    "start_time": "00:10:04.790",
+    "end_time": "00:10:04.800",
+    "text": "ದುಂ ದುರ್ಗಾಯ ನಮಃ ದುರ್ಗಾಂ ಧ್ಯಾಯಾಮಿ ಮತ್ತು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 379,
+    "start": 604.8,
+    "end": 607.19,
+    "start_time": "00:10:04.800",
+    "end_time": "00:10:07.190",
+    "text": "ಮಂತ್ರ ತಗೊಳ್ರಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 380,
+    "start": 607.19,
+    "end": 607.2,
+    "start_time": "00:10:07.190",
+    "end_time": "00:10:07.200",
+    "text": "ಮಂತ್ರ ತಗೊಳ್ರಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 381,
+    "start": 607.2,
+    "end": 611.67,
+    "start_time": "00:10:07.200",
+    "end_time": "00:10:11.670",
+    "text": "ಉದ್ಯತಂಗೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 382,
+    "start": 611.67,
+    "end": 611.68,
+    "start_time": "00:10:11.670",
+    "end_time": "00:10:11.680",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 383,
+    "start": 611.68,
+    "end": 614.87,
+    "start_time": "00:10:11.680",
+    "end_time": "00:10:14.870",
+    "text": "ಪ್ರವೃತ್ತಿ ಧ್ಯಾಯಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 384,
+    "start": 614.87,
+    "end": 614.88,
+    "start_time": "00:10:14.870",
+    "end_time": "00:10:14.880",
+    "text": "ಪ್ರವೃತ್ತಿ ಧ್ಯಾಯಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 385,
+    "start": 614.88,
+    "end": 618.47,
+    "start_time": "00:10:14.880",
+    "end_time": "00:10:18.470",
+    "text": "ಪ್ರಾಣ ಉನ್ನತಂ ಓಂ ಪ್ರಾಂ ಪ್ರಾಣಾಯ ನಮಃ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 386,
+    "start": 618.47,
+    "end": 618.48,
+    "start_time": "00:10:18.470",
+    "end_time": "00:10:18.480",
+    "text": "ಪ್ರಾಣ ಉನ್ನತಂ ಓಂ ಪ್ರಾಂ ಪ್ರಾಣಾಯ ನಮಃ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 387,
+    "start": 618.48,
+    "end": 622.47,
+    "start_time": "00:10:18.480",
+    "end_time": "00:10:22.470",
+    "text": "ಮುಖ್ಯಪ್ರಾಣಂ ಧ್ಯಾಯಾಮಿ ಆಭಾಗಯಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 388,
+    "start": 622.47,
+    "end": 622.48,
+    "start_time": "00:10:22.470",
+    "end_time": "00:10:22.480",
+    "text": "ಮುಖ್ಯಪ್ರಾಣಂ ಧ್ಯಾಯಾಮಿ ಆಭಾಗಯಾಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 389,
+    "start": 622.48,
+    "end": 625.59,
+    "start_time": "00:10:22.480",
+    "end_time": "00:10:25.590",
+    "text": "ಪ್ರಾಂ ಪ್ರಾಣಾಯ ನಮಃ ಮುಖ್ಯ ಪ್ರಾಣಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 390,
+    "start": 625.59,
+    "end": 625.6,
+    "start_time": "00:10:25.590",
+    "end_time": "00:10:25.600",
+    "text": "ಪ್ರಾಂ ಪ್ರಾಣಾಯ ನಮಃ ಮುಖ್ಯ ಪ್ರಾಣಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 391,
+    "start": 625.6,
+    "end": 630.47,
+    "start_time": "00:10:25.600",
+    "end_time": "00:10:30.470",
+    "text": "ಮುಖ್ಯಪ್ರಾಣಂ ಆಭಾಗಯಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 392,
+    "start": 630.47,
+    "end": 630.48,
+    "start_time": "00:10:30.470",
+    "end_time": "00:10:30.480",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 393,
+    "start": 630.48,
+    "end": 633.269,
+    "start_time": "00:10:30.480",
+    "end_time": "00:10:33.269",
+    "text": "ಮತ್ತೆ ಮಂತ್ರಾಸ್ತೆಯನ್ನು ತಗೊಂಡು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 394,
+    "start": 633.269,
+    "end": 633.279,
+    "start_time": "00:10:33.269",
+    "end_time": "00:10:33.279",
+    "text": "ಮತ್ತೆ ಮಂತ್ರಾಸ್ತೆಯನ್ನು ತಗೊಂಡು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 395,
+    "start": 633.279,
+    "end": 635.03,
+    "start_time": "00:10:33.279",
+    "end_time": "00:10:35.030",
+    "text": "ಸರಸ್ವತಿಯನ್ನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 396,
+    "start": 635.03,
+    "end": 635.04,
+    "start_time": "00:10:35.030",
+    "end_time": "00:10:35.040",
+    "text": "ಸರಸ್ವತಿಯನ್ನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 397,
+    "start": 635.04,
+    "end": 640.23,
+    "start_time": "00:10:35.040",
+    "end_time": "00:10:40.230",
+    "text": "ಧ್ಯಾನವನ್ನ ಮಾಡಬೇಕು ಸರಸ್ವತಿಯ ಧ್ಯಾನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 398,
+    "start": 640.23,
+    "end": 640.24,
+    "start_time": "00:10:40.230",
+    "end_time": "00:10:40.240",
+    "text": "ಧ್ಯಾನವನ್ನ ಮಾಡಬೇಕು ಸರಸ್ವತಿಯ ಧ್ಯಾನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 399,
+    "start": 640.24,
+    "end": 641.75,
+    "start_time": "00:10:40.240",
+    "end_time": "00:10:41.750",
+    "text": "ಉದಯದ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 400,
+    "start": 641.75,
+    "end": 641.76,
+    "start_time": "00:10:41.750",
+    "end_time": "00:10:41.760",
+    "text": "ಉದಯದ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 401,
+    "start": 641.76,
+    "end": 644.79,
+    "start_time": "00:10:41.760",
+    "end_time": "00:10:44.790",
+    "text": "ಉದ್ಯತ ದಿವಾಕರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 402,
+    "start": 644.79,
+    "end": 644.8,
+    "start_time": "00:10:44.790",
+    "end_time": "00:10:44.800",
+    "text": "ಉದ್ಯತ ದಿವಾಕರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 403,
+    "start": 644.8,
+    "end": 648.71,
+    "start_time": "00:10:44.800",
+    "end_time": "00:10:48.710",
+    "text": "ಸನ್ನಿಬಾಂ ಸೋಭತರಂಗಸ್ಥಿತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 404,
+    "start": 648.71,
+    "end": 648.72,
+    "start_time": "00:10:48.710",
+    "end_time": "00:10:48.720",
+    "text": "ಸನ್ನಿಬಾಂ ಸೋಭತರಂಗಸ್ಥಿತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 405,
+    "start": 648.72,
+    "end": 653.829,
+    "start_time": "00:10:48.720",
+    "end_time": "00:10:53.829",
+    "text": "ಅಭಯ ಸದ್ವರ ಬಾಹ್ಯುಕ್ಮಂ ಮುದ್ರಾಶತತ್ವದ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 406,
+    "start": 653.829,
+    "end": 653.8389999999999,
+    "start_time": "00:10:53.829",
+    "end_time": "00:10:53.839",
+    "text": "ಅಭಯ ಸದ್ವರ ಬಾಹ್ಯುಕ್ಮಂ ಮುದ್ರಾಶತತ್ವದ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 407,
+    "start": 653.8389999999999,
+    "end": 657.35,
+    "start_time": "00:10:53.839",
+    "end_time": "00:10:57.350",
+    "text": "ದ್ರಿಶೇಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 408,
+    "start": 657.35,
+    "end": 657.36,
+    "start_time": "00:10:57.350",
+    "end_time": "00:10:57.360",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 409,
+    "start": 657.36,
+    "end": 660.15,
+    "start_time": "00:10:57.360",
+    "end_time": "00:11:00.150",
+    "text": "ದ್ರಿಶೇಯ ವರ ಪುಸ್ತಕಂಚ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 410,
+    "start": 660.15,
+    "end": 660.16,
+    "start_time": "00:11:00.150",
+    "end_time": "00:11:00.160",
+    "text": "ದ್ರಿಶೇಯ ವರ ಪುಸ್ತಕಂಚ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 411,
+    "start": 660.16,
+    "end": 666.949,
+    "start_time": "00:11:00.160",
+    "end_time": "00:11:06.949",
+    "text": "ಧೂರ್ಯುಗ್ಮಕೇನ ದದದತಿ ಸ್ಮರತಾತ್ಮ ವಿದ್ಯಾಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 412,
+    "start": 666.949,
+    "end": 666.959,
+    "start_time": "00:11:06.949",
+    "end_time": "00:11:06.959",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 413,
+    "start": 666.959,
+    "end": 671.67,
+    "start_time": "00:11:06.959",
+    "end_time": "00:11:11.670",
+    "text": "ಸ್ಮರತಾತ್ಮ ವಿದ್ಯಾಂ ಗೌರಿಮಿಗಜಲಿಲನತೇಕಪತಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 414,
+    "start": 671.67,
+    "end": 671.68,
+    "start_time": "00:11:11.670",
+    "end_time": "00:11:11.680",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 415,
+    "start": 671.68,
+    "end": 676.71,
+    "start_time": "00:11:11.680",
+    "end_time": "00:11:16.710",
+    "text": "ಚತುಷ್ಪತಿ ಅಷ್ಟಾಪತಿನೋಪತಿ ಭೂಪಸಿ ಸಹಸ್ರಕ್ಷರಮೇ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 416,
+    "start": 676.71,
+    "end": 676.72,
+    "start_time": "00:11:16.710",
+    "end_time": "00:11:16.720",
+    "text": "ಚತುಷ್ಪತಿ ಅಷ್ಟಾಪತಿನೋಪತಿ ಭೂಪಸಿ ಸಹಸ್ರಕ್ಷರಮೇ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 417,
+    "start": 676.72,
+    "end": 679.91,
+    "start_time": "00:11:16.720",
+    "end_time": "00:11:19.910",
+    "text": "ಓಂ ಓಂ ಸರಸ್ವತ್ಯೇ ನಮಃ ಸರಸ್ವತಿಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 418,
+    "start": 679.91,
+    "end": 679.92,
+    "start_time": "00:11:19.910",
+    "end_time": "00:11:19.920",
+    "text": "ಓಂ ಓಂ ಸರಸ್ವತ್ಯೇ ನಮಃ ಸರಸ್ವತಿಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 419,
+    "start": 679.92,
+    "end": 684.069,
+    "start_time": "00:11:19.920",
+    "end_time": "00:11:24.069",
+    "text": "ಭಾರತ್ಯೇ ನಮಃ ಭಾರತಿಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 420,
+    "start": 684.069,
+    "end": 684.079,
+    "start_time": "00:11:24.069",
+    "end_time": "00:11:24.079",
+    "text": "ಭಾರತ್ಯೇ ನಮಃ ಭಾರತಿಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 421,
+    "start": 684.079,
+    "end": 688.15,
+    "start_time": "00:11:24.079",
+    "end_time": "00:11:28.150",
+    "text": "ಭಾರತ್ಯೇ ನಮಃ ಭಾರತಿಂ ಧ್ಯಾಯಾಮಿ ಶೇಷಾಯ ನಮಃ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 422,
+    "start": 688.15,
+    "end": 688.16,
+    "start_time": "00:11:28.150",
+    "end_time": "00:11:28.160",
+    "text": "ಭಾರತ್ಯೇ ನಮಃ ಭಾರತಿಂ ಧ್ಯಾಯಾಮಿ ಶೇಷಾಯ ನಮಃ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 423,
+    "start": 688.16,
+    "end": 693.91,
+    "start_time": "00:11:28.160",
+    "end_time": "00:11:33.910",
+    "text": "ಶೇಷಂ ಧ್ಯಾಯಾಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 424,
+    "start": 693.91,
+    "end": 693.92,
+    "start_time": "00:11:33.910",
+    "end_time": "00:11:33.920",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 425,
+    "start": 693.92,
+    "end": 697.59,
+    "start_time": "00:11:33.920",
+    "end_time": "00:11:37.590",
+    "text": "ಶೇಷಾಯ ನಮಃ ಶೇಷಂ ಧ್ಯಾಯಾಮಿ ಓಂ ತ್ರಯಂಬಕಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 426,
+    "start": 697.59,
+    "end": 697.6,
+    "start_time": "00:11:37.590",
+    "end_time": "00:11:37.600",
+    "text": "ಶೇಷಾಯ ನಮಃ ಶೇಷಂ ಧ್ಯಾಯಾಮಿ ಓಂ ತ್ರಯಂಬಕಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 427,
+    "start": 697.6,
+    "end": 700.63,
+    "start_time": "00:11:37.600",
+    "end_time": "00:11:40.630",
+    "text": "ಯಜಾಮಹೆ ಸುಗಂಧಿಂ ಪುಷ್ಟಿವರ್ಧನಂ ಉವಾರುಕಂ ವಂದನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 428,
+    "start": 700.63,
+    "end": 700.64,
+    "start_time": "00:11:40.630",
+    "end_time": "00:11:40.640",
+    "text": "ಯಜಾಮಹೆ ಸುಗಂಧಿಂ ಪುಷ್ಟಿವರ್ಧನಂ ಉವಾರುಕಂ ವಂದನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 429,
+    "start": 700.64,
+    "end": 703.829,
+    "start_time": "00:11:40.640",
+    "end_time": "00:11:43.829",
+    "text": "ಮೃತ್ಯೋರ್ಮುಕ್ಷಿಮಾಮೃತ ಓಂ ನಮಃಶಿವಾಯ ಶಿವಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 430,
+    "start": 703.829,
+    "end": 703.8389999999999,
+    "start_time": "00:11:43.829",
+    "end_time": "00:11:43.839",
+    "text": "ಮೃತ್ಯೋರ್ಮುಕ್ಷಿಮಾಮೃತ ಓಂ ನಮಃಶಿವಾಯ ಶಿವಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 431,
+    "start": 703.8389999999999,
+    "end": 706.71,
+    "start_time": "00:11:43.839",
+    "end_time": "00:11:46.710",
+    "text": "ಧ್ಯಾಯಾಮಿ ಗೌರ್ಯೇ ನಮಃ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 432,
+    "start": 706.71,
+    "end": 706.72,
+    "start_time": "00:11:46.710",
+    "end_time": "00:11:46.720",
+    "text": "ಧ್ಯಾಯಾಮಿ ಗೌರ್ಯೇ ನಮಃ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 433,
+    "start": 706.72,
+    "end": 710.87,
+    "start_time": "00:11:46.720",
+    "end_time": "00:11:50.870",
+    "text": "ಶ್ರೀ ಗೌರಿಂ ಧ್ಯಾಯಾಮಿ ಗೌರಿಯೇ ನಮಃ ಗೌರಿಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 434,
+    "start": 710.87,
+    "end": 710.88,
+    "start_time": "00:11:50.870",
+    "end_time": "00:11:50.880",
+    "text": "ಶ್ರೀ ಗೌರಿಂ ಧ್ಯಾಯಾಮಿ ಗೌರಿಯೇ ನಮಃ ಗೌರಿಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 435,
+    "start": 710.88,
+    "end": 715.59,
+    "start_time": "00:11:50.880",
+    "end_time": "00:11:55.590",
+    "text": "ಧ್ಯಾಯಾಮಿ ಆವಾಗಯಾಮಿ ವಿನಾಯಕಾಯ ನಮಃ ವಿನಾಯಕಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 436,
+    "start": 715.59,
+    "end": 715.6,
+    "start_time": "00:11:55.590",
+    "end_time": "00:11:55.600",
+    "text": "ಧ್ಯಾಯಾಮಿ ಆವಾಗಯಾಮಿ ವಿನಾಯಕಾಯ ನಮಃ ವಿನಾಯಕಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 437,
+    "start": 715.6,
+    "end": 719.99,
+    "start_time": "00:11:55.600",
+    "end_time": "00:11:59.990",
+    "text": "ಧ್ಯಾಯಾಮಿ ಆವಾಗಮಿ ಸ್ಥಾಪಯಾಮಿ ಪೂಜಯಾಮಿ ನಮಃ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 438,
+    "start": 719.99,
+    "end": 720.0,
+    "start_time": "00:11:59.990",
+    "end_time": "00:12:00.000",
+    "text": "ಧ್ಯಾಯಾಮಿ ಆವಾಗಮಿ ಸ್ಥಾಪಯಾಮಿ ಪೂಜಯಾಮಿ ನಮಃ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 439,
+    "start": 720.0,
+    "end": 724.87,
+    "start_time": "00:12:00.000",
+    "end_time": "00:12:04.870",
+    "text": "ಏತತ ಮಂತ್ರಸ್ತ ತಗೊಂಡು ಏತತ ಶಾಸ್ತ್ರ ಪುಸ್ತಕ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 440,
+    "start": 724.87,
+    "end": 724.88,
+    "start_time": "00:12:04.870",
+    "end_time": "00:12:04.880",
+    "text": "ಏತತ ಮಂತ್ರಸ್ತ ತಗೊಂಡು ಏತತ ಶಾಸ್ತ್ರ ಪುಸ್ತಕ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 441,
+    "start": 724.88,
+    "end": 727.03,
+    "start_time": "00:12:04.880",
+    "end_time": "00:12:07.030",
+    "text": "ಲಿಪಿರೇಖಾಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 442,
+    "start": 727.03,
+    "end": 727.04,
+    "start_time": "00:12:07.030",
+    "end_time": "00:12:07.040",
+    "text": "ಲಿಪಿರೇಖಾಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 443,
+    "start": 727.04,
+    "end": 728.949,
+    "start_time": "00:12:07.040",
+    "end_time": "00:12:08.949",
+    "text": "ತಸ್ತೇಜೋಮಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 444,
+    "start": 728.949,
+    "end": 728.959,
+    "start_time": "00:12:08.949",
+    "end_time": "00:12:08.959",
+    "text": "ತಸ್ತೇಜೋಮಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 445,
+    "start": 728.959,
+    "end": 732.31,
+    "start_time": "00:12:08.959",
+    "end_time": "00:12:12.310",
+    "text": "ರೇಖಾಂತ ಪ್ರಾಣಶ್ರೀರೇಖಾಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 446,
+    "start": 732.31,
+    "end": 732.32,
+    "start_time": "00:12:12.310",
+    "end_time": "00:12:12.320",
+    "text": "ರೇಖಾಂತ ಪ್ರಾಣಶ್ರೀರೇಖಾಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 447,
+    "start": 732.32,
+    "end": 737.43,
+    "start_time": "00:12:12.320",
+    "end_time": "00:12:17.430",
+    "text": "ಸ್ಥಿತಂ ಧರ್ಮನಾರಾಯಣ ಮಗಿದಾಶ ಕಪಿಲ ದತ್ತಾತ್ರೇಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 448,
+    "start": 737.43,
+    "end": 737.44,
+    "start_time": "00:12:17.430",
+    "end_time": "00:12:17.440",
+    "text": "ಸ್ಥಿತಂ ಧರ್ಮನಾರಾಯಣ ಮಗಿದಾಶ ಕಪಿಲ ದತ್ತಾತ್ರೇಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 449,
+    "start": 737.44,
+    "end": 742.629,
+    "start_time": "00:12:17.440",
+    "end_time": "00:12:22.629",
+    "text": "ಹಯಗ್ರೀವ ನಾರಸಿಂಹ ರಾಮಕೃಷ್ಣ ಪರಶುರಾಮ ವ್ಯಾಸ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 450,
+    "start": 742.629,
+    "end": 742.639,
+    "start_time": "00:12:22.629",
+    "end_time": "00:12:22.639",
+    "text": "ಹಯಗ್ರೀವ ನಾರಸಿಂಹ ರಾಮಕೃಷ್ಣ ಪರಶುರಾಮ ವ್ಯಾಸ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 451,
+    "start": 742.639,
+    "end": 748.15,
+    "start_time": "00:12:22.639",
+    "end_time": "00:12:28.150",
+    "text": "ಹರಿ ಪ್ರಾಜ್ಞ ಪುರುಷಾತ್ಮಕ ಸರ್ವವೇದಾಭಿಮಾನಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 452,
+    "start": 748.15,
+    "end": 748.16,
+    "start_time": "00:12:28.150",
+    "end_time": "00:12:28.160",
+    "text": "ಹರಿ ಪ್ರಾಜ್ಞ ಪುರುಷಾತ್ಮಕ ಸರ್ವವೇದಾಭಿಮಾನಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 453,
+    "start": 748.16,
+    "end": 749.75,
+    "start_time": "00:12:28.160",
+    "end_time": "00:12:29.750",
+    "text": "ವೇದಾಭಿಮಾನಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 454,
+    "start": 749.75,
+    "end": 749.76,
+    "start_time": "00:12:29.750",
+    "end_time": "00:12:29.760",
+    "text": "ವೇದಾಭಿಮಾನಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 455,
+    "start": 749.76,
+    "end": 753.829,
+    "start_time": "00:12:29.760",
+    "end_time": "00:12:33.829",
+    "text": "ಸರ್ವವೇದ್ಯಾ ದುಷ್ಕೃಷ್ಟ ಶ್ರೀ ಬ್ರಹ್ಮಾಣಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 456,
+    "start": 753.829,
+    "end": 753.8389999999999,
+    "start_time": "00:12:33.829",
+    "end_time": "00:12:33.839",
+    "text": "ಸರ್ವವೇದ್ಯಾ ದುಷ್ಕೃಷ್ಟ ಶ್ರೀ ಬ್ರಹ್ಮಾಣಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 457,
+    "start": 753.8389999999999,
+    "end": 755.43,
+    "start_time": "00:12:33.839",
+    "end_time": "00:12:35.430",
+    "text": "ಭಾರತರ್ಗತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 458,
+    "start": 755.43,
+    "end": 755.44,
+    "start_time": "00:12:35.430",
+    "end_time": "00:12:35.440",
+    "text": "ಭಾರತರ್ಗತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 459,
+    "start": 755.44,
+    "end": 759.03,
+    "start_time": "00:12:35.440",
+    "end_time": "00:12:39.030",
+    "text": "ಸ್ತ್ರೀ ರೂಪ ವ್ಯಾಸಂ ಸಮುೀಕರೋಮಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 460,
+    "start": 759.03,
+    "end": 759.04,
+    "start_time": "00:12:39.030",
+    "end_time": "00:12:39.040",
+    "text": "ಸ್ತ್ರೀ ರೂಪ ವ್ಯಾಸಂ ಸಮುೀಕರೋಮಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 461,
+    "start": 759.04,
+    "end": 762.069,
+    "start_time": "00:12:39.040",
+    "end_time": "00:12:42.069",
+    "text": "ಅಂತ ಒಂತರಸ್ತೆಯನ್ನ ಹಾಕಿ ಪುಷ್ಪಾಂಜಲಿಯನ್ನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 462,
+    "start": 762.069,
+    "end": 762.079,
+    "start_time": "00:12:42.069",
+    "end_time": "00:12:42.079",
+    "text": "ಅಂತ ಒಂತರಸ್ತೆಯನ್ನ ಹಾಕಿ ಪುಷ್ಪಾಂಜಲಿಯನ್ನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 463,
+    "start": 762.079,
+    "end": 765.43,
+    "start_time": "00:12:42.079",
+    "end_time": "00:12:45.430",
+    "text": "ಸಮರ್ಪಣೆ ಮಾಡ ತತ್ಸನ್ನಿಧಾನಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 464,
+    "start": 765.43,
+    "end": 765.44,
+    "start_time": "00:12:45.430",
+    "end_time": "00:12:45.440",
+    "text": "ಸಮರ್ಪಣೆ ಮಾಡ ತತ್ಸನ್ನಿಧಾನಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 465,
+    "start": 765.44,
+    "end": 767.67,
+    "start_time": "00:12:45.440",
+    "end_time": "00:12:47.670",
+    "text": "ಶ್ರೀ ಭೂದುರ್ಗ ಮಂತು ಮಂತ್ರ ತಗೊಳರಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 466,
+    "start": 767.67,
+    "end": 767.68,
+    "start_time": "00:12:47.670",
+    "end_time": "00:12:47.680",
+    "text": "ಶ್ರೀ ಭೂದುರ್ಗ ಮಂತು ಮಂತ್ರ ತಗೊಳರಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 467,
+    "start": 767.68,
+    "end": 772.069,
+    "start_time": "00:12:47.680",
+    "end_time": "00:12:52.069",
+    "text": "ತತ್ಸನ್ನಿಧಾನೆ ಶ್ರೀ ಭೂದುರ್ಗ ಅಂಬರಣಿ ಶ್ರೀಮಾಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 468,
+    "start": 772.069,
+    "end": 772.079,
+    "start_time": "00:12:52.069",
+    "end_time": "00:12:52.079",
+    "text": "ತತ್ಸನ್ನಿಧಾನೆ ಶ್ರೀ ಭೂದುರ್ಗ ಅಂಬರಣಿ ಶ್ರೀಮಾಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 469,
+    "start": 772.079,
+    "end": 777.67,
+    "start_time": "00:12:52.079",
+    "end_time": "00:12:57.670",
+    "text": "ಜಯ ಕೃತಿ ಶಾಂತಿ ಲಕ್ಷ್ಮಿ ಜಗಂತಿ ಜಾನಕಿ ಸತ್ಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 470,
+    "start": 777.67,
+    "end": 777.68,
+    "start_time": "00:12:57.670",
+    "end_time": "00:12:57.680",
+    "text": "ಜಯ ಕೃತಿ ಶಾಂತಿ ಲಕ್ಷ್ಮಿ ಜಗಂತಿ ಜಾನಕಿ ಸತ್ಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 471,
+    "start": 777.68,
+    "end": 786.389,
+    "start_time": "00:12:57.680",
+    "end_time": "00:13:06.389",
+    "text": "ರುಕ್ಮಿಣಿ ಸ್ವಯಂ ಪ್ರೀತ್ಯಾಕ್ಯ ವ್ಯಾಸಭಾರ್ಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 472,
+    "start": 786.389,
+    "end": 786.399,
+    "start_time": "00:13:06.389",
+    "end_time": "00:13:06.399",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 473,
+    "start": 786.399,
+    "end": 789.829,
+    "start_time": "00:13:06.399",
+    "end_time": "00:13:09.829",
+    "text": "ಜಾನಕಿ ಸತ್ಯ ರುಕ್ಮಿಣಿ ಸ್ವಯಂ ಪ್ರೀತ್ಯಾಕ್ಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 474,
+    "start": 789.829,
+    "end": 789.839,
+    "start_time": "00:13:09.829",
+    "end_time": "00:13:09.839",
+    "text": "ಜಾನಕಿ ಸತ್ಯ ರುಕ್ಮಿಣಿ ಸ್ವಯಂ ಪ್ರೀತ್ಯಾಕ್ಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 475,
+    "start": 789.839,
+    "end": 794.55,
+    "start_time": "00:13:09.839",
+    "end_time": "00:13:14.550",
+    "text": "ವ್ಯಾಸ ಭಾರ್ಯಾತ್ಮಿಕ ರಮ ಬ್ರಹ್ಮಪ್ರಾಣ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 476,
+    "start": 794.55,
+    "end": 794.56,
+    "start_time": "00:13:14.550",
+    "end_time": "00:13:14.560",
+    "text": "ವ್ಯಾಸ ಭಾರ್ಯಾತ್ಮಿಕ ರಮ ಬ್ರಹ್ಮಪ್ರಾಣ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 477,
+    "start": 794.56,
+    "end": 800.31,
+    "start_time": "00:13:14.560",
+    "end_time": "00:13:20.310",
+    "text": "ಹನುಮದ್ಭೀಮ ಮಧ್ವಾನ್ ಸರಸ್ವತಿ ಭಾರತ ಶೇಷ ರುದ್ರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 478,
+    "start": 800.31,
+    "end": 800.32,
+    "start_time": "00:13:20.310",
+    "end_time": "00:13:20.320",
+    "text": "ಹನುಮದ್ಭೀಮ ಮಧ್ವಾನ್ ಸರಸ್ವತಿ ಭಾರತ ಶೇಷ ರುದ್ರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 479,
+    "start": 800.32,
+    "end": 805.35,
+    "start_time": "00:13:20.320",
+    "end_time": "00:13:25.350",
+    "text": "ಪಾರ್ವತಿ ವಿನಾಯಕ ಭಾದರಿಂ ಜೈಮಿನಿ ಶುಮುಂತುಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 480,
+    "start": 805.35,
+    "end": 805.36,
+    "start_time": "00:13:25.350",
+    "end_time": "00:13:25.360",
+    "text": "ಪಾರ್ವತಿ ವಿನಾಯಕ ಭಾದರಿಂ ಜೈಮಿನಿ ಶುಮುಂತುಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 481,
+    "start": 805.36,
+    "end": 807.75,
+    "start_time": "00:13:25.360",
+    "end_time": "00:13:27.750",
+    "text": "ವೈಶಂಭಾಯನಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 482,
+    "start": 807.75,
+    "end": 807.76,
+    "start_time": "00:13:27.750",
+    "end_time": "00:13:27.760",
+    "text": "ವೈಶಂಭಾಯನಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 483,
+    "start": 807.76,
+    "end": 813.99,
+    "start_time": "00:13:27.760",
+    "end_time": "00:13:33.990",
+    "text": "ಅಶ್ಮತ್ಯಂ ಪೈಲಂ ಕಾಸ ಕೃತ್ಸಂ ಲೋಮಸಂ ಏತಾನ್",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 484,
+    "start": 813.99,
+    "end": 814.0,
+    "start_time": "00:13:33.990",
+    "end_time": "00:13:34.000",
+    "text": "ಅಶ್ಮತ್ಯಂ ಪೈಲಂ ಕಾಸ ಕೃತ್ಸಂ ಲೋಮಸಂ ಏತಾನ್",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 485,
+    "start": 814.0,
+    "end": 817.91,
+    "start_time": "00:13:34.000",
+    "end_time": "00:13:37.910",
+    "text": "ಗುಗ್ಗುಂ ಸೀನಿವಾಲಿಂ ರಾಕಾಂ ಸರಸ್ವತಿಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 486,
+    "start": 817.91,
+    "end": 817.92,
+    "start_time": "00:13:37.910",
+    "end_time": "00:13:37.920",
+    "text": "ಗುಗ್ಗುಂ ಸೀನಿವಾಲಿಂ ರಾಕಾಂ ಸರಸ್ವತಿಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 487,
+    "start": 817.92,
+    "end": 822.389,
+    "start_time": "00:13:37.920",
+    "end_time": "00:13:42.389",
+    "text": "ಇಂದ್ರಾನಿಂ ವಾರುಣಿಶ್ಚ ಸೂಕ್ತ ದೇವತಾಹ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 488,
+    "start": 822.389,
+    "end": 822.399,
+    "start_time": "00:13:42.389",
+    "end_time": "00:13:42.399",
+    "text": "ಇಂದ್ರಾನಿಂ ವಾರುಣಿಶ್ಚ ಸೂಕ್ತ ದೇವತಾಹ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 489,
+    "start": 822.399,
+    "end": 824.71,
+    "start_time": "00:13:42.399",
+    "end_time": "00:13:44.710",
+    "text": "ಶ್ರೀಮದಾನಂದ ತೀರ್ಥ ಜಗತಿ ತೀರ್ಥ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 490,
+    "start": 824.71,
+    "end": 824.72,
+    "start_time": "00:13:44.710",
+    "end_time": "00:13:44.720",
+    "text": "ಶ್ರೀಮದಾನಂದ ತೀರ್ಥ ಜಗತಿ ತೀರ್ಥ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 491,
+    "start": 824.72,
+    "end": 826.949,
+    "start_time": "00:13:44.720",
+    "end_time": "00:13:46.949",
+    "text": "ವ್ಯಾಸತೀರ್ಥಾದಿನ್",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 492,
+    "start": 826.949,
+    "end": 826.9590000000001,
+    "start_time": "00:13:46.949",
+    "end_time": "00:13:46.959",
+    "text": "ವ್ಯಾಸತೀರ್ಥಾದಿನ್",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 493,
+    "start": 826.9590000000001,
+    "end": 831.509,
+    "start_time": "00:13:46.959",
+    "end_time": "00:13:51.509",
+    "text": "ಭಾಸ್ಯ ಟೀಕ ಟಿಪ್ಪಣ್ಣಿ ಕೃತಾನ್",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 494,
+    "start": 831.509,
+    "end": 831.519,
+    "start_time": "00:13:51.509",
+    "end_time": "00:13:51.519",
+    "text": "ಭಾಸ್ಯ ಟೀಕ ಟಿಪ್ಪಣ್ಣಿ ಕೃತಾನ್",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 495,
+    "start": 831.519,
+    "end": 833.91,
+    "start_time": "00:13:51.519",
+    "end_time": "00:13:53.910",
+    "text": "ತತ್ತ ಮಂತ್ರೈರಾವಾಕ್ಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 496,
+    "start": 833.91,
+    "end": 833.92,
+    "start_time": "00:13:53.910",
+    "end_time": "00:13:53.920",
+    "text": "ತತ್ತ ಮಂತ್ರೈರಾವಾಕ್ಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 497,
+    "start": 833.92,
+    "end": 839.03,
+    "start_time": "00:13:53.920",
+    "end_time": "00:13:59.030",
+    "text": "ಕೃಪಯ ಸುಮುಖಿ ಭವತೋತಿ ಪ್ರಾರ್ಥ್ಯ ಪುಷ್ಪಾಂಜಲಿಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 498,
+    "start": 839.03,
+    "end": 839.04,
+    "start_time": "00:13:59.030",
+    "end_time": "00:13:59.040",
+    "text": "ಕೃಪಯ ಸುಮುಖಿ ಭವತೋತಿ ಪ್ರಾರ್ಥ್ಯ ಪುಷ್ಪಾಂಜಲಿಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 499,
+    "start": 839.04,
+    "end": 844.629,
+    "start_time": "00:13:59.040",
+    "end_time": "00:14:04.629",
+    "text": "ಸಮರ್ಪ್ಯ ಅಂತ ಹೂವನ್ನ ಅದನಲ್ಲಿ ಹಾಕ್ರಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 500,
+    "start": 844.629,
+    "end": 844.639,
+    "start_time": "00:14:04.629",
+    "end_time": "00:14:04.639",
+    "text": "ಸಮರ್ಪ್ಯ ಅಂತ ಹೂವನ್ನ ಅದನಲ್ಲಿ ಹಾಕ್ರಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 501,
+    "start": 844.639,
+    "end": 848.15,
+    "start_time": "00:14:04.639",
+    "end_time": "00:14:08.150",
+    "text": "ಮಂತ್ರಸ್ತೆಯನ್ನ ಕೈಯಲ್ಲಿ ಹಿಟ್ಕೊಳ್ಳಿ ವಿಹಾವಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 502,
+    "start": 848.15,
+    "end": 848.16,
+    "start_time": "00:14:08.150",
+    "end_time": "00:14:08.160",
+    "text": "ಮಂತ್ರಸ್ತೆಯನ್ನ ಕೈಯಲ್ಲಿ ಹಿಟ್ಕೊಳ್ಳಿ ವಿಹಾವಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 503,
+    "start": 848.16,
+    "end": 849.67,
+    "start_time": "00:14:08.160",
+    "end_time": "00:14:09.670",
+    "text": "ಪ್ರತಿಷ್ಠತಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 504,
+    "start": 849.67,
+    "end": 849.68,
+    "start_time": "00:14:09.670",
+    "end_time": "00:14:09.680",
+    "text": "ಪ್ರತಿಷ್ಠತಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 505,
+    "start": 849.68,
+    "end": 852.31,
+    "start_time": "00:14:09.680",
+    "end_time": "00:14:12.310",
+    "text": "ತತ್ಪ್ರತಿಷ್ಠತಾಮಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 506,
+    "start": 852.31,
+    "end": 852.32,
+    "start_time": "00:14:12.310",
+    "end_time": "00:14:12.320",
+    "text": "ತತ್ಪ್ರತಿಷ್ಠತಾಮಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 507,
+    "start": 852.32,
+    "end": 854.069,
+    "start_time": "00:14:12.320",
+    "end_time": "00:14:14.069",
+    "text": "ವಾಚಸಂತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 508,
+    "start": 854.069,
+    "end": 854.079,
+    "start_time": "00:14:14.069",
+    "end_time": "00:14:14.079",
+    "text": "ವಾಚಸಂತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 509,
+    "start": 854.079,
+    "end": 856.069,
+    "start_time": "00:14:14.079",
+    "end_time": "00:14:16.069",
+    "text": "ತಸ್ಮಾದ್ಯದ್ಯಪಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 510,
+    "start": 856.069,
+    "end": 856.079,
+    "start_time": "00:14:16.069",
+    "end_time": "00:14:16.079",
+    "text": "ತಸ್ಮಾದ್ಯದ್ಯಪಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 511,
+    "start": 856.079,
+    "end": 860.47,
+    "start_time": "00:14:16.079",
+    "end_time": "00:14:20.470",
+    "text": "ಧೂರಗಿವ ಪಶುಲಭತೆ ವಿರಹಾನೇನೈವ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 512,
+    "start": 860.47,
+    "end": 860.48,
+    "start_time": "00:14:20.470",
+    "end_time": "00:14:20.480",
+    "text": "ಧೂರಗಿವ ಪಶುಲಭತೆ ವಿರಹಾನೇನೈವ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 513,
+    "start": 860.48,
+    "end": 862.15,
+    "start_time": "00:14:20.480",
+    "end_time": "00:14:22.150",
+    "text": "ನಾನಾಜಿಕ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 514,
+    "start": 862.15,
+    "end": 862.16,
+    "start_time": "00:14:22.150",
+    "end_time": "00:14:22.160",
+    "text": "ನಾನಾಜಿಕ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 515,
+    "start": 862.16,
+    "end": 867.43,
+    "start_time": "00:14:22.160",
+    "end_time": "00:14:27.430",
+    "text": "ಮಿಷತಿ ವಿಹಾಹಿ ಪಶುನಾಂ ಪ್ರತಿಷ್ಠ ಪ್ರತಿಷ್ಠ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 516,
+    "start": 867.43,
+    "end": 867.44,
+    "start_time": "00:14:27.430",
+    "end_time": "00:14:27.440",
+    "text": "ಮಿಷತಿ ವಿಹಾಹಿ ಪಶುನಾಂ ಪ್ರತಿಷ್ಠ ಪ್ರತಿಷ್ಠ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 517,
+    "start": 867.44,
+    "end": 871.269,
+    "start_time": "00:14:27.440",
+    "end_time": "00:14:31.269",
+    "text": "ಉತ್ತಮ ಪ್ರತಿಷ್ಠ ತದ್ೈವಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 518,
+    "start": 871.269,
+    "end": 871.279,
+    "start_time": "00:14:31.269",
+    "end_time": "00:14:31.279",
+    "text": "ಉತ್ತಮ ಪ್ರತಿಷ್ಠ ತದ್ೈವಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 519,
+    "start": 871.279,
+    "end": 875.829,
+    "start_time": "00:14:31.279",
+    "end_time": "00:14:35.829",
+    "text": "ಚತ್ರಂ ಸಾಸ್ವಿ ಸ್ತದಾಧಿಪತ್ಯಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 520,
+    "start": 875.829,
+    "end": 875.8389999999999,
+    "start_time": "00:14:35.829",
+    "end_time": "00:14:35.839",
+    "text": "ಚತ್ರಂ ಸಾಸ್ವಿ ಸ್ತದಾಧಿಪತ್ಯಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 521,
+    "start": 875.8389999999999,
+    "end": 877.91,
+    "start_time": "00:14:35.839",
+    "end_time": "00:14:37.910",
+    "text": "ತದ್ವಗ್ರಸ್ಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 522,
+    "start": 877.91,
+    "end": 877.92,
+    "start_time": "00:14:37.910",
+    "end_time": "00:14:37.920",
+    "text": "ತದ್ವಗ್ರಸ್ಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 523,
+    "start": 877.92,
+    "end": 883.91,
+    "start_time": "00:14:37.920",
+    "end_time": "00:14:43.910",
+    "text": "ವಿಷ್ಟಪಂ ತಸ್ಮ ಜಾಪತೆ ರಾಯತನಂ ತಸ್ಮಾತ್",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 524,
+    "start": 883.91,
+    "end": 883.92,
+    "start_time": "00:14:43.910",
+    "end_time": "00:14:43.920",
+    "text": "ವಿಷ್ಟಪಂ ತಸ್ಮ ಜಾಪತೆ ರಾಯತನಂ ತಸ್ಮಾತ್",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 525,
+    "start": 883.92,
+    "end": 885.59,
+    "start_time": "00:14:43.920",
+    "end_time": "00:14:45.590",
+    "text": "ರಾಜ್ಯಮುಗ್ನೋನ್",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 526,
+    "start": 885.59,
+    "end": 885.6,
+    "start_time": "00:14:45.590",
+    "end_time": "00:14:45.600",
+    "text": "ರಾಜ್ಯಮುಗ್ನೋನ್",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 527,
+    "start": 885.6,
+    "end": 889.03,
+    "start_time": "00:14:45.600",
+    "end_time": "00:14:49.030",
+    "text": "ವಿವೈತಾಬಿರಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 528,
+    "start": 889.03,
+    "end": 889.04,
+    "start_time": "00:14:49.030",
+    "end_time": "00:14:49.040",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 529,
+    "start": 889.04,
+    "end": 893.43,
+    "start_time": "00:14:49.040",
+    "end_time": "00:14:53.430",
+    "text": "ತ್ಯಾಗಿತಿ ಪ್ರತಿಷ್ಠ ಗ್ರಹಣಂ ಪ್ರತಿಷ್ಠ ಉತ್ತಮ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 530,
+    "start": 893.43,
+    "end": 893.44,
+    "start_time": "00:14:53.430",
+    "end_time": "00:14:53.440",
+    "text": "ತ್ಯಾಗಿತಿ ಪ್ರತಿಷ್ಠ ಗ್ರಹಣಂ ಪ್ರತಿಷ್ಠ ಉತ್ತಮ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 531,
+    "start": 893.44,
+    "end": 895.03,
+    "start_time": "00:14:53.440",
+    "end_time": "00:14:55.030",
+    "text": "ಪ್ರತಿಷ್ಠ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 532,
+    "start": 895.03,
+    "end": 895.04,
+    "start_time": "00:14:55.030",
+    "end_time": "00:14:55.040",
+    "text": "ಪ್ರತಿಷ್ಠ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 533,
+    "start": 895.04,
+    "end": 897.03,
+    "start_time": "00:14:55.040",
+    "end_time": "00:14:57.030",
+    "text": "ಹಾಗೆ ಅಂತ ಮಂತ್ರಸ್ಥೆಯನ್ನ ಹಾಕಬಿಟ್ಟು ಮಂತು ಹೂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 534,
+    "start": 897.03,
+    "end": 897.04,
+    "start_time": "00:14:57.030",
+    "end_time": "00:14:57.040",
+    "text": "ಹಾಗೆ ಅಂತ ಮಂತ್ರಸ್ಥೆಯನ್ನ ಹಾಕಬಿಟ್ಟು ಮಂತು ಹೂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 535,
+    "start": 897.04,
+    "end": 900.71,
+    "start_time": "00:14:57.040",
+    "end_time": "00:15:00.710",
+    "text": "ಮಂತ್ರಸ್ತೆಯನ್ನ ತಗೊಳ್ರಿ ಸಾನ್ನಿಧ್ಯಂ ಕುರು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 536,
+    "start": 900.71,
+    "end": 900.72,
+    "start_time": "00:15:00.710",
+    "end_time": "00:15:00.720",
+    "text": "ಮಂತ್ರಸ್ತೆಯನ್ನ ತಗೊಳ್ರಿ ಸಾನ್ನಿಧ್ಯಂ ಕುರು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 537,
+    "start": 900.72,
+    "end": 906.15,
+    "start_time": "00:15:00.720",
+    "end_time": "00:15:06.150",
+    "text": "ದೇವೇಶ ಸರ್ವಸಂಪತ್ ಕರೋಭವ ವಿಭೋ ಸಕಲ ಲೋಕೇಶ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 538,
+    "start": 906.15,
+    "end": 906.16,
+    "start_time": "00:15:06.150",
+    "end_time": "00:15:06.160",
+    "text": "ದೇವೇಶ ಸರ್ವಸಂಪತ್ ಕರೋಭವ ವಿಭೋ ಸಕಲ ಲೋಕೇಶ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 539,
+    "start": 906.16,
+    "end": 911.03,
+    "start_time": "00:15:06.160",
+    "end_time": "00:15:11.030",
+    "text": "ವಿಷ್ಣೋ ಜಿಷ್ಣೋ ಹರೇ ಪ್ರಭು ತ್ವಂಭಕ್ತ್ಯ ಪೂಜಯಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 540,
+    "start": 911.03,
+    "end": 911.04,
+    "start_time": "00:15:11.030",
+    "end_time": "00:15:11.040",
+    "text": "ವಿಷ್ಣೋ ಜಿಷ್ಣೋ ಹರೇ ಪ್ರಭು ತ್ವಂಭಕ್ತ್ಯ ಪೂಜಯಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 541,
+    "start": 911.04,
+    "end": 917.43,
+    "start_time": "00:15:11.040",
+    "end_time": "00:15:17.430",
+    "text": "ಯದ್ಯ ಭೋಗೈ ಪ್ರಜ್ಞ ಅರ್ಗೈ ದಿಬಿಹಿ ಅರ್ಗೈ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 542,
+    "start": 917.43,
+    "end": 917.44,
+    "start_time": "00:15:17.430",
+    "end_time": "00:15:17.440",
+    "text": "ಯದ್ಯ ಭೋಗೈ ಪ್ರಜ್ಞ ಅರ್ಗೈ ದಿಬಿಹಿ ಅರ್ಗೈ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 543,
+    "start": 917.44,
+    "end": 919.269,
+    "start_time": "00:15:17.440",
+    "end_time": "00:15:19.269",
+    "text": "ದಿವಿಕ್ರಮಾತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 544,
+    "start": 919.269,
+    "end": 919.279,
+    "start_time": "00:15:19.269",
+    "end_time": "00:15:19.279",
+    "text": "ದಿವಿಕ್ರಮಾತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 545,
+    "start": 919.279,
+    "end": 923.509,
+    "start_time": "00:15:19.279",
+    "end_time": "00:15:23.509",
+    "text": "ತ್ಯಾಗವಸನ ಪದ್ಯಂತಂ ಅತ್ರಸ್ತಿತ್ವ ಜನಾರ್ಧನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 546,
+    "start": 923.509,
+    "end": 923.519,
+    "start_time": "00:15:23.509",
+    "end_time": "00:15:23.519",
+    "text": "ತ್ಯಾಗವಸನ ಪದ್ಯಂತಂ ಅತ್ರಸ್ತಿತ್ವ ಜನಾರ್ಧನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 547,
+    "start": 923.519,
+    "end": 925.91,
+    "start_time": "00:15:23.519",
+    "end_time": "00:15:25.910",
+    "text": "ಭಕ್ತಸ್ಯ ಮಮಪೂಜಾಂತ್ವ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 548,
+    "start": 925.91,
+    "end": 925.92,
+    "start_time": "00:15:25.910",
+    "end_time": "00:15:25.920",
+    "text": "ಭಕ್ತಸ್ಯ ಮಮಪೂಜಾಂತ್ವ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 549,
+    "start": 925.92,
+    "end": 930.23,
+    "start_time": "00:15:25.920",
+    "end_time": "00:15:30.230",
+    "text": "ವಿಧಿತ್ವ ಪಾಹಿಮಾಂ ಪ್ರಭು ಗೋಸ್ವಾಮಿ ಸರ್ವ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 550,
+    "start": 930.23,
+    "end": 930.24,
+    "start_time": "00:15:30.230",
+    "end_time": "00:15:30.240",
+    "text": "ವಿಧಿತ್ವ ಪಾಹಿಮಾಂ ಪ್ರಭು ಗೋಸ್ವಾಮಿ ಸರ್ವ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 551,
+    "start": 930.24,
+    "end": 934.389,
+    "start_time": "00:15:30.240",
+    "end_time": "00:15:34.389",
+    "text": "ಜಗತಾನಾಥ ಯಾವತ್ಪೂಜ ಭಾನಕಂ ತಾವತ್ವಂ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 552,
+    "start": 934.389,
+    "end": 934.399,
+    "start_time": "00:15:34.389",
+    "end_time": "00:15:34.399",
+    "text": "ಜಗತಾನಾಥ ಯಾವತ್ಪೂಜ ಭಾನಕಂ ತಾವತ್ವಂ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 553,
+    "start": 934.399,
+    "end": 936.79,
+    "start_time": "00:15:34.399",
+    "end_time": "00:15:36.790",
+    "text": "ಸಂಪ್ರೀತಿಭಾವೇನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 554,
+    "start": 936.79,
+    "end": 936.8,
+    "start_time": "00:15:36.790",
+    "end_time": "00:15:36.800",
+    "text": "ಸಂಪ್ರೀತಿಭಾವೇನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 555,
+    "start": 936.8,
+    "end": 940.389,
+    "start_time": "00:15:36.800",
+    "end_time": "00:15:40.389",
+    "text": "ಬಿಂಬೇಶ್ಮಿನ್ ಪುಸ್ತಕೇಶ್ಮಿನ್ ಸನ್ನಿಗಿತೋ ಭವ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 556,
+    "start": 940.389,
+    "end": 940.399,
+    "start_time": "00:15:40.389",
+    "end_time": "00:15:40.399",
+    "text": "ಬಿಂಬೇಶ್ಮಿನ್ ಪುಸ್ತಕೇಶ್ಮಿನ್ ಸನ್ನಿಗಿತೋ ಭವ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 557,
+    "start": 940.399,
+    "end": 943.03,
+    "start_time": "00:15:40.399",
+    "end_time": "00:15:43.030",
+    "text": "ಅಂತ ಹೂಮಂತ್ರಸ್ಥನ ಹಾಕಿ ಆ ಪುಸ್ತಕನ್ನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 558,
+    "start": 943.03,
+    "end": 943.04,
+    "start_time": "00:15:43.030",
+    "end_time": "00:15:43.040",
+    "text": "ಅಂತ ಹೂಮಂತ್ರಸ್ಥನ ಹಾಕಿ ಆ ಪುಸ್ತಕನ್ನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 559,
+    "start": 943.04,
+    "end": 946.629,
+    "start_time": "00:15:43.040",
+    "end_time": "00:15:46.629",
+    "text": "ಮುಟ್ಟಿಕೊಂಡು ಓಂ ನಮೋ ನಾರಾಯಣಾಯ ಓಂ ಅಂತ ಎಂಟು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 560,
+    "start": 946.629,
+    "end": 946.639,
+    "start_time": "00:15:46.629",
+    "end_time": "00:15:46.639",
+    "text": "ಮುಟ್ಟಿಕೊಂಡು ಓಂ ನಮೋ ನಾರಾಯಣಾಯ ಓಂ ಅಂತ ಎಂಟು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 561,
+    "start": 946.639,
+    "end": 949.35,
+    "start_time": "00:15:46.639",
+    "end_time": "00:15:49.350",
+    "text": "ಸಲ ಹೇಳ್ರಿ ಹೇಳಿಬಿಟ್ಟು ಹೂವಿಂದ ಅರ್ಚನೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 562,
+    "start": 949.35,
+    "end": 949.36,
+    "start_time": "00:15:49.350",
+    "end_time": "00:15:49.360",
+    "text": "ಸಲ ಹೇಳ್ರಿ ಹೇಳಿಬಿಟ್ಟು ಹೂವಿಂದ ಅರ್ಚನೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 563,
+    "start": 949.36,
+    "end": 953.59,
+    "start_time": "00:15:49.360",
+    "end_time": "00:15:53.590",
+    "text": "ಮಾಡ್ರಿ ಆಗಿತೋಭವ ಸ್ಥಾಪಿತೋಭವ ಸನ್ನಿತೋಭವ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 564,
+    "start": 953.59,
+    "end": 953.6,
+    "start_time": "00:15:53.590",
+    "end_time": "00:15:53.600",
+    "text": "ಮಾಡ್ರಿ ಆಗಿತೋಭವ ಸ್ಥಾಪಿತೋಭವ ಸನ್ನಿತೋಭವ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 565,
+    "start": 953.6,
+    "end": 955.189,
+    "start_time": "00:15:53.600",
+    "end_time": "00:15:55.189",
+    "text": "ಸನ್ನಿಧಿತೋಭವ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 566,
+    "start": 955.189,
+    "end": 955.199,
+    "start_time": "00:15:55.189",
+    "end_time": "00:15:55.199",
+    "text": "ಸನ್ನಿಧಿತೋಭವ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 567,
+    "start": 955.199,
+    "end": 958.23,
+    "start_time": "00:15:55.199",
+    "end_time": "00:15:58.230",
+    "text": "ಸನ್ನಿದ್ೋಭವ ಸಮ್ಮುಖೋಭವ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 568,
+    "start": 958.23,
+    "end": 958.24,
+    "start_time": "00:15:58.230",
+    "end_time": "00:15:58.240",
+    "text": "ಸನ್ನಿದ್ೋಭವ ಸಮ್ಮುಖೋಭವ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 569,
+    "start": 958.24,
+    "end": 959.91,
+    "start_time": "00:15:58.240",
+    "end_time": "00:15:59.910",
+    "text": "ಅವಕುಂಠಿತೋಭವ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 570,
+    "start": 959.91,
+    "end": 959.92,
+    "start_time": "00:15:59.910",
+    "end_time": "00:15:59.920",
+    "text": "ಅವಕುಂಠಿತೋಭವ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 571,
+    "start": 959.92,
+    "end": 964.23,
+    "start_time": "00:15:59.920",
+    "end_time": "00:16:04.230",
+    "text": "ಪ್ರಸೀದ ಪ್ರಸೀದ ಪ್ರಸೀದ ಅಂತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 572,
+    "start": 964.23,
+    "end": 964.24,
+    "start_time": "00:16:04.230",
+    "end_time": "00:16:04.240",
+    "text": "ಪ್ರಸೀದ ಪ್ರಸೀದ ಪ್ರಸೀದ ಅಂತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 573,
+    "start": 964.24,
+    "end": 971.749,
+    "start_time": "00:16:04.240",
+    "end_time": "00:16:11.749",
+    "text": "ಹೂವನ್ನ ಮಂತ್ರಾಸ್ತೆಯನ್ನ ಹಾಕಬಿಟ್ಟು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 574,
+    "start": 971.749,
+    "end": 971.759,
+    "start_time": "00:16:11.749",
+    "end_time": "00:16:11.759",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 575,
+    "start": 971.759,
+    "end": 975.03,
+    "start_time": "00:16:11.759",
+    "end_time": "00:16:15.030",
+    "text": "ನಿಮಗೆ ಏನಾದರ ಸೂಕ್ತಗಳು ತಿಳಿದರೆ ಅದನ್ನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 576,
+    "start": 975.03,
+    "end": 975.04,
+    "start_time": "00:16:15.030",
+    "end_time": "00:16:15.040",
+    "text": "ನಿಮಗೆ ಏನಾದರ ಸೂಕ್ತಗಳು ತಿಳಿದರೆ ಅದನ್ನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 577,
+    "start": 975.04,
+    "end": 978.87,
+    "start_time": "00:16:15.040",
+    "end_time": "00:16:18.870",
+    "text": "ಹೇಳಬಹುದು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 578,
+    "start": 978.87,
+    "end": 978.88,
+    "start_time": "00:16:18.870",
+    "end_time": "00:16:18.880",
+    "text": "",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 579,
+    "start": 978.88,
+    "end": 983.11,
+    "start_time": "00:16:18.880",
+    "end_time": "00:16:23.110",
+    "text": "ನಿಮಗೇನಾದರ ಸೂಕ್ತಗಳು ಇಲ್ಲದ್ರೆ ದೇವರ ಸ್ತೋತ್ರ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 580,
+    "start": 983.11,
+    "end": 983.12,
+    "start_time": "00:16:23.110",
+    "end_time": "00:16:23.120",
+    "text": "ನಿಮಗೇನಾದರ ಸೂಕ್ತಗಳು ಇಲ್ಲದ್ರೆ ದೇವರ ಸ್ತೋತ್ರ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 581,
+    "start": 983.12,
+    "end": 986.79,
+    "start_time": "00:16:23.120",
+    "end_time": "00:16:26.790",
+    "text": "ಇದನ್ನ ಹೇಳಿ ಪುಷ್ಪಾಂಜಲಿಯನ್ನ ಸಮರ್ಪಣೆ ಮಾಡಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 582,
+    "start": 986.79,
+    "end": 986.8,
+    "start_time": "00:16:26.790",
+    "end_time": "00:16:26.800",
+    "text": "ಇದನ್ನ ಹೇಳಿ ಪುಷ್ಪಾಂಜಲಿಯನ್ನ ಸಮರ್ಪಣೆ ಮಾಡಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 583,
+    "start": 986.8,
+    "end": 988.629,
+    "start_time": "00:16:26.800",
+    "end_time": "00:16:28.629",
+    "text": "ಒಂದು ವಿಳದಲಡಿಕೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 584,
+    "start": 988.629,
+    "end": 988.639,
+    "start_time": "00:16:28.629",
+    "end_time": "00:16:28.639",
+    "text": "ಒಂದು ವಿಳದಲಡಿಕೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 585,
+    "start": 988.639,
+    "end": 991.67,
+    "start_time": "00:16:28.639",
+    "end_time": "00:16:31.670",
+    "text": "ತೆಂಗಿನಕಾಯಿ ನೋಡದು ನೈವೇದ್ಯವನ್ನ ಮಾಡರಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 586,
+    "start": 991.67,
+    "end": 991.68,
+    "start_time": "00:16:31.670",
+    "end_time": "00:16:31.680",
+    "text": "ತೆಂಗಿನಕಾಯಿ ನೋಡದು ನೈವೇದ್ಯವನ್ನ ಮಾಡರಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 587,
+    "start": 991.68,
+    "end": 995.829,
+    "start_time": "00:16:31.680",
+    "end_time": "00:16:35.829",
+    "text": "ನೈವೇದ್ಯವನ್ನ ಮಾಡಿ ಒಂದು ಮಂಗಳಾರತಿಯನ್ನ ಮಾಡಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 588,
+    "start": 995.829,
+    "end": 995.8389999999999,
+    "start_time": "00:16:35.829",
+    "end_time": "00:16:35.839",
+    "text": "ನೈವೇದ್ಯವನ್ನ ಮಾಡಿ ಒಂದು ಮಂಗಳಾರತಿಯನ್ನ ಮಾಡಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 589,
+    "start": 995.8389999999999,
+    "end": 997.43,
+    "start_time": "00:16:35.839",
+    "end_time": "00:16:37.430",
+    "text": "ಮುಗಿಸಿಬಿಟ್ಟು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 590,
+    "start": 997.43,
+    "end": 997.44,
+    "start_time": "00:16:37.430",
+    "end_time": "00:16:37.440",
+    "text": "ಮುಗಿಸಿಬಿಟ್ಟು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 591,
+    "start": 997.44,
+    "end": 1000.069,
+    "start_time": "00:16:37.440",
+    "end_time": "00:16:40.069",
+    "text": "ಕೈಯಲ್ಲಿ ಮಂಗಳಾರತಿಯನ್ನ ಮಾಡ್ರಿ ಮಾಡುಟಟು",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 592,
+    "start": 1000.069,
+    "end": 1000.079,
+    "start_time": "00:16:40.069",
+    "end_time": "00:16:40.079",
+    "text": "ಕೈಯಲ್ಲಿ ಮಂಗಳಾರತಿಯನ್ನ ಮಾಡ್ರಿ ಮಾಡುಟಟು",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 593,
+    "start": 1000.079,
+    "end": 1001.91,
+    "start_time": "00:16:40.079",
+    "end_time": "00:16:41.910",
+    "text": "ಕೈಯಲ್ಲಿ ಮಂತ್ರಾಸ್ತೆಯನ್ನ ಬಲದ ಕೈಯಲ್ಲಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 594,
+    "start": 1001.91,
+    "end": 1001.92,
+    "start_time": "00:16:41.910",
+    "end_time": "00:16:41.920",
+    "text": "ಕೈಯಲ್ಲಿ ಮಂತ್ರಾಸ್ತೆಯನ್ನ ಬಲದ ಕೈಯಲ್ಲಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 595,
+    "start": 1001.92,
+    "end": 1006.389,
+    "start_time": "00:16:41.920",
+    "end_time": "00:16:46.389",
+    "text": "ಹಿಡಕೊಂಡು ಎರಡು ಉದ್ಧರಣೆ ನೀರನ್ನು ಹಾಕಿ ಅನೇನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 596,
+    "start": 1006.389,
+    "end": 1006.399,
+    "start_time": "00:16:46.389",
+    "end_time": "00:16:46.399",
+    "text": "ಹಿಡಕೊಂಡು ಎರಡು ಉದ್ಧರಣೆ ನೀರನ್ನು ಹಾಕಿ ಅನೇನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 597,
+    "start": 1006.399,
+    "end": 1008.47,
+    "start_time": "00:16:46.399",
+    "end_time": "00:16:48.470",
+    "text": "ಮೂಲನಚತ್ರಾಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 598,
+    "start": 1008.47,
+    "end": 1008.48,
+    "start_time": "00:16:48.470",
+    "end_time": "00:16:48.480",
+    "text": "ಮೂಲನಚತ್ರಾಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 599,
+    "start": 1008.48,
+    "end": 1012.47,
+    "start_time": "00:16:48.480",
+    "end_time": "00:16:52.470",
+    "text": "ಸರಸ್ವತಿ ಆವಾಹನ ಪೂಜನೇನ ಸರಸ್ವತ್ಯಂತರ್ಗತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 600,
+    "start": 1012.47,
+    "end": 1012.48,
+    "start_time": "00:16:52.470",
+    "end_time": "00:16:52.480",
+    "text": "ಸರಸ್ವತಿ ಆವಾಹನ ಪೂಜನೇನ ಸರಸ್ವತ್ಯಂತರ್ಗತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 601,
+    "start": 1012.48,
+    "end": 1015.269,
+    "start_time": "00:16:52.480",
+    "end_time": "00:16:55.269",
+    "text": "ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣ ಅಂತರ್ಗತ ಶ್ರೀ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 602,
+    "start": 1015.269,
+    "end": 1015.279,
+    "start_time": "00:16:55.269",
+    "end_time": "00:16:55.279",
+    "text": "ಭಾರತೀ ರಮಣ ಮುಖ್ಯ ಪ್ರಾಣ ಅಂತರ್ಗತ ಶ್ರೀ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 603,
+    "start": 1015.279,
+    "end": 1018.79,
+    "start_time": "00:16:55.279",
+    "end_time": "00:16:58.790",
+    "text": "ಲಕ್ಷ್ಮಿ ವೇದವ್ಯಾಸ ಪ್ರಿಯತ ಅಂತ ಬೇಲಾಲಿ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 604,
+    "start": 1018.79,
+    "end": 1018.8,
+    "start_time": "00:16:58.790",
+    "end_time": "00:16:58.800",
+    "text": "ಲಕ್ಷ್ಮಿ ವೇದವ್ಯಾಸ ಪ್ರಿಯತ ಅಂತ ಬೇಲಾಲಿ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 605,
+    "start": 1018.8,
+    "end": 1021.11,
+    "start_time": "00:16:58.800",
+    "end_time": "00:17:01.110",
+    "text": "ಬಿಟ್ಟುಬಿಡ್ರಿ ಶ್ರೀಕೃಷ್ಣರ್ಪಣಮಸ್ತು ಅಂತ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 606,
+    "start": 1021.11,
+    "end": 1021.12,
+    "start_time": "00:17:01.110",
+    "end_time": "00:17:01.120",
+    "text": "ಬಿಟ್ಟುಬಿಡ್ರಿ ಶ್ರೀಕೃಷ್ಣರ್ಪಣಮಸ್ತು ಅಂತ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 607,
+    "start": 1021.12,
+    "end": 1023.749,
+    "start_time": "00:17:01.120",
+    "end_time": "00:17:03.749",
+    "text": "ಸಾಯಂಕಾಲ ಪಂಚೋಪತಾರ ಅಷ್ಣ ಕುಂಕುಮ ಪೂಜೆಯನ್ನ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 608,
+    "start": 1023.749,
+    "end": 1023.759,
+    "start_time": "00:17:03.749",
+    "end_time": "00:17:03.759",
+    "text": "ಸಾಯಂಕಾಲ ಪಂಚೋಪತಾರ ಅಷ್ಣ ಕುಂಕುಮ ಪೂಜೆಯನ್ನ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 609,
+    "start": 1023.759,
+    "end": 1025.669,
+    "start_time": "00:17:03.759",
+    "end_time": "00:17:05.669",
+    "text": "ಮಾಡಿ ಅದೇ ರೀತಿಯಲ್ಲಿ ಒಂದು ವಿಳದಲಡಿಕೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 610,
+    "start": 1025.669,
+    "end": 1025.679,
+    "start_time": "00:17:05.669",
+    "end_time": "00:17:05.679",
+    "text": "ಮಾಡಿ ಅದೇ ರೀತಿಯಲ್ಲಿ ಒಂದು ವಿಳದಲಡಿಕೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 611,
+    "start": 1025.679,
+    "end": 1029.75,
+    "start_time": "00:17:05.679",
+    "end_time": "00:17:09.750",
+    "text": "ಹಣ್ಣನ್ನ ಸಂಜೆ ನೈವೇದ್ಯವನ್ನ ಮಾಡ್ರಿ ಮುಂದೆ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 612,
+    "start": 1029.75,
+    "end": 1029.76,
+    "start_time": "00:17:09.750",
+    "end_time": "00:17:09.760",
+    "text": "ಹಣ್ಣನ್ನ ಸಂಜೆ ನೈವೇದ್ಯವನ್ನ ಮಾಡ್ರಿ ಮುಂದೆ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 613,
+    "start": 1029.76,
+    "end": 1032.549,
+    "start_time": "00:17:09.760",
+    "end_time": "00:17:12.549",
+    "text": "ಸರಸ್ವತಿಯ ಪೂಜೆಯ",
+    "short_redisplay_candidate": false
+  },
+  {
+    "cue_index": 614,
+    "start": 1032.549,
+    "end": 1032.559,
+    "start_time": "00:17:12.549",
+    "end_time": "00:17:12.559",
+    "text": "ಸರಸ್ವತಿಯ ಪೂಜೆಯ",
+    "short_redisplay_candidate": true
+  },
+  {
+    "cue_index": 615,
+    "start": 1032.559,
+    "end": 1037.16,
+    "start_time": "00:17:12.559",
+    "end_time": "00:17:17.160",
+    "text": "ವಿಡಿಯೋವನ್ನ ನೋಡೋಣ ಧನ್ಯವಾದ",
+    "short_redisplay_candidate": false
+  }
+]

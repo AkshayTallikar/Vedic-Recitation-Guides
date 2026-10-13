@@ -1,0 +1,34 @@
+[
+  {
+    "name": "kapila",
+    "sourceId": "avahana",
+    "startSeconds": 308.56,
+    "endSeconds": 346.47,
+    "model": "gpt-4o-transcribe",
+    "file": "kapila-gpt4o.json"
+  },
+  {
+    "name": "saraswati",
+    "sourceId": "avahana",
+    "startSeconds": 640.24,
+    "endSeconds": 678.88,
+    "model": "gpt-4o-transcribe",
+    "file": "saraswati-gpt4o.json"
+  },
+  {
+    "name": "book-invocation",
+    "sourceId": "avahana",
+    "startSeconds": 722.0,
+    "endSeconds": 759.04,
+    "model": "gpt-4o-transcribe",
+    "file": "book-invocation-gpt4o.json"
+  },
+  {
+    "name": "pratishtha",
+    "sourceId": "avahana",
+    "startSeconds": 847.36,
+    "endSeconds": 895.04,
+    "model": "gpt-4o-transcribe",
+    "file": "pratishtha-gpt4o.json"
+  }
+]

@@ -1,0 +1,147 @@
+{
+  "sourceId": "visarjana",
+  "url": "https://youtube.com/watch?v=cw2W5gl6Low",
+  "title": "Saraswathy visarjana vijayadasami acharanay",
+  "channel": "CHARANAMPAVITHRAM",
+  "durationSeconds": 416.612438,
+  "mediaSha256": "9f868ee8032381f59a8fbfe39b129fd9a3d7ce2220d807cb493892466e22b441",
+  "rawEvidence": [
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-007-transcript.json",
+      "sha256": "5717351e6329e9b59d4f4da4171840fdbdb096fc574aa5ef84ff505c578d653e"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-011-transcript.json",
+      "sha256": "f39ddf97bf6596eb2b51d9a1b6783e1ffe2d3ce09d7db3523a73651770dd81b6"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-008-transcript.json",
+      "sha256": "4ae3d73585399e6c5a6fbccbcf5c047c8ed6667d4da5fbe02d8c06db0a4b245c"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-006-transcript.json",
+      "sha256": "e6a3de5062d64e1e8ac46d129bd74ceb9351f5ea604a7f7d4c80f98c944d4edc"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-010-transcript.json",
+      "sha256": "08c40cbd6dc7886bd9abebf84ef365b4994855c432e9b0a822846fab5769cb77"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-009-transcript.json",
+      "sha256": "9d9040cd61d71bddfae1a089bc6d2ab103f240d00515c13e85caafed97a9ba3f"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-001-transcript.json",
+      "sha256": "b7a217db90d9503a718b9417b0d67f0f3c64b54b67c3a985bd56ba917fa48c54"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-004-transcript.json",
+      "sha256": "df6c7dcdfc4a0fe4d1d20edad63040edfb1d413a3cefcd92454ddacdfed701c4"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-003-transcript.json",
+      "sha256": "1b7b3baf2026a3e5b8fb99540777a96f33cea0d7a5d866ccdd61f47385dc9f3d"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-002-transcript.json",
+      "sha256": "94420aec828d3db087c1fabd7a77de7aa402f0b8bbf449ce9606e112bc8bf3d3"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt-fine/original-part-005-transcript.json",
+      "sha256": "c0a5cb015eade1197f6bf4a3a200b32906b2a305a19fe10ce36ff7ce6e9da9e2"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt/original-part-001-transcript.json",
+      "sha256": "d40dbc2b5e2e2d6f1c21b31655a5801b5db4893b8f959874e2685ee3c19f3929"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt/original-part-003-transcript.json",
+      "sha256": "5f5556c8f9f0ae7bbe582401597432436994045e9fb7d03dfb93da306d83efee"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/gpt/original-part-002-transcript.json",
+      "sha256": "38a3a06895fd2aa4393f7553c4b6ac261379d18d7a0f8feabc1103de54227d2a"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/source/original.kn-orig.vtt",
+      "sha256": "5409b150f1f31420c5b3665a55c8f910e571b99734cfa486f3335aa78701c93d"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/reconciled/dismissal-gpt4o.json",
+      "sha256": "b087d9aafa8c13abbd0db155655fdec865cbeabfd7a9ec97c1905bd1b8fe2b70"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/reconciled/shami-one-gpt4o.json",
+      "sha256": "9eb586fae88ed7182acbe6969666dfe1ad1fad05a7fea1cff0bacb9d2c909732"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/reconciled/charity-gpt4o.json",
+      "sha256": "14d12eaa27588d54a1500b3980ec3a890fbe167794d2c3607bd0572cef308bb8"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/reconciled/madhva-gpt4o.json",
+      "sha256": "80cee4b0264e1c803a7648aca673fd6aa48baba86e6eda12a42bc707803898dd"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/reconciled/shami-two-gpt4o.json",
+      "sha256": "54e597cf68c9f4883cc5c1c600fb6c0999db293d9475f481c5ee45492d8808cb"
+    },
+    {
+      "path": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/visarjana/reconciled/shami-three-gpt4o.json",
+      "sha256": "6a4676bb221375d068a11f7c476ca6f75d27a17518ca9e952e448570c0e6cf47"
+    }
+  ],
+  "segmentIds": [
+    "visarjana-V01-01",
+    "visarjana-V02-01",
+    "visarjana-V02-02",
+    "visarjana-V02-03",
+    "visarjana-V02-04",
+    "visarjana-V02-05",
+    "visarjana-V03-01",
+    "visarjana-V03-02",
+    "visarjana-V03-03",
+    "visarjana-V03-04",
+    "visarjana-V03-05",
+    "visarjana-V04-01",
+    "visarjana-V04-02",
+    "visarjana-V04-03",
+    "visarjana-V05-01",
+    "visarjana-V05-02",
+    "visarjana-V06-01",
+    "visarjana-V06-02",
+    "visarjana-V06-03",
+    "visarjana-V06-04",
+    "visarjana-V07-01",
+    "visarjana-V07-02",
+    "visarjana-V08-01",
+    "visarjana-V08-02",
+    "visarjana-V09-01",
+    "visarjana-V09-02",
+    "visarjana-V09-03",
+    "visarjana-V10-01",
+    "visarjana-V10-02",
+    "visarjana-V11-01",
+    "visarjana-V11-02",
+    "visarjana-V11-03"
+  ],
+  "reconciliationMethod": "Fine 45-second/5-second-overlap gpt-transcribe plus independent 180-second/10-second-overlap gpt-transcribe, native caption word markers and six targeted gpt-4o-transcribe windows. ASR is an acoustic witness; no personal hearing interface was available. Phonetic unresolved clusters remain visible.",
+  "timingMethod": "Actual native embedded VTT word markers, with final endpoint clamped to ffprobe media duration. Not evenly distributed line timing.",
+  "nonTextIntervals": [
+    {
+      "start": 0,
+      "end": 0.48,
+      "basis": "Before first native caption marker; no speech text is fabricated."
+    },
+    {
+      "start": 135.19,
+      "end": 135.2,
+      "basis": "Native marker/cue transition gap; not independently classified as acoustic silence."
+    },
+    {
+      "start": 175.99,
+      "end": 176.0,
+      "basis": "Native marker/cue transition gap; not independently classified as acoustic silence."
+    }
+  ]
+}

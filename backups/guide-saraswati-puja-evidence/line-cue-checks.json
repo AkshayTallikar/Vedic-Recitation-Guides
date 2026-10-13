@@ -1,0 +1,4532 @@
+[
+  {
+    "text": "śrī gurubhyo namaḥ",
+    "start": 0.56,
+    "end": 1.839,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "01",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "mūleṣu sthāpanaṁ devyāḥ",
+    "start": 10.559,
+    "end": 12.48,
+    "matchFraction": 0.952,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "01",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "pūrvāṣāḍhāsu pūjanaṁ",
+    "start": 12.48,
+    "end": 14.639,
+    "matchFraction": 0.947,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "01",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "uttarāṣāḍhāsu baliṁ dadyāt",
+    "start": 14.639,
+    "end": 16.88,
+    "matchFraction": 0.792,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "01",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "śravaṇena visarjayet",
+    "start": 16.88,
+    "end": 19.68,
+    "matchFraction": 0.895,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "01",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "keśavāya svāhā",
+    "start": 159.84,
+    "end": 161.76,
+    "matchFraction": 0.692,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "04",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "nārāyaṇāya svāhā",
+    "start": 161.76,
+    "end": 163.28,
+    "matchFraction": 0.867,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "04",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "mādhavāya svāhā",
+    "start": 163.28,
+    "end": 165.599,
+    "matchFraction": 0.857,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "04",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "govinda viṣṇu madhusūdana trivikrama vāmana śrīdhara hṛṣīkeśa",
+    "start": 165.599,
+    "end": 169.519,
+    "matchFraction": 0.732,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "04",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "padmanābha dāmodara saṅkarṣaṇa vāsudeva pradyumna aniruddha",
+    "start": 169.519,
+    "end": 174.959,
+    "matchFraction": 0.722,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "04",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "puruṣottama adhokṣaja narasiṁha acyuta janārdana upendra haraye namaḥ",
+    "start": 174.959,
+    "end": 180.4,
+    "matchFraction": 0.855,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "04",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "śrīkṛṣṇāya namaḥ",
+    "start": 180.4,
+    "end": 183.75,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "04",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "praṇavasya parabrahma ṛṣiḥ paramātmā devatā devī gāyatrī chandaḥ prāṇāyāme viniyogaḥ",
+    "start": 186.319,
+    "end": 192.64,
+    "matchFraction": 0.921,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "05",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ bhūḥ oṁ bhuvaḥ oṁ svaḥ oṁ mahaḥ oṁ janaḥ oṁ tapaḥ oṁ satyaṁ",
+    "start": 192.64,
+    "end": 198.4,
+    "matchFraction": 0.939,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "05",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "tat savitur vareṇyaṁ bhargo devasya dhīmahi dhiyo yo naḥ pracodayāt",
+    "start": 198.4,
+    "end": 203.28,
+    "matchFraction": 0.828,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "05",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ āpo jyotī raso amṛtaṁ brahma bhūr bhuvaḥ svar oṁ",
+    "start": 203.28,
+    "end": 208.149,
+    "matchFraction": 0.907,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "05",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "śubhe śobhane muhūrte ādya brahmaṇaḥ dvitīya parārdhe śrī śvetavarāha kalpe vaivasvata manvantare aṣṭāviṁśatitame kaliyuge prathamapāde",
+    "start": 214.959,
+    "end": 224.239,
+    "matchFraction": 0.86,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "06",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "bhāratavarṣe bharatakhaṇḍe daṇḍakāraṇye godāvaryāḥ dakṣiṇe tīre śālivāhana śake bhautāvatāre rāmakṣetre",
+    "start": 224.239,
+    "end": 232.159,
+    "matchFraction": 0.883,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "06",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "asmin vartamāne prabhavādi ṣaṣṭi saṁvatsarāṇāṁ madhye śubhe viśvāvasu nāma saṁvatsare dakṣiṇāyane śaradṛtau āśvījamāse śuklapakṣe saptamyāṁ",
+    "start": 232.159,
+    "end": 245.36,
+    "matchFraction": 0.841,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "06",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "vāsara vāsarastu induvāsarayuktāyāṁ mūlanakṣatrayuktāyāṁ śubhanakṣatra śubhayoga śubhakaraṇa evaṁguṇa sakalaviśeṣaṇa viśiṣṭāyāṁ śubhatithau",
+    "start": 245.36,
+    "end": 256.72,
+    "matchFraction": 0.915,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "06",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "bhāratīramaṇa mukhyaprāṇa antargata śrī vedavyāsa preraṇayā śrī vedavyāsa prītyarthaṁ pustakeṣu sannihita sarasvatyātmaka śrī vyāsa paraśurāma āvāhana pūjāṁ pratiṣṭhāpana pūjāṁ kariṣye",
+    "start": 256.72,
+    "end": 275.759,
+    "matchFraction": 0.97,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "06",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ kapilāya namaḥ",
+    "start": 308.56,
+    "end": 313.199,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "07",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "purodyad divākara samānatanuṁ sahasra sūryoru dīdhitibhir vyāpta samasta lokaṁ",
+    "start": 313.199,
+    "end": 323.68,
+    "matchFraction": 0.9,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "07",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "jñānābhayādi takaraṁ jñānādi bhayāntikaraṁ kapilaś ca dattaṁ",
+    "start": 323.68,
+    "end": 330.96,
+    "matchFraction": 0.907,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "07",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "dhyāyed ajādi ajādi samitiṁ pratibodhayantaṁ",
+    "start": 330.96,
+    "end": 340.0,
+    "matchFraction": 0.75,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "07",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ kaṁ kapilāya namaḥ oṁ daṁ dattātreyāya namaḥ asmin pustake kapila dattātreyaṁ āvāhayāmi",
+    "start": 340.0,
+    "end": 346.469,
+    "matchFraction": 0.872,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "07",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "vande turaṅgavadanaṁ śaśibimba saṁsthaṁ",
+    "start": 351.039,
+    "end": 354.08,
+    "matchFraction": 0.889,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "08",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "candrāvadātam amṛtātmakaraiḥ samantāt",
+    "start": 354.08,
+    "end": 357.28,
+    "matchFraction": 0.75,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "08",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "aṇḍāntaraṁ pratihati bahir api pratibhāsayantaṁ",
+    "start": 357.28,
+    "end": 362.08,
+    "matchFraction": 0.907,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "08",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "śaṅkhākṣa pustaka subodhayutābjabāhuṁ",
+    "start": 362.08,
+    "end": 365.44,
+    "matchFraction": 0.657,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "08",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "nasto mukhād api nirantaram udgirantaṁ",
+    "start": 365.44,
+    "end": 370.72,
+    "matchFraction": 0.941,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "08",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "vidyā aśeṣata utābjabhaveśamukhyaiḥ",
+    "start": 370.72,
+    "end": 375.12,
+    "matchFraction": 0.788,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "08",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "hāṁ hayagrīvāya namaḥ hayagrīvaṁ dhyāyāmi āvāhayāmi",
+    "start": 375.12,
+    "end": 381.59,
+    "matchFraction": 0.957,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "08",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "śyāmaṁ ravīndum iti dīdhitikāntiyuktaṁ",
+    "start": 385.12,
+    "end": 389.28,
+    "matchFraction": 0.857,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "09",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "jñānaṁ śaraṁ ca dadhataṁ priyayā sametaṁ",
+    "start": 389.28,
+    "end": 392.4,
+    "matchFraction": 0.8,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "09",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "svātmasvarūpam amitaṁ hanumanmukheṣu sandarśayantaṁ ajitaṁ smaratorugīrbhiḥ",
+    "start": 392.4,
+    "end": 399.28,
+    "matchFraction": 0.843,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "09",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ rāṁ rāmāya namaḥ",
+    "start": 399.28,
+    "end": 400.639,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "09",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "rāmaṁ āvāhayāmi",
+    "start": 401.68,
+    "end": 403.84,
+    "matchFraction": 0.857,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "09",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "dhyāyet harirmaṇinibhaṁ jagadekavandyaṁ",
+    "start": 405.44,
+    "end": 408.72,
+    "matchFraction": 0.649,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "10",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "saundaryasāram ariśaṅkhavarābhayāni dorbhir dadhānam ajitaṁ sarasaṁ ca bhaiṣmī satyāsametam akhilapradam indireśaṁ",
+    "start": 408.72,
+    "end": 417.759,
+    "matchFraction": 0.731,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "10",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ klīṁ kṛṣṇāya namaḥ kṛṣṇaṁ dhyāyāmi",
+    "start": 417.759,
+    "end": 421.189,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "10",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "aṅgāravarṇam abhito aṇḍabahiḥ prabhābhir vyāptaṁ paraśvadhaṁ dhanurdharam ekavīraṁ",
+    "start": 422.72,
+    "end": 431.12,
+    "matchFraction": 0.853,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "11",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "dhyāyed ajeśa puruhūtamukhaiḥ stuvadbhir āvītam ātmapadavīṁ pratipādayantaṁ",
+    "start": 431.12,
+    "end": 437.599,
+    "matchFraction": 0.855,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "11",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "bhāṁ bhārgavāya namaḥ paraśurāmaṁ dhyāyāmi",
+    "start": 437.599,
+    "end": 441.199,
+    "matchFraction": 0.947,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "11",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "dhyāyen nṛsiṁham uruvṛtta ravitrinetraṁ jānuprasaktakarayugmam athāparābhyāṁ",
+    "start": 443.759,
+    "end": 450.08,
+    "matchFraction": 0.712,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "12",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "cakraṁ daraṁ ca dadhataṁ priyayā sametaṁ tigmāṁśukoṭyadhikatejasam agraśaktiṁ",
+    "start": 451.919,
+    "end": 459.029,
+    "matchFraction": 0.7,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "12",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "ugraṁ vīraṁ mahāviṣṇuṁ jvalantaṁ sarvatomukhaṁ nṛsiṁhaṁ bhīṣaṇaṁ bhadraṁ mṛtyumṛtyuṁ namāmyahaṁ",
+    "start": 443.759,
+    "end": 468.55,
+    "matchFraction": 0.36,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "12",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "lakṣmī nṛsiṁhaṁ dhyāyāmi āvāhayāmi",
+    "start": 464.0,
+    "end": 468.55,
+    "matchFraction": 0.594,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "12",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "vijñānarociḥ paripūritāntar brahmāṇḍakośaṁ haritopalābhaṁ",
+    "start": 473.84,
+    "end": 480.96,
+    "matchFraction": 0.741,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "13",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "tarkābhayetaṁ vidhiśarvapūrva gīrvāṇa vijñānadam ānato asmi",
+    "start": 480.96,
+    "end": 486.0,
+    "matchFraction": 0.5,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "13",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ vyāṁ vyāsāya namaḥ vedavyāsaṁ dhyāyāmi",
+    "start": 486.0,
+    "end": 490.24,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "13",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "pūrṇajñānāya vidmahe pūrṇānandāya dhīmahi tan no vyāsaḥ pracodayāt śrīvyāsaṁ dhyāyāmi",
+    "start": 490.24,
+    "end": 498.469,
+    "matchFraction": 0.776,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "13",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "udyad bhāsvat samābhāsa cakraśaṅkha cakraśaṅkha",
+    "start": 500.24,
+    "end": 509.199,
+    "matchFraction": 0.791,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "14",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "cakraśaṅkhagadā padmadharo dhyāye īśvaraḥ",
+    "start": 509.199,
+    "end": 514.88,
+    "matchFraction": 0.684,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "14",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "cakraśaṅkha gadā padmadharo dhyāye īśvaraḥ",
+    "start": 514.88,
+    "end": 517.919,
+    "matchFraction": 0.026,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "14",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "lakṣmīdharābhyām āśliṣṭaḥ svamūrtigaṇamadhyagaḥ brahmavāyu śivāhīśa vipaiḥ śakrādikair api",
+    "start": 517.919,
+    "end": 524.56,
+    "matchFraction": 0.843,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "14",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "sevyamāno adhikaṁ bhaktyā nitya nirdoṣaśaktimān mūrtayo aṣṭa api dhyeyāḥ nitya nirdoṣaśaktimān",
+    "start": 524.56,
+    "end": 532.88,
+    "matchFraction": 0.81,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "14",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ namo nārāyaṇāya namaḥ śrī nārāyaṇaṁ dhyāyāmi āvāhayāmi",
+    "start": 532.88,
+    "end": 541.67,
+    "matchFraction": 0.94,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "14",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "kauśeya pītavasanām aravindanetraṁ padmadvayābhaya varodyatapadmahastāṁ",
+    "start": 545.2,
+    "end": 551.04,
+    "matchFraction": 0.657,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "15",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "udyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ",
+    "start": 545.2,
+    "end": 562.399,
+    "matchFraction": 0.151,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "15",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "śrīṁ śriyai namaḥ śriyaṁ mahālakṣmīṁ dhyāyāmi",
+    "start": 557.6,
+    "end": 562.399,
+    "matchFraction": 0.85,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "15",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "kauśeya pītavasanām aravindanetraṁ tāmbūla nīlakusumābhaya sadvarāṁ tāṁ",
+    "start": 563.6,
+    "end": 572.399,
+    "matchFraction": 0.877,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "16",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "śyāmāṅgakānti sahitāṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ",
+    "start": 563.6,
+    "end": 584.48,
+    "matchFraction": 0.472,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "16",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "bhūṁ bhuve namaḥ bhuve namaḥ bhūṁ dhyāyāmi",
+    "start": 578.959,
+    "end": 584.48,
+    "matchFraction": 0.861,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "16",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "kauśeya raktavasanāṁ kamalatrinetrāṁ cakrābja cakrābja dara triśūla yutābjahastāṁ",
+    "start": 585.839,
+    "end": 595.76,
+    "matchFraction": 0.838,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "17",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "udyacchatārkasadṛśīṁ paramāṅkasaṁsthāṁ dhyāyed vidhīśanuta pādayugāṁ janitrīṁ",
+    "start": 585.839,
+    "end": 604.56,
+    "matchFraction": 0.37,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "17",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "duṁ durgāyai namaḥ durgāṁ dhyāyāmi",
+    "start": 601.519,
+    "end": 604.56,
+    "matchFraction": 0.967,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "17",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "udyad ravi prakara sannibham acyutāṅghre svāsīnam asya nutinityavacaḥ pravṛttiṁ",
+    "start": 607.2,
+    "end": 611.68,
+    "matchFraction": 0.236,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "18",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "dhyāyed varābhayakaraṁ sukṛtāñjaliṁ taṁ prāṇaṁ yatheṣṭatanuṁ unnatakarmaśaktiṁ",
+    "start": 607.2,
+    "end": 630.47,
+    "matchFraction": 0.26,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "18",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ prāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi āvāhayāmi",
+    "start": 617.04,
+    "end": 622.48,
+    "matchFraction": 0.957,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "18",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "prāṁ prāṇāya namaḥ mukhyaprāṇaṁ dhyāyāmi mukhyaprāṇaṁ āvāhayāmi",
+    "start": 622.48,
+    "end": 630.47,
+    "matchFraction": 0.965,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "18",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "udayad udyad divākara sannibhāṁ svabharturaṅkasthitāṁ abhaya sadvara bāhuyugmāṁ",
+    "start": 640.24,
+    "end": 651.76,
+    "matchFraction": 0.847,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "mudrāṁ ca tattvadṛśaye dṛśaye varapustakaṁ ca doryugmakena dadhatīṁ smaratātmavidyāṁ",
+    "start": 651.76,
+    "end": 666.959,
+    "matchFraction": 0.872,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "smaratātmavidyāṁ",
+    "start": 666.959,
+    "end": 668.399,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "gaurī mimāya salilāni takṣaty ekapadī dvipadī sā catuṣpadī aṣṭāpadī navapadī babhūvuṣī sahasrākṣarā parame vyoman",
+    "start": 668.399,
+    "end": 676.72,
+    "matchFraction": 0.6,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ oṁ sarasvatyai namaḥ sarasvatīṁ dhyāyāmi",
+    "start": 676.72,
+    "end": 679.92,
+    "matchFraction": 0.947,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "bhāratyai namaḥ bhāratīṁ dhyāyāmi",
+    "start": 679.92,
+    "end": 684.079,
+    "matchFraction": 0.933,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "bhāratyai namaḥ bhāratīṁ dhyāyāmi",
+    "start": 684.079,
+    "end": 686.88,
+    "matchFraction": 0.4,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "bhāratīṁ dhyāyāmi",
+    "start": 684.959,
+    "end": 686.88,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "śeṣāya namaḥ śeṣaṁ dhyāyāmi",
+    "start": 686.88,
+    "end": 693.92,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "śeṣāya namaḥ śeṣaṁ dhyāyāmi",
+    "start": 693.92,
+    "end": 696.56,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ tryambakaṁ yajāmahe sugandhiṁ puṣṭivardhanaṁ urvārukam iva bandhanān mṛtyor mukṣīya mā amṛtāt",
+    "start": 696.56,
+    "end": 702.079,
+    "matchFraction": 0.862,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ namaḥ śivāya śivaṁ dhyāyāmi",
+    "start": 702.079,
+    "end": 705.04,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "gauryai namaḥ śrī gaurīṁ dhyāyāmi",
+    "start": 705.04,
+    "end": 708.88,
+    "matchFraction": 0.931,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "gauryai namaḥ gaurīṁ dhyāyāmi āvāhayāmi",
+    "start": 708.88,
+    "end": 712.64,
+    "matchFraction": 0.914,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "vināyakāya namaḥ vināyakaṁ dhyāyāmi āvāhayāmi sthāpayāmi pūjayāmi namaḥ",
+    "start": 712.64,
+    "end": 719.99,
+    "matchFraction": 0.953,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "19",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "etat",
+    "start": 720.0,
+    "end": 720.88,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "20",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "etat śāstra pustaka lipirekhāntaḥ tejomaya rekhāntaḥ prāṇaśrī rekhāyāṁ sthitaṁ",
+    "start": 722.0,
+    "end": 733.2,
+    "matchFraction": 0.929,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "20",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "dharmanārāyaṇa mahidāsa kapila dattātreya hayagrīva nārasiṁha rāmakṛṣṇa paraśurāma vyāsa hari prājña puruṣātmaka",
+    "start": 733.2,
+    "end": 745.76,
+    "matchFraction": 0.99,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "20",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "sarvavedābhimāni vedābhimāni sarvavedya utkṛṣṭa śrī brahmāṇī bhāratyantargata strīrūpaṁ vyāsaṁ sammukhīkaromi",
+    "start": 745.76,
+    "end": 759.03,
+    "matchFraction": 0.901,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "20",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "tat sannidhāne śrī bhū durgā",
+    "start": 763.92,
+    "end": 766.399,
+    "matchFraction": 0.958,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "21",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "tat sannidhāne śrī bhū durgā ambhṛṇī śrīmāyā jayā kṛti śānti lakṣmī jaganti jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryā",
+    "start": 767.68,
+    "end": 786.399,
+    "matchFraction": 0.955,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "21",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "jānakī satyā rukmiṇī svayaṁprītyākhya vyāsabhāryātmikāṁ ramāṁ",
+    "start": 786.399,
+    "end": 793.04,
+    "matchFraction": 0.946,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "21",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "brahmaprāṇa hanumadbhīma madhvān sarasvatī bhāratyau śeṣa rudra pārvatī vināyakān",
+    "start": 793.04,
+    "end": 802.079,
+    "matchFraction": 0.959,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "21",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "bādariṁ jaiminiṁ sumantuṁ vaiśampāyanaṁ aśmarathyaṁ pailaṁ kāśakṛtsnaṁ lomaśaṁ etān",
+    "start": 802.079,
+    "end": 814.0,
+    "matchFraction": 0.895,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "21",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "guguṁ sīnīvālīṁ rākāṁ sarasvatīṁ indrāṇīṁ vāruṇīś ca sūktadevatāḥ",
+    "start": 814.0,
+    "end": 822.399,
+    "matchFraction": 0.983,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "21",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "śrīmadānandatīrtha jaytīrtha vyāsatīrthādīn bhāṣya ṭīkā ṭippaṇī kṛtān",
+    "start": 822.399,
+    "end": 831.519,
+    "matchFraction": 0.969,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "21",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "tat tat mantrair āvāhya kṛpayā sumukhī bhavatv iti prārthya puṣpāñjaliṁ samarpya",
+    "start": 831.519,
+    "end": 839.76,
+    "matchFraction": 0.915,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "21",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "gṛhā vai pratiṣṭhā sūktaṁ tat pratiṣṭhitatamayā vācā śaṁstavyaṁ",
+    "start": 847.36,
+    "end": 854.069,
+    "matchFraction": 0.772,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "22",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "tasmād yady api dūra iva paśūn labhate gṛhān evainān ājigamiṣati gṛhā hi paśūnāṁ pratiṣṭhā",
+    "start": 854.079,
+    "end": 866.32,
+    "matchFraction": 0.911,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "22",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "pratiṣṭhā uttamā pratiṣṭhā",
+    "start": 866.32,
+    "end": 869.76,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "22",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "tad daivaṁ kṣatraṁ sā śrīs tad ādhipatyaṁ tad bradhnasya viṣṭapaṁ tat prajāpater āyatanaṁ",
+    "start": 869.76,
+    "end": 882.56,
+    "matchFraction": 0.818,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "22",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "tat svārājyaṁ ṛdhnoti etam evaitābhir ityādi pratiṣṭhā api gṛhāṇāṁ pratiṣṭhā uttamā pratiṣṭhā",
+    "start": 882.56,
+    "end": 895.03,
+    "matchFraction": 0.774,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "22",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "sānnidhyaṁ kuru deveśa sarvasaṁpatkaro bhava vibho sakalalokeśa viṣṇo jiṣṇo hare prabho",
+    "start": 898.88,
+    "end": 908.72,
+    "matchFraction": 0.987,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "23",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "tvāṁ bhaktyā pūjayāmi yad yad bhogaiḥ arghyādibhiḥ arghyādibhiḥ kramāt",
+    "start": 908.72,
+    "end": 919.279,
+    "matchFraction": 0.823,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "23",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "yāgāvasāna paryantam atra sthitvā janārdana bhaktasya mama pūjāṁ tvā gṛhītvā pāhi māṁ prabho",
+    "start": 919.279,
+    "end": 928.24,
+    "matchFraction": 0.926,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "23",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "gosvāmin sarvajagatāṁ nātha yāvat pūjāvasānakaṁ tāvat tvaṁ saṁprītibhāvena bimbe asmin pustake asmin sannihito bhava",
+    "start": 928.24,
+    "end": 940.389,
+    "matchFraction": 0.913,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "23",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "oṁ namo nārāyaṇāya oṁ",
+    "start": 943.519,
+    "end": 945.199,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "24",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "āvāhito bhava sthāpito bhava sannihito bhava sannidhito bhava sanniruddho bhava sammukho bhava avakuṇṭhito bhava prasīda prasīda prasīda",
+    "start": 949.6,
+    "end": 962.48,
+    "matchFraction": 0.908,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "25",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "anena mūlanakṣatrāyāṁ sarasvatī āvāhana pūjanena sarasvatyantargata bhāratīramaṇa mukhyaprāṇāntargata śrī lakṣmī vedavyāsaḥ prīyatāṁ",
+    "start": 1005.12,
+    "end": 1017.279,
+    "matchFraction": 0.942,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "27",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "śrīkṛṣṇārpaṇam astu",
+    "start": 1019.519,
+    "end": 1020.8,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "27",
+    "sourceId": "avahana"
+  },
+  {
+    "text": "keśavāya svāhā",
+    "start": 77.52,
+    "end": 79.27,
+    "matchFraction": 0.846,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "30",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nārāyaṇāya svāhā",
+    "start": 79.28,
+    "end": 80.789,
+    "matchFraction": 0.867,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "30",
+    "sourceId": "puja"
+  },
+  {
+    "text": "mādhavāya svāhā",
+    "start": 80.799,
+    "end": 82.159,
+    "matchFraction": 0.714,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "30",
+    "sourceId": "puja"
+  },
+  {
+    "text": "govinda viṣṇu madhusūdana trivikrama vāmana",
+    "start": 82.159,
+    "end": 85.119,
+    "matchFraction": 0.821,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "30",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śrīdhara hṛṣīkeśa padmanābha dāmodara saṅkarṣaṇa",
+    "start": 85.119,
+    "end": 89.36,
+    "matchFraction": 0.889,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "30",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vāsudeva pradyumna aniruddha puruṣottama adhokṣaja",
+    "start": 89.36,
+    "end": 93.36,
+    "matchFraction": 0.957,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "30",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nārasimha acyuta janārdana upendra haraye namaḥ śrīkṛṣṇāya namaḥ",
+    "start": 93.36,
+    "end": 103.109,
+    "matchFraction": 0.931,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "30",
+    "sourceId": "puja"
+  },
+  {
+    "text": "praṇavasya parabrahma ṛṣiḥ paramātmā devatā",
+    "start": 105.36,
+    "end": 108.32,
+    "matchFraction": 0.8,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "31",
+    "sourceId": "puja"
+  },
+  {
+    "text": "devī gāyatrī chandaḥ prāṇāyāme viniyogaḥ",
+    "start": 108.32,
+    "end": 111.2,
+    "matchFraction": 0.917,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "31",
+    "sourceId": "puja"
+  },
+  {
+    "text": "oṁ bhūḥ oṁ bhuvaḥ oṁ svaḥ oṁ mahaḥ oṁ janaḥ oṁ tapaḥ oṁ satyaṁ",
+    "start": 111.2,
+    "end": 116.24,
+    "matchFraction": 0.735,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "31",
+    "sourceId": "puja"
+  },
+  {
+    "text": "tatsaviturvareṇyaṁ bhargo devasya dhīmahi dhiyo yo naḥ pracodayāt",
+    "start": 105.36,
+    "end": 128.0,
+    "matchFraction": 0.586,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "31",
+    "sourceId": "puja"
+  },
+  {
+    "text": "oṁ āpo jyotīraso amṛtaṁ brahma bhūrbhuvassuvarom",
+    "start": 120.799,
+    "end": 127.99,
+    "matchFraction": 0.955,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "31",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śubhe śobhane muhūrte ādya brahmaṇaḥ dvitīya parārdhe",
+    "start": 135.52,
+    "end": 140.08,
+    "matchFraction": 0.83,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "32",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śrīśvetavarāhakalpe vaivasvatamanvantare kaliyuge prathamapāde",
+    "start": 140.08,
+    "end": 144.869,
+    "matchFraction": 0.881,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "32",
+    "sourceId": "puja"
+  },
+  {
+    "text": "jambūdvīpe bharatavarṣe bharatakhaṇḍe daṇḍakāraṇye godāvaryāḥ dakṣiṇapārśve",
+    "start": 144.879,
+    "end": 150.8,
+    "matchFraction": 0.8,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "32",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śālivāhanaśake bauddhāvatāre rāmakṣetre asmin vartamāne prabhavādi ṣaṣṭi saṁvatsarāṇāṁ madhye",
+    "start": 150.8,
+    "end": 158.879,
+    "matchFraction": 0.918,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "32",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śubha vaiśvavasunāma saṁvatsare dakṣiṇāyane śaradṛtau āśvījamāse śuklapakṣe aṣṭamyāṁ",
+    "start": 158.879,
+    "end": 167.2,
+    "matchFraction": 0.833,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "32",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vāsaraḥ vāsarastu bhaumavāsara yuktāyāṁ pūrvāṣāḍhānakṣatra yuktāyāṁ",
+    "start": 167.2,
+    "end": 173.27,
+    "matchFraction": 0.935,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "32",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śubhanakṣatra śubhayoga śubhakaraṇa evaṁguṇa sakalaviśeṣaṇa viśiṣṭāyāṁ śubhatithau",
+    "start": 173.28,
+    "end": 180.0,
+    "matchFraction": 0.921,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "32",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhāratīramaṇa mukhyaprāṇāntargata śrī sarasvatyantargata śrīvedavyāsa preraṇayā śrīvedavyāsa prītyarthaṁ mama",
+    "start": 180.0,
+    "end": 190.239,
+    "matchFraction": 0.95,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "32",
+    "sourceId": "puja"
+  },
+  {
+    "text": "mama sarvaśāstrārtha vijñānādi sarvābhīṣṭa siddhi dvāra",
+    "start": 191.04,
+    "end": 201.11,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "32",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sarasvatyantargata bhāratīramaṇa mukhyaprāṇāntargata śrīvedavyāsa preraṇayā vedavyāsa prītyarthaṁ",
+    "start": 201.12,
+    "end": 210.309,
+    "matchFraction": 0.923,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "32",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sarasvatīātmaka śrīvedavyāsa pūjāṁ navarātriutsavāṅga aṣṭamīdivase sarasvatī pūjāṁ",
+    "start": 210.319,
+    "end": 219.599,
+    "matchFraction": 0.961,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "32",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kariṣye",
+    "start": 221.68,
+    "end": 224.319,
+    "matchFraction": 0.857,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "32",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kapilāya namaḥ kapilam āvāhayāmi",
+    "start": 229.68,
+    "end": 232.63,
+    "matchFraction": 0.966,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "dattātreyāya namaḥ dattātreyam āvāhayāmi",
+    "start": 232.64,
+    "end": 235.67,
+    "matchFraction": 0.919,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "hayagrīvāya namaḥ hayagrīvam āvāhayāmi",
+    "start": 235.68,
+    "end": 238.64,
+    "matchFraction": 0.886,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "oṁ rāmāya namaḥ rāmam āvāhayāmi",
+    "start": 238.64,
+    "end": 241.599,
+    "matchFraction": 0.926,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "oṁ kṛṣṇāya namaḥ kṛṣṇam āvāhayāmi",
+    "start": 241.599,
+    "end": 244.159,
+    "matchFraction": 0.935,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "oṁ paraśurāmāya namaḥ paraśurāmam āvāhayāmi",
+    "start": 244.159,
+    "end": 247.439,
+    "matchFraction": 0.949,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vedavyāsāya namaḥ vedavyāsam āvāhayāmi",
+    "start": 247.439,
+    "end": 251.99,
+    "matchFraction": 0.943,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nārāyaṇāya namaḥ nārāyaṇam āvāhayāmi",
+    "start": 252.0,
+    "end": 255.04,
+    "matchFraction": 0.97,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śriyai mahālakṣmīm āvāhayāmi bhūdevīm āvāhayāmi durgāṁ āvāhayāmi",
+    "start": 255.04,
+    "end": 262.95,
+    "matchFraction": 0.948,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "mukhya prāṇam āvāhayāmi sarasvatīm āvāhayāmi bhāratīm āvāhayāmi",
+    "start": 260.56,
+    "end": 267.04,
+    "matchFraction": 0.772,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhāratīm āvāhayāmi śeṣam āvāhayāmi",
+    "start": 269.919,
+    "end": 272.95,
+    "matchFraction": 0.839,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "rudram āvāhayāmi pārvatīm āvāhayāmi vināyakam āvāhayāmi",
+    "start": 272.96,
+    "end": 277.68,
+    "matchFraction": 0.88,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sakalaṛṣigaṇaṁ siddhapuruṣaṁ munigaṇaṁ āvāhayāmi",
+    "start": 277.68,
+    "end": 283.749,
+    "matchFraction": 0.957,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "33",
+    "sourceId": "puja"
+  },
+  {
+    "text": "abhramaṁ bhaṅgarahitaṁ ajaḍaṁ vimalaṁ sadā",
+    "start": 286.479,
+    "end": 289.67,
+    "matchFraction": 0.816,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ānandatīrtham atulaṁ bhaje tāpatrayāpahaṁ",
+    "start": 286.479,
+    "end": 340.72,
+    "matchFraction": 0.368,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ānandatīrtha gurum āvāhayāmi",
+    "start": 292.24,
+    "end": 295.51,
+    "matchFraction": 0.769,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "citraiḥ padaiśca gambhīraiḥ vākyaiḥ mānair akhaṇḍitaiḥ",
+    "start": 286.479,
+    "end": 340.72,
+    "matchFraction": 0.49,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "gurubhāvaṁ vyañjayantī bhāti śrījayatīrthavāk",
+    "start": 286.479,
+    "end": 340.72,
+    "matchFraction": 0.619,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "jayatīrtha gurum āvāhayāmi",
+    "start": 300.8,
+    "end": 302.96,
+    "matchFraction": 0.958,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "arthikalpitakalpo’yaṁ pratyarthigajakesarī",
+    "start": 302.96,
+    "end": 305.6,
+    "matchFraction": 0.775,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vyāsatīrtha gurur bhūyāt asmad iṣṭārthasiddhaye",
+    "start": 286.479,
+    "end": 340.72,
+    "matchFraction": 0.512,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vyāsarāja gurum āvāhayāmi",
+    "start": 308.88,
+    "end": 311.43,
+    "matchFraction": 0.87,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "praṇamatkāmadhenum ca bhajatsuratarūpamam",
+    "start": 311.44,
+    "end": 314.479,
+    "matchFraction": 0.897,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śrībhāvabodhakṛtpādaṁ cintāmaṇim upāsmahe",
+    "start": 314.479,
+    "end": 317.43,
+    "matchFraction": 0.725,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "raghūttamatīrtha gurum āvāhayāmi",
+    "start": 317.44,
+    "end": 319.68,
+    "matchFraction": 0.9,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "durvādidvāntaravaye vaiṣṇavendīvarendave",
+    "start": 319.68,
+    "end": 323.35,
+    "matchFraction": 0.872,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śrīrāghavendragurave namo’stu atyantadayālave",
+    "start": 323.36,
+    "end": 327.28,
+    "matchFraction": 0.929,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śrīrāghavendra gurum āvāhayāmi",
+    "start": 327.28,
+    "end": 331.909,
+    "matchFraction": 0.929,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ānandatīrthādi samasta gurumaṇḍala devatān āvāhayāmi sthāpayāmi pūjayāmi namaḥ",
+    "start": 331.919,
+    "end": 340.71,
+    "matchFraction": 0.944,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "34",
+    "sourceId": "puja"
+  },
+  {
+    "text": "atrāgatya jagadvandye sarvalokaikapūjite",
+    "start": 342.72,
+    "end": 347.44,
+    "matchFraction": 0.921,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "35",
+    "sourceId": "puja"
+  },
+  {
+    "text": "mayā kṛtām imāṁ pūjāṁ gṛhāṇa tvam sarasvati",
+    "start": 347.44,
+    "end": 353.99,
+    "matchFraction": 0.974,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "35",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sarasvatīm āvāhayāmi",
+    "start": 354.0,
+    "end": 357.27,
+    "matchFraction": 0.842,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "35",
+    "sourceId": "puja"
+  },
+  {
+    "text": "praṇavāsanaṁ",
+    "start": 358.96,
+    "end": 361.11,
+    "matchFraction": 0.917,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "36",
+    "sourceId": "puja"
+  },
+  {
+    "text": "praṇavāsanārūḍhāṁ tadarthatattvena niścitām",
+    "start": 361.12,
+    "end": 365.759,
+    "matchFraction": 0.927,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "36",
+    "sourceId": "puja"
+  },
+  {
+    "text": "aṅkuśaṁ ca akṣasūtraṁ ca pāśapustakadhāriṇīṁ",
+    "start": 364.96,
+    "end": 368.95,
+    "matchFraction": 0.85,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "36",
+    "sourceId": "puja"
+  },
+  {
+    "text": "keyūrair mekhalādyair dyotayantīṁ jagattrayaṁ",
+    "start": 368.96,
+    "end": 374.0,
+    "matchFraction": 0.833,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "36",
+    "sourceId": "puja"
+  },
+  {
+    "text": "saptabrahmaraṇīṁ dhyāyet dhyānagamyāṁ samāhitaḥ",
+    "start": 374.0,
+    "end": 378.629,
+    "matchFraction": 0.886,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "36",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhāratīṁ sarvavedāḍhyāṁ bharturaṅkasthitāṁ satīṁ",
+    "start": 378.639,
+    "end": 383.35,
+    "matchFraction": 0.778,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "36",
+    "sourceId": "puja"
+  },
+  {
+    "text": "dhyāyantīṁ satataṁ viṣṇuṁ dhyāyet sarvārthasiddhaye",
+    "start": 383.36,
+    "end": 387.67,
+    "matchFraction": 0.745,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "36",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt",
+    "start": 387.68,
+    "end": 393.11,
+    "matchFraction": 0.925,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "36",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sa bhūmiṁ viśvato vṛtvā atyatiṣṭhat daśāṅgulaṁ",
+    "start": 393.12,
+    "end": 398.39,
+    "matchFraction": 0.905,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "36",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sarasvatyantargata vedavyāsam āvāhayāmi",
+    "start": 398.4,
+    "end": 403.11,
+    "matchFraction": 0.784,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "36",
+    "sourceId": "puja"
+  },
+  {
+    "text": "anekaratnasaṁyuktaṁ suvarṇena virājitam",
+    "start": 404.56,
+    "end": 408.96,
+    "matchFraction": 0.946,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "37",
+    "sourceId": "puja"
+  },
+  {
+    "text": "muktāmaṇyaṅkitaṁ cāru āsanaṁ te dadāmyaham",
+    "start": 408.96,
+    "end": 413.759,
+    "matchFraction": 0.895,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "37",
+    "sourceId": "puja"
+  },
+  {
+    "text": "puruṣa evedaṁ sarvaṁ yadbhūtaṁ yacca bhavyaṁ",
+    "start": 413.759,
+    "end": 418.88,
+    "matchFraction": 0.872,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "37",
+    "sourceId": "puja"
+  },
+  {
+    "text": "utāmṛtatvasyeśāno yadannenātirohati",
+    "start": 418.88,
+    "end": 423.599,
+    "matchFraction": 0.714,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "37",
+    "sourceId": "puja"
+  },
+  {
+    "text": "āsanaṁ samarpayāmi",
+    "start": 423.599,
+    "end": 425.039,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "37",
+    "sourceId": "puja"
+  },
+  {
+    "text": "gandhapuṣpākṣatayuktaṁ gandhatoyena saṁyutam",
+    "start": 432.08,
+    "end": 436.4,
+    "matchFraction": 0.929,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "38",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śuddhasphaṭikatulyāṅgi pādyaṁ te pratigṛhyatām",
+    "start": 432.08,
+    "end": 452.4,
+    "matchFraction": 0.636,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "38",
+    "sourceId": "puja"
+  },
+  {
+    "text": "etāvānasya mahimā ato jyāyāṁśca puruṣaḥ",
+    "start": 440.72,
+    "end": 446.56,
+    "matchFraction": 0.914,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "38",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pādo’sya viśvā bhūtāni tripādasyāmṛtaṁ divi",
+    "start": 446.56,
+    "end": 452.4,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "38",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pādyaṁ pādyaṁ pādyaṁ samarpayāmi",
+    "start": 454.08,
+    "end": 457.039,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "38",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhaktābhīṣṭaprade devi devadevādivandite",
+    "start": 459.12,
+    "end": 463.84,
+    "matchFraction": 0.974,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "39",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ādhārādijagaddhātri dadāmyarghyaṁ gṛhāṇa te",
+    "start": 463.84,
+    "end": 468.469,
+    "matchFraction": 0.756,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "39",
+    "sourceId": "puja"
+  },
+  {
+    "text": "tripādūrdhva udait puruṣaḥ pādo’syehābhavatpunaḥ",
+    "start": 468.479,
+    "end": 473.919,
+    "matchFraction": 0.841,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "39",
+    "sourceId": "puja"
+  },
+  {
+    "text": "tato viṣvaṅ vyakrāmat sāśanānaśane abhi",
+    "start": 473.919,
+    "end": 478.309,
+    "matchFraction": 0.886,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "39",
+    "sourceId": "puja"
+  },
+  {
+    "text": "arghyaṁ arghyaṁ arghyaṁ samarpayāmi",
+    "start": 480.4,
+    "end": 483.759,
+    "matchFraction": 0.531,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "39",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pūrṇacandrasamānāsye koṭisūryasamaprabhe",
+    "start": 485.44,
+    "end": 489.67,
+    "matchFraction": 0.897,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "40",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhaktyā samarpitaṁ tubhyaṁ gṛhāṇa ācamanīyakam",
+    "start": 489.68,
+    "end": 494.55,
+    "matchFraction": 0.977,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "40",
+    "sourceId": "puja"
+  },
+  {
+    "text": "tasmād virāḍ ajāyata virājo adhi puruṣaḥ",
+    "start": 494.56,
+    "end": 499.749,
+    "matchFraction": 0.886,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "40",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sajāto atyaricyata paścād bhūmim atho puraḥ",
+    "start": 499.759,
+    "end": 504.72,
+    "matchFraction": 0.842,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "40",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ācamanīyaṁ samarpayāmi",
+    "start": 506.16,
+    "end": 510.16,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "40",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kamalabhavanajāye koṭisūryaprakāśe",
+    "start": 521.12,
+    "end": 525.12,
+    "matchFraction": 0.909,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "41",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śivadaśucivilāse komale hārayukte",
+    "start": 525.12,
+    "end": 529.91,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "41",
+    "sourceId": "puja"
+  },
+  {
+    "text": "dadhimadhughṛtayuktaṁ svarṇapātrasthitaṁ yaḥ",
+    "start": 529.92,
+    "end": 533.91,
+    "matchFraction": 0.721,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "41",
+    "sourceId": "puja"
+  },
+  {
+    "text": "suśri madhuparko’yaṁ gṛhyatāṁ vedavedye",
+    "start": 521.12,
+    "end": 539.04,
+    "matchFraction": 0.639,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "41",
+    "sourceId": "puja"
+  },
+  {
+    "text": "madhuparkaṁ samarpayāmi",
+    "start": 537.519,
+    "end": 539.04,
+    "matchFraction": 0.909,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "41",
+    "sourceId": "puja"
+  },
+  {
+    "text": "madhuparkārthe akṣatān samarpayāmi",
+    "start": 543.04,
+    "end": 547.44,
+    "matchFraction": 0.688,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "41",
+    "sourceId": "puja"
+  },
+  {
+    "text": "dadhi kṣīra ghṛtaṁ śarkarā madhusaṁyutaṁ",
+    "start": 555.36,
+    "end": 558.87,
+    "matchFraction": 0.703,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "42",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pañcāmṛtasnānam idaṁ śrī kuruṣva sureśvari",
+    "start": 558.88,
+    "end": 562.0,
+    "matchFraction": 0.769,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "42",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pañcāmṛtasnānaṁ samarpayāmi",
+    "start": 562.0,
+    "end": 564.71,
+    "matchFraction": 0.963,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "42",
+    "sourceId": "puja"
+  },
+  {
+    "text": "suvarṇakalaśānītaṁ nānāgandhasuvāsitam",
+    "start": 576.24,
+    "end": 582.47,
+    "matchFraction": 0.838,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "43",
+    "sourceId": "puja"
+  },
+  {
+    "text": "gandhodaka snānam idaṁ śrī kuruṣva sureśvari",
+    "start": 580.32,
+    "end": 584.63,
+    "matchFraction": 0.641,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "43",
+    "sourceId": "puja"
+  },
+  {
+    "text": "yatpuruṣeṇa haviṣā devā yajñam atanvata",
+    "start": 584.64,
+    "end": 589.44,
+    "matchFraction": 0.743,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "43",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vasanto asyāsīdājyaṁ grīṣma idhmaḥ śaraddhaviḥ",
+    "start": 589.44,
+    "end": 594.88,
+    "matchFraction": 0.786,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "43",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śuddhodaka snānaṁ samarpayāmi",
+    "start": 595.68,
+    "end": 598.399,
+    "matchFraction": 0.963,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "43",
+    "sourceId": "puja"
+  },
+  {
+    "text": "snānānantara ācamanīyaṁ samarpayāmi",
+    "start": 603.12,
+    "end": 607.36,
+    "matchFraction": 0.97,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "43",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śuklavastradvayaṁ",
+    "start": 610.0,
+    "end": 612.0,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "44",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śuklavastradvayaṁ devi amalaṁ kuṭilālake",
+    "start": 619.2,
+    "end": 623.6,
+    "matchFraction": 0.865,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "44",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhaktyā samarpitaṁ vāṇi brahmāṇi pratigṛhyatām",
+    "start": 623.6,
+    "end": 628.72,
+    "matchFraction": 0.814,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "44",
+    "sourceId": "puja"
+  },
+  {
+    "text": "taṁ yajñaṁ barhiṣi praukṣan puruṣaṁ jātam agrataḥ",
+    "start": 627.6,
+    "end": 633.99,
+    "matchFraction": 0.791,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "44",
+    "sourceId": "puja"
+  },
+  {
+    "text": "tena devā ayajanta sādhyā ṛṣayaśca ye",
+    "start": 631.44,
+    "end": 637.68,
+    "matchFraction": 0.727,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "44",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vastrayugmaṁ samarpayāmi",
+    "start": 637.68,
+    "end": 640.949,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "44",
+    "sourceId": "puja"
+  },
+  {
+    "text": "saptabrahmaraṇe devi saptaśāstrakṛtālaye",
+    "start": 644.24,
+    "end": 649.35,
+    "matchFraction": 0.974,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "45",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kaṇṭhasūtraṁ gṛhāṇa tvam śeṣaśakrādipūjite",
+    "start": 649.36,
+    "end": 654.31,
+    "matchFraction": 0.925,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "45",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kaṇṭhasūtraṁ samarpayāmi",
+    "start": 654.32,
+    "end": 656.87,
+    "matchFraction": 0.957,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "45",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kaṭaka mukuṭahāraiḥ nūpurair aṅgadādyaiḥ",
+    "start": 657.839,
+    "end": 663.269,
+    "matchFraction": 0.838,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "46",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vividhamanisaṁyuktair mekhalāmuktahāraiḥ",
+    "start": 663.279,
+    "end": 667.03,
+    "matchFraction": 0.872,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "46",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kamalavanavilāse kāmade tvam gṛhāṇa",
+    "start": 667.04,
+    "end": 671.04,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "46",
+    "sourceId": "puja"
+  },
+  {
+    "text": "prakaṭitakaruṇārte bhūriśobhūṣaṇāni",
+    "start": 671.04,
+    "end": 675.829,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "46",
+    "sourceId": "puja"
+  },
+  {
+    "text": "tasmādyajñātsarvahutaḥ sambhṛtaṁ pṛṣadājyaṁ",
+    "start": 675.839,
+    "end": 682.64,
+    "matchFraction": 0.791,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "46",
+    "sourceId": "puja"
+  },
+  {
+    "text": "paśūn tāṁś cakre vāyavyān āraṇyān grāmyāśca yē",
+    "start": 682.64,
+    "end": 691.36,
+    "matchFraction": 0.85,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "46",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ābharaṇāni samarpayāmi",
+    "start": 690.24,
+    "end": 692.949,
+    "matchFraction": 0.857,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "46",
+    "sourceId": "puja"
+  },
+  {
+    "text": "candanāgarukastūrī karpūrādyaiḥ saṁyutam",
+    "start": 697.76,
+    "end": 703.11,
+    "matchFraction": 0.895,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "47",
+    "sourceId": "puja"
+  },
+  {
+    "text": "gandhaṁ gṛhāṇa varade vidhipatni namo’stute",
+    "start": 703.12,
+    "end": 707.43,
+    "matchFraction": 0.923,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "47",
+    "sourceId": "puja"
+  },
+  {
+    "text": "tasmādyajñātsarvahutaḥ ṛcaḥ sāmāni jajñire",
+    "start": 707.44,
+    "end": 714.56,
+    "matchFraction": 0.925,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "47",
+    "sourceId": "puja"
+  },
+  {
+    "text": "chandāṁsi jajñire tasmād yajus tasmādajāyata",
+    "start": 714.56,
+    "end": 720.87,
+    "matchFraction": 0.85,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "47",
+    "sourceId": "puja"
+  },
+  {
+    "text": "gandhān samarpayāmi",
+    "start": 720.88,
+    "end": 722.64,
+    "matchFraction": 0.889,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "47",
+    "sourceId": "puja"
+  },
+  {
+    "text": "akṣatān dhavalān divyān śālitaṇḍulamiśritān",
+    "start": 729.04,
+    "end": 734.0,
+    "matchFraction": 0.9,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "48",
+    "sourceId": "puja"
+  },
+  {
+    "text": "gṛhāṇa varade devi brahmapatni śubhākṣatān",
+    "start": 734.0,
+    "end": 738.399,
+    "matchFraction": 0.872,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "48",
+    "sourceId": "puja"
+  },
+  {
+    "text": "akṣatān samarpayāmi",
+    "start": 738.399,
+    "end": 740.0,
+    "matchFraction": 0.667,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "48",
+    "sourceId": "puja"
+  },
+  {
+    "text": "haridrā kuṅkumaṁ devi gandhacūrṇādikānapi",
+    "start": 747.36,
+    "end": 754.72,
+    "matchFraction": 0.921,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "49",
+    "sourceId": "puja"
+  },
+  {
+    "text": "dāsyāmi parayā bhaktyā brahmāṇi pratigṛhyatām",
+    "start": 754.72,
+    "end": 760.079,
+    "matchFraction": 0.905,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "49",
+    "sourceId": "puja"
+  },
+  {
+    "text": "tasmād aśvā ajāyanta ye ke cobhaya dataḥ",
+    "start": 760.079,
+    "end": 764.88,
+    "matchFraction": 0.912,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "49",
+    "sourceId": "puja"
+  },
+  {
+    "text": "gāvo ha jajñire tasmād tasmājjātā ajā avayaḥ",
+    "start": 764.88,
+    "end": 771.6,
+    "matchFraction": 0.789,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "49",
+    "sourceId": "puja"
+  },
+  {
+    "text": "haridrā cūrṇa kuṅkumān samarpayāmi",
+    "start": 771.6,
+    "end": 775.12,
+    "matchFraction": 0.968,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "49",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nandhyāvartādipuṣpaiśca kalhāraiḥ mallikādibhiḥ",
+    "start": 777.44,
+    "end": 783.12,
+    "matchFraction": 0.911,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "50",
+    "sourceId": "puja"
+  },
+  {
+    "text": "karavīraiḥ jāti kusumaiḥ mandāraiśca manoramaiḥ",
+    "start": 783.12,
+    "end": 788.639,
+    "matchFraction": 0.93,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "50",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nīlotpalaiśca kamalaiḥ tatkālatarusambhavaiḥ",
+    "start": 788.639,
+    "end": 793.76,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "50",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pūjayāmi supuṣpaiśca varade bhaktavatsale",
+    "start": 793.76,
+    "end": 798.16,
+    "matchFraction": 0.974,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "50",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nānāvidha puṣpāṇi samarpayāmi",
+    "start": 798.16,
+    "end": 801.509,
+    "matchFraction": 0.926,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "50",
+    "sourceId": "puja"
+  },
+  {
+    "text": "brahmāṇyai namaḥ pādau pūjayāmi",
+    "start": 805.839,
+    "end": 808.47,
+    "matchFraction": 0.893,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "jagaddhātryai namaḥ gulphau pūjayāmi",
+    "start": 808.48,
+    "end": 811.2,
+    "matchFraction": 0.818,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "jagadvatsalāyai namaḥ jaṅghe pūjayāmi",
+    "start": 811.2,
+    "end": 814.16,
+    "matchFraction": 0.794,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "jagatpūjyāyai namaḥ jānunī pūjayāmi",
+    "start": 814.16,
+    "end": 817.12,
+    "matchFraction": 0.906,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "cāruvilāsinyai namaḥ ūrū pūjayāmi",
+    "start": 817.12,
+    "end": 820.079,
+    "matchFraction": 0.833,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nārāyaṇapriyāyai namaḥ kaṭiṁ pūjayāmi",
+    "start": 820.079,
+    "end": 822.949,
+    "matchFraction": 0.912,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "janmahīnāyai namaḥ jaghanaṁ pūjayāmi",
+    "start": 822.959,
+    "end": 825.68,
+    "matchFraction": 0.879,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "gambhīranābhaye namaḥ nābhiṁ pūjayāmi",
+    "start": 825.68,
+    "end": 828.639,
+    "matchFraction": 0.912,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "garuḍaśeṣarudramātre namaḥ udaraṁ pūjayāmi",
+    "start": 828.639,
+    "end": 832.16,
+    "matchFraction": 0.974,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "lokamātre namaḥ stanau pūjayāmi",
+    "start": 832.16,
+    "end": 834.56,
+    "matchFraction": 0.929,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "viśālavakṣase namaḥ vakṣasthalaṁ pūjayāmi",
+    "start": 834.56,
+    "end": 837.839,
+    "matchFraction": 0.868,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "gānavicakṣaṇāyai namaḥ kaṇṭhaṁ pūjayāmi",
+    "start": 837.839,
+    "end": 841.189,
+    "matchFraction": 0.861,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "skandādidevapūjyāyai namaḥ skandhau pūjayāmi",
+    "start": 841.199,
+    "end": 845.03,
+    "matchFraction": 0.829,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "caturbhujāyai namaḥ bāhūn pūjayāmi",
+    "start": 845.04,
+    "end": 847.839,
+    "matchFraction": 0.871,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pustakadhāriṇyai namaḥ hanuṁ pūjayāmi",
+    "start": 847.839,
+    "end": 851.04,
+    "matchFraction": 0.912,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śrotriyabāndhavāyai namaḥ śrotre pūjayāmi",
+    "start": 851.04,
+    "end": 854.639,
+    "matchFraction": 0.868,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sarvavedoddhāriṇyai namaḥ vaktraṁ pūjayāmi",
+    "start": 854.639,
+    "end": 858.24,
+    "matchFraction": 0.897,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bimbasamānauṣṭhyai namaḥ oṣṭhau pūjayāmi",
+    "start": 858.24,
+    "end": 861.839,
+    "matchFraction": 0.784,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sunāsāyai namaḥ nāsikāṁ pūjayāmi",
+    "start": 861.839,
+    "end": 864.639,
+    "matchFraction": 0.897,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kamalacakṣuṣe namaḥ netre pūjayāmi",
+    "start": 864.639,
+    "end": 867.68,
+    "matchFraction": 0.871,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "tilakadhāriṇyai namaḥ phālaṁ pūjayāmi",
+    "start": 867.68,
+    "end": 870.71,
+    "matchFraction": 0.882,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "anekacandrakāntaye namaḥ keśān pūjayāmi",
+    "start": 870.72,
+    "end": 874.31,
+    "matchFraction": 0.861,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sarvābhīṣṭadātre namaḥ śiraḥ pūjayāmi",
+    "start": 874.32,
+    "end": 877.75,
+    "matchFraction": 0.941,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sarasvatyai namaḥ sarvāṅgaṁ pūjayāmi",
+    "start": 877.76,
+    "end": 881.67,
+    "matchFraction": 0.879,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "51",
+    "sourceId": "puja"
+  },
+  {
+    "text": "keśavāya namaḥ",
+    "start": 883.68,
+    "end": 884.71,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nārāyaṇāya namaḥ",
+    "start": 884.72,
+    "end": 886.079,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "mādhavāya namaḥ",
+    "start": 886.079,
+    "end": 887.279,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "govindāya namaḥ",
+    "start": 887.279,
+    "end": 888.55,
+    "matchFraction": 0.929,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "viṣṇave namaḥ",
+    "start": 888.56,
+    "end": 890.87,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "madhusūdanāya namaḥ",
+    "start": 890.88,
+    "end": 892.399,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "trivikramāya namaḥ",
+    "start": 892.399,
+    "end": 893.68,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vāmanāya namaḥ",
+    "start": 893.68,
+    "end": 894.88,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śrīdharāya namaḥ",
+    "start": 894.88,
+    "end": 895.92,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "hṛṣīkeśāya namaḥ",
+    "start": 895.92,
+    "end": 897.199,
+    "matchFraction": 0.938,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "padmanābhāya namaḥ",
+    "start": 897.199,
+    "end": 898.639,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "dāmodarāya namaḥ",
+    "start": 898.639,
+    "end": 899.92,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "saṅkarṣaṇāya namaḥ",
+    "start": 899.92,
+    "end": 901.36,
+    "matchFraction": 0.941,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vāsudevāya namaḥ",
+    "start": 901.36,
+    "end": 902.639,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pradyumnāya namaḥ",
+    "start": 902.639,
+    "end": 904.0,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "aniruddhāya namaḥ",
+    "start": 904.0,
+    "end": 905.189,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "puruṣottamāya namaḥ",
+    "start": 905.199,
+    "end": 906.56,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "adhokṣajāya namaḥ",
+    "start": 906.56,
+    "end": 908.0,
+    "matchFraction": 0.938,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nārasimhāya namaḥ",
+    "start": 908.0,
+    "end": 909.36,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "acyutāya namaḥ",
+    "start": 909.36,
+    "end": 910.56,
+    "matchFraction": 0.846,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "janārdanāya namaḥ",
+    "start": 910.56,
+    "end": 911.92,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "upendrāya namaḥ",
+    "start": 911.92,
+    "end": 913.279,
+    "matchFraction": 0.929,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "haraye namaḥ",
+    "start": 913.279,
+    "end": 914.48,
+    "matchFraction": 0.909,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śrīkṛṣṇāya namaḥ",
+    "start": 914.48,
+    "end": 915.6,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "matsyāya namaḥ",
+    "start": 915.6,
+    "end": 916.72,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kūrmāya namaḥ",
+    "start": 916.72,
+    "end": 917.839,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "varāhāya namaḥ",
+    "start": 917.839,
+    "end": 919.04,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nārasimhāya namaḥ",
+    "start": 919.04,
+    "end": 920.55,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vāmanāya namaḥ",
+    "start": 920.56,
+    "end": 921.68,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhārgavāya namaḥ",
+    "start": 921.68,
+    "end": 923.12,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "rāmāya namaḥ",
+    "start": 923.12,
+    "end": 923.99,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kṛṣṇāya namaḥ",
+    "start": 924.0,
+    "end": 925.279,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bauddhāya namaḥ",
+    "start": 925.279,
+    "end": 926.48,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kalkine namaḥ",
+    "start": 926.48,
+    "end": 927.91,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "matsyādi anantāvatāra rūpātmaka śrī vedavyāsāya namaḥ",
+    "start": 927.92,
+    "end": 935.269,
+    "matchFraction": 0.917,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "52",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kapilāya namaḥ",
+    "start": 935.279,
+    "end": 937.99,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kapilāya namaḥ",
+    "start": 938.0,
+    "end": 939.519,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "dattātreyāya namaḥ",
+    "start": 939.519,
+    "end": 941.12,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "hayagrīvāya namaḥ",
+    "start": 941.12,
+    "end": 942.8,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "rāmāya namaḥ",
+    "start": 942.8,
+    "end": 943.92,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kṛṣṇāya namaḥ",
+    "start": 943.92,
+    "end": 945.12,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "paraśurāmāya namaḥ",
+    "start": 945.12,
+    "end": 946.71,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nārasimhāya namaḥ",
+    "start": 946.72,
+    "end": 948.24,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vedavyāsāya namaḥ",
+    "start": 948.24,
+    "end": 950.079,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śrīnārāyaṇāya namaḥ",
+    "start": 950.079,
+    "end": 951.759,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "mahālakṣmyai namaḥ",
+    "start": 951.759,
+    "end": 953.199,
+    "matchFraction": 0.882,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhūdevyai namaḥ",
+    "start": 953.199,
+    "end": 954.79,
+    "matchFraction": 0.857,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "durgāyai namaḥ",
+    "start": 954.8,
+    "end": 956.16,
+    "matchFraction": 0.846,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "hanumate namaḥ",
+    "start": 956.16,
+    "end": 957.68,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhāratyai namaḥ",
+    "start": 957.68,
+    "end": 958.87,
+    "matchFraction": 0.786,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sarasvatyai namaḥ",
+    "start": 958.88,
+    "end": 960.399,
+    "matchFraction": 0.875,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "brahmaṇe namaḥ",
+    "start": 960.399,
+    "end": 961.6,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śeṣāya namaḥ",
+    "start": 961.6,
+    "end": 963.03,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "rudrāya namaḥ",
+    "start": 963.04,
+    "end": 964.24,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pārvatyai namaḥ",
+    "start": 964.24,
+    "end": 965.68,
+    "matchFraction": 0.857,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vināyakāya namaḥ",
+    "start": 965.68,
+    "end": 967.35,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ṛṣibhyo namaḥ",
+    "start": 967.36,
+    "end": 970.79,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ṛṣibhyo namaḥ",
+    "start": 970.8,
+    "end": 976.949,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ṛṣibhyo namaḥ",
+    "start": 976.959,
+    "end": 979.12,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "praṇavāya namaḥ",
+    "start": 979.12,
+    "end": 982.389,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kāśyapāya namaḥ",
+    "start": 982.399,
+    "end": 984.0,
+    "matchFraction": 0.929,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kāśyapādi ṛṣigaṇebhyo namaḥ",
+    "start": 984.0,
+    "end": 988.629,
+    "matchFraction": 0.962,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sūktābhimāni devatābhyo namaḥ",
+    "start": 988.639,
+    "end": 994.15,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sakala ṭippaṇī bhāṣyakāra devatābhyo namaḥ",
+    "start": 994.16,
+    "end": 998.87,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ānandatīrtha gurubhyo namaḥ",
+    "start": 998.88,
+    "end": 1000.48,
+    "matchFraction": 0.96,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "jayatīrtha gurubhyo namaḥ",
+    "start": 1000.48,
+    "end": 1002.16,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śrīpādarāja gurubhyo namaḥ",
+    "start": 1002.16,
+    "end": 1003.6,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vyāsarāja gurubhyo namaḥ",
+    "start": 1003.6,
+    "end": 1005.6,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vādirāja gurubhyo namaḥ",
+    "start": 1005.6,
+    "end": 1006.949,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vijayendratīrtha gurubhyo namaḥ",
+    "start": 1006.959,
+    "end": 1008.56,
+    "matchFraction": 0.931,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "raghūttamatīrtha gurubhyo namaḥ",
+    "start": 1008.56,
+    "end": 1010.24,
+    "matchFraction": 0.897,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "rāghavendratīrtha gurubhyo namaḥ",
+    "start": 1010.24,
+    "end": 1012.32,
+    "matchFraction": 0.967,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "purandaradāsa gurubhyo namaḥ",
+    "start": 1012.32,
+    "end": 1014.23,
+    "matchFraction": 0.962,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kanakadāsa gurubhyo namaḥ",
+    "start": 1014.24,
+    "end": 1017.749,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vijayadāsa gurubhyo namaḥ",
+    "start": 1017.759,
+    "end": 1019.6,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "gopāladāsa gurubhyo namaḥ",
+    "start": 1019.6,
+    "end": 1021.12,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "jagannāthadāsa gurubhyo namaḥ",
+    "start": 1021.12,
+    "end": 1022.56,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sakala śāstrābhimāni akṣarābhimāni devatābhyo namaḥ",
+    "start": 1022.56,
+    "end": 1026.16,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sarasvatyai namaḥ vedavyāsāya namaḥ",
+    "start": 1026.16,
+    "end": 1028.48,
+    "matchFraction": 0.906,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nānāvidha parimala patra puṣpārcanaṁ samarpayāmi",
+    "start": 1028.48,
+    "end": 1032.72,
+    "matchFraction": 0.932,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "53",
+    "sourceId": "puja"
+  },
+  {
+    "text": "oṁ",
+    "start": 1044.88,
+    "end": 1047.909,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "54",
+    "sourceId": "puja"
+  },
+  {
+    "text": "daśāṅgaṁ guggulopetaṁ sugandhaṁ ca manoharam",
+    "start": 1047.919,
+    "end": 1052.0,
+    "matchFraction": 0.75,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "54",
+    "sourceId": "puja"
+  },
+  {
+    "text": "dhūpaṁ gṛhāṇa kalyāṇi bhaktiṁ tvayi acalāṁ kuru",
+    "start": 1052.0,
+    "end": 1056.47,
+    "matchFraction": 0.857,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "54",
+    "sourceId": "puja"
+  },
+  {
+    "text": "yatpuruṣaṁ vyadadhuḥ katidhā vyakalpayan",
+    "start": 1044.88,
+    "end": 1067.44,
+    "matchFraction": 0.541,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "54",
+    "sourceId": "puja"
+  },
+  {
+    "text": "mukhaṁ kimasya kau bāhū kāvūrū pādā ucyete",
+    "start": 1058.16,
+    "end": 1064.71,
+    "matchFraction": 0.667,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "54",
+    "sourceId": "puja"
+  },
+  {
+    "text": "dhūpamāghrāpayāmi",
+    "start": 1064.72,
+    "end": 1067.43,
+    "matchFraction": 0.941,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "54",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ghṛtāktavartitrayaiḥ dīpitaṁ dīpam ambike",
+    "start": 1080.64,
+    "end": 1108.32,
+    "matchFraction": 0.564,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "55",
+    "sourceId": "puja"
+  },
+  {
+    "text": "gṛhāṇa acintyarūpe tvam kamalāsanavallabhe",
+    "start": 1085.84,
+    "end": 1088.71,
+    "matchFraction": 0.675,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "55",
+    "sourceId": "puja"
+  },
+  {
+    "text": "brāhmaṇo’sya mukhamāsīd bāhū rājanyaḥ kṛtaḥ",
+    "start": 1088.72,
+    "end": 1094.07,
+    "matchFraction": 0.846,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "55",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ūrū tadasya yadvaiśyaḥ",
+    "start": 1094.08,
+    "end": 1099.99,
+    "matchFraction": 0.95,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "55",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ūrū tadasya yadvaiśyaḥ padbhyāṁ śūdro ajāyata",
+    "start": 1100.0,
+    "end": 1104.799,
+    "matchFraction": 0.75,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "55",
+    "sourceId": "puja"
+  },
+  {
+    "text": "dīpaṁ darśayāmi",
+    "start": 1104.799,
+    "end": 1108.31,
+    "matchFraction": 0.857,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "55",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhūrbhuvassuvaḥ",
+    "start": 1124.4,
+    "end": 1125.52,
+    "matchFraction": 0.6,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "56",
+    "sourceId": "puja"
+  },
+  {
+    "text": "satyaṁ tvartena pariṣiñcāmi",
+    "start": 1126.559,
+    "end": 1128.24,
+    "matchFraction": 0.6,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "56",
+    "sourceId": "puja"
+  },
+  {
+    "text": "amṛtopastaraṇamasi svāhā",
+    "start": 1131.52,
+    "end": 1133.919,
+    "matchFraction": 0.833,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "56",
+    "sourceId": "puja"
+  },
+  {
+    "text": "prāṇāya svāhā apānāya svāhā vyānāya svāhā",
+    "start": 1135.2,
+    "end": 1137.919,
+    "matchFraction": 0.722,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "56",
+    "sourceId": "puja"
+  },
+  {
+    "text": "udānāya svāhā samānāya svāhā brahmaṇe svāhā",
+    "start": 1137.919,
+    "end": 1143.83,
+    "matchFraction": 0.816,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "56",
+    "sourceId": "puja"
+  },
+  {
+    "text": "kadalī panasa āmrāṇāṁ supakvāni phalāni ca",
+    "start": 1145.52,
+    "end": 1149.59,
+    "matchFraction": 0.892,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "57",
+    "sourceId": "puja"
+  },
+  {
+    "text": "dadhi kṣīra ghṛtādīni kandamūlaphalāni ca",
+    "start": 1149.6,
+    "end": 1153.19,
+    "matchFraction": 0.789,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "57",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pañcakhādyaṁ ca susvādu śītalodakam eva ca",
+    "start": 1153.2,
+    "end": 1157.43,
+    "matchFraction": 0.919,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "57",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhakṣyabhojyasamāyuktaṁ naivedyaṁ pratigṛhyatām",
+    "start": 1157.44,
+    "end": 1161.75,
+    "matchFraction": 0.848,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "57",
+    "sourceId": "puja"
+  },
+  {
+    "text": "apūpān vividhān svādūn khādyān vai ghṛtapācitān",
+    "start": 1145.52,
+    "end": 1187.52,
+    "matchFraction": 0.605,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "57",
+    "sourceId": "puja"
+  },
+  {
+    "text": "ṣaḍvidha annāni sūpaṁ ca pāyasaṁ śarkarāyutam",
+    "start": 1166.48,
+    "end": 1175.59,
+    "matchFraction": 0.65,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "57",
+    "sourceId": "puja"
+  },
+  {
+    "text": "candramā manaso jātaḥ cakṣoḥ sūryo ajāyata",
+    "start": 1175.6,
+    "end": 1179.36,
+    "matchFraction": 0.784,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "57",
+    "sourceId": "puja"
+  },
+  {
+    "text": "mukhādindraścāgniśca prāṇādvāyurajāyata",
+    "start": 1179.36,
+    "end": 1183.51,
+    "matchFraction": 0.763,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "57",
+    "sourceId": "puja"
+  },
+  {
+    "text": "apūpādika annādi mahānaivedyaṁ nivedayāmi",
+    "start": 1183.52,
+    "end": 1187.52,
+    "matchFraction": 0.947,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "57",
+    "sourceId": "puja"
+  },
+  {
+    "text": "madhye amṛtapānīyaṁ samarpayāmi",
+    "start": 1192.64,
+    "end": 1196.4,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "58",
+    "sourceId": "puja"
+  },
+  {
+    "text": "amṛtāpidhānamasi svāhā",
+    "start": 1197.52,
+    "end": 1199.52,
+    "matchFraction": 0.727,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "58",
+    "sourceId": "puja"
+  },
+  {
+    "text": "hastaprakṣālanaṁ samarpayāmi mukhaprakṣālanaṁ samarpayāmi",
+    "start": 1199.52,
+    "end": 1202.88,
+    "matchFraction": 0.926,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "58",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pādaprakṣālanaṁ samarpayāmi ācamanīyaṁ samarpayāmi",
+    "start": 1202.88,
+    "end": 1207.43,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "58",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bījapūra āmra panasa kharjūrī kadalīphalaṁ",
+    "start": 1209.679,
+    "end": 1220.559,
+    "matchFraction": 0.579,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "59",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nārikelaphalaṁ divyaṁ gṛhāṇa abhīṣṭadāyini",
+    "start": 1212.72,
+    "end": 1217.19,
+    "matchFraction": 0.825,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "59",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nānāvidha phalāni mahānaivedyaṁ nivedayāmi",
+    "start": 1214.64,
+    "end": 1220.549,
+    "matchFraction": 0.667,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "59",
+    "sourceId": "puja"
+  },
+  {
+    "text": "tāmbūlaṁ ca sakarpūraṁ pūganāgadalairyutam",
+    "start": 1222.24,
+    "end": 1230.23,
+    "matchFraction": 0.641,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "60",
+    "sourceId": "puja"
+  },
+  {
+    "text": "gṛhāṇa devadeveśi tatsvarūpe namo’stute",
+    "start": 1227.44,
+    "end": 1233.83,
+    "matchFraction": 0.667,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "60",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pūgīphala tāmbūlaṁ samarpayāmi",
+    "start": 1222.24,
+    "end": 1236.24,
+    "matchFraction": 0.5,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "60",
+    "sourceId": "puja"
+  },
+  {
+    "text": "suvarṇaṁ sarvadhātūnāṁ śreṣṭhaṁ devi ca tatsadā",
+    "start": 1237.6,
+    "end": 1241.76,
+    "matchFraction": 0.929,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "61",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhaktyā dadāmi varade",
+    "start": 1241.76,
+    "end": 1244.71,
+    "matchFraction": 0.895,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "61",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhaktyā dadāmi varade svarṇavṛṣṭiṁ ca dehi me",
+    "start": 1244.72,
+    "end": 1248.549,
+    "matchFraction": 0.7,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "61",
+    "sourceId": "puja"
+  },
+  {
+    "text": "suvarṇapuṣpa dakṣiṇāṁ samarpayāmi",
+    "start": 1246.64,
+    "end": 1251.12,
+    "matchFraction": 0.935,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "61",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nīrājanaṁ gṛhāṇa tvam jagadānandadāyini",
+    "start": 1257.36,
+    "end": 1261.11,
+    "matchFraction": 0.838,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "62",
+    "sourceId": "puja"
+  },
+  {
+    "text": "jagattimiramārtāṇḍamaṇḍale te namo namaḥ",
+    "start": 1261.12,
+    "end": 1264.87,
+    "matchFraction": 0.946,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "62",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nābhyāsīdantarikṣaṁ śīrṣṇo dyauḥ samavartata",
+    "start": 1264.88,
+    "end": 1269.6,
+    "matchFraction": 0.854,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "62",
+    "sourceId": "puja"
+  },
+  {
+    "text": "padbhyāṁ bhūmirdiśaḥ śrotrāt tathā lokān akalpayan",
+    "start": 1269.6,
+    "end": 1275.36,
+    "matchFraction": 0.8,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "62",
+    "sourceId": "puja"
+  },
+  {
+    "text": "maṅgala nīrājanaṁ samarpayāmi",
+    "start": 1275.36,
+    "end": 1278.549,
+    "matchFraction": 0.963,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "62",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śārade sarvalokamātastvam āśritābhīṣṭadāyini",
+    "start": 1293.84,
+    "end": 1299.679,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "63",
+    "sourceId": "puja"
+  },
+  {
+    "text": "puṣpāñjaliṁ gṛhāṇemāṁ mayā bhaktyā samarpitām",
+    "start": 1299.679,
+    "end": 1304.71,
+    "matchFraction": 0.905,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "63",
+    "sourceId": "puja"
+  },
+  {
+    "text": "yāni kāni ca pāpāni janmāntarakṛtāni ca",
+    "start": 1312.0,
+    "end": 1316.23,
+    "matchFraction": 0.914,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "64",
+    "sourceId": "puja"
+  },
+  {
+    "text": "tāni tāni vinaśyanti pradakṣiṇa pade pade",
+    "start": 1316.24,
+    "end": 1320.24,
+    "matchFraction": 0.889,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "64",
+    "sourceId": "puja"
+  },
+  {
+    "text": "saptāsyāsan paridhayaḥ triḥsapta samidhaḥ kṛtāḥ",
+    "start": 1320.24,
+    "end": 1324.71,
+    "matchFraction": 0.705,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "64",
+    "sourceId": "puja"
+  },
+  {
+    "text": "devā yadyajñaṁ tanvānā abadhnan puruṣaṁ paśum",
+    "start": 1324.72,
+    "end": 1329.35,
+    "matchFraction": 0.9,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "64",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pāhi pāhi jagadvandye namaste bhaktavatsale",
+    "start": 1329.36,
+    "end": 1334.39,
+    "matchFraction": 0.897,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "64",
+    "sourceId": "puja"
+  },
+  {
+    "text": "namastubhyaṁ namastubhyaṁ namastubhyaṁ namo namaḥ",
+    "start": 1334.4,
+    "end": 1338.789,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "64",
+    "sourceId": "puja"
+  },
+  {
+    "text": "yajñena yajñam ayajanta devāḥ tāni dharmāṇi prathamānyāsan",
+    "start": 1338.799,
+    "end": 1344.71,
+    "matchFraction": 0.904,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "64",
+    "sourceId": "puja"
+  },
+  {
+    "text": "te ha nākaṁ mahimānaḥ sacante yatra pūrve sādhyāḥ santi devāḥ",
+    "start": 1344.72,
+    "end": 1352.24,
+    "matchFraction": 0.788,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "64",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pāśāṅkuśa",
+    "start": 1361.679,
+    "end": 1364.07,
+    "matchFraction": 0.889,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "pāśāṅkuśadharā vāṇī vīṇāpustakadhāriṇī",
+    "start": 1364.08,
+    "end": 1372.39,
+    "matchFraction": 0.917,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "mama vaktre vaset nityaṁ dugdhakundendunirmalā",
+    "start": 1372.4,
+    "end": 1380.23,
+    "matchFraction": 0.857,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "yathā na devi bhagavān brahmā lokapitāmahaḥ",
+    "start": 1380.24,
+    "end": 1386.47,
+    "matchFraction": 0.947,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "tvāṁ parityajya santiṣṭhet tathā bhava varapradā",
+    "start": 1386.48,
+    "end": 1392.23,
+    "matchFraction": 0.907,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vedāḥ śāstrāṇi sarvāṇi nṛtya gītādikaṁ ca yat",
+    "start": 1392.24,
+    "end": 1399.27,
+    "matchFraction": 0.925,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "na vihīnaṁ tvayā mātaḥ tathā me santu siddhayaḥ",
+    "start": 1399.28,
+    "end": 1404.95,
+    "matchFraction": 0.775,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "lakṣmīr medhā dharā puṣṭiḥ dhṛtiḥ tuṣṭiḥ prabhā matiḥ",
+    "start": 1404.96,
+    "end": 1411.84,
+    "matchFraction": 0.809,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "etābhiḥ pāhi tanubhiḥ aṣṭābhirmāṁ sarasvati",
+    "start": 1411.84,
+    "end": 1417.679,
+    "matchFraction": 0.846,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sarasvati namastubhyaṁ varade kāmarūpiṇi",
+    "start": 1417.679,
+    "end": 1422.39,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "vidyārambhaṁ kariṣyāmi siddhirbhavatu me sadā",
+    "start": 1422.4,
+    "end": 1427.11,
+    "matchFraction": 0.902,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "dorbhiryuktā caturbhiḥ sphaṭikamaṇimayīm akṣamālāṁ dadhānā",
+    "start": 1427.12,
+    "end": 1433.029,
+    "matchFraction": 0.815,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "hastenaikena padmaṁ sitamapi śukaṁ pustakaṁ cāpareṇa",
+    "start": 1433.039,
+    "end": 1443.51,
+    "matchFraction": 0.936,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "bhāsā kundenduśaṅkhasphaṭikamaṇinibhā bhāsamānā samānā",
+    "start": 1443.52,
+    "end": 1448.559,
+    "matchFraction": 0.784,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sā me vāgdevateyaṁ nivasatu vadane sarvadā suprasannā",
+    "start": 1448.559,
+    "end": 1453.52,
+    "matchFraction": 0.702,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "prārthanāṁ samarpayāmi",
+    "start": 1453.52,
+    "end": 1455.83,
+    "matchFraction": 0.952,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "65",
+    "sourceId": "puja"
+  },
+  {
+    "text": "yasya smṛtyā ca nāmoktyā tapaḥ pūjākriyādiṣu",
+    "start": 1464.799,
+    "end": 1489.039,
+    "matchFraction": 0.375,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "66",
+    "sourceId": "puja"
+  },
+  {
+    "text": "nyūnaṁ sampūrṇatāṁ yāti sadyo vande tamacyutam",
+    "start": 1464.799,
+    "end": 1489.039,
+    "matchFraction": 0.049,
+    "sharedPassage": true,
+    "preservedReconcilerCue": false,
+    "sectionId": "66",
+    "sourceId": "puja"
+  },
+  {
+    "text": "mantrahīnaṁ kriyāhīnaṁ bhaktihīnaṁ ramāpate",
+    "start": 1470.799,
+    "end": 1473.35,
+    "matchFraction": 0.9,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "66",
+    "sourceId": "puja"
+  },
+  {
+    "text": "yatpūjanaṁ mayā deva paripūrṇaṁ tadastu te",
+    "start": 1473.36,
+    "end": 1475.76,
+    "matchFraction": 0.865,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "66",
+    "sourceId": "puja"
+  },
+  {
+    "text": "anena navarātryāṁ śarad navarātri mahotsave ācarita sarasvatī pūjanena",
+    "start": 1475.76,
+    "end": 1482.88,
+    "matchFraction": 0.984,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "66",
+    "sourceId": "puja"
+  },
+  {
+    "text": "sarasvatyantargata bhagavān bhāratīramaṇa mukhyaprāṇāntargata śrī vyāsa paraśurāma prīyatāṁ",
+    "start": 1482.88,
+    "end": 1489.039,
+    "matchFraction": 0.94,
+    "sharedPassage": false,
+    "preservedReconcilerCue": false,
+    "sectionId": "66",
+    "sourceId": "puja"
+  },
+  {
+    "text": "śrīkṛṣṇārpaṇamastu",
+    "start": 1491.039,
+    "end": 1493.19,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "66",
+    "sourceId": "puja"
+  },
+  {
+    "text": "uttiṣṭha dēvi kalyāṇi gṛhītva pūjanaṃ mama |",
+    "start": 44.0,
+    "end": 49.35,
+    "matchFraction": 0.921,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "72",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "svasthānaṃ gaccha subhagē kāmān dēhi sarasvati ||",
+    "start": 49.36,
+    "end": 53.75,
+    "matchFraction": 0.951,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "72",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "yāntu dēvagaṇāḥ sarvē pūjāmādāya matkṛtām |",
+    "start": 53.76,
+    "end": 58.069,
+    "matchFraction": 0.842,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "72",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "iṣṭakāmyāṃśca dadyātaṃ punaḥ āgamanāya ca ||",
+    "start": 58.079,
+    "end": 61.76,
+    "matchFraction": 0.757,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "72",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "akṣarābhimāni dēvatā śakita sarasvatyantargata vēdavyāsaṃ gatāsthānaṃ pratiṣṭhāpayāmi.",
+    "start": 68.0,
+    "end": 73.92,
+    "matchFraction": 0.861,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "72",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "abhramaṃ bhaṅgarahitam ajaḍaṃ vimalaṃ sadā |",
+    "start": 128.8,
+    "end": 131.52,
+    "matchFraction": 0.816,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "73",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "ānandatīrthamatulaṃ bhajē tāpatrayāpaham ||",
+    "start": 131.52,
+    "end": 135.19,
+    "matchFraction": 0.789,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "73",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "na mādhava samō dēvō na ca madhvaḥ samō guruḥ |",
+    "start": 137.28,
+    "end": 140.64,
+    "matchFraction": 0.865,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "73",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "na tadvākya samaṃ śāstraṃ na ca tajña samaḥ pumān ||",
+    "start": 140.64,
+    "end": 145.92,
+    "matchFraction": 0.878,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "73",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "śami yuktaṃ jagannāthaṃ bhaktānāmabhayaṅkaram |",
+    "start": 162.64,
+    "end": 168.15,
+    "matchFraction": 0.81,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "74",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "arcayāmi tvāṃ sabīṣṭa vṛkṣamarcagēṣṭadaḥ punaḥ ||",
+    "start": 168.16,
+    "end": 175.99,
+    "matchFraction": 0.698,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "74",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "bhāratīramaṇa mukhyaprāṇāntargata śrīviṣṇu prēraṇayā śrīviṣṇu prītyarthaṃ śamīpūjāṃ kariṣyē.",
+    "start": 180.72,
+    "end": 188.879,
+    "matchFraction": 0.81,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "75",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "amaṅgalānāṃ śamanīṃ śamanīṃ duṣṭakṛtasya ca |",
+    "start": 191.84,
+    "end": 199.27,
+    "matchFraction": 0.925,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "76",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "duḥkhāpnu sanīṃ dhānyaṃ prāptayēhaṃ śamīṃ śubhām ||",
+    "start": 199.28,
+    "end": 206.239,
+    "matchFraction": 0.86,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "76",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "iti śami dhyānābhiḥ sampūjya.",
+    "start": 208.56,
+    "end": 212.48,
+    "matchFraction": 0.96,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "76",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "dharaṇi dhāriṇyārjuna bāṇānāṃ rāmasya prajñavādini |",
+    "start": 217.44,
+    "end": 229.03,
+    "matchFraction": 0.978,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "77",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "kariṣyāmāṇāṃ yātrāyāṃ yathākālaṃ sukhaṃ mayā |",
+    "start": 229.04,
+    "end": 236.799,
+    "matchFraction": 0.975,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "77",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "tatra nirvighnakartṛtvaṃ bhava śrīrāmapūjitē ||",
+    "start": 236.799,
+    "end": 243.36,
+    "matchFraction": 0.976,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "77",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "vijayō nāma kālōyaṃ sarvakāryārtha siddhitaḥ |",
+    "start": 284.08,
+    "end": 288.469,
+    "matchFraction": 0.85,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "78",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "dāna kōṭi guṇaṃ puṇyaṃ tadaiva daśamī dinē |",
+    "start": 288.479,
+    "end": 291.6,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "78",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "vijayadaśamī prōktā śāpapuṇyā jagatā naṇaṃ |",
+    "start": 291.6,
+    "end": 295.51,
+    "matchFraction": 0.895,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "78",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "dravyaiḥ sugandhibhiḥ taistaisadā manmūrtiṃ brāhmaṇānapi ||",
+    "start": 295.52,
+    "end": 301.28,
+    "matchFraction": 0.942,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "78",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "dāna kōṭi guṇaṃ puṇyaṃ.",
+    "start": 309.84,
+    "end": 311.28,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "79",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "vijayō nāma kālōyaṃ.",
+    "start": 372.08,
+    "end": 373.52,
+    "matchFraction": 0.765,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "80",
+    "sourceId": "visarjana"
+  },
+  {
+    "text": "śrīkṛṣṇārpaṇa.",
+    "start": 411.12,
+    "end": 412.16,
+    "matchFraction": 1.0,
+    "sharedPassage": false,
+    "preservedReconcilerCue": true,
+    "sectionId": "81",
+    "sourceId": "visarjana"
+  }
+]

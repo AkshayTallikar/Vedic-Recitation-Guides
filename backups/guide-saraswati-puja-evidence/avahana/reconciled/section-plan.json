@@ -1,0 +1,286 @@
+[
+  {
+    "id": "A01",
+    "title": "Welcome and the four nakshatra days",
+    "startSeconds": 0.56,
+    "endSeconds": 62.32,
+    "blockIds": [
+      "avahana-block-000",
+      "avahana-block-001",
+      "avahana-block-002",
+      "avahana-block-003",
+      "avahana-block-004"
+    ]
+  },
+  {
+    "id": "A02",
+    "title": "Preparing the books and deity pictures",
+    "startSeconds": 62.32,
+    "endSeconds": 123.92,
+    "blockIds": [
+      "avahana-block-005"
+    ]
+  },
+  {
+    "id": "A03",
+    "title": "Offerings vessels and seating",
+    "startSeconds": 123.92,
+    "endSeconds": 159.84,
+    "blockIds": [
+      "avahana-block-006"
+    ]
+  },
+  {
+    "id": "A04",
+    "title": "Achamana",
+    "startSeconds": 159.84,
+    "endSeconds": 183.76,
+    "blockIds": [
+      "avahana-block-007"
+    ]
+  },
+  {
+    "id": "A05",
+    "title": "Pranayama",
+    "startSeconds": 183.76,
+    "endSeconds": 208.159,
+    "blockIds": [
+      "avahana-block-008",
+      "avahana-block-009"
+    ]
+  },
+  {
+    "id": "A06",
+    "title": "Sankalpa",
+    "startSeconds": 208.159,
+    "endSeconds": 275.759,
+    "blockIds": [
+      "avahana-block-010",
+      "avahana-block-011"
+    ]
+  },
+  {
+    "id": "A07",
+    "title": "Kapila and Dattatreya",
+    "startSeconds": 275.759,
+    "endSeconds": 346.479,
+    "blockIds": [
+      "avahana-block-012",
+      "avahana-block-013"
+    ]
+  },
+  {
+    "id": "A08",
+    "title": "Hayagriva",
+    "startSeconds": 346.479,
+    "endSeconds": 381.6,
+    "blockIds": [
+      "avahana-block-014",
+      "avahana-block-015"
+    ]
+  },
+  {
+    "id": "A09",
+    "title": "Rama",
+    "startSeconds": 381.6,
+    "endSeconds": 403.84,
+    "blockIds": [
+      "avahana-block-016",
+      "avahana-block-017",
+      "avahana-block-018",
+      "avahana-block-019"
+    ]
+  },
+  {
+    "id": "A10",
+    "title": "Krishna",
+    "startSeconds": 403.84,
+    "endSeconds": 421.199,
+    "blockIds": [
+      "avahana-block-020",
+      "avahana-block-021"
+    ]
+  },
+  {
+    "id": "A11",
+    "title": "Parashurama",
+    "startSeconds": 421.199,
+    "endSeconds": 441.199,
+    "blockIds": [
+      "avahana-block-022",
+      "avahana-block-023"
+    ]
+  },
+  {
+    "id": "A12",
+    "title": "Lakshmi Narasimha",
+    "startSeconds": 441.199,
+    "endSeconds": 468.56,
+    "blockIds": [
+      "avahana-block-024",
+      "avahana-block-025"
+    ]
+  },
+  {
+    "id": "A13",
+    "title": "Vedavyasa",
+    "startSeconds": 468.56,
+    "endSeconds": 498.479,
+    "blockIds": [
+      "avahana-block-026",
+      "avahana-block-027"
+    ]
+  },
+  {
+    "id": "A14",
+    "title": "Narayana",
+    "startSeconds": 498.479,
+    "endSeconds": 541.68,
+    "blockIds": [
+      "avahana-block-028",
+      "avahana-block-029"
+    ]
+  },
+  {
+    "id": "A15",
+    "title": "Lakshmi",
+    "startSeconds": 541.68,
+    "endSeconds": 562.399,
+    "blockIds": [
+      "avahana-block-030",
+      "avahana-block-031"
+    ]
+  },
+  {
+    "id": "A16",
+    "title": "Bhu",
+    "startSeconds": 562.399,
+    "endSeconds": 584.48,
+    "blockIds": [
+      "avahana-block-032",
+      "avahana-block-033"
+    ]
+  },
+  {
+    "id": "A17",
+    "title": "Durga",
+    "startSeconds": 584.48,
+    "endSeconds": 604.56,
+    "blockIds": [
+      "avahana-block-034",
+      "avahana-block-035"
+    ]
+  },
+  {
+    "id": "A18",
+    "title": "Mukhyaprana",
+    "startSeconds": 604.56,
+    "endSeconds": 630.48,
+    "blockIds": [
+      "avahana-block-036",
+      "avahana-block-037"
+    ]
+  },
+  {
+    "id": "A19",
+    "title": "Saraswati and the attendant deities",
+    "startSeconds": 630.48,
+    "endSeconds": 720.0,
+    "blockIds": [
+      "avahana-block-038",
+      "avahana-block-039"
+    ]
+  },
+  {
+    "id": "A20",
+    "title": "Invocation in the scriptural books",
+    "startSeconds": 720.0,
+    "endSeconds": 763.92,
+    "blockIds": [
+      "avahana-block-040",
+      "avahana-block-041",
+      "avahana-block-042",
+      "avahana-block-043"
+    ]
+  },
+  {
+    "id": "A21",
+    "title": "Associated forms sages and teachers",
+    "startSeconds": 763.92,
+    "endSeconds": 839.76,
+    "blockIds": [
+      "avahana-block-044",
+      "avahana-block-045",
+      "avahana-block-046"
+    ]
+  },
+  {
+    "id": "A22",
+    "title": "Establishing the presence",
+    "startSeconds": 839.76,
+    "endSeconds": 895.04,
+    "blockIds": [
+      "avahana-block-047",
+      "avahana-block-048"
+    ]
+  },
+  {
+    "id": "A23",
+    "title": "Prayer for continued presence",
+    "startSeconds": 895.04,
+    "endSeconds": 940.399,
+    "blockIds": [
+      "avahana-block-049",
+      "avahana-block-050"
+    ]
+  },
+  {
+    "id": "A24",
+    "title": "Touching the books and the eight syllable mantra",
+    "startSeconds": 940.399,
+    "endSeconds": 949.6,
+    "blockIds": [
+      "avahana-block-051",
+      "avahana-block-052",
+      "avahana-block-053"
+    ]
+  },
+  {
+    "id": "A25",
+    "title": "Invocation positions and grace",
+    "startSeconds": 949.6,
+    "endSeconds": 962.48,
+    "blockIds": [
+      "avahana-block-054"
+    ]
+  },
+  {
+    "id": "A26",
+    "title": "Hymns offerings and arati",
+    "startSeconds": 962.48,
+    "endSeconds": 1005.12,
+    "blockIds": [
+      "avahana-block-055"
+    ]
+  },
+  {
+    "id": "A27",
+    "title": "Dedication",
+    "startSeconds": 1005.12,
+    "endSeconds": 1020.8,
+    "blockIds": [
+      "avahana-block-056",
+      "avahana-block-057",
+      "avahana-block-058"
+    ]
+  },
+  {
+    "id": "A28",
+    "title": "Evening worship and the next lesson",
+    "startSeconds": 1020.8,
+    "endSeconds": 1035.633208,
+    "blockIds": [
+      "avahana-block-059"
+    ]
+  }
+]

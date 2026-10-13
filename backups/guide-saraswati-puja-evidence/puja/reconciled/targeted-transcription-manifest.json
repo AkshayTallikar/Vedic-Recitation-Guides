@@ -1,0 +1,72 @@
+[
+  {
+    "id": "guru-open",
+    "startSeconds": 283,
+    "endSeconds": 335,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/guru-open-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/guru-open-transcript.json",
+      "characters": 610
+    }
+  },
+  {
+    "id": "madhuparka",
+    "startSeconds": 520,
+    "endSeconds": 545,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/madhuparka-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/madhuparka-transcript.json",
+      "characters": 182
+    }
+  },
+  {
+    "id": "deity-meditation",
+    "startSeconds": 358,
+    "endSeconds": 389,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/deity-meditation-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/deity-meditation-transcript.json",
+      "characters": 296
+    }
+  },
+  {
+    "id": "food-verse",
+    "startSeconds": 1143,
+    "endSeconds": 1177,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/food-verse-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/food-verse-transcript.json",
+      "characters": 287
+    }
+  },
+  {
+    "id": "prayers-open",
+    "startSeconds": 1360,
+    "endSeconds": 1427,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/prayers-open-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/prayers-open-transcript.json",
+      "characters": 466
+    }
+  },
+  {
+    "id": "prayers-four-arms",
+    "startSeconds": 1427,
+    "endSeconds": 1478,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/prayers-four-arms-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/prayers-four-arms-transcript.json",
+      "characters": 492
+    }
+  },
+  {
+    "id": "sankalpa-year",
+    "startSeconds": 149,
+    "endSeconds": 165,
+    "file": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/sankalpa-year-transcript.json",
+    "result": {
+      "output": "/Users/akshaytallikar/Vedic Recitation/work/saraswati-puja/puja/reconciled/sankalpa-year-transcript.json",
+      "characters": 160
+    }
+  }
+]
