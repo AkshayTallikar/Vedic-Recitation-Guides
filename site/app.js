@@ -22,6 +22,7 @@
   var seek = document.getElementById('seek');
   var tt = document.getElementById('tt');
   var speedsEl = document.getElementById('speeds');
+  var autoScrollBtn = document.getElementById('auto-scroll');
   var practiceBtn = document.getElementById('practice');
 
   // ---- helpers ----
@@ -209,6 +210,68 @@
   var practiceEnabled = false;
   var repetition = 1;
   var seeking = false;
+  var autoScrollEnabled = false;
+  var lastFollowedCue = null;
+  var followFrame = null;
+  var followScrollStarted = false;
+  try {
+    autoScrollEnabled = window.localStorage.getItem('vedic-auto-scroll') === 'true';
+  } catch (error) { /* The toggle still works when browser storage is unavailable. */ }
+
+  function syncAutoScroll() {
+    autoScrollBtn.textContent = 'Auto-scroll ' + (autoScrollEnabled ? 'On' : 'Off');
+    autoScrollBtn.classList.toggle('is-on', autoScrollEnabled);
+    autoScrollBtn.setAttribute('aria-pressed', autoScrollEnabled ? 'true' : 'false');
+    autoScrollBtn.title = 'Follow the highlighted verse while audio plays';
+  }
+  function stopAutoScroll() {
+    if (followFrame !== null) cancelAnimationFrame(followFrame);
+    followFrame = null;
+    if (followScrollStarted) window.scrollTo({ top: window.scrollY, behavior: 'instant' });
+    followScrollStarted = false;
+  }
+
+  function followRecitation(target) {
+    if (!autoScrollEnabled || audio.paused || seeking || !target || target === lastFollowedCue) return;
+    if (followFrame !== null) cancelAnimationFrame(followFrame);
+    followFrame = requestAnimationFrame(function () {
+      followFrame = null;
+      if (!autoScrollEnabled || audio.paused || seeking || !cards[current] || !cards[current].contains(target)) return;
+      var rect = target.getBoundingClientRect();
+      if (!rect.height) return; // A search can hide the currently playing step.
+      lastFollowedCue = target;
+      var top = 20;
+      var bottom = Math.min(window.innerHeight, player.getBoundingClientRect().top) - 20;
+      if (rect.top >= top && rect.bottom <= bottom) return;
+      // Align tall verses at the top; keep shorter verses comfortably in view.
+      var inset = top + Math.max(0, (bottom - top - rect.height) / 3);
+      var reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      followScrollStarted = !reducedMotion;
+      window.scrollTo({ top: window.scrollY + rect.top - inset, behavior: reducedMotion ? 'instant' : 'smooth' });
+    });
+  }
+
+  function updateRecitation() {
+    if (current < 0 || !cards[current]) return;
+    var card = cards[current];
+    var sourceTime = card.__sourceStart + audio.currentTime;
+    var cues = card.querySelectorAll('[data-cue-start]');
+    var target = null;
+    cues.forEach(function (span) {
+      var start = +span.dataset.cueStart, end = +span.dataset.cueEnd;
+      var active = sourceTime >= start && sourceTime < end;
+      span.classList.toggle('reciting', active);
+      // Shared passages can overlap. Follow the latest, most specific active cue.
+      if (active && (!target || start > +target.dataset.cueStart ||
+          (start === +target.dataset.cueStart && end < +target.dataset.cueEnd))) target = span;
+    });
+    // Older recordings highlight a whole step rather than individual lines.
+    followRecitation(cues.length ? target : card);
+  }
+  window.addEventListener('resize', function () {
+    lastFollowedCue = null;
+    updateRecitation();
+  });
 
   function practiceActive() {
     return guide && guide.practiceMode === 'repeat3' && practiceEnabled;
@@ -244,6 +307,8 @@
     audio.pause();
     audio.removeAttribute('src');
     current = -1;
+    stopAutoScroll();
+    lastFollowedCue = null;
     player.classList.remove('show');
 
     guide = GUIDES[gi];
@@ -280,6 +345,7 @@
   }
 
   function buildList() {
+    lastFollowedCue = null;
     list.innerHTML = '';
     cards = [];
     var lastGroup = '';
@@ -436,6 +502,9 @@
   function load(idx, autoplay) {
     if (idx < 0 || idx >= cards.length) return;
     if (current === idx) { toggle(); return; }
+    stopAutoScroll();
+    lastFollowedCue = null;
+    list.querySelectorAll('.reciting').forEach(function (span) { span.classList.remove('reciting'); });
     current = idx;
     repetition = 1;
     var c = cards[idx];
@@ -511,8 +580,31 @@
     setPlayerTitle();
   });
 
-  audio.addEventListener('play', syncBtns);
-  audio.addEventListener('pause', syncBtns);
+  autoScrollBtn.addEventListener('click', function () {
+    autoScrollEnabled = !autoScrollEnabled;
+    try {
+      window.localStorage.setItem('vedic-auto-scroll', String(autoScrollEnabled));
+    } catch (error) { /* Browser storage is optional. */ }
+    stopAutoScroll();
+    lastFollowedCue = null;
+    syncAutoScroll();
+    updateRecitation();
+  });
+
+  audio.addEventListener('play', function () {
+    syncBtns();
+    lastFollowedCue = null;
+    updateRecitation();
+  });
+  audio.addEventListener('pause', function () {
+    syncBtns();
+    stopAutoScroll();
+  });
+  audio.addEventListener('seeking', function () {
+    stopAutoScroll();
+    lastFollowedCue = null;
+  });
+  audio.addEventListener('seeked', updateRecitation);
   audio.addEventListener('ended', function () {
     if (practiceActive() && repetition < 3) {
       repetition++;
@@ -529,27 +621,27 @@
     if (seeking || !audio.duration) return;
     seek.value = (audio.currentTime / audio.duration) * 100;
     tt.textContent = fmt(audio.currentTime) + ' / ' + fmt(audio.duration);
-    if (current >= 0 && cards[current]) {
-      var sourceTime = cards[current].__sourceStart + audio.currentTime;
-      cards[current].querySelectorAll('[data-cue-start]').forEach(function (span) {
-        span.classList.toggle('reciting', sourceTime >= +span.dataset.cueStart && sourceTime < +span.dataset.cueEnd);
-      });
-    }
+    updateRecitation();
   });
-  seek.addEventListener('input', function () { seeking = true; });
+  seek.addEventListener('input', function () {
+    seeking = true;
+    stopAutoScroll();
+  });
   seek.addEventListener('change', function () {
     if (audio.duration) audio.currentTime = (seek.value / 100) * audio.duration;
     seeking = false;
   });
 
   document.addEventListener('keydown', function (e) {
-    if (e.target.tagName === 'INPUT') return;
+    if (e.target.closest('input, textarea, select, [contenteditable="true"]')) return;
+    if (e.code === 'Space' && e.target.closest('button')) return;
     if (e.code === 'Space' && current > -1) { e.preventDefault(); toggle(); }
     else if (e.code === 'ArrowRight' && e.altKey) load(current + 1);
     else if (e.code === 'ArrowLeft' && e.altKey) load(current - 1);
   });
 
   // ---- init ----
+  syncAutoScroll();
   var requestedGuide = new URLSearchParams(window.location.search).get('guide');
   var initialGuide = GUIDES.findIndex(function (g) { return g.key === requestedGuide; });
   selectGuide(initialGuide < 0 ? 0 : initialGuide);
