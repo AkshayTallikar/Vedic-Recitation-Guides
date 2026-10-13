@@ -1,5 +1,5 @@
 (function () {
-  var GUIDES = window.GUIDES || [];
+  var GUIDES = (window.GUIDES || []).filter(function (guide) { return !guide.archived; });
   if (!GUIDES.length) return;
 
   // ---- shared DOM ----
@@ -264,7 +264,7 @@
       t.classList.toggle('active', i === gi);
     });
     titleEl.textContent = guide.title;
-    document.title = guide.title + ' — Recitation Guide';
+    document.title = guide.title;
     subEl.textContent = guide.subtitle;
     creditEl.textContent = guide.sourceCredit;
     srcA.href = guide.source;

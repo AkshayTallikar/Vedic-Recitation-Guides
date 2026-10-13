@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Deva Pūjā Paddhati — Recitation Guide</title>
+<title>Vedic Recitation Guides</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;600&family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -333,7 +333,7 @@
 <header class="hero">
   <a class="home" href="../index.html">&larr; All guides</a><br>
   <div class="om">ॐ</div>
-  <h1 id="h-title">Deva Pūjā Paddhati</h1>
+  <h1 id="h-title">Deva Puja Paddhati</h1>
   <p class="sub" id="h-sub"></p>
   <p class="credit">Source: <a id="h-src" href="#" target="_blank" rel="noopener">YouTube</a> · <span id="h-credit"></span></p>
 </header>
@@ -46785,8 +46785,78 @@ window.ACHAR_RAHASYA_MAP = {
 
 </script>
 <script>
+// Display names and archive status live here, separate from preserved source text.
+// Titles use plain Roman spelling. Labels use Format (duration or count).
 (function () {
-  var GUIDES = window.GUIDES || [];
+  var catalog = {
+    achar: {
+      title: 'Deva Puja Paddhati', tabLabel: 'Detailed (56 min)',
+      subtitle: 'A detailed step by step guide in the Madhva tradition'
+    },
+    sct: {
+      title: 'Deva Puja Paddhati', tabLabel: 'Concise (35 min)',
+      subtitle: 'A concise chanted guide in the Madhva tradition'
+    },
+    nda: {
+      title: 'Deva Puja Paddhati', tabLabel: 'Sung (67 min)',
+      archived: true, archivedAt: '2026-10-12'
+    },
+    utm: {
+      title: 'Deva Puja Paddhati', tabLabel: 'Uttaradi Matha (99 steps)',
+      archived: true, archivedAt: '2026-10-12'
+    },
+    srisukta: {
+      title: 'Sri Sukta Lakshmi Puja', tabLabel: 'Puja (29 steps)',
+      subtitle: 'Lakshmi puja with each offering paired to its Sri Sukta verse'
+    },
+    rvsandhya: {
+      title: 'Rig Veda Sandhya Vandanam', tabLabel: 'Sandhya (28 steps)',
+      subtitle: 'Morning sandhya with numbered steps, Roman Sanskrit, source text and English directions'
+    },
+    harivayustuti: {
+      title: 'Hari Vayu Stuti', tabLabel: 'Stotra (43 verses)',
+      subtitle: 'Vayu Stuti by Trivikrama Panditacharya, preceded by Narasimha Nakha Stuti by Madhvacharya'
+    },
+    'varalakshmi-complete': {
+      title: 'Varada Mahalakshmi Vrata Puja', tabLabel: 'Vrata (42 steps)',
+      subtitle: 'Complete worship with Roman Sanskrit and full English translations of Kannada instructions'
+    },
+    'deva-pooja-four-part-complete': {
+      title: 'Deva Puja Paddhati', tabLabel: 'Complete (4 parts)',
+      subtitle: 'Complete four part teaching with Roman Sanskrit and full English translations of Kannada instructions'
+    },
+    panchasukta: {
+      title: 'Panchasukta', tabLabel: 'Practice (74 verses)',
+      subtitle: 'Five suktas with 74 verse practice clips'
+    },
+    'ganapati-pooja-complete': {
+      title: 'Ganapati Puja', tabLabel: 'Puja (24 steps)',
+      subtitle: 'Complete Ganapati worship with Roman Sanskrit and full English translations of Kannada instructions'
+    },
+    'anantapadmanabha-vrata-complete': {
+      title: 'Anantapadmanabha Vrata Puja', tabLabel: 'Vrata (57 min)',
+      subtitle: 'Complete Anantapadmanabha vrata with Roman Sanskrit, English instructions and the vrata story'
+    },
+    'jyeshtha-devi-puja': {
+      title: 'Jyeshtha Devi Puja', tabLabel: 'Booklet (30 practice clips)',
+      subtitle: 'Roman Sanskrit, English meanings and ritual directions from the 2026 Kannada booklet'
+    },
+    'navaratri-nanda-deepa': {
+      title: 'Navaratri Nanda Deepa Puja', tabLabel: 'Preparation and Puja (28 min)',
+      subtitle: 'Preparation, Roman Sanskrit, line and word meanings, contemplation and ritual actions'
+    }
+  };
+  (window.GUIDES || []).forEach(function (guide) {
+    var entry = catalog[guide.key];
+    if (!entry) return;
+    Object.keys(entry).forEach(function (field) { guide[field] = entry[field]; });
+  });
+})();
+
+</script>
+<script>
+(function () {
+  var GUIDES = (window.GUIDES || []).filter(function (guide) { return !guide.archived; });
   if (!GUIDES.length) return;
 
   // ---- shared DOM ----
@@ -47051,7 +47121,7 @@ window.ACHAR_RAHASYA_MAP = {
       t.classList.toggle('active', i === gi);
     });
     titleEl.textContent = guide.title;
-    document.title = guide.title + ' — Recitation Guide';
+    document.title = guide.title;
     subEl.textContent = guide.subtitle;
     creditEl.textContent = guide.sourceCredit;
     srcA.href = guide.source;
