@@ -79,9 +79,18 @@
             '<div>' + safe(block.english) + '</div></div>';
       var sourceText = block.sourceRoman || block.text;
       return content + (block.notes || block.uncertainty ? '<div class="reading-note">' + safe(block.notes || block.uncertainty) + '</div>' : '') +
-        '<details class="source-transcript"><summary>Recorded source · Roman text</summary>' +
+        '<details class="source-transcript"><summary>' + safe(guide.structuredSourceLabel || 'Recorded source · Roman text') + '</summary>' +
         '<p>' + safe(sourceText) + '</p>' +
-        (block.uncertainty ? '<p class="reading-note">' + safe(block.uncertainty) + '</p>' : '') + '</details>';
+        (block.uncertainty ? '<p class="reading-note">' + safe(block.uncertainty) + '</p>' : '') + '</details>' +
+        (guide.structuredOriginalLabel ? '<details class="source-transcript"><summary>' +
+          safe(guide.structuredOriginalLabel) + '</summary><p>' + safe(block.sourceOriginal) + '</p></details>' : '') +
+        (guide.showDisplayCorrections && block.corrections && block.corrections.length
+          ? '<details class="source-transcript display-corrections"><summary>Reviewed display readings</summary>' +
+            block.corrections.map(function (correction) {
+              return '<p>' + safe(correction.sourceRomanReading || correction.sourceReading) + ' → ' +
+                safe(correction.displayReading) + '. ' + safe(correction.reason) +
+                (correction.confidence === 'medium' ? ' Proposed reading; confirm with your paddhati teacher.' : '') + '</p>';
+            }).join('') + '</details>' : '');
     }).join('');
   }
 
